@@ -1,0 +1,7 @@
+OF LIFE AT SEA (RATIFICATION) [CAP. 314. 1
+CHAPTER 314
+INTERNATIONAL CONVENTION FOR THE
+SAFETY OF LIFE AT SEA (RATIFICATION) ACT
+To ratify the International Convention for the Safety of Life at Sea.
+(18th July, 1986)*
+Enacted by ACT XXV of 1986.
