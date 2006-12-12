@@ -1,0 +1,7 @@
+[CAP. 488. PROPERTY RIGHTS (REGULATION) 1
+CHAPTER 488
+ENFORCEMENT OF INTELLECTUAL PROPERTY
+RIGHTS (REGULATION) ACT
+To regulate the enforcement of intellectual property rights.
+12th December, 2006
+ACT XX of 2006.
