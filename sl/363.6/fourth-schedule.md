@@ -61,8 +61,7 @@ In this code the words listed below shall have the following meaning:
 Article 3 - General Principles
 The elected representatives shall hold office as established by law and shall at all times act as required by law.
 While performing their duties, the elected representatives should serve the interests of citizens and not the direct or indirect personal interest or private interest of individuals or groups of individuals with a view to obtain directly or indirectly personal benefits from them.
-Article 4 - Objectives for the execution of the mandate
-The elected representatives should perform their functions carefully, transparently, with integrity, honesty, fairness, conscientiously, and with fervour, and they shall be responsible for their own decisions.
+Article 4 - Objectives for the execution of the mandate The elected representatives should perform their functions carefully, transparently, with integrity, honesty, fairness, conscientiously, and with fervour, and they shall be responsible for their own decisions.
 Article 5 - Obstacles to the implementation of the mandate
 In the performance of their duties, elected representatives shall respect the power and prerogatives of other representatives, who were democratically elected, as well as all employees of Local Government, and also those in the public sector.
 The elected representatives shall not, in carrying out their functions encourage or assist any other political representative or any employee or public official to breach the principles set out in this Code.
@@ -80,8 +79,7 @@ The elected representatives shall not perform their functions or use the benefit
 Article 9 - Attendance and participation at Local Government meetings and contribution towards the fulfilment of the set objectives
 The elected representatives shall devote time and attention to the work of their Local Government as well as attend all Local Government meetings. If an elected representative cannot attend any of these meetings for a justified reason, he shall notify the Executive Secretary as soon as possible about his inability to attend.
 The elected representatives shall perform their duties wisely, impartially and conscientiously, and to the best of their abilities.
-Article 10 - Association
-The elected representatives shall avoid the danger of association with organizations whose goals are in conflict with those of the Local Government.
+Article 10 - Association The elected representatives shall avoid the danger of association with organizations whose goals are in conflict with those of the Local Government.
 The elected representatives shall refrain from conduct that could harm their reputation and the reputation of the office or other elected representatives, or do anything or associate themselves with organizations that can put them and the Local Government and / or the locality to shame.
 Article 11 - Conflict of interest
 The elected representatives shall refrain from any discussion or vote in any matter in which they have any direct or indirect personal interest.
