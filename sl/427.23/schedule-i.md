@@ -1,17 +1,14 @@
 ## SCHEDULE I
 ## Demonstra- tion test
-## Catalyst Type I
+## Type I
 ## Demon Compon- - ent stration
-## SCR OBD test Catalyst cycle (short ESC cycle)
-## CO2 approving emissions savings ((1-2) - (3-4) *5
+## OBD test Catalyst cycle (short ESC cycle)
+## CO2
+## emissions savings ((1-2) - (3-4) *5
+## Decision CO2 approving emissions the eco- savings innovation ((1-2) - (3-4) *5
 ## xxxx/201x
-## Decision CO2 approving emissions the eco- savings innovation ((1-2) (w2) - (3-4) *5
 ## Second row of
 ## seats (*)
-## Second row of seats (*)
-## Right-hand seat
-## Centre seat
-## Left-hand seat
 # schedule-i
 [Regulations 3, 6(3) and (4)]
 Complete list of information for the purpose of EC type-approval of vehicles,
