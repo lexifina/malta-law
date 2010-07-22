@@ -1,4 +1,10 @@
+## ''The undersigned certifies that these documents,
+## contain the particulars mentioned in Article 1 of
+## European Commission Decision 96/80/EEC''.
+## OF BREEDING ANIMALS OF THE BOVINE SPECIES
+## [S.L.437.23 2 AND THE RELATIVE PARTICULARS
 ## SCHEDULE
+## (*)
 # schedule
 Specimen Zootechnical Certificate
 for Intra-Community trade in ova of breeding animals of the bovine species
@@ -11,7 +17,7 @@ Signature ..................................................
 NAME IN CAPITAL LETTERS AND TITLE OF SIGNATORY
 .............................................................................................
 OF BREEDING ANIMALS OF THE BOVINE SPECIES
-[S.L.437.23 4 AND THE RELATIVE PARTICULARS
+[S.L.437.23 AND THE RELATIVE PARTICULARS 3
 ZOOTECHNICAL CERTIFICATE FOR OVA
 B. Particulars of ova 1. Ova Identification System (colour, 2. Identification of container number, etc) 3. Origin of ova (address of ova collection centre)
 4. Destination of ova (name and address of consignee)
