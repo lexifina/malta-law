@@ -1,2 +1,2 @@
-[S.L.Const.03 DISCIPLINARY 1
+[S.L.Const.03 DISCIPLINARY
 Public Service Commission Disciplinary Regulations
