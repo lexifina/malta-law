@@ -1,6 +1,7 @@
 ## SCHEDULE I
-## (1) Delete as appropriate. (2) Or other appropriate method approved in accordance with Community legislation, only necessary for cattle, sheep and goats.
-## (3) If necessary use additional paper.
+## (1)
+## (2) for cattle, sheep and goats.
+## (3)
 # schedule-i
 PEDIGREE AND ZOOTECHNICAL CERTIFICATE FOR THE IMPORTATION OF SEMEN FROM PURE-BREED BREEDING ANIMALS OF THE BOVINE SPECIES; PURE-BRED BREEDING PIGS; PURE-BRED BREEDING SHEEP AND GOATS WHICH HAVE NOT UNDERGONE PERFORMANCE TEST AND
 GENETIC VALUE ASSESSMENT
