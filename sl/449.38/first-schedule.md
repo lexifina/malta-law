@@ -16,13 +16,11 @@ in sealed whole combs or sections of such combs;
 Honey obtained by centrifuging decapped broodless combs;
 (vii) pressed honey Honey obtained by pressing broodless combs with or without the
 application of moderate heat not exceeding 45ºC;
-(viii) Repealed by Legal Notice 73 of 2026.
+(viii) filtered honey Honey obtained by removing foreign inorganic or organic matter in such a way as to result in the significant removal of pollen.
 3. Baker's honey
 Honey which is:
 (a) suitable for industrial uses or as an ingredient in other foodstuffs which are then processed and
 (b) may:
 - have a foreign taste or odour, or
 - have begun to ferment or have fermented, or
-- have been overheated, or - have been obtained by removing foreign inorganic or organic matter
-in such a way as to result in the significant removal of pollen.
-- Amended by: L.N. 73 of 2026.
+- have been overheated.
