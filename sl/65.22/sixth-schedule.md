@@ -1,11 +1,6 @@
 ## SIXTH SCHEDULE
-## (if any):
 ## MEMU
-## 5.
-## 6.
 ## 13.Extensions of validity:
-## Validity extended until
-## Note:
 # sixth-schedule
 (Regulation 23)
 CERTIFICATE OF APPROVAL FOR VEHICLES CARRYING
