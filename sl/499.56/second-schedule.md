@@ -1,5 +1,4 @@
 ## SECOND SCHEDULE
-## (3) (4) (5)
 # second-schedule
 (Regulation 11)
 PART 1
