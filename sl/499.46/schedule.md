@@ -1,6 +1,6 @@
 ## SCHEDULE
 # schedule
-(regulation 2)
+(Regulation 2)
 TARIFF OF FARES
-Children under No charge 3 years Children aged 3 €5.00 to 10 years Persons aged 11 €10.00 years and over Persons with No charge disability
+Children under 3 years ....................................... No charge Persons with special needs ................................. No charge Children between 3 to 10 years ........................... €3.49 Persons between 10 to 65 years .......................... €6.99 Persons over 65 years ......................................... €3.49
 - Amended by: L.N. 424 of 2007.
