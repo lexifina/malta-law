@@ -4,7 +4,6 @@
 Austria
 Belgium
 Bulgaria
-Croatia
 Cyprus
 Czech Republic
 Denmark
@@ -28,3 +27,6 @@ Spain
 Sweden
 The Netherlands (except for Antilles or Aruba)
 United Kingdom
+- Amended by: L.N. 289 of 2005.
+- Substituted by: L.N. 224 of 2006.
+- Amended by: L.N. 72 of 2007.
