@@ -1,5 +1,4 @@
 ## SCHEDULE I
-## (1) Obtained in conformity with Decision 90/256/EEC.
 # schedule-i
 SPECIMEN ZOOTECHNICAL CERTIFICATE
 FOR PURE-BRED BREEDING SHEEP AND GOATS
