@@ -1,6 +1,5 @@
 ## FIRST SCHEDULE
-## Title to Registration and Additional Qualification
-## .........................
+## Title to Registration and Additional
 # first-schedule
 (Standing Order 39)
 FORM OF REGISTERS
