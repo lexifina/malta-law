@@ -1,5 +1,4 @@
 ## SECOND SCHEDULE
-## *Give these addresses in full.
 # second-schedule
 (Standing Order 41)
 FORM OF APPLICATION FOR REGISTRATION
