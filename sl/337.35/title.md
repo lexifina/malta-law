@@ -1,0 +1,5 @@
+SUBSIDIARY LEGISLATION 337.35
+DRAWBACK ON EXPORTED CIGARS ORDER
+11th November, 1977
+LEGAL NOTICE 141 of 1977, as amended by Legal Notice 424 of 2007.
+Revoked by Legal Notice 471 of 2012.
