@@ -1,0 +1,5 @@
+SUBSIDIARY LEGISLATION 452.09
+PROCEDURE OF WAGES COUNCILS
+REGULATIONS
+13th January, 1953
+GOVERNMENT NOTICE 385 of 1953, as amended by Government Notices 209 and 552 of 1955; Emergency Ordinance VI of 1958; and Ordinances XVII of 1961 and XXV of 1962.
