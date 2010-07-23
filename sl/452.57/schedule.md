@@ -1,0 +1,142 @@
+## SCHEDULE
+## Interpretation.
+## Hours of work.
+## Minimum wages of whole-time employees.
+## Minimum remuneration of part-time employees.
+## Minimum daily rest.
+## Minimum weekly rest.
+## Minimum overtime rates.
+## Vacation leave.
+## Sick leave.
+## Bereavement leave.
+## Special leave.
+## Injury leave.
+## Jury service.
+## Waiting time.
+## Retiring age.
+# schedule
+1. In this Schedule, unless the context otherwise requires -
+"customary holidays" means the days, other than Sundays, declared to be public holidays by or under the National Holidays and other Public Holidays Act;
+"day" means a period of twenty-four consecutive hours commencing from midnight of one day to midnight of the next following day;
+"hours of work" means the time on any day during which employees are at the disposal of the employer, exclusive of the intervals allowed for meals and rest;
+"normal time", "time-and-a-half" and "double time" mean respectively one time, one-and-a-half and double time, the minimum time rate applicable to the employee;
+"part-time employee" means an employee whose normal hours of work, calculated on a weekly basis or on average over a period of employment of up to one year, are less than the normal hours of work of a comparable whole-time employee and who is not a whole-time employee with reduced hours;
+"period of employment" means the time in any one day during which employees are at the disposal of the employer, but inclusive of the intervals allowed for meals and rest; [S.L.452.57 2 WAGES COUNCIL WAGE REGULATION
+"wages" means remuneration or earnings payable in money by an
+employer to an employee;
+"week" means a calendar week;
+"weekly day of rest" means a period of twenty-four consecutive
+hours commencing at the time at which the employee would normally commence his turn of duty;
+"whole-time employee" means an employee who is deemed to be
+a whole-time employee in terms of any recognized conditions of employment.
+2. (1) No person shall cause or permit any other person
+employed by him or subject to this orders to drive any car hire or private hire bus -
+(i) for any continuous period of more than four hours; or
+(ii) for periods, no one of which shall exceed four hours, amounting in the aggregate to more than twelve hours in any period of twenty-four hours
+commencing at midnight; or
+(iii) so that the driver has not at least nine hours, six of which must be consecutive, for rest in any period of twenty-four hours reckoned from the commencement of any period of driving.
+(2) The weekly hours of work shall be -
+(a) forty-two in the case of clerks /receptionists;
+(b) forty-six in the case of drivers, conductors/attendants, and other employees;
+(c) sixty in the case of watchmen.
+(3) The daily hours of work of the categories of employees in
+sub-paragraph (2) hereof shall be as follows respectively:
+(a) minimum four hours, maximum eight hours;
+(b) minimum five hours, maximum ten hours;
+(c) twelve hours.
+3. The minimum weekly wage payable to whole-time
+employees shall be as follows -
+(a) clerk/receptionist ...................................... €188.07
+(b) drivers ...................................................... €187.49
+(c) conductors/attendants, and other employees (other than watchmen) -
+(i) aged 18 years or over ....................... €183.74
+(ii) aged 16 or 17 years .......................... €181.08
+(d) watchmen:
+(i) those whose duties are mainly performed indoors ............................................... €183.74
+(ii) those whose duties are mainly performed out of
+[S.L.452.57 WAGES COUNCIL WAGE REGULATION 3
+doors ................................................. €186.07.
+4. (1) The minimum remuneration of part-time employees shall be as follows -
+(a) in the case of clerks/receptionists -
+(i) for the first 3 hours or less in any one day
+............................................................... €13.44
+(ii) for each hour or part thereof in excess of the first
+3 hours in any one day ............................ €4.48;
+(b) in the case of drivers -
+(i) for the first 3 hours or less in any one day
+............................................................... €12.24
+(ii) for each hour or part thereof in excess of the first
+3 hours in any one day ............................ €4.08;
+(c) in the case of conductors and attendants -
+(i) for the first 4 hours or
+less in any one day ...... €15.96 €15.76
+(ii) for each hour or part
+thereof in excess of the
+first 4 hours in any one day €3.99 €3.94;
+(d) in the case of all other employees, including watchmen -
+(i) for the first 3 hours or
+less in any one day .......... €11.97 €11.82
+(ii) for each hour or part
+thereof in excess of the
+first 3 hours in any one day €3.99 €3.94.
+(2) Where the Government grants to all its whole-time employees a general increase in wages and such increase is declared by the Minister responsible for labour by notice in the Gazette to be of general application to all whole-time employees the above rates shall be proportionately increased in accordance with the said general increase of wages, regard being had, in arriving to the said proportion, to the provisions set out in sub-paragraph (2) of paragraph 2 of this Schedule.
+5. Save as provided for in sub-paragraph (1) of paragraph 2, all whole-time employees, other than watchmen, shall be allowed intervals for meals and rest of not less, in the aggregate, than one hour every day:
+Provided that -
+(a) subject to paragraph (b) of this proviso, the interval or
+intervals shall be allowed after the first or before the
+last hour of the period of employment; and
+(b) where the last half hour of the period of employment is
+allowed as a half-hour of rest, the employee shall be
+[S.L.452.57 4 WAGES COUNCIL WAGE REGULATION
+entitled to leave the place of work as soon as that half hour starts.
+6. All employees shall be entitled to one day of rest per week,
+four days of which, in any calendar year, shall be granted on Sundays, if so requested by the employee.
+7. In the case of all whole-time employees, overtime shall be
+remunerated as follows:
+(a) for all time worked in excess of the daily hours in any one day, other than on the day of rest or on customary holidays ............................................ time-and-a half;
+(b) for all time worked on the day of rest or on customary holidays .................................................. double time.
+8. Whole-time employees shall be entitled, in every calendar
+year, to -
+(a) all customary holidays with full pay, and
+(b) after three months in employment, vacation leave of such number of working days with full pay as is equivalent to the number of working days as that particular employee should normally attend to work
+during a period of four weeks:
+Provided that whole-time employees who have
+been in employment for less than one year shall be entitled to such part of the said vacation leave as is in proportion to the number of months in employment.
+9. (1) After completing six months in employment, a whole-
+time employee shall in every calendar year be entitled to the equivalent in hours of twelve days sick leave on full pay, less an amount equal to the sum set for sickness benefit entitlement at the rate established under the Social Security Act, and part-time employees shall have a pro rata entitlement to sick leave in hours on full pay, less an amount equal to the sum set for sickness benefit entitlement at the rate established under the Social Security Act, which amount is also to be calculated on a pro rata basis:
+Provided that -
+(a) the first three days of any claim for sick leave shall be
+paid in full by the employer;
+(b) a medical certificate covering the period of absence is produced to the employer on the day of return to work or, if such period of absence is longer than seven days, within seven days of the onset of sick leave absence;
+(c) employees in receipt of a social security pension in respect of retirement or widowhood in terms of the Social Security Act shall, for the purpose of calculating the sick leave pay due, be deemed to have received an amount equal to the sum set for sickness benefit entitlement at the rate established under the Social Security Act.
+[S.L.452.57 WAGES COUNCIL WAGE REGULATION 5
+(2) The employer may require a medical certificate by his own physician to certify incapacity for work during the period of absence.
+(3) The sick leave entitlement granted by virtue of this paragraph shall be calculated on the basis provided for annual leave as specified in regulation 8(1) of the Organisation of Working Time Regulations.
+10. Employees shall be allowed two days paid leave on the occasion of the death of any of the following relatives: the wife or husband, the father or mother (or the person who at the time was in fact acting as the father or mother of the employee), the son or daughter, and the brother or sister.
+11. A whole-time employee shall be allowed three days leave on full pay on the occasion of his marriage and one day leave on full pay on the occasion of the birth of a child to his wife.
+12. A whole-time employee shall be entitled to a maximum of one year injury leave on full pay, less the full amount of any injury benefit to which such employee may be entitled in terms of the Social Security Act, if he is injured during the actual discharge of his duty and such injury is not due to any contributory negligence on his part or to the contravention by him at any safety rules laid down by the management.
+13. A whole-time employee shall, if called upon to serve as juror, be allowed all time off as shall be necessary, without any deduction from the pay to which he would otherwise have been entitled, to enable him to attend in Court.
+14. An employee is entitled to the payment of the minimum remuneration applicable to him for all time during which he is present on the premises of his employer or in any other place in connection with his employment unless he is present thereon in any of the following circumstances -
+(a) without the employer's consent, expressed or implied;
+(b) for some purpose unconnected with his work and other
+than that of waiting for work to be given to him to
+perform;
+(c) by reason only of the fact that he is resident thereon;
+(d) during recognised breaks for meals and rest, and he is
+not waiting for work to be given to him to perform.
+15. In cases where the retiring age of a male employee is expected at the age of sixty years, such employee shall be given the opportunity by his employer to retain his employment beyond this age at least until the age of sixty-one years, provided that the employee in question shall still be allowed, if he so wishes, to retire at the age of sixty years. [S.L.452.57 6 WAGES COUNCIL WAGE REGULATION
+EXPLANATORY NOTE
+This note is not part of the Order but is intended to indicate its
+applicability.
+The provisions of this Order apply to all employees in any
+undertaking or part of an undertaking, the activities of which consist wholly or mainly in the hiring of cars or private buses, or in driving instruction, mainly -
+Drivers Conductors/Attendants Clerks /Receptionists Watchmen Garage handymen
+but excluding Mechanics and Petrol Station Attendants who are already covered by the Wage Regulation Orders.
+- Amended by: L.N. 48 of 1979; L.N. 427 of 2007; L.N. 134 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020.
+- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020.
+- Amended by: L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020.
+- See Cap. 252.
+- See Cap. 318.
+- See Cap. 318.
+- See S.L. 452.87.
+- See Cap. 318.
