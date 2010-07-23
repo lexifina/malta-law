@@ -1,0 +1,8 @@
+APPLICABLE TO THE CONDUCT OF COMPETITIONS
+[S.L.350.22 AND THE AWARD OF PRIZES 1
+SUBSIDIARY LEGISLATION 350.22
+REQUIREMENTS AS TO STANDARDS AND
+PRACTICE APPLICABLE TO THE CONDUCT OF COMPETITIONS AND THE AWARD OF PRIZES
+28th November, 2008
+GOVERNMENT NOTICE 1051 of 2008, as amended by Act XVI of 2018.
+The title of these requirements is the Requirements as to Standards and Practice applicable to the Conduct of Competitions and the Award of Prizes.
