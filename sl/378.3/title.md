@@ -1,0 +1,7 @@
+[S.L.378.03 1 THE REGISTRY OF THE CONSUMER CLAIMS TRIBUNAL
+SUBSIDIARY LEGISLATION 378.03
+DAYS AND WORKING HOURS FOR THE OPENING OF THE REGISTRY OF THE CONSUMER CLAIMS
+TRIBUNAL REGULATIONS
+16th January, 1996
+LEGAL NOTICE 10 of 1996.
+The title of these regulations is the Days and Working 1. Hours for the Opening of the Registry of the Consumer Claims Tribunal Regulations.
