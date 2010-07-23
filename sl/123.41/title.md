@@ -1,0 +1,5 @@
+SUBSIDIARY LEGISLATION 123.41
+PART-TIME (FORMS OF SELF-EMPLOYED) RULES
+1st January, 1996
+LEGAL NOTICE 186 of 1996, as amended by Legal Notices 409 of 2007, 105 of 2008, 318 of 2012 and 186 of 2014.
+Revoked by Legal Notice 125 of 2016.
