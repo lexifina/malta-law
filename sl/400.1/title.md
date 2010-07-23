@@ -1,0 +1,5 @@
+SUBSIDIARY LEGISLATION 400.01
+GAMING ACT REGULATIONS
+7th August, 1998
+LEGAL NOTICE 193 of 1998, as amended by Legal Notices 79 of 2003, 43 of 2006 and 425 of 2007.
+Repealed by Act XVI of 2018.
