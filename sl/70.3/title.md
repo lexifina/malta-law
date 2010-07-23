@@ -1,0 +1,5 @@
+SUBSIDIARY LEGISLATION 70.03
+PUBLIC LOTTO REGULATIONS
+23rd July, 1990
+LEGAL NOTICE 109 of 1990, as amended by Legal Notices: 119 of 1990, 123 of 1991, 88 and 119 of 1995, 131 of 1998 and 408 of 2007.
+Revoked by Act XVI of 2018.
