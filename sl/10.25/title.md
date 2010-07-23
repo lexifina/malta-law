@@ -1,0 +1,5 @@
+SUBSIDIARY LEGISLATION 10.25
+THEATRES (PRICES OF ADMISSION)
+REGULATIONS
+3rd June, 1960
+LEGAL NOTICE 20 of 1960, as amended by Legal Notices: 53 of 1975, 104 of 1977 and 7 of 1980; Act XIII of 1983; and Legal Notices 16 of 1990 and 407 of 2007.
