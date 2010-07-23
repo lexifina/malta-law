@@ -1,0 +1,7 @@
+[S.L.318.19 1 (SPECIFIED STATE OWNED HOSTELS)
+SUBSIDIARY LEGISLATION 318.19
+TRANSFER OF FUNDS (SPECIFIED STATE OWNED
+HOSTELS) REGULATIONS
+25th April, 2003
+LEGAL NOTICE 112 of 2003.
+The title of these regulations is the Transfer of Funds 1. (Specified State Owned Hostels) Regulations.
