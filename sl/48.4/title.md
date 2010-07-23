@@ -1,0 +1,6 @@
+[S.L.48.04 1 (GUERNSEY, ALDERNEY, SARK)
+SUBSIDIARY LEGISLATION 48.04
+EXTENSION OF APPLICATION OF MAINTENANCE ORDERS (GUERNSEY, ALDERNEY, SARK) ORDER
+23rd April, 1957
+PROCLAMATION II of 1957.
+The title of this Order is Extension of Application of 1. Maintenance Orders (Guernsey, Alderney, Sark) Order.
