@@ -1,0 +1,8 @@
+## SCHEDULE
+# schedule
+(Article 2)
+The property to which article 2 of this Order refers is the following, that is to say:
+As from the 4th July, 1983:
+(i) Portion of land at Mosta limits of Santa Margherita, namely plot 5A of area of circa 418 square metres and is bounded from North-East by a public lane, South-West and South-East by property of the Government, which plot is shown edged in red on plan P.D. 16_2003_B, as appearing in the attached Annex.
+(ii) Portion of land at Msida limits of Swatar, of area of circa 38 square
+metres and is bounded from North-West and South-West by a public road, and from South-East by property of Christef Co.Ltd and others, which plot is shown edged in red on plan P.D.117_2002_B as appearing in the attached Annex. Annex
