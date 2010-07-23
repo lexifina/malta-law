@@ -1,0 +1,5 @@
+SUBSIDIARY LEGISLATION 36.37
+SWILL CONTROL REGULATIONS
+24th September, 1993
+LEGAL NOTICE 125 of 1993, as amended by Legal Notice 407 of 2007.
+Revoked by Legal Notice 127 of 2017.
