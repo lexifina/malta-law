@@ -1,0 +1,73 @@
+## FOURTH SCHEDULE
+# fourth-schedule
+Regulations 2 and 20
+PRECURSORS
+Part I
+Barium Chlorate
+Barium Nitrate
+Bismuth Oxide
+Bismuth Trioxide
+Lead Tetraoxide
+Potassium Biochromate
+Potassium Chlorate
+Potassium Dichromate
+Potassium Nitrate
+Potassium Perchlorate
+Sodium Nitrate
+Strontium Nitrate
+Part II
+Aluminium Dark
+Aluminium Flitter
+Aluminium Brilliant
+Aluminium Atomized
+Aluminium Granules
+Antimony Oxalate
+Antimony Sulphide
+Antimony Trioxide
+Antimony Trisulphide
+Barium Carbonate
+Barium Oxalate
+Barium Sulphate
+Boric Acid
+Calcium Carbonate
+Calcium Sulphate
+Charcoal
+Colophony Resin
+Copper Oxychloride
+Copper (I) Oxide
+Copper (II) Oxide
+Copper Carbonate
+C PVC Powder
+Copper Sulphate Cryolite
+Dextrin
+Dyestuffs (various colours)
+Ferro-Titanium
+Graphite
+Gum Arabic
+Gum Aroids
+Gum Red
+Gum Copal
+Hexamine
+Iron
+Lactose
+Magnalium (Magnesium Aluminium)
+Magnesium
+Magnesium Carbonate
+Parlon
+Potassium Benzoate
+PVC Powder
+PVC Saran
+Shellac
+Silicon
+Sodium Benzoate
+Sodium Oxalate
+Sodium Fluoride
+Sodium Salicylate
+Stearic Acid
+Strontium Carbonate
+Strontium Oxalate
+Strontium Sulphate
+Sulphur
+Titanium
+Zinc Oxide
+- Added by: L.N. 177 of 2010.
