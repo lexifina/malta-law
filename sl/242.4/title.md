@@ -1,0 +1,7 @@
+[S.L.242.04 1 ORDERS - MANITOBA (CANADA)
+SUBSIDIARY LEGISLATION 242.04
+RECIPROCAL ENFORCEMENT OF MAINTENANCE
+ORDERS - MANITOBA (CANADA) - ORDER
+20th November, 1984
+LEGAL NOTICE 56 of 1984.
+The title of this Order is Reciprocal Enforcement of 1. Maintenance Orders - Manitoba (Canada) - Order.
