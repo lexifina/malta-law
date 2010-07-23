@@ -1,0 +1,7 @@
+SUBSIDIARY LEGISLATION 234.27
+MERCHANT SHIPPING (HOURS OF WORK)
+REGULATIONS
+1st December, 2002; 10th January, 2003;
+30th April, 2004*
+LEGAL NOTICE 213 of 2002, as amended by Legal Notices 179 of 2004 and 411 of 2007.
+Revoked by Legal Notice 145 of 2013.
