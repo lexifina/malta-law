@@ -1,0 +1,10 @@
+[S.L.94.18 1 SUPPLEMENTARY TO MEDICINE
+SUBSIDIARY LEGISLATION 94.18
+BOARD FOR THE PROFESSIONS
+SUPPLEMENTARY TO MEDICINE STANDING
+ORDERS
+1st August, 1986
+LEGAL NOTICE 46 of 1986, as amended by Legal Notice 4 of 2000.
+PART I
+TITLE AND INTERPRETATION
+The title of these regulations is Board for the Professions 1. Supplementary to Medicine Standing Orders.
