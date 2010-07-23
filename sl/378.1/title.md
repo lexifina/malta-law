@@ -1,0 +1,5 @@
+SUBSIDIARY LEGISLATION 378.01
+CONSUMER CLAIMS TRIBUNAL RULES
+16th January, 1996
+LEGAL NOTICE 8 of 1996, as amended by Legal Notices 284 of 2000, 425 of 2007 and 59 of 2011 and XVI of 2019.
+Rule 1 - Citation
