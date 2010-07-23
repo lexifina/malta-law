@@ -1,0 +1,9 @@
+[S.L.17.02 GRAVES AND GRAVE SITES 1
+SUBSIDIARY LEGISLATION 17.02
+PRICES PAYABLE FOR THE ACQUISITION OF
+GRAVES AND GRAVE SITES ORDER
+17th September, 1974;
+22nd May, 1978; 1st January, 1993;
+1st July, 1997;
+21st November, 2003
+LEGAL NOTICE 96 of 1974, as amended by Act XIII of 1983, LEGAL NOTICE 50 of 1978, as amended by Act XIII of 1983, and LEGAL NOTICES 115 of 1992, 93 of 1997, 363 of 2003, 204 of 2004, 227 of 2005, and 228 and 377 of 2007, consolidated, and as amended by Legal Notices 407 of 2007, 327 of 2012, 32 of 2013 and 425 of 2016.
