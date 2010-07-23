@@ -1,0 +1,9 @@
+## ANNEX III
+# annex-iii
+Declaration form for individual transactions in category 1 or 2 substances
+as specified in Table I in the Third Schedule to the Ordinance
+CUSTOMER DECLARATION OF SPECIFIC USE(S) OF THE SCHEDULED CATEGORY 1 OR 2 SUBSTANCE (INDIVIDUAL TRANSACTIONS) I/We, Name .......................................................................................................... Address ...................................................................................................... Authorisation/Licence/Registration No or reference (1) ............................... Issued on ............................... by ...............................................................
+(name and address of authority) and valid until/without time limit (complete as appropriate) ........................ have ordered from: Name .......................................................................................................... Address ...................................................................................................... the following substance: (name and CN code) (2) ........................................ (quantity) ..................................... The substance will be used solely for .......................................................... We confirm that the substance referred to above will only be re-sold or otherwise supplied to a customer on the condition that the customer will furnish a declaration of use in accordance with this model or, for category 2 substances, a declaration relating to multiple transactions.
+Signature ...................................... Name ..............................................
+(in block capitals) Position ........................................ Date ................................................
+[S.L.101.05 12 NARCOTIC DRUGS AND PSYCHOTROPIC SUBSTANCES
