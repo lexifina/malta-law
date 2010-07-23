@@ -1,0 +1,5 @@
+## SCHEDULE
+# schedule
+Doc 9774 First Edition entitled "Manual on Certification of Aerodromes".
+Annex 14, Volume I, entitled "Aerodrome Design and Operations", Fifth Edition, July 2009, incorporating amendments 10A and 10B, and subject to any differences notifed to ICAO by the Republic of Malta.
+Annex 14, Volume II, entitled "Heliports" , Third Edition, July 2009, and subject to any differences notified to ICAO by the Republic of Malta.
