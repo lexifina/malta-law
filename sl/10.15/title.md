@@ -1,0 +1,5 @@
+SUBSIDIARY LEGISLATION 10.15
+PROTECTION OF BIRDS REGULATIONS
+5th January, 1937
+GOVERNMENT NOTICE 7 of 1937, as amended by Government Notices: 100 of 1937, 150 of 1944, 358 of 1945, 505 of 1955 and 124 of 1958.
+Revoked by Legal Notice 68 of 1980.
