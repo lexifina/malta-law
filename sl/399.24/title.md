@@ -1,0 +1,5 @@
+SUBSIDIARY LEGISLATION 399.24
+CABLE SYSTEMS (GENERAL) REGULATIONS
+4th March, 2001
+LEGAL NOTICE 167 of 2001, as amended by Legal Notices 17, 193, 201 and 232 of 2003, 410 of 2004, 425 of 2007 and 180 of 2012.
+Revoked by Legal Notice 317 of 2013.
