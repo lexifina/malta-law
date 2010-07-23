@@ -1,0 +1,6 @@
+SUBSIDIARY LEGISLATION 406.03
+VALUE ADDED TAX (APPEALS BOARD)
+REGULATIONS
+1st January, 1999
+LEGAL NOTICE 16 of 1999, as amended by Legal Notices 426 of 2007 and 105 of 2008.
+Revoked by Legal Notice 91 of 2012.
