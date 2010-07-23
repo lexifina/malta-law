@@ -1,0 +1,14 @@
+## SECOND SCHEDULE
+# second-schedule
+NOMINAL STANDARDS OF FINENESS IN THE MANUFACTURER'S OR
+SPONSOR'S HALLMARK AUTHORISED BY THE CONSUL
+Precious metals and their alloys Nominal Standard of Fineness
+(parts per thousand)
+Gold 333
+375 417 500 585 750 800 840 916 990 999
+Silver 800
+835 925 999
+Platinum 850
+900 950 999
+Palladium 500
+950 999
