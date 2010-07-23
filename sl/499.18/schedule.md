@@ -1,0 +1,46 @@
+## and crew, wherever they may be.
+## [S.L.499.18 7 AND OPERATION OF AIRCRAFT)
+## SCHEDULE
+# schedule
+LIST OF AEROPLANES EXEMPTED IN ACCORDANCE WITH ARTICLE 16(1)
+ALGERIA
+Serial Number Type Registration Operator 21053 B727-2D6 7T-VEI Air Algerie 21210 B727-2D6 7T-VEM Air Algerie 21284 B727-2D6 7T-VEP Air Algerie 20884 B737-2D6 7T-VEG Air Algerie 21063 B737-2D6 7T-VEJ Air Algerie 21064 B737-2D6 7T-VEK Air Algerie 21065 B737-2D6 7T-VEL Air Algerie 21211 B737-2D6 7T-VEN Air Algerie 21212 B737-2D6 7T-VEO Air Algerie 20650 B737-2D6 7T-VED Air Algerie 21285 B737-2D6 7T-VEQ Air Algerie 21286 B73 7-2D6 7T-VER Air Algerie
+CONGO, DEMOCRATIC REPUBLIC OF
+Serial Number Type Registration Operator 20200 B707-329C 9 -CBW Scibe Airlift
+DOMINICAN REPUBLIC
+Serial Number Type Registration Operator 19767 B707-399C HI-442CT Dominicana de Aviacion
+EGYPT
+Serial Number Type Registration Operator 19843 B707-336C SU-PBA Air Memphis 19916 B707-328C SU-PBB Air Memphis 21194 B737-266 SU-AYK Egypt Air
+IRAQ
+Serial Number Type Registration Operator 20889 B707-370C YI-AGE Iraqi Airways 20892 B737-270C YI-AGH Iraqi Airways 20893 B737-270C YI-AGI Iraqi Airways
+[S.L.499.18 8 AND OPERATION OF AIRCRAFT)
+LEBANON
+Serial Number Type Registration Operator 20259 B707-3B4C OD-AFD MEA 20260 B707-3B4C OD-AFE MEA 19967 B707-347C OD-AGV MEA 19589 B707-323C OD-AHC MEA 19515 B707-323C OD-AHD MEA 20170 B707-323B OD-AHF MEA 19516 B707-323C OD-AHE MEA 19104 B707-327C OD-AGX TMA 19105 B707-327C OD-AGY TMA 18939 B707-323C OD-AGD TMA 19214 B707-331C OD-AGS TMA 19269 B707-321C OD-AGO TMA 19274 B707-321C OD-AGP TMA
+LIBERIA
+Serial Number Type Registration Operator 45683 DC8F-55 EL-AJQ Liberia World Airlines 45686 DC8F-55 EL-AJQ Liberia World Airlines
+LIBYA
+Serial Number Type Registration Operator 20245 B727-224 5A-DAI Libyan Arab Airlines 21051 B727-2L5 5A-DIB Libyan Arab Airlines 21052 B727-2L5 5A-DIC Libyan Arab Airlines 21229 B727-2L5 5A-DID Libyan Arab Airlines 21230 B727-2L5 5A-DIE Libyan Arab Airlines
+MAURITANIA
+Serial Number Type Registration Operator 11093 F28-4000 5T-CLG Air Mauritanie
+MOROCCO
+Serial Number Type Registration Operator 20471 B727-2B6 CN-CCG Royal Air Maroc 21214 B727-2B6 CN-RMI Royal Air Maroc 21215 B727-2B6 CN-RMJ Royal Air Maroc 21216 B727-2B6 CN-RMK Royal Air Maroc
+[S.L.499.18 9 AND OPERATION OF AIRCRAFT)
+NIGERIA
+Serial Number Type Registration Operator 18809 B707-338C 5N-ARQ DAS Air Cargo 19664 B707-355C 5N-VRG Air Tours
+PAKISTAN
+Serial Number Type Registration Operator 20488 B707-340C AP-AXG PIA
+SAUDI ARABIA
+Serial Number Type Registration Operator 20574 B737-268C HZ-AGA Saudia 20575 B737-268C HZ-AGB Saudia 20576 B737-268 HZ-AGC Saudia 20577 B737-268 HZ-AGD Saudia 20578 B737-268 HZ-AGE Saudia 20882 B737-268 HZ-AGF Saudia 20883 B737-268 HZ-AGG Saudia 21275 B737-268 HZ-AGH Saudia 21276 B737-268 HZ-AGI Saudia 21277 B737-268 HZ-AGJ Saudia 21280 B737-268 HZ-AGK Saudia 212281 B737-268 HZ-AGL Saudia 212283 B737-268 HZ-AGN Saudia 21360 B737-268 HZ-AGO Saudia
+SWAZILAND
+Serial Number Type Registration Operator 45802 DC8F-54 3D-AFR African International Airways 46012 DC8F-54 3D-ADV African International Airways
+SYRIA
+Serial Number Type Registration Operator 21203 B727-294 YK-AGA Syrianair 21204 B727-294 YK-AGB Syrianair 21205 B727-294 YK-AGC Syrianair
+TUNISIA
+Serial Number Type Registration Operator 21179 B727-2H3 TS-JHR Tunis Air 21235 B727-2H3 TS-JHT Tunis Air
+[S.L.499.18 10 AND OPERATION OF AIRCRAFT)
+YEMEN
+Serial Number Type Registration Operator 21296 B737-2N8 70-ACU Yemen Airways
+UGANDA
+Serial Number Type Registration Operator 19821 B707-379C 5X-GLA Air Alexander
+ZIMBABWE
+Serial Number Type Registration Operator 18930 B707-330B Z-WKU Air Zimbabwe 45821 DC8F-55 Z-WMJ Affretair
