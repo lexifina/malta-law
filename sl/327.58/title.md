@@ -1,0 +1,6 @@
+SUBSIDIARY LEGISLATION 327.58
+{IAN FRAN{ISK ABELA JUNIOR COLLEGE
+REGULATIONS
+5th September, 1995
+LEGAL NOTICE 123 of 1995.
+The title of these regulations is the {ian Fran[isk Abela
