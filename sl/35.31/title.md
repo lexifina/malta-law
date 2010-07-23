@@ -1,0 +1,5 @@
+SUBSIDIARY LEGISLATION 35.31
+FEES (SCHENGEN VISAS) REGULATIONS
+21st December, 2007
+LEGAL NOTICE 434 of 2007, as amended by Legal Notice 121 of 2010 and Act XIII of 2015.
+Repealed by Legal Notice 287 of 2020.
