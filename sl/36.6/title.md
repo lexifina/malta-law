@@ -1,0 +1,6 @@
+[S.L.36.06 1 (PROHIBITION OF IMPORTATION)
+SUBSIDIARY LEGISLATION 36.06
+HAY, STRAW AND COTTON SEED (PROHIBITION OF IMPORTATION) REGULATIONS
+7th December, 1936
+GOVERNMENT NOTICE 414 of 1936.
+The title of these Regulations is Hay, Straw and Cotton 1. Seed (Prohibition of Importation) Regulations.
