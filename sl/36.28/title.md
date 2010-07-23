@@ -1,0 +1,5 @@
+SUBSIDIARY LEGISLATION 36.28
+SWINE KEEPING REGULATIONS
+10th October, 1980
+LEGAL NOTICE 86 of 1980, as amended by Legal Notice 156 of 1991.
+Revoked by Legal Notice 127 of 2017.
