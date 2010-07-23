@@ -1,0 +1,20 @@
+## SEVENTH SCHEDULE
+# seventh-schedule
+(Regulations 25 and 38)
+Pension and Contingency Fund Contribution
+1. An employer of port workers shall pay to the Authority a contribution of 63c per ton of cargo loaded or unloaded during a whole operation.
+2. For the purpose of calculating the contribution specified in this Schedule the provisions of the Third Schedule to these regulations shall apply.
+3. The tonnage of unitized cargo on which fees are calculated shall be the actual tonnage of the cargo loaded or unloaded excluding the equipment used to form unit loads or to tow, push, carry or otherwise move such cargo.
+4. The provisions of this Schedule shall not apply to:
+(i) Locally manufactured goods, or locally produced agricultural goods, loaded on a ship for export.
+(ii) Transshipment cargo.
+(iii) Cargo unloaded and eventually re-loaded on a ship in the process of shifting cargo on, from, or to that ship.
+(iv) Empty containers.
+(v) Empty trailers.
+(vi) Road transport vehicles and bowsers rolled on or off a RORO ship to load or unload cargo.
+(vii) Bulk Cereals.
+(viii) Accompanied commercial vehicles of a cargo capacity of more than 10
+tons.
+- Amended by: L.N. 141 of 1994.
+- Substituted by: L.N. 226 of 2007.
+- Amended by: L.N. 410 of 2007; L.N. 223 of 2009.
