@@ -1,0 +1,5 @@
+SUBSIDIARY LEGISLATION 364.10
+DUTY ON DOCUMENTS AND TRANSFERS ORDER
+26th November, 2002;
+1st January, 2004
+LEGAL NOTICES 349 of 2002 and 113 of 2004, consolidated, as amended by Legal Notice 425 of 2007.
