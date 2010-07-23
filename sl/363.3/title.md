@@ -1,0 +1,5 @@
+SUBSIDIARY LEGISLATION 363.03
+LOCAL COUNCILS (TENDERING) REGULATIONS
+2nd October, 2009
+LEGAL NOTICE 255 of 2009, as amended by Legal Notices 416 of 2011 and 475 of 2014.
+Revoked by Legal Notice 266 of 2017.
