@@ -1,0 +1,6 @@
+[S.L.16.03 1 TO ACTS OF BIRTH AND ACTS OF DEATH
+SUBSIDIARY LEGISLATION 16.03
+DESIGNATION OF OFFICERS IN RELATION TO ACTS OF BIRTH AND ACTS OF DEATH ORDER
+15th March, 1985
+GOVERNMENT NOTICE 204 of 1985.
+The title of this Order is Designation of Officers in relation 1. to Acts of Birth and Acts of Death Order.
