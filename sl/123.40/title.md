@@ -1,0 +1,5 @@
+SUBSIDIARY LEGISLATION 123.40
+PART-TIME (NOTICE TO EMPLOYER) RULES
+1st January, 1996
+LEGAL NOTICE 158 of 1996, as amended by Legal Notice 167 of 1996.
+Revoked by Legal Notice 125 of 2016.
