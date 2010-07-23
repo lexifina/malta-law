@@ -1,0 +1,6 @@
+SUBSIDIARY LEGISLATION 424.05
+WORK PLACES (HOISTS AND LIFTS)
+REGULATIONS
+12th December, 1964
+LEGAL NOTICE 47 of 1964, as amended by Act XLIV of 1965; Legal Notices 48 of 1967 and 50 of 1982; and Act XXVII of 2000.
+Revoked by Legal Notice 293 of 2016.
