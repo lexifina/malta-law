@@ -1,0 +1,7 @@
+[S.L.452.89 1 INTERPRETATION
+SUBSIDIARY LEGISLATION 452.89
+EMPLOYMENT AND INDUSTRIAL RELATIONS
+INTERPRETATION ORDER
+7th October, 2003
+LEGAL NOTICE 297 of 2003.
+The title of this Order is the Employment and Industrial 1. Relations Interpretation Order.
