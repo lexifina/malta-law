@@ -1,0 +1,8 @@
+OF ADVERTISING AND DIRECTIONS APPLICABLE
+[S.L.350.25 TO GAMBLING ADVERTISEMENTS 1
+SUBSIDIARY LEGISLATION 350.25
+REQUIREMENTS AS TO ADVERTISEMENTS,
+METHODS OF ADVERTISING AND DIRECTIONS APPLICABLE TO GAMBLING ADVERTISEMENTS
+22nd March, 2007
+GOVERNMENT NOTICE 407 of 2007, as amended by Act XVI of 2018 and Legal Notice 483 of 2020.
+The title of these requirements is the Requirements as to Advertisements. Methods of Advertising and Directions applicable to Gambling Advertisements.
