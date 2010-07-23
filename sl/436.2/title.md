@@ -1,0 +1,4 @@
+SUBSIDIARY LEGISLATION 436.02
+WINE REGULATIONS
+2nd October, 1970
+LEGAL NOTICE 93 of 1970, as amended by Legal Notices 14 of 1972, 24 of 1998, 426 of 2007 and 286 of 2011; and Act XIII of 2015.
