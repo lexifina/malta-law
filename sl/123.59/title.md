@@ -1,0 +1,8 @@
+[S.L.123.59 1 WITH THE SYRIAN ARAB REPUBLIC
+SUBSIDIARY LEGISLATION 123.59
+DOUBLE TAXATION RELIEF ON TAXES ON
+INCOME WITH THE SYRIAN ARAB REPUBLIC
+ORDER
+16th October, 2000
+LEGAL NOTICE 246 of 2001.
+The title of this Order is the Double Taxation Relief on 1. Taxes on Income with the Syrian Arab Republic Order.
