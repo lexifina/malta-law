@@ -1,0 +1,7 @@
+SUBSIDIARY LEGISLATION 438.05
+COMMERCIAL TOMBOLA (BINGO)
+REGULATIONS
+27th January, 2006;
+1st July, 2006
+LEGAL NOTICE 20 of 2006, as amended by Legal Notices 426 of 2007 and 426 of 2012.
+Repealed by Act XVI of 2018.
