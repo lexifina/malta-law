@@ -1,0 +1,9 @@
+SUBSIDIARY LEGISLATION 399.10
+ELECTRONIC COMMUNICATIONS SERVICES
+(GENERAL) REGULATIONS
+15th September, 2000;
+30th March, 2001;
+1st November, 2001;
+1st July 2002
+LEGAL NOTICE 151 of 2000, as amended by Legal Notices 70 of 2001, 18, 192, 200 and 231 of 2003, and 410 of 2004.
+Revoked by Legal Notice 273 of 2011.
