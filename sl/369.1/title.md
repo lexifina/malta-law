@@ -1,0 +1,7 @@
+[S.L.369.01 1 LEGAL PROCURATORS (PROCEDURE)
+SUBSIDIARY LEGISLATION 369.01
+COMMITTEE FOR ADVOCATES AND LEGAL
+PROCURATORS (PROCEDURE) RULES
+23rd May, 1995
+LEGAL NOTICE 64 of 1995.
+The title of these rules is the Committee for Advocates and 1. Legal Procurators (Procedure) Rules.
