@@ -1,0 +1,6 @@
+SUBSIDIARY LEGISLATION 234.26
+MERCHANT SHIPPING (MINIMUM WAGE)
+REGULATIONS
+1st July, 2002
+LEGAL NOTICE 154 of 2002, as amended by Legal Notices 341 of 2003, 291 and 411 of 2007, and 7 of 2012.
+Revoked by Legal Notice 145 of 2013.
