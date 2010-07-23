@@ -1,0 +1,5 @@
+SUBSIDIARY LEGISLATION 234.02
+DISTRESSED SEAMEN REGULATIONS
+1st June, 1973
+LEGAL NOTICE 56 of 1973, as amended by Legal Notices 14 of 2002 and 411 of 2007.
+Revoked by Legal Notice 145 of 2013.
