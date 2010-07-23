@@ -1,0 +1,7 @@
+[S.L.327.191 1 AND PARENT LEARNING SUPPORT
+SUBSIDIARY LEGISLATION 327.191
+INSTITUTE FOR CHILD AND PARENT LEARNING
+SUPPORT REGULATIONS
+1st August, 2000
+LEGAL NOTICE 135 of 2000.
+The title of these regulations is the Institute for Child and 1. Parent Learning Support Regulations.
