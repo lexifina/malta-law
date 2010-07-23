@@ -1,0 +1,6 @@
+## SECOND SCHEDULE
+# second-schedule
+(Rule 2)
+[S.L.372.08 ENTITIES AND BODIES OF PERSONS) 5 [S.L.372.08 6 ENTITIES AND BODIES OF PERSONS)
+- Substituted by: L.N. 130 of 1999; L.N. 125 of 2000.
+- Amended by: L.N. 425 of 2007.
