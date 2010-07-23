@@ -1,0 +1,6 @@
+SUBSIDIARY LEGISLATION 65.10
+GOZO SERVICES MOTOR ROUTE BUSES
+REGULATIONS
+8th July, 1988
+LEGAL NOTICE 59 of 1988, as amended by Legal Notices 169 of 1990 and 152 of 2009; and Act XV of 2009.
+Revoked by Legal Notice 256 of 2011.
