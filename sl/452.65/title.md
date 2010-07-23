@@ -1,0 +1,3 @@
+SUBSIDIARY LEGISLATION 452.65
+WAGE INCREASE NATIONAL STANDARD ORDER
+LEGAL NOTICES 169 of 1989, 210 of 1990 (as amended by Legal Notice 192 of 1991), 192 of 1991 (as amended by Legal Notice 127 of 1992), 127 of 1992, 179 of 1993, 185 of 1994 (as amended by Legal Notice 117 of 1995), 188 of 1995 (as amended by Legal Notice 15 of 1996); Government Notice 62 of 1997; and Legal Notices 6 and 223 of 1997, 271 of 1998, 219 of 1999, 266 of 2000, 308 of 2001, 377 of 2002, 419 of 2003, 507 of 2004, 411 of 2005, 332 of 2006 (consolidated and as amended by Legal Notice 427 of 2007) and Legal Notices 428 of 2007, 340 of 2008, 377 of 2009, 526 of 2010, 501 of 2011, 492 of 2012, 442 of 2013, 485 of 2014, 430 of 2015, 417 of 2016 and 366 of 2017, consolidated.
