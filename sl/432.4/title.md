@@ -1,0 +1,6 @@
+SUBSIDIARY LEGISLATION 432.04
+REVERSION OF CERTAIN LANDS (2009) ORDER
+24th December, 2009
+LEGAL NOTICE 366 of 2009.
+The title of this Order is the Reversion of Certain Lands 1. (2009) Order.
+The property specified in article 3 of this Order shall revert 2. to the person or persons to whom the land belonged, by whatsoever title, as if the acquisition by virtue of article 5 of the Building Development Areas Act, had never taken place with effect from the 4th July 1983, on which date the land in question was acquired by Government in virtue of the said article.
