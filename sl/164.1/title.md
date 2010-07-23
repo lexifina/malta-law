@@ -1,0 +1,4 @@
+SUBSIDIARY LEGISLATION 164.01
+MALTA POLICE REGULATIONS
+22nd April, 1960
+LEGAL NOTICE 14 of 1960, as amended by Ordinance II of 1961; Legal Notices: 59 of 1975, 89 of 1978, 14 and 72 of 1979, 70 of 1980, 63 of 1981, 40 of 1982, 41 of 1987, 77 of 1989, 28 of 1993, 27 of 1995, 274 of 1998, 202 of 2001, 410 of 2007, 54 of 2015, 146 of 2017 71 of 2019 and 199 and 200 of 2020.
