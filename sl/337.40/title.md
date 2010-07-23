@@ -1,0 +1,6 @@
+SUBSIDIARY LEGISLATION 337.40
+DRAWBACK ON TOBACCO STEMS AND OFFALS
+ORDER
+2nd February, 1990
+LEGAL NOTICE 12 of 1990, as amended by Legal Notice 424 of 2007.
+Revoked by Legal Notice 471 of 2012.
