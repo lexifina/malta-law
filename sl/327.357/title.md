@@ -1,0 +1,7 @@
+SUBSIDIARY LEGISLATION 327.357
+STATUTE FOR ISLANDS
+AND SMALL STATES INSTITUTE
+3rd November, 2009
+LEGAL NOTICE 325 of 2009, as amended by Legal Notice 140 of 2012.
+The title of this Statute is the Statute for Islands and Small States Institute.
+STATUTE FOR ISLANDS AND SMALL STATES INSTITUTE
