@@ -1,0 +1,4 @@
+SUBSIDIARY LEGISLATION 499.52
+SMALL SHIPS REGULATIONS
+1st August, 2008
+LEGAL NOTICE 183 of 2008, as amended by Legal Notice 250 of 2009; Act XV of 2009; and Legal Notices 57 of 2010 and 317 of 2019.
