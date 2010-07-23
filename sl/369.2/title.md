@@ -1,0 +1,7 @@
+[S.L.369.02 1 LEGAL PROCURATORS (APPEALS)
+SUBSIDIARY LEGISLATION 369.02
+COMMITTEE FOR ADVOCATES AND LEGAL
+PROCURATORS (APPEALS) RULES
+4th March, 1997
+LEGAL NOTICE 32 of 1997.
+The title of these rules is the Committee for Advocates and 1. Legal Procurators (Appeals) Rules.
