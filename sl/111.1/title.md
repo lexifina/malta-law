@@ -1,0 +1,6 @@
+SUBSIDIARY LEGISLATION 111.01
+PERSONAL INJURIES OF CIVILIANS SCHEME
+8th June, 1941
+GOVERNMENT NOTICE 372 of 1941, as amended by Government Notices 393 of 1941, 465 of 1942 and 391 of 1944; Ordinance XXXII of 1946; Government Notices 424 of 1946 and 284 of 1948; Acts III of 1955, XXXVIII of 1965, X of 1971, XXXVI of 1973, XXIX of 1974 and XLV of 1975; Legal Notices 49 of 1976, 32 and 145 of 1977, 115 of 1981, 3 of 1987, 19 of 1991, 194 of 1999 and 409 of 2007.
+PART I
+GENERAL
