@@ -1,0 +1,4 @@
+SUBSIDIARY LEGISLATION 10.21
+REGISTRATION OF CLUBS REGULATIONS
+4th October, 1939
+GOVERNMENT NOTICE 505 of 1939, as amended by Government Notice 535 of 1956; and Legal Notices: 148 of 1975, 69 of 1977 and Act XVI of 2018.
