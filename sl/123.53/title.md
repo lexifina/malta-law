@@ -1,0 +1,7 @@
+[S.L.123.53 1 WITH THE REPUBLIC OF ALBANIA
+SUBSIDIARY LEGISLATION 123.53
+DOUBLE TAXATION RELIEF ON TAXES ON INCOME WITH THE REPUBLIC OF ALBANIA
+ORDER
+23rd November, 2000
+LEGAL NOTICE 122 of 2001.
+The title of this order is the Double Taxation Relief on 1. Taxes on Income with the Republic of Albania Order.
