@@ -1,0 +1,6 @@
+SUBSIDIARY LEGISLATION 117.03
+RATIONING OF ANIMAL FOODSTUFFS
+REGULATIONS
+31st December, 1948
+GOVERNMENT NOTICE 832 of 1948, as amended by Government Notice 66 of 1957 and Legal Notice 409 of 2007
+Revoked by Legal Notice 422 of 2014.
