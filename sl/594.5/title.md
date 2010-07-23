@@ -1,0 +1,4 @@
+SUBSIDIARY LEGISLATION 594.05
+APPEALS COMMITTEE REGULATIONS
+27th July, 1953
+GOVERNMENT NOTICE 418 of 1953, as amended by Government Notice 340 of 1955, Emergency Ordinance VI of 1958 and Acts XXV of 1962 and XXV of 2019.
