@@ -1,0 +1,6 @@
+SUBSIDIARY LEGISLATION 106.01
+PROHIBITION OF TOBACCO CULTIVATION
+ORDER
+31st October, 1939
+GOVERNMENT NOTICE 560 of 1939.
+The title of this Order is Prohibition of Tobacco 1. Cultivation Order.
