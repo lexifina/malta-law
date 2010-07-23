@@ -1,0 +1,5 @@
+SUBSIDIARY LEGISLATION 378.08
+DISTANCE SELLING REGULATIONS*
+4th September, 2001
+LEGAL NOTICE 186 of 2001, as amended by Legal Notices 425 of 2007 and 194 of 2009.
+Revoked by Legal Notice 439 of 2013.
