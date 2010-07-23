@@ -1,0 +1,6 @@
+SUBSIDIARY LEGISLATION 433.24
+CONTROL OF THE RED PALM WEEVIL
+REGULATIONS
+6th February, 2009
+LEGAL NOTICE 42 of 2009, as amended by Legal Notices 134 of 2009, 21 of 2011 and 98 of 2013.
+Repealed by Legal Notice 97 of 2019.
