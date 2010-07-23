@@ -1,0 +1,9 @@
+## FIRST SCHEDULE
+# first-schedule
+Oath of Allegiance to be taken by Officer on Commissioning
+I ........................... swear/solemnly declare, that I will be faithful and bear true allegiance to the People and the Republic of Malta and its Constitution, and that I will, as in duty bound, honestly and faithfully defend the Republic of Malta against all enemies, and will observe and obey all orders of the President of Malta and officers set over me.
+................................. ...............................
+(Date) (Signature)
+The said ...................................... has taken the oath/solemnly declared before me at ................ on this ............ day of .............. of the year .....................
+....................................
+(Signature and authority of person administering oath) [S.L.220.07 8 OF THE VOLUNTEER RESERVE FORCE
