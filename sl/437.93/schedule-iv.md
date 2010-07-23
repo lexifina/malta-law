@@ -1,0 +1,10 @@
+## SCHEDULE IV
+# schedule-iv
+[Rules 16(2), 33(2) and 43(2)])
+Main criteria and risk factors to be considered for the Decision to apply measures in
+contact holdings or holdings and areas at risk in the further restricted zones
+Indicative criteria
+For depopulation Against depopulation Clinical signs suggesting avian influenza No clinical signs suggesting avian in contact holdings influenza on the contact holdings and
+no epidemiological link High susceptibility of predominant poultry Low susceptibility of predominant species poultry species Movement of poultry or other captive No known movement of poultry or birds from holdings where avian influenza other captive birds from the holdings has been confirmed to contact holdings where avian influenza has been after the likely time of introduction of confirmed to contact holdings after the virus on to those infected holdings likely time of introduction of virus on
+to those infected holdings Location of contact holdings in an area Location of contact holdings in an area with a high density of poultry with a low density of poultry Disease has been present for some time Disease present but with limited with likely spreading of virus from the spreading of virus from the holdings holdings where avian influenza has been where avian influenza has been confirmed before application of c on fi rm e d b efore a pp l icat io n o f eradication measures eradication measures Location of contact holdings within 500 Location of contact holdings more than metres (1) of the holdings where avian 500 metres (1) from the holdings where influenza has been confirmed avian influenza has been confirmed The contact holdings are linked to more The contact holdings are not linked to than one holding where avian influenza holdings where avian influenza has has been confirmed been confirmed The epidemic is not under control and the The epidemic is under control number of holdings where avian influenza has been confirmed is rising
+In cases where poultry density is very high, a greater distance must be considered.
