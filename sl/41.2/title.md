@@ -1,0 +1,4 @@
+SUBSIDIARY LEGISLATION 41.02
+ALCOHOLIC BEVERAGES REGULATIONS
+18th November, 1974
+LEGAL NOTICE 115 of 1974, as amended by: Legal Notices 36 of 1977 and 17 of 1996; Act XIII of 1983; Legal Notice 407 of 2007; and Act XIII of 2015.
