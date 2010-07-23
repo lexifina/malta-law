@@ -1,0 +1,6 @@
+SUBSIDIARY LEGISLATION 234.23
+SHIPS ELIGIBLE FOR REGISTRATION
+REGULATIONS
+30th March, 2001;
+25th February, 2003
+LEGAL NOTICES 69 of 2001 and 71 of 2003 - as amended by Legal Notices 348 of 2003, 124 of 2012, 22 of 2015 and 466 of 2020, consolidated.
