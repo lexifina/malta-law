@@ -1,0 +1,6 @@
+SUBSIDIARY LEGISLATION 104.02
+MOTOR DRIVEN AGRICULTURAL TRACTORS
+EXEMPTION ORDER
+30th December, 1957
+GOVERNMENT NOTICE 809 of 1957.
+The title of this Order is Motor Driven Agricultural 1. Tractors Exemption Order.
