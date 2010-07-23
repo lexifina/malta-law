@@ -1,0 +1,20 @@
+## SCHEDULE III
+## Avian Sheep influenza and goat plague
+## + +
+## - +
+## 0 0
+## (g) 0 treatment in accordance with criteria to be defined procedure in Article 12(2) following an opinion by the relevant Scientific Committee
+## (h) 0 treatment involving natural fermentation and maturation during at least 190 days for hams and 140 days for loins
+## (i) + ensuring temperature of at least 65°C is reached for the time necessary to achieve a pasteurisation value (pv) equal to or more than 40
+## M I L K p ro du c t s (i n c l ud i n g cream) for human consumption
+## (a) 0 temperature (UHT) (UHT = minimum treatment at 132°C for at least 1 second)
+## (b) 0 of less than 7.0. simple high temperature - short-time pasteurisation (HTST)
+## (c) 0 of 7.0 or more, double HTST
+## +:
+## 0:
+## (*)
+## (**) F0 is the calculated killing effect on bacterial spores. An F0 value of 3,00 means that the coldest point in the product has been heated sufficiently to achieve the same killing effect as 121°C (250°F) in three minutes with instantaneous heating and chilling.
+# schedule-iii
+1. Treatments to eliminate certain animal health risks linked to meat and milk
+DISTRIBUTION AND INTRODUCTION OF
+[S.L.437.70 10 PRODUCTS FOR HUMAN CONSUMPTION
