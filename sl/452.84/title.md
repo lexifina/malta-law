@@ -1,0 +1,4 @@
+SUBSIDIARY LEGISLATION 452.84
+GUARANTEE FUND REGULATIONS
+1st January, 2003
+LEGAL NOTICE 432 of 2002, as amended by Legal Notices 444 of 2004, 413 of 2005, 427 of 2007, 445 of 2007 and 445 of 2011; Act XXVII of 2016, and by Legal Notice 283 of 2017.
