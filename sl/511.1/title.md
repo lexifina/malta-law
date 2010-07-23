@@ -1,0 +1,4 @@
+SUBSIDIARY LEGISLATION 511.01
+GOZO PUBLIC LIBRARY REGULATIONS
+14th August, 1924
+GOVERNMENT NOTICE 210 of 1924, as amended by Government Notices 520 of 1944 and 357 of 1950; and Legal Notices 20 of 1974, 8 and 58 of 1983, and 408 of 2007.
