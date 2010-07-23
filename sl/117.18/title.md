@@ -1,0 +1,4 @@
+SUBSIDIARY LEGISLATION 117.18
+CONTROL OF KEROSENE REGULATIONS
+30th January, 1974
+LEGAL NOTICE 9 of 1974, as amended by Legal Notices 99 and 123 of 1975, 55 of 1976, and 409 of 2007; Act V of 2007; and Legal Notice 226 of 2012.
