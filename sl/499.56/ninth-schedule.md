@@ -1,0 +1,109 @@
+## NINTH SCHEDULE
+# ninth-schedule
+ADMINISTRATIVE PENALTIES
+(Regulation 108)
+Column 1 Column 2 Column 3
+Regulation Administrative penalties Administrative penalties
+for operators for drivers
+8(2) €50
+12 €100
+14(1) €50 per day
+22(3), (5), (6) €50
+23(1) €50
+25 €250
+27(2) €50
+27(3) €500
+32 €50
+34 €50
+35(2) €100
+35(3) €50
+36(2) €100
+36(3) €50 and in addition €50
+per day
+37(1), (2) €1,000
+38 €50 and in addition €50
+per day
+41 €100
+42(1) €500
+42(3) €100 or €200 where the €100 or €200 where the
+sale of a service is made sale of a service is made within five metres of a within five metres of a bus stop bus stop
+42(4) €100 €100
+43 €50
+44 €50 45 €100
+46 €100
+47 €500
+48 €50
+49 €100
+51 €50
+52(1) €10
+53 €10
+54 €100
+55 €100
+56 €150
+57 (1), (2) €150
+57 (3), (4) €150
+58 €25
+59 €100
+60 €100
+61 €100
+62 €100
+63 €250
+64(1), (5) €250
+64(2), (3), (4) €100
+65 €100
+66 €100
+67 €100
+68 €100
+68C €50
+68D The penalty prescribed
+in this Schedule for breaches of the specific regulations stipulated in regulation 6 8 D according to the specific regulation breached.
+68E(1), (4) €100
+68E(2), (3), (5), (6) €25
+68F €25
+68G(2) €50
+68K €100
+68O(2)(a),(b),(e) €500 €500 68O(2)(c) €500
+68O(2)(d) €500 and in addition €50
+per day
+68O(7) €500
+68O(10), (11) €100 or €200 where the €100 or €200 where the sale of a service is made sale of a service is made within five metres of a within five metres of a bus stop bus stop
+68P(1)(a) The penalty prescribed The penalty prescribed
+in this Schedule for in this Schedule for breaches of the specific breaches of the specific regulations stipulated in regulations stipulated in regulation 68P(1)(a) regulation 68P(1)(a) according to the specific according to the specific regulation breached. regulation breached.
+68P(1)(d), 68P(2), 68P(4) €500
+68Q(1) The penalty prescribed
+in this Schedule for
+breaches of the specific
+regulations stipulated in
+regulation 68R according
+to the specific regulation
+breached
+68Q(4) €500
+68Q(5) €200
+68Q(10)(c) €500
+68R(1) The penalty prescribed
+in this Schedule for
+breaches of the specific
+regulations stipulated in
+regulation 68R according
+to the specific regulation
+breached
+68R(2), 68R(8) €500
+68R(9), (10) and (11) €100 or €200 where the
+sale of a service is made
+within five metres of a
+bus stop or a taxi stand
+68O(10), (11) and (12) €100 or €200 where the
+sale of a service is made
+within five metres of a
+bus stop
+69(1)(a), (b), (c), (e) €500
+69(1)(d) €500 and in addition €50
+per day
+69(2), (3), (4), (5), (11) €500 69(6) €500 €500
+69(10), (11) €100 or €200 where the €100 or €200 where the sale of a service is made sale of a service is made within five metres of a within five metres of a bus stop bus stop
+72,73,74,75,76,77,78 €350 €350
+107(6) €150 for a first breach €150 for a first breach
+a n d € 1 , 0 0 0 f o r a a n d €1,000 for a subsequent breach subsequent breach
+- Amended by: L.N. 319 of 2009; L.N. 272 of 2010; L.N. 251 of 2011; L.N. 396 of 2011; L.N. 432 of 2012.
+- Substituted by: L.N. 116 of 2014.
+- Amended by: L.N. 238 of 2016:; L.N. 96 of 2017.
