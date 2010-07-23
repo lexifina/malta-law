@@ -1,0 +1,5 @@
+SUBSIDIARY LEGISLATION 65.01
+MOTOR ROUTE BUSES REGULATIONS
+26th November, 1948
+GOVERNMENT NOTICE 743 of 1948, as amended by Legal Notices 98 of 1959, 166 of 1990 and 150 of 2009; and Act XV of 2009.
+Revoked by Legal Notice 254 of 2011.
