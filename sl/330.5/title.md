@@ -1,0 +1,5 @@
+SUBSIDIARY LEGISLATION 330.05
+LICENSED NOMINEES (FEES) REGULATIONS
+19th September, 1994
+LEGAL NOTICE 194 of 1994, as amended by Legal Notices 219 of 2003 and 424 of 2007.
+Revoked by Legal Notice 156 of 2011.
