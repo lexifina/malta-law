@@ -1,0 +1,7 @@
+[S.L.458.06 1 TO BE KEPT AT DISPENSARIES
+SUBSIDIARY LEGISLATION 458.06
+MEDICINAL SUBSTANCES TO BE KEPT
+AT DISPENSARIES ORDER
+12th October, 1955
+GOVERNMENT NOTICE 565 of 1955.
+The title of this Order is List of Medicinal Substances to be 1. kept at Dispensaries Order.
