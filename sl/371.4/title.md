@@ -1,0 +1,7 @@
+[S.L.371.04 1 (REQUIREMENTS AND ACTIVITIES)
+SUBSIDIARY LEGISLATION 371.04
+REPRESENTATIVE OFFICES (REQUIREMENTS
+AND ACTIVITIES) REGULATIONS
+12th May, 1998
+LEGAL NOTICE 113 of 1998.
+The title of these regulations is the Representative Offices 1. (Requirements and Activities) Regulations.
