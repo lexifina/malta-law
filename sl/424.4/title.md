@@ -1,0 +1,7 @@
+[S.L.424.04 AND CONTROL OF PLANT) 1
+SUBSIDIARY LEGISLATION 424.04
+WORK PLACES (SUPERINTENDENCE AND
+CONTROL OF PLANT) REGULATIONS
+6th August, 1954
+GOVERNMENT NOTICE 340 of 1954, as amended by Government Notice 98 of 1956; Legal Notice 26 of 1964; Act XLIV of 1965; Legal Notices 62 of 1966, 17 and 116 of 1969, 72 of 1971, 70 of 1973, 11 of 1975, 25 of 1976, 124 of 1978 and 98 of 1981; Act XXVII of 2000; and Legal Notice 426 of 2007.
+Revoked by Legal Notice 293 of 2016.
