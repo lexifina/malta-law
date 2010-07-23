@@ -1,0 +1,7 @@
+[S.L.98.02 1 ESSENTIAL COMMODITIES
+SUBSIDIARY LEGISLATION 98.02
+CERTAIN ARTICLES DECLARED TO BE
+ESSENTIAL COMMODITIES ORDER
+3rd February, 1939
+GOVERNMENT NOTICE 51 of 1939.
+The title of this Order is Order declaring Certain Articles 1. to be Essential Commodities.
