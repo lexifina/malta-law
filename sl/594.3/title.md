@@ -1,0 +1,5 @@
+SUBSIDIARY LEGISLATION 594.03
+WAITERS IN HOTELS SCHEME
+- SCHEME NO. 4
+7th November, 1952
+GOVERNMENT NOTICE 524 of 1952, as amended by Government Notices 114 of 1953 and 212 of 1957, Act XLIV of 1965, and Legal Notices 32 of 1967, 119 of 1969, 47 and 77 of 1970, and 424 of 2007.
