@@ -18,4 +18,5 @@ When identifying less sensitive areas, the competent authority shall take into a
 The following elements shall be taken into consideration when identifying less sensitive areas:
 open bays, estuaries and other coastal waters with a good water exchange and not subject to eutrophication or oxygen depletion or which are considered unlikely to become eutrophic or to develop
 oxygen depletion due to the discharge of urban waste water.
-- Amended by: L.N. 120 of 2005; L.N. 373 of 2024.
+D - MAP ILLUSTRATING DESIGNATED SENSITIVE AREAS
+- Amended by: L.N. 120 of 2005.
