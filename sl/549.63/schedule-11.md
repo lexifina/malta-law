@@ -1,0 +1,15 @@
+## SCHEDULE 11
+# schedule-11
+WASTE MANAGEMENT FUND
+The Waste Management Fund shall include:
+(a) any revenue generated through any out of court settlement agreement regulated by article 83 of the Act in relation to:
+(i) S.L. 549.43 - Waste Management (Packaging and Packaging Waste)
+(ii) S.L. 549.89 - Waste Management (Electrical and Electronic Equipment) Regulations
+(iii) S.L. 549.54 - Waste Management (Waste Batteries and Accumulators) Regulations
+(iv) S.L. 549.36 - Waste Management (End of Life Vehicles) Regulations
+(b) any additional fees taken as an environmental gain pursuant to producers or schemes failing to achieve targets set out in regulation 8 of the Waste Management (Packaging and Packaging Waste);
+(c) any funds arising out of forfeiture of financial guarantees under:
+(i) S.L. 549.43 - Waste Management (Packaging and Packaging Waste)
+(ii) S.L. 549.89 - Waste Management (Electrical and Electronic Equipment) Regulations
+(iii) S.L. 549.54 - Waste Management (Waste Batteries and Accumulators) Regulations".
+- Added by: L.N.164 of 2017.
