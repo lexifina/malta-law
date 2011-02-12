@@ -1,0 +1,5 @@
+SUBSIDIARY LEGISLATION 10.18
+LICENSED BAGGAGE PORTERS REGULATIONS
+23rd November, 1937
+GOVERNMENT NOTICE 508 of 1937, as amended by Government Notices 138 of 1946, 592 of 1949, 245, 545 and 668 of 1950, and Legal Notice 50 of 1962.
+Revoked by Legal Notice 144 of 2006.
