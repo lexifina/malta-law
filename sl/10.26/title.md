@@ -1,0 +1,5 @@
+SUBSIDIARY LEGISLATION 10.26
+BATHING OF ANIMALS REGULATIONS
+5th August, 1960
+LEGAL NOTICE 31 of 1960, as amended by Legal Notices 90 of 1975, 45 of 1977 and 2 of 1993.
+Revoked by Legal Notice 125 of 2008.
