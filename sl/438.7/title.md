@@ -1,0 +1,5 @@
+SUBSIDIARY LEGISLATION 438.07
+GAMING DEVICES REGULATIONS
+16th May, 2011*
+LEGAL NOTICE 75 of 2011, as amended by Legal Notices 426 of 2012 and 85 of 2014.
+Repealed by Act XVI of 2018.
