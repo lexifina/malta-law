@@ -1,0 +1,5 @@
+SUBSIDIARY LEGISLATION 454.11
+TAXIMETER REGULATIONS
+15th September, 2006*
+LEGAL NOTICE 411 of 2002, as amended by Legal Notice 221 of 2006.
+Revoked by Legal Notice 221 of 2006.
