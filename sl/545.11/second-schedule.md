@@ -1,0 +1,8 @@
+## SECOND SCHEDULE
+# second-schedule
+Regulation 5(8)
+Energy content of transport fuels
+Fuel Energy content by Energy content by
+weight volume
+(lower calorific value, (lower calorific value,
+MJ/kg) MJ/l) Bioethanol (ethanol produced from 27 21 biomass) Bio-ETBE (ethyl-tertio-butyl-ether 36 (of which 37% from 27 (of which 37% from produced on the basis of bioethanol) renewable sources) renewable sources) Biomethanol (methanol produced from 20 16 biomass, to be used as biofuel) Bio-MTBE (methyl-tertio-butyl-ether 35 (of which 22% from 26 (of which 22% from produced on the basis of bio-methanol) renewable sources) renewable sources) Bio-DME (dimethylether produced from 28 19 biomass, to be used as biofuel) Bio-TAEE (tertiary-amyl-ethyl-ether 38 (of which 29% from 29 (of which 29% from produced on the basis of bioethanol) renewable sources) renewable sources) Biobutanol (butanol produced from 33 27 biomass, to be used as biofuel) Biodiesel (methyl-ester produced from 37 33 vegetable or animal oil, of diesel quality, to be used as biofuel) Fischer-Tropsch diesel (a synthetic 44 34 hydrocarbon or mixture of synthetic hydrocarbons produced from biomass) Hydrotreated vegetable oil (vegetable oil 44 34 thermochemically treated with hydrogen) Pure vegetable oil (oil produced from oil 37 34 plants through pressing, extraction or comparable procedures, crude or refined but chemically unmodified, when compatible with the type of engines involved and the corresponding emission requirements) Biogas (a fuel gas produced from 50 -biomass and/or from the biodegradable fraction of waste, that can be purified to natural gas quality, to be used as biofuel, or wood gas) Petrol 43 32 Diesel 43 36
