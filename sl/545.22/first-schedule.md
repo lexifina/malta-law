@@ -1,0 +1,14 @@
+## FIRST SCHEDULE
+# first-schedule
+Regulation 2
+Product CN CODE Comment as Listed in CN CODE Benzol (benzene) 2707 10 90 For purposes other than as a power
+or heating fuel Toluol (toluene) 2707 20 90 For purposes other than as a power
+or heating fuel Xylol (xylenes) 2707 30 90 For purposes other than as a power
+or heating fuel Other aromatic hydrocarbon 2707 50 90 For purposes other than as a power mixtures of which 65% or more or heating fuel by volume (including losses) distils at 250ºC by the ASTM D 86 method Phenols 2707 60 00 Creosote oils 2707 91 00 Sulphuretted toppings 2707 99 30 Basic products 2707 99 50 Anthracene 2707 99 70 Light oils and preparations 2710 11 11 For undergoing a specific process Light oils and preparations 2710 11 15 F o r u n d e rg o i n g chemical
+transformation by a process other than those specified in respect of subheading 2710 11 15 White Spirit 2710 11 21 Medium oils 2710 19 11 For undergoing a specific process Gas oils 2710 19 31 For undergoing a specific process Gas oils 2710 19 35 F o r u n d e rg o i n g chemical
+transformation by a process other than those specified in respect of subheading 2710 19 31 Lubricating oils; other oils 2710 19 71 For undergoing a specific process Lubricating oils; other oils 2710 19 75 F o r u n d e rg o i n g chemical
+transformation by a process other than those specified in respect of subheading 2710 19 71 Liquids for hydraulic purposes 2710 19 81 Motor oils, compressor lube oils, 2710 19 83 turbine lube oils White oils, liquid paraffin 2710 19 85 Gear oils and redactor oils 2710 19 87 Metalworking compounds, 2710 19 91 mould-release oils, anti-corrosion oils Electrical insulating oils 2710 19 93
+Product CN CODE Comment as Listed in CN CODE Other lubricating oils and other 2710 19 99 oils Propane 2711 12 11 For purposes other than as a power
+or heating fuel Butanes 2711 13 10 For undergoing a specific process Butanes 2711 13 30 F o r u n d e rg o i n g chemical
+transformation by a process other than those specified in respect of subheading 2710 13 10 Ethylene, propylene, buthylene 2711 14 00 and butadiene Petroleum jelly; Crude 2712 10 10 Petroleum jelly; Other 2712 10 90 Paraffin wax containing by 27122010Synthetic paraffin wax of a weight less than 0,75% of oil molecular weight of 460 or more
+but not exceeding 1 560 Paraffin wax containing by 2712 20 90 Other weight less than 0,75% of oil Bitumen and asphalt, natural; 2714 10 00 Bituminous or oil-shale and tar bituminous or oil-shale and tar sands sands; asphaltites and asphaltic rocks Bitumen and asphalt, natural; 2714 90 00 Other bituminous or oil-shale and tar sands; asphaltites and asphaltic rocks Bituminous mixtures based on 2715 00 00 natural asphalt, on natural bitumen, on petroleum bitumen, on mineral tar or on mineral tar pitch (for example, bituminous mastics, cut-backs)
