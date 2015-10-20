@@ -1,0 +1,5 @@
+SUBSIDIARY LEGISLATION 423.08
+PETROLEUM (LICENCE FEES) REGULATIONS
+1st February, 1978
+LEGAL NOTICE 18 of 1978, as amended by Legal Notices 40 of 1986 and 426 of 2007.
+Revoked by Legal Notice 53 of 2010.
