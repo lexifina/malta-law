@@ -1,0 +1,7 @@
+[CAP. 548. ASIAN INFRASTRUCTURE INVESTMENT BANK 1
+CHAPTER 548
+MALTA MEMBERSHIP OF THE ASIAN
+INFRASTRUCTURE INVESTMENT BANK ACT
+To enable Malta to become a founding member of the Asian Infrastructure Investment Bank.
+22nd December, 2015
+ACT XLIV of 2015.
