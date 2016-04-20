@@ -1,4 +1,5 @@
 ## SCHEDULE I
+## * OJ L 39, 15.2.1980, p. 40.
 ## Maximum permissible error
 ## ± 0.5 e
 ## ± 1.0 e
@@ -57,7 +58,8 @@ Multi-interval instruments shall not be equipped with an auxiliary indicating de
 - its verification scale interval ei with e(i + 1) > ei - its maximum capacity Maxi with Maxr = Max - its minimum capacity Mini with Mini = Max (i + 1)
 and Min1 = Min
 where:
-i = 1, 2, ...... r, i = partial weighing range number,
+i = 1, 2, ...... r,
+i = partial weighing range number,
 r = the total number of partial weighing ranges.
 (3.3) The partial weighing ranges are classified according to Table 2. All partial weighing ranges shall fall into the same accuracy class, that class being the instrument's accuracy class.
 TABLE 2
