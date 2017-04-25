@@ -1,0 +1,61 @@
+## SCHEDULE
+# schedule
+(Article 3)
+Policy relating to the Transfers of Government Land
+Interpretation
+1. In this document the words 'land' and 'transfer' shall have the same meaning as is given to them by this Act; and any reference to 'government land' or 'government building' includes a reference to any land or building administered by Government.
+2. The cases in which government land may be transferred according to policy as contained in this schedule are additional to the cases in which government land may be transferred according to article 3(1)(a), (b), (d), (e) and (f) of this Act.
+Transfer by title of sale or redemption
+3. Government land may be sold or the perpetual or temporary dominium directum burden thereon may be redeemed if such land consists of flats, houses or garages which are offered by means of a public notice to be bought or redeemed by a person who resides therein in the case of flats or houses, or by the recognized emphyteuta or tenant in the case of garages, under such conditions as are shown in that notice.
+3a. The perpetual dominium directum of government land, where the ground-rent is revisable, may be redeemed by the recognised emphyteuta, in accordance with any conditions contained in a public notice.
+3b. Government land which had originally been granted by Government on title of lease or title of emphyteusis, even if such emphyteusis has expired, and which is used for commercial purposes only may, by means of a public notice or scheme in force, be granted on a new title of lease or emphyteusis to the present tenant or person occupying the said tenement.
+Transfer by title of emphyteusis
+4. Government land may be transferred by title of emphyteusis:
+(a) if it consists in land which is offered for development under a 'Home Ownership Scheme' by means of a public notice containing the conditions of the transfer and the manner of choice of the person who is making an offer;
+(b) if it consists in land which is offered for an industrial project after applicant would have satisfied Government about the benefit which the project would render to the country's economy and that it would create an adequate number of jobs;
+(c) if it consists in land which is offered for twenty-five (25) years for the building of kiosks according to plans approved by the Planning Authority, to such persons who in 1996 had a valid permit issued by the Department of Lands to operate a kiosk in such same locality;
+(d) if it consists of land granted for a period of fifty (50) years to licensed livestock farmers in the dairy and/or pig-breeding sectors for the running of farms.
+5. Emphyteutical grants given previously under the 'Home Ownership Schemes' for a definitive period, may be converted into perpetual emphyteusis.
+Transfer by title of lease
+6. Government land may be given by lease:
+(a) if it consists in a new building (not being a building for commercial use) which is offered on a points system after the issue of a public notice indicating, at least in a general manner, the criteria on which the allocation of points will be made;
+(b) if it consists in an old building (not being for commercial use) which is offered according to the merits of the case to whosoever is listed on the registers of the government department which is responsible for such matters;
+(c) if it consists in a factory which is offered for an industrial project after applicant would have satisfied Government about the benefits which the project would render to the country's economy and that it would create an adequate number of jobs;
+(d) if it consists in agricultural land:
+(i) which is offered on agricultural lease to whosoever would be cultivating it although such person may not have any title thereto:
+(ii) in respect of which, following the death of the tenant, there is no other person who qualifies as a tenant or who is able to continue the lease in terms of the Agricultural Leases (Reletting) Act, then such agricultural lease may be given to the brothers or sisters or to the sons or daughters of the said brothers or sisters of the said tenant whether individually or in solidum between them or between any of them who at the time of the tenant's death was a bona fide professional farmer. For the purposes of this paragraph "professional farmer" means a person who is registered with the Director for Agriculture and who satisfies the following conditions:
+(a) is registered as a full time farmer with Jobsplus;
+(b) has a minimum annual turnover of at least €20,000 calculated on the last three calendar years, that is supported by proof of sale and from the declarations made in the Value Added Tax returns: Provided that the turnover shall be based on sales originating from the agricultural land held by that person and that the turnover shall exclude any income originating from the provision of agricultural services including the contracting or subcontracting of machinery or work, of income from pruning, of income from grafting, of income from the delivery or transport of agricultural products, of income from the transport of water or manure, of income from the pressing of grapes or olives and of income not originating from the agricultural land that is held by that person; and
+(iii) is a member of an agricultural cooperative, of a producer organisation or of a recognized farmers' association. For the purposes of this paragraph "agricultural land" means land which is mainly leased or rented for the growing of agricultural crops, flowers, fruit-trees or vines and for related agricultural purposes, including the erection of glasshouses, the assembly of cloches or
+cold frames but does not include grazing grounds;
+(e) if it consists in land which is directly allocated:
+(i) to a lotto receiver;
+(ii) to a person who has relinquished his place of residence or any other premises occupied by him for commercial purposes or for any other use, and would either have been evicted by Government for any public purpose or would have relinquished such premises due to its dangerous state;
+(f) if it consists in a building (comprising land accessory thereto) which is mainly offered for a specific commercial use which may be only carried out under a licence issued by the Government for such use under a special law;
+(g) if it consists in commercial premises which are directly allocated by Government on a new lease to such children or grand-children as the preceding tenant would have renounced in their favour (and then only if such tenant would have reached the age of sixty-one years or is in receipt of an invalidity pension under the Social Securtity Act (Cap. 318)). The rent of the premises shall be fixed on the basis of the previous lease increased by ten per cent for each period of ten years and/or part thereof which would have passed from the date of the last fixing of the rent of the preceding lease;
+(h) if it consists in commercial premises leased on a yearly basis, which was in the past given by title of lease for an established period exceeding one year, to the same tenant. The lease of the premises is given to the same tenant, under the conditions of the original title, other than for the rent which is fixed again, sohowever that no lease may exceed a period of fifteen (15) years;
+(i) if it consists of land which formed part of a larger land and is being allocated directly by Government on a new lease to the preceding tenant under the same conditions but at a different rent;
+(j) if it consists of a concession under a temporary title for a maximum
+period of time of ten years of land situated outside Malta.
+Servitudes, encroachments and other permits.
+7. Servitudes and other similar rights may be created on government land whenever such rights are required for the proper use of any other land by any other person, and it would not be the case that such right is given on encroachment terms. In any other case such rights may and shall be given on encroachment terms.
+8. Encroachment terms are also allowed as regards:
+(i) stretches of shore land as 'beach concessions';
+(ii) land adjacent to coffee-shops and similar establishments for the placing of tables and chairs; and
+(iii) other similar concessions.
+9. Permits may also be granted for the temporary or specific use of government land.
+Right of first refusal
+10. Offers for the transfer of government land may be made subject to the right known as the right of first refusal in any instance where Government deems it appropriate that such right should be conceded to any person.
+Sub-lease in a lease agreement
+11. Permission may be granted for the sub-lease of part of a larger building for commercial use connected with or accessory or ancillary to use made by the Government of the building of which the leased premises form part.
+Transfer of land on the sea shore
+12. Government land situated on the sea shore on which a room or any other building has been built or which is being used for the siting of a caravan thereon may be transferred by title of lease for not more than ten years at a rent fixed according to a valuation made by the Commissioner of Lands and which may in no case be less than €93.17 annually;
+Sohowever that the building together with all improvements made thereon, other than existing movables, shall revert to Government on the expiration of the lease without any right of compensation.
+Land given by exchange
+13. Government land may be given by exchange with any other land which is declared as required for a public purpose under Chapter 88 of the Laws of Malta, to the owner of the land which has been so declared. Provided that when a difference exists in the value of the two plots of land given by exchange, such difference shall be balanced with also giving an additional sum of money. Sohowever that the exchange may not be effected if the value of the government land to be given exceeds thirty per cent of the value of the expropriated land. Any damages sustained due to the expropriation of such land shall form part of the value of the same land.
+Tale quale transfer for relative compensation
+14. Any plots of land comprised in such Building Development Areas, also including such plots of land in Building Development Areas which have been revoked, and which have not been utilized and[or there is apparently no use for them for a public purpose, may be transferred by title of exchange to the owners of the rights for relative compensation for each plot of land which is so transferred and for which an application has been submitted, with money's worth for each plot of land, of the rights for compensation regarding the same land, and when the person to whom the land shall be transferred was not the absolute owner of such land prior to its expropriation by Government, with money's worth also of an equivalent amount for each right of any other compensation relating to such land, free and exempt from any burden, hypothec or privilege, and also every right for any other interests or damages which may be due.
+The person in whose favour the land is transferred is bound, on the same deed of transfer, to reconstitute on the land so transferred to such person any hypotech, privilege, easement, usufruct, use or any other real right which had existed on the same land prior to such land being declared a Building Development Area according to Act I of 1983 and which are presently incumbent on the compensation rights, until such time as such rights have not been erased by agreement between the parties prior to the reverse transfer; the person to whom such land is transferred shall also be obligated to bind itself on the same deed to recognize any right ta' rural lease and any other right which was incumbent on such land prior to such land being declared a Building Development Area in terms of the said Act I of 1983.
+The expenses relating to the deed of transfer shall be paid by the Government of Malta.
+- Added by: XVII. 2004.3.
+- Amended by: Resolution No; 178 of the 11th; April, 2005; L.N. 423 of 2007; Resolution No; 318 of the 19th; November, 2007; Resolution No; 284 of the 14th; December, 2011; Resolution No; 338 of the 6th; December, 2012; Resolution No; 227 of the 22nd; June, 2015; XXVII. 2016.6.
