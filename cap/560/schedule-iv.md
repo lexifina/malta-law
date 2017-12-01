@@ -1,0 +1,6 @@
+## SCHEDULE IV
+# schedule-iv
+PERSONS AUTHORISED TO USE THE CARD
+1. Only the persons indicated under article 13 of this Act are eligible for the issuance of the Card.
+2. The Card may only be used in accordance with article 8 of this Act.
+3. Any breach of the provisions of this Act shall result in the consequences laid down by this Act.
