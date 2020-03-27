@@ -1,0 +1,6 @@
+SUBSIDIARY LEGISLATION 465.21
+CLOSURE OF PLACES OPEN TO
+THE PUBLIC ORDER
+17th March, 2020
+LEGAL NOTICE 76 of 2020, as amended by Legal Notice 82, 171 and 204 of 2020.
+Repealed by Legal Notice 232 of 2020.
