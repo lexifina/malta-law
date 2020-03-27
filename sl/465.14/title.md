@@ -1,0 +1,5 @@
+SUBSIDIARY LEGISLATION 465.14
+CLOSURE OF SCHOOLS ORDER
+12th March 2020
+LEGAL NOTICE 41 of 2020, as amended by Legal Notice 229 of 2020.
+Repealed by Legal Notice 243 of 2020.
