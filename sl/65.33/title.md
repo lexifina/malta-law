@@ -1,0 +1,15 @@
+[S.L. 65.33 VEHICLE HIRE SERVICES 1
+SUBSIDIARY LEGISLATION 65.33
+LIGHT PASSENGER TRANSPORT SERVICES AND
+VEHICLE HIRE SERVICES REGULATIONS
+4th September, 2020
+LEGAL NOTICE 366 of 2020.
+Regulations Part I Preliminary 2 - 4 Part II Operator's Licence for Light Passenger Transport
+5 - 14
+Services Part III Light Passenger Transport Services: Obligations
+15 - 37
+and Requirements of the Operator Part IV Driver's Permit 38 - 45 Part V Operator's Licence for Vehicle Hire Services 46 - 49 Part VI Vehicle Hire Services: Obligations and Require-
+50 - 55
+ments of the Operator Part VII The Light Passenger and Vehicle Hire Services
+56 - 57
+Register Part VIII Licensed Vehicles 58 - 63 Part IX Booking Platforms 64 - 66 Part X Offences and Penalties 67 - 74 Part XI General and Transitory Provisions 75 - 77 SCHEDULES First Schedule Fees Second Schedule Sign denoting that the vehicle is a wheelchair accessible light passenger transport vehicle Third Schedule List of subjects to be covered in the training course Fourth Schedule Administrative Penalties
