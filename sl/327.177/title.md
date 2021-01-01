@@ -1,4 +1,4 @@
 SUBSIDIARY LEGISLATION 327.177
 UNIVERSITY FEES REGULATIONS
 1st October, 2008; 1st October, 2009
-LEGAL NOTICE 258 of 2009, as amended by Legal Notices 370 of 2009, 397 of 2010, 302 and 430 of 2012, 301 of 2013, 56 of 2015 and 141 of 2016.
+LEGAL NOTICE 258 of 2009, as amended by Legal Notices 370 of 2009, 397 of 2010, 302 and 430 of 2012, 301 of 2013, 56 of 2015 and 141 of 2016 and XXIX of 2019.
