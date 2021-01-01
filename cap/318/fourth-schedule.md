@@ -150,3 +150,4 @@ region: the subacromial, the subdeltoid, the subcoracoid, and the subscapular, w
 52. Diseases due to overstraining of the Condition caused by inflammation of the peritendineum peritendineum (the fibrous layer around
 the tendon). This condition is common in the wrist but may involve other tendons. It is caused by prolonged periods of highly repetitive wrist/hand movements such as meat cutting, fish filleting, machine feeding, manual assembly, use of hand-held tools. The use of force and awkward position of the hand are aggravating factors. 53. Miner's nystagmus Historical occupational disease associated
 with poor lighting in underground work, which involves problems in focusing. Pendular or rotating nystagmus may be accompanied by dizziness and headaches. This condition occurs after years of working in a poorly lit environment.
+- Substituted by: L.N. 342 of 2012.
