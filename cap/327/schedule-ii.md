@@ -187,7 +187,7 @@ Citation and interpretation
 "the Senate" means the Senate of the University; and
 "the University" means the University of Malta.
 Applicability
-2. These regulations shall be applcable from October 2020 onwards.
+2. These regulations shall be applicable from September 2016 onwards.
 Courses
 3. The Courses are offered at the following levels:
 (a) Doctoral Degrees;
