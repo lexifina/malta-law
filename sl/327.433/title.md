@@ -4,3 +4,4 @@ FURTHER AND HIGHER EDUCATION (LICENSING, ACCREDITATION AND
 QUALITY ASSURANCE) REGULATIONS
 24th September, 2012
 LEGAL NOTICE 296 of 2012, as amended by Legal Notice 150 of 2015.
+These regulations have been transposed to Cap. 607, see S.L. 607.03 - See Act II of 2020.

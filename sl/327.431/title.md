@@ -4,3 +4,4 @@ MALTA QUALIFICATIONS FRAMEWORK
 FOR LIFELONG LEARNING REGULATIONS
 24th September, 2012
 LEGAL NOTICE 294 of 2012.
+These regulations have been transposed to Cap. 607, see S.L. 607.01 - See Act II of 2020.
