@@ -2,4 +2,5 @@ SUBSIDIARY LEGISLATION 327.65
 ENGLISH LANGUAGE TEACHING COUNCIL
 REGULATIONS
 15th July, 2015
-LEGAL NOTICE 221 of 2015.
+LEGAL NOTICE 221 of 2015, as amended by Act II of 2020.
+These Regulations have been transposed to Cap 605, see S.L. 605.05. - See Act XXIX of 2019.
