@@ -1,4 +1,4 @@
 SUBSIDIARY LEGISLATION 594.19
 EXTENDED SKILL TRAINING REGULATIONS
 1st October, 1997
-LEGAL NOTICE 73 of 1998, as amended by Legal Notices 180 of 1999, 5 of 2000, 238 of 2001, 108 and 274 of 2003, 367 of 2004, 214 of 2005 and 424 of 2007; and Act XXVII of 2016.
+LEGAL NOTICE 73 of 1998, as amended by Legal Notices 180 of 1999, 5 of 2000, 238 of 2001, 108 and 274 of 2003, 367 of 2004, 214 of 2005 and 424 of 2007; Acts XXVII of 2016 and XXIX of 2019.
