@@ -3,3 +3,4 @@ NATIONAL CURRICULUM FRAMEWORK
 REGULATIONS
 22nd February, 2013
 LEGAL NOTICE 69 of 2013.
+These Regulations have been transposed to Cap 605, see S.L. 605.03. - See Act XXIX of 2019.

@@ -3,3 +3,4 @@ INSTITUTE FOR THE PUBLIC SERVICES
 (ESTABLISHMENT) ORDER
 7th October, 2016
 LEGAL NOTICE 325 of 2016.
+These Regulations have been transposed to Cap 605, see S.L. 605.11. - See Act XXIX of 2019.

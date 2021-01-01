@@ -6,5 +6,5 @@ SUBSIDIARY LEGISLATION CONST.05
 PUBLIC SERVICE COMMISSION APPOINTMENTS
 REGULATIONS
 1st February, 2016*
-LEGAL NOTICE 333 of 2015, as amended by Legal Notice 54 of 2016, 126 of 2017 and 327 of 2019.
+LEGAL NOTICE 333 of 2015, as amended by Legal Notice 54 of 2016, 126 of 2017, 327 of 2019 and Act XXIX of 2019.
 Part I - Preliminary

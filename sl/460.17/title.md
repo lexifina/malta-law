@@ -4,6 +4,6 @@ FREE MOVEMENT OF EUROPEAN UNION
 NATIONALS AND THEIR FAMILY MEMBERS
 ORDER
 20th July, 2007
-LEGAL NOTICE 191 of 2007, as amended by Legal Notices 427 of 2007, 329 of 2011 and 107 of 2012.
+LEGAL NOTICE 191 of 2007, as amended by Legal Notices 427 of 2007, 329 of 2011, 107 of 2012 and Act XXIX of 2019.
 Part I
 Preliminary

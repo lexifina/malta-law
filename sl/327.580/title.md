@@ -3,3 +3,4 @@ NATIONAL BOOK COUNCIL
 (ESTABLISHMENT) ORDER
 5th December, 2017
 LEGAL NOTICE 339 of 2017.
+These Regulations have been transposed to Cap 605, see S.L. 605.12. - See Act XXIX of 2019.

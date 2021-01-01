@@ -3,6 +3,6 @@ EQUAL OPPORTUNITIES (PERSONS WITH
 DISABILITY) ACT
 10th February, 2000
 1st October, 2000
-ACT I of 2000, as amended by Legal Notice 426 of 2007; and Acts II and XXIV of 2012, and XXIV of 2016.
+ACT I of 2000, as amended by Legal Notice 426 of 2007; and Acts II and XXIV of 2012, XXIV of 2016 and XXIX of 2019.
 PART I
 PRELIMINARY

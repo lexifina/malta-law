@@ -3,3 +3,4 @@ NATIONAL SKILLS COUNCIL (ESTABLISHMENT)
 ORDER
 9th August, 2016
 LEGAL NOTICE 278 of 2016.
+These Regulations have been transposed to Cap 605, see S.L. 605.10. - See Act XXIX of 2019.

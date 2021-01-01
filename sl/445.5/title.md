@@ -4,4 +4,4 @@ NATIONAL MUSEUMS, SITES AND COLLECTIONS
 (ADMISSION FEES) REGULATIONS
 1st November, 2004;
 22nd May, 2010
-LEGAL NOTICE 446 of 2004, as amended by Legal Notices 426 of 2007, 160 of 2009, 27 of 2013 and 58 of 2014.
+LEGAL NOTICE 446 of 2004, as amended by Legal Notices 426 of 2007, 160 of 2009, 27 of 2013 and 58 of 2014 and Act XXIX of 2019.
