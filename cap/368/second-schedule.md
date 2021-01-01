@@ -1,5 +1,4 @@
 ## SECOND SCHEDULE
-## Petrol engined
 ## Latest European Standard minus 3 and older
 ## CO2 x RV x 0.23%
 ## CO2 x RV x 0.26%
@@ -9,9 +8,6 @@
 ## CO2 x RV x 0.40%
 ## CO2 x RV x 0.44%
 ## CO2 x RV x 0.47%
-## Diesel-engined with particulate matter of over 0.005g/km
-## Latest European
-## and older
 ## 0g/km up to and including 100g/km
 ## More than 100g/ km including 130g/km
 ## More than 130g/ km including 140g/km
@@ -20,14 +16,20 @@
 ## More than 180g/ km including 220g/km
 ## More than 220g/ km including 250g/km
 ## More than 250g/ km
+## Diesel-engined with particulate matter of over 0.005g/km
+## Latest European
+## and older
 # second-schedule
 [Articles 3, 6, 8, 17A, 18]
 Registration tax to be paid on the registration of category
 M motor vehicles, quadricycles, motor cycles and quad
 bikes (including electric and hybrid electric motor vehicles)
-Category A: M1 motor vehicles (including autogas vehicles, vehicles to be registered to be used as taxicars, hired or leased vehicles and chauffeur driven vehicles), other than those vehicles classified under Category H, whether new or used (rates based on the CO2 and length of the vehicle):
-Length Rates
-0 up to and including 3450mm 0.0020% x Length x RV More than 3450mm up to and including 3640mm 0.0022% x Length x RV More than 3640mm up to and including 3770mm 0.0024% x Length x RV More than 3770mm up to and including 4030mm 0.0026% x Length x RV More than 4030mm up to and including 4370mm 0.0028% x Length x RV More than 4370mm up to and including 4570mm 0.0030% x Length x RV More than 4570mm up to and including 4770mm 0.0032% x Length x RV More than 4770mm 0.0034% x Length x RV
+Category A: M1 motor vehicles (including autogas vehicles, vehicles to be registered to be used as taxicars, hired or leased vehicles and chauffeur driven vehicles), other than those vehicles classified under Category H, whether new or used (rates based on the CO2 and length of the vehicle): Under Category A, CO2 emissions data are measured according to NEDC standard
+Length Rates 0 up to and including 3450mm 0.0020% x Length x RV
+More than 3450mm up to and including 3640mm 0.0022% x Length x RV More than 3640mm up to and including 3770mm 0.0024% x Length x RV More than 3770mm up to and including 4030mm 0.0026% x Length x RV More than 4030mm up to and including 4370mm 0.0028% x Length x RV More than 4370mm up to and including 4570mm 0.0030% x Length x RV More than 4570mm up to and including 4770mm 0.0032% x Length x RV More than 4770mm 0.0034% x Length x RV
+Where the registration tax calculated for the same vehicle according to the values stipulated under Category AA results to be higher than the registration tax payable when calculated according to the values stipulated under Category A, the registration tax payable when calculated according to the values stipulated under Category A shall apply.
+Category AA: M1 motor vehicles (including autogas vehicles, vehicles to be registered to be used as taxicars, hired or leased vehicles and chauffeur driven vehicles), other than those vehicles classified under Category H, whether new or used (rates based on the CO2 and length of the vehicle).
+Under Category AA, CO2 emissions data are measured according to WLTP standard:
 For the purpose of registration tax, where an M1 motor vehicle whose year of manufacture falls under any of the following years of manufacture, is not accompanied by an official document showing the emission levels equivalent to Euro standards (the said official document may be a certificate of conformity or a type approval certificate or a vehicle registration certificate or a declaration by the vehicle's manufacturer), the registration tax rates to be paid thereon shall be equivalent to those under the different Euro standards:
 Where a motor vehicle, which falls under a category to which the Second Schedule of this Act applies, registered by a person with disability has been exempted from the payment of registration tax by means of an order issued by the Minister in terms of article 19(2) of this Act, no refund of the exempted registration tax shall be due in the event that such a vehicle is transferred after ten years from the date of registration. In the event that the vehicle so exempted is transferred prior to the expiration of ten years from the date of registration, the exempted registration tax shall be refunded. The refund due shall be calculated on the basis of the registration tax which would have been due had the exemption not been given discounted at the rate of ten per cent per annum to be reckoned from the date of registration.
 Euro Standard Table for Registration Purposes indicating Year of Manufacture and/or
@@ -64,7 +66,7 @@ Autogas vehicles
 In respect of autogas vehicles the CO2 emissions of the vehicle shall be -
 (a) those submitted by the manufacturer of the vehicle or by an approved accredited technical service in respect of vehicles which run solely on autogas or vehicles which run on both autogas and petrol or diesel, or
 (b) where no emissions are submitted by a vehicle's manufacturer or by an approved accredited technical service in terms of paragraph (a) or where a vehicle has been converted to run on autogas and no emissions are submitted, the CO2 emissions of the said vehicle shall be automatically reduced by 10%.
-(6) For M1 motor vehicles with CO2 emission levels equal to or higher than 221g/km (and having an emission level equivalent to the latest European Standard or latest European Standard minus one or latest European Standard minus two) and motor cycles with an engine capacity equal to or higher than 801cc which are to be registered for use on the road in Malta solely and exclusively on Saturdays, Sundays, national holidays and other public holidays, the rate of registration tax payable shall be forty per cent of the full rate payable in terms of this Schedule. A minimum level of registration tax equal to €2,000 for M1 vehicles and €1,000 for motor cycles will be applicable to both new and used vehicles being registered in accordance with article 8(4).
+(6) For M1 motor vehicles with CO2 emission levels equal to or higher than two-hundred (200) according to NEDC standard or two-hundred and twenty (220) or higher according to WLTP standard (and having an emission level equivalent to the latest European Standard or latest European Standard minus one (1) or latest European Standard minus two (2)) and motor cycles with an engine capacity equal to or higher than eight-hundred and one (801cc) which are to be registered for use on the road in Malta solely and exclusively on Fridays as from 18.00hrs onwards, Saturdays, Sundays, national holidays and other public holidays, the rate of registration tax payable shall be forty per cent (40%) of the full rate payable in terms of this Schedule. A minimum level of registration tax equal to two-thousand euro (€2,000) for M1 vehicles and one-thousand euro (€1,000) for motor cycles shall be applicable to both new and used vehicles being registered in accordance with article 8(4).
 Category E: Converted exempted or partly-exempted M1 motor vehicles
 and motor cycles and self-drive and chauffeur driven motor vehicles
 (1) Where an M1 motor vehicle or a motor cycle which, upon registration, had been exempted from the payment of registration tax under article 19 of this Act, is sold to a person who does not qualify for a full registration tax exemption there shall be paid thereon the tax applicable to the market value of the vehicle.
@@ -100,4 +102,4 @@ electric vehicles ………………………………..........................
 - Substituted by: XXVI. 1997.2.
 - Amended by: XVI. 1998.3.
 - Substituted by: VI. 1999.2; VI. 2009.30.
-- Amended by: XI. 2010.17; IV. 2011.52; V. 2012.42; L.N. 86 of 2013; III. 2013.51; XII. 2014.57; XV. 2016.24; XVI. 2017.59; VII.2018.51.
+- Amended by: XI. 2010.17; IV. 2011.52; V. 2012.42; L.N. 86 of 2013; III. 2013.51; XII. 2014.57; XV. 2016.24; XVI. 2017.59; VII.2018.51; XVIII.2021.41.
