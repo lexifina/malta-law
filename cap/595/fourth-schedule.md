@@ -9,8 +9,6 @@ Aġenzija SAPPORT To exercise and execute the functions
 and duties previously exercised by the Aġenzija SAPPORT within the Foundation for Social Welfare Services, as well as any other matter falling within the ambit of the support and care of persons with disability Aġenzija Żgħażagħ To mainstream youth policy and to
 replace the existing Youth Section by providing youth services on behalf of the
 Government
-Ambjent Malta Agency To manage the Maltese Islands' natural
-capital.
 Building and Responsible for all processes related to Construction Agency the change in management required in
 the enforcement of national building
 code
@@ -34,7 +32,8 @@ law, regulation or bye-law, the enforcement of which has been delegated to regio
 process of application for citizenship for exceptional services in terms of the Maltese Citizenship Act and to cooperate with other Government agencies in all matters relating to
 citizenship
 Malta Council for To support the Government in the Science and Technology commercialisation of activities Agency relating to science, technology,
-research and innovation matters Malta International To be responsible for strengthening and Contemporary Art Space ensuring the achievement of the highest Agency quality in contemporary art Malta Residence Visa To execute the functions and duties of Agency the public administration in matters
+research and innovation matters Malta Food Agency To deliver public services in relation
+to food from farming and fisheries Malta International To be responsible for strengthening and Contemporary Art Space ensuring the achievement of the highest Agency quality in contemporary art Malta Residence Visa To execute the functions and duties of Agency the public administration in matters
 relating to issuing of residence visas b y investment a n d other administrative matters related to individuals wishing to stay or settle indefinitely in Malta or Gozo Management Efficiency To support public sector change Unit initiatives through the provision of
 consultancy advice
 National Development To implement the functions of the and Social Fund Agency National Development and Social Fund
@@ -54,4 +53,4 @@ legacy of the Valletta 2018 Foundation Victim Support Agency To exercise and exe
 and duties relating to victim support in liaison with other pertinent Agencies and Government Departments. International Protection To receive, process and determine Agency applications for international protection
 as well as ensuring an independent, fair and efficient asylum determination
 procedure
-- Amended by: XXVIII. 2018.42; L.N.121 of 2019; L.N. 192 of 2019; L.N. 197 of 2019; L.N. 2 of 2020; L.N. 194 of 2020; L.N. 344 of 2020; L.N. 418 of 2020; L.N. 436 of 2020; L.N. 445 of 2020; L.N. 453 of 2020.
+- Amended by: XXVIII. 2018.42; L.N.121 of 2019; L.N. 192 of 2019; L.N. 197 of 2019; L.N. 2 of 2020; L.N. 194 of 2020; L.N. 344 of 2020; L.N. 418 of 2020; L.N. 436 of 2020; L.N. 445 of 2020; L.N. 453 of 2020; L.N. 7 of 2021.
