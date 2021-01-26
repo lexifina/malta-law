@@ -6,4 +6,4 @@ ARCHITECTURE - M.Arch.- UNDER THE
 AUSPICES OF THE FACULTY
 FOR THE BUILT ENVIRONMENT
 10th October, 2014
-LEGAL NOTICE 365 of 2014,as amended by Legal Notices 76 of 2016, 8 of 2017 and 328 of 2018.
+LEGAL NOTICE 365 of 2014,as amended by Legal Notices 76 of 2016, 8 of 2017, 328 of 2018 and 21 of 2021.
