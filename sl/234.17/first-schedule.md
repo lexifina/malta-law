@@ -1,6 +1,5 @@
 ## FIRST SCHEDULE
 ## Examinations.
-## *revoked by these Regulations.
 ## Particulars of sea service.
 ## Verification of service.
 ## Calculation of service.
@@ -66,6 +65,7 @@ THE ISSUE OF CERTIFICATES
 1.10 Applicants for certificates who have followed an approved training programme of on board training must produce a completed Training Record Book. Candidates not undertaking an approved training programme should obtain an approved Training Record Book and record as fully as possible the work they have done on the ship. The master and/or other appropriate officers should verify all entries wherever possible.
 1.11 If in the course of the oral examination the examiner finds that a candidate is afflicted with deafness, with an impediment in speech or with some other physical or mental infirmity, and upon further investigation is satisfied that the degree of infirmity is such as to render the candidate incapable of discharging adequately the ordinary seagoing duties of the holder of a certificate of competence, the examiner will not allow the candidate to complete the examination and will report every such case to the Registrar-General. If the candidate subsequently produces a medical certificate to the specific effect that his hearing, speech, or physical or mental condition has improved or is normal, the Registrar-General will consider the candidate for re-examination.
 1.12 Candidates who, after having signed crew agreements, have neglected to join their vessels, or who, after having joined have left their ship other than upon discharge, or who have committed misconduct on board, will be required to produce satisfactory proof of two years subsequent service with good conduct at sea, unless the Registrar-General, after investigation, should see fit to reduce this period.
+1.13 For the issue of any GMDSS certificate or VHF (SRC) a declaration to preserve the secrecy of correspondence in the form contained in the Fifth Schedule to these regulations shall be presented with the application.
 2. Specific Requirements - Deck Officers
 2.1 A Sight Test Certificate that meets the standards in section A-I/9 of the STCW Code shall indicate success in a sight test so conducted as to prove, to the satisfaction of the Registrar General, that the holder is able to reach acceptable standards both of form and colour vision. A valid pass sight test certificate is valid for six months.
 2.2 Every candidate shall:
@@ -75,6 +75,14 @@ THE ISSUE OF CERTIFICATES
 2.2.4 meet the applicable requirements of the regulations in chapter IV, as appropriate, for performing designated radio duties in accordance with the Radio Regulations;
 2.2.5 have completed approved education and training and meet the standard of competence specified in the relevant section A-II/1 or A-II/3 of the STCW Code; and
 2.2.6 meet the standard of competence specified in section A-VI/1 paragraph 2, section A-VI/2 paragraphs 1 to 4, section A- VI/3 paragraphs 1 to 4 and section A-VI/4 paragraphs 1 to 3 of the STCW Code.
+Officer in charge of a navigational watch on yachts of less than 3000 GT
+2A.2 Every candidate shall:
+2A.2.1 be not less than 18 years of age;
+2A.2.2 have approved seagoing service of not less than twelve months on vessels not less than 15 meters in length or 80 GT as part of an approved training programme which includes on board training that meets the requirements of section A-II/1 of the STCW Code; this training must be documented in an approved record book, or otherwise have approved seagoing service in any acceptable deck capacity on vessels not less than 15 meters in length or 80 GT for a period of not less than thirty-six months sea service;
+2A.2.3 have performed, during the required sea going service, bridge watch-keeping duties under the supervision of the master or a qualified officer for a period of not less than six months;
+2A.2.4 meet the applicable requirements of the regulations in chapter IV, as appropriate, for performing designated radio duties in accordance with the Radio Regulations;
+2A.2.5 have completed approved education and training and meet the standard of competence specified in the relevant section A-II/1 of the STCW Code; and
+2A.2.6 meet the standard of competence specified in section A- VI/1 paragraph 2, section A-VI/2 paragraphs 1 to 4, section A-VI/3 paragraphs 1 to 4 and section A-VI/4 paragraphs 1 to 3 of the STCW Code.
 2.3 Every candidate shall:
 2.3.1 meet the requirements for certification as an officer in charge of a navigational watch on ships of 500 GT or more; and
 2.3.2 have approved sea going service in that capacity:
@@ -89,6 +97,11 @@ THE ISSUE OF CERTIFICATES
 2.5.2.1 meet the requirements of an officer in charge of a navigational watch on ships of 500 GT or more, and
 2.5.2.2 have approved sea going service of not less than 36 months in that capacity; however, this period may be reduced to not less than 24 months if not less than 12 months of such seagoing service has been served as chief mate; and
 2.5.3 have completed approved education and training and meet the standard of competence specified in section A-II/2 of the STCW Code for masters and chief mates on ships of between 500 and 3000 GT.
+Master on yachts of less than 500 GT
+2A.5 Every candidate shall:
+2A.5.1 meet the requirements of an officer in charge of a navigational watch on yachts of less than 3000 GT;
+2A.5.2 have approved sea going service of not less than 12 months in that capacity; and
+2A.5.3 have completed approved education and training and meet the standard of competence specified in section A-II/2 of the STCW Code for masters and chief mates on ships of between 500and 3000 GT.
 2.6 Every candidate shall:
 2.6.1 be not less than 20 years of age;
 2.6.2 have approved seagoing service of not less than 12 months as officer in charge of a navigational watch;
@@ -115,10 +128,63 @@ which shall not be less than two months; and
 2.8.5 meet the standard of competence specified in section A-II/5 of the STCW Code.
 2.9 All candidates will be required to produce documentary evidence of having obtained certain additional qualifications before they will be considered as having qualified for the issue of certificates of competence; the additional qualifications specified for each grade of certificate are set out in Table 1.
 Table 1
-Additional Training Certificate (STCW Regs)
-Requirements
-II/1 II/2 II/3 II/4 II/5 STCW
-Code Ref Personal Survival • • • • • A-VI/1-1 Techniques Fire Prevention and Fire • • • • • A-VI/1-2 Fighting Elementary First Aid • • • • • A-VI/1-3 Personal Safety & Social • • • • • A-VI/1-4 Responsibility Proficiency in Survival • • • • A-VI/2 Craft & Rescue Boats Advanced Fire Fighting • • • A-VI/3 Medical First Aid • • A-VI/4-1 Medical Care • • A-VI/4-2 Radar & ARPA Simulator • • A-II/1 Training - Operational Level Radar & ARPA Simulator • • A-II/2 Training - Management Level ECDIS • • • A-II/1 Efficient Deck Hand • • (EDH) GMDSS (GOC) • • A-IV/2 GMDSS (ROC) • A-IV/2 Medical Fitness (including • • • • • A-I/9 eyesight)
+Certificate (STCW Regs)
+Additional
+STCW Training
+II/1 II/2 II/3 II/4 II/5 Code Requirements
+Ref
+Personal
+A-VI/
+Survival ⸱ ⸱ ⸱ ⸱ ⸱
+1-1
+Techniques
+Fire
+A-VI/
+Prevention & ⸱ ⸱ ⸱ ⸱ ⸱
+1-2
+Fire Fighting Elementary A-VI/
+⸱ ⸱ ⸱ ⸱ ⸱
+First Aid 1-3 Personal Safety &
+A-VI/
+Social ⸱ ⸱ ⸱ ⸱ ⸱
+1-4
+Responsibilit
+y Proficiency in
+Survival
+⸱ ⸱ ⸱ ⸱ A-VI/2
+Craft &
+Rescue Boats
+Advanced
+⸱ ⸱ ⸱ A-VI/3
+Fire Fighting Medical First A-VI/
+⸱ ⸱
+Aid 4-1
+A-VI/
+Medical Care ⸱ ⸱
+4-2
+Radar & ARPA Simulator
+⸱ ⸱ A-II/1
+Training - Operational
+Level Radar & ARPA Simulator
+⸱ ⸱ A-II/2
+Training - Management
+Level
+Leadership
+and ⸱ A-II/1
+Teamwork
+Use of
+Leadership &
+⸱ ⸱ A-II/2
+Managerial
+Skills ECDIS ⸱ ⸱ ⸱ A-II/1 Efficient
+⸱ ⸱
+Deck Hand GMDSS
+⸱ ⸱ A-IV/2
+(GOC) GMDSS
+⸱ A-IV/2
+(ROC) Medical Fitness
+⸱ ⸱ ⸱ ⸱ ⸱ A-I/9
+(including eyesight)
 3. Specific Requirements - Engineering Officers
 3.1 Workshop service or other industrial training completed before the age of sixteen years will not be accepted.
 3.2 Each candidate must have received one of the forms of training specified in this paragraph.
@@ -180,9 +246,51 @@ table A-III/7 and an approved period of seagoing service, which shall not be les
 3.12.1.3 meet the standard of competence specified in section A-III/7 of the STCW Code.
 3.13 All candidates will be required to produce documentary evidence of having obtained certain additional qualifications before they will be considered as having qualified for the issue of certificates of competence. The additional qualifications specified for the various grades of certificates are set out in Table 2.
 Table 2
-Additional Training Certificate (STCW Regs)
+Certificate (STCW Regs)
+Additional
+STCW
+Training
+III/1 III/2 III/3 III/4 III/5 III/6 III/7 Code
 Requirements
-III III/ III III III III / III STCW /1 2 /3 /4 /5 6 /7 Code Ref Personal Survival • • • • • • • A-VI/1-1 Techniques Fire Prevention & • • • • • • • A-VI/1-2 Fire Fighting Elementary First Aid • • • • • • • A-VI/1-3 Personal Safety & • • • • • • • A-VI/1-4 Social Responsibility Proficiency i n • • • • A-VI/2 Survival Craft & Rescue Boats Advanced F i r e • • • • A-VI/3 Fighting Medical First Aid • • • • A-VI/4-1 Medical Fitness • • • • • • • A-I/9
+Ref
+Personal
+A-VI/
+Survival ⸱ ⸱ ⸱ ⸱ ⸱ ⸱ ⸱
+1-1
+Techniques Fire Prevention A-VI/
+⸱ ⸱ ⸱ ⸱ ⸱ ⸱ ⸱
+& Fire Fighting 1-2
+Elementary A-VI/
+⸱ ⸱ ⸱ ⸱ ⸱ ⸱ ⸱
+First Aid 1-3 Personal Safety
+A-VI/
+& Social ⸱ ⸱ ⸱ ⸱ ⸱ ⸱ ⸱
+1-4
+Responsibility Proficiency in Survival Craft
+⸱ ⸱ ⸱ ⸱ A-VI/2
+& Rescue
+Boats
+Advanced Fire
+⸱ ⸱ ⸱ ⸱ A-VI/3
+Fighting
+Medical First A-VI/
+⸱ ⸱ ⸱ ⸱
+Aid 4-1
+Leadership &
+⸱ ⸱ A-III/1
+Teamwork
+Use of
+Leadership &
+⸱ ⸱ A-III/2
+Managerial
+Skills Medical
+⸱ ⸱ ⸱ ⸱ ⸱ ⸱ ⸱ A-I/9
+Fitness
+3A. Specific Requirements - Radio Operators
+Radio Operator
+3A.1 Every candidate shall:
+3A.1.1 be not less than 18 years of age;
+3A.1.2 have completed approved education and training and meet the standard of competence specified in section A-IV/2 of the STCW Code.
 4. Estimating Sea Service
 4.1 The qualifying service specified for any particular deck officer certificate of competence must be performed in the deck department and is reckoned from the date of engagement to the date of discharge. At least 6 months of the qualifying service must have been performed within the five years preceding the application.
 4.2 Except where otherwise specified qualifying service required for all certificates of competence is service performed in ships which proceed to sea and are actively engaged in commercial trading. Certain kinds of non-trading service may be accepted in part in lieu of a limited amount of service in trading vessels, alternatively the certificate of competence will be limited, either temporarily or permanently, for service only on certain types of ships or trades.
@@ -219,8 +327,9 @@ Provided that in special circumstances an application to take the said examinati
 6. Conduct of Examinations
 6.1 The examinations and assessment for all certificates of competence are to be conducted in such a way as to test the candidates understanding of the under pinning knowledge and also his/her level of competence. Examinations consist of written, oral and where appropriate practical parts, the exceptions being those for Master and Chief Engineer. The examination for Master and Chief Engineer will then consist of the oral part only.
 6.2 The written examinations for all certificates of competence will in all cases be held at an approved nautical college. It will be necessary for candidates to have completed approved education and training and have obtained the appropriate level of competence in their assessment.
-6.3 The Registrar-General shall appoint suitable persons to conduct examinations. The persons appointed to conduct oral examinations shall hold a certificate of competence not below that of Master or Chief Engineer as the case may be.
+6.3 The Registrar-General shall appoint suitable persons to conduct examinations. The persons appointed to conduct oral examinations shall hold a certificate of competence not below that of Master or Chief Engineer as the case may be. Examiners for the conduct of radio operator examinations shall be appointed by the Registrar-General from an approved list of persons having a good knowledge of ships and of maritime safety and search and rescue matters, and holding a Maritime Radio-communication General Certificate or an equivalent certificate, and either holding a GMDSS General Operator's Certificate or having, in the opinion of the Registrar-General, considerable experience in maritime radiocommunications, including the GMDSS.
 6.4 A candidate failing in the oral part of the examination for any certificate of competence through serious weakness in practical knowledge may, at the examiner's discretion, be given a time penalty which may include a requirement to complete a period of sea service before becoming eligible for re-examination. A candidate who does not appear for an oral examination at the appointed time may be failed by default in the absence of reasonable proof that failure to attend was unavoidable.
 6.5 In the case of deck department personnel, a pass in each part of every examination, i.e. written, oral and, where appropriate, signals where more than one part is involved will remain valid for a period of three years. Engine Department personnel must pass their Engineering Knowledge and their oral examinations within a three-year period. Passes in the academic written examinations remain valid indefinitely.
 7. Examination Syllabi
 7.1 The syllabi for all certificates of competence for deck, engineering and electro technical officers are those specified in section A-II/1, A-II/2, A-II/3 and A-III/1, A-III/2, A-III/3 and A- III/6 respectively of the STCW Code.
+- Amended by: L.N. 26 of 2021.
