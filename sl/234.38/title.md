@@ -2,4 +2,4 @@ SUBSIDIARY LEGISLATION 234.38
 MERCHANT SHIPPING (PORT STATE CONTROL)
 REGULATIONS
 1st January, 2011*
-LEGAL NOTICE 64 of 2011, as amended by Legal Notices 25 and 156 of 2014 and 344 of 2019.
+LEGAL NOTICE 64 of 2011, as amended by Legal Notices 25 and 156 of 2014 and 344 of 2019 and 37 of 2021.
