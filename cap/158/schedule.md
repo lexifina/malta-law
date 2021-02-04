@@ -1,5 +1,4 @@
 ## SCHEDULE
-## *Note: In November 1998 the index of inflation for the year 1997 was revised to 567.08 following a revision of the water and electricity rates.
 # schedule
 ARTICLE 13(1)
 Index of inflation for the years from 1947 until 2010
@@ -59,10 +58,10 @@ Increase of inflation for the years after 1978
 1997 567.95 (L.N. 76 of 1998)
 1998 580.61 (L.N. 64 of 1999)
 1999 593.00 (L.N. 31 of 2000)
-2000 607.07 (L.N. 30 of 2001)
-2001 624.85 (L.N. 46 of 2002)
+2000 607.07 (L.N. 30 of 2001) 2001 624.85 (L.N. 46 of 2002)
 2002 638.54 (L.N. 73 of 2003)
-2003 646.84 (L.N. 90 of 2004) 2004 664.88 (L.N. 32 of 2005)
+2003 646.84 (L.N. 90 of 2004)
+2004 664.88 (L.N. 32 of 2005)
 2005 684.88 (L.N. 30 of 2006)
 2006 703.88 (L.N. 36 of 2007)
 2007 712.68 (L.N. 83 of 2008)
@@ -78,5 +77,7 @@ Increase of inflation for the years after 1978
 2017 849.77 (L.N. 54 of 2018)
 2018 859.63 (L.N. 29 of 2019)
 2019 873.73 (L.N. 30 of 2020)
+2020 879.32 (L.N. 67 of 2021)
+2021 892.51 (L.N. 63 of 2022)
 - Added by: XXIII.1979.6.
 - Amended by: L.N. 18 of 1984; L.N. 2 of 1985; L.N. 4 of 1986; L.N. 10 of 1987; L.N. 20 of 1988; L.N. 26 of 1989:; L.N. 31 of 1990; L.N.31 of 1991; L.N. 29 of 1992; L.N. 46 of 1993; L.N. 36 of 1994; L.N. 29 of 1995; L.N. 25 of 1996; L.N. 29 of 1997; L.N. 76 of 1998; L.N. 64 of 1999; L.N. 31 of 2000; L.N. 30 of 2001; L.N. 46 of 2002; L.N. 73 of 2003; L.N. 90 of 2004; L.N. 32 of 2005; L.N. 30 of 2006; L.N. 36 of 2007; L.N. 83 of 2008; L.N. 50 of 2009; L.N. 184 of 2010; L.N. 188 of 2011; L.N. 70 of 2012; L.N. 55 of 2012; L.N. 76 of 2015; L.N. 129 of 2016.
