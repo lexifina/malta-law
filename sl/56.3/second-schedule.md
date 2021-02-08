@@ -24,8 +24,8 @@ BA. Schedule for individuals who have contracted marriage after the coming into 
 (Transfers/Liabilities) - Individuals
 Searches re Individuals
 Surname* Name* Spouse (1)
-Parent who gave birth*(1)
-Parent*(1) Place of Birth* Group Number (2)
+Parent 1*(1)
+Parent 2*(1) Place of Birth* Group Number (2)
 Remarks (3) Applicant Name* Applicant Code (4)
 From To
 Liabilities Transfers Ground-rent redemptions
@@ -52,7 +52,7 @@ CA. Schedule for individuals who have contracted marriage after the coming into 
 Searches into Wills
 Searches re Individuals
 Surname* From To Name* (2) (3)
-Spouse (1) Parent who gave birth*(1) Parent*(1) Place of Birth* Applicant's Name and address*(4) Applicant Name (5) Applicant Code (5)
+Spouse (1) Parent 1*(1) Parent 2*(1) Place of Birth* Applicant's Name and address*(4) Applicant Name (5) Applicant Code (5)
 * Indicates that information must be submitted
 (1) Spouse's name must be stated when search refers to a married individual, in
 which case, the individual's surname at birth should also be indicated. Likewise, the name of the parents must, in this case, include the surname at birth and after marriage.
