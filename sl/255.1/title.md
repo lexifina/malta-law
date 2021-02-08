@@ -1,4 +1,4 @@
 SUBSIDIARY LEGISLATION 255.01
 MARRIAGE REGULATIONS
 12th August, 1975
-LEGAL NOTICE 94 of 1975, as amended by Legal Notices 42 of 1981, 354 of 2004, 161 of 2006, 423 of 2007, 84 of 2015 and Act XXIII of 2017.
+LEGAL NOTICE 94 of 1975, as amended by Legal Notices 42 of 1981, 354 of 2004, 161 of 2006, 423 of 2007, 84 of 2015 and Act XXIII of 2017 and LXV of 2020.
