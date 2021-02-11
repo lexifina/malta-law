@@ -24,4 +24,5 @@ time employment
 19. WasteServ Malta Limited.
 20. Housing Authority.
 21. Regulator for Energy and Water Services.
+22. Identity Malta Agency.
 - Amended by: XV. 2009.49; XXV. 2015.41.
