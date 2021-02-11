@@ -32,7 +32,7 @@ The Resolution Committee may request institutions to provide for the purposes of
 (3) the location, jurisdiction of incorporation, licensing and key management associated with each legal person;
 (4) a mapping of the institution's critical operations and core business lines including material asset holdings and liabilities relating to such operations and business lines, by reference to legal persons;
 (5) a detailed description of the components of the institution's and all its legal entities' liabilities, separating, at a minimum by types and amounts of short term and long-term debt, secured, unsecured and subordinated liabilities;
-(6) details of those liabilities of the institution that are eligible liabilities;
+(6) details of those liabilities of the institution that are bail-inable liabilities;
 (7) an identification of the processes needed to determine to whom the institution has pledged collateral, the person that holds the collateral and the jurisdiction in which the collateral is located;
 (8) a description of the off balance sheet exposures of the institution and its legal entities, including a mapping to its critical operations and core business lines;
 (9) the material hedges of the institution including a mapping to legal persons;
@@ -75,7 +75,7 @@ When assessing the resolvability of a group, references to an institution shall 
 (14) where the group engages in back-to-back transactions, the extent to which those transactions are performed at market conditions and the risk management systems concerning those transactions practices are robust;
 (15) the extent to which the use of intra-group guarantees or back-to-back booking transactions increases contagion across the group;
 (16) the extent to which the legal structure of the group inhibits the application of the resolution tools as a result of the number of legal persons, the complexity of the group structure or the difficulty in aligning business lines to group entities;
-(17) the amount and type of eligible liabilities of the institution;
+(17) the amount and type of bail-inable liabilities of the institution;
 (18) where the assessment involves a mixed activity holding company, the extent to which the resolution of group entities that are institutions or financial institutions could have a negative impact on the non-financial part of the group;
 (19) the existence and robustness of service level agreements;
 (20) whether third-country authorities have the resolution tools necessary to support resolution actions by European resolution authorities, and the scope for coordinated action between European Union and third-country authorities;
@@ -87,3 +87,4 @@ When assessing the resolvability of a group, references to an institution shall 
 (26) the extent to which the resolution of the institution could have a significant direct or indirect adverse effect on the financial system, market confidence or the economy;
 (27) the extent to which contagion to other institutions or to the financial markets could be contained through the application of the resolution tools and powers;
 (28) the extent to which the resolution of the institution could have a significant effect on the operation of payment and settlement systems.
+- Amended by: L.N. 6 of 2021.
