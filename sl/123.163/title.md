@@ -1,4 +1,4 @@
 SUBSIDIARY LEGISLATION 123.163
 PERSONAL RETIREMENT SCHEME RULES
 16th December, 2014
-LEGAL NOTICE 468 of 2014, as amended by Legal Notices 117 and 241 of 2015 and 113 of 2019.
+LEGAL NOTICE 468 of 2014, as amended by Legal Notices 117 and 241 of 2015, 113 of 2019 and 2 of 2021.
