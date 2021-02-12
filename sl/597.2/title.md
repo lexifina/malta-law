@@ -2,3 +2,4 @@ SUBSIDIARY LEGISLATION 597.02
 COMMUNITY TRADEMARK RULES
 1st May, 2004
 LEGAL NOTICE 233 of 2003, as amended by Legal Notice 426 of 2007.
+Repealed by Legal Notice 50 of 2021.
