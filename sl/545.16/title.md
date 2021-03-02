@@ -3,3 +3,4 @@ ENERGY EFFICIENCY AND COGENERATION
 REGULATIONS
 1st January, 2014*
 LEGAL NOTICE 196 of 2014, as amended by Act XXV of 2015; and Legal Notices 236 of 2016, 336 of 2019 and 133 of 2020.
+Repealed by Legal Notice 66 of 2021.
