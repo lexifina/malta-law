@@ -19,7 +19,6 @@ Group 1: Basic sciences
 • Pharmacy
 • Toxicology
 • Microbiology
-[S.L.437.43 16 OF VETERINARY SURGEONS
 • Immunology
 • Epidemiology
 • Professional ethics
@@ -34,6 +33,7 @@ species
 • Radiology
 • Reproduction and reproductive disorders
 • Veterinary state medicine and public health
+[S.L.437.43 OF VETERINARY SURGEONS 19
 • Veterinary legislation and forensic medicine
 • Therapeutics
 • Propaedeutics
