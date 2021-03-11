@@ -4,4 +4,4 @@ FEES PAYABLE FOR RESIDENCE PERMITS
 AND EMPLOYMENT LICENCES
 REGULATIONS
 1st March, 1993
-LEGAL NOTICE 15 of 1993, as amended by Legal Notices 32 of 1995, 233 of 1997, 267 of 2006, 254 of 2009 and 2 of 2013; and Act XIII of 2015.
+LEGAL NOTICE 15 of 1993, as amended by Legal Notices 32 of 1995, 233 of 1997, 267 of 2006, 254 of 2009 2 of 2013 and 84 of 2021; and Act XIII of 2015.

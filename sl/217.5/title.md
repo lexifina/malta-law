@@ -4,6 +4,6 @@ STATUS OF LONG-TERM RESIDENTS
 (THIRD COUNTRY NATIONALS)
 REGULATIONS
 1st November, 2006
-LEGAL NOTICE 278 of 2006, as amended by Legal Notices 370 of 2010, 197 of 2014 and 366 of 2015 and Act XXIX of 2019.
+LEGAL NOTICE 278 of 2006, as amended by Legal Notices 370 of 2010, 197 of 2014, 366 of 2015 and 84 of 2021 and Act XXIX of 2019.
 PART I
 Purpose, Definitions and Scope
