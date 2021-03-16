@@ -27,3 +27,6 @@ A recommendation is not a personal recommendation if it is issued exclusively th
 7. Placing of virtual financial assets
 The marketing of newly-issued virtual financial assets or of virtual financial assets which are already in issue but not admitted to trading on a DLT exchange, to specified persons and which does not involve an offer to the public or to existing holders of the issuer's virtual financial assets.
 8. The operation of a VFA exchange.
+9. Transfer of virtual financial assets
+Conducting a transaction on behalf of a third party that moves a virtual financial asset from one virtual financial asset address or account to another.
+- Amended by: L.N. 106 of 2021.
