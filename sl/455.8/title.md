@@ -1,0 +1,5 @@
+SUBSIDIARY LEGISLATION 455.08
+ANTI-DOPING REGULATIONS
+1st January, 2015*
+LEGAL NOTICE 17 of 2015, as amended by Act VI of 2016.
+Repealed by Legal Notice 104 of 2021.
