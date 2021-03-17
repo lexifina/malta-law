@@ -53,5 +53,6 @@ tetramethylcyclopropyl)methanone Quinolin-8-yl 1-(5-fluoropentyl)-1H-indole-3- 5
 indazole-3-carboxamide ADB-FUBINACA N-(1-amino-3,3-dimethyl-1-oxobutan-2-yl]-1-
 (4-fluorobenzyl)-1H-indazole-3-carboxamide FUB-AMB (MMB- or AMB-FUBINACA) Methyl (2S)-2-{[1-[(4-
 fluorophenyl)methyl]indazole-3-carbonyl]amino}-3-methylbutanoate N-ethylnorpentylone 1-(2H-1,3-benzodioxol-5-yl)-2-
-(ethylamino)pentan-1-one)
+(ethylamino)pentan-1-one) DOC 1-(4-chloro-2,5-dimethoxyphenyl)propan-2-
+amine
 And any derivatives, salts, or esters of the above.

@@ -37,8 +37,12 @@ AB-CHMINACA N-[(2S)-1-Amino-3-methyl-1-oxobutan-2-yl]-1-
 AB-PINACA N-[(2S)-1-Amino-3-methyl-1-oxobutan-2-yl]-
 1-pentyl)-1H-indazole-3-carboxamide UR-144 (1-Pentyl-1H-indol-3-yl)(2,2,3,3-
 tetramethylcyclopropyl)methanone Quinolin-8-yl 1-(5-fluoropentyl)-1H-indole-3- 5F-PB-22 carboxylate
-4-Fluoroamphetamine (4-FA) 1-(4-Fluorophenyl)propan-2-amine.
+4-Fluoroamphetamine (4-FA) 1-(4-Fluorophenyl)propan-2-amine. AB-FUBINACA (or FUB-AMB) N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(4-
+fluorobenzyl)-1H-indazole-3-carboxamide 5F-AMB-PINACA (or 5F-AMB or 5F-MMB- methyl 2-({[1-(5-fluoropentyl)-1H-indazole-3- PINACA) yl]carbonyl}amino)-3-methylbutanoate 5F-MDMB-PICA (or 5F-MDMB-2201) methyl 2-{[1-(5-fluoropentyl)-1H-indole-3-car-
+bonyl]amino}-3,3-dimethylbutanoate 4F-MDMB-BINACA (or 4F-MDMB-BUTIN- methyl 2-{[1-(4-fluorobutyl)-1H-indazole-3-car- ACA) bonyl]amino}-3,3-dimethylbutanoate 4-CMC (or 4-chloromethcathinone or clephed- 1-(4-chlorophenyl)-2-(methylamino)propan-1-rone) one N-ethylhexedrone (or NEH, Hexen, Ethyl-Hex, 2-(ethylamino)-1-phenylhexan-1-one Ethyl-hexedrone) Alpha-PHP (or PV-7, α-PHP, α-pyrrolidinohex- 1-phenyl-2-(pyrrolidin-1-yl)hexan-1-one anophenone) Flualprazolam (or Ro 11-5073/000) 8-chloro-6-(2-fluorophenyl)-1-methyl-4H-
+[1,2,4]triazolo[4,3-a][1,4]benzodiazepine Etizolam (or Y-7131 or Depas) 4-(2-chlorophenyl)-2-ethyl-9-methyl-6H-
+thieno[3,2-f][1,2,4]triazolo[4,3-a][1,4]diazepine".
 And any salts or esters of the above.
 - Amended by: L.N. 26 of 1987.
 - Substituted by: L.N. 70 of 1988.
-- Amended by: L.N. 103 of 1989; L.N. 78 of 1998; L.N. 183 of 1999; L.N. 173 of 2010; L.N. 413 of 2012.
+- Amended by: L.N. 103 of 1989; L.N. 78 of 1998; L.N. 183 of 1999; L.N. 173 of 2010; L.N. 413 of 2012; L.N. 112 of 2021.
