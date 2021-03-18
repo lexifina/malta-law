@@ -10,8 +10,8 @@ turnover) to monthly (streams).
 (b) For terrestrial ecosystems: assessing the soil acidity, soil nutrients loss, nitrogen status and balance as well as biodiversity loss:
 (i) the key indicator soil acidity: exchangeable fractions of base cations (base saturation) and exchangeable aluminium in soils:
 frequency of sampling: every 10 years;
-[S.L. 549.124 CERTAIN ATMOSPHERIC POLLUTANTS 23
 supporting indicators: pH, sulphate, nitrate, base
+[S.L. 549.124 CERTAIN ATMOSPHERIC POLLUTANTS 23
 cations, aluminium concentrations in soil
 solution;
 frequency of sampling: every year (where

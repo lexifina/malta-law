@@ -9,9 +9,9 @@ Part 1. National annual emission inventories
 2. Emissions from identified key categories shall be calculated in accordance with the methodologies defined in the EMEP/EEA Guidebook and with the aim of using a Tier 2 or higher (detailed) methodology. Other scientifically based and compatible methodologies for establishing atmospheric emission inventories may be used if these methodologies produce more accurate estimates than the default methodologies set out in the EMEP/EEA Guidebook.
 3. Emissions from transport, shall be calculated and reported in a way consistent with national energy balances
 reported by Malta to Eurostat.
-4. Emissions from road transport shall be calculated and reported on the basis of the fuels sold in Malta. As an alternative, emissions from road transport may be reported and calculated on the basis of fuels used or
-[S.L. 549.124 CERTAIN ATMOSPHERIC POLLUTANTS 21
+4. Emissions from road transport shall be calculated and reported on the basis of the fuels sold in Malta. In addition, emissions from road transport may also be reported and calculated on the basis of fuels used for
 kilometres driven in Malta.
+[S.L. 549.124 CERTAIN ATMOSPHERIC POLLUTANTS 21
 5. The annual atmospheric emissions shall be expressed in the applicable unit specified in the NFR reporting template of the LRTAP Convention.
 Part 2. Emissions projections
 1. Emission projections shall be transparent, consistent, comparable, complete and accurate and reported information shall include at least the following:
@@ -28,8 +28,8 @@ The informative inventory reports shall be prepared in accordance with the EMEP 
 (a) descriptions, references and sources of
 information of the specific methodologies,
 assumptions, emission factors and activity data, as
-well as the rationale for their selection; [S.L. 549.124 22 CERTAIN ATMOSPHERIC POLLUTANTS
-(b) a description of the national key categories of
+well as the rationale for their selection;
+(b) a description of the national key categories of [S.L. 549.124 22 CERTAIN ATMOSPHERIC POLLUTANTS
 emission sources;
 (c) information on uncertainties, quality assurance and
 verification;
@@ -40,3 +40,4 @@ inventory preparation;
 (3) and (4) of Directive (EU) 2016/2284;
 (g) if relevant, information on the reasons for deviating from the reduction trajectory determined in accordance with sub-regulation 3 of regulation 4, as well as the measures to converge back on the trajectory;
 (h) an executive summary.
+- Amended by: L.N. 114 of 2021.
