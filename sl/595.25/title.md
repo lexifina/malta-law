@@ -4,3 +4,4 @@ MALTA INDIVIDUAL INVESTOR PROGRAMME
 AGENCY (ESTABLISHMENT) ORDER
 29th March, 2018
 LEGAL NOTICE 96 of 2018, as amended by Legal Notices 385 of 2018 and 439 of 2020.
+Repealed by Legal Notice 115 of 2021.
