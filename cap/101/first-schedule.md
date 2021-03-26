@@ -10,14 +10,14 @@ ACRYLOYLFENTANYL, N-(1-phenethylpiperidin-4-yl)-N-phenylacrylamide
 AH-7921, (3,4-dichloro-N-[(1-(dimethylamino) cyclohexyl)methyl] benzamide)
 ALFENTANIL
 ALLYLPRODINE
-ALPHACETYLMETHADOL
-ALPHAMEPRODINE
+ALPHACETYLMETHADOL ALPHAMEPRODINE
 ALPHAMETHADOL
 ALPHAMETHYL FENTANYL
 ALPHAMETHYL THIOFENTANYL
 ALPHAPRODINE
 ANILERIDINE
-BENZETHIDINE BENZYLMORPHINE
+BENZETHIDINE
+BENZYLMORPHINE
 BETACETYLMETHADOL
 BETA-HYDROXYFENTANYL
 BETA-HYDROXY-3-METHYLFENTANYL
@@ -32,6 +32,7 @@ CLONITAZENE
 COCAINE
 CODOXIME
 Concentrate of poppy straw (the material arising when poppy straw has entered into a process for the concentration of its alkaloid when such material is made available in trade)
+CROTONYLFENTANYL, (2E)-N-phenyl-N-[1-(2-phenylethyl)piperidin-4-yl]but-2-enamide
 CYCLOPROPYLFENTANYL, N-phenyl-N-[1-(2-phenylethyl)piperidin-4-yl]cyclopropanecarboxamide'
 DESOMORPHINE
 DEXTROMORAMIDE
@@ -41,15 +42,15 @@ DIFENOXIN
 DIHYDROMORPHINE
 DIMENOXADOL
 DIMEPHEPTANOL
-DIMETHYLTHIAMBUTENE
-DIOXAPHETYL BUTYRATE
+DIMETHYLTHIAMBUTENE DIOXAPHETYL BUTYRATE
 DIPHENOXYLATE
 DIPIPANONE
 DROTEBANOL
 ECGONINE, its esters and derivatives which are convertible to ecgonine and cocaine
 ETHYLMETHYLTHIAMBUTENE
 ETONITAZENE
-ETORPHINE ETOXERIDINE
+ETORPHINE
+ETOXERIDINE
 FENTANYL
 4-FLUOROISOBUTYRFENTANYL (4-FIBF, pFIBF), N-(4- Fluorophenyl)-2-methyl-N-[1-(2-phenylethyl)piperidin-4-yl]propanamide
 FURANYLFENTANYL, N-phenyl-N-[1-(2-phenylethyl)piperidin-4-yl]furan-2-carboxamide
@@ -60,6 +61,7 @@ HYDROMORPHINOL
 HYDROMORPHONE
 HYDROXYPETHIDINE
 ISOMETHADONE
+ISOTONITAZENE, N,N-diethyl-2-[[4-(1-methylethoxy)phenyl]methyl]-5-nitro-1H- benzimidazole-1-ethanamine
 KETOBEMIDONE
 LEVOMETHORPHAN*
 LEVOMORAMIDE
@@ -71,8 +73,7 @@ METHADONE
 METHADONE - INTERMEDIATE
 METHOXYACETYLFENTANYL, 2-methoxy-N-phenyl-N-[1-(2-phenylethyl)piperidin-4-yl]acetamide
 METHYLDESORPHINE
-METHYLDIHYDROMORPHINE
-METHYLFENTANYL (CIS and TRANS ISOMERS)
+METHYLDIHYDROMORPHINE METHYLFENTANYL (CIS and TRANS ISOMERS)
 METHYLPHENYLPIPERIDOL PROPRIONATE (MPPP)
 METOPON
 MORAMIDE - INTERMEDIATE
@@ -81,7 +82,8 @@ MORPHINE
 MORPHINE METHOBROMIDE and other pentavelent nitrogen morphine derivatives, including in particular the morphine- Noxide derivatives, one of which is Codeine-N-Oxide
 MORPHINE-N-OXIDE
 MT-45, (1-cyclohexyl-4-(1,2-diphenylethyl)piperazine)
-MYROPHINE NICOMORPHINE
+MYROPHINE
+NICOMORPHINE
 NORACYMETHADOL
 NORLEVORPHANOL
 NORMETHADONE
@@ -102,8 +104,7 @@ PHENADOXONE
 PHENAMPROMIDE
 PHENAZOCINE
 PHENETHYLPHENYLPIPERIDOL ACETATE (ESTER) (PEPAP)
-PHENOMORPHAN
-PHENOPERIDINE
+PHENOMORPHAN PHENOPERIDINE
 PIMINODINE
 PIRITRAMIDE
 PROHEPTAZINE
@@ -113,12 +114,14 @@ RACEMORAMIDE
 RACEMORPHAN
 REMIFENTANIL
 SUFENTANIL
-TAPENTADOL,(3-[(1R,2R)-3-(dimethylamino)-1-ethyl-2-methylpropyl]phenol TETRAHYDROFURANYLFENTANYL (THF-F), N-Phenyl-N- [1-(2-phenylethyl)piperidin-4-yl]oxolane-2-carboxamide
+TAPENTADOL,(3-[(1R,2R)-3-(dimethylamino)-1-ethyl-2-methylpropyl]phenol
+TETRAHYDROFURANYLFENTANYL (THF-F), N-Phenyl-N- [1-(2-phenylethyl)piperidin-4-yl]oxolane-2-carboxamide
 THEBACON
 THEBAINE
 TILIDINE
 TRIMEPERIDINE
 U-47700, 3,4-dichloro-N-(2-dimethylamino-cyclohexyl)-N-methyl-benzamide
+VALERYLFENTANYL, N-phenyl-N-[1-(2-phenylethyl)piperidin-4-yl]pentanamide
 The isomers, unless specifically excepted, of the drugs in this Part of the Schedule whenever the existence of such esters or ethers is possible;
 The esters and ethers, unless appearing in another Part of this Schedule, of the drugs in this Part of the Schedule whenever the existence of such esters or ethers is possible;
 The salts of the drugs listed in this Part of the Schedule, including the salts of esters, ethers and isomers as provided above whenever the existence of such salts is possible.
@@ -139,5 +142,5 @@ ACETYLDIHYDROCODEINE CODEINE DIHYDROCODEINE ETHYLMORPHINE NICOCODINE NICODICODIN
 drug.
 8. Preparations conforming to any of the formulae listed in this Part of the Schedule and mixtures of such preparations with any material which contains no drug.
 - Added by: XXIII.1980.9.
-- Amended by: L.N. 32 of 1984; L.N. 58 of 1988; L.N. 49 of 1990; L.N. 93 of 1990; L.N. 148 of 2000; L.N. 373 of 2007; L.N. 331 of 2009; L.N. 49 of 2016; L.N. 359 of 2017; L.N. 360 of 2017; L.N. 43 of 2018; L.N. 230 of 2018; L.N. 389 of 2018; L.N. 189 of 2019.
+- Amended by: L.N. 32 of 1984; L.N. 58 of 1988; L.N. 49 of 1990; L.N. 93 of 1990; L.N. 148 of 2000; L.N. 373 of 2007; L.N. 331 of 2009; L.N. 49 of 2016; L.N. 359 of 2017; L.N. 360 of 2017; L.N. 43 of 2018; L.N. 230 of 2018; L.N. 389 of 2018; L.N. 189 of 2019; L.N. 119 of 2021; L.N. 120 of 2021.
 - See Cap. 31.
