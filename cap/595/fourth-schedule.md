@@ -33,8 +33,7 @@ process of application for citizenship for exceptional services in terms of the 
 citizenship
 Malta Council for To support the Government in the Science and Technology commercialisation of activities Agency relating to science, technology,
 research and innovation matters Malta Food Agency To deliver public services in relation
-to food from farming and fisheries Malta International To be responsible for strengthening and Contemporary Art Space ensuring the achievement of the highest Agency quality in contemporary art Malta Residence Visa To execute the functions and duties of Agency the public administration in matters
-relating to issuing of residence visas b y investment a n d other administrative matters related to individuals wishing to stay or settle indefinitely in Malta or Gozo Management Efficiency To support public sector change Unit initiatives through the provision of
+to food from farming and fisheries Malta International To be responsible for strengthening and Contemporary Art Space ensuring the achievement of the highest Agency quality in contemporary art Management Efficiency To support public sector change Unit initiatives through the provision of
 consultancy advice
 National Development To implement the functions of the and Social Fund Agency National Development and Social Fund
 established under the Individual Investor Programme of the Republic of Malta
@@ -43,7 +42,8 @@ Regulations
 National Literacy To support the Government in matters Agency relating to literacy Public Administration - To achieve the retraining and re-skilling Human Resource needs of public employees Development Unit Registry of Companies To function as a public registry for Agency commercial partnerships and to execute
 those functions and duties relating to the registration of such commercial
 partnerships
-To execute the functions and duties Resource, Recovery and relating to circular economy Recycling Agency
+Residency Malta Agency To execute the functions and duties of
+the public administration in matters relating to issuing of residence-by-investment certificates and other administrative matters related to individuals wishing to stay or settle indefinitely in Malta or Gozo To execute the functions and duties Resource, Recovery and relating to circular economy Recycling Agency
 To inform and engage citizens in the EU Servizzi Ewropej f'Malta processes through the dissemination of (SEM)
 information and assistance on EU funding programmes. Servizz.gov Agency To carry out functions related to the
 provision of access to as many as possible of Government services to as many as possible service users, in partnership with the responsible Departments and Government entities, through the Servizz.gov regional-based hubs, multi-channel,
@@ -53,4 +53,4 @@ legacy of the Valletta 2018 Foundation Victim Support Agency To exercise and exe
 and duties relating to victim support in liaison with other pertinent Agencies and Government Departments. International Protection To receive, process and determine Agency applications for international protection
 as well as ensuring an independent, fair and efficient asylum determination
 procedure
-- Amended by: XXVIII. 2018.42; L.N.121 of 2019; L.N. 192 of 2019; L.N. 197 of 2019; L.N. 2 of 2020; L.N. 194 of 2020; L.N. 344 of 2020; L.N. 418 of 2020; L.N. 436 of 2020; L.N. 445 of 2020; L.N. 453 of 2020; L.N. 7 of 2021.
+- Amended by: XXVIII. 2018.42; L.N.121 of 2019; L.N. 192 of 2019; L.N. 197 of 2019; L.N. 2 of 2020; L.N. 194 of 2020; L.N. 344 of 2020; L.N. 418 of 2020; L.N. 436 of 2020; L.N. 445 of 2020; L.N. 453 of 2020; L.N. 7 of 2021; L.N. 124 of 2021.
