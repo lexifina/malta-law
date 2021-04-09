@@ -19,7 +19,7 @@ under these regulations individually or collectively; and
 [S.L.549.54 (WASTE BATTERIES AND ACCUMULATORS) 19
 (b) if collectively:
 - the name of the authorised waste batteries and accumulators
-collection, treatment and recycling scheme of which the producer is a member;
+collective organisation of which the producer is a member;
 - the name of the operator of the authorised waste batteries and
 accumulators collection, treatment and recycling scheme; and
 - the address and telephone number of the registered office of the

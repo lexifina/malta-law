@@ -19,8 +19,9 @@ collection, treatment and recycling scheme of which the producer is a member;
 - the name of the operator of the authorised waste batteries and
 accumulators collection, treatment and recycling scheme; and
 - the address and telephone number of the registered office of the
+operator of the authorised waste batteries and accumulators
 [S.L.549.54 20 (WASTE BATTERIES AND ACCUMULATORS)
-operator of the authorised waste batteries and accumulators collection, treatment and recycling scheme or, if not a company registered in Malta, the principal place of business and telephone number of the operator of the authorised waste batteries and accumulators collection, treatment and recycling scheme in Malta.
+collection, treatment and recycling scheme or, if not a company registered in Malta, the principal place of business and telephone number of the operator of the authorised waste batteries and accumulators collection, treatment and recycling scheme in Malta.
 5. The producer's registration number.
 6. The date of the application for registration.
 7. A statement each year as to whether the producer has met his obligation under regulation 24 to furnish a statement of compliance.
