@@ -43,7 +43,7 @@ National Literacy To support the Government in matters Agency relating to litera
 those functions and duties relating to the registration of such commercial
 partnerships
 Residency Malta Agency To execute the functions and duties of
-the public administration in matters relating to issuing of residence-by-investment certificates and other administrative matters related to individuals wishing to stay or settle indefinitely in Malta or Gozo To execute the functions and duties Resource, Recovery and relating to circular economy Recycling Agency
+the public administration in matters relating to issuing of residence-by-investment certificates and other administrative matters related to individuals wishing to stay or settle indefinitely in Malta or Gozo To execute the functions and duties Circular Economy Malta relating to circular economy (Establishment) Order
 To inform and engage citizens in the EU Servizzi Ewropej f'Malta processes through the dissemination of (SEM)
 information and assistance on EU funding programmes. Servizz.gov Agency To carry out functions related to the
 provision of access to as many as possible of Government services to as many as possible service users, in partnership with the responsible Departments and Government entities, through the Servizz.gov regional-based hubs, multi-channel,
