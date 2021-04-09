@@ -9,7 +9,8 @@ Establishments or undertakings carrying out the following operations shall be ex
 Part 2
 Activities excluded from the requirements laid down in regulation 19(1)
 3. Generation and management of waste at the household
-(1) The generation and management of household waste by the householder generating that waste.
+(1) The generation and management of household waste by the householder
+* generating that waste.
 (2) The generation of hazardous wastes in quantities typically found in household waste.
 (3) The storage of any wastes mentioned in (1) and (2) for recycling or disposal, for a period not longer than 1 calendar month.
 (4) The transport, by means of private cars, of any wastes mentioned in (1) and
@@ -74,3 +75,4 @@ Provided that:
 (c) littering of public places is prevented.
 11. Cesspits
 Domestic cesspits, with the exclusion of cesspits for the collection of industrial effluents, provided that they are covered by other national legislation.
+- Amended by: L.N. 441 of 2011; L.N. 384 of 2012; L.N. 382 of 2015.
