@@ -13,8 +13,7 @@ interconnection, in:
 Authority with regard to access and interconnection;
 - Regulation 10 on conditional access systems and other facilities; - Regulation 11 on the imposition, amendment or withdrawal of
 obligations related to access and, or interconnection; and
-[S.L.399.28 78 NETWORKS AND SERVICES (GENERAL)
-(b) with regard to specific obligations regarding retail services, in:
+(b) with regard to specific obligations regarding retail services, in: [S.L.399.28 78 NETWORKS AND SERVICES (GENERAL)
 - Regulation 19 on controls related to retail markets;
 (c) with regard to specific obligations regarding universal service:
 - those obligations imposed on undertakings designated under
@@ -48,8 +47,8 @@ made in its name in accordance with regulation 66.
 2. No special or exclusive rights
 2.1. This General Authorisation shall not be construed as granting any
 special or exclusive right to any person in relation to the provision of
-[S.L.399.28 NETWORKS AND SERVICES (GENERAL) 79
 electronic communications networks and, or services.
+[S.L.399.28 NETWORKS AND SERVICES (GENERAL) 79
 3. Applicability of laws, decisions of the Authority, etc.
 3.1. The Act, all national laws and regulations, and decisions of the
 Authority, and applicable European Union Law, shall form an integral part of this authorisation except in those cases where the undertaking is specifically exempted by the Authority;
@@ -75,9 +74,8 @@ not transferable and may only be exercised by the person identified in a notific
 information that the Authority may from time to time make, in accordance with the Act or the Malta Communications Authority Act (Cap. 418), in the form and at the time specified by the Authority.
 9. Dispute resolution
 9.1. The authorised undertaking shall follow the procedures established
-under the Act or by the Authority in order to resolve disputes in a fair, transparent and timely manner and shall comply with all requirements or decisions in relation to disputes, made by the Authority in
+under the Act or by the Authority in order to resolve disputes in a fair, transparent and timely manner and shall comply with all requirements or decisions in relation to disputes, made by the Authority in accordance with the Act.
 [S.L.399.28 80 NETWORKS AND SERVICES (GENERAL)
-accordance with the Act.
 10. Annual report
 10.1. The authorised undertaking shall submit to the Authority a copy of any
 existing company annual report for each financial year:
@@ -99,9 +97,9 @@ that the network does not cause harmful interference with the lawful use or oper
 13.2. The authorised undertakings shall comply with any radiation emission
 standards adopted and published by the International Commission for Non-Ionising Radiation Protection (ICNIRP) or by a public authority which at law is responsible for the adoption of any such standards, or with any other appropriate standard as may be specified at law;
 13.3. The undertaking shall comply with any decisions issued by the
-Authority in relation to electromagnetic radiation and harmful interference and ensure that the network and all services at all times comply with the technical and performance standards generally accepted by the industry or as may be prescribed in accordance with paragraph 13.2. or as may be accepted by the Authority or by the
+Authority in relation to electromagnetic radiation and harmful interference and ensure that the network and all services at all times comply with the technical and performance standards generally accepted by the industry or as may be prescribed in accordance with paragraph 13.2. or as may be accepted by the Authority or by the competent public health authorities as being adequate to ensure the
 [S.L.399.28 NETWORKS AND SERVICES (GENERAL) 81
-competent public health authorities as being adequate to ensure the limitation of exposure of the general public to electromagnetic fields.
+limitation of exposure of the general public to electromagnetic fields.
 Section C - Conditions applicable to Television and, or Radio Distribution Services
 In addition to the general conditions stipulated in Part 2, Section B of this Schedule, authorised undertakings providing television and, or radio distribution services shall also comply with the following conditions:
 1. Broadcasting Rules
