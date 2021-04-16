@@ -93,7 +93,18 @@ Provided that in the latter case payment of excise duty shall be entered on the 
 12. (1) No containers immediately enclosing wine shall be released by Customs or shall be released from a tax warehouse unless the container has been affixed with a band or an excise stamp. This band or excise stamp shall be the correct one as indicated by the Commissioner and it shall be affixed in the correct manner as indicated by the Commissioner.
 (2) The said bands or stamps shall be of the type approved by the Commissioner and shall be supplied at the Custom House or at any other place to be appointed by the Minister through a notice in the Gazette.
 (3) Such bands or stamps shall be issued by the Commissioner against payment, as may be prescribed under the Act, on application by the authorised warehouse keeper or trader of wine.
-(4) The band or stamp shall be affixed to the container by not later than five days after it was bought.
+(4) The band or excise stamp shall be affixed to the container not later than five (5) days from when it is purchased, except where the band or excise stamp should be affixed by an authorised warehouse keeper.
+(5) (a) Every person who fails to affix the band or excise stamp within five (5) days from when it is purchased, except for an authorised warehouse keeper, shall, on conviction, be liable to a fine (multa) of one-hundred euro (€100) and the Court shall also order the forfeiture of the bands or excise stamps that have not been affixed within the given time. In addition to this, the forfeiture of the wine itself shall also take place according to law, as applicable.
+(b) In the case of an irregularity mentioned in paragraph
+(a), the Commissioner, while he forfeits the bands or excise stamps not affixed within the given time, may, if the offender admits, refrain from instituting proceedings in terms of this Act and impose a penalty equivalent to one-hundred euro (€100). In addition to this, the forfeiture of the wine itself shall also take
+place according to law, as applicable.
+(6) (a) Every authorised warehouse keeper who takes out of the tax warehouse wine on which a band or excise stamp was not affixed according to law, shall, on conviction, be liable to a fine (multa) of one-hundred euro (€100) and the Court shall also order the forfeiture of the bands or excise stamps that had to be affixed to those goods. In addition to this, the forfeiture of the wine itself shall also take place according to law, as applicable.
+(b) In the case of an irregularity mentioned in paragraph
+(a), the Commissioner, while he forfeits the bands or excise stamps that had to be affixed to the wine, may, if the offender admits, refrain from instituting proceedings in terms of this Act and impose a penalty equivalent to one-hundred euro (€100). In addition to this, the forfeiture of the wine itself shall also take
+place according to law, as applicable.
+(7) (a) Every person who has in his possession bands or excise stamps that are not affixed after five (5) days from purchase have elapsed, except in the case of an authorised warehouse keeper, shall be liable, on conviction, to a fine (multa) of two-hundred and fifty euro (€250) and the Court shall order the forfeiture of these bands or excise stamps. In addition to this, the forfeiture of the wine itself shall also take place according to law, as applicable.
+(b) In the case of an irregularity mentioned in paragraph
+(a), the Commissioner, while he forfeits the bands or excise stamps that remained unaffixed, may, if the offender admits, refrain from instituting proceedings in terms of this Act and impose a penalty equivalent to two-hundred and fifty euro (€250). In addition to this, the forfeiture of the wine itself shall also take place according to law, as applicable.
 13. Any quantity of wine products found in the possession of any person in contravention to the provisions of regulations 11 or 12 shall, without prejudice to any other penalty provided for under the Act or any other law, be forfeited to Government.
 PART G
 Mobile Telephony Services Regulations
@@ -214,8 +225,8 @@ Provided that when the data in the electronic administrative document have been 
 (4) Where appropriate evidence has been accepted by the Commissioner, it shall end the movement in the computerised system.
 15. (1) The Commissioner may establish simplified procedures in respect of movements of excise goods under a duty suspension arrangement which take place within Maltese territory, including the possibility to waive the requirement of electronic supervision of such movement.
 The Minister, after consulting the Commissioner, may enter into an agreement with other Member States, to establish more simplified procedures for excise goods that move under a duty suspension arrangement and their movement between Malta and any other two or more Member States occurs frequently and regularly.
-- Amended by: XVI.2017.80; VIII.2020.66.
-- Amended by: XVI. 2017.80; VIII.2020.66.
+- Amended by: XVI.2017.80; VIII.2020.66; XVIII.2021.55.
+- Amended by: XVI. 2017.80; VIII.2020.66; XVIII.2021.55.
 - See Cap. 436.
 - See Cap. 436.
 - See Cap. 436.

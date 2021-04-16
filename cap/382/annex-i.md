@@ -1,127 +1,125 @@
 ## ANNEX I
-## G
-## n1
 ## A B G
-## aDestination n1
-## b Journey time an3
-## cTransport n1
-## d ARC an21
-## e Date and Time date Time
-## fSequence n..5
-## g Date and Time date Time
-## an13 authorised
-## an.. 182
-## an..65
-## an..11
-## an..10
-## an..50
-## a2
-## an13
-## an8
-## an..16
+## n1
+## 1
+## G
+## an3
+## an21
+## date Time
+## n..5
+## hDeferred n1
+## 2
+## a Trader Excise an13
+## b Trader Name an.. 182
+## c Street Name an..65
 ## d Street Number an..11
 ## e Postcode an..10
 ## f City an..50
 ## g NAD_LNG a2
-## 6
-## a Member State a2
-## b Serial Number an.. 255
-## 7
-## a Tr a d e r an..16
-## b Trader Name an.. 182
-## c Street Name an..65
-## 8
-## a O ff i c e an8
-## 9
-## an..22
-## an..35
-## Date
-## Time
-## an21
-## 9X
-## an..21
-## n..4
-## 12 2X
-## a Trader Excise an13
-## b VAT Number an..35
-## c Trader Name an.. 182
-## d Street Name an..65
-## e Street Number an..11
-## f Postcode an..10
-## g City an..50
-## h NAD_LNG a2
-## 13
-## a Transport Mode n..2
-## 14
-## a VAT Number an..35
-## 15
-## 16 99X
-## n..2
-## an.. 350
-## 999x
-## n..3
-## an4
-## n8
-## n.. 15,3
-## n.. 15,2
-## n..5,2
-## jFiscal a2
-## kFiscal n1
-## l Designation of an.. 350
-## m Designation of a2
-## n Size of Producer n..15
-## o Density n..5,2
-## pCommercial an.. 350
-## qCommercial a2
-## 99x
-## n..15
-## 9x
-## aShort an.. 350
-## bShort a2
-## cReference of an.. 350
-## dReference of a2
-## 1
-## a ARC an21
-## 2
-## aCancellation n1
 ## 3
-## a Date and Time date Time
-## n..5
-## an3
-## N1
-## date
+## a Tax Warehouse an13
+## 4
+## a O ff i c e an8
 ## 5
-## aNotification n1
-## bNotification date Time
-## c ARC an21
-## 2 9x
+## a Tr a d e r an..16
+## an..11
+## an..10
+## an..50
+## a2
+## an.. 255
+## an..16
+## an.. 182
+## an..65
+## an8
+## a Local Reference an..22
+## b Invoice Number an..35
+## c Invoice Date Date
+## dOrigin n1
+## e Date of Dispatch Date
+## f Time of Time
+## g Upstream ARC an21
+## 9.1 9X
+## aImport an..21
+## 10
+## 11
+## a Guarantor Type n..4
+## 2X
+## an13
+## an..35
+## n..2
 ## 99X
-## an..4
+## a Transport Unit n..2
+## bIdentity an..35
+## cIdentity an..35
+## d Seal Information O an.. 350
+## e Seal Information a2
+## f Complementary an.. 350
+## g Complementary a2
+## 17 999x
+## aBody Record n..3
+## b Excise Product an4
+## c CN Code n8
 ## d Quantity n.. 15,3
 ## e Gross Weight n.. 15,2
 ## f Net Weight n.. 15,2
+## gAlcoholic n..5,2
+## h Degree Plato n..5,2
 ## i Fiscal Mark an.. 350
+## an.. 350
+## destination.
+## n..15
+## n..5,2
 ## r Brand Name of an.. 350
 ## s Brand Name of a2
-## 11 99x
+## 17.1 PACKAGE 99x
 ## aKind a2
 ## bNumber n..15
-## cIdentity an..35
+## 17.2 W I N E
+## aCategory n1
+## b Wine-Growing n..2
+## c Third Country a2
+## dOther an.. 350
+## eOther a2
+## 17.2 99x .1
+## a Wine Operation n..2
+## 18 9x
+## aSequence n..5
+## b ARC an21
+## c Journey time an3
+## dChanged N1
+## e Invoice Number an..35
+## f Invoice Date date
+## g Transport Mode n..2
+## aDestination n1
+## 8
+## a VAT Number an..35
+## 9 99x
 ## d S e a l an.. 350
 ## e S e a l a2
-## date Time
-## a Date of arrival Date
-## bGlobal n..2
-## c Complementary an.. 350
-## d Complementary a2
-## 7 999X
-## aBody Record n..3
-## bIndicator a1
-## cObserved n.. 15,3
-## d Excise Product an4
-## eRefused n.. 15,3
-## (1) UN/ECE Trade Facilitation Recommendation No 3, third edition, adopted by the Working Party on
-## Facilitation of International Trade Procedures, Geneva, January 1996, ECE/TRADE/201.
+## 9x
+## a Upstream ARC an21
+## 3 9x
+## b Journey time an3
+## cChanged n1
+## 9 99X
+## 10 999x
+## b Excise Product an..4
+## n.. 15,3
+## n.. 15,2
+## 99x
+## a Date and Time date Time
+## a ARC an21
+## bSequence
+## Date
+## although
+## 999X
+## n..3
+## a1
+## an4
+## 7.1 9X
+## a Unsatisfactory n1
+## b Complementary an.. 350
+## c Complementary a2
 # annex-i
 Table 1
 (referred to in Article 3(1) and Article 8(1))

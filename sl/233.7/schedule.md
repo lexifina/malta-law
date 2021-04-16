@@ -1,6 +1,4 @@
 ## SCHEDULE
-## /MT
-## no
 # schedule
 Form - Cash Declaration
 (Regulation 3) Form - Unaccompanied Cash Disclosure Declaration

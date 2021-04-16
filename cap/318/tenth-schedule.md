@@ -153,7 +153,8 @@ excluding the Worker-Student Schemes)
 up to a maximum rate of
 involving distinct work and study periods for
 contribution of €0.13
-which they are receiving remuneration Persons over 18 years of age who are following
+which they are receiving remuneration
+Persons over 18 years of age who are following
 0.3% calculated to the
 a full-time course of studies or instruction
 nearest cent of the basic
@@ -171,9 +172,11 @@ remuneration
 CREDITS OF CONTRIBUTIONS
 PART V
 Study periods
-Persons born between 1/1/ Persons born on or after Level of studies*
+Persons born between 1/1/ Persons born on or after
+Level of studies*
 1952 and 31/12/1961 1/1/1962
-One month for every year One month for every year Life long learning
+One month for every year One month for every year
+Life long learning
 of study of study
 Two months for every year Three months for every
 Level 5
@@ -188,5 +191,3 @@ Six months for every year One year for every year of
 Level 8
 of study study
 *According to Chapter 451 of the Laws of Malta
-- Amended by: XX. 1987.16.
-- Substituted by: XVI. 1989.31; XVI. 1990.56; XIII. 1991.48; VIII. 1992.46; XXIV. 1993.19; XXV. 1994.38; XXVII. 1995.18; XXI. 1996.64; XXII. 1997.12; L.N. 56 of 1999; L.N. 84 of 1999; L.N. 10 of 2000; L.N. 21 of 2001; L.N. 4 of 2002; L.N. 422 of 2002; L.N. 436 of 2003; L.N. 100 of 2006; L.N. 101 of 2006; L.N. 318 of 2007; L.N. 424 of 2007; L.N. 149 of 2008; L.N. 143 of 2009; L.N. 437 of 2010; L.N. 330 of 2011; L.N. 117 of 2012; L.N. 342 of 2012; L.N. 355 of 2013; L.N. 62 of 2014; L.N. 123 of 2015; L.N. 258 of 2015; L.N. 309 of 2016; L.N. 337 of 2016:; L.N. 6 of 2018; L.N.195 of 2018; L.N. 94 of 2019; L.N. 251 of 2020; L.N. 331 of 2021.
