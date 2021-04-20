@@ -37,6 +37,7 @@
 ## If two or more nominations, ballot papers of vacating member are examined.
 ## Vacancy filled by co-option in special cases.
 ## Additional members.
+## Additional members in terms of article 52A of the Constitution.
 # thirteenth-schedule
 (Article 105)
 The General Elections
@@ -236,6 +237,46 @@ Party C is credited with 5,000 valid first count votes and elects no members
 8. The final result would therefore be: Party A 35 seats and Party B 32 for a House of Representatives with 67 seats.
 4. Example in terms of sub-paragraph (ii) of the second proviso to sub-article (1) of article 52 of the Constitution
 Example 3 above will apply but the votes of Party C at first count would be taken at 15,000 and it would still not elect any candidate.
+24. For the purpose of electing the additional members, if any, required in terms of article 52A of the Constitution, the Commission shall:
+(a) establish the number of members elected to the
+House by sex and determine the under- represented sex as the sex with the lowest number of members elected to the House;
+(b) establish the percentage of seats attained by the
+under-represented sex based on the number of elected members of the under-represented sex elected to the House as a proportion of the number of elected members to the House by dividing the number of elected members of the under-represented sex with the number of elected members multiplied by hundred; and
+(c) in the event that the percentage of the under-
+represented sex is below forty percent (40%), the Commission shall assign up to a maximum of twelve (12) additional seats by applying the following equation:
+A = total number of seats attained by the under-represented sex;
+B = total number of members elected to the House;
+= additional seats created in terms of article 52A of
+the Constitution;
+0.40 = the denominator that represents the total number of seats, including the additional seats created
+in terms of article 52A of the Constitution.
+Subject to the provisions of article 52(1) of the Constitution, the number of additional seats resulting from the application of the equation shall be rounded down to the nearest even integer to ensure that the additional seats allocated to the under-represented sex in terms of article 52A of the Constitution shall be an even integer and the elected members of the under-represented sex elected to the House shall not exceed forty percent (40%).
+Annex to the Thirteenth Schedule
+Art. 52A of the Constitution
+Regulation 23A of the General Elections (Sorting of Ballot Papers,
+Casual Elections, and Co-Opting) Regulations 1991
+Examples for calculating additional seats in terms of article 52A of the Constitution
+Examples in terms of sub-article (1) of article 52A of the Constitution
+Example A
+The total number of seats attained by the under-represented sex is nine (9) from a total of sixty-seven (67) seats in the House.
+The proportion of seats assigned to the under-represented sex is thirteen point forty-three per cent (13.43%). This percentage is below the forty per cent (40%) threshold and so the provisions of article 52A of the Constitution shall apply.
+To establish the number of additional seats to be assigned to the under-represented sex, the Commission shall apply the following equation:
+9 + x = 0.40 (67 + x)
+9 + x = 26.8 + 0.40x
+x - 0.4x = 26.8 - 9
+0.6x = 17.8
+x = 29.67
+The figure of 29.67 shall be rounded down to the nearest even integer 28, to ensure that the total number of seats does not exceed forty per cent (40%). However, given that the maximum number of additional seats which can be assigned is 12, the 28 are to be reduced to 12.
+Example B
+The Total number of seats attained by the under-represented sex is twenty-three (23) from a total of sixty-nine (69) seats in the House.
+The proportion of seats assigned to the under-represented sex is thirty-three point thirty-three per cent (33.33%). This percentage is below the 40% threshold and so the provisions of article 52A of the Constitution shall apply.
+To establish the number of additional seats to be assigned to the under-represented sex, the Commission shall apply the following equation:
+23 + x = 0.40 (69+x)
+23 + x = 27.6 + 0.40x
+x - 0.4x = 27.6 - 23
+0.6x = 4.6
+x = 7.67.
+The figure of 7.67 shall be rounded down to the nearest even integer, hence adjusted to six (6) additional seats.
 - Amended by: XV. 1996.65; L.N. 178 of 1996; XXI. 2007.7.
 - Amended by: L.N. 178 of 1996.
 - Amended by: XV. 1996.65.

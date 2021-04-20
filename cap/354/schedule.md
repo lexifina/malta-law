@@ -24,6 +24,7 @@
 ## Fall Back clause.
 ## Casual Vacancies.
 ## Article 52 of the Constitution.
+## Additional members in terms of article 52A of the Constitution.
 # schedule
 Declaration of Result of Poll
 Name of Electoral Division
@@ -74,7 +75,7 @@ K's sub-parcel contains 29 papers, and his share of the surplus is therefore ...
 Total ..................................................... 90
 The numbers of papers to be transferred as determined by the preceding process contain decimal parts, and since only whole papers can be transferred, so many of the largest of these decimal parts, taken in order of their magnitude as will make the total number of papers to be transferred equal to the surplus are reckoned as of the value of unity.
 Thus as the whole numbers determined above amount to only 88 viz. (52+1+16+19), or two short of the surplus, 90, the two largest decimal parts .9412 and .5441 are reckoned as unity, and the number of papers actually transferred are as follows:
-To D ..................................................................... 53 papers To E ..................................................................... 1 paper To I ...................................................................... 17 papers To D ..................................................................... 53 papers To K ..................................................................... 19 papers
+To D ..................................................................... 53 papers To E ..................................................................... 1 paper To I ...................................................................... 17 papers To K ..................................................................... 19 papers
 Total, being B's surplus ........................................ 90 papers
 The particular papers to be transferred to D, E, I and K are those last filed in their respective sub-parcels, and, therefore at the top of the sub-parcels. The papers transferred are marked with the number of the count at which the transfer is made.
 These papers are added in separate sub-parcels to the parcels of D, E, I and K. (Note: K had no parcel of original votes).
@@ -308,6 +309,7 @@ Provided that all Parties shall have the same rights at law to contest the resul
 Provided that in such circumstances the Commission shall, for all intents and purposes of law, be deemed to have decided to not use an Electronic Counting System for the counting and sorting of votes.
 20. In the event of a seat becoming vacant regulations 18 to 22 of the Thirteenth Schedule shall be applied so however that the examination of the ballot papers shall be done by the Electronic Counting System using the final resulting parcel of the Candidate as produced by the System.
 21. For the purpose of electing the additional members, if any, required in terms of sub-paragraphs (i) and (ii) of the first proviso to sub-article (1) of article 52 of the Constitution and of sub-paragraphs (i) and (ii) of the second proviso to the same sub-article, the rules and regulations found in Part IV to the Thirteenth Schedule shall be applied.
+21A. For the purpose of electing the additional members, if any, required in terms of article 52A of the Constitution, the rules and regulations found in Part IV to the Thirteenth Schedule shall be applied.
 EXAMPLE OF THE METHOD OF COUNTING THE BALLOT PAPERS AT AN ELECTION CONDUCTED ON THE PROPORTIONAL REPRESENTATION SYSTEM OF THE SINGLE TRANSFERABLE VOTE USING AN ELECTRONIC VOTE COUNTING SOLUTION
 Let it be assumed that there are six members to be elected and that there are eleven candidates A, B, C, D, E, F, G, H, I, K, L.
 THE QUOTA
@@ -539,3 +541,4 @@ There being now no surplus, C, the candidate lowest on the poll, is excluded fro
 The final result is that B, F, H, D, I and L are elected.
 - Substituted by: L.N. 178 of 1996.
 - Added by: XI.2019.16.
+- Amended by: XX.2021.10.
