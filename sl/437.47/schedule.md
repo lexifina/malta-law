@@ -1,6 +1,9 @@
 ## SCHEDULE
-## *OJ L 136, 30.4.2004, p. 1.
-## *OJ L 226, 22.9.1995, p. 1.
+## *OJ L 228, 17.8.1991, p. 70. †OJ L 50, 20.2.2004, p. 44. ‡OJ L 50, 20.2.2004, p. 28. §OJ L 358, 18.12.1986, p. 1. ** OJ L 159, 27.6.2003, p. 1. ††OJ L 159, 27.6.2003, p. 24. ‡‡OJ L 106, 17.4.2001, p. 1.
+## * OJ L 311, 28.11.2001, p. 67.
+## *OJ L 11, 14.1.1978, p. 18.
+## *OJ C 24, 28.1.2004, p. 6.
+## * OJ L 325, 12.12.2003, p. 31.
 # schedule
 REQUIREMENTS AND ANALYTICAL PROTOCOL, SAFETY TESTS,
 PRE-CLINICAL AND CLINICAL FOR TESTS
@@ -180,7 +183,7 @@ REQUIREMENTS FOR MARKETING AUTHORISATION APPLICATIONS FOR PARTICULAR VETERINARY 
 2. HOMEOPATHIC VETERINARY MEDICINAL PRODUCTS
 INTRODUCTION AND GENERAL PRINCIPLES
 1. The particulars and documents accompanying an application for marketing authorisation pursuant to regulations 12 to 13(1) shall be presented in accordance with the requirements set out in this Schedule and shall take into account the guidance published by the Commission in The rules governing medicinal products in the European Union, Volume 6 B, Notice to applicants, Veterinary medicinal products, Presentation and Contents of the Dossier.
-2. In assembling the dossier for application for marketing authorisation, applicants shall also take into account the current state of veterinary medicinal knowledge and the scientific guidelines relating to the quality, safety and efficacy of veterinary medicinal products published by the European Medicines Agency (Agency) and the other pharmaceutical Community guidelines published by the Commission in different volumes of The rules governing medicinal products in the European Union.
+2. In assembling the dossier for application for marketing authorisation, applicants shall also take into account the current state of veterinary medicinal knowledge and the scientific guidelines relating to the quality, safety and efficacy of veterinary medicinal products published by the European Medicines Agency (Agency) and the other pharmaceutical Union guidelines published by the Commission in different volumes of The rules governing medicinal products in the European Union.
 3. For veterinary medicinal products other than immunological veterinary medicinal products, with respect to the quality (pharmaceutical) part (physico-chemical, biological and microbiological tests) of the dossier, all relevant monographs including general monographs and the general chapters of the European Pharmacopoeia are applicable. For immunological veterinary medicinal products, with respect to the quality, safety and efficacy parts of the dossier, all relevant monographs including general monographs and the general chapters of the European Pharmacopoeia are applicable.
 4. The manufacturing process shall comply with the requirements of Commission Directive 91/412/EEC* laying down the principles and guidelines for veterinary medicinal products and with the principles and guidelines on Good Manufacturing Practice (GMP), published by the Commission in The rules governing medicinal products in the European Union, Volume 4.
 5. All information which is relevant to the evaluation of the veterinary medicinal product concerned shall be included in the application, whether favourable or unfavourable to the product. In particular, all relevant details shall be given of any incomplete or abandoned test or trial relating to the veterinary medicinal product.
@@ -202,7 +205,7 @@ A. ADMINISTRATIVE INFORMATION
 The veterinary medicinal product, which is the subject of the application, shall be identified by its name and by the name of the active substance(s), together with the strength, the pharmaceutical form, the route and method of administration (vide regulation 12) and a description of the final presentation of the product, including packaging, labelling and package leaflet (vide regulation 12).
 The name and address of the applicant shall be given, together with the name and address of the manufacturers and the sites involved in the different stages of the manufacture, testing and release (including the manufacturer of the finished product and the manufacturer(s) of the active substance(s)), and where relevant the name and address of the importer.
 The applicant shall identify the number and titles of volumes of documentation submitted in support of the application and indicate what samples, if any, are also provided.
-Annexed to the administrative information shall be a document showing that the manufacturer is authorised to produce the veterinary medicinal products concerned, as defined in regulation 38, together with a list of countries in which authorisation has been granted, copies of all the summaries of product characteristics in accordance with regulation 14 as approved by the territory of Malta and a list of countries in which an application has been submitted or refused.
+Annexed to the administrative information shall be a document showing that the manufacturer is authorised to produce the veterinary medicinal products concerned, as defined in regulation 38, together with a list of countries in which authorisation has been granted, copies of all the summaries of product characteristics in accordance with regulation 14 as approved by the Director and a list of countries in which an application has been submitted or refused.
 B. SUMMARY OF PRODUCT CHARACTERISTICS, LABELLING AND PACKAGE LEAFLET
 The applicant shall propose a summary of the product characteristics, in accordance with regulation 14.
 A proposed labelling text for the immediate and outer packaging shall be provided in accordance with Title V of these regulations, together with a package leaflet where such is required pursuant to regulation 51 of these regulations. In addition the applicant shall provide one or more specimens or mock-ups of the final presentation(s) of the veterinary medicinal product in at least one of the official languages of the European Union; the mock-up may be provided in black and white and electronically where prior agreement from the competent authority has been obtained.
@@ -617,7 +620,7 @@ CHAPTER II: CLINICAL REQUIREMENTS
 1. General principles
 The purpose of clinical trials is to demonstrate or substantiate the effect of the veterinary medicinal product after administration at the proposed dosage regimen via the proposed route of administration and to specify its indications and contra-indications according to species, age, breed and sex, its directions for use as well as any adverse reactions which it may have.
 Experimental data shall be confirmed by data obtained under normal field conditions.
-Unless justified, clinical trials shall be carried out with control animals (controlled clinical trials). The efficacy results obtained should be compared with those from the target animal species that have received a veterinary medicinal product authorised in the Community for the same indications for use in the same target animal species, or a placebo or no treatment. All the results obtained, whether positive or negative, shall be reported.
+Unless justified, clinical trials shall be carried out with control animals (controlled clinical trials). The efficacy results obtained should be compared with those from the target animal species that have received a veterinary medicinal product authorised in the Union for the same indications for use in the same target animal species, or a placebo or no treatment. All the results obtained, whether positive or negative, shall be reported.
 Established statistical principles shall be used in protocol design, analysis and evaluation of clinical trials, unless justified.
 In the case of a veterinary medicinal product intended primarily for use as a performance enhancer, particular attention shall be given to:
 1. the yield of animal produce,
@@ -673,7 +676,7 @@ In respect of each clinical trial, the clinical observations shall be summarised
 (b) the number of animals withdrawn prematurely from the trials and the reasons for such withdrawal;
 (c) in the case of control animals, whether they have:
 - received no treatment, or - received a placebo, or - received another veterinary medicinal product authorised in the
-Community for the same indication for use in the same target animal species, or
+Union for the same indication for use in the same target animal species, or
 - received the same active substance under investigation in a
 different formulation or by a different route;
 (d) the frequency of observed adverse reactions;
@@ -684,7 +687,7 @@ Finally, the investigator shall draw general conclusions on the efficacy and saf
 In the case of fixed combination products, the investigator shall also draw conclusions concerning the safety and the efficacy of the product when compared with the separate administration of the active substances involved.
 TITLE II
 REQUIREMENTS FOR IMMUNOLOGICAL VETERINARY MEDICINAL PRODUCTS
-Without prejudice to specific requirements laid down by Community legislation for the control and eradication of specific infectious animal diseases, the following requirements shall apply to immunological veterinary medicinal products, except when the products are intended for use in some species or with specific indications as defined in Title III and in relevant guidelines.
+Without prejudice to specific requirements laid down by Union legislation for the control and eradication of specific infectious animal diseases, the following requirements shall apply to immunological veterinary medicinal products, except when the products are intended for use in some species or with specific indications as defined in Title III and in relevant guidelines.
 PART 1: SUMMARY OF THE DOSSIER
 A. ADMINISTRATIVE INFORMATION
 The immunological veterinary medicinal product, which is the subject of the application, shall be identified by name and by name of the active substance(s), together with the biological activity, potency or titre, the pharmaceutical form, the route and method if appropriate of administration and a description of the final presentation of the product, including packaging, labelling and leaflet. Diluents may be packed together with the vaccine vials or separately.
@@ -919,7 +922,7 @@ The following shall be provided for all studies:
 2. the name of the body having carried out the studies;
 3. a detailed experimental protocol giving a description of the methods, apparatus and materials used, details such as species or breed of animals, categories of animals, where they were obtained, their identification and number, the conditions under which they were housed and fed (stating, inter alia, whether they were free from any specified pathogens and/or specified antibodies, the nature and quantity of any additives contained in the feed), dose, route, schedule and dates of administration, a description and a justification of the statistical methods used;
 4. in the case of control animals, whether they received a placebo or no treatment;
-5. in the case of treated animals and where appropriate, whether they received the test product or another product authorised in the Community;
+5. in the case of treated animals and where appropriate, whether they received the test product or another product authorised in the Union;
 6. all general and individual observations and results obtained (with averages and standard deviations), whether favourable or unfavourable. The data shall be described in sufficient detail to allow the results to be critically evaluated independently of their interpretation by the author. The raw data shall be presented in tabular form. By way of explanation and illustration, the results may be accompanied by reproductions of recordings, photomicrographs, etc;
 7. the nature, frequency and duration of observed adverse reactions;
 8. the number of animals withdrawn prematurely from the studies and reasons for such withdrawal;
@@ -986,7 +989,7 @@ The following specific rules shall apply in order to demonstrate the well-establ
 (b) quantitative aspects of the use of the active substance;
 (c) the degree of scientific interest in the use of the active substance (reflected in the published scientific literature);
 (d) the coherence of scientific assessments.
-Different periods of time may be necessary for establishing well-established use of different substances. In any case, however, the period of time required for establishing a well-established veterinary use of a constituent of a medicinal product shall not be less than ten years from the first systematic and documented use of that substance as a veterinary medicinal product in the Community.
+Different periods of time may be necessary for establishing well-established use of different substances. In any case, however, the period of time required for establishing a well-established veterinary use of a constituent of a medicinal product shall not be less than ten years from the first systematic and documented use of that substance as a veterinary medicinal product in the Union.
 3.2. The documentation submitted by the applicant shall cover all aspects of the safety and/or efficacy assessment of the product for the proposed indication in the target species using the proposed route of administration and dosage regimen. It must include or refer to a review of the relevant literature, taking into account pre-and post-marketing studies and published scientific literature concerning experience in the form of epidemiological studies and in particular of comparative epidemiological studies. All documentation, both favourable and unfavourable, shall be communicated. With respect to the provisions on well-established veterinary use, it is in particular necessary to clarify that bibliographic reference to other sources of evidence (post-marketing studies, epidemiological studies etc.) and not just data related to tests and trials may serve as a valid proof of safety and efficacy of a product if an application explains and justifies the use of these sources of information satisfactorily.
 3.3. Particular attention must be paid to any missing information and justification must be given as to why demonstration of an acceptable level of safety and/or efficacy can be supported although some studies are lacking.
 3.4. The detailed and critical summaries regarding safety and efficacy must explain the relevance of any data submitted which concern a product different from the product intended for marketing. A judgement must be made whether or not the product studied can be considered as similar to the product, for which application for a marketing authorisation has been made in spite of the existing differences.
@@ -1030,4 +1033,3 @@ The stability of the finished product shall be demonstrated. Stability data from
 Part 3
 The provisions of Part 3 shall apply to the simplified registration of homeopathic veterinary medicinal products referred to in regulation 17(1) with the following specification, without prejudice to the provisions of Regulation (EEC) No 2377/90 for substances included in the homeopathic stocks intended for administration to food-producing animal species.
 Any missing information must be justified, e.g. justification must be given why demonstration of an acceptable level of safety can be supported although some studies are lacking.
-- Substituted by: L.N. 360 of 2009.

@@ -2,5 +2,5 @@ SUBSIDIARY LEGISLATION 437.47
 VETERINARY MEDICINAL PRODUCTS
 REGULATIONS
 12th November, 2004
-LEGAL NOTICE 469 of 2004, as amended by Legal Notices 82 of 2006, and 23 and 360 of 2009.
+LEGAL NOTICE 469 of 2004, as amended by Legal Notices 82 of 2006, and 23 and 360 of 2009 and 179 of 2021.
 TITLE I
