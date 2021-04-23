@@ -369,9 +369,36 @@ Class 22 Existing Development Related to Malta's Culture and Tradition
 (i) Existing fireworks factories, including their operations, provided that the fireworks factories, including the footprint of their built structures and their operations, have been in existence since, or before, the year 1994 and the same fireworks factories, including the footprint of their built structures and their operations, were still in existence in 2016, as evident from the relative aerial photography of the Authority and upon submission of proof of actual use of the site as a fireworks factory in the aforementioned years.
 (ii) Development under paragraph (i) shall be considered permitted development:
 Provided that the provisions of article 3(5) of the principal order shall not be applicable to such class:
-Provided further that the provisions of the Sanitary Regulations, the relevant provisions of the Development Control Design Policy, Guidance and Standards, the Rural Policy and Design Guidance and all other relevant approved plans and policies under the Act, exceptions, conditions, restrictions, rules, limitations and exclusions currently in force, shall not be applicable for this Class. Class 23 Development by the Civil Protection Department
+Provided further that the provisions of the Sanitary Regulations, the relevant provisions of the Development Control Design Policy, Guidance and Standards, the Rural Policy and Design Guidance and all other relevant approved plans and policies under the Act, exceptions, conditions, restrictions, rules, limitations and exclusions currently in force, shall not be applicable for this Class.
+Class 23 Development by the Civil Protection Department
 (a) Development carried out by the Civil Protection Department on land under the operational control of the same Civil Protection Department, provided that:
 (i) when the development is located on, or contiguous to, designated areas or scheduled property, it shall be subject to prior clearance by the Superintendent of Cultural Heritage and by the Environment and Resources Authority in the case of development located on, or contiguous to, areas declared as protected under the Environment Protection Act and in the case of development located on, or contiguous to, areas Outside the Development Zone;
 (ii) the proposed development is recommended by the Minister
 responsible for the Civil Protection Department;
 (b) Development under this Class shall be subject to the notification procedure set out in article 5(1) and (3). However such notification procedure is not required where in the opinion of the Minister responsible for the Civil Protection Department, the development is urgently required for national security reasons and the Authority, the Superintendent of Cultural Heritage and the Environment and Resources Authority are informed accordingly.
+Class 24 Urban greening projects by Government agencies, Local Councils and other entities appointed thereby
+(i) The formation of greening projects within the development zones
+indicated in the respective Local Plans.
+(ii) Installation of playing equipment within greening projects.
+(iii) Vertical structures, which may be accessible, forming part of the
+greening project.
+(iv) Excavation of underground reservoirs intended for the irrigation
+of the proposed vegetation and other related uses to the greening project.
+(v) Formation of green projects including on schemed roads and public open spaces.
+(vi) Taking up of existing surface and resurfacing with materials such
+as permeable paving blocks.
+(vii) Installation of flooring systems.
+(viii) Installation of vertical greening structures, including against
+public buildings or government owned residential blocks, but excluding buildings which are designated or located within scheduled areas.
+(ix) Installation of features and structures for the purpose of the
+greening project.
+(x) Interventions and planting of trees, including the related irrigation systems.
+(xi) Removal of existing paved or hard-surface areas and, or existing
+artificial structures, or their replacement with soil or soft landscaping.
+(xii) Removal of redundant infrastructure (including poles, brackets,
+cables, pipework, etc.), and/or the replacement of such infrastructure with facilities laid underground within the footprint of existing streets or pavements:
+Provided that:
+(a) Prior approval is obtained from the Superintendent of Cultural Heritage for sites within Urban Conservation Area, Scheduled sites and sites within Scheduled Building Settings;
+(b) Prior approval is obtained from Transport Malta for sites falling within schemed roads;
+(c) Prior approval is obtained by the Environment and Resources Authority for the uprooting, transplanting, and planting of trees, as necessary.
+Development under this class shall be subject to the notification procedure established in sub-articles (1) and (3) of article 5.
