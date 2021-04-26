@@ -5,3 +5,4 @@ AND OUTLETS PROVIDING NON-ESSENTIAL
 SERVICES ORDER
 11th March,2021
 LEGAL NOTICE 90 of 2021, as amended by Legal Notice 153 of 2021.
+Repealed by Legal Notice 185 of 2021.
