@@ -3,3 +3,4 @@ ESSENTIAL TRAVEL BETWEEN MALTA AND GOZO
 ORDER
 11th March 2021
 LEGAL NOTICE 86 of 2021, as amended by Legal Notice 143 of 2021.
+Repealed by Legal Notice 209 of 2021.
