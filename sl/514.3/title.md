@@ -2,6 +2,6 @@ SUBSIDIARY LEGISLATION 514.03
 RETIREMENT PENSIONS (CONTROL OF ASSETS)
 REGULATIONS
 1st January, 2015*
-LEGAL NOTICE 7 of 2015, as amended by Legal Notice 47 of 2020.
+LEGAL NOTICE 7 of 2015, as amended by Legal Notices 47 of 2020 and 214 of 2021.
 Part I
 Preliminary
