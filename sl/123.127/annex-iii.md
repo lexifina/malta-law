@@ -1,7 +1,8 @@
 ## ANNEX III
-## Tangible Assets other than Jurisdic- Cash Equivalent
-## Holding Shares or Other Equity instruments
+## Tangible Assets Number of other than Employees Cash Equivalent
+## Jurisdic-
 ## Dormant Other1
+## facilitate the understanding of the compulsory information provided in the country-by-country report
 # annex-iii
 FILING RULES FOR GROUPS OF
 MULTINATIONAL ENTERPRISES
@@ -17,9 +18,8 @@ DEFINED TERMS
 (c) any permanent establishment of any separate business unit of the MNE Group included in (a) or (b) provided the business unit prepares a separate financial statement for such permanent establishment for financial reporting, regulatory, tax reporting, or internal management control purposes.
 6. The term "Reporting Entity" means the Constituent Entity that is required to file a country-by-country report conforming to the requirements in regulation 13(4)(c) in its jurisdiction of tax residence on behalf of the MNE Group. The Reporting Entity may be the Ultimate Parent Entity, the Surrogate Parent Entity, or any entity described in point 1 of Section II.
 7. The term "Ultimate Parent Entity" means a Constituent Entity of an MNE Group that meets the following criteria:
-(a) it owns directly or indirectly a sufficient interest in one or more other
-[S.L.123.127 76 ON TAX MATTERS
-Constituent Entities of such MNE Group such that it is required to prepare Consolidated Financial Statements under accounting principles generally applied in its jurisdiction of tax residence, or would be so required if its equity interests were traded on a public securities exchange in its jurisdiction of tax residence;
+[S.L.123.127 ON TAX MATTERS 77
+(a) it owns directly or indirectly a sufficient interest in one or more other Constituent Entities of such MNE Group such that it is required to prepare Consolidated Financial Statements under accounting principles generally applied in its jurisdiction of tax residence, or would be so required if its equity interests were traded on a public securities exchange in its jurisdiction of tax residence;
 (b) there is no other Constituent Entity of such MNE Group that owns directly or indirectly an interest described in point (a) in the first mentioned Constituent Entity.
 8. The term "Surrogate Parent Entity" means one Constituent Entity of the MNE Group that has been appointed by such MNE Group, as a sole substitute for the Ultimate Parent Entity, to file the country-by-country report in that Constituent Entity's jurisdiction of tax residence, on behalf of such MNE Group, when one or more of the conditions set out in point (b) of point 1 of Section II apply.
 9. The term "Fiscal Year" means an annual accounting period with respect to which the Ultimate Parent Entity of the MNE Group prepares its financial statements.
@@ -34,7 +34,7 @@ GENERAL REPORTING REQUIREMENTS
 (a) the entity is resident for tax purposes in Malta;
 (b) one of the following conditions applies:
 (i) the Ultimate Parent Entity of the MNE Group is not obligated to file a country-by-country report in its jurisdiction of tax
-[S.L.123.127 ON TAX MATTERS 77
+[S.L.123.127 78 ON TAX MATTERS
 residence;
 (ii) the jurisdiction in which the Ultimate Parent Entity is resident for tax purposes has a current International Agreement to which Malta is a party but does not have a Qualifying Competent Authority Agreement in effect to which Malta is a party by the time specified in regulation 13(4)(a) for filing the country-by-
 country report for the Reporting Fiscal Year;
@@ -44,7 +44,7 @@ A Constituent Entity resident in Malta as defined in paragraph 1 shall request i
 Where there are more than one Constituent Entities of the same MNE Group that are resident for tax purposes in the Union and one or more of the conditions set out in point (b) apply, the MNE Group may designate one of such Constituent Entities to file the country-by-country report conforming to the requirements of regulation 13(4)(c) with respect to any Reporting Fiscal Year within the deadline specified in regulation 13(6) and to notify the Commissioner that the filing is intended to satisfy the filing requirement of all the Constituent Entities of such MNE Group that are resident for tax purposes in the Union. The competent authority of Malta shall, pursuant to regulation 13(4)(b), communicate the country-by-country report received to any other EU Member State in which, on the basis of the information in the country-by-country report, one or more Constituent Entities of the MNE Group of the Reporting Entity are either resident for tax purposes, or are subject to tax with respect to the business carried out through a permanent establishment.
 Where a Constituent Entity cannot obtain or acquire all the information required to file a country-by-country report, in line with regulation 13(4)(c), then such Constituent Entity shall not be eligible to be designated to be the reporting entity for the MNE Group in accordance with the fourth paragraph of this point. This rule shall be without prejudice to the obligation of the Constituent Entity to notify the Commissioner that the Ultimate Parent Entity has refused to make the necessary information available.
 2. By derogation from point 1, when one or more of the conditions set out in point (b) of the first paragraph of point 1 apply, an entity described in point 1 shall not be required to file a country-by-country report with respect to any Reporting Fiscal Year if the MNE Group of which it is a Constituent Entity has made available a country-by-country report in accordance with regulation 13(4)(c) with respect to
-[S.L.123.127 78 ON TAX MATTERS
+[S.L.123.127 ON TAX MATTERS 79
 such Fiscal Year through a Surrogate Parent Entity that files that country-by-country report with the tax authority of its jurisdiction of tax residence on or before the date specified in regulation 13(6) and that, in case the Surrogate Parent Entity is tax resident in a jurisdiction outside the Union, satisfies the following conditions:
 (a) the jurisdiction of tax residence of the Surrogate Parent Entity requires filing of country by-country reports conforming to the requirements of regulation 13(4)(c);
 (b) the jurisdiction of tax residence of the Surrogate Parent Entity has a Qualifying Competent Authority Agreement in effect to which Malta is a party by the time specified in regulation 13(6) for filing the country-by-country report for the Reporting Fiscal Year;
@@ -59,14 +59,15 @@ Country-by-country Report
 A. Template for the country-by-country report
 Table 1: Overview of allocation of income, taxes and business
 activities by tax jurisdiction
-[S.L.123.127 ON TAX MATTERS 79
+[S.L.123.127 80 ON TAX MATTERS
 Table 2: List of all the Constituent Entities of the MNE group included in each
 aggregation per tax jurisdiction
 Table 3: Additional Information
 B. General instructions for filling in the country-by-country report
 1. Purpose
 The template shall be used for reporting a multinational enterprise's (MNE) group allocation of income, taxes and business activities on a tax jurisdiction-by-tax jurisdiction basis.
-2. Treatment of Branches and Permanent Establishments [S.L.123.127 80 ON TAX MATTERS
+2. Treatment of Branches and Permanent Establishments
+[S.L.123.127 ON TAX MATTERS 81
 The permanent establishment data shall be reported by reference to the tax jurisdiction in which it is situated and not by reference to the tax jurisdiction of residence of the business unit of which the permanent establishment is a part. Residence tax jurisdiction reporting for the business unit of which the permanent establishment is a part shall exclude financial data related to the permanent establishment.
 3. Period covered by the annual template
 The template shall cover the fiscal year of the Reporting MNE. For Constituent Entities, at the discretion of the Reporting MNE, the template shall reflect on a consistent basis either of the following information:
@@ -81,7 +82,7 @@ C. Specific instructions for filling in the Country-by-Country Report
 1.1. Tax Jurisdiction
 In the first column of the template, the Reporting MNE shall list all of the tax jurisdictions in which Constituent Entities of the MNE group are resident for tax purposes. A tax jurisdiction is defined as a State as well as a non-State jurisdiction which has fiscal autonomy. A separate line shall be included for all Constituent Entities in the MNE group deemed by the Reporting MNE not to be resident in any tax jurisdiction for tax purposes. Where a Constituent Entity is resident in more than one tax jurisdiction, the applicable tax treaty tie breaker shall be applied to determine the tax jurisdiction of residence. Where no applicable tax treaty exists, the Constituent Entity shall be reported in the tax jurisdiction of the Constituent Entity's place of effective management. The place of effective management shall be determined with internationally agreed standards.
 1.2. Revenues
-[S.L.123.127 ON TAX MATTERS 81
+[S.L.123.127 82 ON TAX MATTERS
 In the three columns of the template under the heading 'Revenues', the Reporting MNE shall report the following information:
 (a) the sum of revenues of all the Constituent Entities of the MNE group in the relevant tax jurisdiction generated from transactions with associated enterprises;
 (b) the sum of revenues of all the Constituent Entities of the MNE group in the relevant tax jurisdiction generated from transactions with independent parties;
@@ -97,8 +98,8 @@ In the seventh column of the template, the Reporting MNE shall report the sum of
 In the eighth column of the template, the Reporting MNE shall report the sum of the stated capital of all the Constituent Entities resident for tax purposes in the relevant tax jurisdiction. With regard to permanent establishments, the stated capital shall be reported by the legal entity of which it is a permanent establishment unless there is a defined capital requirement in the permanent establishment tax jurisdiction for regulatory purposes.
 1.7. Accumulated Earnings
 In the ninth column of the template, the Reporting MNE shall report the sum of the total accumulated earnings of all the Constituent Entities resident for tax purposes in the relevant tax jurisdiction as of the end of the year. With regard to permanent establishments, accumulated earnings shall be reported by the legal entity of which it is a permanent establishment.
+[S.L.123.127 ON TAX MATTERS 83
 1.8. Number of Employees
-[S.L.123.127 82 ON TAX MATTERS
 In the tenth column of the template, the Reporting MNE shall report the total number of employees on a full-time equivalent (FTE) basis of all the Constituent Entities resident for tax purposes in the relevant tax jurisdiction. The number of employees may be reported as of the year-end, on the basis of average employment levels for the year, or on any other basis consistently applied across tax jurisdictions and from year to year. For this purpose, independent contractors participating in the ordinary operating activities of the Constituent Entity may be reported as employees. Reasonable rounding or approximation of the number of employees is permissible, providing that such rounding or approximation does not materially distort the relative distribution of employees across the various tax jurisdictions. Consistent approaches shall be applied from year to year and across entities.
 1.9. Tangible Assets other than Cash and Cash Equivalents
 In the eleventh column of the template, the Reporting MNE shall report the sum of the net book values of tangible assets of all the Constituent Entities resident for tax purposes in the relevant tax jurisdiction. With regard to permanent establishments, assets shall be reported by reference to the tax jurisdiction in which the permanent establishment is situated. Tangible assets for this purpose do not include cash or cash equivalents, intangibles, or financial assets.
@@ -109,4 +110,3 @@ The Reporting MNE shall list, on a tax jurisdiction-by-tax jurisdiction basis an
 The Reporting MNE shall report the name of the tax jurisdiction under whose laws the Constituent Entity of the MNE is organised or incorporated if it is different from the tax jurisdiction of residence.
 2.3. Main Business Activity(ies)
 The Reporting MNE shall determine the nature of the main business activity(ies) carried out by the Constituent Entity in the relevant tax jurisdiction, by ticking one or more of the appropriate boxes.
-- Added by: L.N. 400 of 2016.
