@@ -8,17 +8,16 @@ TCEP 115-96-8 5 mg/kg (content limit) TCPP 13674-84-5 5 mg/kg (content limit) TD
 Bisphenol A 80-05-7 0,04 mg/l (migration limit) in accordance with the
 methods laid down in EN 71-10:2005 and EN 71-
 11:2005
-20 μg/m3 (emission limit) after a maximum of 28 days Formamide 75-12-7 from commencement of the emission testing of foam toy materials containing more than 200 mg/kg (cut-off limit based on content).
-Phenol 108-95-2 5 mg/l (migration limit) in polymeric materials in
-accordance with the methods laid down in EN 71- 10:2005 and EN 71-11:2005
-10mg/kg (content limit) as a preservative in accordance with the methods laid down in EN 71- 10:2005 and EN 71-11:2005
-1,2-benzisothiazol- 2634-33-5 5 mg/kg (content limit) in aqueous toy materials, in
-3(2H)-one accordance with the methods laid down in EN 71-
-10:2005 and EN 71-11:2005
-reaction mass of: 55965-84-9 1 mg/kg (content limit) in aqueous toy materials
-5-chloro-2-methyl-4-
-isothiazolin- 3-one [EC no. 247-500- 7] and 2-methyl- 2H -isothiazol-3-one [EC no. 220-
-239-6] (3:1) 5-Chloro-2- 26172-55-4 0,75 mg/kg (content limit) in aqueous toy materials
-methyl-
-isothiazolin- 3(2H)-one 2- 2682-20-4 0,25 mg/kg (content limit) in aqueous toy materials methylisothiazolin -3(2H)-one
-- Amended by: L.N. 191 of 2015; L.N. 106 of 2017; L.N. 359 of 2018.
+20 μg/m3 (emission limit) after a maximum of 28 Formamide 75-12-7 days from commencement of the emission testing of foam toy materials containing more than 200 mg/kg (cut-off limit based on content).
+Phenol 108-95-2 5 mg/l (migration limit) in polymeric materials
+in accordance with the methods laid down in EN 71-10:2005 and EN 71-11:2005
+10mg/kg (content limit) as a preservative in accordance with the methods laid down in EN 71-10:2005 and EN 71-11:2005
+1,2-benzisothiazol- 2634-33-5 5 mg/kg (content limit) in aqueous toy materials,
+3(2H)-one in accordance with the methods laid down in EN
+71-10:2005 and EN 71-11:2005
+reaction mass of: 5- 55965-84-9 1 mg/kg (content limit) in aqueous toy materials chloro-2- methyl-4-
+isothiazolin- 3-one [EC no. 247-500-7] and 2-methyl-2H -isothiazol- 3-one [EC no. 220-239-
+6] (3:1)
+5-Chloro-2-methyl- 26172-55-4 0,75 mg/kg (content limit) in aqueous toy isothiazolin-3(2H)-one materials 2-methylisothiazolin- 2682-20-4 0,25 mg/kg (content limit) in aqueous toy 3(2H)-one materials Formaldehyde 50-00-0 1,5 mg/l (migration limit) in polymeric toy
+material 0,1 ml/m3 (emission limit) in resin-bonded wood toy material 30 mg/kg (content limit) in textile toy material 30 mg/kg (content limit) in leather toy material 30 mg/kg (content limit) in paper toy material 10 mg/kg (content limit) in water-based toy material
+- Amended by: L.N. 191 of 2015; L.N. 106 of 2017; L.N. 359 of 2018; L.N. 267 of 2021.

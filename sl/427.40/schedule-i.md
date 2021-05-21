@@ -135,7 +135,7 @@ Element: mg/kg in dry, mg/kg in mg/kg in
 brittle, liquid or scraped-off
 powder-like sticky toy toy or pliable toy material: material:
 material:
-Aluminium 5625 1406 70000 Antimony 45 11.3 560 Arsenic 3.8 0.9 47 Barium 1500 375 18750 Boron 1200 300 15000 Cadmium 1.3 0.3 17 Chromium (III) 37.5 9.4 460 Chromium (VI) 0.02 0.005 0.053
+Aluminium 2250 560 28130 Antimony 45 11.3 560 Arsenic 3.8 0.9 47 Barium 1500 375 18750 Boron 1200 300 15000 Cadmium 1.3 0.3 17 Chromium (III) 37.5 9.4 460 Chromium (VI) 0.02 0.005 0.053
 Cobalt 10.5 2.6 130 Copper 622.5 156 7700 Lead 2,0 0,5 23 Manganese 1200 300 15000 Mercury 7.5 1.9 94 Nickel 75 18.8 930 Selenium 37.5 9.4 460 Strontium 4500 1125 56000 Tin 15000 3750 180000 Organic tin 0.9 0.2 12 Zinc 3750 938 46000
 These limit values shall not apply to toys or components of toys which, due to their accessibility, function, volume or mass, clearly exclude any hazard due to sucking, licking, swallowing or prolonged contact with skin when used as specified in regulation 9(5).
 V. Electrical Properties
@@ -155,4 +155,4 @@ VI. Hygiene
 (2) A toy intended for use by children under 36 months must be designed and manufactured in such a way that it can be cleaned. A textile toy shall, to this end, be washable, except if it contains a mechanism that may be damaged if soak washed. The toy shall fulfil the safety requirements also after having been cleaned in accordance with this point and the manufacturer's instructions.
 VII. Radioactivity
 Toys shall comply with all relevant measures adopted under Chapter III of the Treaty establishing the European Atomic Community.
-- Amended by: L.N. 341 of 2012; L.N. 191 of 2015; L.N. 359 of 2018; L.N. 215 of 2019.
+- Amended by: L.N. 341 of 2012; L.N. 191 of 2015; L.N. 359 of 2018; L.N. 215 of 2019; L.N. 267 of 2021.
