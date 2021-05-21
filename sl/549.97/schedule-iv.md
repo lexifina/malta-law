@@ -2,7 +2,8 @@
 # schedule-iv
 INTERNATIONAL CONVENTIONS REFERRED TO
 IN REGULATION 5(2)
-(a) the International Convention of 27 November 1992 on Civil Liability for Oil Pollution Damage; [S.L.549.97 16 OF ENVIRONMENTAL DAMAGE
+(a) the International Convention of 27 November 1992 on
+Civil Liability for Oil Pollution Damage;
 (b) the International Convention of 27 November 1992 on the
 Establishment of an International Fund for Compensation for Oil Pollution Damage;
 (c) the International Convention of 23 March 2001 on Civil

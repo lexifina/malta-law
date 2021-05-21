@@ -16,12 +16,11 @@ transport, recovery and disposal of waste and hazardous waste, including the sup
 Those operations include, inter alia, the operation of landfill
 sites under the Waste Management (Landfill) Regulations and the operation of incineration plants under the Industrial Emissions (Waste Incineration) Regulations.
 For the purpose of these regulations, those operations shall not
-include the spreading of sewage sludge from urban waste water treatment plants, treated to an approved standard, for agricultural purposes.
-3. All discharges into the inland surface water, which require
-prior authorization in pursuance of the Pollution caused by Certain Dangerous Substances, discharged into the Aquatic Environment Regulations.
-4. All discharges of substances into groundwater which
-require prior authorisation in pursuance of the Protection of Groundwater against Pollution and Deterioration Regulations.
+include the spreading of sewage sludge from urban waste water treatment plants, treated to an approved standard, for agricultural
 [S.L.549.97 OF ENVIRONMENTAL DAMAGE 15
+purposes.
+3. All discharges into the inland surface water, which require prior authorization in pursuance of the Pollution caused by Certain Dangerous Substances, discharged into the Aquatic Environment Regulations.
+4. All discharges of substances into groundwater which require prior authorisation in pursuance of the Protection of Groundwater against Pollution and Deterioration Regulations.
 5. The discharge or injection of pollutants into surface water or groundwater which require a permit, authorisation or registration in pursuance of the Water Policy Framework Regulations.
 6. Water abstraction and impoundment of water subject to prior authorization in pursuance of the Water Policy Framework Regulations.
 7. Manufacture, use, storage, processing, filling, release into the environment and onsite transport of:
@@ -34,7 +33,7 @@ require prior authorisation in pursuance of the Protection of Groundwater agains
 10. Any deliberate release into the environment, transport and placing on the market of genetically modified organisms as defined by the Deliberate Release into the Environment of Genetically Modified Organisms Regulations.
 11. Transboundary shipment of waste within, into or out of the European Union, requiring an authorisation or prohibited in the meaning of Regulation (EC) No 1013/2006 of the European Parliament and of the Council of 14 June 2006 on shipments of waste and the Waste Management (Shipments of Waste) Regulation.
 12. The management of extractive waste pursuant to the Waste Management (Management of Waste from Extractive Industries and Backfilling) Regulations.
-13. The operation of storage sites pursuant to the Geological Storage of Carbon Dioxide Regulations.
+13. The operation of storage sites pursuant to the Geological Storage of Carbon Dioxide Regulations. [S.L.549.97 16 OF ENVIRONMENTAL DAMAGE
 - See S.L.549.76.
 - See S.L. 549.77.
 - See S.L.549.79.

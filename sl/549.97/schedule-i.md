@@ -20,6 +20,5 @@ damage:
 fluctuations regarded as normal for the species or habitat in question;
 2) Negative variations due to natural causes or resulting from
 intervention relating to the normal management of sites, as defined in habitat records or target documents or as carried on previously by owners or operators;
-3) Damage to species or habitats for which it is established
-that they will recover, within a short time and without intervention, either to the baseline condition or to a condition which leads, solely by virtue of the dynamics of the species or habitat, to a condition deemed equivalent or superior to the baseline condition.
 [S.L.549.97 OF ENVIRONMENTAL DAMAGE 11
+3) Damage to species or habitats for which it is established that they will recover, within a short time and without intervention, either to the baseline condition or to a condition which leads, solely by virtue of the dynamics of the species or habitat, to a condition deemed equivalent or superior to the baseline condition.

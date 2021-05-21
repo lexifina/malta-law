@@ -26,12 +26,13 @@ measures have taken effect. It does not consist of
 financial compensation to members of the public.
 Where primary remediation does not result in the restoration of the environment to its baseline condition, then complementary remediation will be undertaken. In addition, compensatory remediation will be undertaken to compensate for the interim losses.
 Remedying of environmental damage, in terms of damage to water or protected species or natural habitats, also implies that any significant risk of human health being adversely affected be removed.
-1.1. Remediation objectives.
+1.1. Remediation objectives. [S.L.549.97 12 OF ENVIRONMENTAL DAMAGE
 Purpose of primary remediation.
-1.1.1. The purpose of primary remediation is to restore the damaged natural resources and, or services to, or towards, baseline condition.
+1.1.1. The purpose of primary remediation is to restore the
+damaged natural resources and, or services to, or towards, baseline condition.
 Purpose of complementary remediation.
-1.1.2. Where the damaged natural resources and, or services do not return to their baseline condition, then complementary [S.L.549.97 12 OF ENVIRONMENTAL DAMAGE
-remediation will be undertaken. The purpose of complementary remediation is to provide a similar level of natural resources and, or services, including, as appropriate, at an alternative site, as would have been provided if the damaged site had been returned to its baseline condition. Where possible and appropriate the alternative site should be geographically linked to the damaged site, taking
+1.1.2. Where the damaged natural resources and, or services do
+not return to their baseline condition, then complementary remediation will be undertaken. The purpose of complementary remediation is to provide a similar level of natural resources and, or services, including, as appropriate, at an alternative site, as would have been provided if the damaged site had been returned to its baseline condition. Where possible and appropriate the alternative site should be geographically linked to the damaged site, taking
 into account the interests of the affected population.
 Purpose of compensatory remediation.
 1.1.3. Compensatory remediation shall be undertaken to
@@ -46,10 +47,10 @@ measures.
 1.2.2. When determining the scale of complementary and
 compensatory remedial measures, the use of resource-to-resource or service-to-service equivalence approaches shall be considered first. Under these approaches, actions that provide natural resources and, or services of the same type, quality and quantity as those damaged shall be considered first. Where this is not possible, then alternative natural resources and, or services shall be provided. For example, a reduction in quality could be offset by an increase in the quantity of remedial measures.
 1.2.3. If it is not possible to use the first choice resource-to-
-resource or service-to-service equivalence approaches, then alternative valuation techniques shall be used. The competent authority may prescribe the method, for example monetary valuation, to determine the extent of the necessary complementary and compensatory remedial measures. If valuation of the lost resources and, or services is practicable, but valuation of the replacement natural resources and, or services cannot be performed within a reasonable time-frame or at a reasonable cost, then the competent authority may choose remedial measures whose cost is equivalent to the estimated monetary value of the lost natural resources and, or services.
-The complementary and compensatory remedial measures should
-be so designed that they provide for additional natural resources and, or services to reflect time preferences and the time profile of the remedial measures. For example, the longer the period of time before the baseline condition is reached, the greater the amount of compensatory remedial measures that will be undertaken (other things being equal).
+resource or service-to-service equivalence approaches, then alternative valuation techniques shall be used. The competent authority may prescribe the method, for example monetary valuation, to determine the extent of the necessary complementary and compensatory remedial measures. If valuation of the lost resources and, or services is practicable, but valuation of the replacement natural resources and, or services cannot be performed within a reasonable time-frame or at a reasonable cost, then the competent authority may choose remedial measures whose cost is equivalent to the estimated monetary value of the lost natural
 [S.L.549.97 OF ENVIRONMENTAL DAMAGE 13
+resources and, or services.
+The complementary and compensatory remedial measures should be so designed that they provide for additional natural resources and, or services to reflect time preferences and the time profile of the remedial measures. For example, the longer the period of time before the baseline condition is reached, the greater the amount of compensatory remedial measures that will be undertaken (other things being equal).
 1.3. Choice of the remedial options.
 1.3.1. The reasonable remedial options should be evaluated, using best available technologies, based on the following criteria:
 (a) the effect of each option on public health and safety,
@@ -73,11 +74,11 @@ human health, water or protected species and natural
 habitats, and
 (b) the cost of the remedial measures that should be taken
 to reach baseline condition or similar level would be
-disproportionate to the environmental benefits to be
-obtained.
+[S.L.549.97 14 OF ENVIRONMENTAL DAMAGE
+disproportionate to the environmental benefits to be obtained.
 2. Remediation of land damage.
-The necessary measures shall be taken to ensure, as a minimum, that the relevant contaminants and emissions are removed, controlled, contained or diminished so that the contaminated land, taking account of its current use or approved future use at the time of the damage, no longer poses any significant risk of adversely affecting human health or [S.L.549.97 14 OF ENVIRONMENTAL DAMAGE
-the environment. The presence of such risks shall be assessed through risk-assessment procedures taking into account the characteristic and function of the soil, the type and concentration of the harmful substances, preparations, organisms or micro-organisms, their risk and the possibility of their dispersion. Use shall be ascertained on the basis of the land use regulations, or other relevant regulations, in force, if any, when the damage occurred.
+The necessary measures shall be taken to ensure, as a minimum, that
+the relevant contaminants and emissions are removed, controlled, contained or diminished so that the contaminated land, taking account of its current use or approved future use at the time of the damage, no longer poses any significant risk of adversely affecting human health or the environment. The presence of such risks shall be assessed through risk-assessment procedures taking into account the characteristic and function of the soil, the type and concentration of the harmful substances, preparations, organisms or micro-organisms, their risk and the possibility of their dispersion. Use shall be ascertained on the basis of the land use regulations, or other relevant regulations, in force, if any, when the damage occurred.
 If the use of the land is changed, all necessary measures shall be taken
 to prevent any adverse effects on human health or the environment.
 If land use regulations, or other relevant regulations, are lacking,
