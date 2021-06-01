@@ -21,18 +21,18 @@ specific vessel commences;
 comprising at least fifty tonnes or one percent of the estimated mass of all structural material, whichever is less; or
 (d) "existing vessel" means a vessel that
 is not a new fishing vessel.
-3. The following shall apply to all new, decked fishing vessels, subject to any exclusions provided for in accordance with Article 3 of the Agreement. The competent authority may, after consultation, also apply the requirements of this Schedule to existing vessels, when and in so far as it determines that this is reasonable and practicable.
-4. The competent authority, after consultation, may permit variations to the provisions of this Schedule for fishing vessels normally remaining at sea for less than twenty-four hours, where the fishermen do not live on board the vessel whilst in the port. In the case of such vessels, the competent authority shall ensure that the fishermen concerned have adequate facilities for resting, eating and sanitation purposes.
-5. The requirements for vessels of twenty-four metres in length and over may be applied to vessels between fifteen and twenty-four metres in length where the competent authority determines, after consultation, that this is reasonable and practicable.
+3. The following shall apply to all new, decked fishing vessels, subject to any exclusions provided for in accordance with Article 3 of the Agreement. The Director may, after consultation, also apply the requirements of this Schedule to existing vessels, when and in so far as it determines that this is reasonable and practicable.
+4. The Director, after consultation, may permit variations to the provisions of this Schedule for fishing vessels normally remaining at sea for less than twenty-four hours, where the fishermen do not live on board the vessel whilst in the port. In the case of such vessels, the Director shall ensure that the fishermen concerned have adequate facilities for resting, eating and sanitation purposes.
+5. The requirements for vessels of twenty-four metres in length and over may be applied to vessels between fifteen and twenty-four metres in length where the Director determines, after consultation, that this is reasonable and practicable.
 6. Fishermen working on board feeder vessels which do not have appropriate accommodation and sanitary facilities shall be provided with such accommodation and facilities on board the mother vessel.
 7. Member States may extend the requirements of this Schedule regarding noise and vibration, ventilation, heating and air conditioning, and lighting to enclosed working spaces and spaces used for storage if, after consultation, such application is considered appropriate and will not have a negative influence on the functioning of the process or working conditions or the quality of the catches.
 PLANNING AND CONTROL
-8. The competent authority shall satisfy itself that, on every occasion when a vessel is newly constructed, or the crew accommodation of a vessel has been reconstructed, such vessel complies with the requirements of this Schedule. The competent authority shall, to the extent practicable, require compliance with this Schedule, when the crew accommodation of a vessel is substantially altered and, for a vessel that changes the flag that it flies to the flag of a Member State, require compliance with those requirements of this Schedule that are applicable in accordance with paragraph 3.
-9. For the instances specified in paragraph 8, for vessels of twenty-four metres in length and over, detailed plans and information concerning accommodation shall be required to be submitted for approval to the competent authority, or an entity authorized by it.
-10. For vessels of twenty-four metres in length and over, on every occasion when the crew accommodation of the fishing vessel has been reconstructed or substantially altered, the competent authority shall inspect the accommodation for compliance with the requirements of the Agreement, and when the vessel changes the flag that it flies to a flag of a Member State, for compliance with those requirements of this Schedule that are applicable in accordance with paragraph 3. The competent authority may carry out additional inspections of crew accommodation at its discretion.
+8. The Director shall satisfy itself that, on every occasion when a vessel is newly constructed, or the crew accommodation of a vessel has been reconstructed, such vessel complies with the requirements of this Schedule. The Director shall, to the extent practicable, require compliance with this Schedule, when the crew accommodation of a vessel is substantially altered and, for a vessel that changes the flag that it flies to the flag of a Member State, require compliance with those requirements of this Schedule that are applicable in accordance with paragraph 3.
+9. For the instances specified in paragraph 8, for vessels of twenty-four metres in length and over, detailed plans and information concerning accommodation shall be required to be submitted for approval to the Director, or an entity authorized by it.
+10. For vessels of twenty-four metres in length and over, on every occasion when the crew accommodation of the fishing vessel has been reconstructed or substantially altered, the Director shall inspect the accommodation for compliance with the requirements of the Agreement, and when the vessel changes the flag that it flies to a flag of a Member State, for compliance with those requirements of this Schedule that are applicable in accordance with paragraph 3. The Director may carry out additional inspections of crew accommodation at its discretion.
 11. When a vessel changes its flag to a Member State flag, or is registered under a Member State's plenary jurisdiction, any alternative requirements which the competent authority of a non EU Member State whose flag the ship was formerly flying may have adopted in accordance with paragraphs 15, 39, 47 or 62 of Annex III to C188, shall cease to apply to the vessel.
 DESIGN AND CONSTRUCTION
-12. There shall be adequate headroom in all accommodation spaces. For spaces where fishermen are expected to stand for prolonged periods, the minimum headroom shall be prescribed by the competent authority.
+12. There shall be adequate headroom in all accommodation spaces. For spaces where fishermen are expected to stand for prolonged periods, the minimum headroom shall be prescribed by the Director.
 13. For vessels of twenty-four metres in length and over, the minimum permitted headroom in all accommodation where full and free movement is necessary, shall not be less than two hundred centimetres.
 14. There shall be no direct openings into sleeping rooms from fish rooms and machinery spaces, except for the purpose of emergency escapes. Where reasonable and practicable, direct openings from galleys, storerooms, drying rooms or communal sanitary areas shall be avoided, unless expressly provided otherwise.
 15. For vessels of twenty-four metres in length and over, there shall be no direct openings, except for the purpose of emergency escapes, into sleeping rooms from fish rooms and machinery spaces, or from galleys, storerooms, drying rooms or communal sanitary areas; that part of the bulkhead separating such places from sleeping rooms and external bulkheads shall be efficiently constructed of steel or another approved material and shall be watertight and gas-tight. This provision does not exclude the possibility of sanitary areas being shared between two cabins.
@@ -41,8 +41,8 @@ INSULATION
 17. All practicable measures shall be taken to protect fishing vessels' crew accommodation against flies and other insects, particularly when vessels are operating in mosquito-infested areas.
 18. Emergency escapes from all crew accommodation spaces shall be provided as necessary.
 NOISE AND VIBRATION
-19. Paragraph 20 applies without prejudice to Directive 2003/10/EC and Directive 2002/44/EC.
-20. The competent authority shall adopt standards for noise and vibration in accommodation spaces which shall ensure adequate protection to fishermen from the effects of such noise and vibration, including the effects of noise and vibration-induced fatigue.
+19. Paragraph 20 applies without prejudice to Directive 2003/ 10/EC and Directive 2002/44/EC.
+20. The Director shall adopt standards for noise and vibration in accommodation spaces which shall ensure adequate protection to fishermen from the effects of such noise and vibration, including the effects of noise and vibration-induced fatigue.
 VENTILATION
 21. Accommodation spaces shall be ventilated, taking into account climatic conditions. The system of ventilation shall constantly supply fresh air in a satisfactory condition whenever fishermen are on board.
 22. Ventilation arrangements or other measures shall be such as to protect non-smokers from tobacco smoke.
@@ -57,7 +57,7 @@ LIGHTING
 29. Adequate reading light shall be provided for every berth in addition to the normal lighting of the sleeping room.
 30. Emergency lighting shall be provided in sleeping rooms.
 31. Where a vessel is not fitted with emergency lighting in mess rooms, passageways, and any other spaces that are or may be used for emergency escape, permanent night lighting shall be provided in such spaces.
-32. For vessels of twenty-four metres in length and over, lighting in accommodation spaces shall meet a standard established by the competent authority. In any part of the accommodation space available for free movement, the minimum standard for such lighting shall be such as to permit a person with normal vision to read an ordinary printed newspaper on a clear day.
+32. For vessels of twenty-four metres in length and over, lighting in accommodation spaces shall meet a standard established by the Director. In any part of the accommodation space available for free movement, the minimum standard for such lighting shall be such as to permit a person with normal vision to read an ordinary printed newspaper on a clear day.
 SLEEPING ROOMS
 General
 33. Where the design, dimensions or purpose of the vessel allow, the sleeping accommodation shall be located so as to minimize the effects of motion and acceleration, but shall in no case be located forward of the collision bulkhead.
@@ -67,9 +67,9 @@ Floor area
 36. For vessels of forty-five metres in length and over, the floor area per person of sleeping rooms, excluding space occupied by berths and lockers, shall not be less than two square metres.
 Persons per sleeping room
 37. To the extent not expressly provided otherwise, the number of persons allowed to occupy each sleeping room shall not be more than six.
-38. For vessels of twenty-four metres in length and over, the number of persons allowed to occupy each sleeping room shall not be more than four. The competent authority may permit exceptions to this requirement in particular cases if the size, type or intended service of the vessel makes the requirement unreasonable or impracticable.
+38. For vessels of twenty-four metres in length and over, the number of persons allowed to occupy each sleeping room shall not be more than four. The Director may permit exceptions to this requirement in particular cases if the size, type or intended service of the vessel makes the requirement unreasonable or impracticable.
 39. To the extent not expressly provided otherwise, a separate sleeping room or sleeping rooms shall be provided for officers, wherever practicable.
-40. For vessels of twenty-four metres in length and over, sleeping rooms for officers shall be for one person wherever possible, and in no case shall the sleeping room contain more than two berths. The competent authority may permit exceptions to the requirements of this paragraph in particular cases if the size, type or intended service of the vessel makes the requirements unreasonable or impracticable.
+40. For vessels of twenty-four metres in length and over, sleeping rooms for officers shall be for one person wherever possible, and in no case shall the sleeping room contain more than two berths. The Director may permit exceptions to the requirements of this paragraph in particular cases if the size, type or intended service of the vessel makes the requirements unreasonable or impracticable.
 Other
 41. The maximum number of persons to be accommodated in any sleeping room shall be legibly and indelibly marked in a place in the room where it can be conveniently seen.
 42. Individual berths of appropriate dimensions shall be provided. Mattresses shall be of a suitable material. Local lighting shall be provided in each berth.
@@ -86,7 +86,7 @@ MESS ROOMS
 TUBS OR SHOWERS, TOILETS AND WASHBASINS
 52. Sanitary facilities, which include toilets, washbasins, and tubs or showers, shall be provided for all persons on board, as appropriate for the service of the vessel. These facilities shall meet at least minimum standards of health and hygiene and reasonable standards of quality.
 53. The sanitary accommodation shall be such as to eliminate contamination of other spaces. The sanitary facilities shall allow for reasonable privacy.
-54. Hot and cold running fresh water shall be available to all fishermen and other persons on board, in sufficient quantities to allow for proper hygiene. The competent authority may establish, after consultation, the minimum amount of water to be provided.
+54. Hot and cold running fresh water shall be available to all fishermen and other persons on board, in sufficient quantities to allow for proper hygiene. The Director may establish, after consultation, the minimum amount of water to be provided.
 55. Where sanitary facilities are provided, they shall be fitted with ventilation to the open air, independent of any other part of the accommodation.
 56. All surfaces in sanitary accommodation shall be such as to facilitate easy and effective cleaning. Floors shall have a non-slip deck covering.
 57. On vessels of twenty-four metres in length and over, for all fishermen who do not occupy rooms to which sanitary facilities are attached, there shall be provided at least one tub or shower or both, one toilet, and one washbasin for every four persons or fewer.
@@ -114,7 +114,7 @@ GALLEY AND FOOD STORAGE FACILITIES
 72. For vessels with a length between perpendiculars (LBP) of fifteen metres or over, a provisions storeroom and refrigerator and other low-temperature storage shall be used.
 FOOD AND POTABLE WATER
 73. Food and potable water shall be sufficient, having regard to the number of fishermen, and the duration and nature of the voyage. In addition, they shall be suitable in respect of nutritional value, quality, quantity and variety, having regard as well to the fishermen's religious requirements and cultural practices in relation to food.
-74. The competent authority may establish requirements for the minimum standards and quantity of food and water to be carried on board.
+74. The Director may establish requirements for the minimum standards and quantity of food and water to be carried on board.
 CLEAN AND HABITABLE CONDITIONS
 75. Accommodation shall be maintained in a clean and habitable condition and shall be kept free of goods and stores which are not the personal property of the occupants, or intended for their safety or rescue.
 76. Galley and food storage facilities shall be maintained in a hygienic condition.
@@ -122,22 +122,24 @@ CLEAN AND HABITABLE CONDITIONS
 MEDICAL CERTIFICATES
 78. Without prejudice to the provisions on medical certificates found in the principal regulations, the medical certificates of fishermen on a fishing vessel of twenty-four metres in length or over who are under the age of eighteen shall be valid for a maximum period of one year.
 MANNING
-79. In relation to vessels of twenty-four metres in length or over, the competent authority shall establish a minimum level of manning for the safe navigation of the vessel, specifying the number and the qualifications of the fishermen required.
-80. The competent authority, after consultation, may establish alternative requirements to those found in article 79 of this Schedule, however the competent authority shall be satisfied that the alternative:
+79. In relation to vessels of twenty-four metres in length or over, the Director shall establish a minimum level of manning for the safe navigation of the vessel, specifying the number and the qualifications of the fishermen required.
+80. The Director, after consultation, may establish alternative requirements to those found in article 79 of this Schedule, however the Director shall be satisfied that the alternative:
 (i) is conducive to the full achievement of the
-general object and purpose of article 79 of this Schedule and of the general provisions on hours of work and hours
-of rest in the principal regulations;
+general object and purpose of article 79 of this Schedule and of the general provisions on hours of work and hours of rest in the principal regulations;
 (ii) gives effect to article 79 of this Schedule;
 and
 (iii) shall not jeopardise the safety and health of
 the fishermen.
-INSPECTIONS BY THE SKIPPER OR UNDER THE AUTHORITY OF THE SKIPPER
-81. (a) For vessels of twenty-four metres in length and over, the competent authority shall require frequent inspections to be carried out, by or under the authority of the skipper, to ensure that:
+INSPECTIONS BY THE SKIPPER OR
+UNDER THE AUTHORITY OF THE SKIPPER
+81. (a) For vessels of twenty-four metres in length and over, the Director shall require frequent inspections to be carried out, by or under the authority of the skipper, to ensure that:
 (i) accommodation is clean, decently
 habitable and safe, and is maintained in a good state of repair;
 (ii) food and water supplies are sufficient; and
 (iii) galley and food storage spaces and
 equipment are hygienic and in a proper state of repair.
 (b) The results of such inspections and the actions
-taken to address any deficiencies found, shall be recorded and available for review. VARIATIONS
-82. The competent authority, after consultation, may permit derogations from the provisions in this Schedule to take into account, without discrimination, the interests of fishermen having differing and distinctive religious and social practices, on condition that such derogations do not result in overall conditions less favourable than those which would result from the application of this Schedule.
+taken to address any deficiencies found, shall be recorded and available for review.
+VARIATIONS
+82. The Director, after consultation, may permit derogations from the provisions in this Schedule to take into account, without discrimination, the interests of fishermen having differing and distinctive religious and social practices, on condition that such derogations do not result in overall conditions less favourable than those which would result from the application of this Schedule.
+- Amended by: L.N. 233 of 2021.
