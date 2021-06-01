@@ -15,11 +15,9 @@ If used in the following maritime commercial €112.09 per 1000 litres activitie
 - Sea farming activities
 - Tugging activities
 - Navigation for commercial purposes within Maltese territorial waters.
-If used in the following maritime commercial activity: If used in the following maritime commercial activity:
-- Inland Navigation between Malta
-and Gozo by vessels of a tonnage of 3,500 tons or more; 0
-- Inland Navigation between Malta
-and Gozo by vessels in line with Port Notice No TM/PYD/PN/02/2021.
+If used in the following maritime commercial activity:
+- Inland Navigation between Malta and Gozo by vessels of a tonnage of 3,500 tons or more; 0
+- Inland Navigation between Malta and Gozo by vessels in line with Port Notice No TM/PYD/PN/02/ 2021.
 0 If used for electric power generation. 0
 If used for fishing purposes as laid down by Department of Fisheries. 0
 Gas Oil or Gas Oil blended with Biodiesel, with a €172.09 per 1000 litres sulphur content not exceeding 0.1% sulphur by weight if used for heating purposes by:
