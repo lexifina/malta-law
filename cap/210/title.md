@@ -3,4 +3,4 @@ PERSONS WITH DISABILITY
 (EMPLOYMENT) ACT
 To provide for the employment of persons with disability and for matters connected therewith or ancillary thereto.
 (7th February, 1969)*
-ACT II of 1969, as amended by Acts XIV of 1969, XXII of 1976, XI of 1977, XIII of 1983 and XXVI of 1995; Legal Notice 411 of 2007; and Acts XXII of 2015 , XXVII of 2016 and XXIX of 2019.
+ACT II of 1969, as amended by Acts XIV of 1969, XXII of 1976, XI of 1977, XIII of 1983 and XXVI of 1995; Legal Notice 411 of 2007; and Acts XXII of 2015 , XXVII of 2016, XXIX of 2019 and XXXIV of 2021.
