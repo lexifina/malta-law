@@ -1,6 +1,6 @@
 ## SCHEDULE
 # schedule
-(Regulation 5)
+(Regulation 4(2))
 Form for performing high-level or
 professional contact or non-contact sports
 Sports Discipline
@@ -10,6 +10,5 @@ of a team
 Event(s) where it represented Malta as of March 2019:
 Games of the Small State of Europe /Euro- Event level:
 pean/Mondial/Commonwealth/Oliplains
-Event(s) in which it is registered in order to represent Malta:
-Events levels men- Games of the Small State of Europe/Euro-tioned where to repre- pean/Mondial/Commonwealth/Oliplains sent Malta:
+Event(s) in which it is registered in order to represent Malta: Events levels men- Games of the Small State of Europe/Euro-tioned where to repre- pean/Mondial/Commonwealth/Oliplains sent Malta:
 Place of Training:
