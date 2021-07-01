@@ -12,7 +12,7 @@ QUALITY .......................................... STANDARD OF METAL ...........
 WEIGHT OF METAL: EXACT/APPROX/GROSS ............................ GRAMMES
 L
 VALUE
-................................................... Euros ..................................................... cents
+................................................... euro ..................................................... cents
 FEE PAID
 Consul for Goldsmiths and Silversmiths
 - Substituted by: L.N. 407 of 2007.
