@@ -64,7 +64,7 @@ Class 14 Tented structures and Awnings
 (ii) Placing of small tents, tarpaulins or similar structures
 Class 15 Beach management facilities
 (i) Hiring of beach furniture
-Class 16 Development in Malta Industrial Parks and Malta Enterprise Zones
+Class 16 Development in zones administered by INDIS Malta Ltd and Malta Enterprise Zones
 (i) The construction, re-development, alteration or extension of an industrial unit
 (ii) The construction, re-development, alteration or extension of a unit
 Class 17 Development by the Armed Forces of Malta
@@ -198,7 +198,8 @@ wiring on the site or its surroundings; and
 (bb) existing overhead wiring and other infrastructural services
 currently above ground are relocated underground;
 (d) within Valletta, Floriana, Cottonera and areas scheduled for their
-archaeological importance, excavation works shall be carried out under the supervision of an archaeologist appointed by the Superintendent of Cultural Heritage.
+archaeological importance, excavation works shall be carried out under the supervision of an archaeologist appointed by the
+Superintendent of Cultural Heritage.
 Development under this Class, when it is located in a UCA, ODZ and in scheduled property or within thirty metres from a scheduled property or in a designated area, shall be subject to the notification procedure established in article 5(1) and (3).
 CLASS 6 - Development related to public transport
 (i) The installation of signs which do not exceed fifty square centimetres in
@@ -308,21 +309,26 @@ Malta Tourism Authority;
 (b) specific authorisation by the Malta Tourism Authority is
 submitted, by the applicant to the Authority, as part of the notification procedure.
 Development under this Class shall be subject to the notification procedure established in article 5(1) and (3).
-CLASS 16 - Development in Malta Industrial Parks and Malta Enterprise Zones
-(i) The construction, re-development, alteration or extension of an industrial unit or a unit for any purposes ancillary to the main industrial unit within Malta Industrial Parks and Malta Enterprise Zones,
-including associated signs and adverts, provided that:
+CLASS 16 - Development in zones administered by INDIS Malta Ltd and Malta Enterprise Zones
+(i) The construction, re-development, alteration or extension of an industrial unit or a unit for any purposes ancillary to the main industrial unit within zones administered by INDIS Malta Ltd and Malta Enterprise Zones, including associated signs and adverts, provided that:
 (a) the predominant use of the industrial unit falls within one of the
 industrial, storage and distribution use Classes of the Use Classes Order, and includes any other use which is ancillary to the predominant use;
 (b) the proposed development does not result in an industrial unit
-higher than fifteen metres measured from the highest street level
-along the external perimeter of the unit;
+higher than measured:
+(aa) the height stipulated in the relevant map in Schedule III;
+and
+(bb) fifteen metres within all other zones administered by
+INDIS Malta Ltd and Malta Enterprise zones,
+from the highest street level along the external perimeter of the unit;
 (c) the unit does not replace communal landscaped areas or communal car parking spaces;
 (d) the proposed development, including the creation or formation of
-a new vehicular access or any changes to the highway boundary, shall have the prior approval of the Malta Industrial Parks or Malta Enterprise, where relevant;
+a new vehicular access or any changes to the highway boundary, shall have the prior approval of the zones administered by INDIS
+Malta Ltd or Malta Enterprise, where relevant;
 (e) the height of the industrial unit and the materials shall have the prior approval of the authority responsible for Civil Aviation,
 where deemed relevant by the Authority.
 (ii) The construction, re-development, alteration or extension of a unit for
-any purpose ancillary to the main industrial use within Malta Industrial Parks and Malta Enterprise Zones, including associated signs and adverts, provided that paragraphs (a) to (e) under Class (i) of this Class shall mutatis mutandis apply.
+any purpose ancillary to the main industrial use within zones administered by INDIS Malta Ltd and Malta Enterprise Zones, including associated signs and adverts, provided that paragraphs (a) to
+(e) under Class (i) of this Class shall mutatis mutandis apply.
 Development under this Class shall be subject to the notification procedure established in article 5(1) and (3).
 CLASS 17 - Development by the Armed Forces of Malta
 (i) Development carried out by the Armed Forces of Malta on land under the operational control of the same Armed Forces of Malta, provided that:
@@ -352,7 +358,8 @@ Development under this Class shall be subject to the notification procedure esta
 Class 20 Development related to the Corradino Correctional Facility"
 (a) Development carried out by the Director of the Corradino
 Correctional Facility on land designated for the same Corradino Correctional Facility in a subsidiary plan approved in terms of the Act, provided that:
-(i) when the development is located on designated areas or scheduled property, it shall be subject to prior clearance by the Superintendent of Cultural Heritage and, by the Environment and Resources Authority in the case of areas declared as protected
+(i) when the development is located on designated areas or
+scheduled property, it shall be subject to prior clearance by the Superintendent of Cultural Heritage and, by the Environment and Resources Authority in the case of areas declared as protected
 under the Environment Protection Act;
 (ii) the proposed development is recommended by the Minister
 responsible for the Prisons;
@@ -367,7 +374,8 @@ responsible for the Malta Police Force;
 Resources Authority are informed accordingly.
 Class 22 Existing Development Related to Malta's Culture and Tradition
 (i) Existing fireworks factories, including their operations, provided that the fireworks factories, including the footprint of their built structures and their operations, have been in existence since, or before, the year 1994 and the same fireworks factories, including the footprint of their built structures and their operations, were still in existence in 2016, as evident from the relative aerial photography of the Authority and upon submission of proof of actual use of the site as a fireworks factory in the aforementioned years.
-(ii) Development under paragraph (i) shall be considered permitted development:
+(ii) Development under paragraph (i) shall be considered permitted
+development:
 Provided that the provisions of article 3(5) of the principal order shall not be applicable to such class:
 Provided further that the provisions of the Sanitary Regulations, the relevant provisions of the Development Control Design Policy, Guidance and Standards, the Rural Policy and Design Guidance and all other relevant approved plans and policies under the Act, exceptions, conditions, restrictions, rules, limitations and exclusions currently in force, shall not be applicable for this Class.
 Class 23 Development by the Civil Protection Department
