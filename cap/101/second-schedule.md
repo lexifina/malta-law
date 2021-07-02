@@ -1,12 +1,14 @@
 ## SECOND SCHEDULE
-## *Insert name, address and business of importer. †Insert exact description and amount of drugs to be imported. ‡Insert name and address of firm in exporting country from which the drug is to be obtained. §Strike out words not applicable.
-## *Strike out words not applicable.
+## * Strike out words not applicable.
+## *Insert name and full postal address of importer. †Insert name and full postal address of exporter.
+## Signature and stamp of Comptroller of Customs
 # second-schedule
 FORM A
 (Article 14(2))
 DANGEROUS DRUGS ORDINANCE
 (CHAPTER 101)
-Import Certificate issued by the Serial No.................... Government of Malta File No . ..................
+Import Certificate issued by the Serial No....................
+Government of Malta File No . ..................
 CERTIFICATE OF OFFICIAL APPROVAL OF IMPORT
 I, being the person charged with the administration of the law relating to dangerous drugs to which the Single Convention 1961 applies, hereby certify that I have approved the importation by*
 of †
@@ -74,8 +76,7 @@ This authorization is issued subject to the following conditions:
 7. The copy of the export authorization, if any, which accompanies the drugs, shall be forwarded to the Chief Government Medical Officer immediately the importation of the drugs has been effected.
 (Date) .............................
 ............................................ (Signature and stamp of the
-Chief Government Medical Officer.)
-SCHEDULE specifying the drugs and quantities thereof to be imported.
+Chief Government Medical Officer.) SCHEDULE specifying the drugs and quantities thereof to be imported.
 This authorization is not to leave the possession of the importer until it is surrendered to the Chief Government Medical Officer or to the Comptroller of Customs, who will complete the certificate on the back and return the authorization to the Chief Government Medical Officer.
 ENDORSEMENT BY COMPTROLLER OF CUSTOMS
 at the time of Importation
