@@ -79,7 +79,8 @@ ADB-FUBINACA N-(1-amino-3,3-dimethyl-1-oxobutan-
 2-yl]-1-(4-fluorobenzyl)-1H-indazole- 3-carboxamide FUB-AMB (MMB- or AMB-FUBINACA) Methyl (2S)-2-{[1-
 [(4-fluorophenyl)methyl]indazole-3-carbonyl]amino}-3-methylbutanoate N-ethylnorpentylone 1-(2H-1,3-benzodioxol-5-yl)-2-
 (ethylamino)pentan-1-one) DOC 1-(4-chloro-2,5-
-dimethoxyphenyl)propan-2-amine". And any derivatives, salts, or esters of the above.
+dimethoxyphenyl)propan-2-amine
+And any derivatives, salts, or esters of the above.
 PART B
 International or other nonproprietary
 ALLOBARBITAL 5, 5-diallylbarbituric acid AMFEPRAMONE, DIETHYLPROPION 2-(diethylamino) propiophenone AMOBARBITAL 5-ethyl-5-(3-methylbutyl) barbituric
@@ -92,22 +93,33 @@ BUTALBITAL 5-allyl-5-isobutylbarbituric acid BUTOBARBITAL 5-butyl-5-ethylbarbitu
 nylpropane CHLORAL HYDRATE 2, 2, 2- trichloroethane-1,1-diol CHLORDIAZEPOXIDE 7-chloro-2-(methylamino)-5-phenyl-
 3H-1, 4-benzodiazepine-4-oxide CHLORMETHIAZOLE 5-(2-chloroethyl)-4-methyl-1,3-
 thiazole
-p-chloro--dimethylpheneth- CHLORPHENTERMINE lylamine CYCLOBARBITAL 5-(1-cyclohexen-1-yl)-5-ethylbarbi-
-turic acid DEXAMPHETAMINE (+)-2-amino-1-phenylpropane DIAZEPAM and other compounds containing the chemical structure of DIHYDRO-1:4 BENZODIA- ZEPINE or of DIHYDRO-1:5 BENZODIAZEPINE substituted to any degree 7-chloro-1, 3-dihydro-1-methyl-5-
-phenyl-2H-1,4-benzodiazepine-2-
+p-chloro--dimethylpheneth- CHLORPHENTERMINE
+lylamine
+CYCLOBARBITAL 5-(1-cyclohexen-1-yl)-5-ethylbarbi-
+turic acid
+CUMYL-PEGACLONE 5-pentyl-2-(-phenylpropan-2-yl)-2,5- 3-methoxyphencyclidine (also known dihydro-1H-pyrido[4,3-b]indol-1-one as 3-MeO-PCP) 1-(1-(3-
+methoxyphenyl)cyclohexyl)piperidine DIPHENIDINE 1-(1,2-diphenylethyl)piperidine CLONAZOLAM (also known as 6-(2-chlorophenyl)-1-methyl-8-nitro-clonitrazolam) 4Hbenzo[f][1,2,4]triazolo[4,3-
+a][1,4]diazepine) DICLAZEPAM (also known as Ro 5- 7-chloro-5-(2-chlorophenyl)-1-methyl- 3448) 1,3-dihydro-2H-
+benzo[e][1,4]diazepin2-one FLUBROMAZOLAM 8-bromo-6-(2-fluorophenyl)-1-methyl-
+4H-benzo[f][1,2,4]triazolo[4,3-a][1,4]-diazepine
+DEXAMPHETAMINE (+)-2-amino-1-phenylpropane DIAZEPAM and other
+compounds containing the chemical structure of DIHYDRO-1:4 BENZODIA- ZEPINE or of DIHYDRO-1:5 BENZODIAZEPINE substituted to any degree 7-chloro-1, 3-dihydro-1-methyl-5-phenyl-2H-1,4-benzodiazepine-2-
 one
 ETHCHLORVYNOL ethyl-2-chlorovinylethynylcarbinol ETHINAMATE 1-ethynylcyclohexanolcarbamate FENCAMFAMIN dl-N-ethyl-3-phenylbicyclo (2,2,1)-
 heptan-2-amine FENETYLLINE dl-3, 7-dihydro-1, 3 dimethyl-7-(2-
 [(1-methyl-2-phenylethyl) amino] ethyl)-1H-purine-2, 6-dione N-ethyl--methyl-m(trifluorome- FENFLURAMINE thyl) phenethylamine FENPROPOREX dl-3-[(a-methylphenethyl)amino]
 propionitrile GLUTETHIMIDE 2-ethyl-2-phenylglutarimide KETAMINE (±)-2-(2-Chlorophenyl)-2-
 methylaminocyclohexanone LEVAMPHETAMINE 1-a-methylphenethylamine LEVOMETHAMPHETAMINE 1-N,a-dimethylphenethylamine MAZINDOL 5-(p-chlorophenyl)-2, 5-dihydro-3H-
-imidazo [2, 1- a] isoindol -5-ol MECLOQUALONE 3-(o-chlorophenyl)-2-methyl-4 (3H)-
+imidazo [2, 1- a] isoindol -5-ol MDMB-4-en-PINACA methyl 3,3-dimethyl-2-{[1-(pent-4-
+en-1-yl)-1H-indazole-3-carbonyl] amino}butanoate 4F-MDMB-BICA methyl 2-{[1-(4-fluorobutyl)-1H-
+indole-3-carbonyl] amino}-3,3-dimethylbutanoate MECLOQUALONE 3-(o-chlorophenyl)-2-methyl-4 (3H)-
 quinazolinone MEFENOREX dl-N-(3-chloropropyl)-a-
 methylphenethylamine
 N- -trimethylphenethylamine MEPHENTERMINE
 MEPROBAMATE 2-methyl-2-propyl-1, 3-propanediol
 dicarbamate METHAMPHETAMINE (+)-2-methylamino-1-phenylpropane METHAMPHETAMINE RACEMATE METHAQUALONE 2-methyl-3-o-tolyl-4(3H)-quina-
-zolinone METHYLPHENIDATE 2-phenyl-2(2-piperidyl) acetic acid,
+zolinone
+METHYLPHENIDATE 2-phenyl-2(2-piperidyl) acetic acid,
 methylester METHYLPHENOBARBITAL 5-ethyl-1-methyl-5-phenylbarbituric
 acid
 METHYPRYLON 3, 3-diethyl- 5-methyl-2, 4-
@@ -143,4 +155,4 @@ or
 - Added by: V.1985.15.
 - Amended by: XVII.1986.5; L.N. 34 of 1986.
 - Substituted by: L.N. 48 of 1990.
-- Amended by: L.N. 31 of 1997; L.N. 79 of 1998; International or other nonproprietary; L.N. 285 of 2001; L.N. 38 of 2002; name or other trivial name; L.N. 209 of 2002; L.N. 222 of 2002; L.N. 212 of 2003; L.N. 374 of 2003; L.N. 135 of 2006; L.N. 260 of 2006; L.N. 127 of 2007; L.N. 404 of 2007; L.N. 174 of 2010; L.N. 423 of 2010; L.N. 149 of 2012; L.N. 412 of 2012; L.N. 362 of 2013; L.N. 364 of 2013; L.N. 404 of 2013; L.N. 48 of 2016; L.N. 357 of 2017; L.N.358 of 2017; L.N. 231 of 2018; L.N. 268 of 2018; L.N. 190 of 2019; L.N. 111 of 2021.
+- Amended by: L.N. 31 of 1997; L.N. 79 of 1998; International or other nonproprietary; L.N. 285 of 2001; L.N. 38 of 2002; name or other trivial name; L.N. 209 of 2002; L.N. 222 of 2002; L.N. 212 of 2003; L.N. 374 of 2003; L.N. 135 of 2006; L.N. 260 of 2006; L.N. 127 of 2007; L.N. 404 of 2007; L.N. 174 of 2010; L.N. 423 of 2010; L.N. 149 of 2012; L.N. 412 of 2012; L.N. 362 of 2013; L.N. 364 of 2013; L.N. 404 of 2013; L.N. 48 of 2016; L.N. 357 of 2017; L.N.358 of 2017; L.N. 231 of 2018; L.N. 268 of 2018; L.N. 190 of 2019; L.N. 111 of 2021; L.N. 292 of 2021; L.N. 293 of 2021.
