@@ -8,7 +8,6 @@
 ## 1.5.2004
 ## 1.1.1981
 ## 1.1.1986
-## France 20.12.1976
 ## Hrvatska 1 July 2013
 ## Ireland 20.12.1976
 ## Italia 20.12.1976
@@ -25,11 +24,8 @@
 ## România 1.1.2007
 ## Slovenija 1.5.2004
 ## Slovensko 1.5.2004
-## lääkärin 1.1.1994
-## för läkare
+## Suomi/ Fin- 1.1.1994 land
 ## 1.1.1994
-## Italia
-## Κύπρος
 ## Latvija
 ## Lietuva
 ## Luxem- bourg
@@ -99,6 +95,7 @@
 ## France
 ## Hrvatska
 ## Ireland
+## Italia
 ## Kύπρος
 ## Profes-sional title
 ## Licentiaat in de tand- heelkunde/ Licencié en science dentaire
@@ -137,6 +134,7 @@
 ## België/ Bel- gique/ gien
 ## България
 ## Česká repub- lika2
+## Κύπρος
 ## Luxembourg
 ## Portugal7
 ## Slovenija
