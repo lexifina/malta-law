@@ -22,8 +22,7 @@ SICKNESS ASSISTANCE MAY BE PAYABLE
 6. Diseases of the liver:
 (a) hepatic cirrhosis associated with ascites or neurological symptoms
 (b) Wilson's Disease
-7. Chronic Schizophrenia
-8. Infectious diseases:
+7. Chronic Schizophrenia 8. Infectious diseases:
 (a) H.I.V. positive.
 9. Chronic lymphedema disease
 10.Fibromyalgia
@@ -59,7 +58,8 @@ MEDICAL AID MAY BE ACCORDED
 (g) Imperforate Anus
 (h) Small Intestinal Failure
 5. Liver diseases:
-(a) Chronic Liver Disease 6. Haematological Diseases:
+(a) Chronic Liver Disease
+6. Haematological Diseases:
 (a) Inherited Bleeding Disorders
 (b) Inherited Haemoglobinopathies
 7. Nervous System Diseases:
@@ -100,6 +100,9 @@ MEDICAL AID MAY BE ACCORDED
 (a) Psoriasis
 (b) Chronic Immunobullous Disorders
 (c) Congenital Ichthyosis
+(d) Hidradenitis Suppurativa
+(e) Severe Refractory Atopic Dermatitis
+(f) Severe Chronic Urticaria
 11. Infectious Diseases:
 (a) HIV/AIDS and HIV Related Diseases
 (b) Hepatitis B & C
@@ -135,4 +138,4 @@ MEDICAL AID MAY BE ACCORDED
 17. Gender Identity and Sex Characteristics Related Conditions
 - Amended by: XVI. 1990. 52; XIII. 1991.44; XXV. 1994.2,35.
 - Substituted by: L.N. 56 of 1999; L.N. 84 of 1999; L.N. 62 of 2007.
-- Amended by: I. 2012.18; L.N. 79 of 2014; L.N. 302 of 2015; IXV. 2017.39; L.N. 44 of 2018; L.N. 183 of 2019; VIII.2020.34.
+- Amended by: I. 2012.18; L.N. 79 of 2014; L.N. 302 of 2015; IXV. 2017.39; L.N. 44 of 2018; L.N. 183 of 2019; VIII.2020.34; L.N. 307 of 2021.

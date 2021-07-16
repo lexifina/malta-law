@@ -20,9 +20,9 @@ fumes of, or vapour containing benzene or any of its homologues.
 8. A nitro- or amino- or chloro- The use or handling of, or exposure to the derivative of benzene, or of a fumes of, dust or vapour containing, a homologue of benzene, or poisoning nitro- or amino- or chloro-derivative of by nitrochlorobenzene benzene or homologue of benzene or
 nitrochlorobenzene.
 9. Dinitrophenol or a homologue or by The use or handling of, or exposure to the substituted dinitrophenols or by the fumes of, or vapour containing, salts of such substances dinitrophenol or a homologue or
-substituted denitrophenol or the salts of such substances. 10. A halogen derivative of a The use or handling of, or exposure to hydrocarbon of the aliphatic series theThe use or handling of, or exposure to
-the fumes of, or vapour containing, a halogen derivative of a hydrocarbon of the aliphatic series.
-11. Tri-cresyl phosphate The use or handling of, or exposure to the
+substituted denitrophenol or the salts of such substances.
+10. A halogen derivative of a The use or handling of, or exposure to the hydrocarbon of the aliphatic series fumes of, or vapour containing, a halogen
+derivative of a hydrocarbon of the aliphatic series. 11. Tri-cresyl phosphate The use or handling of, or exposure to the
 fumes of, or vapour containing, tri-cresyl phosphate.
 12. Tri-phenyl phosphate The use or handling of, or exposure to the
 fumes of, or vapour containing, triphenyl phosphate.
