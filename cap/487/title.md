@@ -2,7 +2,7 @@ CHAPTER 487
 INSURANCE DISTRIBUTION ACT
 To regulate the registration and enrolment of insurance and reinsurance intermediaries and the insurance and reinsurance distribution activities.
 1st September, 2006
-ACT XII of 2006, as amended by Act XX of 2007; Legal Notice 427 of 2007; Acts XVII of 2009 and X of 2011; Legal Notice 451 of 2013; and Act XXXIII of 2015 and XXVI of 2018 and V of 2020.
+ACT XII of 2006, as amended by Act XX of 2007; Legal Notice 427 of 2007; Acts XVII of 2009 and X of 2011; Legal Notice 451 of 2013; and Acts XXXIII of 2015, XXVI of 2018, V of 2020 and Act XLVI of 2021.
 Arrangement of Act
 Articles
 Part I Preliminary 1 - 2 Part II Regulatory Powers 3 - 4 Part III Registration or Enrolment of Insurance Agents,

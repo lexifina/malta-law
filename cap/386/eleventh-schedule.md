@@ -28,8 +28,8 @@ proposed acquisition of non-cash asset from subscriber or member €1,164.69 Non
 altering or adding to a company's memorandum or articles to the Registrar or failure to deliver amended memorandum and articles €465.87 €23.29 85(4) Failure of officer to file copy of resolution increasing
 share capital €465.87 €23.29 88(11) Failure of officer of company to deliver to the Registrar
 copy of resolution to restrict or withdraw right of pre-emption €465.87 €23.29
-91 Contravention of articles 89 or 90(1) in respect of the
-obligation to issue a prospectus €2,329.37 None 92(2) Issue of prospectus in contravention of article 92(1) €2,329.37 None 93(2) Issue of a prospectus before registration thereof €2,329.37 €46.59 96A(2) Failure of officers to provide Registrar with notice
+91 Contravention of articles 89 in respect of the obligation
+to issue a prospectus €2,329.37 None 93(2) Issue of a prospectus before registration thereof €2,329.37 €46.59 96A(2) Failure of officers to provide Registrar with notice
 that the company issued an offer of securities to the public in a third country €500 €25 97(5) Failure of company and its officers to keep in a
 separate account money received from applicants in pursuance of a prospectus €2,329.37 €46.59 101(5) Failure of company and its officers to keep in a
 separate account money received from applicants in pursuance of a prospectus for listing €2,329.37 €46.59 103(2) Failure to make return as to allotments €465.87 €23.29 104(3) Failure of directors to convene general meeting in case
@@ -40,10 +40,10 @@ redemption of preference shares €465.87 €23.29 119(6) Failure of company to 
 refusal to register transfer of shares and debentures €465.87 €23.29 120(4) Failure of officers of company to comply with
 provisions as to issue of share certificates €465.87 €23.29 123(4) Failure of officers of company to comply with
 provisions as to register of members €465.87 €23.29 124(4) Failure of officers of company to keep proper register
-of debentures €465.87 €23.29
+of debentures €465.87 €23.29 128(3) Failure of officers of company to hold annual general
+meeting €2,329.37 €46.59
 Daily Article Default Penalty
-Penalty 128(3) Failure of officers of company to hold annual general
-meeting €2,329.37 €46.59 133(3) Failure of officers of company to give notice to
+Penalty 133(3) Failure of officers of company to give notice to
 members of right to vote by proxy at a meeting of the company €465.87 None 133(5) Officer of company contravening further provisions as
 to votes by proxy at meetings of the company €465.87 None 138(8) Failure to appoint a company secretary €465.87 €23.29 145(2) Director failing to disclose interest in contract €2,329.37 None 146(2) Officers of company failing to make return as to
 change in directors or secretary €465.87 €23.29 149(4) Officers of company failing to make minutes of general
@@ -61,10 +61,10 @@ accounts not duly signed €465.87 None 177(4) Directors failing to comply with 
 Directors' report €1,164.69 None 178(4) Officer circulating or filing unsigned directors' report €1,164.69 None 179(7) Officers of company failing to state names of auditors
 on auditors' report €465.87 None 180(4) Company and its officers failing to send copies of
 annual accounts to persons entitled €1,164.69 None 180(6) Officers of company failing to provide document on
-demand by person entitled to it €465.87 €23.29
+demand by person entitled to it €465.87 €23.29 181(3) Directors failing to lay annual accounts or laying
+defective annual accounts before general meeting €2,329.37 €46.59
 Daily Article Default Penalty
-Penalty 181(3) Directors failing to lay annual accounts or laying
-defective annual accounts before general meeting €2,329.37 €46.59 183(10) Directors failing to deliver or delivering defective
+Penalty 183(10) Directors failing to deliver or delivering defective
 annual accounts, etc., to Registrar €2,329.37 €46.59 184(3) Officers of company failing to file annual return €2,329.37 €46.59 209(3) Officers of private company offering shares or
 debentures for sale to the public €2,329.37 None 212(6) Officers of company failing to deliver notice to
 Registrar of becoming a single member company €465.87 €23.29 212(9) Sole member failing to record in writing all agreements
@@ -81,20 +81,17 @@ liquidator €2,329.37 €46.59 283(2) Liquidator failing to convene meetings of
 of creditors where winding up continues for more than twelve months €465.87 None 284(2) Liquidator failing to provide Registrar with copy of
 winding up account or a return of the company and creditors' meetings on a creditors' voluntary winding up €465.87 €23.29 284(3) Liquidator failing to call general meeting or creditors'
 meeting on creditors' voluntary winding up €1,164.69 None 290(2) Liquidator failing to notify Registrar of appointment €465.87 €23.29 322(2) Liquidator failing to comply with periodic reporting
-requirements €1,164.69 €34.94 324(3) Liquidator failing to keep books for specified period €1,164.69 None
+requirements €1,164.69 €34.94 324(3) Liquidator failing to keep books for specified period €1,164.69 None 327(4) Officer failing to annex to memorandum copy of court
+order as to compromise with creditors €465.87 €23.29
 Daily Article Default Penalty
-Penalty 327(4) Officer failing to annex to memorandum copy of court
-order as to compromise with creditors €465.87 €23.29 328(6) Company and officers failing to comply with the
+Penalty 328(6) Company and officers failing to comply with the
 requirements of article 328 €2,329.37 None 328(7) Director failing to give notice to company and
 debenture holders of interests in relation to compromise with creditors €2,329.37 None 329(5) Failure to deliver copy of court order for the
 sanctioning of a compromise or arrangement to the Registrar €465.87 €23.29
 389 Officer or agent of oversea company failing to comply
-with provisions as to registration or returns of oversea company €465.87 €23.29 397(1) Person responsible for issuing, circulating or
-distributing a prospectus, etc., for an oversea company in contravention of articles 391 to 396 €2,329.37 None 399A(1) Liquidator, officer or agent of oversea company
+with provisions as to registration or returns of oversea company €465.87 €23.29 399A(1) Liquidator, officer or agent of oversea company
 failing to give notice to Registrar of winding-up of oversea company or closure of branch or place of business €465.87 €23.29 399A(2) Liquidator of oversea company failing to notify
 Registrar of appointment €465.87 €23.29
+- Amended by: IV. 2003.170, 172.
 - Substituted by: L.N. 425 of 2007.
-- Amended by: V.2020.39.
-- See IV. 2003.170, 172..
-- See IX. 2008.45;.
-- See XXII. 2014.23;.
+- Amended by: IX. 2008.45; XXII. 2014.23; V.2020.39.

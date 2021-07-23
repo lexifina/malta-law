@@ -2,7 +2,7 @@
 # schedule
 (Article 2)
 INSURANCE AND REINSURANCE DISTRIBUTION ACTIVITIES
-For the purposes of paragraph 1 of the Third Column of this Schedule, "risk" means and includes a risk situated in Malta or a risk situated outside Malta; and "risk situated outside Malta", in relation to a contract of insurance, has the same meaning as is assigned to it by subarticle (1) of article 2 of the Insurance Business Act.
+For the purposes of paragraph 1 of the Third Column of this Schedule, "risk" means and includes a risk situated in Malta or a risk situated outside Malta; and "risk situated outside Malta", in relation to a contract of insurance, has the same meaning as is assigned to it by sub-article (1) of article 2 of the Insurance Business Act.
 First Column Second Third Column
 Column
 Independent Dependent Insurance Distribution Activities and Reinsurance Insurance Insurance Distribution Activities Intermediaries Intermediaries Insurance 1. Professional activities of persons listed in the Broker First Column of this Schedule who, acting with

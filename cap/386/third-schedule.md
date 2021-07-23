@@ -69,4 +69,4 @@ own names but on behalf of those undertakings; and
 financial statements have been adopted.
 The information concerning capital and reserves and the profit or loss may also be omitted where the undertaking concerned does not publish its balance sheet.
 4. The information required by paragraph 3(a) to (d) may take the form of a statement filed with the Registrar. The filing of such a statement shall be disclosed in the notes to the consolidated financial statements. Such information may be omitted when its nature is such that its disclosure would be seriously prejudicial to any of the undertakings to which it relates and the Registrar agrees that the information need not be disclosed. Any such omission shall be disclosed in the notes to the consolidated financial statements.
-- See XXXI. 2015.23..
+- Substituted by: XXXI. 2015.23.

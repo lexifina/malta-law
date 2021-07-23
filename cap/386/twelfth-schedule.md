@@ -28,10 +28,10 @@ including name of fictitious person, etc. 10
 partnership-name. 20
 21. Reductions in contribution of a partner and dissolution of a partnership before
 period fixed for its duration. 21
-22. Right of creditors of a partner to oppose enlargement of duration of a partnership. 22
+22. Right of creditors of a partner to oppose
+enlargement of duration of a partnership. 22
 23. Duties of Registrar of Courts. 23
-24. How deed of partnership may be altered. 24
-25. Administration and representation of a partnership. 25 (1)
+24. How deed of partnership may be altered. 24 25. Administration and representation of a partnership. 25 (1)
 26. How partnership may be bound. 25 (2), (3)
 27. New partners. 27
 28. Distribution of profits. 28
@@ -59,10 +59,10 @@ period fixed for its duration. 21
 50. Preservation of books of accounts, etc., after dissolution. 50
 51. Definition. 51
 52. Applicability of provisions governing partnerships en nom collectif. 52
-53. Partnership-name. 53 54. Contribution of limited partner not to include personal services. 54
+53. Partnership-name. 53
+54. Contribution of limited partner not to include personal services. 54
 55. Contents of deed of partnership. 55
-56. Rights of general partners. 56
-57. Administration and representation. 57
+56. Rights of general partners. 56 57. Administration and representation. 57
 58. Appointment of partners to administer and represent partnership. 58
 59. Limited partner cannot take part in management of partnerships. 59
 60. Communication of yearly accounts to limited partners. 60
@@ -94,11 +94,10 @@ without consent. 81
 debentures of a company to be made with
 a prospectus. 89
 83. Dating of prospectus and matters to be stated therein. 90
-84. Penalty. 91 85. Prospectus including a statement by experts. 92
+84. Penalty. 91
+85. Prospectus including a statement by experts. 92
 86. Registration of prospectus. 93
-87. Restriction on alteration of terms mentioned in
-prospectus. -
-88. Civil liability for mis-statements in prospectus. 94
+87. Restriction on alteration of terms mentioned in prospectus. - 88. Civil liability for mis-statements in prospectus. 94
 89. Document containing offer of shares or
 debentures for sale to be deemed prospectus. 95
 90. Interpretation of provisions relating to prospectus. 96
@@ -138,8 +137,7 @@ on requisition. 129
 115. Length of notice for calling meetings. 130
 116. General provisions as to meetings and votes. 131
 117. Power of court to order meeting. 132 (1)
-118. Proxies. 133
-119. Right to demand a poll. 134
+118. Proxies. 133 119. Right to demand a poll. 134
 120. Extraordinary resolutions. 135
 121. Directors. 137
 122. Restrictions on appointment of director. 139
@@ -173,11 +171,11 @@ relevant articles
 relevant articles
 147. Definition. 209
 148. Provisions not applicable to private companies. Incorporated in
-relevant articles 149. Exemption of private company from
+relevant articles
+149. Exemption of private company from
 requirements of article 145, etc. 211
 150. Dissolution of companies. 214
-151. Notice of dissolution and calling of meeting for appointment of liquidator. 265, 279
-152. Appointment, removal and remuneration of liquidator. 270, 278, 279,
+151. Notice of dissolution and calling of meeting for appointment of liquidator. 265, 279 152. Appointment, removal and remuneration of liquidator. 270, 278, 279,
 281, 289, 293
 153. Notice of appointment of liquidator. 290
 154. Penalty. Incorporated in
@@ -206,7 +204,8 @@ and among themselves. 378
 assumes obligations. 379
 173. Rights of associating party and of associates. 380
 174. Liability of associate. 381
-175. Agreements allowed between parties. 382 176. No formalities required for association
+175. Agreements allowed between parties. 382
+176. No formalities required for association
 en participation. 383
 177. Application of articles 178 to 182. 384
 178. Documents, etc., to be delivered by oversea
@@ -237,15 +236,15 @@ liability company First Schedule Second Schedule Matters to be set out in a pros
 reports to be set out therein Second Schedule Third Schedule General provisions as to balance sheet and
 profit and loss account 168, Third Schedule Fourth Schedule Contents and form of annual return Seventh Schedule
 1 Short title -
-2 Other enactments - 3 Interpretation 2
+2 Other enactments -
+3 Interpretation 2
 4 Investment Companies with variable
 share capital 84
-5 Name of company 70 (3) and (6)
-6 Accounts of investment company with
+5 Name of company 70 (3) and (6) 6 Accounts of investment company with
 variable share capital 169
 7 Trustees and nominees 127
 8 Share Capital in a convertible currency 186, 187
 9 Power to make regulations -
 Schedule - Accounts and Director's report
 of an investment company with variable share capital Fifth Schedule
-- See IV. 2003.169..
+- Amended by: IV. 2003.169.

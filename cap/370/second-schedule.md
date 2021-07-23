@@ -23,21 +23,9 @@ Those classes of instruments which are normally dealt in on the money market, su
 11. Certificates or other instruments which confer property rights in respect of any instrument falling within this Schedule.
 12. Foreign exchange acquired or held for investment purposes.
 13. Emission allowances consisting of any units recognised for compliance with the requirements of Directive 2003/87/EC (Emissions Trading Scheme).
-Third Schedule
-(Article 2)
-Ancillary Services
-1. Safekeeping and administration of financial instruments for the account of clients, including custodianship and related services such as cash, collateral management and excluding maintaining securities accounts at the top tier level;
-2. Granting credits or loans to an investor to allow him to carry out a transaction in one or more financial instruments, where the firm granting the credit or loan is involved in the transaction;
-3. Advice to undertakings on capital structure, industrial strategy and related matters and advice and services relating to mergers and the purchase of undertakings;
-4. Foreign exchange services where these are connected to the provision of investment services;
-5. Investment research and financial analysis or other forms of general recommendation relating to transactions in financial instruments;
-6. Services related to underwriting;
-7. Investment services and activities as well as ancillary services of the type included under Section A or B of Annex 1 related to the underlying of the derivatives included under points
-(5), (6), (7) and (10) of Section C of MIFID where these are connected to the provision of investment or ancillary services.
 - Amended by: L.N. 191 of 1998; XVII. 2002.155; L.N. 318 of 2006.
 - Substituted by: XX. 2007.83.
 - Amended by: XXXI. 2017.67.
 - Substituted by: XXXI. 2017.67.
 - Added by: XXXI. 2017.67.
-- Added by: XXXI. 2017.68.
 - See Cap. 345.
