@@ -69,7 +69,7 @@ Article 2 applies;
 established by the Cape Town Convention;
 (ee) "leasing agreement" means an agreement by which one person (the
 lessor) grants a right to possession or control of an aircraft object (with or without an option to purchase) to another person (the lessee) in return for a rental or other payment;
-(ff) "National Aircraft Register" means the National Aircraft Register of
+(ff) "National Aircraft Register" means the Malta Aircraft Register of
 Malta;
 (gg) "non-consensual right or interest" means a right or interest conferred
 under the law of a Cape Town Convention State to secure the performance of an obligation, including an obligation to a State, State entity or an intergovernmental or private organisation;
@@ -290,7 +290,7 @@ Insolvency assistance
 2. Where an aircraft object is situated in Malta its courts shall, in accordance with the laws of Malta, co-operate to the maximum extent possible with foreign courts and foreign insolvency administrators in carrying out the provisions of Article 23.
 Article 25
 De-registration and export request authorization
-1. This Article applies where an airframe pertaining to an aircraft, or a helicopter, is registered in the National Aircraft Register.
+1. This Article applies where an airframe pertaining to an aircraft, or a helicopter, is registered in the Malta Aircraft Register.
 2. Where the debtor has issued an irrevocable de-registration and export request authorisation substantially in the form in the Second Schedule and has submitted such authorisation for recordation to the registry authority, that authorisation shall be so recorded.
 3. The person in whose favour the authorization has been issued (the "authorized party") or its certified designee shall be the sole person entitled to exercise the remedies specified in Article 15(1) and may do so only in accordance with the authorization and applicable aviation safety laws and regulations. Such authorisation may not be revoked by the debtor without the consent in writing of the authorized party. The registry authority shall remove an authorization from the registry at the request of the authorized party.
 4. The registry authority and other administrative authorities shall expeditiously co-operate with and assist the authorized party in the exercise of the remedies specified in Article 15.
@@ -306,7 +306,7 @@ Means and Effect of Registration
 (d) "notices of a national interest", as defined in the Cape Town Convention, under the laws of a Cape Town Convention State permitting such notice through a declaration thereunder made by that State, Malta not having made such a declaration;
 (e) subordinations of interests referred to in any of the preceding sub-paragraphs; and
 (f) sales and prospective sales.
-3. All information required for the registrations referred to in the previous paragraph in relation to a helicopter, or to an airframe pertaining to an aircraft, registered for nationality purposes in the National Aircraft Register may only be transmitted directly to the International Registry, not through any designated entry point.
+3. All information required for the registrations referred to in the previous paragraph in relation to a helicopter, or to an airframe pertaining to an aircraft, registered for nationality purposes in the Malta Aircraft Register may only be transmitted directly to the International Registry, not through any designated entry point.
 4. Omitted intentionally.
 5. For the purposes of this Chapter and Chapter V, the term "registration" includes, where appropriate, an amendment, extension or discharge of a registration.
 CHAPTER V
