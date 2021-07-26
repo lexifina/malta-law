@@ -18,8 +18,7 @@ The Court,
 Upon seeing the application of ,
 Appoints to act as curator of during his minority, in the action mentioned in the application.
 This day of (Registrar's signature)
-0.23 cents
-No. 2 Application of a third party for the appointment of a curator to represent a minor.
+0.23 cents No. 2 Application of a third party for the appointment of a curator to represent a minor.
 In (here insert name of Court)
 ......................................
 ......................................
@@ -32,8 +31,7 @@ That, from information obtained, has good cause to bring an action against , for
 (Decree of the Court)
 The Court, Upon seeing etc.,
 This day of (Registrar's signature)
-0.23 cents
-No. 3
+0.23 cents No. 3
 Application to sue/defend with benefit of legal aid.
 In the Civil Court First Hall
 ......................................
@@ -51,8 +49,7 @@ Upon seeing etc.,
 Orders that this application be referred to the Advocate for Legal Aid to examine and report whether the applicant has a good cause of action.
 This day of
 (Registrar's signature)
-0.23 cents
-No. 4 Application for order in connection with competition proceedings.
+0.23 cents No. 4 Application for order in connection with competition proceedings.
 In (here insert name of Court)
 The application of for competition proceedings amongst the creditors of
 Respectfully sheweth: -
@@ -63,18 +60,15 @@ Wherefore the applicant humbly prays that this Court may order the publication o
 The Court,
 Allows the application, and appoints the day of for the appearance of the parties interested at the hearing of the cause, and directs the Registrar to publish the notice referred to in article 416 of the Code of Organization and Civil Procedure.
 This day of (Registrar's signature)
-0.23 cents
-No. 5
+0.23 cents No. 5
 Notice in compliance with the preceding Order.
 NOTICE
 Registry of This day of
 It is hereby notified to whom it may concern that, in the Registry of the (name of Court) , there is the sum of lodged by schedule filed by on the day of in favour of , and that by a decree of the day of , on the application of , the Court has ordered that competition proceedings be instituted on the said deposit, and has appointed the day of for the appearance of the parties interested and the hearing of the cause.
 Wherefore any person, claiming to have an interest in the matter, is requested to exercise his rights on the deposit aforesaid, by an application within days from the aforementioned date, for the purposes of the Code of Organization and Civil Procedure.
 (Registrar's signature)
-0.23 cents
-Form No. 6 - Writ of summons
-Revoked by XXII.2005.76
-No. 7
+0.23 cents Form No. 6 - Writ of summons
+Revoked by XXII.2005.76 No. 7
 Notice of hearing of cause.
 REPUBLIC OF MALTA
 To Marshal of the Courts
@@ -88,8 +82,8 @@ And after execution, or upon your meeting with any obstacle in the execution her
 Given by the (name of Court),
 and witnessed by Doctor of Laws,
 of the said Court.
-This, day of 20 0.23 cents
-No. 8
+This, day of 20
+0.23 cents No. 8
 Subpoena Ad Testificandum and/or Duces Tecum before the Court/referee.
 In (here insert name of Court)
 In the cause
@@ -119,15 +113,15 @@ And after execution, by delivery of a copy hereof to the said person or to his a
 Given by the (name of Court),
 and witnessed by Doctor of Laws,
 of the said Court.
-This, day of 20 0.23 cents
-No. 9
+This, day of 20
+0.23 cents No. 9
 Warrant of seizure for fine (ammenda or multa) or of arrest against person failing to attend on subpoena Ad Testificandum and/or Duces Tecum.
 REPUBLIC OF MALTA
 To Marshal of the Courts
 WHEREAS by a decree given by the (name of Court) on the day of , was condemned to pay a fine (ammenda or multa) of € (or was sentenced to detention or imprisonment for ) for having failed to attend as witness in the cause versus
 Wherefore you are ordered to seize, without any delay, from the possession of the said a pledge equivalent to the aforesaid amount and to the costs of this warrant, or, in the absence of things liable to seizure, to convey the said to the prison appointed for persons condemned to detention (or imprisonment) to be kept therein for the aforesaid period of in default of payment of said amount.
-And after execution, etc., (as in Form No.8). 0.23 cents
-No. 10
+And after execution, etc., (as in Form No.8).
+0.23 cents No. 10
 Warrant of Escort against person failing to attend on subpoena Ad Testificandum and/or Duces Tecum.
 REPUBLIC OF MALTA
 To Marshal of the Courts
@@ -137,8 +131,8 @@ And after execution, or upon your meeting with any obstacle in the execution her
 Given by the (name of Court),
 and witnessed by Doctor of Laws,
 of the said Court.
-This, day of 20 0.23 cents
-No. 11
+This, day of 20
+0.23 cents No. 11
 Bond of surety in cases prescribed by law in respect of certain warrants.
 I, the undersigned, do hereby stand surety in solidum with for any amount to which he may be condemned by way of penalty, or for any other cause, according to law, in consequence of the execution of the warrant sought by him, and I declare on oath that I consider myself sufficient for the fulfilment of this my bond.
 0.23 cents No. 12
@@ -1042,9 +1036,39 @@ Orders the Executive Officer to take all necessary actions to ensure the executi
 Sets the day, time and place of the judicial sale as being the following:-
 Orders the Registrar to notify this decree to the Authority for Transport in Malta or any other authority so designated by the Minister and which has in its hands or under its control the aircraft against which such warrant is being issued as well as to the person whose aircraft is arrested, the commander or other person in charge of such aircraft or the agent of such aircraft.
 Given by the Court
-Today
+Today Form No. 38
+Warrant of Ejectment or Expulsion from Sea Vessels or Aircraft.
+In (here insert name of Court)
+(Applicant)............................................................................
+Versus
+(Respondent)............................................................................
+Application of
+Respectfully requests:-
+That this Court orders the issue of a warrant of ejectment or expulsion against the respondent, including any operator, lessee or other occupants, including any members of their staff (from the herein mentioned aircraft or sea vessel) in execution of the notice of termination herein mentioned, whereas the respondent has so far failed so to do.
+Details of the Aircraft or Sea Vessel:
+Details Notice of Termination:
+Place where the said aircraft or sea vessel is to be found:
+Authority: Authority for Transport in Malta
+Advocate:
+Legal Procurator:
+This, day of 20
+Filed by
+(Registrar's signature)
+No. 38
+Warrant of Ejectment or Expulsion from Sea Vessels or Aircraft.
+Court Warrant
+Republic of Malta
+To Marshal of the Courts
+WHEREAS by a notice of the termination of the lease, as stated in the aforementioned application, respondent was condemned to quit the said Aircraft or Sea Vessel, and whereas the said respondent has so far failed to do so;
+You are, therefore, on the said application, ordered to cause the respondent to be actually ejected from the aircraft or sea vessel mentioned in the application, leaving the same free in favour of the said applicant, enjoining further the said respondent by delivering a copy of the warrant, not to disturb the aforesaid applicant in the free enjoyment of the said aircraft or sea vessel, under the penalties established for contempt of court.
+And after execution, or upon your meeting with any obstacle in the execution hereof, you shall forthwith report to this Court.
+Given by the (name of Court)
+and witnessed by Doctor of Laws of the said
+Court.
+This, day of 20
 - Amended by: L.N. 153 of 1996.
 - Substituted by: L.N. 407 of 2007.
+- Amended by: XVIII.2021.44.
 - Amended by: L.N. 153 of 1996.
 - Substituted by: L.N. 407 of 2007.
 - Amended by: XVI.1922.5.
