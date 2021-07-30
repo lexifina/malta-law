@@ -226,3 +226,4 @@ Article Subject
 5.1.4 Removal of Affiliated Fed.
 5.1.5 Suspension of Individual
 8.8 Amendments
+- Amended by: L.N. 427 of 2007.
