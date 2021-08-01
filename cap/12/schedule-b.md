@@ -1068,7 +1068,6 @@ Court.
 This, day of 20
 - Amended by: L.N. 153 of 1996.
 - Substituted by: L.N. 407 of 2007.
-- Amended by: XVIII.2021.44.
 - Amended by: L.N. 153 of 1996.
 - Substituted by: L.N. 407 of 2007.
 - Amended by: XVI.1922.5.
