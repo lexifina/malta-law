@@ -37,16 +37,20 @@ OFFENCES AGAINST DISCIPLINE
 (d) wilfully or negligently makes any false complaint or
 statement against any member of the Force; or
 (e) assaults any other member of the Force when this does not constitute a breach of article 18(1)(g) of the Act; or
-(f) improperly withholds any report or allegation against any member of the Force. 3. Disobedience to orders, that is to say, if a member of the Force -
+(f) improperly withholds any report or allegation against any member of the Force.
+3. Disobedience to orders, that is to say, if a member of the Force -
 (a) disobeys or without good and sufficient cause omits or neglects to carry out any lawful order, written or otherwise; or
 (b) wilfully refuses or neglects to discharge any lawful debt; or
 (c) carries on or is concerned in any trade or business, or
-otherwise fails to devote his whole time to the Police service. 4. Neglect of duty, that is to say, if a member of the Force -
+otherwise fails to devote his whole time to the Police
+service without the necessary authorization.
+4. Neglect of duty, that is to say, if a member of the Force -
 (a) neglects, or without good and sufficient cause omits, promptly and diligently to attend to or carry out anything which is his duty as a member of the Force; or
 (b) idles or gossips while on duty; or
 (c) fails to work his beat in accordance with orders or leaves his beat, point, or other place of duty to which he has been ordered, without due permission or sufficient cause; or
 (d) by carelessness or neglect permits a prisoner to escape; or
-(e) fails, when knowing where any offender is to be found, to report the same, or to make due exertions for making him amenable to justice; or
+(e) fails, when knowing where any offender is to be found, to report the same, or to make due exertions for
+making him amenable to justice; or
 (f) fails to report any matter which it is his duty to report; or
 (g) fails to report anything which he knows concerning a criminal charge, or fails to disclose any evidence which he, or any person within his knowledge, can give for or against any prisoner or defendant to a criminal charge; or
 (h) omits to make any necessary entry in any official document or book; or
@@ -100,4 +104,5 @@ required in the execution of his duty; or
 18. Being an accomplice in a disciplinary offence, that is to say, if a member of the Force connives at, or knowingly commits an act of complicity in, any offence against discipline.
 19. Breach of order, that is to say, if a member of the Force conducts himself, by act or omission, in any manner prejudicial to good order or discipline, or otherwise unbecoming a member of the Force, and not elsewhere provided for in this Schedule.
 20. For the purposes of this Schedule the word "prisoner" means any person in any legal custody or detention, whether sentenced, or awaiting trial, or detained by the Police, or held under a lawful warrant or order.
+- Amended by: LVII.2021.13.
 - Amended by: L.N. 292 of 2020.
