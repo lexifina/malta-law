@@ -18,7 +18,8 @@ The Court,
 Upon seeing the application of ,
 Appoints to act as curator of during his minority, in the action mentioned in the application.
 This day of (Registrar's signature)
-0.23 cents No. 2 Application of a third party for the appointment of a curator to represent a minor.
+0.23 cents
+No. 2 Application of a third party for the appointment of a curator to represent a minor.
 In (here insert name of Court)
 ......................................
 ......................................
@@ -31,7 +32,8 @@ That, from information obtained, has good cause to bring an action against , for
 (Decree of the Court)
 The Court, Upon seeing etc.,
 This day of (Registrar's signature)
-0.23 cents No. 3
+0.23 cents
+No. 3
 Application to sue/defend with benefit of legal aid.
 In the Civil Court First Hall
 ......................................
@@ -49,7 +51,8 @@ Upon seeing etc.,
 Orders that this application be referred to the Advocate for Legal Aid to examine and report whether the applicant has a good cause of action.
 This day of
 (Registrar's signature)
-0.23 cents No. 4 Application for order in connection with competition proceedings.
+0.23 cents
+No. 4 Application for order in connection with competition proceedings.
 In (here insert name of Court)
 The application of for competition proceedings amongst the creditors of
 Respectfully sheweth: -
@@ -60,15 +63,18 @@ Wherefore the applicant humbly prays that this Court may order the publication o
 The Court,
 Allows the application, and appoints the day of for the appearance of the parties interested at the hearing of the cause, and directs the Registrar to publish the notice referred to in article 416 of the Code of Organization and Civil Procedure.
 This day of (Registrar's signature)
-0.23 cents No. 5
+0.23 cents
+No. 5
 Notice in compliance with the preceding Order.
 NOTICE
 Registry of This day of
 It is hereby notified to whom it may concern that, in the Registry of the (name of Court) , there is the sum of lodged by schedule filed by on the day of in favour of , and that by a decree of the day of , on the application of , the Court has ordered that competition proceedings be instituted on the said deposit, and has appointed the day of for the appearance of the parties interested and the hearing of the cause.
 Wherefore any person, claiming to have an interest in the matter, is requested to exercise his rights on the deposit aforesaid, by an application within days from the aforementioned date, for the purposes of the Code of Organization and Civil Procedure.
 (Registrar's signature)
-0.23 cents Form No. 6 - Writ of summons
-Revoked by XXII.2005.76 No. 7
+0.23 cents
+Form No. 6 - Writ of summons
+Revoked by XXII.2005.76
+No. 7
 Notice of hearing of cause.
 REPUBLIC OF MALTA
 To Marshal of the Courts
@@ -82,8 +88,8 @@ And after execution, or upon your meeting with any obstacle in the execution her
 Given by the (name of Court),
 and witnessed by Doctor of Laws,
 of the said Court.
-This, day of 20
-0.23 cents No. 8
+This, day of 20 0.23 cents
+No. 8
 Subpoena Ad Testificandum and/or Duces Tecum before the Court/referee.
 In (here insert name of Court)
 In the cause
@@ -113,15 +119,15 @@ And after execution, by delivery of a copy hereof to the said person or to his a
 Given by the (name of Court),
 and witnessed by Doctor of Laws,
 of the said Court.
-This, day of 20
-0.23 cents No. 9
+This, day of 20 0.23 cents
+No. 9
 Warrant of seizure for fine (ammenda or multa) or of arrest against person failing to attend on subpoena Ad Testificandum and/or Duces Tecum.
 REPUBLIC OF MALTA
 To Marshal of the Courts
 WHEREAS by a decree given by the (name of Court) on the day of , was condemned to pay a fine (ammenda or multa) of € (or was sentenced to detention or imprisonment for ) for having failed to attend as witness in the cause versus
 Wherefore you are ordered to seize, without any delay, from the possession of the said a pledge equivalent to the aforesaid amount and to the costs of this warrant, or, in the absence of things liable to seizure, to convey the said to the prison appointed for persons condemned to detention (or imprisonment) to be kept therein for the aforesaid period of in default of payment of said amount.
-And after execution, etc., (as in Form No.8).
-0.23 cents No. 10
+And after execution, etc., (as in Form No.8). 0.23 cents
+No. 10
 Warrant of Escort against person failing to attend on subpoena Ad Testificandum and/or Duces Tecum.
 REPUBLIC OF MALTA
 To Marshal of the Courts
@@ -131,8 +137,8 @@ And after execution, or upon your meeting with any obstacle in the execution her
 Given by the (name of Court),
 and witnessed by Doctor of Laws,
 of the said Court.
-This, day of 20
-0.23 cents No. 11
+This, day of 20 0.23 cents
+No. 11
 Bond of surety in cases prescribed by law in respect of certain warrants.
 I, the undersigned, do hereby stand surety in solidum with for any amount to which he may be condemned by way of penalty, or for any other cause, according to law, in consequence of the execution of the warrant sought by him, and I declare on oath that I consider myself sufficient for the fulfilment of this my bond.
 0.23 cents No. 12
@@ -595,13 +601,13 @@ This, day of 20
 0.23 cents No.26
 Court order to perform the function of Judicial Assistant.
 REPUBLIC OF MALTA
-To Doctor of Laws ..................................Judicial Assistant. Whereas it is required that in a cause before the (insert name of Court)................................. Summons No ............................... between plaintiff .............................................. and defendant ............................................... it is necessary to appoint a Judicial Assistant therein and in particular to:
+To Doctor of Laws..................................Judicial Assistant. Whereas it is required that in a cause before the (insert name of Court)..................................Summons No ............................... between plaintiff .............................................. and defendant ............................................... it is necessary to appoint a Judicial Assistant therein and in particular to:
 *(a) ascertain and establish the issues of fact or of law involved in the cause, as well as the issues of fact or of law on which the parties agree, and to endeavour to induce the parties to reach an agreement on the issues involved in the cause, and to make a report thereof to the said Court;
 *(b) take the testimony of any person that is produced as a witness;
 *(c) take any affidavit on any matter; *(d) receive documents produced with any testimony, affidavit or declaration, including in particular a testimony, affidavit or declaration as is referred to in the Code of Organization and Civil Procedure;
 *(e) ............................................................................. .................................................................................. You are, therefore, hereby ordered that in terms of the provisions of article 97A of the Code of Organization and Civil Procedure, you will perform the functions of Judicial Assistant in the aforementioned cause with all the powers given to you by law, and in such manner that a first sitting should be held on the ................ day of ........................ 20 ....... at ........ a.m/p.m. at .................... and that you will thereafter file before this Court your report and the evidence received, if any, by not later than the date of the first sitting before this same Court.
 .................................. Judge of the said Court
-This ........................... day of ....................... 20
+This ............................day of ....................... 20
 0.23 cents No. 27
 Notice of hearing of proceedings/evidence before a Judicial Assistant.
 REPUBLIC OF MALTA
@@ -617,7 +623,7 @@ And after execution, or upon your meeting with any obstacle in the said service,
 ............................
 Doctor of Laws
 Judicial Assistant of the said Court.
-This ................................................. day of ..................... 20 ......
+This.................................................. day of ..................... 20 ......
 0.23 cents No. 28
 A Summons Order given by a Judicial Assistant.
 REPUBLIC OF MALTA
@@ -644,7 +650,7 @@ Application of..................................................................
 Respectfully requests the issue of a subpoena order in the above stated cause against the person mentioned hereunder to attend for the sitting and at the time stated hereunder, and to bring with him the documents hereunder mentioned:
 Person summoned to attend as witness: ........................................ Address:....................................................................................... Date, time and place where witness is to attend: ......................... Documents to be brought by witness:...........................................
 Advocate: .................................................................................. Legal Procurator: .......................................................................
-This ............................................. day of .................. 20 ......
+This .............................................day of .................. 20 ......
 Filed by............................................................................
 (Registrar's signature)
 0.23 cents
@@ -656,7 +662,7 @@ Each witness is hereby being warned that should he fail to appear on the day and
 ....................................
 Doctor of Laws
 Judicial Assistant
-This .............................................day of ................... 20 ......
+This ............................................. day of ................... 20 ......
 0.23 cents No. 30
 Escort Order issued by a Judicial Assistant against a person failing to attend on subpoena.
 REPUBLIC OF MALTA
@@ -677,7 +683,7 @@ Documents to be brought by witness ......................................
 .....................................
 Doctor of Laws
 Judicial Assistant
-This ..................................... day of ............. 20 .........
+This .................................... day of ............. 20 .........
 Address of witness: .........................................................
 0.23 cents Form No. 31
 Application No.: ............

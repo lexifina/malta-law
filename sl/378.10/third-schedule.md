@@ -1,7 +1,6 @@
 ## THIRD SCHEDULE
 # third-schedule
 [Regulations 6 and 18A]
-[S.L.378.10 TO RESIDENTIAL IMMOVABLE PROPERTY 71
 Minimum Knowledge and Competence Requirements
 1. The minimum knowledge and competence requirements for creditors' and credit intermediaries' staff referred to in regulation 6 and for persons involved in the management of credit intermediaries referred to in regulation 18A(7)(c) shall include:
 (a) appropriate knowledge of credit products falling within the scope of these regulations in accordance with regulation 3 and the ancillary services typically offered with them;
@@ -18,4 +17,4 @@ Minimum Knowledge and Competence Requirements
 (a) professional qualifications, for example diplomas, degrees, training, competency tests; or
 (b) professional experience, which may be defined as a minimum number of years working in areas related to the origination, distribution or intermediation of credit products:
 Provided that after 21 March 2019, the determination of the appropriate level of knowledge and competence shall not be based solely on the methods listed in sub-paragraph (b) of the paragraph 1.
-- Added by: L.N. 259 of 2016.
+[S.L.378.10 72 TO RESIDENTIAL IMMOVABLE PROPERTY

@@ -1,25 +1,34 @@
 ## SECOND SCHEDULE
 ## CLAIMANT
-## DEFENDANT
+## TO DEFENDANT
+## Whoever is served with this notice of claim must within 18 days from the date of service file a reply. If
+## Tribunal staff will fill
+## You must first refer your claim to the Director General or to a registered consumer association who will
 ## reference number
 ## date
+## WHERE?
+## Te l l
+## ABANDONING
+## Form 1A
 ## Notice making counterclaim
-## FROM
+## FROM DEFENDANT
 ## Fill in the name, address and telephone of the person making the counterclaim
 ## TO CLAIMANT
 ## Fill in the name, address and telephone number of the person the counterclaim is against
 ## Whoever is served with this notice of counterclaim must within 18 days from the date of service file a reply to a counterclaim. If he fails to do so, the Tribunal may then proceed to determine the dispute in his absence. A reply to a counterclaim may also be filed by registered 'advice of receipt' mail.
-## WHERE?
 ## Te l l happened
 ## HOW MUCH?
 ## State how much is being claimed from the claimant
-## A B A ND O N I N G PART OF A CLAIM
-## If you are abandoning p a r t counterclaim excess of €3,494.06 sign this declaration
-## TO
+## ABANDONING PART OF A CLAIM
+## If you are abandoning p a r t counterclaim excess of €5,000 sign this declaration
+## DEFENDANT
+## Form 2A
 ## Fill in the name, address and telephone number of the person making counterclaim against you
 ## FROM CLAIMANT
 ## Fill in the name, address and telephone number claimant filing this reply counterclaim
 ## Tribunal staff will fill in this part
+## Form 4
+## Form 7
 # second-schedule
 NOTICE OF CLAIM
 IN THE CONSUMER CLAIMS TRIBUNAL STEP 1 FROM COMPLETE the NOTICE OF You must be sure that the address that you give is CLAIM using a typewriter or writing correct because this is where the Registry will clearly. Make sure that all the copies send you any further notices or information. If are legible. your address changes at any time please notify
@@ -34,14 +43,14 @@ depends on the amount you are
 WHAT HAPPENED? claiming and a service fee. The staff will check the form and when it is
 You do not need to tell everything about your accepted for filing, apply the registry
 case here. You must tell just enough to let stamp, add on filing and service fees
-defendant know what the case is all about. Keep and a ssign a fi le number. The
+defendant know what the case is all about. Keep and assign a file number. The
 your description brief. You will have a full Secretary will then proceed to serve
 opportunity to present all the facts during the on your behalf the defendant with a
 trial.
 copy of the Notice of Claim. The Secretary will register the claim, assign it before an Arbiter, schedule a date for the hearing and serve the defendant and you with a Notice of Hearing (Form 4 in the Second Schedule). The hearing will be scheduled on a day within fifty days from the filing of the claim after taking into consideration the time periods allowed by these rules for both parties to reply to the claim or counterclaim. STEP 3 WHAT HAPPENS AFTER WHERE? If the defendant files a Reply to a A Notice of Claim must be filed in the Registry Claim, you will be served with a copy of the Tribunal where the transaction, to which of the Reply to a Claim. If no reply is the claim refers, took place. filed within 18 days of the date of the
 HOW MUCH?
 notification of the Notice of Claim,
-If the value of your claim is more than €3,494.06 you may apply for a default order (excluding filing and services fees) you may still against the defendant who failed to present your claim before the Tribunal if you are file a Reply to a Claim. prepared to abandon the amount of your claim in excess of €3,494.06. In such a case you must then declare under ABANDONING PART OF A CLAIM that you are abandoning the amount of your claim in excess of €3,494.06.
+If the value of your claim is more than €5,000 you may apply for a default order (excluding filing and services fees) you may still against the defendant who failed to present your claim before the Tribunal if you are file a Reply to a Claim. prepared to abandon the amount of your claim in excess of €5,000. In such a case you must then declare under ABANDONING PART OF A CLAIM that you are abandoning the amount of your claim in excess of €5,000.
 PARTICULARS OF THE CLAIM - continued
 LIST YOUR WITNESSES IN Name and address of persons you intend to call as witness THIS PART
 WHAT HAPPENED? ATTACH EXTRA SHEETS IF SPACE IS INSUFFICIENT
@@ -65,11 +74,9 @@ a full opportunity to present all the facts during together with the original cl
 the trial.
 against you as notified in the notice
 HOW MUCH? of hearing. The Secretary will
-proceed to serve on your behalf the If the value of your counterclaim is more than claimant with a copy of the Notice of €3,494.06 (excluding filing and service fees) you Counterclaim together with your may still present your counterclaim before the Reply to a Claim. Tribunal if you are prepared to abandon the
-amount of your counterclaim in excess of STEP 3 €3,494.06. In such a case you must then declare WHAT HAPPENS AFTER
-under ABANDONING PART OF THE COUNTERCLAIM that you are abandoning the If the claimant files a Reply to a amount of your counterclaim in excess of Counterclaim, you will be served
-€3,494.06. with a copy of the Reply to a
-Counterclaim. If no reply to a counterclaim is filed within 18 days from the date of the notification of the Notice of Counterclaim, you may apply for a default order against the claimant who failed to file a Reply to a Counterclaim.
+proceed to serve on your behalf the If the value of your counterclaim is more than claimant with a copy of the Notice of €5,000 (excluding filing and service fees) you Counterclaim together with your may still present your counterclaim before the Reply to a Claim. Tribunal if you are prepared to abandon the
+amount of your counterclaim in excess of €5,000. STEP 3 In such a case you must then declare under WHAT HAPPENS AFTER
+ABANDONING PA RT O F T H E COUNTERCLAIM that you are abandoning the If the claimant files a Reply to a amount of your counterclaim in excess of €5,000. Counterclaim, you will be served with a copy of the Reply to a Counterclaim. If no reply to a counterclaim is filed within 18 days from the date of the notification of the Notice of Counterclaim, you may apply for a default order against the claimant who failed to file a Reply to a Counterclaim.
 PARTICULARS OF THE COUNTERCLAIM - continued
 LIST YOUR WITNESSES IN Name and address of persons you intend to call as witness THIS PART
 WHAT HAPPENED? ATTACH EXTRA SHEETS IF SPACE IS INSUFFICIENT
@@ -104,7 +111,7 @@ filing. The Reply to a Counterclaim must be filed within 18 days from when you a
 PARTICULARS OF YOUR REPLY TO A COUNTERCLAIM - continued
 LIST YOUR WITNESSES Name and address of whom you intend to call as witness IN THIS PART
 DISPUTE ATTACH SEPARATE SHEETS IF SPACE IS INSUFFICIENT
-State if you are disputing the counterclaim being mad e. I f y ou are, then explain with what you disagree and why.
+State if you are disputing the counterclaim being made. If y ou a re, then explain with what you disagree and why.
 Defendant's signature date
 APPLICATION FOR A DEFAULT ORDER
 IN THE CONSUMER CLAIMS TRIBUNAL
@@ -154,7 +161,7 @@ at full address of the place where witness must attend
 WHY IS THE WITNESS BEING SUMMONED State briefly to your witness why you need his evidence
 Witness is required to bring these documents and other things If you want the witness to bring to the hearing any documents or other things list them here
 Sign and date your summons signature of party applying for summons date
-This part will be For office use only completed b y t h e
+T h i s p a r t w i l l b e For office use only completed b y t h e
 DECREE BY ARBITER Tribunal
 After having considered this application for a summons to witness, I hereby authorise the issue of this summons and order witness to appear at the place, time and date as aforesaid and to bring any of the documents or things as required in this summons
 signature of Arbiter date

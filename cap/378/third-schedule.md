@@ -3,4 +3,3 @@
 (Article 43C)
 In accordance with the provisions of article 43C, the following public entity is being designated to perform the functions of a residual ADR entity:
 The Complaints and Conciliation Directorate established under the Fourth Schedule of the Malta Competition and Consumer Affairs Act (Cap. 510).
-- Added by: XXX. 2015.6.

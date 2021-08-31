@@ -55,3 +55,4 @@ For the purposes of this paragraph, an open-ended credit agreement is a credit a
 (m) In the case of shared equity credit agreements:
 (i) the payments by consumers shall be deemed to occur at the latest date or dates permitted under the credit agreement;
 (ii) percentage increases in value of the immovable property which secures the shared equity credit agreement, and the rate of any inflation index referred to in the agreement, shall be assumed to be a percentage equal to the higher of the current central bank target inflation rate or the level of inflation in the Member State where the immovable property is located at the time of conclusion of the credit agreement or 0% if those percentages are negative.
+[S.L.378.10 TO RESIDENTIAL IMMOVABLE PROPERTY 71
