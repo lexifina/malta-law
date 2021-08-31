@@ -9,7 +9,7 @@ The applicable authorisation fee for operating a primary storage facility is:
 (a) €1,500 per annum in the case of a primary storage facility which does not exceed six tonnes capacity, but in the case of a primary storage facility of LPG such amount of authorisation fee shall be applicable when the capacity does not exceed two tonnes;
 (b) €2,500 per annum in the case of a primary storage facility which does not exceed 2,500 tonnes, but in the case of a primary storage facility of LPG such authorisation fee shall be applicable when the capacity does not exceed 50 tonnes;
 (c) €5,000 per annum in the case of a primary storage facility which exceeds the capacities mentioned in paragraph (b) but which does not exceed 25,000 tonnes capacity;
-[S.L.545.17 21 BOTTLING OF LPG AND PRIMARY STORAGE FACILITIES
+[S.L.545.17 23 BOTTLING OF LPG AND PRIMARY STORAGE FACILITIES
 (d) €10,000 per annum in the case of a primary storage facility which exceeds 25,000 tonnes but which does not exceed 100,000 tonnes capacity;
 (e) €15,000 per annum in the case of a primary storage facility which exceeds 100,000 tonnes capacity.
 Authorisation to carry out the activity of bottling of LPG
