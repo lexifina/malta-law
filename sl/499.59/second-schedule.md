@@ -19,5 +19,3 @@ Part 4
 Temporary taxi licence
 Administration fee: €8
 * To be paid with the circulation licence fee of the vehicle on a pro-rata basis.
-- Amended by: L.N. 33 of 2011; L.N. 433 of 2015.
-- Substituted by: L.N. 416 of 2020.

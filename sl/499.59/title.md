@@ -3,4 +3,4 @@ TAXI SERVICES REGULATIONS
 1st November, 2010;
 1st May, 2011;
 1st November, 2011
-LEGAL NOTICE 369 of 2010, as amended by Legal Notices 33 of 2011, 98, 407, 426 and 457 of 2012, 189 of 2013,433 of 2015, 126 of 2018 and 141 of 2019 and 416 of 2020.
+LEGAL NOTICE 369 of 2010, as amended by Legal Notices 33 of 2011, 98, 407, 426 and 457 of 2012, 189 of 2013,433 of 2015, 126 of 2018 and 141 of 2019, 416 of 2020 and 343 of 2021.
