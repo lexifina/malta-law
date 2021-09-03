@@ -8,3 +8,4 @@ Triq Ta' Srina; Rabat
 Triq San Ġuzepp; Żejtun/Żabbar
 IN GOZO:
 Triq Tax-Xagħra
+[S.L.499.66 28 ON THE ROAD

@@ -1,8 +1,7 @@
 ## THIRD SCHEDULE
 # third-schedule
 (Regulation 25)
-Arterial and distributor roads on which animals or animal-drawn vehicles not used
-for hire or reward shall not circulate on any day between 07:00 hours and 09:00
+Arterial and distributor roads on which animals or animal-drawn vehicles not used for hire or reward shall not circulate on any day between 07:00 hours and 09:00
 hours and between 16:00 hours and 18:00 hours, except on Saturdays,
 Sundays and Public Holidays
 IN MALTA:
@@ -30,7 +29,7 @@ Marsa: Triq Diċembru 13, Triq Nazzjonali, Triq Ħal Qormi, Triq Aldo Moro, Triq
 Marsaskala: Triq Sant'Antnin
 Marsaxlokk: Triq Iż-Żejtun, Triq Marsaxlokk, Triq Birżebbuġa, Triq Axtart, Triq Melqart, Triq Bir-Rikka
 Mdina: Triq Tal-Infetti
-[S.L.499.66 ON THE ROAD 25
+[S.L.499.66 26 ON THE ROAD
 Mellieħa: Triq il-Marfa, Dawret il-Mellieħa, Triq Louis Wettinger, It-Telgħa tax- Xemxija
 Mġarr: Triq Fisher, Triq iż-Żebbiegħ, Triq Il-Mosta, Triq ta' Xifer il-Kief
 Mosta: Triq il-Belt Valletta, Triq il-Kostituzzjoni, Triq il-Kungress Ewkaristiku, Misraħ Rotunda, Triq ta' Xifer il-Kief , Vjal l-Indipendenza, Triq il-Kbira, Triq San Pawl tal-Qliegħa, Vjal Millbrae, Triq il-Missjunarji Maltin, Triq Burmarrad
@@ -55,10 +54,10 @@ Tarxien: Triq Bir id-Deheb, Triq San Anard, Triq id-Dejma, Triq il-Gudja
 Żebbuġ: Triq is-Siġġiewi, Triq l-Imdina, Triq Ħ'Attard, Triq Ħaż-Żebbuġ
 Żejtun: Triq Id-Dejma, Triq Il-Gudja, Triq tal-Barrani, Wesgħa Bir Id-Deheb, Triq Marsaxlokk, Triq Dun Ġuzepp Barbara
 Żurrieq: Triq il-Belt Valletta, Triq Dun Ġużepp Barbara
+[S.L.499.66 ON THE ROAD 27
 IN GOZO:
 Fontana: Triq L-Isptar San Ġiljan, Triq Tal-Għajn, Triq Ta' Għajn Tuta
 Għajnsielem: Triq Ta' Xħajma, Triq L-Imġarr, Triq Sant' Antnin, Triq Ix-Xatt
-[S.L.499.66 26 ON THE ROAD
 Munxar: Triq Xlendi, Triq Santa Duminka, Triq Marziena
 Nadur: Triq it-Tiġrija, Triq il-Knisja, Triq Ħanaq, Triq ir-Ramla l-Ħamra, Triq Għajn Qasab, Triq ir-Rabat, Triq San Ġwann, Triq l-Imġarr
 Qala: Triq Il-Qala, Triq l-Imġarr, Triq it-28 ta' April 1688, Triq San Ġużepp
