@@ -18,11 +18,11 @@ B5 11h<…<12 h X
 extension not allowed
 B6 12 h<… X B7 Art. 6.2 Exceed weekly driving 56 h<…<60 h X
 time
-B8 60 h<…<70 h X B9 70 h<… X B10 Art. 6.3 Ex c e e d accumulated 90 h<…<100 h X
+B8 60 h<…<70 h X B9 70 h<… X B10 Art. 6.3 E x c ee d a c cu mu la t e d 90 h<…<100 h X
 driving time during 2 B11 100 h<…<112 h 30 X
 consecutive weeks B12 112 h 30<… X C Breaks C1 Art. 7 Exceed uninterrupted 4 h 30<...<5 h X
 driving time
-C2 5 h<...<6 h X C3 6 h<... X D Rest periods D1 Art. 8.2 Insufficient daily rest 10 h<…<11 h X
+C2 5 h<...<6 h X C3 6 h<... X D Rest periods D1 Art. 8.2 Insufficient daily r est 10 h<…<11 h X
 period of less than 11 hours
 D2 8 h 30<...<10 h X
 if reduced daily rest period
@@ -36,7 +36,7 @@ D8 3 h + (7 h<…<8 h) X
 + 9 hours
 D9 3 h + (…<7 h) X No. Legal basis Type of infringement Level of
 seriousness*
-VSI SI MI D10 Art. 8.5 In s uffici ent d aily res t 8 h<…<9 h X
+VSI SI MI D10 Art. 8.5 Insufficient daily rest 8 h<…<9 h X
 period of less than 9 hours D11 7 h<...<8 h X
 for multi-manning D12 …<7 h X D13 Art. 8.6 Insufficient reduced weekly 22 h<…<24 h
 resting period of less than D14 20 h<…<22 h
@@ -86,12 +86,10 @@ days I6 Unable to produce driver card X I7 Unable to produce printouts made duri
 current day and the previous 28 days
 J Fraud No. Legal basis Type of infringement Level of
 seriousness*
-VSI SI MI
-J1 Art. 15.8 Falsify, suppress, destroy data recorded on X
+VSI SI MI J1 Art. 15.8 Falsify, suppress, destroy data recorded on X
 record sheets, stored in the recording equipment
 or on the driver card or print-outs from the
-recording equipment
-J2 Manipulation of recording equipment, record X
+recording equipment J2 Manipulation of recording equipment, record X
 sheet or driver card which may result in data
 and/or printouts information being falsified
 J3 Manipulation device that could be used to X
@@ -106,5 +104,3 @@ L3 Signature missing on temporary sheet X L4 Art. 16.3 Loss or theft of driver c
 declared to the competent authorities of the
 Member State where the theft occurred
 (*) VSI = Very Serious Infringement SI = Serious Infringement MI = Minor Infringement
-- Added by: L.N. 75 of 2010.
-- Amended by: L.N. 251 of 2011.

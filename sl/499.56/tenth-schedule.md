@@ -21,12 +21,12 @@ Replacement of Driver Tag - Regulation 22(4)
 (S.L. 65.11)
 Part 4
 Application for Passenger Transport Vehicle Licence - Regulation 27
-1. Application fee for a Passenger Transport Vehicle Licence €25 2. Entry Fee payable in applicable cases:
+1. Application fee for a Passenger Transport Vehicle Licence €25
+2. Entry Fee payable in applicable cases:
 Entry Fee payable upon application for a passenger transport vehicle licence
 for a vehicle which was manufactured:
 11 11000 11000 11000 11000 11000 11000
-12 11892 11892 11892 11892 11892 11892
-13 12753 12753 12753 12753 12753 12753
+12 11892 11892 11892 11892 11892 11892 13 12753 12753 12753 12753 12753 12753
 14 13608 13608 13608 13608 13608 13608
 15 14430 14430 14430 14430 14430 14430
 16 15248 15248 15248 15248 15248 15248
@@ -108,4 +108,3 @@ Application fee for a motor route bus licence €25
 Part 6
 Application fee for a special vintage bus services €10.
 ELEVENTH SCHEDULE - SCHOOL CHILDREN SIGN
-- Amended by: L.N. 272 of 2010; L.N. 251 of 2011; L.N. 432 of 2012; L.N. 177 of 2014; L.N. 238 of 2016.

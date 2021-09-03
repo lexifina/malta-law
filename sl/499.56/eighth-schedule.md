@@ -49,4 +49,3 @@ and vehicles are concerned.
 4. The certificate entitles the holder to carry out international transport operations by coach and bus for own-account. It is issued by the competent authority of the Agreement State where the vehicle is registered and is valid for the entire journey, including any transit journeys.
 5. The relevant parts of this certificate must be completed in indelible letters in triplicate by the person or the representative of the entity carrying out the operation and by the competent authority. One copy must be kept by the administration and one by the person or entity. The driver must keep the original or a certified true copy on board the vehicle for the entire duration of any international journeys. It must be presented to the enforcement authorities on request. The person or entity, as appropriate, is responsible for keeping the certificates.
 6. The certificate is valid for a maximum of five years.
-- Amended by: XV. 2009.49.
