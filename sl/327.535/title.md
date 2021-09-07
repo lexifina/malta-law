@@ -2,4 +2,4 @@ SUBSIDIARY LEGISLATION 327.535
 UNIVERSITY STUDENT DISCIPLINE
 REGULATIONS
 4th March, 2016
-LEGAL NOTICE 68 of 2016, and 239 of 2017, as amended by Legal Notices 152 of 2019 and 128 and 303 of 2020.
+LEGAL NOTICE 68 of 2016, and 239 of 2017, as amended by Legal Notices 152 of 2019 and 128 and 303 of 2020 and 354 of 2021.
