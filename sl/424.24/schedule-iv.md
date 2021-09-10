@@ -11,7 +11,8 @@ fire in contact with air at ambient temperature without any application of energ
 - solid substances and preparations which may readily catch fire after
 brief contact with a source of ignition and which continue to burn or to
 be consumed after removal of the source of ignition, or
-- liquid substances and preparations having a very low flash-point, or [S.L.424.24 14 FROM THE RISKS RELATED TO CHEMICAL AGENTS AT WORK
+- liquid substances and preparations having a very low flash-point, or
+[S.L.424.24 15 FROM THE RISKS RELATED TO CHEMICAL AGENTS AT WORK
 - substances and preparations which, in contact with water or damp air,
 evolve extremely flammable gases in dangerous quantities;
 (e) flammable substances and preparations: liquid substances and preparations having a low flash-point;
@@ -23,5 +24,4 @@ evolve extremely flammable gases in dangerous quantities;
 (k) sensitising substances and preparations: substances and preparations which, if they are inhaled or if they penetrate the skin, are capable of eliciting a reaction of hypersensitisation such that on further exposure to the substance of preparation, characteristic adverse effects are produced;
 (l) carcinogenic substances and preparations: substances or preparations which, if they are inhaled or ingested or if they penetrate the skin, may induce cancer or increase its incidence;
 (m) mutagenic substances and preparations: substances and preparations which, if they are inhaled or ingested or if they penetrate the skin, may induce heritable genetic defects or increase their incidence;
-(n) substances and preparations which are toxic for reproduction: substances and preparations which, if they are inhaled or ingested or if they penetrate the skin, may produce, or increase the incidence of, non-heritable adverse effects in the progeny and/or an impairment of male or female reproductive functions or capacity.
-[S.L.424.24 15 FROM THE RISKS RELATED TO CHEMICAL AGENTS AT WORK
+(n) substances and preparations which are toxic for reproduction: substances and preparations which, if they are inhaled or ingested or if they penetrate the skin, may produce, or increase the incidence of, non-heritable adverse effects in the progeny and/or an impairment of male or female reproductive functions or capacity. [S.L.424.24 16 FROM THE RISKS RELATED TO CHEMICAL AGENTS AT WORK
