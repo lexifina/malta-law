@@ -7,8 +7,7 @@ I. Cereals
 A. Pre-basic seed
 (a) Required information for the label
  Certification authority and Member State or their distinguishing abbreviations,
- Reference number of lot,
- Month and year of sealing expressed thus: "sealed …. (month and year)" or month and year of the last official sampling for the purposes of certification expressed thus: "sampled …. (month and year)",
+ Reference number of lot,  Month and year of sealing expressed thus: "sealed …. (month and year)" or month and year of the last official sampling for the purposes of certification expressed thus: "sampled …. (month and year)",
  Species, indicated at least under its botanical name, which may be given in an abridged form and without the authors' name, in Latin characters,
  Variety, indicated at least in Latin characters,
  "Pre-basic seed",
@@ -28,8 +27,7 @@ Officially assigned serial number,
  Variety, indicated at least in Latin characters,
  Category,
  Country of production,
- Declared net or gross weight, or declared number of seeds,
- Where weight is indicated and granulated pesticides, pelleting substances or other solid additives are used, the nature of the additive and also the approximate ratio between the weight of pure seeds and the total weight,
+ Declared net or gross weight, or declared number of seeds,  Where weight is indicated and granulated pesticides, pelleting substances or other solid additives are used, the nature of the additive and also the approximate ratio between the weight of pure seeds and the total weight,
  In the case of varieties which are hybrids or inbred lines:
 (i) for basic seed where the hybrid or inbred line to which the seeds belongs has been officially accepted under these regulations: the name of this component, under which it has been officially accepted with or without reference to the final variety, accompanied, in the case of hybrids or inbred lines which are intended solely as components for final varieties, by the word "component";
 (ii) for basic seed in other cases: the name of the component to which the basic seed belongs, which may be given in code form, accompanied by a reference to the final variety, with or without reference to its function (male or female), and accompanied by the word "component";
@@ -53,7 +51,8 @@ C. Seed mixtures
 (b) Minimum dimensions of the label is 110mm x 67mm.
 (c) The label shall be coloured green.
 D. Seed not finally certified or harvested in another Member State
-(1) (a) Required information for the label  Authority responsible for field inspection and Member State or their distinguishing abbreviations,
+(1) (a) Required information for the label
+ Authority responsible for field inspection and Member State or their distinguishing abbreviations,
  Officially assigned serial number,
  Species, indicated at least under its botanical name, which may be given in an abridged form and without the authors' names, in Latin characters,
  Variety, indicated at least in Latin characters (in the case of inbred lines and hybrids which are intended solely as components for hybrid varieties, the word "component" shall be added),
@@ -64,8 +63,7 @@ D. Seed not finally certified or harvested in another Member State
 In certain circumstances, the requirement to indicate the botanical name in respect of individual species may be disregarded and, where appropriate, for limited periods where it has been established that the disadvantages of its implementation outweigh the advantages expected for the marketing of seed.
 (b) The label shall be coloured grey.
 (2) Required information for the document
- Authority issuing the document,
- Officially assigned serial number,
+ Authority issuing the document,  Officially assigned serial number,
  Species, indicated at least under its botanical name, which may be given in an abridged form and without the authors' names, in Latin characters,
  Variety, indicated at least in Latin characters,
  Category,
@@ -116,7 +114,8 @@ C. Commercial seed
  "Commercial seed (not certified as to variety)",
  Supervising authority and Member State or their distinguishing abbreviations,
  Officially assigned serial number,
- Reference number of lot,  Month and year of sealing expressed thus: "sealed …. (month and year)" or month and year of the last official sampling for the purposes of certification expressed thus: "sampled .… (month and year)",
+ Reference number of lot,
+ Month and year of sealing expressed thus: "sealed …. (month and year)" or month and year of the last official sampling for the purposes of certification expressed thus: "sampled .… (month and year),
  Species, indicated at least under its botanical name, which may be given in abridged form and without the authors' names, in Latin characters,
  Area of production,
  Declared net or gross weight, or declared number of pure seeds,
@@ -131,22 +130,21 @@ D. Seed mixtures
  Authority responsible for sealing and Member State or their distinguishing abbreviations,
  Officially assigned serial number,
  Reference number of lot,
- Month and year of sealing expressed thus: "sealed …. (month and year)",
+ Month and year of sealing expressed thus: "sealed …. (month and year),
  Percentage by weight of the various components shown by species and, where appropriate, by variety, both indicated at least in Latin characters; it is sufficient to give the name of the mixture if the percentage by weight has been notified in writing to the purchaser and officially recorded,
  Declared net or gross weight, or declared number of seeds,
  Where weight is indicated and granulated pesticides, pelleting substances or other solid additives are used, the nature of the additive and the approximate ratio between the weight of pure seeds and the total weight,
  Where at least germination of all the components of the mixture has been retested, the words "retested …. (month and year)" and the service responsible for such retesting may be indicated. Such information may be given on an official sticker attached to the official label.
 (b) Minimum size of the label is 110mm x 67mm.
 (c) The label shall be coloured green.
-"E. Seed not finally certified or harvested in another Member State
+E. Seed not finally certified or harvested in another Member State
 (1) (a) Required information for the label
  Authority responsible for field inspection and Member State or their distinguishing abbreviations,
  Officially assigned serial number,
  Species, indicated at least under its botanical name, which may be given in an abridged form and without the authors' names, in Latin characters,
  Variety, indicated at least in Latin characters,
  Category,
- Field or lot reference number,
- Declared net or gross weight,
+ Field or lot reference number,  Declared net or gross weight,
  The words "seed not finally certified".
 In certain circumstances, the requirement to indicate the botanical name in respect of individual species may be disregarded and, where appropriate, for limited periods where it has been established that the disadvantages of its implementation outweigh the advantages expected for the marketing of seed.
 (b) The label shall be coloured grey.
@@ -155,7 +153,8 @@ In certain circumstances, the requirement to indicate the botanical name in resp
  Officially assigned serial number,
  Species, indicated at least under its botanical name, which may be given in an abridged form and without the authors' name, in Latin characters,
  Variety, indicated at least in Latin characters,
- Category,  Reference number of the seed used to sow the field and name of the country or countries which certified the seed,
+ Category,
+ Reference number of the seed used to sow the field and name of the country or countries which certified the seed,
  Field or lot reference number,
  Area cultivated for the production of the lot covered by the document,
  Quantity of seed harvested and number of packages,
@@ -196,7 +195,8 @@ A. Pre-basic seed
 (a) Required information for the label
  Certification authority and Member State or their distinguishing abbreviations,
  Officially assigned serial number,
- Producer's identification number or reference number of lot,  Month and year of sealing,
+ Producer's identification number or reference number of lot,
+ Month and year of sealing,
  Species, indicated at least under its botanical name, which may be given in an abridged form and without the authors' names, or its common name, or both, in Latin characters,
  Variety, indicated at least in Latin characters,
  "Pre-basic seed",
@@ -207,8 +207,7 @@ B. Basic and certified seed
 (a) Required information for the label
  "EC rules and standards",
  Certification authority and Member State or their distinguishing abbreviations,
- Officially assigned serial number,
- Producer's identification number or reference number of lot,
+ Officially assigned serial number,  Producer's identification number or reference number of lot,
  Month and year of sealing,
  Species, indicated at least under its botanical name, which may be given in an abridged form and without the author's names, or its common name, or both, in Latin characters,
  Variety, indicated at least in Latin characters,
@@ -220,7 +219,8 @@ B. Basic and certified seed
 (c) The label shall be coloured white for basic seed and blue for certified seed.
 C. Supplier's label for basic and certified seed
 (a) Required information for the label
- "EC rules and standards",  Name and address of the person responsible for affixing the labels or his identification mark,
+ "EC rules and standards",
+ Name and address of the person responsible for affixing the labels or his identification mark,
  Month and year of sealing,
  Species, indicated at least under its botanical name, which may be given in an abridged form and without the authors' names, or its common name, or both, in Latin characters,
  Variety, indicated at least in Latin characters,
@@ -270,8 +270,7 @@ C. Seeds not finally certified or harvested in another Member State
  Authority responsible for field inspection and Member State or their distinguishing abbreviations,
  Officially assigned serial number,
  Species, indicated at least under its botanical name, which may be given in an abridged form and without the authors' names, or under its common name, or both, in Latin characters,
- Variety, indicated at least in Latin characters,
- Category,
+ Variety, indicated at least in Latin characters,  Category,
  Field or lot reference number,
  Declared net or gross weight,
  The words "seed not finally certified".
@@ -294,8 +293,7 @@ D. Supplier's label or inscription on packages of standard seed (excluding small
  Name and address of the person responsible for affixing the labels or his identification mark,
  Marketing year of the sealing or of the last examination of germination (the end of the marketing year may be indicated),
  Species, indicated at least in Latin characters,
- Variety, indicated at least in Latin characters,
- Category: indicated with the letters "ST",
+ Variety, indicated at least in Latin characters,  Category: indicated with the letters "ST",
  Reference number given by the person responsible for affixing the labels,
  Declared net or gross weight, or declared number of seeds,
  Where weight is indicated and granulated pesticides, pelleting substances or other solid additives are used, the nature of the additive and also the approximate ratio between the weight of clusters of pure seed and the total weight.
