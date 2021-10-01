@@ -1,5 +1,5 @@
-## FIRST SCHEDULE
-# first-schedule
+## SCHEDULE
+# schedule
 (Articles 2 and 11)
 Departments of Education
 Department for Curriculum, Lifelong Learning & Employability;
