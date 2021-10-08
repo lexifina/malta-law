@@ -1,20 +1,23 @@
 ## SIXTEENTH SCHEDULE
-## Applicability of Sixteenth Schedule.
+## Applicability of the Sixteenth Schedule.
+## Interpretation.
 ## Minimum technical parameters.
 # sixteenth-schedule
 (Regulation 3)
-General Authorisation for Apparatus used for the safety related
-applications of Intelligent Transport Systems
-1. This Schedule applies to any person installing or using apparatus used for the safety related applications of Intelligent Transport systems or any apparatus intended to be used as a component part of that apparatus.
-2. The minimum technical parameters of apparatus used for the safety related applications of Intelligent Transport Systems operating in the frequency band 5875-5905 MHz shall be those specified in the Annex to this Schedule.
+General Authorisation for apparatus used for the safety related applications
+of Intelligent Transport Systems (ITS) in the 5.9 GHz frequency band
+1. This General Authorisation applies to any person installing or using apparatus used for the safety related applications of Intelligent Transport Systems capable of operating in the 5.9 GHz frequency band or any apparatus intended to be used as a component part of that system.
+2. In this Schedule unless the context otherwise requires:
+"5.9 GHz" means the frequency band between 5875 MHz and 5935 MHz;
+"intelligent transport systems" or "ITS" means a range of systems and services, based on information and communications technologies, including processing, control, positioning, communication and electronics, that are applied to a road transportation system or an urban rail transportation system, or both; and
+"road intelligent transport systems" or "road ITS" means intelligent transport systems applied to any kind of road-based transport (including in off-road use cases) that enable safety communications between vehicles (V2V) and between infrastructure and vehicles (I2V).
+3. The minimum technical parameters of ITS shall be those specified in the Annex to this Schedule. [S.L.399.40 74 (RADIOCOMMUNICATIONS APPARATUS)
 ANNEX TO THE SIXTEENTH SCHEDULE
-(Paragraph 2 of the Sixteenth Schedule)
-Minimum Technical Parameters of apparatus used for the safety
-related applications of Intelligent Transport Systems
-Parameter Value Operating frequency range 5875 - 5905 MHz Maximum Spectral power 23 dBm/MHz density (mean e.i.r.p.) Maximum total transmit 33 dBm power (mean e.i.r.p.) Channel access a n d Techniques to mitigate interference occupational rules that provide at least equivalent
-performance to the techniques described in harmonised standards adopted under Directive 2014/53/ EU must be used. These require a transmitter power control (TPC)
-range of at least 30 dB.
+(Paragraph 3 of the Sixteenth Schedule)
+Minimum Technical Parameters for apparatus used for the safety related
+applications of Intelligent Transport Systems (ITS) in the 5.9 GHz
+frequency band
+[S.L.399.40 (RADIOCOMMUNICATIONS APPARATUS) 75
 - Added by: L.N. 98 of 2010.
 - Amended by: L.N. 224 of 2011.
-- Amended by: L.N. 224 of 2011.
-- Amended by: L.N. 420 of 2018.
+- Substituted by: L.N. 381 of 2021.

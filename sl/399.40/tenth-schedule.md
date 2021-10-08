@@ -14,7 +14,7 @@ intended to be used as a component of that apparatus.
 portable radiocommunications apparatus that uses integral antennas only in order to maximise sharing and minimise interference.
 3. (1) PMR 446 radiocommunications apparatus shall operate
 in peer-to-peer mode and shall not be used as part of an infrastructure network or as a repeater.
-[S.L.399.40 (RADIOCOMMUNICATIONS APPARATUS) 37
+[S.L.399.40 (RADIOCOMMUNICATIONS APPARATUS) 47
 (2) The minimum technical parameters of PMR 446 radiocommunications apparatus shall be those specified in the Annex to this Schedule.
 ANNEX TO THE TENTH SCHEDULE
 (Paragraph 3 of the Tenth Schedule)

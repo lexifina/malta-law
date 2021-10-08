@@ -33,7 +33,7 @@ frequency limit or usage
 standard
 restrictions
 26.975, 26.995 100 mW e.r.p. Channel EN 300 220 27.025, 27.045, spacing:10 kHz 27.075, 27.095, 27.125, 27.145, 27.175, 27.195 27.225, 27.245 MHz
-[S.L.399.40 (RADIOCOMMUNICATIONS APPARATUS) 33
+[S.L.399.40 (RADIOCOMMUNICATIONS APPARATUS) 43
 Informative
 Mandatory Parameters
 Parameters

@@ -10,6 +10,6 @@ devices
 ANNEX TO THE EIGHTH SCHEDULE
 (Paragraph 3 of the Eighth Schedule)
 Minimum Technical Parameters of High duty cycle/continuous
-transmission devices [S.L.399.40 36 (RADIOCOMMUNICATIONS APPARATUS)
+transmission devices [S.L.399.40 46 (RADIOCOMMUNICATIONS APPARATUS)
 - Amended by: L.N. 224 of 2011.
 - Substituted by: L.N. 420 of 2018.
