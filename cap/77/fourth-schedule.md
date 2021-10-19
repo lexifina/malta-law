@@ -14,6 +14,8 @@ The Malta Financial Services Authority.
 The Commissioner for Voluntary Organisations.
 The Identity Malta Agency.
 The Directorate (Child Protection).
+The Directorate Alternative Care (Children and Youths).
+Aġenzija Sedqa.
 - Added by: XXIV. 2010.9.
 - Substituted by: L.N. 265 of 2012.
-- Amended by: L.N. 52 of 2015; XVI.2018; Fourth Schedule; L.N. 294 of 2018; L.N. 144 of 2019; L.N. 239 of 2020; L.N. 409 of 2020; L.N. 16 of 2021.
+- Amended by: L.N. 52 of 2015; XVI.2018; Fourth Schedule; L.N. 294 of 2018; L.N. 144 of 2019; L.N. 239 of 2020; L.N. 409 of 2020; L.N. 16 of 2021; L.N. 391 of 2021.
