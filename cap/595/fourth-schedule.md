@@ -48,9 +48,11 @@ To inform and engage citizens in the EU Servizzi Ewropej f'Malta processes throu
 information and assistance on EU funding programmes. Servizz.gov Agency To carry out functions related to the
 provision of access to as many as possible of Government services to as many as possible service users, in partnership with the responsible Departments and Government entities, through the Servizz.gov regional-based hubs, multi-channel,
 one-stop service
+Tourism Zones To regenerate coastal tourism resorts Regeneration Agency and town centre management in
+touristic areas.
 Valletta Cultural Agency To perform functions based on the
 legacy of the Valletta 2018 Foundation Victim Support Agency To exercise and execute the functions
 and duties relating to victim support in liaison with other pertinent Agencies and Government Departments. International Protection To receive, process and determine Agency applications for international protection
 as well as ensuring an independent, fair and efficient asylum determination
 procedure
-- Amended by: XXVIII. 2018.42; L.N.121 of 2019; L.N. 192 of 2019; L.N. 197 of 2019; L.N. 2 of 2020; L.N. 194 of 2020; L.N. 344 of 2020; L.N. 418 of 2020; L.N. 436 of 2020; L.N. 445 of 2020; L.N. 453 of 2020; L.N. 7 of 2021; L.N. 124 of 2021.
+- Amended by: XXVIII. 2018.42; L.N.121 of 2019; L.N. 192 of 2019; L.N. 197 of 2019; L.N. 2 of 2020; L.N. 194 of 2020; L.N. 344 of 2020; L.N. 418 of 2020; L.N. 436 of 2020; L.N. 445 of 2020; L.N. 453 of 2020; L.N. 7 of 2021; L.N. 124 of 2021; L.N. 399 of 2021.
