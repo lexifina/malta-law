@@ -21,6 +21,4 @@ are intact,
 - vehicle unladen, in normal running order
 - tyre pressures in accordance with the manufacturer's instructions,
 - tyre wear within the limits allowed by law,
-- movement of the vehicle: the vehicle must proceed, driven by its own
-engine, in a straight line and on a level surface, at a speed of 50 ± 5 km/ h; provided that it is of comparable accuracy, the test may also be carried out on an appropriate test bench.
-- Amended by: L.N. 348 of 2005.
+- movement of the vehicle: the vehicle must proceed, driven by its own engine, in a straight line and on a level surface, at a speed of 50 ± 5 km/ h; provided that it is of comparable accuracy, the test may also be carried out on an appropriate test bench.

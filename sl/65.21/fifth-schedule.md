@@ -8,4 +8,3 @@ OF IMPROVING ENERGY EFFICIENCY
 (b) their use on urban and inter urban road infrastructures shall take into account the special characteristics of areas where the speed limit is less than or equal to 50 km/h and where vulnerable road users are more likely to be present; and
 (c) their use shall be compatible with intermodal transport operations and, in particular, when retracted/folded, they shall not exceed the maximum authorised length by more than 20 cm.
 3. Before being placed on the market, the vehicles referred to in regulation 12B(1) shall be approved in accordance with the rules on type-approval within the framework of Directive 2007/46/EC.
-- Added by: L.N. 422 of 2016.
