@@ -3,4 +3,4 @@ MOTOR VEHICLES (WEIGHTS, DIMENSIONS
 AND EQUIPMENT) REGULATIONS
 11th July, 2003;
 1st May, 2004
-LEGAL NOTICE 162 of 2003, as amended by Legal Notices 348 of 2005, 345 and 408 of 2007, 215 and 261 of 2011, 426 of 2012 and 422 of 2016.
+LEGAL NOTICE 162 of 2003, as amended by Legal Notices 348 of 2005, 345 and 408 of 2007, 215 and 261 of 2011, 426 of 2012, 422 of 2016 and 397 of 2021.
