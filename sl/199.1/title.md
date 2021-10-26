@@ -1,4 +1,4 @@
 SUBSIDIARY LEGISLATION 199.01
 AGRICULTURAL LEASES REGULATIONS
 21st June, 1967
-LEGAL NOTICE 41 of 1967, as amended by Legal Notices 35 of 1972, 139 and 200 of 2000, and 410 of 2007; Act XIII of 2015 and Legal Notice 246 of 2019.
+LEGAL NOTICE 41 of 1967, as amended by Legal Notices 35 of 1972, 139 and 200 of 2000, and 410 of 2007; Act XIII of 2015, Legal Notices 246 of 2019 and 401 of 2021.
