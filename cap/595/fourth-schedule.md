@@ -9,9 +9,6 @@ Aġenzija SAPPORT To exercise and execute the functions
 and duties previously exercised by the Aġenzija SAPPORT within the Foundation for Social Welfare Services, as well as any other matter falling within the ambit of the support and care of persons with disability Aġenzija Żgħażagħ To mainstream youth policy and to
 replace the existing Youth Section by providing youth services on behalf of the
 Government
-Building and Responsible for all processes related to Construction Agency the change in management required in
-the enforcement of national building
-code
 Correctional Services To oversee the implementation of Agency national legislation and policy
 concerning Correctional Services, as well as to oversee the policy and strategy for the running of the Correctional Services Court Services Agency to execute the functions and duties in
 relation to the provision of court services in Malta and in Gozo. Governance of The registration of agricultural Agricultural bioresources and to promote Bioresources Agency governance, management and
@@ -55,4 +52,4 @@ legacy of the Valletta 2018 Foundation Victim Support Agency To exercise and exe
 and duties relating to victim support in liaison with other pertinent Agencies and Government Departments. International Protection To receive, process and determine Agency applications for international protection
 as well as ensuring an independent, fair and efficient asylum determination
 procedure
-- Amended by: XXVIII. 2018.42; L.N.121 of 2019; L.N. 192 of 2019; L.N. 197 of 2019; L.N. 2 of 2020; L.N. 194 of 2020; L.N. 344 of 2020; L.N. 418 of 2020; L.N. 436 of 2020; L.N. 445 of 2020; L.N. 453 of 2020; L.N. 7 of 2021; L.N. 124 of 2021; L.N. 399 of 2021.
+- Amended by: XXVIII. 2018.42; L.N.121 of 2019; L.N. 192 of 2019; L.N. 197 of 2019; L.N. 2 of 2020; L.N. 194 of 2020; L.N. 344 of 2020; L.N. 418 of 2020; L.N. 436 of 2020; L.N. 445 of 2020; L.N. 453 of 2020; L.N. 7 of 2021; L.N. 124 of 2021; L.N. 399 of 2021; L.N. 412 of 2021.
