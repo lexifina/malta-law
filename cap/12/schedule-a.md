@@ -209,16 +209,7 @@ Organization and Civil Procedure but for which no fee is established in these Ta
 the relative act and the Registrar shall not accept for filing any act of procedure which is not accompanied by the relative fee.
 (2) The assessment of the Registrar on the amount of fees to be paid shall be final.
 (3) In assessing the fees laid down in this Tariff no account shall be taken of any fraction of €1. 16 (a) In actions for personal separation, divorce,
-annulment, maintenance, filiation, paternity, child
-abduction or custody, relating to the civil status of
-a person, relating to human rights or relating to
-general elections and in actions of possession and
-jactitation suits or concerning personal injury,
-claims for the payment of wages or claims for
-unjust dismissal from employment, all the fees
-provided for in this Tariff shall be rebated by ......... 50%
-The same shall apply in actions relating to the
-execution of a promise of sale or of a promise of
+annulment, maintenance, filiation, paternity, child abduction or custody, relating to the civil status of a person, relating to human rights or relating to general elections and in actions of possession and jactitation suits or concerning personal injury, claims for the payment of wages or claims for unjust dismissal from employment, all the fees provided for in this Tariff shall be rebated by ......... 50% The same shall apply in actions relating to the execution of a promise of sale or of a promise of
 transfer both of movable or immovable property.
 (b) No fees shall be due for any act filed by a curator
 ex officio acting in that capacity.
@@ -229,7 +220,19 @@ Jurisdiction
 answer thereto, not being an application or
 answer indicated in any of the following
 paragraphs of this Tariff ................................... €15
-Provided that the above fee shall include the filing of all other acts of procedure and court services (including but not limited to the filing of all procedural acts, examination of witnesses, preparation and publication of notices, banns and edicts, copies of decrees, taxation of fees and the like) required following the initiation of proceedings through the said application up to and including the final decree but excluding any fees due to referees or experts appointed by the Court or any fees which the Court may be required to pay to third parties.
+Provided that the above fee shall include the
+filing of all other acts of procedure and court
+services (including but not limited to the filing
+of all procedural acts, examination of
+witnesses, preparation and publication of
+notices, banns and edicts, copies of decrees,
+taxation of fees and the like) required following
+the initiation of proceedings through the said
+application up to and including the final decree
+but excluding any fees due to referees or
+experts appointed by the Court or any fees
+which the Court may be required to pay to third
+parties.
 2 For the presentation of every secret will ........... €50
 3 For any obligation entered in the records of the
 Court:
@@ -246,7 +249,10 @@ taxation of fees:
 (i) registry fee ...................................... €50
 (ii) fee due to the referee appointed by
 the Court .......................................... €120
-Provided that the Court may order that a higher fee be paid to the referee appointed by the Court if it deems that the work involved so warrants.
+Provided that the Court may order that a higher
+fee be paid to the referee appointed by the
+Court if it deems that the work involved so
+warrants.
 5 For the examination of accounts:
 (i) registry fee ...................................... €70
 (ii) fee due to the expert appointed by
@@ -272,7 +278,9 @@ Tariff do not include fees and expenses due to Court appointed experts and to th
 indicated in the Code of Organization and Civil Procedure but for which no fee is established in these Tariffs ...................................................... €15
 Provided that fees for services or acts not specifically provided for in this Tariff but provided for in other Tariffs shall be taxed according to those Tariffs but rebated by .......... 75%
 10 (1) For every notification of an act of
-procedure, including expenses incurred in the execution of such notification, the following fees shall be due:
+procedure, including expenses incurred in the
+execution of such notification, the following
+fees shall be due:
 (i) registry fee ...................................... €2.50
 (ii) fee due to the executive officer
 effecting service .............................. €0.60
@@ -611,7 +619,6 @@ TARIFF G
 Fees payable to Accountants and other Referees
 €
 1. The fee payable to accountants shall be taxed at one per centum (1%) on the amount of the subject matter of the references, subject to a minimum of €11.65 and a maximum of €2,329.37
-€
 2. To other experts, for any valuation:
 on the first €1,164.69 or part thereof ................. 11.65 on any further amount over €1,164.69, for every €100 or part thereof ....................................... 1.00 Provided that the fee shall in no case exceed €1,164.69.
 3. The fees prescribed in the preceding numbers of this Tariff shall include the remuneration for making the report, accounts and statements, for holding sittings, and for attendance in court and elsewhere where necessary, but they shall not include the expense necessary for carrying out the reference.
@@ -674,7 +681,8 @@ In this sub-paragraph the word "street" means any street and includes any road, 
 For every 46 metres or part thereof of the length of the street shown in the plan .................................. €4.66
 (d) Levels: Where spot levels with or without contours are required the fees payable under sub-paragraphs (a),
 (b) and (c) shall be increased by:
-150% if levels are taken at intervals of ........................ 1.5 metres 100% if levels are taken at intervals of ........................ 3 metres 90% if levels are taken at intervals of ........................... 6 metres 80% if levels are taken at intervals of ........................... 9 metres 70% if levels are taken at intervals of ........................... 12 metres 60% if levels are taken at intervals of ........................... 15 metres 50% if levels are taken at intervals of ........................... 18 metres 40% if levels are taken at intervals of ........................... 21.5 metres 30% if levels are taken at intervals of .......................... 24.5 metres 20% if levels are taken at intervals of ........................... 27.5 metres 10% if levels are taken at intervals of ........................... 30.5 metres 2. Survey and Plotting of Buildings
+150% if levels are taken at intervals of ........................ 1.5 metres 100% if levels are taken at intervals of ........................ 3 metres 90% if levels are taken at intervals of ........................... 6 metres 80% if levels are taken at intervals of ........................... 9 metres 70% if levels are taken at intervals of ........................... 12 metres 60% if levels are taken at intervals of ........................... 15 metres 50% if levels are taken at intervals of ........................... 18 metres 40% if levels are taken at intervals of ........................... 21.5 metres 30% if levels are taken at intervals of .......................... 24.5 metres 20% if levels are taken at intervals of ........................... 27.5 metres 10% if levels are taken at intervals of ........................... 30.5 metres
+2. Survey and Plotting of Buildings
 (a) Buildings of simple disposition and regular in plan:
 (i) if of not more than 6 areas ............ €5.82
 (ii) if of more than 6 areas, the above
@@ -736,12 +744,7 @@ Notes: (1) The fees specified in this paragraph shall not cover constant supervi
 11. Fees in cases when the Perit Abandons or is Abandoned by the Client or Works remain Unexecuted
 1. If a project referred to in paragraph 10 of this Tariff or part thereof is abandoned or if the perit abandons or is abandoned by the client:
 (a) after the perit has taken the client's
-instructions, prepared preliminary
-sketch designs sufficient to indicate the
-interpretation by the perit of the client's
-instructions and made an approximate
-estimate of the cost of the project, the
-fee shall amount to one-third (1/3) of the
+instructions, prepared preliminary sketch designs sufficient to indicate the interpretation by the perit of the client's instructions and made an approximate estimate of the cost of the project, the fee shall amount to one-third (1/3) of the
 fees specified in paragraph 10;
 (b) after the perit has taken the client's
 instructions, prepared sketch designs, made an approximate estimate of the cost, submitted applications for building and/or other licences, and prepared working drawings and specifications, the fee shall amount to two-thirds (2/3) of
@@ -755,7 +758,10 @@ When building work has been executed wholly or in part with old material or wher
 (a) surveying sites of buildings and taking
 levels;
 (b) altering drawings or preparing new
-drawings and for other services made necessary by variations or additions required by the client after the original drawings have been approved by him;
+drawings and for other services made
+necessary by variations or additions
+required by the client after the original
+drawings have been approved by him;
 (c) the assessment of compensation due for
 rendering party walls common;
 (d) measuring and pricing executed works.
