@@ -5,7 +5,8 @@ STATUTES, REGULATIONS AND BYE-LAWS
 A - STATUTES
 Statute 1 - GENERAL
 1.1 Official Languages
-Maltese and English shall be the official languages of the University. The University administration may use either language for official purposes. 1.2 Compulsory Subjects for Admission
+Maltese and English shall be the official languages of the University. The University administration may use either language for official purposes.
+1.2 Compulsory Subjects for Admission
 Maltese and English shall be compulsory subjects for admission to the degree and diploma courses of the University:
 Provided that the Senate may by regulations allow candidates in special circumstances to offer other subjects instead.
 1.3 Entry Requirements: Period of Notice
@@ -155,21 +156,27 @@ basis as Visiting External Professors by the Rector.
 the University immediately after the members of Senate.
 10. University Fellows
 University Fellows may be appointed by Council in accordance with procedure approved by Council on the recommendation of Senate as follows:
-(a) Honorary Fellows, where the University wants to confer such honour on deserving individuals;
-(b) Senior Fellows, in the case of retiring members of staff to enable them to carry on with their research contributions at the University;
-(c) Visiting Fellows, in the case of senior foreign or local scholars of professional rank or distinction.
+(a) Honorary Fellows, where the University wants to confer such honour on
+deserving individuals;
+(b) Senior Fellows, in the case of retiring academic members of staff of
+professorial rank to enable them to carry on with their research contributions at the University;
+(c) Visiting Fellows, in the case of senior foreign or local scholars of
+professional rank or distinction;
+(d) Fellows, in the case of retiring members of staff, not of professorial rank, to
+enable them to carry on with their research contributions at the University.
 11. Rector Emeritus
 (a) A former Rector may be appointed Rector Emeritus by a resolution of Council;
 (b) Rector Emeriti shall take precedence in all public ceremonies of the University as the most senior of the Emeritus Professors after the Chancellor Emeriti and will have the right to wear the appropriate academic robes.
 12. Chancellor Emeritus
 (a) A former Chancellor may be appointed Chancellor Emeritus by a resolution of Council;
-(b) Chancellor Emeriti shall take precedence in all public ceremonies of the University as the most senior of the Emeritus Professors and will have the right to wear the appropriate academic robes.
-Statute 8 - NON-ACADEMIC APPOINTMENTS AND PROMOTIONS
+(b) Chancellor Emeriti shall take precedence in all public ceremonies of the University as the most senior of the Emeritus Professors and will have the right to wear the appropriate academic robes. Statute 8 - NON-ACADEMIC APPOINTMENTS AND PROMOTIONS
 Citation
 1. The title of this statute is Statute 8 of the University of Malta - Appointments and Conditions of Employment of Administrative, Technical and Industrial Staff of the University of Malta.
 Appointments and Conditions of Employment of Administrative, Technical and Industrial Staff
 2. Appointments of administrative, technical and industrial staff shall be made by Council on the recommendation of Selection Boards appointed in accordance with procedures approved by Council from time to time.
 3. The conditions of employment of administrative, technical and industrial staff shall be regulated by the Collective Agreement which may be agreed upon from time to time between the University of Malta and the relevant union or unions, and any procedures which may be approved by Council from time to time.
+Honorary Fellows
+4. Honorary Fellows may be appointed by Council on the recommendation of Senate, where the University wants to confer such honour on deserving individuals, according to the Criteria for the Appointment of University Fellowships.
 Statute 9 - APPOINTMENT OF EXAMINERS
 (Deleted by Legal Notice 313 of 2015).
 Statute 10 - OFFICIAL PUBLICATIONS
@@ -185,8 +192,7 @@ Citation and interpretation
 "the Dean" means the Dean of a faculty or the Director of an institute, centre, or school of the University;
 "the Faculty" means a faculty, institute, centre, or school of the University;
 "the Senate" means the Senate of the University; and
-"the University" means the University of Malta.
-Applicability
+"the University" means the University of Malta. Applicability
 2. These regulations shall be applicable from September 2016 onwards.
 Courses
 3. The Courses are offered at the following levels:
