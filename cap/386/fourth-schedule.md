@@ -18,8 +18,7 @@ Definitions relating to reporting on payments to governments
 (f) licence fees, rental fees, entry fees and other considerations for licences and, or concessions; and
 (g) payments for infrastructure improvements;
 "large undertakings" and "public-interest entities" shall have the same meaning as defined in the Third Schedule and article 2 of this Act respectively.
-Contents of the report
-2. (1) Any payment, whether made as a single payment or as a series of related payments, need not be taken into account in the report if it is below EUR 100 000 within a financial year.
+Contents of the report 2. (1) Any payment, whether made as a single payment or as a series of related payments, need not be taken into account in the report if it is below EUR 100 000 within a financial year.
 (2) The report shall disclose the following information in relation to activities as described in the definitions "undertaking active in the extractive industry" and "undertaking active in the logging of primary forests" in respect of the relevant financial year:
 (a) the total amount of payments made to each government;
 (b) the total amount per type of payment as specified in paragraphs (a) to
@@ -46,4 +45,3 @@ Publication
 (2) The directors shall have responsibility for ensuring that, to the best of their knowledge and ability, the report on payments to governments is drawn up and published in accordance with the requirements of this Schedule.
 Equivalence criteria
 5. Undertakings referred to in article 213A and paragraph 3 of this Schedule that prepare and make public a report complying with third-country reporting requirements assessed, as equivalent to the requirements of this Schedule are exempt from the requirements of this Schedule except for the obligation to publish this report as laid down in paragraph 4(1) of this Schedule.
-- See XXXI. 2015.24..

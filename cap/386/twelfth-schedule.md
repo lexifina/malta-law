@@ -1,5 +1,6 @@
 ## TWELFTH SCHEDULE
-## Articles of Act
+## Articles of Ordinance
+## Articles of Commercial Partnerships (Special Provisions) Act, 1994
 # twelfth-schedule
 (Article 3)
 TABLE OF CONCORDANCE
