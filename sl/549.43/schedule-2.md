@@ -1,9 +1,8 @@
 ## SCHEDULE 2
-## Amended by: L.N. 152 of 2021.
 # schedule-2
-ESSENTIAL REQUIREMENTS ON THE COMPOSITIONAND THE
-REUSABLE AND RECOVERABLE,INCLUDING RECYCLABLE, NATURE
-OF PACKAGING
+ESSENTIAL REQUIREMENTS ON THE COMPOSITIONAND
+THE REUSABLE AND RECOVERABLE,INCLUDING
+RECYCLABLE, NATURE OF PACKAGING
 1. Requirements specific to the manufacturing and composition of packaging:
 - Packaging shall be so manufactured that the packaging volume and weight be
 limited to the minimum adequate amount to maintain the necessary level of safety, hygiene and acceptance for the packed product and for the consumer. Packaging shall be designed, produced and commercialised in such a way as to -permit its reuse or recovery, including recycling, in line with the waste hierarchy, and to minimise its impact on the environment when packaging waste or residues from packaging waste management operations are disposed of.
@@ -20,3 +19,4 @@ is no longer reused and thus becomes waste. 3. Requirements specific to the reco
 (c) Packaging recoverable in the form of composting Packaging waste processed for the purpose of composting shall be of such a biodegradable nature that it does not hinder the separate collection and the composting process or activity into which it is introduced.
 (d) Biodegradable packaging Biodegradable packaging waste shall be of such a nature that it is capable of undergoing physical, chemical, thermal or biological decomposition such that most of the finished compost ultimately decomposes into carbon dioxide, biomass and water.Oxo-degradable plastic packaging shall not be considered as biodegradable.
 [S.L.549.43 (PACKAGING AND PACKAGING WASTE) 31
+- Amended by: L.N. 152 of 2021.
