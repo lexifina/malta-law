@@ -1,6 +1,6 @@
 ## SECOND SCHEDULE
 # second-schedule
-(Article 8)
+(ARTICLE 8)
 List of Public Records
 1. Public records and archives to be preserved in any archival repository which falls under the responsibility of the National Archives are those records and archives created, received and maintained by:
 (a) the office of the President;
@@ -17,3 +17,5 @@ outside Malta and by any officer serving in such a post;
 (j) any other body or individual so designated by the Minister by regulation made in accordance with this Act.
 2. Records originated by the Ministry for Gozo, Gozo sections of government departments, and by public bodies established for Gozo shall be deposited at the Gozo Section of the National Archives.
 3. All public records and archives which at the time of the coming into force of this Act were in the custody of the National Archives of Malta shall be considered to be public records for the purposes of this Act.
+4. All registers of notarial deeds received by notaries residing in Malta and Gozo or Comino when these registers belong to the Government, or are privately owned but, for one reason or another, do not have a conservator or delegated notary, or when such registers are seized from the hands of such notaries for a good cause contemplated in this Act, shall be preserved in a repository of archives falling under the responsibility of the National Archives:
+Provided that all registers of notarial deeds received by notaries residing in Gozo or Comino shall be deposited in the Gozo section of the National Archives.
