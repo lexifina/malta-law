@@ -1,6 +1,6 @@
 ## SCHEDULE 15
 # schedule-15
-(regulations16 and 23)
+(Regulations16 and 23)
 Information in the statement of compliance
 The statement of compliance shall contain the following information:
 - name and address of the approved person who is issuing and signing the certificate;
