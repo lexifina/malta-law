@@ -7,10 +7,9 @@ Establishments or undertakings carrying out the following operations shall be ex
 1. Disposal or recovery of their own non-hazardous waste on the site of generation;
 2. Preliminary storage of waste pending collection, at the place of production.
 Part 2
-Activities excluded from the requirements laid down in regulation 19(1)
+* Activities excluded from the requirements laid down in regulation 19(1)
 3. Generation and management of waste at the household
-(1) The generation and management of household waste by the householder
-* generating that waste.
+(1) The generation and management of household waste by the householder generating that waste.
 (2) The generation of hazardous wastes in quantities typically found in household waste.
 (3) The storage of any wastes mentioned in (1) and (2) for recycling or disposal, for a period not longer than 1 calendar month.
 (4) The transport, by means of private cars, of any wastes mentioned in (1) and

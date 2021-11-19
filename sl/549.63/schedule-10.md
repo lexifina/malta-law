@@ -21,8 +21,7 @@ a description of the recovery operation applied in order to achieve the end-of-w
 Part B: Information to be contained in the statement of conformity
 The information to be contained in a statement of conformity is:
 - a signed declaration stating that the material that has ceased to be waste has met all the criteria and permit conditions set by the Authority.
-- details on whether the placement on the market for the first time after the
-* This refers to the classification of waste based on the European List of Waste - Commission Decision 2000/532/EC and Schedule 3 of these Regulations. material has ceased to be waste is in conformity with the relevant national, EU or international chemical and product related legislation;
+- details on whether the placement on the market for the first time after the material has ceased to be waste is in conformity with the relevant national, EU or international chemical and product related legislation;
 - quantity, in kilogram, of the material that is placed on the market for the first time after it has ceased to be waste;
 - the HS Code of the material if it is to be exported for use in another Member State or third country.
 - Amended by: L.N. 441 of 2011.
