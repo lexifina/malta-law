@@ -14,7 +14,6 @@ applicable
 - The details of the contact person to whom the competent authority shall
 address any communications
 - Details on the commercial nature of the producer (e.g. manufacturer,
-[S.L.549.43 (PACKAGING AND PACKAGING WASTE) 33
 importer or distance seller)
 - Type of packaging or packaging material placed on the market (sales
 packaging or grouped packaging or transport packaging)
@@ -31,7 +30,9 @@ market, by weight and by material during the specific reporting period in accord
 - Quantities of sales packaging or packaging material placed on the
 national market, by weight and by material during the specific reporting period in accordance with the reporting formats to be established by the competent authority;
 - Quantities of reusable packaging or packaging material placed on the
-national market, by weight and by material during the specific reporting period in accordance with the reporting formats to be established by the competent authority;
+national market, by weight and by material during the specific reporting period in accordance with the reporting formats to be established by the
+[S.L.549.43 (PACKAGING AND PACKAGING WASTE) 37
+competent authority;
 - Quantities of reusable sales packaging or packaging material placed on
 the national market, by weight and by material during the specific reporting period in accordance with the reporting formats to be established by the competent authority;
 - The number of rotations for all reusable packaging during the specific
@@ -42,7 +43,7 @@ specific reporting period multiplied by their mass in accordance with the report
 during the specific reporting period in accordance with the reporting formats to be established by the competent authority;
 - Quantities, by weight and by material, of collected packaging waste that
 has been recycled and recovered during the specific reporting period in accordance with the reporting formats to be established by the competent authority;
-- A signed declaration stating the information provided is true; [S.L.549.43 34 (PACKAGING AND PACKAGING WASTE)
+- A signed declaration stating the information provided is true;
 - The date of the application for renewal of registration;
 - An audit report referred to in sub-regulation (7) of regulation 22;
 - A statement of compliance referred to in sub-regulation (9) of
@@ -52,4 +53,4 @@ producer for the carrying out of the waste management operations;
 - An appropriate description of how the data has been compiled,
 including any explanation of any estimates used; and
 - Proof of reuse, recycling, recovery or incineration at waste incineration
-plants with energy recovery as well as disposal in accordance with regulation 15. Quantity of plastic carrier bags put on the national market, by weight -and by thickness during the specific reporting period;
+plants with energy recovery as well as disposal in accordance with regulation 15. Quantity of plastic carrier bags put on the national market, by weight -and by thickness during the specific reporting period; [S.L.549.43 38 (PACKAGING AND PACKAGING WASTE)

@@ -11,4 +11,4 @@ signing the certificate;
 certificate; and
 - Certification by the approved person as to whether the relevant producer
 has complied with his recovery and recycling obligations.
-- Added by: L.N.226 of 2017.
+[S.L.549.43 (PACKAGING AND PACKAGING WASTE) 45
