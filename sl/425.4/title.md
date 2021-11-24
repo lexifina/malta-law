@@ -2,3 +2,4 @@ SUBSIDIARY LEGISLATION 425.04
 SLIPWAY (USE) REGULATIONS
 10th March, 1970
 LEGAL NOTICE 28 of 1970, as amended by Legal Notice 31 of 1974.
+Repealed by Legal Notice 458 of 2021.
