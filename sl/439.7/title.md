@@ -1,4 +1,4 @@
 SUBSIDIARY LEGISLATION 439.07
 LAYING HENS (PROTECTION) REGULATIONS
 30th September, 2003
-LEGAL NOTICE 264 of 2003, as amended by Legal Notice 426 of 2007.
+LEGAL NOTICE 264 of 2003, as amended by Legal Notices 426 of 2007 and 457 of 2021.
