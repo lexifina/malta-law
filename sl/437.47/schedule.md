@@ -1,9 +1,6 @@
 ## SCHEDULE
-## *OJ L 228, 17.8.1991, p. 70. †OJ L 50, 20.2.2004, p. 44. ‡OJ L 50, 20.2.2004, p. 28. §OJ L 358, 18.12.1986, p. 1. ** OJ L 159, 27.6.2003, p. 1. ††OJ L 159, 27.6.2003, p. 24. ‡‡OJ L 106, 17.4.2001, p. 1.
-## * OJ L 311, 28.11.2001, p. 67.
-## *OJ L 11, 14.1.1978, p. 18.
-## *OJ C 24, 28.1.2004, p. 6.
-## * OJ L 325, 12.12.2003, p. 31.
+## *OJ L 136, 30.4.2004, p. 1.
+## *OJ L 226, 22.9.1995, p. 1.
 # schedule
 REQUIREMENTS AND ANALYTICAL PROTOCOL, SAFETY TESTS,
 PRE-CLINICAL AND CLINICAL FOR TESTS
@@ -1033,3 +1030,4 @@ The stability of the finished product shall be demonstrated. Stability data from
 Part 3
 The provisions of Part 3 shall apply to the simplified registration of homeopathic veterinary medicinal products referred to in regulation 17(1) with the following specification, without prejudice to the provisions of Regulation (EEC) No 2377/90 for substances included in the homeopathic stocks intended for administration to food-producing animal species.
 Any missing information must be justified, e.g. justification must be given why demonstration of an acceptable level of safety can be supported although some studies are lacking.
+- Substituted by: L.N. 360 of 2009.
