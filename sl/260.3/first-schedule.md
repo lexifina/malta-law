@@ -59,4 +59,3 @@ Reason for committal (indicate relevant provision of article 4 of the Prisons Ac
 Signed this ..................... day of ..............., ...........
 Signature of Police Officer
 Form C - Police
-- Amended by: L.N. 426 of 2012.
