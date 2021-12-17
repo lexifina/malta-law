@@ -26,6 +26,6 @@ via SMS:
 The personal information provided in this application form shall be processed in accordance with the provisions of the Data Protection Act (Cap. 586. of the Laws of Malta) and solely for the purpose(s) enshrined under the Criminal Injuries Compensation Scheme Regulations, 2012 and any other ancillary matter.
 Your personal information will not be disclosed to third parties without your express consent unless this is strictly required by law.
 You have the right to request access to your personal data as well as the right to rectify and where applicable, erase any inaccurate, incomplete or immaterial personal data processed by the Assisting Officer and/or the Claims Officer.
-* This application is to be forwarded, duly filled in and with the necessary accompanying documents, to the Assisting Officer at the Department of Justice, Chateau De La Ville, 21, Archbishop Street, Valletta
+* This application is to be forwarded, duly filled in and with the necessary accompanying documents, to the Assisting Officer, Department of Justice, 14, 16, 18, Market Street, Floriana FRN 1082.
 I do hereby authorise the Assisting Officer and/or the Claims Officer to process the data contained in this form for the above-stated purpose(s).
-- Amended by: L.N. 139 of 2016.
+- Amended by: L.N. 139 of 2016; L.N. 477 of 2021.
