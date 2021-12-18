@@ -10,7 +10,8 @@ ACRYLOYLFENTANYL, N-(1-phenethylpiperidin-4-yl)-N-phenylacrylamide
 AH-7921, (3,4-dichloro-N-[(1-(dimethylamino) cyclohexyl)methyl] benzamide)
 ALFENTANIL
 ALLYLPRODINE
-ALPHACETYLMETHADOL ALPHAMEPRODINE
+ALPHACETYLMETHADOL
+ALPHAMEPRODINE
 ALPHAMETHADOL
 ALPHAMETHYL FENTANYL
 ALPHAMETHYL THIOFENTANYL
@@ -26,7 +27,7 @@ BETAMETHADOL
 BETAPRODINE
 BEZITRAMIDE
 BUTYRFENTANYL, N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl]butanamide
-CANNABIS (Indian Hemp) - any extract or tincture thereof
+CANNABIS - any extract or tincture thereof
 CARFENTANIL, Methyl 1-(2-phenylethyl)-4- [phenyl(propanoyl)amino]piperidine-4-carboxylate
 CLONITAZENE
 COCAINE
@@ -42,7 +43,8 @@ DIFENOXIN
 DIHYDROMORPHINE
 DIMENOXADOL
 DIMEPHEPTANOL
-DIMETHYLTHIAMBUTENE DIOXAPHETYL BUTYRATE
+DIMETHYLTHIAMBUTENE
+DIOXAPHETYL BUTYRATE
 DIPHENOXYLATE
 DIPIPANONE
 DROTEBANOL
@@ -54,8 +56,7 @@ ETOXERIDINE
 FENTANYL
 4-FLUOROISOBUTYRFENTANYL (4-FIBF, pFIBF), N-(4- Fluorophenyl)-2-methyl-N-[1-(2-phenylethyl)piperidin-4-yl]propanamide
 FURANYLFENTANYL, N-phenyl-N-[1-(2-phenylethyl)piperidin-4-yl]furan-2-carboxamide
-FURETHIDINE
-HEROIN
+FURETHIDINE HEROIN
 HYDROCODONE
 HYDROMORPHINOL
 HYDROMORPHONE
@@ -73,7 +74,8 @@ METHADONE
 METHADONE - INTERMEDIATE
 METHOXYACETYLFENTANYL, 2-methoxy-N-phenyl-N-[1-(2-phenylethyl)piperidin-4-yl]acetamide
 METHYLDESORPHINE
-METHYLDIHYDROMORPHINE METHYLFENTANYL (CIS and TRANS ISOMERS)
+METHYLDIHYDROMORPHINE
+METHYLFENTANYL (CIS and TRANS ISOMERS)
 METHYLPHENYLPIPERIDOL PROPRIONATE (MPPP)
 METOPON
 MORAMIDE - INTERMEDIATE
@@ -87,8 +89,7 @@ NICOMORPHINE
 NORACYMETHADOL
 NORLEVORPHANOL
 NORMETHADONE
-NORMORPHINE
-NORPIPANONE
+NORMORPHINE NORPIPANONE
 OCFENTANIL, N-(2-Fluorophenyl)-2-methoxy-N-[1-(2-phenylethyl)piperidin-4-yl]acetamide
 ORIPAVINE (3-O-demethylthebaine or 6,7,8,14-tetradehydro- 4,5-alpha-epoxy-6-methoxy-17-methylmorphinan-3-ol)
 OXYCODONE
@@ -104,7 +105,8 @@ PHENADOXONE
 PHENAMPROMIDE
 PHENAZOCINE
 PHENETHYLPHENYLPIPERIDOL ACETATE (ESTER) (PEPAP)
-PHENOMORPHAN PHENOPERIDINE
+PHENOMORPHAN
+PHENOPERIDINE
 PIMINODINE
 PIRITRAMIDE
 PROHEPTAZINE
@@ -118,8 +120,7 @@ TAPENTADOL,(3-[(1R,2R)-3-(dimethylamino)-1-ethyl-2-methylpropyl]phenol
 TETRAHYDROFURANYLFENTANYL (THF-F), N-Phenyl-N- [1-(2-phenylethyl)piperidin-4-yl]oxolane-2-carboxamide
 THEBACON
 THEBAINE
-TILIDINE
-TRIMEPERIDINE
+TILIDINE TRIMEPERIDINE
 U-47700, 3,4-dichloro-N-(2-dimethylamino-cyclohexyl)-N-methyl-benzamide
 VALERYLFENTANYL, N-phenyl-N-[1-(2-phenylethyl)piperidin-4-yl]pentanamide
 The isomers, unless specifically excepted, of the drugs in this Part of the Schedule whenever the existence of such esters or ethers is possible;
@@ -142,5 +143,5 @@ ACETYLDIHYDROCODEINE CODEINE DIHYDROCODEINE ETHYLMORPHINE NICOCODINE NICODICODIN
 drug.
 8. Preparations conforming to any of the formulae listed in this Part of the Schedule and mixtures of such preparations with any material which contains no drug.
 - Added by: XXIII.1980.9.
-- Amended by: L.N. 32 of 1984; L.N. 58 of 1988; L.N. 49 of 1990; L.N. 93 of 1990; L.N. 148 of 2000; L.N. 373 of 2007; L.N. 331 of 2009; L.N. 49 of 2016; L.N. 359 of 2017; L.N. 360 of 2017; L.N. 43 of 2018; L.N. 230 of 2018; L.N. 389 of 2018; L.N. 189 of 2019; L.N. 119 of 2021; L.N. 120 of 2021.
+- Amended by: L.N. 32 of 1984; L.N. 58 of 1988; L.N. 49 of 1990; L.N. 93 of 1990; L.N. 148 of 2000; L.N. 373 of 2007; L.N. 331 of 2009; L.N. 49 of 2016; L.N. 359 of 2017; L.N. 360 of 2017; L.N. 43 of 2018; L.N. 230 of 2018; L.N. 389 of 2018; L.N. 189 of 2019; L.N. 119 of 2021; L.N. 120 of 2021; LXVI.2021.25.
 - See Cap. 31.

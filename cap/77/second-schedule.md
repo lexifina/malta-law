@@ -12,4 +12,3 @@ conviction
 (e) sentence of a fine (multa) .......................................... 6 months from date
 of payment of the
 fine.
-- Substituted by: XXII.1980.7.

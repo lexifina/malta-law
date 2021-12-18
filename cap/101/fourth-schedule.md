@@ -60,4 +60,4 @@ The following amounts involved in the offence, when the said amounts are known, 
 • heroin and cocaine: less than 100 grams
 • cannabis: less than 300 grams
 Assistance which the accused may have rendered to the Police or to the prosecution may also be taken into account.
-- Added by: XXIV. 2014.90.
+- Added by: XXIV. 2014.90; LXVI. 2021.25.
