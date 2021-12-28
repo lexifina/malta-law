@@ -30,7 +30,7 @@ a similar device;
 the Central Bank under the Central Bank of Malta Act;
 (c) Without prejudice to any applicable European Union or national law, and without prejudice to the provisions of article 5(6), business
 activities other than the provision of payment services;
-(d) Payment institutions may grant credit related to payment services referred to in paragraph (1)(d) or (e) of this Schedule only if the following requirements are met:
+(d) Payment institutions may grant credit related to payment services referred to in paragraph (2)(d) or (e) of this Schedule only if the following requirements are met:
 (i) the credit is ancillary and granted exclusively in connection with the
 execution of a transaction;
 (ii) notwithstanding national rules on providing credit by credit cards,
@@ -42,4 +42,4 @@ satisfaction of the competent authority, appropriate in view of the overall amou
 4. When payment institutions engage in the provision of one or more payment services, they may only hold payment accounts used exclusively for payment transactions.
 5. Any funds received by payment institutions from payment service users with a view to the provision of payment services shall not constitute a deposit or other repayable funds within the meaning of article 2 of the Banking Act, or electronic money within the meaning of article 2.
 - Added by: II. 2010.36.
-- Amended by: X. 2011.63; XXVI.2019.75.
+- Amended by: X. 2011.63; XXVI.2019.75; LXXI.2021.75.

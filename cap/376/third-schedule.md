@@ -10,7 +10,7 @@ Interpretation
 Activities
 2. In addition to issuing electronic money, electronic money institutions may also engage in any of the following activities:
 (a) the provision of payment services listed in paragraph 2 of the Second Schedule;
-(b) the granting of credit related to payment services referred to in paragraph 2(d), (e) and (g) of the Second Schedule, where the conditions laid down in paragraph 3(e) of the Second Schedule are met;
+(b) the granting of credit related to payment services referred to in paragraph 2(d) or (e) of the Second Schedule, where the conditions laid down in paragraph 3(d) of the Second Schedule are met;
 (c) the provision of operational services and closely related ancillary services in respect of the issuing of electronic money or to the provision of payment services referred to in point (a);
 (d) the operation of payment systems as defined in the Second Schedule;
 (e) business activities other than the issuance of electronic money, having

@@ -17,4 +17,3 @@ ACTIVITIES OF FINANCIAL INSTITUTIONS
 8. Underwriting share issues and participation in such issues;
 9. Money broking;
 10. Issuing of electronic money as defined in the Third Schedule.
-- Substituted by: II. 2010.35; X. 2011.62; XXVI.2019.74.
