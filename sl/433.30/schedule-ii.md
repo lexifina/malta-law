@@ -14,7 +14,8 @@ The previous cropping of the field shall not have been incompatible with the pro
 4. Field and crop inspections
 The satisfaction of all the standards or other conditions mentioned in this Schedule, shall, in the case of basic seed, be examined in official field inspections and, in the case of certified seed, be examined either in official field inspections or in inspections carried out under official supervision.
 These field inspections shall be carried out in accordance with the following conditions:
-(a) The condition and the stage of development of the crop shall permit an adequate examination;
+(a) The condition and the stage of development of the crop shall permit
+an adequate examination;
 (b) The number of field inspections shall be at least:
  for Avena nuda, Avena sativa, Avena strigosa, Hordeum
 vulgare, Phalaris canariensis, xTriticosecale, Triticum aestivum subsp. aestivum, Triticum turgidum subsp. durum, Triticum aestivum subsp. spelta, Secale cereale: 1
@@ -25,6 +26,7 @@ season: - open-pollinated varieties
 3
 When the crop follows a Sorghum spp. and Zea mays crop in either the preceding year or current year, at least one special field inspection shall be carried out to check the satisfaction of the provisions laid down in point 3 mentioned previously in this Schedule.
 The size, the number and the distribution of the portions of the field to be inspected in order to examine the satisfaction of the provisions of this Schedule, shall be determined in accordance with appropriate methods.
+In the case where, following the implementation of points 1., 4. and A.1, there is still doubt as to the varietal identity of the seed, the certification authority may use, for the examination of that identity, an internationally recognised and reproducible biochemical or molecular technique, in accordance with the applicable international standards.
 A. Basic seed and certified seed
 1. Varietal identity and varietal purity
 As indicated in point 1 previously, the crop shall possess sufficient varietal identity and purity. In the case of a crop of an inbred line, sufficient identity and purity as regards its characteristics must be present.
@@ -77,7 +79,8 @@ Table 1.6:
 Minimum
 Crop
 distance
-1 2 Phalaris canariensis, and Secale cereale other than hybrids: - for the production of basic seed 300m - for the production of certified seed 250m Sorghum spp. - for the production of basic seed (*) 400m - for the production of certified seed (*) 200m x Triticosecale, self-pollinating varieties: - for the production of basic seed 50m - for the production of certified seed 20m Zea mays 200m
+1 2 Phalaris canariensis, and Secale cereale other than hybrids: - for the production of basic seed 300m - for the production of certified seed 250m Sorghum spp. - for the production of basic seed (*) 400m - for the production of certified seed (*) 200m x Triticosecale, self-pollinating varieties: - for the production of basic seed 50m
+- for the production of certified seed 20m Zea mays 200m
 (*) In the areas where the presence of S. halepense or S. bicolor subsp. drummondii is a particular cross-pollination issue, the following shall apply:
 (a) crops to produce basic seed of Sorghum bicolor subsp. bicolor or its hybrids must be isolated not less than 800 m from any source of such contaminating pollen;
 (b) crops to produce certified seed of Sorghum bicolor subsp. bicolor or its hybrids must be isolated not less than 400 m from any source of such contaminating pollen.
@@ -169,6 +172,8 @@ These field inspections shall be carried out in accordance with the following co
 development and condition of the crop shall permit an adequate examination; and
  There shall be at least one field inspection.
 The size, the number and the distribution of the portions of the field to be inspected in order to examine the satisfaction of the provisions of this Schedule, shall be determined in accordance with appropriate methods.
+4.a In the case where, following the implementation of points 1. and 4., there is
+still doubt as to the varietal identity of the seed, the certification authority may use, for the examination of that identity, an internationally recognised and reproducible biochemical or molecular technique, in accordance with the applicable international standards.
 5. Isolation distances
 The crop shall conform to the following standards shown in Table 1.9 as regards distances from neighbouring sources of pollen which may result in undesirable foreign pollination.
 Table 1.9:
@@ -237,11 +242,11 @@ potatoes potatoes
 Symptoms of virus infection 4.0% 10.0%
 4. The maximum number of generations of basic seed potatoes shall be four, and the combined generations of pre-basic seed potatoes in the field and basic seed potatoes shall be seven.
 The maximum number of generations of certified seed potatoes shall be two.
-If the generation is not indicated on the official label, the seed potatoes concerned shall be considered as belonging to the maximum generation that is permitted within the respective category.
-2. Vegetables
+If the generation is not indicated on the official label, the seed potatoes concerned shall be considered as belonging to the maximum generation that is permitted within the respective category. 2. Vegetables
 Basic and certified seed
 1. Varietal identity and varietal purity
-The crop shall possess adequate varietal identity and varietal purity. 2. Crop health
+The crop shall possess adequate varietal identity and varietal purity.
+2. Crop health
 The crop shall be practically free from any pests which reduce the usefulness and quality of the propagation material.
 The crop shall also comply with the requirements concerning Union quarantine pests, protected zone quarantine pests and regulated non-quarantine pests ("RNQPs") provided for in implementing acts adopted pursuant to Regulation (EU) 2016/2031, as well as with the measures adopted pursuant to Article 30(1) of that Regulation.
 3. Previous cropping and contamination
@@ -249,6 +254,7 @@ The crop may be grown only on land that has not previously been cropped in a man
 4. Field and crop inspections
 In the case of basic seed, at least one official field inspection shall be carried out. For certified seed, at least one field inspection shall be carried out, officially controlled by means of check inspection of at least 20% of the crop of each species.
 The cultural condition of the field and the stage of development of the crop shall be such as to permit suitable checks of varietal identity and purity and health status of the crop.
+4.a In the case where, following the implementation of points 1. and 4., there is still doubt as to the varietal identity of the seed, the certification authority may use, for the examination of that identity, an internationally recognised and reproducible biochemical or molecular technique, in accordance with the applicable international standards.
 5. Isolated distances
 The minimum distances from neighbouring plants which might result in undesirable foreign pollination shall be the following:
 (a) Beta vulgaris
@@ -258,12 +264,10 @@ The minimum distances from neighbouring plants which might result in undesirable
 belonging to a different group of varieties:
 - crops to produce basic seed 1000m
 - crops to produce certified seed 600m
-(iii) From pollen sources of varieties of the same subspecies
-belonging to the same group of varieties:
+(iii) From pollen sources of varieties of the same subspecies belonging to the same group of varieties:
 - crops to produce basic seed 600m
 - crops to produce certified seed 300m
-The groups of varieties referred to in items (ii) and (iii) shall be
-determined by the Directorate.
+The groups of varieties referred to in items (ii) and (iii) shall be determined by the Directorate.
 (b) Brassica species
 (i) From sources of foreign pollen liable to cause serious
 deterioration of varieties of Brassica species:
