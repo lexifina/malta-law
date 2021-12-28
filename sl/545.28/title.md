@@ -3,3 +3,4 @@ BIOFUELS (SUSTAINABILITY CRITERIA)
 REGULATIONS
 24th December, 2010
 LEGAL NOTICE 553 of 2010, as amended by Legal Notice 50 of 2012; and Act XXV of 2015, and by Legal Notices 265 of 2017 and 324 of 2019.
+Repealed by Legal Notice 505 of 2021.
