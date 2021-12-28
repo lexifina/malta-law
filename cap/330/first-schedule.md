@@ -1,22 +1,33 @@
 ## FIRST SCHEDULE
 # first-schedule
 RECOVERY AND RESOLUTION
-Article 7B.
-Interpretation.
+Article 7B. LXXI.2021.4;
+Interpretation. LXXII.2021.3.
 1. (1) In this Schedule, unless the context otherwise requires:
-"the CRR" means Regulation (EU) No. 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No. 648/2012, as amended from time to time, and includes any implementing measures that have been or may be issued thereunder;
-"European resolution authority" means an authority which is situated in a country or territory outside Malta that is in a Member State or an EEA State, and which exercises any function corresponding to the functions of the Resolution Committee under this Act and the Recovery and Resolution Regulations;
+"the CRR" means Regulation (EU) No. 575/2013 of the
+European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No. 648/2012, as amended from time to time, and includes any implementing measures that have been or may be issued thereunder;
+"the CRD" means Directive 2013/36/EU of the European
+Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC, as amended from time to time, and includes any implementing measures that have been or may be issued thereunder;
+"European resolution authority" means an authority which is
+situated in a country or territory outside Malta that is in a Member State or an EEA State, and which exercises any function corresponding to the functions of the Resolution Committee under
+this Act and the Recovery and Resolution Regulations;
 "investment firm" means an investment firm as defined in point
-(2) of Article 4(1) of the CRR, that is subject to the initial capital requirement laid down in Article 28(2) of Directive 2013/36/EU of the European Parliament and of the Council on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms;
-"resolution" means the structuring of a credit institution or investment firm through the application of a resolution measure or measures in order to achieve one or more of the objectives referred to in paragraph 3(2);
+(2) of Article 4(1) of the CRR, that is subject to the initial capital
+requirement laid down in Article 28(2) of the CRD;
+"resolution" means the structuring of a credit institution or
+investment firm through the application of a resolution measure or measures in order to achieve one or more of the objectives referred to in paragraph 3(2);
 "resolution measures" means one or more of the following:
 (a) sale of business;
 (b) bridge institutions;
 (c) asset separation; and
 (d) bail in;
-"resolution powers" means the powers conferred on the Resolution Committee in terms of the Recovery and Resolution Regulations;
-"third-country resolution authority" means an authority in a country or territory that is not a Member State or EEA State which is responsible for carrying out functions comparable or equivalent to those of the Resolution Committee pursuant to this Act.
-(2) Words and expressions used in this Schedule, but which are not defined herein, shall be interpreted within the meaning of the BRRD.
+"resolution powers" means the powers conferred on the
+Resolution Committee in terms of the Recovery and Resolution Regulations;
+"third-country resolution authority" means an authority in a
+country or territory that is not a Member State or EEA State which is responsible for carrying out functions comparable or equivalent
+to those of the Resolution Committee pursuant to this Act.
+(2) Words and expressions used in this Schedule, but which are
+not defined herein, shall be interpreted within the meaning of the BRRD.
 The Resolution Committee.
 2. (1) The Resolution Committee shall ensure full and complete adherence to the requirements and obligations prescribed by regulations made under this Act, either directly or in collaboration with European and third-country resolution authorities, and may, for such purposes, exercise any of its powers under this Act and any regulations made thereunder.
 (2) The Resolution Committee shall be composed of three persons, who shall be a person appointed by the Central Bank of Malta, a person appointed by the Authority, and a person appointed by the Ministry responsible for Finance, who have distinguished themselves in banking and financial related matters or have the relevant experience in financial supervision, regulation, resolution and insolvency of institutions.
@@ -46,8 +57,8 @@ Schedule, in relation to resolution decisions;
 (d) carry out such other functions which are assigned to it
 by this Act or any regulations made thereunder;
 (e) apply resolution measures when an institution is failing or is likely to fail;
-(f) cooperate closely with the Authority in the preparation, planning and application of resolution decisions;
-(g) cooperate with authorities, both local or overseas, in order to coordinate resolution measures to protect financial stability in all affected Member States and EEA States, and achieve the most effective outcome for the group as a whole, when a cross-border group is failing or likely to fail;
+(f) cooperate closely with and consult the Authority in the preparation, planning and application of resolution decisions, and in all other instances where any such cooperation or consultation is required by the CRD, by the BRRD or by the CRR;
+(g) cooperate closely with and consult authorities, both local or overseas, in order to coordinate resolution measures to protect financial stability in all affected Member States and EEA States and, when a cross-border group is failing or likely to fail, to achieve the most effective outcome for the group as a whole, and in all other instances where any such cooperation or consultation is required by the CRD, by the BRRD or by the CRR.
 (h) cooperate with European resolution authorities and third country resolution authorities on matters relating to resolution;
 (i) set up a resolution financing arrangement through
 mandatory contributions from institutions;
@@ -81,8 +92,7 @@ imposed by it in terms of this paragraph.
 (c) Where the person upon whom the notice referred to in point (b) is served:
 (i) fails to pay to the Resolution Committee the amount of the administrative penalty within a period of thirty days from the service of the notice, and fails to appeal from the decision of the Resolution Committee to the Court of Civil Jurisdiction; or
 (ii) appeals to the Court of Civil Jurisdiction and fails within a period of fifteen days from the decision of the said Court to pay the administrative penalty as confirmed or as varied by that Court;
-then, in every case, the amount of the administrative
-penalty, as originally imposed or as reduced or increased, as the case may be, shall be due to the Resolution Committee as a civil debt, and the
+then, in every case, the amount of the administrative penalty, as originally imposed or as reduced or increased, as the case may be, shall be due to the Resolution Committee as a civil debt, and the
 provisions of point (d) shall apply.
 (d) A notice as is referred to in point (b), or the decision of the Court of Civil Jurisdiction, as the case may be, shall upon the service by judicial act of a copy thereof on the person indicated in the notice, constitute an executive title for all effects and purposes of Title VII of Part I of Book Second of the Code of Organization and Civil Procedure.
 (6) The imposition by the Resolution Committee of an administrative penalty in terms of this article shall be without prejudice to any other consequences of the act or omission of the offender under civil or criminal law:
@@ -99,8 +109,7 @@ Provided that in cases where an appeal has been filed by the person on whom such
 Provided that publication on an anonymous basis in any such circumstances shall be an exceptional measure which needs to be justified by a detailed report compiled by the Resolution Committee:
 Provided further that where the circumstances referred to in this sub-article are likely to cease within a reasonable period of time, publication under this article may be postponed for such a period of time.
 (3) Information published in terms of this article shall remain on the official website of the Authority for a period of not less than five years. Personal data shall be retained on the official website of the Authority and in any other media it considers appropriate only for the period necessary, in accordance with the provisions of Maltese legislation on data protection.
-Power to recover debt.
-6. The Resolution Committee may bring proceedings before the Court of Civil Jurisdiction to recover as a debt an amount of administrative penalty due to it under this Part.
+Power to recover debt. 6. The Resolution Committee may bring proceedings before the Court of Civil Jurisdiction to recover as a debt an amount of administrative penalty due to it under this Part.
 Power to issue directives.
 7. (1) Without prejudice to any of the powers conferred in this Act, the Resolution Committee may, whenever it deems necessary, give, by notice in writing, such directives as it may deem appropriate in the circumstances in order to carry out the functions and duties prescribed by this Act, and any regulations made or Rules issued thereunder transposing the BRRD.
 (2) The power to give directives under this article shall include the power to vary, alter, add to or withdraw any directive, as well as the power to issue new or further directives.
