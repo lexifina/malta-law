@@ -2,19 +2,25 @@
 # first-schedule
 (Article 2)
 Investment Services and Activities
-1. Reception and Transmission of Orders in relation to one or more instruments
-The reception from a person of an order to buy, sell or subscribe for instruments and the transmission of that order to a third party for execution.
+1. Reception and Transmission of Orders in relation to one or
+more instruments
+The reception from a person of an order to buy, sell or subscribe
+for instruments and the transmission of that order to a third party for execution.
 2. Execution of orders on behalf of clients
-Acting to conclude agreements to buy or sell one or more instruments on behalf of clients and includes the conclusion of agreements to sell instruments issued by an investment services licence holder or a credit institution at the moment of their issuance.
+Acting to conclude agreements to buy or sell one or more
+instruments on behalf of clients and includes the conclusion of agreements to sell instruments issued by an investment services licence holder or a credit institution at the moment of their issuance.
 3. Dealing on own account
-Trading against proprietary capital resulting in conclusion of transactions in one or more instruments.
+Trading against proprietary capital resulting in conclusion of
+transactions in one or more instruments.
 4. Management of Investments
-Managing or agreeing to manage assets belonging to another person if those assets consist of or include one or more instruments or the arrangements for their management are such that the person managing or agreeing to manage those assets has a discretion to invest any of those assets in one or more instruments.
+Managing or agreeing to manage assets belonging to another
+person if those assets consist of or include one or more instruments or the arrangements for their management are such that the person managing or agreeing to manage those assets has a discretion to
+invest any of those assets in one or more instruments.
 Management of Investments may also constitute the selection or agreement to select, on a discretionary basis, instruments by reference to which benefits are wholly or partly payable under a contract of insurance falling within class III - linked long term of the Second Schedule to the Insurance Business Act.
 Collective portfolio management of assets, belonging to a collective investment scheme, where the arrangements for their management are such that the person managing or agreeing to manage those assets has discretion to invest in any movable and, or immovable property.
 5. Trustee, Custodian or Nominee Services
 (a) Acting as trustee, custodian or nominee holder of an instrument, or of the assets represented by or otherwise connected with an instrument, where the person acting as trustee, custodian or nominee holder is so doing as part of his providing any investment service in paragraphs 1, 2, 3, 4 or 6 of this Schedule;
-Provided that for the purposes of this sub-paragraph any person who is authorised or otherwise exempt from authorisation in the terms of article 43 or 43A of the Trusts and Trustees Act shall not by virtue of holding such assets be required to have a licence in terms of this subparagraph if such person does not provide an investment service and delegates all activities which are investment services in terms of this Act to a person who is licenced to provide such services; or
+Provided that for the purposes of this sub-paragraph any person who is authorised or otherwise exempt from authorisation in the terms of article 43 or 43A of the Trusts and Trustees Act shall not by virtue of holding such assets be required to have a licence in terms of this sub-paragraph if such person does not provide an investment service and delegates all activities which are investment services in terms of this Act to a person who is licensed to provide such services; or
 (b) Holding an instrument or the assets represented by or otherwise connected with an instrument as nominee, where the person acting as nominee is so doing on behalf of another person who is providing any investment service in this Schedule or on behalf of a client of such person, and such nominee holding is carried out in relation to such investment service:
 Provided that for the purposes of this paragraph any person who is authorised or otherwise exempt from authorisation in the terms of article 43 or 43A of the Trusts and Trustees Act shall not by virtue of holding such assets be required to have a licence in terms of this Act.
 (c) Acting as trustee or custodian in relation to a collective investment scheme.
