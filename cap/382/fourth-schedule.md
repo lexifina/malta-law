@@ -1,12 +1,14 @@
 ## FOURTH SCHEDULE
 # fourth-schedule
 ENERGY PRODUCTS
-Description of excise goods Rate of Excise Duty
-Part A Leaded petrol falling within CN Codes 2710.12.31, 2710.12.50.11, 2710.12.50.19, 2710.12.50.90, 2710.12.51 and 2710.12.59 €678.18 per 1000 litres
-Unleaded petrol falling within CN Codes 2710.12.41, 2710.12.45 and 2710.12.49 €359 per 1000 litres
-Gas Oil falling within CN Codes 2710.19.43 to 2710.19.48 or 2710.20.11 to 2710.20.19 €330 per 1000 litres
-Gas Oil falling within CN Codes 2710.19.31, 2710.19.35, and 2710.19.55 and blends of the foregoing with Biodiesel, excluding Gas Oil or Gas Oil blended with Biodiesel, with a sulphur content not exceeding 0.1% sulphur by weight if used for heating purposes €413.078 per 1000 litres
-If used in the following maritime commercial €112.09 per 1000 litres activities:
+Description of excise goods Rate of
+Excise Duty
+Part A Leaded petrol falling within CN Codes 2710.12.31, 2710.12.50.11, 2710.12.50.19, 2710.12.50.90, 2710.12.51 and €678.18 per 1000 2710.12.59 litres
+Unleaded petrol falling within CN Codes 2710.12.41, €359 per 1000 2710.12.45 and 2710.12.49 litres
+Gas Oil falling within CN Codes 2710.19.43 to 2710.19.48 or €330 per 1000 2710.20.11 to 2710.20.19 litres
+Gas Oil falling within CN Codes 2710.19.31, 2710.19.35, and 2710.19.55 and blends of the foregoing with Biodiesel, excluding Gas Oil or Gas Oil blended with Biodiesel, with a sulphur content €413.078 per not exceeding 0.1% sulphur by weight if used for heating purposes 1000 litres
+If used in the following maritime commercial activities: €112.09 per 1000
+litres
 - Bunkering operations
 - Conveyance of passengers and goods between shore and ocean-going vessels
 - Conveyance of passengers between Malta and Comino, Gozo and Comino
@@ -16,35 +18,39 @@ If used in the following maritime commercial €112.09 per 1000 litres activitie
 - Sea farming activities
 - Tugging activities
 - Navigation for commercial purposes within Maltese territorial waters. If used in the following maritime commercial activity:
-- Inland Navigation between Malta
-and Gozo by vessels of a tonnage of 3,500 tons or more; 0
-- Inland Navigation between Malta
-and Gozo by vessels in line with Port Notice No TM/PYD/PN/02/2021.
+- Inland Navigation between Malta and Gozo
+by vessels of a tonnage of 3,500 tons or more; 0
+- Inland Navigation between Malta and Gozo
+by vessels in line with Port Notice No TM/PYD/PN/02/ 2021.
 0 If used for electric power generation. 0
-If used for fishing purposes as laid down by Department of Fisheries. 0
-Gas Oil or Gas Oil blended with Biodiesel, with a €172.09 per 1000 litres sulphur content not exceeding 0.1% sulphur by weight if used for heating purposes by:
+If used for fishing purposes as laid down by Department of Fisheries. 0 If used by rescue vessels, or vessels which render assistance for rescue purposes at sea. 0
+Gas Oil or Gas Oil blended with Biodiesel, with a sulphur €172.09 per 1000 content not exceeding 0.1% sulphur by weight if used for heating litres purposes by:
 - State and private hospitals
 - State Senior Citizen's Homes
 - Corradino Correctional Facility
 - Sports, philanthropic and religious entities so authorised by the Minister
 - Bakeries up to a maximum amount of litres per month required by the bakery as certified by a mechanical engineer
 Other entities so authorised by the Minister.
-Gas Oil or Gas Oil blended with Biodiesel, with a €172.09 per 1000 litres sulphur content not exceeding 0.1% sulphur by weight if used for heating purposes against a request for refund.
-Biodiesel, a diesel quality liquid fuel produced from €412.40 per 1000 litres biomass or waste cooking oil, with an ester content of not less that 96.5% by weight and a sulphur content not exceeding 0.005%, whether in blend or not.
-Heavy fuel oil falling within CN Codes 2710.19.51, 2710.19.62 to 2710.19.68 or 27.10.20.31 to 2710.20.39 €39.00 per 1000 Kgs
+Gas Oil or Gas Oil blended with Biodiesel, with a sulphur €172.09 per 1000 content not exceeding 0.1% sulphur by weight if used for heating litres purposes against a request for refund.
+Biodiesel, a diesel quality liquid fuel produced from biomass or €412.40 per 1000 waste cooking oil, with an ester content of not less that 96.5% by litres weight and a sulphur content not exceeding 0.005%, whether in blend or not.
+Heavy fuel oil falling within CN Codes 2710.19.51, 2710.19.62 €39.00 per 1000 to 2710.19.68 or 27.10.20.31 to 2710.20.39 Kgs
 If used for electric power generation 0 Natural gas falling within CN Codes 2711.11.00 and 2711.21.00 0
-If used as motor fuel €2.60 per 1 gigajoule,
-gross calorific value
-If used for heating purposes €0.84 per 1 gigajoule,
-gross calorific value
-If used for electric power generation 0 Liquid petroleum gas falling within CN Codes 2711.12 to 2711.13, except when used for heating purposes €125.00 per 1000 Kgs
-Liquid petroleum gas falling within CN Codes 2711.12 to 2711.13, when used for heating purposes €38.94 per 1000 Kgs
-Methane falling within CN Code 2711.29.00 €38.94 per 1000 Kgs Kerosene falling within CN Codes 2710.19.21, €412.40 per 1000 litres 2710.19.25 and 2710.19.29
-If used for the following purposes: €72.21 per 1000 litres
-- for air navigation between Malta and
-Gozo
-- for testing and maintenance of aircraft
-engines
+If used as motor fuel €2.60 per 1
+gigajoule,
+gross calorific
+value
+If used for heating purposes €0.84 per 1
+gigajoule,
+gross calorific
+value
+If used for electric power generation 0 Liquid petroleum gas falling within CN Codes 2711.12 to €125.00 per 1000 2711.13, except when used for heating purposes Kgs
+Liquid petroleum gas falling within CN Codes 2711.12 to €38.94 per 1000 2711.13, when used for heating purposes Kgs
+Methane falling within CN Code 2711.29.00 €38.94 per 1000
+Kgs
+Kerosene falling within CN Codes 2710.19.21, 2710.19.25 and €412.40 per 1000 2710.19.29 litres
+If used for the following purposes: €72.21 per 1000
+litres
+- for air navigation between Malta and Gozo - for testing and maintenance of aircraft engines
 If used by private pleasure aircraft for direct voyages to destinations outside the European Union 0
 Part B Petroleum oils falling within CN Code 2710 1971, for undergoing a specific process, not intended for use, offered for sale or used as heating or motor fuel €0.25 per litre
 Petroleum oils falling within CN Code 2710 1975, for undergoing chemical transformation by a process other than those specified in respect of subheading 2710 1971, not intended for use, offered for sale or used as heating or motor fuel €0.25 per litre
@@ -56,12 +62,19 @@ Petroleum oils falling within CN Code 2710 1991, metal-working compounds, mould 
 Petroleum oils falling within CN Code 2710 1993, electrical insulating oils, not intended for use, offered for sale or used as heating or motor fuel €0.25 per litre
 Petroleum oils falling within CN Code 2710 1999, other lubricating oils and other oils, not intended for use, offered for sale or used as heating or motor fuel €0.25 per litre
 Petroleum oils falling within CN Code 2710 2090, other oils, not intended for use, offered for sale or used as heating or motor fuel €0.25 per litre
-Part C Electricity falling under CN Code 2716 €1.50 per MWh Coal and Coke falling within CN Codes 2701, 2702 €0.30 per 1 gigajoule, and 2704 gross calorific value
+Part C Electricity falling under CN Code 2716 €1.50 per MWh Coal and Coke falling within CN Codes 2701, 2702 and 2704 €0.30 per 1
+gigajoule,
+gross calorific
+value
 The term 'energy products' shall cover:
-(a) products falling within CN Codes 1507 to 1518, if these are intended for use as heating fuel or motor fuel;
+(a) products falling within CN Codes 1507 to 1518, if
+these are intended for use as heating fuel or motor
+fuel;
 (b) products falling within CN Codes 2701, 2702 and 2704 to 2715;
 (c) products falling within CN Codes 2901 and 2902;
-(d) products falling within CN Code 2905.11.00, which are not of synthetic origin, if these are intended for use as heating fuel or motor fuel;
+(d) products falling within CN Code 2905.11.00, which
+are not of synthetic origin, if these are intended for
+use as heating fuel or motor fuel;
 (e) products falling within CN Code 3403;
 (f) products falling within CN Code 3811;
 (g) products falling within CN Code 3817;

@@ -1,18 +1,18 @@
 ## SCHEDULE III
 ## Sp. Gr Sucrose
 ## % w/w
-## 1.000 15.439
-## 1.001 15.671
-## 1.002 15.903
-## 1.003 16.134
-## 1.004 16.365
-## 1.005 16.595
-## 1.006 16.825
-## 1.007 17.055
-## 1.008 17.284
-## 1.009 17.513
-## 1.010 17.741
-## 1.011 17.970
+## 1.063 15.439
+## 1.064 15.671
+## 1.065 15.903
+## 1.066 16.134
+## 1.067 16.365
+## 1.068 16.595
+## 1.069 16.825
+## 1.070 17.055
+## 1.071 17.284
+## 1.072 17.513
+## 1.073 17.741
+## 1.074 17.970
 ## 1.075 18.197
 ## 1.076 18.425
 ## 1.077 18.652
@@ -76,6 +76,9 @@ Wine Regulations
 4. Any person who is a authorised warehouse keeper of the goods specified in regulation 2 shall conform with the Act and any regulations made thereunder without prejudice to the provisions of the Wine Act.
 5. (1) Any person who produces the goods specified in regulation 2 shall, in addition to the obligations imposed by the Wine Act, register any tax warehouse in which such goods are produced or intended to be produced in accordance with article 9 of the Act and as regulated by regulations 4 to 8 of the Excise Goods Regulations.
 (2) The provisions of article 9(4) of the Act apply only to a person holding a private licence in accordance with the Wine Act and only to the wine produced in accordance with such licence.
+5A. (1) Subject to such conditions that shall be established to ensure the simplified application of rules for an independent and small wine producer, the authorised warehouse keeper shall, after he makes such a request to the Commissioner, be provided with an annual certificate as an independent and small wine producer established in Malta and which confirms its total annual production, as applicable, and confirming the independent and small wine producer's conformity to the relevant criteria, as applicable. The administrative document for the movement of wine under regulation 12 of Part A of the Sixth Schedule or the customs document for release of consumption of wine shall refer to the certificate mentioned in this regulation.
+(2) Notwithstanding the provisions of sub-regulation (1), and under certain conditions that may be established by the Commissioner with the intent to ensure the correct and simple application of this regulation and for the prevention of any evasion, avoidance or abuse, authorised warehouse keepers may themselves certify in writing to the Commissioner that they are an independent and small wine producer established in Malta and portray their conformity to the relevant criteria, as applicable, and their relevant total annual production.
+(3) The Commissioner shall, under the conditions which he shall establish with the scope of ensuring the correct and simple application of this regulation, and for the prevention of any evasion, avoidance or abuse, recognise the certificate of an independent and small wine producer mentioned in this regulation that is issued by another Member State, except in justified circumstances as deemed fit.
 6. Excise duty on wines released for consumption shall be assessed, according to article 3 of the Act, on the volume in litres of wine as determined at time of release for consumption.
 7. Excise duty leviable on imported wines shall be paid before such wines are released by Customs, or if removed to a tax warehouse, before release from such warehouse.
 8. Excise duty leviable on wines produced in Malta shall be paid by the authorised warehouse keeper before such wines are released for consumption or periodically as may be allowed by the Commissioner, on the wines released during a specific period as directed by him:
@@ -226,6 +229,7 @@ Provided that when the data in the electronic administrative document have been 
 15. (1) The Commissioner may establish simplified procedures in respect of movements of excise goods under a duty suspension arrangement which take place within Maltese territory, including the possibility to waive the requirement of electronic supervision of such movement.
 The Minister, after consulting the Commissioner, may enter into an agreement with other Member States, to establish more simplified procedures for excise goods that move under a duty suspension arrangement and their movement between Malta and any other two or more Member States occurs frequently and regularly.
 - Amended by: XVI.2017.80; VIII.2020.66; XVIII.2021.55.
+- Added by: XVIII.2021.55.
 - Amended by: XVI. 2017.80; VIII.2020.66; XVIII.2021.55.
 - See Cap. 436.
 - See Cap. 436.

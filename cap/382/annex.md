@@ -19,7 +19,6 @@
 ## Box 8
 ## MALTA INTERNAL ADMINISTRATIVE ACCOMPANYING DOCUMENT PRODUCTS SUBJECT TO EXCISE DUTY
 ## 18a. Marks and numbers, No. and No kind of packages, description of goods No 18b. Marks and numbers, No. and No kind of packages, description of goods No 18c. Marks and numbers, No. and No kind of packages, description of goods No
-## A Record of control (continued)
 ## Title.
 ## Scope.
 ## Definitions.
@@ -366,9 +365,9 @@ containing any of the markers or dyes mentioned in regulation 17 shall be guilty
 (c) Any person found in any unlawful possession of oil
 containing any of the markers mentioned in regulation 17A shall be guilty of an offence and shall for every such offence be liable, on conviction, to a fine (multa) as prescribed under article 16 of the Act and that oil shall be liable to forfeiture as prescribed under article 17 of the Act.
 28. (1) Any means of transport which carries energy products on which no excise duty has been paid, which is either used on land, such as fuel tank trucks and trailers, or used at sea, such as barges or tankers, shall be registered with the Commissioner.
-(2) Any operator of any such means of transport as are mentioned in subregulation (1), shall declare to the Commissioner that such means are to be used solely to carry energy products on which no excise duty has been paid.
+(2) Any operator of any such means of transport as are mentioned in sub-regulation (1), shall declare to the Commissioner that such means are to be used solely to carry energy products on which no excise duty has been paid.
 29. (1) According to such requirements as may be set down by the Commissioner, such means of transport shall be permanently and visibly marked with a label containing the words, in red colour, "DUTY FREE". This label shall be of a size not less than 820 millimetres by 240 millimetres.
-(2) Notwithstanding the provision of subregulation (1), any such means of transport shall have installed thereon an electronic device by means of which it can be observed to be in any specific location in any particular moment in time.
+(2) Notwithstanding the provision of sub-regulation (1), any such means of transport shall have installed thereon an electronic device by means of which it can be observed to be in any specific location in any particular moment in time.
 30. Unless the context requires otherwise in regulations 31 to 33 hereof -
 "commercial vehicle" means any motorized road vehicle which by its type of construction and equipment is designed for, and capable of transporting, whether for payment or otherwise -
 (a) more than 9 persons, including the driver,
