@@ -1,6 +1,10 @@
 ## FIRST SCHEDULE
-## Latest Euro Standard
+## Euro Standard Table for Registration Purposes indicating Year of Registration and/or
+## Latest Category Euro Standard
 ## Euro 6
+## Euro 6 N1
+## N2 Euro 6
+## N3 Euro 6
 # first-schedule
 [Articles 3, 6, 8, 17A]
 Amount of tax to be paid on the registration of motor vehicles
@@ -50,10 +54,12 @@ Year Annual Depreciation Total Depreciation
 13 onward N/A 95%
 For the purpose of registration tax, where a vehicle used for the transport of goods (N1, N2 and N3), or a special purpose vehicle or a tractor unit, whose year of manufacture falls under any of the following years of manufacture, is not accompanied by an official document showing the emission levels equivalent to Euro standards (the said official document may be a certificate of conformity or a type approval certificate or a vehicle registration certificate or a declaration by the vehicle's manufacturer), the registration tax rates to be paid thereon shall be equivalent to those under the different Euro standards:
 Where an importer or dealer or owner of a motor vehicle intends to change the engine of a motor vehicle prior to its registration with the Authority, he shall inform the Authority in writing. Where an importer or dealer or owner of a motor vehicle provides a certificate as approved by an accredited technical service, that the engine of that particular vehicle meets lower emissions despite the vehicle's year of manufacture, that vehicle shall on registration be taxed the rate pertaining to its equivalent Euro standard.
-Where a motor vehicle, which falls under a category to which the First Schedule of this Act applies, registered by a person with disability has been exempted from the payment of registration tax by means of an order issued by the Minister in terms of article 19(2) of this Act, no refund of the exempted registration tax shall be due in the event that such a vehicle is transferred after ten years from the date of registration. In the event that the vehicle so exempted is transferred prior to the expiration of ten years from the date of registration, the exempted registration tax shall be refunded. The refund due shall be calculated on the basis of the registration tax which would have been due had the exemption not been given discounted at the rate of ten per cent per annum to be reckoned from the date of registration.
-Category B: electric, hybrid N1, N2, N3 vehicles,
-special purpose vehicles and tractor units
-1. battery driven electric vehicles .................................................................. 0% 2. petrol or diesel electric hybrid vehicles ..................................................... 0%
+Where a motor vehicle, which falls under a category to which the First Schedule of this Act applies, registered by a person with disability has been exempted from the payment of registration tax by means of an order issued by the Minister in terms of article 19(2) of this Act, no refund of the exempted registration tax shall be due in the event that such a vehicle is transferred after ten years from the date of registration. In the event that the vehicle so exempted is transferred prior to the expiration of ten years from the date of registration, the exempted registration tax shall be refunded. The refund due shall be calculated on the basis of the registration tax which would have been due had the exemption not been given discounted at the rate of ten per cent per annum to be reckoned from the date of registration. Category B: Hydrogen fuel cell, electric, plug-in hybrid electric, range extender electric, and autogas N1, N2 and M3 motor vehicles, special purpose vehicles and tractor units:
+1. electric vehicles …………………………..................................... 0%
+2. hydrogen fuel cell electric vehicles ……....................................... 0%
+3. plug-in hybrid electric vehicles ………......................................... 0%
+4. range extender electric vehicles …………..................................... 0%
+5. vehicles propelled solely with an autogas fuelling system............. 0%
 Category C: vintage Category N vehicles for private use
 N1 vehicles for private use, special purpose vehicles and tractor units with a maximum mass not exceeding 3.5 tonnes and N2 vehicles for private use, special purpose vehicles and tractor units with a maximum mass exceeding 3.5 tonnes but not exceeding 5 tonnes
 1. vintage vehicles certified authentic by the vintage vehicle classification Rate of Tax committee: Percentage
@@ -88,4 +94,4 @@ The total amount of the registration tax for Categories B to F shall be the regi
 - Substituted by: IV. 2007.22; L.N. 425 of 2007; XXXII. 2007.78.
 - Amended by: L.N. 105 of 2008.
 - Substituted by: VI. 2009.29; XI. 2010.16.
-- Amended by: IV. 2011.51; V. 2012.41; L.N. 86 of 2013; III. 2013.50; XII. 2014.56; XIII. 2015.115; XV. 2016.23; XVI. 2017.58; XVIII.2021.40.
+- Amended by: IV. 2011.51; V. 2012.41; L.N. 86 of 2013; III. 2013.50; XII. 2014.56; XIII. 2015.115; XV. 2016.23; XVI. 2017.58; XVIII.2021.40; VII.2022.54.
