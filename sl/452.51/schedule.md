@@ -57,46 +57,46 @@ age of sixteen years or under; and
 Table of Minimum Wages
 CATEGORY A
 (Light duty tugs or lighters)
-Coxswain ................................................................ €187.49
-Engine Driver.......................................................... €186.32
-Pumpman ................................................................€184.57
-Watchman ...............................................................€182.25 Seaman or other calling ...........................................€183.99
+Coxswain ................................................................ €189.24
+Engine Driver.......................................................... €188.07
+Pumpman ................................................................€186.32
+Watchman ...............................................................€184.00 Seaman or other calling ...........................................€185.74
 CATEGORY B
 (Heavy duty tugs)
-Master .................................................................... €195.64
-Engineer ................................................................ €192.15
-Boatswain .............................................................. €185.16
-Greaser .................................................................. €185.16
-Watchman .............................................................. €182.25
-Seaman or other calling .......................................... €184.57
+Master .................................................................... €197.39
+Engineer ................................................................ €193.90
+Boatswain .............................................................. €186.91
+Greaser .................................................................. €186.91
+Watchman .............................................................. €184.00
+Seaman or other calling .......................................... €186.32
 CATEGORY C
 (Luzzus)
-Master .................................................................... €195.64
-Coxswain ................................................................ €187.49
-Engineer ................................................................ €192.15
-Engine Driver ......................................................... €182.25
-Watchman .............................................................. €186.32
-Seaman or other calling .......................................... €183.99
+Master .................................................................... €197.39
+Coxswain ................................................................ €189.24
+Engineer ................................................................ €193.90
+Engine Driver ......................................................... €184.00
+Watchman .............................................................. €188.07
+Seaman or other calling .......................................... €185.74
 CATEGORY D
 (Gozo Ferry)
-Captain ................................................................... €205.47
-Coxswain ............................................................... €189.82
-Boatswain .............................................................. €187.49
-First Engineer ......................................................... €199.18
-Second Engineer .................................................... €194.47
-Third Engineer/Engine Driver ................................. €188.65
-Seaman/Deckhand .................................................. €183.99
-Watchman .............................................................. €182.25
-Other calling .......................................................... €183.99
+Captain ................................................................... €207.22
+Coxswain ............................................................... €191.57
+Boatswain .............................................................. €189.24
+First Engineer ......................................................... €200.93
+Second Engineer .................................................... €196.22
+Third Engineer/Engine Driver ................................. €190.40
+Seaman/Deckhand .................................................. €185.74
+Watchman .............................................................. €184.00
+Other calling .......................................................... €185.74
 CATEGORY E
 (Yachts, pleasure boats, etc.)
-Skipper/Captain ..................................................... €196.80
-Engineer ................................................................ €192.15
-Engine Driver ........................................................ €186.90
-Coxswain ................................................................ €187.49
-Boatswain/Mate ..................................................... €185.16
-Seaman/Deckhand .................................................. €182.83
-Watchman .............................................................. €182.25.
+Skipper/Captain ..................................................... €198.55
+Engineer ................................................................ €193.90
+Engine Driver ........................................................ €188.65
+Coxswain ................................................................ €189.24
+Boatswain/Mate ..................................................... €186.91
+Seaman/Deckhand .................................................. €184.58
+Watchman .............................................................. €184.00.
 4. (1) Whole-time employees other than watchmen shall be paid minimum rates of overtime as follows:
 A. Monday to Saturday
 (i) Hours worked in excess of eight hours on any one day ..................................... time and a half;
@@ -117,7 +117,7 @@ C. Customary holidays
 (c) four working weeks and three working days during the calendar year 1991;
 (d) four working weeks and four working days during the calendar year 1992 and during any calendar year thereafter:
 Provided that when a whole-time employee is in employment for less than twelve months during any calendar year, he shall be entitled to such part of the said vacation leave as is in proportion to the number of months in employment.
-(2) For the purpose of this paragraph "vacation leave" means leave with pay which may be availed of on days agreed upon between the employer and the employee, provided that one day vacation leave during 1988 and 1989, two days vacation leave during 1990, three days vacation leave during 1991 and four days vacation leave during 1992 and during any calendar year thereafter shall not form part of any shutdown and shall be granted by the employer as optional leave in addition to any optional leave the employee may have been entitled to on the 9th November, 1988.
+(2) For the purpose of this paragraph "vacation leave" means leave with pay which may be availed of on days agreed upon between the employer and the employee, provided that one day vacation leave during 1988 and 1989, two days vacation leave during 1990, three days vacation leave during 1991 and four days vacation leave during 1992 and during any calendar year thereafter shall not form part of any shut-down and shall be granted by the employer as optional leave in addition to any optional leave the employee may have been entitled to on the 9th November, 1988.
 6. (1) After six months of continuous service, a whole-time employee shall in every calendar year be entitled to the equivalent in hours of fifteen days sick leave on full pay, less an amount equal to the sum set for sickness benefit entitlement at the rate established under the Social Security Act, and part time employees shall have a pro rata entitlement to sick leave in hours on full pay, less an amount equal to the sum set for sickness benefit entitlement at the rate established under the Social Security Act, which amount is also to be calculated on a pro rata basis:
 Provided that -
 (a) the first three days of any claim for sick leave shall be paid in full by the employer;
@@ -152,8 +152,8 @@ terminate his employment before three months have elapsed, the employee is bound
 EXPLANATORY NOTE
 (This note is not part of the Order but is intended to indicate its applicability).
 The above provisions apply to all employees on board ships regularly operating within the territorial waters of Malta, but do not apply to employees working on board fishing vessels or foreign going ships.
-- Amended by: L.N. 118 of 1978; L.N. 113 of 1990; L.N. 427 of 2007; L.N. 135 of 2010; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019.
-- Amended by: L.N. 362 of 2012; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 351 of 2019; L.N. 469 of 2020.
+- Amended by: L.N. 118 of 1978; L.N. 113 of 1990; L.N. 427 of 2007; L.N. 135 of 2010; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 464 of 2021.
+- Amended by: L.N. 362 of 2012; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021.
 - See Cap. 252.
 - See S.L.452.28.
 - See Cap. 594.

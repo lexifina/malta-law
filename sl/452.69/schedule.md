@@ -22,7 +22,8 @@
 "hours of work" means the time on any day during which employees are at the disposal of the employer, exclusive of intervals allowed for meals and rest;
 "night-shift" means any period of employment that includes any hours form 10.00 p.m. to 6.00 a.m. of the next following day;
 "part-time employee" means an employee whose normal hours of work, calculated on a weekly basis or on average over a period of employment of up to one year, are less than the normal hours of work of a comparable whole-time employee and who is not a whole-time employee with reduced hours;
-"period of employment" means the time in any day during which employees are at the disposal of the employer, but inclusive of the intervals allowed for meals and rest; [S.L.452.69 2 WAGES COUNCIL WAGE REGULATION
+"period of employment" means the time in any day during which employees are at the disposal of the employer, but inclusive of the [S.L.452.69 2 WAGES COUNCIL WAGE REGULATION
+intervals allowed for meals and rest;
 "shift employee" means an employee who regularly works on a
 shift cycle basis;
 "time-and-a-half" and "double time" mean respectively one-and-
@@ -41,12 +42,12 @@ employees, other than watchmen, and
 (b) fifty-two hours of work in the case of watchmen.
 3. (1) The minimum weekly wage payable to whole-time
 employees, both males and females, shall be the following -
-(a) watchmen whose duties are mainly performed indoors ...................................................................... €181.08
-(b) watchmen whose duties are mainly performed out of doors ............................................................. €183.41
+(a) watchmen whose duties are mainly performed indoors ...................................................................... €182.83
+(b) watchmen whose duties are mainly performed out of doors ............................................................. €185.16
 (c) other employees -
-(i) at age 16 years ..................................... €171.46
-(ii) at age 17 years ..................................... €174.30
-(iii) at age 18 years or over ......................... €181.08.
+(i) at age 16 years ..................................... €173.21
+(ii) at age 17 years ..................................... €176.05
+(iii) at age 18 years or over ......................... €182.83.
 (2) In the case of shift workers, unless every weekly night shift
 is followed by two consecutive weekly day shift, such further weekly night shift or shifts shall entitle the employee to extra remuneration amounting to not less than one-fourth of his normal rate of pay.
 4. Part-time employees shall be paid pro rata at an hourly rate
@@ -54,8 +55,9 @@ not less than that applicable to whole-time employees, namely, the appropriate r
 5. Whole-time employees, other than watchmen, shall be
 allowed intervals for meals and rest of not less, in the aggregate, than one hour every day:
 Provided that -
-(a) subject to the provisions of paragraph (b) of this proviso, the interval or intervals shall be allowed after
+(a) subject to the provisions of paragraph (b) of this
 [S.L.452.69 WAGES COUNCIL WAGE REGULATION 3
+proviso, the interval or intervals shall be allowed after
 the first and before the last hour of the period of
 employment, and
 (b) where the last half hour of the period of employment is
@@ -91,9 +93,8 @@ time employees, other than watchmen, for work in
 excess of forty hours during the week less the number
 of hours that would have normally been worked on
 such a day by that employee, exclusive of any time
-paid for at overtime rate;
-(c) in the case of watchmen, when a customary holiday [S.L.452.69 4 WAGES COUNCIL WAGE REGULATION
-falls on any day from Monday to Saturday, overtime at time-and-a-half shall be payable to them for work in-excess of fifty-two hours during that week.
+paid for at overtime rate; [S.L.452.69 4 WAGES COUNCIL WAGE REGULATION
+(c) in the case of watchmen, when a customary holiday falls on any day from Monday to Saturday, overtime at time-and-a-half shall be payable to them for work in-excess of fifty-two hours during that week.
 8. (1) In addition to the minimum weekly rest to which
 whole-time employees may be entitled under paragraph 6, whole-time employees shall be entitled to the national holidays and to all public holidays with full pay, and to the following vacation leave not being less than -
 (a) four working weeks and one working day during the
@@ -157,8 +158,8 @@ The provisions of the above Schedule will apply to all employees
 in any undertaking, or in any part of an undertaking, the activities of which consist wholly or mainly in any of the following:
 (a) the manufacture and processing of leather and leather goods including the manufacture of gloves and the manufacture of boots, shoes, sandals, and other footwear, and
 (b) the manufacture of luggage, brief-cases, handbags, shopping bags and other bags of a similar nature.
-- Amended by: L.N. 427 of 2007; L.N. 149 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020.
-- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020.
+- Amended by: L.N. 427 of 2007; L.N. 149 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021.
+- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021.
 - See Cap. 252.
 - See Cap. 318.
 - See Cap. 318.

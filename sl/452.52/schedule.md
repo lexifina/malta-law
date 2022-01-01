@@ -21,8 +21,8 @@
 "half day" means a period running from midnight to noon, or from noon to midnight;
 "hours of work" means the time on any day during which employees are at the disposal of the employer, exclusive of the intervals allowed for meals and rest;
 "part-time employee" means an employee whose normal hours of work, calculated on a weekly basis or on average over a period of employment of up to one year, are less than the normal hours of work of a comparable whole-time employee and who is not a whole-time employee with reduced hours;
-"period of employment" means the time in any day during which employees are at the disposal of the employer, inclusive of the [S.L.452.52 2 INDUSTRIES WAGES COUNCIL WAGE REGULATION
-intervals allowed for meals and rest;
+"period of employment" means the time in any day during which [S.L.452.52 2 INDUSTRIES WAGES COUNCIL WAGE REGULATION
+employees are at the disposal of the employer, inclusive of the intervals allowed for meals and rest;
 "shift employees" means employees in any factory to which this
 Schedule applies who normally are required to be at the disposal of their employer twenty-four hours a day;
 "time and a half" and "double time" mean respectively one and a
@@ -42,17 +42,15 @@ working week as follows:
 to thirty-seven and one half hours.
 3. The minimum weekly remuneration payable to all whole-
 time employees, including learners, shall be the following -
-(a) watchmen ............................................... €182.25
+(a) watchmen ............................................... €184.00
 (b) other whole-time employees:
-at age 16 years ........................................ €172.93 at age 17 years ........................................ €175.26 at age 18 years ........................................ €182.25:
+at age 16 years ........................................ €174.68 at age 17 years ........................................ €177.01 at age 18 years ........................................ €184.00:
 Provided that -
 (a) where an establishment is conditioned to a working week of less than forty hours, the minimum wage laid
 down above shall apply; and
 (b) an employee who, in any week, is employed for a number of hours less than the appropriate number of hours to which his minimum weekly remuneration relates in accordance with the provisions of paragraph 2 of this Schedule, shall be paid pro rata on an hourly rate not less than that applicable to him, namely the appropriate rate per week divided by the number of hours per week to which his establishment is conditioned.
-4. Employees working on a shift system shall be paid a shift
-premium of two euro and thirty-three cents (2.33) a week for
 [S.L.452.52 INDUSTRIES WAGES COUNCIL WAGE REGULATION 3
-working the first (morning) shift or the second (afternoon) shift. Employees working the third (night) shift shall be paid at time and a quarter normal rate.
+4. Employees working on a shift system shall be paid a shift premium of two euro and thirty-three cents (2.33) a week for working the first (morning) shift or the second (afternoon) shift. Employees working the third (night) shift shall be paid at time and a quarter normal rate.
 5. All whole-time employees, other than watchmen, shall be allowed intervals for meals and rest of not less, in the aggregate, than one hour per day:
 Provided that -
 (a) subject to the provisions of paragraph (b) of this
@@ -75,7 +73,8 @@ other than a Sunday or a customary holiday
 (c) for all time worked on Sundays, customary holidays or
 vacation leave not granted .......................double time.
 (4) When the normal number of working hours per week of an employee is less than forty hours such overtime rate shall be paid for all time worked in excess of his normal number of working hours in any one week.
-8. (1) In addition to the minimum weekly rest to which whole-time employees may be entitled under paragraph 6, whole-time employees shall be entitled to the National Holidays and to all public holidays with full pay, and to the following vacation leave not being less than - [S.L.452.52 4 INDUSTRIES WAGES COUNCIL WAGE REGULATION
+8. (1) In addition to the minimum weekly rest to which whole-time employees may be entitled under paragraph 6, whole-time employees shall be entitled to the National Holidays and to all [S.L.452.52 4 INDUSTRIES WAGES COUNCIL WAGE REGULATION
+public holidays with full pay, and to the following vacation leave not being less than -
 (a) four working weeks and one working day during the
 calendar years 1988 and 1989;
 (b) four working weeks and two working days during the calendar year 1990;
@@ -85,7 +84,7 @@ Provided that when a whole-time employee is in
 employment for less than twelve months during any calendar year, he shall be entitled to such part of the said vacation leave as is in
 proportion to the number of months in employment.
 (2) For the purpose of this paragraph "vacation leave" means
-leave with pay which may be availed of on days agreed upon between the employer and the employee, provided that one day vacation leave during 1988 and 1989, two days vacation leave during 1990, three days vacation leave during 1991 and four days vacation leave during 1992 and during any calendar year thereafter shall not form part of any shutdown and shall be granted by the employer as optional leave in addition to any optional leave the employee may have been entitled to on the 9th November, 1988.
+leave with pay which may be availed of on days agreed upon between the employer and the employee, provided that one day vacation leave during 1988 and 1989, two days vacation leave during 1990, three days vacation leave during 1991 and four days vacation leave during 1992 and during any calendar year thereafter shall not form part of any shut-down and shall be granted by the employer as optional leave in addition to any optional leave the employee may have been entitled to on the 9th November, 1988.
 9. (1) After completing the first six months of employment, a
 whole time employee shall in every calendar year be entitled to the equivalent in hours of twenty days sick leave on full pay, less an amount equal to the sum set for sickness benefit entitlement at the rate established under the Social Security Act, and part-time employees shall have a pro rata entitlement to sick leave in hours on full pay, less an amount equal to the sum set for sickness benefit entitlement at the rate established under the Social Security Act, which amount is also to be calculated on a pro rata basis:
 Provided that -
@@ -94,7 +93,7 @@ paid in full by the employer;
 (b) a medical certificate covering the period of absence is produced to the employer on the day of return to work or, if such period of absence is longer than seven days, within seven days of the onset of sick leave absence;
 (c) employees in receipt of a social security pension in respect of retirement or widowhood in terms of the Social Security Act shall, for the purpose of calculating the sick leave pay due, be deemed to have received an amount equal to the sum set for sickness benefit entitlement at the rate established under the Social Security Act.
 [S.L.452.52 INDUSTRIES WAGES COUNCIL WAGE REGULATION 5
-(2) After one year in employment, a wholetime employee shall in every calendar year be entitled to the equivalent in hours of a further twenty days sick leave on half pay, less an amount equal to half the sum set for sickness benefit entitlement at the rate established under the Social Security Act, and part-time employees shall have a pro rata entitlement to sick leave in hours on half pay, less an amount equal to half the sum set for sickness benefit entitlement at the rate established under the Social Security Act, which amount is also to be calculated on a pro rata basis:
+(2) After one year in employment, a whole-time employee shall in every calendar year be entitled to the equivalent in hours of a further twenty days sick leave on half pay, less an amount equal to half the sum set for sickness benefit entitlement at the rate established under the Social Security Act, and part-time employees shall have a pro rata entitlement to sick leave in hours on half pay, less an amount equal to half the sum set for sickness benefit entitlement at the rate established under the Social Security Act, which amount is also to be calculated on a pro rata basis:
 Provided that -
 (a) the first three days of any claim for sick leave shall be paid at half pay by the employer;
 (b) a medical certificate covering the period of absence is
@@ -140,8 +139,8 @@ crushing, breaking up or baling of metals;
 (f) repairs of television sets and radios.
 2. The provisions of this Schedule do not apply to any
 employees engaged in the installation, erection, and fitting of transmission and distribution equipment for electric energy, gas or water, whether inside or outside buildings.
-- Amended by: L.N. 123 of 1978; L.N. 24 of 1979; L.N. 45 of 1990; L.N. 427 of 2007; L.N. 138 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016:; L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020.
-- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020.
+- Amended by: L.N. 123 of 1978; L.N. 24 of 1979; L.N. 45 of 1990; L.N. 427 of 2007; L.N. 138 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016:; L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021.
+- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021.
 - See Cap. 252.
 - See Cap. 318.
 - See Cap. 318.

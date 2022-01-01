@@ -20,7 +20,8 @@
 "half day" means a period of half the number of daily working hours;
 "hours of work" means the time on any day during which the employees are at the disposal of the employer exclusive of intervals for meals and rest;
 "learner" means a person other than an apprentice, who is over the age of fourteen years and under the age of eighteen years and who is receiving training in any calling to which this Schedule applies, and in respect of whom the employer holds a permit issued in terms of the Employment and Training Services Act;
-"normal hours of work" means the hours of work per week agreed to between the employer and the employee subject to the provisions of paragraph 2; [S.L.452.39 2 COUNCIL WAGE REGULATION
+"normal hours of work" means the hours of work per week agreed to between the employer and the employee subject to the [S.L.452.39 2 COUNCIL WAGE REGULATION
+provisions of paragraph 2;
 "part-time employee" means an employee whose normal hours of
 work, calculated on a weekly basis or on average over a period of employment of up to one year, are less than the normal hours of work of a comparable whole-time employee and who is not a whole-time employee with reduced hours;
 "period of employment" means the time on any day during which
@@ -41,31 +42,30 @@ day week, in the case of watchmen.
 3. (1) Whole-time employees aged eighteen years or over
 shall not be paid less than the following wages:
 CATEGORY 1
-On engagement ............................................... €181.08
+On engagement ............................................... €182.83
 CATEGORY 2
-On engagement ............................................... €181.66
+On engagement ............................................... €183.41
 CATEGORY 3
 During the first, second and third year
-of employment in the category ........................ €182.83
+of employment in the category ........................ €184.58
 During the fourth and subsequent years
-of employment in the category ........................ €185.16
+of employment in the category ........................ €186.91
 CATEGORY 4
 During the first, second and third year
-of employment in the category ........................ €183.99
+of employment in the category ........................ €185.74
 During the fourth and subsequent years
-of employment in the category ........................ €186.32
+of employment in the category ........................ €188.07
 CATEGORY 5
 During the first, second and third year
-of employment in the category ........................ €187.49
-During the fourth and subsequent years
+of employment in the category ........................ €189.24
 [S.L.452.39 COUNCIL WAGE REGULATION 3
-of employment in the category ........................ €189.82
+During the fourth and subsequent years of employment in the category ........................ €191.57
 CATEGORY 6
-During the first year of employment in the category ................................................ €192.15
-During the second year of employment in the category ................................................ €196.80
-During the third and subsequent years of employment in the category ........................ €201.56.
+During the first year of employment in the category ................................................ €193.90
+During the second year of employment in the category ................................................ €198.55
+During the third and subsequent years of employment in the category ........................ €203.31.
 (2) (i) The minimum wage of employees aged seventeen shall be ninety per cent of the above wages.
-(ii) The minimum wage of emmployees aged sixteen shall be eighty-five per cent of the above wages.
+(ii) The minimum wage of employees aged sixteen shall be eighty-five per cent of the above wages.
 (3) In this paragraph -
 "Category 1" includes charwoman/fatigueman, watchman, chainman, messenger, receptionist;
 "Category 2" includes telephone attendant/operator, driver, printer;
@@ -75,8 +75,8 @@ During the third and subsequent years of employment in the category ............
 "Category 6" includes trade unions'/associations' officers with executive powers;
 "quantity surveyor assistant/calculator" is an employee who is wholly or mainly engaged in the preparation of estimates of works under the direction of an architect and civil engineer or any electrical, marine or mechanical engineer or quantity surveyor possessing the necessary qualifications for the exercise of his profession in Malta;
 "chainman" is an employee wholly or mainly engaged in assisting a surveyor. His duties may include the setting of a theodolite and the taking of readings therefrom but do not include plotting;
-"draughtsman" is an employee who is wholly or mainly engaged in the making of original sketches or in the drawing of designs from rough sketches and in the preparation of relevant complete working drawings. A draughtsman may be required to carry out outdoor field survey work and prepare estimates under the direction of an architect and civil engineer or electrical, marine or mechanical engineer or naval architect possessing the necessary qualifications for the exercise of his profession in Malta.
-"tracer/drawing office assistant" is an employee who is wholly or [S.L.452.39 4 COUNCIL WAGE REGULATION
+"draughtsman" is an employee who is wholly or mainly engaged in the making of original sketches or in the drawing of designs from rough sketches and in the preparation of relevant complete working drawings. A draughtsman may be required to carry out outdoor field survey work and prepare estimates under the direction of an architect and civil engineer or electrical, marine or mechanical engineer or naval architect possessing the necessary qualifications for the exercise of his profession in Malta. [S.L.452.39 4 COUNCIL WAGE REGULATION
+"tracer/drawing office assistant" is an employee who is wholly or
 mainly engaged in copying drawings and parts made by a draughtsman by tracing them in ink or pencil upon transparent paper or cloth, using T-square, compasses, pens and other drawing instruments;
 "law clerk" is a non-graduate who is employed to assist a lawyer,
 a notary public or a legal procurator in the formulation of pleadings or minutes of deeds or Public Registry notes, effects researches at the Public Registry, keeps appointments, records Court adjournments and otherwise helps his principal in the discharge of his work;
@@ -102,8 +102,8 @@ without remuneration according to the exigencies of their employment.
 year, to -
 (a) all customary holidays with full pay, and
 (b) after three months in employment, vacation leave of such number of working days with full pay as is equivalent to the number of working days as that particular employee should normally attend to work
-during a period of four weeks:
 [S.L.452.39 COUNCIL WAGE REGULATION 5
+during a period of four weeks:
 Provided that whole-time employees who have
 been in employment for less than one year shall be
 entitled to such part of the said vacation leave as is in
@@ -150,16 +150,13 @@ days leave on full pay on the occasion of his marriage.
 13. A whole-time employee shall be entitled to one year injury
 leave on full pay, less the full amount of any injury benefit to which such employee may be entitled in terms of the Social Security Act, if he is injured during the actual discharge of his duty, and such injury is not due to any contributory negligence on his part or to the contravention by him of any safety rules laid down by the management.
 14. A whole-time employee called for jury service shall be
-allowed all the necesary time off on full pay to enable him to attend the Court.
+allowed all the necessary time off on full pay to enable him to attend the Court.
 15. In cases where retirement of a male employee is expected
 at the age of sixty years, such employee shall be given the opportunity by the employer to retain his employment beyond this age at least until the age of sixty-one years, provided that the employee in question shall still be allowed, if he so wishes, to retire at sixty years.
-EXPLANATORY NOTE
-This note is not part of the Order but is intended to indicate its
-applicability.
-The provisions of the above Schedule shall apply to all
-employees in any office or undertaking or part of an undertaking the activities of which consist wholly or mainly in employment in
 [S.L.452.39 COUNCIL WAGE REGULATION 7
-any of the offices and establishments of the following -
+EXPLANATORY NOTE
+This note is not part of the Order but is intended to indicate its applicability.
+The provisions of the above Schedule shall apply to all employees in any office or undertaking or part of an undertaking the activities of which consist wholly or mainly in employment in any of the offices and establishments of the following -
 (a) trade unions including associations of a similar character;
 (b) offices of architects, engineers, legal advisers, notaries
 public, lotto receivers, accountants, book-keepers,
@@ -172,8 +169,8 @@ investment in unit trusts or which run the management
 of unit trusts (except establishments carrying out
 wholly or mainly insurance business).
 The provisions of the above Schedule do not apply to employees whose remuneration for work is regulated by a tariff made by a law.
-- Amended by: L.N. 104 of 1976; L.N. 114 of 1977; L.N. 37 of 1979; L.N. 46 of 1979; L.N. 427 of 2007; L.N. 129 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N.104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020.
-- Amended by: L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N.351 of 2019; L.N. 469 of 2020.
+- Amended by: L.N. 104 of 1976; L.N. 114 of 1977; L.N. 37 of 1979; L.N. 46 of 1979; L.N. 427 of 2007; L.N. 129 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N.104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021.
+- Amended by: L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N.351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021.
 - See Cap. 252.
 - See Cap. 594.
 - See Cap. 318.

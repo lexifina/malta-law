@@ -35,14 +35,14 @@ Provided that for day workers, such hours of work shall be spread over a five da
 (2) The minimum weekly remuneration for watchmen shall be related to a week of not more than fifty-two hours of work, exclusive of overtime, spread over six days.
 3. Subject to the provisions of paragraph 6 of this Schedule, the minimum wage rates payable to whole-time employees, shall be the following -
 (a) (i) Watchmen whose duties are mainly performed
-indoors ............................................. €181.08
+indoors ............................................. €182.83
 (ii) Watchmen whose duties are mainly performed
-out of doors ...................................... €183.41
-(b) Other whole-time employees - At age 18 years or over ............................. €181.08 At age 17 years ......................................... €174.30 At age 16 years ......................................... €171.46
+out of doors ...................................... €185.16
+(b) Other whole-time employees - At age 18 years or over ............................. €182.83 At age 17 years ......................................... €176.05 At age 16 years ......................................... €173.21
 4. Whole-time employees, other than watchmen, shall be allowed intervals for meals and rest of not less, in the aggregate, than one hour in every day on which the hours of work exceed five and a half hours.
 5. All whole-time employees shall be allowed a weekly day of rest in every week.
 6. (1) Subject to the provisions of this paragraph and of paragraph 2 of this Schedule, minimum overtime rates are payable to all whole-time employees, other than watchmen, to whom this Schedule applies, as follows : -
-(a) on any day, being a working day in resgect of the particular employee, for all time worked in excess of eight hours ........................................ time-and-a-half;
+(a) on any day, being a working day in respect of the particular employee, for all time worked in excess of eight hours ........................................ time-and-a-half;
 (b) for all time worked on any day, other than a Sunday or a customary holiday, not being a working day in respect of the particular employee ..... time-and-a-half;
 (c) for all time worked in excess of forty hours in any week exclusive of any time paid for at overtime rates .................................................. time-and-a-half;
 (d) for all hours work on a Sunday ............... double-time;
@@ -51,11 +51,11 @@ Provided that in any week which includes a customary holiday on a working day ov
 (2) Overtime at the rate of time-and-a-half shall be payable to watchmen for all time worked in excess of fifty-two hours in a period of six consecutive days, and for all time worked on the seventh day.
 7. (1) In addition to the minimum weekly rest to which whole-time employees may be entitled under paragraph 5, whole-time employees shall be entitled to the national holidays and to all public holidays with full pay, and to the following vacation leave not being less than:-
 (a) four working weeks and one working day during the calendar years 1988 and 1989;
-(b) four working weeks ands two working days during the calendar year, 1990;
+(b) four working weeks and two working days during the calendar year, 1990;
 (c) four working weeks and three working days during the calendar year, 1991;
 (d) four working weeks and four working days during the calendar year 1992 and during any calendar year thereafter:
-Provided that when a whole-time employee is in employment for less than twelve months during any calendar year, he shall be entitled to such part of the said vacation leave as is in proportion to the number of months in emloyment.
-(2) For the purpose of this paragraph "vacation leave" means leave with pay which may be availed of on days agreed upon between the employer and the employee, provided that one day vacation leave during 1988 and 1989, two days vacation leave during 1990, three days vacation leave during 1991 and four days vacation leave during 1992 and during any calendar year thereafter shall not form part of any shutdown and shall be granted by the employer as optional leave in addition to any optional leave the employee may have been entitled to on the 9th November, 1988.
+Provided that when a whole-time employee is in employment for less than twelve months during any calendar year, he shall be entitled to such part of the said vacation leave as is in proportion to the number of months in employment.
+(2) For the purpose of this paragraph "vacation leave" means leave with pay which may be availed of on days agreed upon between the employer and the employee, provided that one day vacation leave during 1988 and 1989, two days vacation leave during 1990, three days vacation leave during 1991 and four days vacation leave during 1992 and during any calendar year thereafter shall not form part of any shut-down and shall be granted by the employer as optional leave in addition to any optional leave the employee may have been entitled to on the 9th November, 1988.
 (3) For the purpose of this paragraph a break in employment of not more than thirty days shall not be deemed to interrupt the continuity of service.
 8. (1) After the completion of six months' continuous service, a whole-time employee shall in every calendar year be entitled to the equivalent in hours of twelve days sick leave on full pay, less an amount equal to the sum set for sickness benefit entitlement at the rate established under the Social Security Act, and part-time employees shall have a pro rata entitlement to sick leave in hours on full pay, less an amount equal to the sum set for sickness benefit entitlement at the rate established under the Social Security Act, which amount is also to be calculated on a pro rata basis:
 Provided that -
@@ -85,8 +85,8 @@ Provided that if the brother or sister had not been living in the same household
 EXPLANATORY NOTE
 (This note is not part of the Order but is intended to indicate its applicability).
 The provisions of the above Schedule shall apply to all employees engaged in establishments manufacturing furniture, fixtures and other articles wholly or mainly in wood (excluding smokers' pipes but including boats and motor vehicles bodies) upholstery and wicker or cane work, whether natural or artificial and for employees employed by woodwork contractors in building and civil engineering.
-- Amended by: L.N. 91 of 1977; L.N. 1 of 1979; L.N. 91 of 1990; L.N. 427 of 2007; L.N. 142 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020.
-- Amended by: L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 104 of 2019; L.N. 469 of 2020.
+- Amended by: L.N. 91 of 1977; L.N. 1 of 1979; L.N. 91 of 1990; L.N. 427 of 2007; L.N. 142 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021.
+- Amended by: L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 104 of 2019; L.N. 469 of 2020; L.N. 464 of 2021.
 - See Cap. 252.
 - See Cap. 318.
 - See Cap. 318.

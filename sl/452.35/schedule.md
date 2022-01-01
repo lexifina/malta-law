@@ -28,7 +28,7 @@
 "weekly day of rest" means a period of twenty-four consecutive hours commencing at the time at which the employee would commence his turn of duty;
 "whole-time employee" means an employee who is deemed to be a whole-time employee in terms of any recognized conditions of employment.
 2. The minimum weekly wage shall be related to a week of not more than forty-eight hours.
-3. The minimum weekly wage payable to whole-time employees shall be one hundred and eighty one euro and eight cents (€181.08).
+3. The minimum weekly wage payable to whole-time employees shall be one hundred and eighty-two euro and eighty-three cents (€182.83).
 4. Bus conductors and bus drivers shall be entitled to an additional allowance of twenty-three cents (0.23) per week to cover the cost of uniforms as laid down in regulation 158 of the Motor Vehicles Regulations, provided that such employees shall wear such uniforms regularly while on duty and shall maintain them in a fit and proper condition.
 5. Part-time employees shall be entitled to a minimum hourly rate calculated pro rata in accordance with the provisions of paragraphs 2 and 3 of this Schedule, provided that for employment of not less than four hours in any one day payment shall in no case be less than the equivalent of a day's work.
 6. All employees shall be entitled to one day of rest in every week.
@@ -47,10 +47,10 @@ Provided that -
 (3) The sick leave entitlement granted by virtue of this paragraph shall be calculated on the basis provided for annual leave as specified in regulation 8(1) of the Organisation of Working Time Regulations.
 10. Whole-time employees shall be allowed two days paid leave on the occasion of the death of any of the following relatives: the wife or husband, the father or mother, or the person who at the time was in fact acting as the father or mother of the employee, the son or daughter, and the brother or sister.
 11. A whole-time employee shall be allowed three days leave on full pay on the occasion of his marriage and one day leave on full pay on the occasion of the birth of a child to his wife.
-12. A whole-time employee shall be entitled to a maximum of one year injury leave on full pay, less the full amount of any injury benefit to which such employee may be entitled in terms of the Social Security Act, if he is injured during the actual discharge of his duty and such injury is not due to any contributory negligence on his part or to the contravention by him of any safety rules laid down by the mangement.
+12. A whole-time employee shall be entitled to a maximum of one year injury leave on full pay, less the full amount of any injury benefit to which such employee may be entitled in terms of the Social Security Act, if he is injured during the actual discharge of his duty and such injury is not due to any contributory negligence on his part or to the contravention by him of any safety rules laid down by the management.
 13. A whole-time employee shall, if called upon to serve as juror, be allowed all time off as shall be necessary, without any deduction from pay to which he would otherwise have been entitled, to enable him to attend to such duty in Court.
 14. An employee is entitled to the payment of the minimum remuneration applicable to him for all time during which he is present on the premises of his employer or in any other place in connection with his employment unless he is present thereon in any of the following circumstances -
-(a) without the employer's consent, expessed or implied;
+(a) without the employer's consent, expressed or implied;
 (b) for some purpose unconnected with his work and other than that of waiting for work to be given to him to perform;
 (c) by reason only of the fact that he is resident thereon;
 (d) during recognised breaks for meals and rest, and he is not waiting for work to be given to him to perform.
@@ -64,8 +64,8 @@ The above Order applies to employees employed in the conveyance of passengers by
 4. Ticket sellers.
 5. Ticket booth attendants.
 The rates of wages set out in the Schedule are minimum rates and do not prevent the payment of higher rates.
-- Amended by: L.N. 17 of 1972; L.N. 120 of 1975; L.N. 148 of 1976; L.N. 106 of 1977; L.N. 28 of 1979; L.N. 427 of 2007; L.N. 140 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020.
-- Amended by: L.N. 97 of 2017; L.N. 383 of 2017; L.N. 351 of 2019; L.N. 469 of 2020.
+- Amended by: L.N. 17 of 1972; L.N. 120 of 1975; L.N. 148 of 1976; L.N. 106 of 1977; L.N. 28 of 1979; L.N. 427 of 2007; L.N. 140 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021.
+- Amended by: L.N. 97 of 2017; L.N. 383 of 2017; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021.
 - See Cap. 252.
 - See S.L. 65.11.
 - See Cap. 318.

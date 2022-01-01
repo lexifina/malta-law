@@ -42,12 +42,12 @@ Age Where the Where the Where neither
 employer employer column 2 nor
 supplies one supplies two column 3 is main meal per main meals applicable.
 day. per day.
-Under 17 years €171.11 €169.71 €172.35 17 years of age €173.67 €172.28 €174.91 18 years of age or over €181.01 €179.61 €182.25:
+Under 17 years €172.86 €171.46 €174.10 17 years of age €175.42 €174.03 €176.66 18 years of age or over €182.76 €181.36 €184.00:
 Provided that column 2 or 3 is only applicable where the meal or meals are supplied by the employer in agreement with the employee.
 (2) The minimum weekly remuneration payable to watchmen shall be as follows:
-(a) watchmen whose duties are mainly performed indoors .................................................................... €182.25;
-(b) watchmen whose duties are mainly performed out of doors ........................................................... €184.57.
-(3) The minimum weekly remuneration payable to musicians shall be €199.18.
+(a) watchmen whose duties are mainly performed indoors .................................................................... €184.00;
+(b) watchmen whose duties are mainly performed out of doors ........................................................... €186.32.
+(3) The minimum weekly remuneration payable to musicians shall be €200.93.
 4. (i) All whole-time employees, other than musicians, shall be allowed intervals of not less, in the aggregate, than one hour for meals and rest in any day on which the hours of work exceed five and a half hours.
 (ii) Whole-time musicians shall be allowed intervals of not less in the aggregate of half an hour for rest in any day.
 5. Whole-time employees employed on maintenance work shall be entitled to overtime remuneration as follows:
@@ -83,12 +83,12 @@ PART II
 11. (1) The minimum weekly remuneration payable to whole-time employees (other than watchmen) in clubs, of the age specified in Column 1 of the Table hereunder, shall be the appropriate rate set out in respect thereto in Column 2 thereof:
 Column 1 Column 2
 Age Rate per week
-Under 17 years €172.35
-17 years of age €174.93
-18 years of age or over €181.08
+Under 17 years €174.10
+17 years of age €176.68
+18 years of age or over €182.83
 (2) The minimum weekly remuneration payable to watchmen in clubs shall be as follows:
-(a) those whose duties are mainly performed indoors ..................................................................... €181.08
-(b) those whose duties are mainly performed out of doors ..................................................................... €183.41.
+(a) those whose duties are mainly performed indoors ..................................................................... €182.83
+(b) those whose duties are mainly performed out of doors ..................................................................... €185.16.
 12. All whole-time employees shall he entitled to overtime remuneration as follows -
 (a) for all time worked in excess of six and three quarter hours ................................................ time-and-a-half;
 (b) for all time worked in excess of forty hours in any week, exclusive of any time paid for at overtime rates .......................................................... time-and-a-half;
@@ -101,7 +101,7 @@ Provided that -
 (i) the Director may authorise an employer in writing to pay overtime to a specified employee or group of employees in respect only of the hours of work in excess of a weekly average of forty hours calculated over such a number of consecutive weeks as the Director may deem reasonable, and in that case the provisions of sub-paragraph (a) of this paragraph shall not apply;
 (ii) the hours of work in relation to one employee acting as night porter on any day in any one establishment shall include only half the time
 included in a sleeping period.
-13. "Part-time employee" means an employee whose normal hours of work, calculated on a weekly basis or on average over a period of employment of up to one year, are less than the normal hours of work of a comparable whole-time employee and who is not a whole-time employee with reduced hours, and "wholetime employee" means an employee who is deemed to be a whole-time employee in terms of any recognized conditions of employment.
+13. "Part-time employee" means an employee whose normal hours of work, calculated on a weekly basis or on average over a period of employment of up to one year, are less than the normal hours of work of a comparable whole-time employee and who is not a whole-time employee with reduced hours, and "whole-time employee" means an employee who is deemed to be a whole-time employee in terms of any recognized conditions of employment.
 14. The minimum remuneration payable to part-time employees of the categories specified in paragraph 11 hereof shall be pro rata at an hourly rate arrived at by dividing the amount appearing for each category, by the number of hours of work per week for the relative category.
 15. Employees working on a system of split shifts shall be entitled to an additional payment of 50c per day worked on such system.
 PART III
@@ -117,19 +117,19 @@ PART III
 Minimum Remuneration
 Whole-time employees in restaurants -
 Column 1 Column 2
-At age 16 years €172.35 At age 17 years €174.93 At age 18 years or over €182.25:
+At age 16 years €174.10 At age 17 years €176.68 At age 18 years or over €184.00:
 Provided that the employer shall have the right to deduct from the rate shown in Column 2 above 23c for every day that he, in agreement with the employee, provides one main meal to the employee;
 (b) whole-time employees, other than watchmen, or employees in restaurants, to whom this Schedule applies, of the age specified in Column 1 of the Table hereunder, shall be entitled to the appropriate rate of
 remuneration set out in Column 2 thereof.
 Minimum Remuneration
 Whole-time employees (other than watchmen) in establishments other than restaurants -
 Column 1 Column 2
-At age 16 years €172.35 At age 17 years €174.93 At age 18 years or over €182.25.
+At age 16 years €174.10 At age 17 years €176.68 At age 18 years or over €184.00.
 (c) Watchmen shall be paid as follows:
 (i) those whose duties are mainly performed
-indoors .............................................. €182.25;
+indoors .............................................. €184.00;
 (ii) those whose duties are mainly performed
-outdoors ............................................ €184.57.
+outdoors ............................................ €186.32.
 20. All whole-time employees shall be allowed intervals of not less, in the aggregate, than one hour for meals and rest every day.
 21. All whole-time employees shall be allowed one whole day off in every period of seven consecutive days:
 Provided that this paragraph shall not apply in respect of any week in which an employee is employed on a Sunday or customary holiday and is paid at double-time in accordance with the provisions of paragraph 22 of this Schedule.
@@ -208,10 +208,10 @@ The provisions in the above Schedule will apply to all persons employed in hotel
 Hotels include any bar, restaurant or shop run directly by the management of a hotel as part of that hotel.
 Clubs include any bar, restaurant or shop either run directly by the management of a club, or given out under contract, for the purpose of increasing the amenities of the club.
 The term ''guest houses'', ''holiday complexes or tourist villages'', and ''licensed holiday flats'' have the same meaning as is assigned to them by the Malta Travel and Tourism Services Act.
-- Amended by: L.N. 427 of 2007; L.N. 127 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; A.L. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020.
-- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020.
-- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020.
-- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020.
+- Amended by: L.N. 427 of 2007; L.N. 127 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; A.L. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021.
+- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021.
+- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021.
+- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021.
 - See Cap. 318.
 - See Cap. 318.
 - See Cap. 318.

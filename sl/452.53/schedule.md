@@ -30,12 +30,12 @@
 (a) forty-two hours of work between April and September and thirty-eight hours of work between October and March in the case of whole-time employees other than watchmen; and
 (b) fifty-four hours of work in the case of watchmen.
 3. The minimum weekly remuneration payable to whole-time employees shall be the following -
-(a) watchmen whose duties are mainly performed indoors ................................................................... €181.08
-(b) watchmen whose duties are mainly performed out of doors ......................................................... €185.16
+(a) watchmen whose duties are mainly performed indoors ................................................................... €182.83
+(b) watchmen whose duties are mainly performed out of doors ......................................................... €186.91
 (c) other whole-time employees, both males and females -
-(i) aged 18 years or over ....................... €181.08
+(i) aged 18 years or over ....................... €182.83
 (ii) under 18 years of age learners -
-17 years ........................................... €174.93 16 years ........................................... €172.35.
+17 years ........................................... €176.68 16 years ........................................... €174.10.
 4. Whole-time employees, other than watchmen, shall be allowed intervals for meals and rest of not less, in the aggregate, than one hour every day.
 5. Whole-time employees shall be allowed a weekly day of rest in every period of seven consecutive days.
 6. (1) Whole-time employees, other than watchmen, shall be paid overtime as follows -
@@ -56,7 +56,7 @@ between April and September; and
 (c) four working weeks and three working days during the calendar year 1991;
 (d) four working weeks and four working days during the calendar years 1992 and during any calendar year thereafter:
 Provided that when a whole-time employee is in employment for less than twelve months during any calendar year, he shall be entitled to such part of the said vacation leave as is in proportion to the number of months in employment.
-(2) For the purpose of this paragraph "vacation leave" means leave with pay which may be availed of on days agreed upon between the employer and employee, provided that one day vacation leave during 1988 and 1989, two days vacation leave during 1990, three days vacation leave during 1991 and four days vacation leave during 1992 and during any calendar year thereafter shall not form part of any shutdown and shall be granted by the employer as optional leave in addition to any optional leave the employee may have been entitled to on the 9th November, 1988.
+(2) For the purpose of this paragraph "vacation leave" means leave with pay which may be availed of on days agreed upon between the employer and employee, provided that one day vacation leave during 1988 and 1989, two days vacation leave during 1990, three days vacation leave during 1991 and four days vacation leave during 1992 and during any calendar year thereafter shall not form part of any shut-down and shall be granted by the employer as optional leave in addition to any optional leave the employee may have been entitled to on the 9th November, 1988.
 8. (1) After completing the first twelve months of employment, a whole-time employee shall in every calendar year be entitled to the equivalent in hours of twelve days sick leave on full pay, less an amount equal to the sum set for sickness benefit entitlement at the rate established under the Social Security Act, and part-time employees shall have a pro rata entitlement to sick leave in hours on full pay, less an amount equal to the sum set for sickness benefit entitlement at the rate established under the Social Security Act, which amount is also to be calculated on a pro rata basis:
 Provided that -
 (a) the first three days of any claim for sick leave shall be paid in full by the employer;
@@ -85,8 +85,8 @@ EXPLANATORY NOTE
 (This note is not part of the Order but it is intended to indicate its applicability).
 The provisions in the above Schedule will apply to all employees in any undertaking or in any part of an undertaking, the activities of which consist wholly or mainly in any of the following:
 The cleaning by wet or dry processes, pressing, dyeing or repairing by hand or machine apparel of any kind, linens and household furnishings, and for all employees in any laundry in a hotel where such laundry is not run exclusively for the use of the hotel and its visitors.
-- Amended by: L.N. 48 of 1978; L.N. 3 of 1979; L.N. 114 of 1991; L.N. 427 of 2007; L.N. 139 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020.
-- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020.
+- Amended by: L.N. 48 of 1978; L.N. 3 of 1979; L.N. 114 of 1991; L.N. 427 of 2007; L.N. 139 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021.
+- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021.
 - See Cap. 252.
 - See Cap. 318.
 - See Cap. 318.

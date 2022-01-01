@@ -21,9 +21,9 @@
 "outside worker" means a person employed mainly outside the factory in the distribution and delivery of the employer's products and in the collection of the employer's empty bottles and boxes;
 "part-time employee" means an employee whose normal hours of work, calculated on a weekly basis or on average over a period of employment of up to one year, are less than the normal hours of work of a comparable whole-time employee and who is not a whole-time employee with reduced hours;
 "time-and-a-half" and "double-time" mean respectively one and a half times and twice the minimum rate applicable to the employee;
-"wages" means remuneration or earnings, payable in money by an employer to an employee;
-"whole-time employee" means an employee who is deemed to be a whole-time employee in terms of any recognized conditions of [S.L.452.60 2 COUNCIL WAGE REGULATION
-employment.
+"wages" means remuneration or earnings, payable in money by an employer to an employee; [S.L.452.60 2 COUNCIL WAGE REGULATION
+"whole-time employee" means an employee who is deemed to be
+a whole-time employee in terms of any recognized conditions of employment.
 2. The minimum weekly remuneration shall be related to a
 week of not more than -
 (a) forty hours of work in the case of whole-time
@@ -31,14 +31,14 @@ employees other than watchmen, and
 (b) fifty-two hours of work, spread over a six-day week, in the case of watchmen.
 3. The minimum weekly remuneration payable to whole-time
 employees, both males and females, shall be that shown hereunder:
-(a) watchmen ................................ €183.99 x €0.58c -
-€185.15
+(a) watchmen ................................ €185.74 x €0.58c -
+€186.90
 (b) other employees:
-(i) aged 20 years or over .........€183.99 x €0.58c -
-€185.15
-(ii) aged 18 years or 19 years ..... €181.08
-(iii) aged 17 years ...................... €174.93
-(iv) aged under 17 years ............ €172.35:
+(i) aged 20 years or over .........€185.74 x €0.58c -
+€186.90
+(ii) aged 18 years or 19 years ..... €182.83
+(iii) aged 17 years ...................... €176.68
+(iv) aged under 17 years ............ €174.10:
 Provided that, where the remuneration is
 incremental, the increment shall be awarded annually.
 4. Whole-time employees, other than watchmen, shall be
@@ -54,10 +54,10 @@ calendar week ................................... time-and-a-half;
 (d) for all time worked on any customary holiday, when such day falls on any day other than Saturday and Sunday ............................................. time-and-a-half;
 (e) for all time worked on Sundays or when a customary holiday falls on a Saturday ..................... double-time:
 Provided that any overtime due in accordance with the
-provisions of sub-paragraph (b) or (c) of this sub-paragraph shall only be payable if the total time worked in any calendar week is not less than forty hours and so long as any reduction, in such number of hours, is not the result of an employer's order or as a consequence of a customary holiday occurring on a working day.
-(2) Whole-time outside workers may be entitled to overtime
+provisions of sub-paragraph (b) or (c) of this sub-paragraph shall only be payable if the total time worked in any calendar week is not less than forty hours and so long as any reduction, in such number of hours, is not the result of an employer's order or as a
 [S.L.452.60 COUNCIL WAGE REGULATION 3
-remuneration on a commission basis:
+consequence of a customary holiday occurring on a working day.
+(2) Whole-time outside workers may be entitled to overtime remuneration on a commission basis:
 Provided that such overtime remuneration may be offset against any commission paid to the employee so long as the amount of such commission is not less than the overtime remuneration due to him at the following rates:
 (a) for all time worked in excess of forty hours in any
 calendar week ................................... time-and-a-half;
@@ -87,9 +87,11 @@ calendar week ........................................ double-time.
 (d) four working weeks and four working days during the
 calendar year 1992 and during any calendar year
 thereafter:
-Provided that when a whole-time employee is in employment for less than twelve months during any calendar year, he shall be entitled to such part of the said vacation leave as is in proportion to the number of months in employment. [S.L.452.60 4 COUNCIL WAGE REGULATION
+Provided that when a whole-time employee is in employment for less than twelve months during any calendar year, [S.L.452.60 4 COUNCIL WAGE REGULATION
+he shall be entitled to such part of the said vacation leave as is in
+proportion to the number of months in employment.
 (2) For the purpose of this paragraph "vacation leave" means
-leave with pay which may be availed of on days agreed upon between the employer and the employee, provided that one day vacation leave during 1988 and 1989, two days vacation leave during 1990, three days vacation leave during 1991 and four days vacation leave during 1992 and during any calendar year thereafter shall not form part of any shutdown and shall be granted by the employer as optional leave in addition to any optional leave the employee may have been entitled to on the 9th November, 1988.
+leave with pay which may be availed of on days agreed upon between the employer and the employee, provided that one day vacation leave during 1988 and 1989, two days vacation leave during 1990, three days vacation leave during 1991 and four days vacation leave during 1992 and during any calendar year thereafter shall not form part of any shut-down and shall be granted by the employer as optional leave in addition to any optional leave the employee may have been entitled to on the 9th November, 1988.
 8. (1) A whole-time employee shall in every calendar year be
 entitled to the equivalent in hours of twelve days sick leave on full pay, less an amount equal to the sum set for sickness benefit entitlement at the rate established under the Social Security Act, and part-time employees shall have a pro rata entitlement to sick leave in hours on full pay, less an amount equal to the sum set for sickness benefit entitlement at the rate established under the Social Security Act, which amount is also to be calculated on a pro rata basis:
 Provided that -
@@ -104,8 +106,9 @@ physician to certify incapacity for work during the period of absence.
 (4) The sick leave entitlement granted by virtue of this
 paragraph shall be calculated on the basis provided for annual leave as specified in regulation 8(1) of the Organisation of Working Time Regulations.
 9. Whole-time employees shall be entitled to two days leave
-on full pay on the occasion of the death of one of the following relatives: the wife, husband, mother, father (or the person who at the time was in fact acting as the mother or father of the employee), son, daughter, brother or sister.
+on full pay on the occasion of the death of one of the following relatives: the wife, husband, mother, father (or the person who at the time was in fact acting as the mother or father of the employee),
 [S.L.452.60 COUNCIL WAGE REGULATION 5
+son, daughter, brother or sister.
 10. A whole-time employee shall be entitled up to a maximum of one year injury leave on full pay, less the full amount of any injury benefit to which such employee may be entitled in terms of the Social Security Act, if he is injured during the actual discharge of his duty and such injury is not due to any contributory negligence on his part or to the contravention by him of any safety rules laid down by the management.
 11. A whole-time employee shall be allowed three days leave on full pay on the occasion of his marriage.
 12. A whole-time employee shall be allowed two days leave on full pay on the occasion of the birth of a child to his wife.
@@ -118,12 +121,11 @@ EXPLANATORY NOTE
 The provisions of the above Schedule apply to all employees in any undertaking, or in any part of an undertaking, which consists wholly or mainly in the bottling or the production of distilled spirits, wines, malt liquors, soft drinks and carbonated beverages, and of any other activity so far as it is incidental or ancillary to any such activity as aforesaid as the undertaking, including, without prejudice to the generality of the foregoing -
 (a) the distilling of ethyl alcohol for all purposes, the
 distilling, rectifying and blending of alcoholic liquors;
-(b) the production of wines, cider, parry or other fermented beverages;
+(b) the production of wines, cider, parry or other fermented beverages; [S.L.452.60 6 COUNCIL WAGE REGULATION
 (c) the production of malt or malt liquors, such as beer, ale, porter and stout, and
-(d) the manufacture of non-alcoholic beverages, such as [S.L.452.60 6 COUNCIL WAGE REGULATION
-soft drinks and carbonated mineral waters.
-- Amended by: L.N. 112 of 1990; L.N. 427 of 2007; L.N. 144 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020.
-- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020.
+(d) the manufacture of non-alcoholic beverages, such as soft drinks and carbonated mineral waters.
+- Amended by: L.N. 112 of 1990; L.N. 427 of 2007; L.N. 144 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021.
+- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021.
 - See Cap. 252.
 - See Cap. 318.
 - See Cap. 318.

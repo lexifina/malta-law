@@ -22,8 +22,8 @@
 "day" in the case of shift employees, means a period of twenty-four consecutive hours; and, in all other cases, it means a period running from midnight of one day to midnight of the next following day;
 "hours of work" means the time on any day during which employees are at the disposal of the employer exclusive of the intervals allowed for meals and rest;
 "night shift" means any period of employment that includes any hours from 10 p.m. of one day to 6 a.m. of the next following day;
-"part-time employee" means an employee whose normal hours of work, calculated on a weekly basis or on average over a period of employment of up to one year, are less than the normal hours of work of a comparable whole-time employee and who is not a whole-time employee with reduced hours;
-"part-time watchman" means an employee employed as a [S.L.452.55 2 WAGES COUNCIL WAGE REGULATION
+"part-time employee" means an employee whose normal hours of work, calculated on a weekly basis or on average over a period of employment of up to one year, are less than the normal hours of work of a comparable whole-time employee and who is not a whole-time employee with reduced hours; [S.L.452.55 2 WAGES COUNCIL WAGE REGULATION
+"part-time watchman" means an employee employed as a
 watchman for not more than thirty-six hours a week;
 "period of employment" means the time in any day during which
 employees are at the disposal of the employer, but inclusive of the intervals allowed for meals and rest;
@@ -45,12 +45,12 @@ not more than -
 3. The minimum weekly wages payable to whole-time
 employees shall be the following -
 (a) Watchmen -
-(i) whose duties are mainly performed indoors ........................................................... €181.08
-(ii) whose duties are mainly performed out of doors ........................................................... €183.41;
+(i) whose duties are mainly performed indoors ........................................................... €182.83
+(ii) whose duties are mainly performed out of doors ........................................................... €185.16;
 (b) Other whole-time employees -
-At age 18 years or over ............................... €181.08
-At age 17 years ........................................... €174.30
-At age 16 years ........................................... €171.46.
+At age 18 years or over ............................... €182.83
+At age 17 years ........................................... €176.05
+At age 16 years ........................................... €173.21.
 (c) Shift employees:
 (i) In the case of employees called upon to work on a three shift cycle and in consideration of the periods of night work on a three shift, an allowance shall be paid equivalent to one-tenth of the normal rate of basic remuneration. In the case of employees an a two-shift basis a shift allowance shall be paid equivalent to one-twelfth of the normal rate of basic remuneration;
 [S.L.452.55 WAGES COUNCIL WAGE REGULATION 3
@@ -172,8 +172,8 @@ employees shall be at such hourly rate arrived at -
 age eighteen years or over.
 15. An employee is entitled to the payment of the minimum
 wages applicable to him for all time during which he is present on the premises of his employer or elsewhere unless he is present thereon in any of the following circumstances -
-(a) without the employer's consent, expressed or implied;
 [S.L.452.55 WAGES COUNCIL WAGE REGULATION 7
+(a) without the employer's consent, expressed or implied;
 (b) for some purpose unconnected with his work and other
 than that of waiting for work to be given to him to
 perform;
@@ -190,8 +190,8 @@ weaving, knitting, finishing and any other process
 incidental to the foregoing) of natural, artificial or
 man-made fibres and fabrics; and
 (b) the making up of articles from natural, artificial or man-made fibres and fabrics.
-- Amended by: L.N. 60 of 1978; L.N. 23 of 1979; L.N. 24 of 1981; L.N. 74 of 1989; L.N. 46 of 1990; L.N. 427 of 2007; L.N. 143 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019.
-- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020.
+- Amended by: L.N. 60 of 1978; L.N. 23 of 1979; L.N. 24 of 1981; L.N. 74 of 1989; L.N. 46 of 1990; L.N. 427 of 2007; L.N. 143 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 464 of 2021.
+- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021.
 - See Cap. 252.
 - See Cap. 318.
 - See Cap. 318.

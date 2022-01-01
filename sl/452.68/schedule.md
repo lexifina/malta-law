@@ -20,8 +20,8 @@
 "part-time employee" means an employee whose normal hours of work, calculated on a weekly basis or on average over a period of employment of up to one year, are less than the normal hours of work of a comparable whole-time employee and who is not a whole-time employee with reduced hours;
 "time-and-a-half" and "double-time" mean respectively one-and-a-half times and twice the minimum time rate applicable to the employee;
 "wages" means remuneration or earnings payable in money by an employer to an employee;
-"whole-time employee" means an employee who is deemed to be a whole-time employee in terms of any recognized conditions of employment.
-2. (1) The hours of work of whole-time employees other than [S.L.452.68 2 WAGES COUNCIL WAGE REGULATION
+"whole-time employee" means an employee who is deemed to be a whole-time employee in terms of any recognized conditions of employment. [S.L.452.68 2 WAGES COUNCIL WAGE REGULATION
+2. (1) The hours of work of whole-time employees other than
 watchmen shall not exceed forty hours in any one week:
 Provided that by mutual agreement between the employer
 and the authorised representatives of the employees, the total number of hours worked in any one week can be extended or decreased sohowever as neither to exceed a maximum of forty-two
@@ -32,12 +32,12 @@ calendar year does not exceed an average of forty hours per week.
 exceed fifty-four in any one week of six days.
 3. (1) The minimum weekly wage payable to whole-time
 employees, both male and female, other than watchmen shall be the following:
-At age 18 years or over ..................... €181.08
-At age 17 years ................................. €174.30
-At age 16 years ................................. €171.46.
+At age 18 years or over ..................... €182.83
+At age 17 years ................................. €176.05
+At age 16 years ................................. €173.21.
 (2) The minimum wage for watchmen shall be:
-€181.08 - for watchmen whose duty is mainly performed indoors
-€183.41 - for watchmen whose duty is mainly performed out of doors.
+€182.83 - for watchmen whose duty is mainly performed indoors
+€185.16 - for watchmen whose duty is mainly performed out of doors.
 4. The minimum remuneration payable to part-time
 employees of the categories specified in paragraph 3 hereof shall not be less than the proportionate rate of the minimum remuneration payable to a whole-time employee of the same category, calculated on the basis of a fifty-four hour week in the case of watchmen and a forty hour week in the case of other employees.
 5. The minimum earnings by an employee engaged on piece-
@@ -51,9 +51,8 @@ off in every calendar week.
 8. (1) Whole-time employees, other than watchmen, shall be
 paid at time-and-a-half rates for overtime work performed on weekdays, and at double-time for work performed on Sundays and public holidays.
 (2) Watchmen shall be paid at time-and-a-half rates for time
-worked in excess of fifty-four hours in a six-day week, and at
 [S.L.452.68 WAGES COUNCIL WAGE REGULATION 3
-double time rates for all time worked on a Sunday or a public holiday.
+worked in excess of fifty-four hours in a six-day week, and at double time rates for all time worked on a Sunday or a public holiday.
 9. (1) In addition to the minimum weekly rest to which whole-time employees may be entitled under paragraph 7, whole-time employees shall be entitled to the national holidays and to all public holidays with full pay, and to the following vacation leave not being less than:
 (a) four working weeks and one working day during the calendar years 1988 and 1989;
 (b) four working weeks and two working days during the calendar year 1990;
@@ -62,7 +61,7 @@ double time rates for all time worked on a Sunday or a public holiday.
 calendar year 1992 and during any calendar year
 thereafter:
 Provided that when a whole-time employee is in employment for less than twelve months during any calendar year, he shall be entitled to such part of the said vacation leave as is in proportion to the number of months in employment.
-(2) For the purpose of this paragraph "vacation leave" means leave with pay which may be availed of on days agreed upon between the employer and the employee, provided that one day vacation leave during 1988 and 1989, two days vacation leave during 1990, three days vacation leave during 1991 and four days vacation leave during 1992 and during any calendar year thereafter shall not form part of any shutdown and shall be granted by the employer as optional leave in addition to any optional leave the employee may have been entitled to on the 9th November, 1988.
+(2) For the purpose of this paragraph "vacation leave" means leave with pay which may be availed of on days agreed upon between the employer and the employee, provided that one day vacation leave during 1988 and 1989, two days vacation leave during 1990, three days vacation leave during 1991 and four days vacation leave during 1992 and during any calendar year thereafter shall not form part of any shut-down and shall be granted by the employer as optional leave in addition to any optional leave the employee may have been entitled to on the 9th November, 1988.
 10. (1) After six months in employment, a whole-time employee shall be entitled to the equivalent in hours of six days sick leave on full pay, less an amount equal to the sum set for sickness benefit entitlement at the rate established under the Social Security Act, and part-time employees shall have a pro rata entitlement to sick leave in hours on full pay, less an amount equal to the sum set for sickness benefit entitlement at the rate established under the Social Security Act, which amount is also to be calculated on a pro rata basis:
 Provided that -
 (a) the first three days of any claim for sick leave shall be paid in full by the employer;
@@ -70,11 +69,8 @@ Provided that -
 produced to the employer on the day of return to work
 or, if such period of absence is longer than seven days,
 within seven days of the onset of sick leave absence;
-(c) employees in receipt of a social security pension in
-respect of retirement or widowhood in terms of the
-Social Security Act shall, for the purpose of
 [S.L.452.68 4 WAGES COUNCIL WAGE REGULATION
-calculating the sick leave pay due, be deemed to have received an amount equal to the sum set for sickness benefit entitlement at the rate established under the Social Security Act.
+(c) employees in receipt of a social security pension in respect of retirement or widowhood in terms of the Social Security Act shall, for the purpose of calculating the sick leave pay due, be deemed to have received an amount equal to the sum set for sickness benefit entitlement at the rate established under the Social Security Act.
 (2) After six months in employment, a whole-time employee
 shall be entitled to the equivalent in hours of a further six days sick leave on half pay, less an amount equal to half the sum set for sickness benefit entitlement at the rate established under the Social Security Act, and part-time employees shall have a pro rata entitlement to sick leave in hours on half pay, less an amount equal to half the sum set for sickness benefit entitlement at the rate established under the Social Security Act, which amount is also to be calculated on a pro rata basis:
 Provided that -
@@ -89,8 +85,10 @@ Provided that -
 (a) the first three days of any claim for sick leave shall be
 paid in full by the employer;
 (b) a medical certificate covering the period of absence is produced to the employer on the day of return to work or, if such period of absence is longer than seven days, within seven days of the onset of sick leave absence;
-(c) employees in receipt of a social security pension in respect of retirement or widowhood in terms of the Social Security Act shall, for the purpose of calculating the sick leave pay due, be deemed to have received an amount equal to the sum set for sickness benefit entitlement at the rate established under the
+(c) employees in receipt of a social security pension in respect of retirement or widowhood in terms of the Social Security Act shall, for the purpose of calculating the sick leave pay due, be deemed to have
 [S.L.452.68 WAGES COUNCIL WAGE REGULATION 5
+received an amount equal to the sum set for sickness
+benefit entitlement at the rate established under the
 Social Security Act.
 (4) After twelve months in employment, a whole-time employee shall in every calendar year be entitled to the equivalent in hours of a further twelve days sick leave on half pay, less an amount equal to half the sum set for sickness benefit entitlement at the rate established under the Social Security Act, and part-time employees shall have a pro rata entitlement to sick leave in hours on half pay, less an amount equal to half the sum set for sickness benefit entitlement at the rate established under the Social Security Act, which amount is also to be calculated on a pro rata basis:
 Provided that -
@@ -111,8 +109,9 @@ under the Social Security Act.
 10A. Whole-time employees shall be entitled to one year injury leave on full pay, less the full amount of any injury benefit to which the employee may be entitled in terms of the Social Security Act, if he is injured during the actual discharge of his duty and such injury is not due to contributory negligence on his part or in contravention by him of safety rules laid down by the management.
 11. (1) Whole-time employees shall be entitled to two days paid leave on the occasion of the death of any of the following relatives: the wife or husband of the employee, the father or mother (or the person who at the time was acting as the father or mother), the son or daughter, and the brother or sister.
 (2) Whole-time employees shall be entitled to one day paid leave on the occasion of the birth of any child to the wife of the employee.
-(3) Bereavement leave or birth leave shall not be claimed, partly or wholly if the occurrence takes place when the employee is on vacation leave, or on a Sunday or a customary holiday.
-(4) Whole-time employees shall be allowed three days paid [S.L.452.68 6 WAGES COUNCIL WAGE REGULATION
+(3) Bereavement leave or birth leave shall not be claimed, partly or wholly if the occurrence takes place when the employee is [S.L.452.68 6 WAGES COUNCIL WAGE REGULATION
+on vacation leave, or on a Sunday or a customary holiday.
+(4) Whole-time employees shall be allowed three days paid
 leave on the occasion of their marriage.
 (5) Whole-time employees called for jury service shall be
 allowed all necessary time off on full pay to attend to such service in Court.
@@ -130,8 +129,8 @@ EXPLANATORY NOTE
 its applicability).
 The provisions of the above Schedule apply to all employees in
 any undertaking or in any part of an undertaking, the activities of which consist wholly or mainly in the manufacture of cigars, cigarettes, cheroots or pipe or other tobacco and any form of processing of tobacco, whether by hand or by machine.
-- Amended by: L.N. 427 of 2007; L.N. 151 of 2010; L.N. 529 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020.
-- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020.
+- Amended by: L.N. 427 of 2007; L.N. 151 of 2010; L.N. 529 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021.
+- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021.
 - Amended by: L.N. 529 of 2010.
 - See Cap. 252.
 - See Cap. 318.
