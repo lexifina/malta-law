@@ -1,6 +1,6 @@
-B 3469
-L.N. 406 of 2021
-CONSUMER AFFAIRS ACT
-(CAP.378)
-Digital Content and Digital Services Contracts Regulations, 2021
-IN EXERCISE of the powers conferred by article 7 of the Consumer Affairs Act, the Minister responsible for consumer affairs, after consultation with the Consumer Affairs Council, has made the following regulations: -
+[S.L.378.20 SERVICES CONTRACTS 1
+SUBSIDIARY LEGISLATION 378.20
+DIGITAL CONTENT AND DIGITAL SERVICES
+CONTRACTS REGULATIONS
+1st January, 2022
+LEGAL NOTICE 406 of 2021.
