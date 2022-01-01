@@ -118,29 +118,7 @@ Provided further that each of the couple in respect of whom the foregoing provis
 PART V
 Severe Disability Assistance, Disability Assistance and Assistance for
 the Visually Impaired
-1. In calculating the means for the purposes of article 27 account shall be taken:
-(a) of the value of any property including any settlement of property in trust (excluding the house of residence) belonging to that person which is, or could be, invested or put to profitable use excluding furniture,
-jewellery and other personal effects; and
-(b) save as provided for in paragraph 3 of this Part, of any income or privilege or cash settled in any trust which is, or could be received or enjoyed by that person, calculated on a weekly basis.
-2. The means which could accrue from any property as is described under paragraph 1(a) of this Part, which is not being put to profitable use shall be calculated as follows:
-(a) the first €585 of such property shall be ignored; and
-(b) the value of any such property in excess of €585 shall be deemed as producing a weekly income equivalent to 0.11% of its capital value.
-3. In calculating the income or privilege as is described under paragraph 1(b) of this Part no account shall be taken of:
-(a) any sickness benefit from a friendly society or a trade union;
-(b) any sum paid out of a charitable fund;
-(c) any Medical Assistance, Children's Allowance, Disabled Child Allowance or Maternity Benefit payable under this Act;
-(d) the first €470 by way of earnings derived by any person from the carrying out of hand knitting, lace making, crochet and embroidery activities at home, and the manufacture of which does not involve any mechanical processes;
-(e) any income from gainful employment or self-occupation of the person, up to a maximum amount equivalent to the national minimum wage, as applicable to persons of eighteen years of age or over established by a National Standard Order under the
-Employment and Industrial Relations Act:
-Provided that with effect from 1st January, 2015, entitlement for this pension shall not cease notwithstanding such person is gainfully occupied and the earnings from such gainful occupation exceed the National Minimum Wage; and
-(f) in the case of a person who is not gainfully employed or self-occupied, any income up to a maximum amount equivalent to the difference between the national minimum wage, as applicable to persons of eighteen years of age or over established by a National Standard Order under the Employment and Industrial Relations Act and the applicable scale rate according to Part III of the Sixth Schedule.
-4. In calculating the means of a married couple for the purposes of awarding a Severe Disability Assistance, Disability Assistance or an Assistance for the Visually Impaired account shall be taken of the property including any settlement of property in trust (excluding the house of residence) belonging to the couple or the income that is being received or that could be received by each of the couple:
-Provided that where there is no community of acquests between them either because such community of acquests was excluded by contract or because it was dissolved as a result of their legal separation, account shall only be taken of the property belonging to, or the income that is being received or that could be received by each of the couple, so however that in the case where such married couple is de facto separated, account shall be taken of:
-(a) the community of acquests, and
-(b) only the income that is being received or that could be received by the claimant.
-So however that, with effect from the 7th January, 2012, with respect to the property and income of the spouse of the disabled or visually impaired person, the provisions of this paragraph shall not apply where the marriage was entered into after the 6th January 2007:
-Sohowever that, with effect from the 5th January, 2013, the provisions of this paragraph shall not apply where the marriage was entered into before the 6th January 2007.
-5. Where a person is divorced or is a married person who is legally or de facto separated from the other spouse proves to the satisfaction of the Director that any sum is being paid to that person's spouse or former spouse as an integral condition of their separation or divorce, that sum shall be deducted when calculating such person's means.
+(Deleted by Act VII.2022.41)
 PART VI
 Social Assistance
 1A. In calculating the means for the purposes of article 30 account shall be taken of any property, income or privilege as indicated in paragraph 1 of Part II of this Schedule; so however that no account shall be taken of the first €470 by way of earnings derived by any person from the carrying out of hand knitting, lace making, crochet and embroidery activities at home, and the manufacture of which does not involve any mechanical processes; and where the limit laid down in the proviso to paragraph 1(a) of Part II of this Schedule is exceeded, the person making a claim for Social Assistance shall be deemed not to be entitled to such assistance.
@@ -205,7 +183,5 @@ Provided further that in the case of a person who is in receipt of a pension (wh
 - See Cap. 452.
 - See Cap. 123.
 - See S.L. 452.62.
-- See Cap. 452.
-- See Cap. 452.
 - See Cap.452.
 - See Cap. 123.

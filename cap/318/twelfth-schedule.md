@@ -1,94 +1,125 @@
 ## TWELFTH SCHEDULE
 # twelfth-schedule
-[ARTICLES 26, 31, 44, 50, 54, 63, 64, 67]
+(Articles 17, 26, 29, 31, 33, 40, 44, 50, 54, 63, 64, 67,
+85, 90A)
 Rates of several kinds of pension
-A. Full rates of Retirement Pension per week, inclusive of any increases under the
-provisions of article 90A of this Act, where the yearly average of contributions paid or credited is 50 or more:
-Persons who are also in receipt of a Persons who are also in receipt of a Service Pension that is payable by or on Service Pension that is NOT payable by
-behalf of the Government of the or on behalf of the Government of the
-United Kingdom United Kingdom
-Married person who Married person who
-is maintaining a Any other person is maintaining a Any other person
-spouse spouse €131.61 €111.36 €125.88 €108.76
-B. Full rates of Increased Retirement Pension, Invalidity Pension, Increased Invalidity
-Pension, National Minimum Pension and Increased National Minimum Pension per week, inclusive of any increases under the provisions of article 90A of this Act, where the yearly average of contributions paid or credited is 50 or more:
-Married person who is
-Type of Pension Any other person
+Rates of Several Kinds of Pension
+A. Full Rates of Retirement Pension per week, inclusive of any increases in terms of the provisions of article 90A when the yearly average of contributions paid or credited is 50 or more:
+Persons who are also in receipt of a Persons who are also in receipt of a
+Service Pension that is payable by or on Service Pension that is NOT payable
+behalf of the Government of the by or on behalf of the Government
+United Kingdom of the United Kingdom
+Married person who Married person
+is maintaining a Any other person who is Any other person
+spouse maintaining a
+spouse
+€ 136.03 € 115.78 € 130.30 € 113.18
+B. Full Rates of Increased Retirement Pension, Invalidity Pension, Increased Invalidity Pension, National Minimum Pension and Increased National Minimum Pension per week, inclusive of any increases in terms of the provisions of article 90A when the yearly average of contributions paid or credited is 50 or more:
+Type of Pension Married person who is Any other person
 maintaining a spouse
-Increased Retirement Pension €166.15 €141.72
-Invalidity Pension €113.64 €100.49
-Increased Invalidity Pension €147.92 €124.62
-National Minimum Pension* €154.43 €123.03
-Increased National Minimum Pension €166.15 €141.72
-*N.B.: The full rates of the National Minimum Pension are calculated at four-fifths (to the nearest whole cent) of the National Minimum Wage in the case of a married person who is maintaining a spouse and at two-thirds (to the nearest whole cent of the National Minimum Wage) in the case of any other person, as provided for in article 50 of this Act.
-C. Guaranteed Minimum Level per week where the yearly contribution average of paid or
-credited contributions is not less than 50:
+Increased Retirement Pension € 170.57 € 146.14
+Invalidity Pension € 118.06 € 104.91
+Increased Invalidity Pension € 152.33 € 129.04
+National Minimum Pension* € 159.08 € 127.68
+Increased National Minimum € 170.57 € 146.14 Pension
+* The full rates of the National Minimum Pension are calculated at four-fifths (to the nearest whole cent) of the National Minimum Wage in the case of a married person who is maintaining a spouse and at two-thirds (to the nearest whole cent of the National Minimum Wage) in the case of any other person, as provided for in article 50.
+C. Guaranteed Minimum Level per week when the yearly average of paid or credited contributions is not less than 50:
 Married person Single person
-€166.00* €162.00*
-*N.B.: The amounts include the weekly pension rate and the cost of living bonus.
-D. Reduced rates of Retirement Pension, Increased Retirement Pension, Invalidity
-Pension, Increased Invalidity Pension, National Minimum Pension and Increased National Minimum Pension per week, inclusive of any increases under the provisions of article 90A of this Act, where the yearly average of contributions paid or credited is between 20 and 49:
+€ 171.00* € 167.00*
+*The amounts include the weekly pension rate and the cost of living bonus.
+D. Reduced Rates of Retirement Pension, Increased Retirement Pension, Invalidity Pension, Increased Invalidity Pension, National Minimum Pension and Increased National Minimum Pension per week, inclusive of any increases in terms of the provisions of article 90A when the yearly average of contributions paid or credited is between 20 and 49:
 Yearly average of contributions Rate of pension payable per week
-paid or credited (calculated to the nearest whole cent)
+paid or credited (calculated to the nearest whole
+cent)
 40 - <50 [{FAP - INC} x 0.89] + INC
 30 - <40 [{FAP - INC} x 0.69] + INC
 20 - <30 [{FAP - INC} x 0.49] + INC
-For the purposes of the above table "FAP" shall mean the full rate of the applicable weekly rate of pension in accordance with Tables A or B, as the case may be, of this Schedule and "INC" shall mean all increases granted in terms of article 90A of this Act taking effect from 1st January, 1994 and subsequent years. E. Increased National Minimum Invalidity Pensions rates under the provisions of article 26 due where the highest rate of impairment according to the Impairment Tables as provided in the Act is awarded by the Medical Panel as constituted under the provisions of article 106, and in accordance with the annual average of paid or credited contributions:
-Annual average paid or credited Increased National Minimum Invalidity
-contributions Pension weekly rates
-> 50 €166.40
-40 - 49 €156.72
-30 - 39 €142.19
-20 - 29 €127.66
-F. Guaranteed Minimum Level per week including cost of living bonuses and any other
-increase as provided in article 90A of this Act, where the yearly contribution average of paid or credited contributions is between 20 and 49:
-Yearly average of contributions Guaranteed Minimim Level per week
-paid or credited (calculated to the nearest cent)
+For the purposes of the above Table "FAP" means the full rate of the applicable weekly rate of pension in accordance with Tables A or B, as the case may be, of this Schedule and "INC" means all increases granted in terms of article 90A with effect from the 1st January, 1994 and subsequent years.
+E. Increased National Minimum Invalidity Pension rates in terms of article 26 due where the highest rate of impairment according to the Impairment Tables Regulations is awarded by the Director following consultation on the medical aspects of the claim in accordance with the provisions of article 106, and in accordance with the annual average of paid or credited contributions:
+Annual averge paid or credited Increased National Minimum
+contributions Invalidity Pension weekly
+rates
+> 50 €171.40
+40 - 49 €161.72
+30 - 39 €147.19
+20 - 29 €132.66
+F. Guaranteed Minimum Pension Level per week including cost of living bonuses and any other increase as provided in article 90A when the yearly average of paid or credited contributions is between 20 and 49:
+Yearly average of contributions paid Guaranteed Minimim Level per week
+or credited (calculated to the nearest cent)
 40 - <50 LMG x 0.94
 30 - <40 LMG x 0.85
 20 - <30 LMG x 0.76
+For the purposes of the Table above "LMG" means the full rate of the Guaranteed Minimum Level including the weekly cost of living bonus according to Table C.
 G. Rates of National Minimum Pension Additional Allowance per week:
-Yearly average of contributions Married person who is
-Any other person
-paid or credited maintaining a spouse
-50 (full rate) €4.78 €7.43
-40 - <50 €4.26 €8.57
-30 - <40 €3.31 €10.72
-20 - <30 €5.64 €12.81
-H. Reduced rates of Widows' Pension per week, inclusive of any increases under the
-provisions of article 90A of this Act, where the yearly average of contributions paid or credited is between 20 and 49:
-Yearly average of contributions paid Rate of pension payable per week
-or credited (calculated to the nearest whole cent)
-40 - <50 [{FWP - (INC + €17.77)} x 0.89] + INC + €17.77
-30 - <40 [{FWP - (INC + €17.77)} x 0.69] + INC + €17.77
-20 - <30 [{FWP - (INC + €17.77)} x 0.49] + INC +€17.77
-For the purposes of the above table "FWP" shall mean the full rate of Widow's Pension in accordance with Table C of this Schedule and "INC" shall mean all increases granted in terms of article 90A of this Act taking effect from 1st January 1994 and subsequent years; whilst the amount of €17.77 represents the weekly rate of Widow's Supplementary Pension which up to the year 1990 was payable to widows who were in receipt of a Widow's Pension irrespective of the yearly average of contributions paid or credited, which weekly amount was, with effect from the year 1991, incorporated with the rates payable by way of a Widow's Pension.
-I. Rate of Parent's Pension per week, inclusive of any increases under the provisions of
-article 90A of this Act:
+Yearly average of Married person who is Any other person
+contributions paid or maintaining a spouse
+credited
+50 (full rate) € 4.78 € 7.43
+40 - <50 € 4.26 € 8.57
+30 - <40 € 3.31 € 10.72
+20 - <30 € 5.64 € 12.81
+H. Reduced Rates of Widows' Pension per week, inclusive of any increases in terms of the provisions of article 90A when the yearly average of contributions paid or credited is between 20 and 49:
+Yearly average of contributions paid or Rate of pension payable per week
+credited (calculated to the nearest whole cent)
+40 - <50 [{FWP - (INC + €17.77)} x 0.89] + INC
++ €17.77
+[{FWP - (INC + €17.77)} x 0.69] + INC
+30 - <40 + €17.77
+[{FWP - (INC + €17.77)} x 0.49] + INC
+20 - <30 +€17.77
+For the purposes of the above Table "FWP" means the full rate of Widow's Pension in accordance with Table C of this Schedule and "INC" means all increases granted in terms of article 90A with effect from the 1st January 1994 and subsequent years; whilst the amount of € 17.77 represents the weekly rate of Widow's Supplementary Pension which up to the year 1990 was payable to widows who were in receipt of a Widow's Pension irrespective of the yearly average of contributions paid or credited, which weekly amount was, with effect from the year 1991, incorporated with the rates payable by way of a Widow's Pension.
+I. Rate of Parent's Pension per week, inclusive of any increases in terms of the provisions of article 90A:
 Married person who is maintaining a spouse Any other person
-€154.43 €123.03
+€ 159.08 € 127.68
 J. Rate of Widows' and Survivors' Pensions Additional Allowance per week:
-Where Widow/Widower is entitled to an Where Widow/Widower is entitled to an
-allowance under article 31(a) allowance under article 31(b)
-€10.00 €10.00
+When a widow or widower is entitled to When a widow or widower is entitled an allowance in terms of article 31(a) to an allowance in terms of article
+31(b)
+€ 10.00 € 10.00
 K. Highest Rate per week of a Two-Thirds Pension:
-Persons who qualified to the highest
-Any other person
-Two-Thirds Pension prior to 2006
-€248.64 €248.23
+Persons who qualified to the highest rate of Two-Thirds Any other person
+Pension prior to 2006
+€ 253.06 € 252.65
 L. The Cost of Living Bonus
-In the case of a married
-person maintaining a spouse
-and who was in receipt of a In the case of any
-Pensioner category
-National Minimum Pension other person
-on or before 31 December
+Pensioner category In the case of a married Any other person
+person maintaining a spouse and who was in receipt of a National
+Minimum Pension on or
+before 31 December
 2017
-For pensioners whose pension initial award date is prior to 3rd
-January 2009 €9.28 per week €13.38 per week For pensioners whose pension initial award date falls between 3rd January 2009 and 1st January 2010 €8.58 per week €12.21 per week For pensioners whose pension initial award date falls between 3rd January 2010 and 31st December 2010 €7.76 per week €10.85 per week For pensioners whose pension initial award date falls between 1st January 2011 and 6th January
-2012 €6.60 per week €8.91 per week For pensioners whose pension initial award date falls between 7th January 2012 and 4th January
-2013 €6.37 per week €8.52 per week For pensioners whose pension initial award date falls between 5th January 2013 and 3rd January
-2014 €5.44 per week €6.97 per week For pensioners whose pension initial award date falls between 4th January 2014 and 2nd January
-2015 €4.62 per week €5.61 per week For pensioners whose pension initial award date falls between 3rd January 2015 and 1st January 2016 €3.92 per week €4.45 per week For pensioners whose pension initial award date falls between 2nd January 2016 and 6th January 2017 €3.80 per week €4.26 per week For pensioners whose pension initial award date falls between 7th January 2017 and 5th January 2018 €3.45 per week €3.68 per week For pensioners whose pension initial award date falls between 6th January 2018 and 4th January 2019 €3.10 per week €3.10 per week For pensioners whose pension initial award date falls between 5th January 2019 and 3rd January 2020 €2.52 per week €2.52 per week For pensioners whose pension initial award date falls between 4th January 2020 and 1st January 2021 €1.74 per week €1.74 per week For pensioners whose pension initial award date falls on or after 2nd January 2021 €0.58 per week €0.58 per week
-- Amended by: XX. 1987. 17; XVI. 1989. 32.
-- Substituted by: XVI. 1990. 58; XIII. 1991.49; VIII. 1992.48; XXIV. 1993.20; XXV. 1994.39; XXVII. 1995.19; XXI. 1996.66; XXII. 1997.13; L.N. 56 of 1999; L.N. 84 of 1999; L.N. 10 of 2000; L.N. 21 of 2001; L.N. 4 of 2002; L.N. 422 of 2002; L.N. 436 of 2003; L.N. 100 of 2006; L.N. 101 of 2006; L.N. 318 of 2007; L.N. 424 of 2007; L.N. 149 of 2008; L.N. 143 of 2009; L.N. 437 of 2010; L.N. 330 of 2011; L.N. 342 of 2012; L.N. 355 of 2013; L.N. 62 of 2014; L.N. 123 of 2015; XXXIX. 2015.13; L.N. 309 of 2016; L.N. 6 of 2018; L.N. 195 of 2018; L.N. 94 of 2019; VIII.2020.36; L.N. 251 of 2020; L.N. 331 of 2021.
+€ 9.86 per week € 13.96 per week For pensioners whose pension
+initial award date is prior to 3rd January 2009
+€ 9.34 per week € 12.97 per week For pensioners whose pension
+initial award date falls between 3rd January 2009 and
+31st December 2009
+€ 8.72 per week € 11.81 per week For pensioners whose pension
+initial award date falls between 2nd January 2010 and
+31st December 2010
+€ 7.85 per week € 10.16 per week For pensioners whose pension
+initial award date falls between 1st January 2011 and
+31st December 2011
+€ 7.68 per week € 9.83 per week For pensioners whose pension
+initial award date falls between 1st January 2012 and
+31st December 2012
+€ 6.98 per week € 8.51 per week For pensioners whose pension
+initial award date falls between 1st January 2013 and
+31st December 2013
+€ 6.37 per week € 7.36 per week For pensioners whose pension
+initial award date falls between 1st January 2014 and
+31st December 2014
+€ 5.84 per week € 6.37 per week For pensioners whose pension
+initial award date falls between 1st January 2015 and
+31 st December 2015
+€ 5.75 per week € 6.21 per week For pensioners whose pension
+initial award date falls between 1st January 2016 and 31st December 2016
+€ 5.49 per week € 5.72 per week For pensioners whose pension
+initial award date falls between 1st January 2017 and 31st December 2017
+€ 5.22 per week € 5.22 per week For pensioners whose pension
+initial award date falls between 1st January 2018 and 31st December 2018
+€ 4.73 per week € 4.73 per week For pensioners whose pension
+initial award date falls between 1st January 2019 and 31st December 2019
+€ 4.07 per week € 4.07 per week For pensioners whose pension
+initial award date falls between 1st January 2020 and 31st December 2020
+€ 3.08 per week € 3.08 per week For pensioners whose pension
+initial award date falls between 1st January 2021 and
+31st December 2021
+€ 3.08 per week € 3.08 per week". For pensioners whose pension
+initial award date fall on or after 1st January 2022

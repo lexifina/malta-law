@@ -20,9 +20,9 @@ fumes of, or vapour containing benzene or any of its homologues.
 8. A nitro- or amino- or chloro- The use or handling of, or exposure to the derivative of benzene, or of a fumes of, dust or vapour containing, a homologue of benzene, or poisoning nitro- or amino- or chloro-derivative of by nitrochlorobenzene benzene or homologue of benzene or
 nitrochlorobenzene.
 9. Dinitrophenol or a homologue or by The use or handling of, or exposure to the substituted dinitrophenols or by the fumes of, or vapour containing, salts of such substances dinitrophenol or a homologue or
-substituted denitrophenol or the salts of such substances.
-10. A halogen derivative of a The use or handling of, or exposure to the hydrocarbon of the aliphatic series fumes of, or vapour containing, a halogen
-derivative of a hydrocarbon of the aliphatic series. 11. Tri-cresyl phosphate The use or handling of, or exposure to the
+substituted denitrophenol or the salts of such substances. 10. A halogen derivative of a The use or handling of, or exposure to hydrocarbon of the aliphatic series theThe use or handling of, or exposure to
+the fumes of, or vapour containing, a halogen derivative of a hydrocarbon of the aliphatic series.
+11. Tri-cresyl phosphate The use or handling of, or exposure to the
 fumes of, or vapour containing, tri-cresyl phosphate.
 12. Tri-phenyl phosphate The use or handling of, or exposure to the
 fumes of, or vapour containing, triphenyl phosphate.
@@ -123,7 +123,7 @@ exchange (Farmer's lung)
 39. Byssinosis Work in any room where any process up
 to and including the carding process is performed in factories in which the spinning or manipulation of raw or waste cotton or flax is carried on.
 40. Fibrosis of the lungs due to silica Exposure to fibrogenic dust. dust, asbestos dust or other fibrogenic dust, including the condition of the lungs known as dust reticulation (Pneumoconiosis); and silicotuberculosis provided that silicosis is an essential factor in causing the resultant incapacity or death
-41. Telegraphist's cramp The use of Morse key telegraphic
+41. Telegraphist's cramp The use of Morse key telegra phic
 instruments for prolonged periods.
 42. Writer's cramp Handwriting for prolonged periods.
 43. Twister's cramp The twisting of cotton or woollen
@@ -134,7 +134,7 @@ or sources of typhoid infection by reason of employment -
 research in connection with typhoid;
 (b) as a laboratory worker where the
 occupation involves working with material which is a typhoid infection.
-45. Brachial Neuralgia Prolonged operation of industrial
+45. Brachial Neuralgia Pro long ed ope rati on o f ind ustria l
 machinery involving the lifting, pushing and retracting of heavy, thick or bulky clothing material.
 46. Siderosis Condition caused by inhalation of fumes
 or dust of metallic iron or iron oxide.
@@ -150,3 +150,4 @@ region: the subacromial, the subdeltoid, the subcoracoid, and the subscapular, w
 52. Diseases due to overstraining of the Condition caused by inflammation of the peritendineum peritendineum (the fibrous layer around
 the tendon). This condition is common in the wrist but may involve other tendons. It is caused by prolonged periods of highly repetitive wrist/hand movements such as meat cutting, fish filleting, machine feeding, manual assembly, use of hand-held tools. The use of force and awkward position of the hand are aggravating factors. 53. Miner's nystagmus Historical occupational disease associated
 with poor lighting in underground work, which involves problems in focusing. Pendular or rotating nystagmus may be accompanied by dizziness and headaches. This condition occurs after years of working in a poorly lit environment.
+- Substituted by: L.N. 342 of 2012.
