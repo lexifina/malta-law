@@ -1,202 +1,164 @@
 ## TENTH SCHEDULE
 # tenth-schedule
-[ARTICLES 7 and 10]
+(Articles 7, 10, 16, 17, 116)
 RATES OF CONTRIBUTIONS
 Part I
 Class One Contributions
 (Employed Persons)
 Weekly Rate of
 Weekly Rate of
-Contribution Category Type of Employed Persons Contribution Payable
+Contribution
+Contribution Category Type of Employed Persons Payable by
 Payable by the
-by Employed Person
+Employed
 Employer
+Person
 Persons under 18 years of age whose basic weekly wage or the
 A weekly equivalent of their basic €6.62 €6.62
-monthly salary does not exceed €179.33
-€17.93, or if the insured person elects, 10% calculated to the
-Persons over 18 years of age
-nearest cent of such
-whose basic weekly wage or the
-person's basic weekly B weekly equivalent of their basic €17.93
-wage or the weekly
-monthly salary does not exceed
-equivalent of such
-€179.33
-person's basic monthly salary (see note 1
-below)
-Persons born on 31 December 1961 or before whose basic weekly wage or the weekly 10% calculated equivalent of their basic monthly to the nearest
-10% calculated to the
-salary exceeds €179.33 but does cent of their
-nearest cent of their
-not exceed €365.72 basic weekly
-basic weekly wage or C wage or the Persons born on 1 January 1962
-the weekly equivalent
-weekly or after whose basic weekly
-of their basic monthly
-equivalent of wage or the weekly equivalent of
-salary
-their basic their basic monthly salary monthly salary exceeds €175.84 but does not
-exceed €465.27 (see note 2 below) Persons born on 31 December 1961 or before whose basic weekly wage or the weekly €36.57 €36.57 equivalent of their basic monthly salary exceeds €365.72 D Persons born on 1 January 1962
-or after whose basic weekly wage or the weekly equivalent of
-€48.05 €48.05
-their basic monthly salary exceeds €480.50 (see note 2 below)
-10% calculated to
-Persons under eighteen years of
-the nearest cent of
-age who are following a full-time
-10% calculated to the the basic weekly
-course of studies or instruction
-nearest cent of the basic remuneration or
-under the Student-Worker
-weekly remuneration or the weekly
-Scheme, or other similar schemes
-the weekly equivalent of equivalent of their E (including the Extended Skills
-their basic monthly basic monthly
-Training Schemes, but excluding
-remuneration up to a remuneration up
-the Worker-Student Schemes)
-maximum rate of to a maximum
-involving distinct work and study
-contribution of €4.38 rate of
-periods for which they are
-contribution of
-receiving remuneration
-€4.38
-10% calculated to
-Persons over eighteen years of age
-the nearest cent of
-who are following a full-time
-10% calculated to the the basic weekly
-course of studies or instruction
-nearest cent of the basic remuneration or
-under the Student-Worker Scheme,
-weekly remuneration or the weekly
-or other similar schemes (including
-the weekly equivalent of equivalent of their
-F the Extended Skills Training
-their basic monthly basic monthly
-Schemes, but excluding the
-remuneration up to a remuneration up
-Worker-Student Schemes)
-maximum rate of to a maximum
-involving distinct work and study
-contribution of €7.94 rate of
-periods for which they are receiving
-contribution of
-remuneration
-€7.94
-NOTE 1: If the insured person elects to pay a contribution of 10% of a basic wage or salary less than the weekly equivalent of the National Minimum Wage, such contribution may, if the person qualifies for a contributory benefit or a contributory pension, result in the payment of a reduced contributory benefit or contributory pension.
-NOTE 2: As a result of the pension reform enacted by virtue of Act XIX of 2006 and Legal Notice 336 of 2006, the increase in the highest contribution rate payable with effect from January 2020, is related to a guaranteed maximum pensionable income of €24,986 for persons born on or after 1st January 1962.
-Part II
+monthly salary does not exceed €182.83.
+€18.28, or if the insured person is employed on a part-time basis elects, 10%
+Persons over 18 years of age calculated to the whose basic weekly wage or the nearest cent of B weekly equivalent of their basic such person's €18.28
+monthly salary does not exceed basic weekly €182.83. wage or the
+weekly equivalent of such person's basic monthly salary (see note 1 below)
+Persons born on 31 December 1961 or before whose basic weekly wage or the weekly 10% calculated equivalent of their basic 10% calculated to to the nearest monthly salary exceeds €182.83 the nearest cent of cent of their but does not exceed €378.98. their basic weekly basic weekly C wage or the wage or the Persons born on 1 January 1962
+weekly equivalent weekly or after whose basic weekly of their basic equivalent of wage or the weekly equivalent monthly salary their basic of their basic monthly salary
+monthly salary exceeds €182.83 but does not
+exceed €499.73 (see note 2 below).
+Persons born on 31 December 1961 or before whose basic weekly wage or the weekly
+€37.90 €37.90
+equivalent of their basic monthly salary exceeds €378.98. D
+Persons born on 1 January 1962 or after whose basic weekly wage or the weekly equivalent
+€49.97 €49.97
+of their basic monthly salary exceeds €499.73 (see note 2 below).
+10% calculated to the nearest cent
+Persons under 18 years of age 10% calculated to
+of the basic
+who are following a full-time the nearest cent of
+weekly
+course of studies or instruction the basic weekly
+remuneration or
+under the Student-Worker remuneration or
+the weekly
+Scheme, or other similar schemes the weekly
+equivalent of
+E (including the Extended Skills equivalent of their
+their basic
+Training Schemes, but excluding basic monthly
+monthly
+the Worker-Student Schemes) remuneration up to
+remuneration up
+involving distinct work and study a maximum rate of
+to a maximum
+periods for which they are contribution of €
+rate of
+receiving remuneration. 4.38
+contribution of € 4.38
+10% calculated to the nearest cent
+Persons over 18 years of age who 10% calculated to
+of the basic
+are following a full-time course of the nearest cent of
+weekly
+studies or instruction under the the basic weekly
+remuneration or
+Student-Worker Scheme, or other remuneration or
+the weekly
+similar schemes (including the the weekly
+equivalent of
+F Extended Skills Training equivalent of their
+their basic
+Schemes, but excluding the basic monthly
+monthly
+Worker-Student Schemes) remuneration up to
+remuneration up
+involving distinct work and study a maximum rate of
+to a maximum
+periods for which they are contribution of €
+rate of
+receiving remuneration. 7.94
+contribution of € 7.94
+Note 1: If the insured person elects to pay a contribution of 10% of a basic wage or salary less than the weekly equivalent of the National Minimum Wage, such contribution may, if the person qualifies for a contributory benefit or a contributory pension, result in the payment of a reduced contributory benefit or contributory pension.
+Note 2: By virtue of the Social Security (Amendment) (No. 2) Act, 2006 and the Notice of coming into force of the Social Security (Amendment) (No. 2) Act, 2006, through which the enacted pension reform entered into force, the pensionable income for persons born on or after 1st January 1962, with effect from January 2022 is guaranteed at the amount of €25,986. Therefore, this is reflected in an increase in the highest rate of payable contribution.
+PART II
 Class Two Contributions
 (Self-Employed Persons)
-Weekly Rate of Contributions Category Type of Self Employed Persons
-payable by a self-employed person
-Persons whose annual net earnings (excluding Maternity Benefit, Children's Allowance and any ex-gratia Benefit payable under article 88 of this Act) during the calendar year immediately preceding the contribution year in which the contribution is being paid: Exceeds €1,005 but does not exceed €9,205 (this category is applicable
+Category Type of Self Employed Persons Weekly Rate of Contributions
+payable by a self-employed
+person
+Persons whose annual net earnings (excluding Maternity Benefit, Children's Allowance and any ex-gratia Benefit payable in terms of article 88) during the calendar year immediately preceding the contribution year in which the contribution is being paid:
+Exceeds € 1,005 but does not exceed €9,387 (this category is applicable
 SP
-ONLY to single persons who are not €26.55
-self-occupied)
-SA Is less than €10,666 €30.77
-Persons born on 31 December 1961 or before whose annual net income exceeds €10,666 but does not exceed The weekly equivalent of 15% of €19,017 their annual income calculated to
-SB
-the nearest cent. Persons born on 1 January 1962 or
-after whose annual net income exceeds €10,666 but does not exceed €24,986. Persons born on 31 December 1961 or
-before whose annual net income €54.85
-exceeds €19,017
+only to single persons who are not self- €27.08
+occupied).
+SA is less than €10,848 €31.29
+Persons born on 31 December 1961 or before whose annual net income exceeds €10,848 but does not exceed
+The weekly equivalent of 15%
+€19,706.90
+of their annual income
+SB Persons born on 1 January 1962 or
+calculated to the nearest cent.
+after whose annual net income exceeds €10,848 but does not exceed €25,986
+Persons born on 31 December 1961 € 56.85
+or before whose annual net income exceeds €19,706.90
 SC Persons born on 1 January 1962 or
-after whose annual net income exceeds €72.08
-€24,986 (see NOTE 1 below)
-NOTE 1: As a result of the pension reform enacted by virtue of Act XIX of 2006 and Legal Notice 336 of 2006, the increase in the highest contribution rate payable with effect from January 2020, is related to a guaranteed maximum pensionable income of €24,986 for persons born on or after 1st January 1962.
-Part III
+after whose annual net income €74.96
+exceeds €25,986 (see note 1 below)
+Note 1: By virtue of the Social Security (Amendment) (No. 2) Act, 2006 and the Notice of coming into force of the Social Security (Amendment) (No. 2) Act, 2006, through which the enacted pension reform entered into force, the pensionable income for persons born on or after 1st January 1962, with effect from January 2022 is guaranteed at the amount of €25,986. Therefore, this is reflected in an increase in the highest rate of payable contribution.
+PART III
 Class Two Contributions
 (Self Occupied Persons)
-Weekly Rate of Contributions Category Type of Self Occupied Persons payable by a self-occupied
+Category Type of Self-Occupied Persons Weekly Rate of Contributions
+payable by a self-occupied
 person
-Persons whose annual net earnings (excluding Maternity Benefit, Children's Allowance and any ex-gratia Benefit payable under article 88 of this Act) during the calendar year immediately preceding the contribution year in which the contribution is being paid:
-€30.77 or 15% of the annual
-SA Is less than €10,666 net earnings if the person is a
-part-time self-occupied woman, a full-time student who has not reached the age of 24 who is a part-time self-occupied person, or a pensioner who is a part-time self-occupied person whose annual net earnings do not exceed €10,666 (see NOTE 1 below)
-or
-€20.51 if the person is a full-time farmer or breeder whose annual net earnings do not exceed €10,666
-Persons born on 31 December 1961 or before The weekly equivalent of 15% whose annual net earnings exceeds €10,666 but of their annual earnings does not exceed €19,017 calculated to the nearest cent
-SB or Persons born on 1 January 1962 or after whose
-The weekly equivalent of 10% annual net earnings exceeds €10,666 but does if a full-time farmer or breeder not exceed €24,986
-€54. 85
-Persons born on 31 December 1961 or before or
-whose annual net earnings exceeds €19, 017 €35.70 if a full-time farmer or
-breeder
-SC €72.08
-Persons born on 1 January 1962 or after whose
-or
-annual net earnings exceeds €24,986 (see
-€48.05 if a full-time farmer or
-NOTE 2 below)
-breeder
-NOTE1: If the insured person elects to pay a contribution that is less than €30.77, such contribution may, if the person qualifies for a contributory benefit or a contributory pension, result in the payment of a reduced contributory benefit or contributory pension.
-NOTE 2: As a result of the pension reform enacted by virtue of Act XIX of 2006 and Legal Notice 336 of 2006, the increase in the highest contribution rate payable with effect from January 2020, is related to a guaranteed maximum pensionable income of €24,986 for persons born on or after 1st January 1962.
-Part IV
+Persons whose annual net earnings (excluding Maternity Benefit, Children's Allowance and any ex-gratia Benefit payable in terms of article 88) during the calendar year immediately preceding the contribution year in which the contribution is being paid:
+SA Is less than €10,848. €31.29 or 15% of the annual
+net earnings if the person is a part-time basis self-occupied woman, a full-time student who is a part-time basis self-occupied person, or a pensioner who is a part-time self-occupied person whose annual net earnings do not exceed €10,848 (see note 1 below); or €20.86 if the person is a full-time farmer or breeder whose annual net earnings do not exceed €10,848
+Persons born on 31 December 1961 or before whose annual net earnings The weekly equivalent of 15% of exceeds €10,848 but does not their annual net earnings exceed €19,706.90 calculated to the nearest cent; or
+The weekly equivalent of 10% of SB Persons born on 1 January 1962 or the annual net earning in the case after whose annual net earnings of a full-time farmer or breeder exceeds €10,848 but does not
+exceed €25,986
+Persons born on 31 December 1961 € 56.85; or
+or before whose annual net earnings €37.90 in case of a full-time
+exceeds €19,706 farmer or breeder
+SC Persons born on 1 January 1962 or €74.96; or
+after whose annual net earnings €49.97 in case of a full-time
+exceeds €25,986 (see note 2 below) farmer or breeder
+Note 1: If the insured person elects to pay a contribution that is less than €31.29 per week, such contribution may, if the person qualifies for a contributory benefit or a contributory pension, result in the payment of a reduced contributory benefit or contributory pension.
+Note 2: By virtue of the Social Security (Amendment) (No. 2) Act, 2006 and the Notice of coming into force of the Social Security (Amendment) (No. 2) Act, 2006, through which the enacted pension reform entered into force, the pensionable income for persons born on or after 1st January 1962, with effect from January 2022 is guaranteed at the amount of €25,986. Therefore, this is reflected in an increase in the highest rate of payable contribution.
+PART IV
 Maternity Leave Fund Contribution
 (Employers)
 Weekly Rate of
-Category Type of Employed Persons Contribution Payable by
-the Employer
+Category Type of Employed Persons Contribution Payable
+by the Employer
 Persons under 18 years of age whose basic weekly wage or the weekly equivalent of
 A €0.20
-their basic monthly salary does not exceed €179.33 Persons over 18 years of age whose basic weekly wage or the weekly equivalent of
-B €0.54
-their basic monthly salary does not exceed €179.33 Persons born on 31 December 1961 or before whose basic weekly wage or the weekly equivalent of their basic monthly
-0.3% calculated to the
-salary exceeds €175.84 but does not exceed
-nearest cent of their basic
-€365.72
-C weekly wage or the weekly
-Persons born on 1 January 1962 or after
-equivalent of their basic
-whose basic weekly wage or the weekly
-monthly salary
-equivalent of their basic monthly salary exceeds €179.33 but does not exceed €480.50
+their basic monthly salary does not exceed €182.83.
+Persons over 18 years of age whose basic weekly wage or the weekly equivalent of
+B €0.55
+their basic monthly salary does not exceed €182.83.
+Persons born on 31 December 1961 or before whose basic weekly wage or the weekly equivalent of their basic monthly 0.3% calculated to the salary exceeds €182.83 but does not nearest cent of their exceed €378.98. basic weekly wage or
+C
+the weekly equivalent Persons born on 1 January 1962 or after of their basic monthly whose basic weekly wage or the weekly salary equivalent of their basic monthly salary
+exceeds €182.83 but does not exceed €499.73.
 Persons born on 31 December 1961 or before whose basic weekly wage or the
-€1.08
-weekly equivalent of their basic monthly salary exceeds €365.72
+€1.14
+weekly equivalent of their basic monthly salary exceeds €378.98.
 D
 Persons born on 1 January 1962 or after whose basic weekly wage or the weekly
-€1.44
-equivalent of their basic monthly salary exceeds €480.50 Persons under eighteen years of age who are
-0.3% calculated to the
-following a full-time course of studies or
-nearest cent of the basic
-instruction under the Student-Worker Scheme,
-weekly remuneration or the
-or other similar schemes (including the
-E weekly equivalent of their
-Extended Skills Training Schemes, but
-basic monthly remuneration
-excluding the Worker-Student Schemes)
-up to a maximum rate of
-involving distinct work and study periods for
-contribution of €0.13
-which they are receiving remuneration Persons over eighteen years of age who are
-0.3% calculated to the
-following a full-time course of studies or
-nearest cent of the basic
-instruction under the Student-Worker Scheme,
-weekly remuneration or the
-or other similar schemes (including the
-F weekly equivalent of their
-Extended Skills Training Schemes, but
-basic monthly remuneration
-excluding the Worker-Student Schemes)
-up to a maximum rate of
-involving distinct work and study periods for
-contribution of €0.24
-which they are receiving remuneration
+€1.50
+equivalent of their basic monthly salary exceeds €499.73. Persons under 18 years of age who are 0.3% calculated to the following a full-time course of studies or nearest cent of the basic instruction under the Student-Worker weekly remuneration or Scheme, or other similar schemes (including the weekly equivalent of
+E
+the Extended Skills Training Schemes, but their basic monthly excluding the Worker-Student Schemes) remuneration up to a involving distinct work and study periods for maximum rate of which they are receiving remuneration. contribution of €0.13
+Persons over 18 years of age who are 0.3% calculated to the following a full-time course of studies or nearest cent of the basic instruction under the Student-Worker weekly remuneration or Scheme, or other similar schemes (including the weekly equivalent of
+F
+the Extended Skills Training Schemes, but their basic monthly excluding the Worker-Student Schemes) remuneration up to a involving distinct work and study periods for maximum rate of which they are receiving remuneration. contribution of €0.24
 CREDITS OF CONTRIBUTIONS
 PART V
 Study period
-Persons born between 1/1/ Persons born on or after Level of studies*
+Persons born between 1/1/ Persons born on or after
+Level of studies *
 1952 and 31/12/1961 1/1/1962
-One month for every year One month for every year Life long learning
+One month for every year One month for every year
+Life-long learning
 of study of study
 Two months for every year Three months for every
 Level 5
@@ -210,6 +172,6 @@ year of study of study
 Six months for every year One year for every year of
 Level 8
 of study study
-*According to Chapter 451 of the Laws of Malta
+*According to the Mutual Recognition of Qualifications Act (Chapter 451 of the Laws of Malta).
 - Amended by: XX. 1987.16.
-- Substituted by: XVI. 1989.31; XVI. 1990.56; XIII. 1991.48; VIII. 1992.46; XXIV. 1993.19; XXV. 1994.38; XXVII. 1995.18; XXI. 1996.64; XXII. 1997.12; L.N. 56 of 1999; L.N. 84 of 1999; L.N. 10 of 2000; L.N. 21 of 2001; L.N. 4 of 2002; L.N. 422 of 2002; L.N. 436 of 2003; L.N. 100 of 2006; L.N. 101 of 2006; L.N. 318 of 2007; L.N. 424 of 2007; L.N. 149 of 2008; L.N. 143 of 2009; L.N. 437 of 2010; L.N. 330 of 2011; L.N. 117 of 2012; L.N. 342 of 2012; L.N. 355 of 2013; L.N. 62 of 2014; L.N. 123 of 2015; L.N. 258 of 2015; L.N. 309 of 2016; L.N. 337 of 2016:; L.N. 6 of 2018; L.N.195 of 2018; L.N. 94 of 2019; L.N. 251 of 2020.
+- Substituted by: XVI. 1989.31; XVI. 1990.56; XIII. 1991.48; VIII. 1992.46; XXIV. 1993.19; XXV. 1994.38; XXVII. 1995.18; XXI. 1996.64; XXII. 1997.12; L.N. 56 of 1999; L.N. 84 of 1999; L.N. 10 of 2000; L.N. 21 of 2001; L.N. 4 of 2002; L.N. 422 of 2002; L.N. 436 of 2003; L.N. 100 of 2006; L.N. 101 of 2006; L.N. 318 of 2007; L.N. 424 of 2007; L.N. 149 of 2008; L.N. 143 of 2009; L.N. 437 of 2010; L.N. 330 of 2011; L.N. 117 of 2012; L.N. 342 of 2012; L.N. 355 of 2013; L.N. 62 of 2014; L.N. 123 of 2015; L.N. 258 of 2015; L.N. 309 of 2016; L.N. 337 of 2016:; L.N. 6 of 2018; L.N.195 of 2018; L.N. 94 of 2019; L.N. 251 of 2020; L.N. 232 of 2023.
