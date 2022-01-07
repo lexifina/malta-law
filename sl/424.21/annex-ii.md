@@ -1,90 +1,90 @@
 ## ANNEX II
 # annex-ii
-Non-exhaustive guide list of items of personal protective equipment
-HEAD PROTECTION
-- Protective helmets for use in industry (mines, building sites, other industrial
-uses)
-- Scalp protection (caps, bonnets, hairnets - with or without eye shade)
-- Protective headgear (bonnets, caps, sou'westers, etc., in fabric, fabric with
-proofing, etc)
-HEARING PROTECTION
-- Earplugs and similar devices
-- Full acoustic helmets
-- Earmuffs which can be fitted to industrial helmets
-- Ear defenders with receiver for LF induction loop
-- Ear protection with intercom equipment
-EYE AND FACE PROTECTION
-- Spectacles
-- Goggles
-- X-ray goggles, laser-beam goggles, ultra-violet, infra-red, visible radiation
-goggles
-- Face shields
-- Arc-welding masks and helmets (hand masks, headband masks or masks
-which can be fitted to protective helmets)
-RESPIRATORY PROTECTION
-- Dust filters, gas filters and radioactive dust filters
-- Insulating appliances with an air supply
-- Respiratory devices including a removable welding mask
-[S.L.424.21 OF PERSONAL PROTECTIVE EQUIPMENT AT WORK 7
-- Diving equipment
-- Diving suits
-HAND AND ARM PROTECTION
-- Gloves to provide protection:
-- from machinery (piercing, cuts, vibrations, etc)
-- from chemicals,
-- for electricians and from heat
-- Mittens
-- Finger stalls
-- Oversleeves
-- Wrist protection for heavy work
-- Fingerless gloves
-- Protective gloves
-FOOT AND LEG PROTECTION
-- Low shoes, ankle boots, calf-length boots, safety boots
-- Shoes which can be unlaced or unhooked rapidly
-- Shoes with additional protective toe-cap
-- Shoes and overshoes with heat-resistant soles
-- Heat-resistant shoes, boots and overboots
-- Thermal shoes, boots and overboots
-- Vibration-resistant shoes, boots and overboots
-- Anti-static shoes, boots and overboots
-- Insulating shoes, boots and overboots
-- Protective boots for chain saw operators
-- Clogs
-- Kneepads
-- Removable instep protectors
-- Gaiters
-- Removable soles (heat-proof, pierce-proof or sweat-proof)
-- Removable spikes for ice, snow or slippery flooring
-SKIN PROTECTION
-- Barrier creams or ointments
-TRUNK AND ABDOMEN PROTECTION
-- Protective waistcoats, jackets and aprons to provide protection from
-machinery (piercing, cutting, molten metal splashes, etc)
-- Protective waistcoats, jackets and aprons to provide protection from
-chemicals
-- Heated waistcoats
+NON-EXHAUSTIVE LIST OF TYPES OF PERSONAL PROTECTIVE EQUIPMENT WITH REGARD TO THE
+RISKS THEY PROVIDE PROTECTION AGAINST
+Equipment for HEAD PROTECTION
+- Helmets and/or caps/balaclavas/headgears against:
+- Impacts caused by falling or ejected object
+- Collision with an obstacle
+- Mechanical risks (perforation, abrasion)
+- Static compression (lateral crushing)
+- Thermal risks (fire, heat, cold, hot solids including molten metals)
+- Electric shock and live working
+- Chemical risks
+- Non-ionizing radiation (UV, IR, solar or welding radiation)#
 [S.L.424.21 8 OF PERSONAL PROTECTIVE EQUIPMENT AT WORK
-- Life jackets
-- Protective X-ray aprons
-- Body belts
-WHOLE BODY PROTECTION
-Equipment designed to prevent falls
-- Fall-prevention equipment (full equipment with all necessary accessories)
-- Braking equipment to absorb kinetic energy (full equipment with all
-necessary accessories)
-- Body-holding devices (safety harness)
-Protective clothing
-- 'Safety' working clothing (two-piece and overalls)
-- Clothing to provide protection from machinery (piercing, cutting, etc)
-- Clothing to provide protection from chemicals
-- Clothing to provide protection from molten metal splashes and infra-red
-radiation
-- Heat-resistant clothing
-- Thermal clothing
-- Clothing to provide protection from radioactive contamination
-- Dust-proof clothing
-- Gas-proof clothing
-- Fluorescent signalling, retro-reflecting clothing and accessories (armbands,
-gloves, etc)
-Protective coverings
+- Hairnets against risk of entanglement
+Equipment for HEARING PROTECTION
+- Earmuffs (including e.g. earmuffs attached to a helmet, active noise reduction
+earmuffs, earmuffs with electrical audio input)
+- Earplugs (including e.g. level-dependent earplugs, earplugs adapted to the
+individual)
+Equipment for EYE AND FACE PROTECTION
+- Spectacles, goggles and face shields (prescription lenses where appropriate)
+against:
+- Mechanical risks
+- Thermal risks
+- Non-ionizing radiation (UV, IR, solar or welding radiation)
+- Ionizing radiation
+- Solid aerosols and liquids of chemical and biological agents
+Equipment for RESPIRATORY PROTECTION
+- Filtering devices against:
+- Particles
+- Gases
+- Particles and gases
+- Solid and/or liquid aerosols
+- Insulating devices, including with an air supply
+- Self-rescue devices
+- Diving equipment
+Equipment for HAND AND ARM PROTECTION
+- Gloves (including mittens and arm protection) against:
+- Mechanical risks
+- Thermal risks (heat, flame and cold)
+- Electric shock and live working (antistatic, conductive, insulating)
+[S.L.424.21 OF PERSONAL PROTECTIVE EQUIPMENT AT WORK 9
+- Chemical risks
+- Biological agents
+- Ionizing radiation and radioactive contamination
+- Non-ionizing radiation (UV, IR, solar or welding radiation)
+- Vibration risks
+- Finger stalls
+Equipment for FOOT AND LEG PROTECTION and anti-slip protection
+- Footwear (e.g. shoes, including in certain circumstances clogs, boots that may
+have steel toe-caps) to protect against:
+- Mechanical risks
+- Slipping risks
+- Thermal risks (heat, flame and cold)
+- Electric shock and live working (antistatic, conductive, insulating)
+- Chemicals risks
+- Vibration risks
+- Biological risks
+- Removable instep protectors against mechanical risks
+- Kneepads against mechanical risks
+- Gaiters against mechanical, thermal and chemical risks and biological agents
+- Accessories (e.g. spikes, crampons)
+SKIN PROTECTION -BARRIER CREAMS*
+- There could be barrier creams to protect against:
+- Non ionizing radiation (UV, IR, solar or welding radiation)
+- Ionizing radiation
+* In certain circumstances, as a result of the risk assessment, barrier creams could be used
+together with other PPE with the aim of protecting workers' skin from related risks. Bar-rier creams are PPE under the scope of Directive 89/656/EEC as this type of equipment can be considered in certain circumstances as "additional or accessory" within the mean-ing of Article 2 of Directive 89/656/EEC. However, barrier creams are not PPE according to the definition in Article 3(1) of Regulation (EU) 2016/425.
+[S.L.424.21 10 OF PERSONAL PROTECTIVE EQUIPMENT AT WORK
+- Chemicals
+- Biological agents
+- Thermal risks (heat, flame and cold)
+Equipment for BODY PROTECTION/OTHER SKIN PROTECTION
+- Personal protective equipment for protection against falls from a height, such as
+retractable type fall arresters, full body harnesses, sit harnesses, belts for work positioning and restraint and work positioning lanyards, energy absorbers, guided-type fall arresters including an anchor line, rope adjustment devices, anchor devices that are not designed to be permanently fixed and that do not require fastening works before use, connectors, lanyards, rescue harness
+- Protective clothing, including whole body (i.e. suits, overalls) protection and
+partial body (i.e. gaiters, trousers, jackets, waistcoats, aprons, kneepads, hoods, balaclavas) protection against:
+- Mechanical risks
+- Thermal risks (heat, flame and cold)
+- Chemicals
+- Biological agents
+- Ionizing radiation and radioactive contamination
+- Non-ionizing radiation (UV, IR, solar or welding radiation)
+- Electric shock and live working (antistatic, conductive, insulating)
+- Entanglement and trapping
+- Lifejackets for prevention of drowning and buoyancy aids
+- PPE for signalling the user's presence visually
+[S.L.424.21 OF PERSONAL PROTECTIVE EQUIPMENT AT WORK 11

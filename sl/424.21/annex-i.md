@@ -1,49 +1,65 @@
 ## ANNEX I
 # annex-i
-Risk survey list for the use of personal protective equipment
-RISKS
-PHYSICAL
+RISKS IN RELATION TO THE BODY PARTS TO BE
+PROTECTED BY PPE (*)
+(*) This list of risks/parts of the body cannot be expected to be exhaustive. The risk assessment will determine the need to provide a PPE and its characteristics according to the provisions of these Regulations.
+RISKS - PHYSICAL
 MECHANICAL
-Falls from a height
-Blows, cuts, impact, crushing
-Stabs, cuts, grazes
-Vibration
-Slipping, falling over
-THERMAL
-Heat, fire
-Cold
-ELECTRICAL
-RADIATION
-Non-ionizing
-Ionizing
+1. Impact caused by falling or ejected objects, collision with an obstacle and high-pressure jets.
+2. Falls due to slipping.
+3. Falls from a height.
+4. Vibration.
+5. Static compression of parts of the body.
+6. Mechanical injuries (abrasion, perforation, cuts, bites, wounds or stabs).
+7. Entanglement and trapping.
 NOISE
-CHEMICAL
-AEROSOLS
-Dust, fibres
-Fumes
-Vapours
-LIQUIDS
-Immersion
-Splashes, spurts
-GASES, VAPOURS
-BIOLOGICAL
-Harmful bacteria
-Harmful viruses
-Mycotic fungi
-Non-microbe biological antigens
-PARTS OF THE BODY REQUIRING PROTECTION
-Cranium
-Ears
-Eyes
-Respiratory tract
+1. Noise
+THERMAL
+1. Heat and/or fire.
+2. Cold.
+ELECTRICAL
+1. Electric shock (Direct or indirect contact).
+2. Static electricity.
+RADIATION
+1. Non-ionizing (Including sunlight (other than direct observation)).
+2. Ionizing.
 [S.L.424.21 6 OF PERSONAL PROTECTIVE EQUIPMENT AT WORK
-Face
-Whole head
-Hands
-Arms (parts)
-Foot
-Legs (parts)
-Skin
-Trunk/abdomen
-Parenteral passages
-Whole body
+RISKS (CHEMICAL (INCLUDING NANOMATERIAL))
+AEROSOLS
+1. Solid (Dusts, fumes, smokes and fibres).
+2. Liquid (Mists and fogs).
+LIQUIDS
+1. Immersion.
+2. Splashes, sprays and jets.
+GASES ANDVAPOURS
+1. Gases and vapours.
+RISKS (BIOLOGICAL AGENTS (CONTAINED IN))
+AEROSOLS
+1. Solids and liquids.
+LIQUIDS
+1. Direct and indirect contact.
+2. Splashes, sprays and jets.
+MATERIALS, PERSONS, ANIMALS, ETC
+1. Direct and indirect contact.
+OTHER RISKS
+DROWNING
+1. Drowning.
+OXYGEN DEFICIENCY
+1. Oxygen deficiency.
+NON-VISIBILITY
+1. Non-visibility.
+PARTS OF THE BODY TO BE PROTECTED
+1. Head (Cranium / Whole head).
+2. Ears.
+[S.L.424.21 OF PERSONAL PROTECTIVE EQUIPMENT AT WORK 7
+3. Eyes.
+4. Face.
+5. Respiratory system.
+6. Hands.
+7. Arms (parts).
+8. Foot.
+9. Legs (parts).
+10. Skin.
+11. Trunk/Abdomen.
+12. Partial body.
+13. Whole body.
