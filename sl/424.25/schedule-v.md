@@ -1,27 +1,46 @@
 ## SCHEDULE V
 # schedule-v
-INDICATIONS CONCERNING CONTAINMENT MEASURES
-AND CONTAINMENT LEVELS
-(Regulations 15 and 16)
+INDICATIONS CONCERNING CONTAINMENT MEASURES AND
+CONTAINMENT LEVELS
+(Regulations 15(3) and 16(1)(a) and (b))
 Preliminary note
 The measures contained in this Schedule shall be applied according to the nature of the activities, the assessment of risk to workers, and the nature of the biological agent concerned.
-A. Containment measures B. Containment levels
+In the table, "Recommended" means that the measures should in principle be applied, unless the results of the assessment referred to in Regulation 3(2) indicate otherwise.
+B. Containment levels
+A. Containment measures
 2 3 4
-1. The workplace is to be separated from No Recommended Yes any other activities in the same building
-2. Input air and extract air to the No Yes, on Yes, on input workplace are to be filtered using (HEPA) or extract air and extract likewise air
-3. Access is to be restricted to nominated Recommended Yes Yes, via workers only airlock
-[S.L.424.25 27 EXPOSURE TO BIOLOGICAL AGENTS AT WORK
-A. Containment measures B. Containment levels
-2 3 4
-4. The workplace is to be sealable to No Recommended Yes permit disinfection
-5. Specified disinfection procedures Yes Yes Yes 6. The workplace is to be maintained at an No Recommended Yes air pressure negative to atmosphere
-7. Efficient vector control, for example Recommended Yes Yes rodents and insects
-8. Surfaces impervious to water and easy Yes, for bench Yes, for bench Yes, for to clean and floor bench, walls,
-floor and ceiling
-9. Surfaces resistant to acids, alkalis, Recommended Yes Yes solvents, disinfectants
-10. Safe storage of a biological agent Yes Yes Yes, secure
+Workplace
+1. The workplace is to be separated from any No Recom- Yes other activities in the same building mended
+2. The workplace is to be sealable to permit No Recom- Yes fumigation mended
+Facilities
+[S.L.424.25 35 EXPOSURE TO BIOLOGICAL AGENTS AT WORK
+3. Infected material, including any animal, Where Yes, where Yes is to be handled in a safety cabinet or appropriate infection is isolation or other suitable containment by airborne
+route
+Equipment
+4. Input air and extract air to the No Yes, on Yes, on workplace are to be filtered using (HEPA extract air input and
+(1)) or likewise extract air
+5. The workplace is to be maintained at an No Recom- Yes air pressure negative to atmosphere mended
+6. Surfaces impervious to water and easy Yes, for Yes, for Yes, for to clean bench and bench, floor bench,
+floor and other walls, floor
+surfaces and ceiling
+determined
+by risk
+assessment
+7. Surfaces resistant to acids, alkalis, Recom- Yes Yes solvents, disinfectants mended
+System of work
+8. Access is to be restricted to nominated Recom- Yes Yes, via workers only airlock mended
+(2)
+9. Efficient vector control, for example Recom- Yes Yes rodents and insects mended
+10. Specified disinfection procedures Yes Yes Yes
+11. Safe storage of a biological agent Yes Yes Yes, secure
 storage
-11. An observation window, or alternative, Recommended Recommended Yes is to be present, so that occupants can be seen
-12. A laboratory is to contain own No Recommended Yes equipment
-13. Infected material, including any Where Yes, where Yes animal, is to be handled in a safety cabinet or appropriate infection is by isolation or other suitable containment airborne route
-14. Incinerator for disposal of animal Recommended Yes (available) Yes, on site carcasses
+12. Personnel should shower before leaving No Recom- Recom-the contained area mended mended
+Waste
+13. Validated inactivation process for the safe Recom- Yes, on or Yes, on site disposal of animal carcases mended off site
+Other measures
+14. A laboratory is to contain its own No Recom- Yes equipment mended
+15. An observation window, or, alternative, is Recom- Recom- Yes' to be present, so that occupants can be seen mended mended
+(1) HEPA: High efficiency particulate air
+(2) Airlock: Entry must be through an airlock which is a chamber isolated from the laboratory. The clean side of the airlock must be separated from the restricted side by changing or showering facilities and preferably by interlocking doors.
+[S.L.424.25 36 EXPOSURE TO BIOLOGICAL AGENTS AT WORK
+- Substituted by: L.N. 4 of 2022.
