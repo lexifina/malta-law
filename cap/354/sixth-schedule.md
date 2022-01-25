@@ -8,5 +8,5 @@ Electoral Commissioners appointed for conducting the election of Members of the 
 Whereas an election of Members of the House of Representatives is to be held for the electoral division;
 You are hereby commissioned to cause an election of Members of the House of Representatives to be held according to the law.
 Given at the Palace, Valletta
-this ........day ............ of ................... 19 ........
+this ........day ............ of ................... 20 ........
 PRESIDENT
