@@ -1,4 +1,4 @@
 SUBSIDIARY LEGISLATION 601.09
 CONCESSION CONTRACTS REGULATIONS
 28th October, 2016
-LEGAL NOTICE 353 of 2016, as amended by Legal Notices 26 of 2018 and 196 and 414 of 2020 and Act XXVIII of 2018.
+LEGAL NOTICE 353 of 2016, as amended by Legal Notices 26 of 2018 and 196, 414 of 2020 and 26 of 2022; Act XXVIII of 2018.
