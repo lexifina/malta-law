@@ -4,4 +4,4 @@ BYE-LAWS FOR THE DEGREE OF MASTER OF
 ARTS UNDER THE AUSPICES OF
 THE FACULTY OF ARTS
 13th March, 2009
-LEGAL NOTICE 65 of 2009, as amended by Legal Notices 304 of 2010, 49, 208 and 329 of 2013, 96, 314 and 343 of 2014, 271 and 349 of 2015, 23, 200 and 359 of 2016, 10 of 2017,235 of 2017, 78 of 2018 and 375 of 2018.
+LEGAL NOTICE 65 of 2009, as amended by Legal Notices 304 of 2010, 49, 208 and 329 of 2013, 96, 314 and 343 of 2014, 271 and 349 of 2015, 23, 200 and 359 of 2016, 10 of 2017,235 of 2017, 78 of 2018, 375 of 2018 and 45 of 2022.
