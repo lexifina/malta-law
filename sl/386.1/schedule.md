@@ -347,24 +347,48 @@ Dated this .......................... day of ...................... of the year 
 This form must be completed in typed form.
 (a) State company name.
 Form K
-No. of Company ...............................
+Company Reg. No. ………………….
 COMPANIES ACT
-Notification of changes among directors or company secretary
-or in the representation of a company
-Pursuant to article 146(1)
-Name of Company ................................................................................................
-Delivered by .........................................................................................................
--------------------------------------------------------------------------------------------------
+Notification of changes among directors or company secretary or in the representation of
+the company and the directors' consent and declaration for appointment pursuant to
+articles 139(1), 139(5) and 146(1)
+Name of Company ………………………………………
+Delivered by ……………………………………….…….
 To the Registrar of Companies:
-(a) ............................................................. hereby gives notice in accordance with article 146(1) of the Companies Act that:
-Effective date of change ........................................................................................
-Signature ...............................................
-Director/Secretary/Manager*
-Dated this .......................... day of ...................... of the year ...............
--------------------------------------------------------------------------------------------------
+Section A - Change in directors or company secretary or legal representation of a company
+(a) …………………………………….. hereby gives notice in accordance with article 146(1) of the Companies Act that: …………………………………......……………....
+.................................................................................................................................
+Effective date of change (b) …………………………….
+Signature …….....…………
+Director/Secretary/Manager (^)
+Dated this ………… day of ……………… of the year …..
+Section B - Directors' consent and declaration for appointment (*)
+I, (c)......................................................... the undersigned, hereby declare, in accordance with the provisions of article 139(5) of the Companies Act, Cap. 386, that to date, (d) ............................................ I am not aware of any circumstances which could lead to a disqualification from being appointed or to hold the office of director of a company. I am hereby consenting, in terms of article 139(1) of the Companies Act, Cap. 386, to be appointed as a director of the said company.
+Signature ……….....…………..
+Proposed Director
+Dated this ………… day of ……………… of the year ….. This form must be completed in typed format
+(a) Insert name of company
+(b) Insert date in full (day/month/year)
+(^) Delete as necessary
+(c) Insert official name and surname
+(d) Insert date in full (day/month/year)
+(*) Delete if no new director is being appointed or replicate if necessary
+Form K(1)
+COMPANIES ACT (CAP. 386)
+Declaration of compliance with article 139 made by persons applying Ħ
+to become directors of a proposed company
+Pursuant to article 139(1) and (5)
+Name of Company....................................................
+Delivered by...............................................................................
+To the Registrar of Companies:
+I, (a)......................................................... the undersigned, hereby declare, in accordance with the provisions of article 139(5) of the Companies Act, Cap. 386, that to date, (b) ............................................ I am not aware of any circumstances which could lead to a disqualification from being appointed or to hold the office of director of a company.
+I am hereby consenting, in terms of article 139(1) of the Companies Act, Cap. 386, to be appointed as a director of the said company.
+Signature ..................................................
+Proposed Director
+Dated this................. day of......................... of the year.....
 This form must be completed in typed form.
-(a) State company name.
-* Delete as necessary
+(a) State official name and surname
+(b) Insert full date (day/month/year)
 Form L
 No. of Company .................................
 COMPANIES ACT
@@ -654,7 +678,7 @@ Delivered by ...................................................................
 -------------------------------------------------------------------------------------------------
 To the Registrar of Companies:
 (a) ................................................................ hereby gives notice in accordance with article 115(5) of the Companies Act that (b) .................. fully paid preference shares have been redeemed and the price of redemption has been paid in full.
-Names and address of holders of redeeemed preference shares
+Names and address of holders of redeemed preference shares
 Name Address No. of shares Class
 redeemed
 TOTAL
@@ -892,3 +916,4 @@ This form must be completed in typed form.
 (c) State date when the winding up of the above company terminated.
 * Delete as necessary.
 - Amended by: L.N. 116 of 1997; L.N. 214 of 2007; L.N. 425 of 2007; L.N. 401 of 2011; L.N. 358 of 2014.
+- Substituted by: L.N. 51 of 2022.
