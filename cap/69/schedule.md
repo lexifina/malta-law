@@ -1,10 +1,10 @@
 ## SCHEDULE
-## *Article 5 of Act XXXI of 1995 inter alia provides: 5. Nothing in article 46 of the Reletting of Urban Property (Regulation) Ordinance shall be deemed to restrict any of the powers of the Director of Social Housing under the Housing Act, (Cap.125) and the provisions of the Ordinance as in force immediately before the coming into force of this Act (1st June 1995) shall, in as far as applicable, continue to apply with regard to the relationship between the said Director and any owner of premises in possession of the said Director on that date, or between the said Director and any person legally in occupation of such premises. The provisions of the said Ordinance as aforesaid shall also continue to regulate the relationship between any person in occupation of such premises and the owner thereof.
 # schedule
 [ARTICLES 25 AND 26]
 FORM A
 To the Registrar,
-Rent Regulation Board. I submit this application for the increase of rent or the imposition of new conditions with regard to the renewal of the lease of the premises (1) now held by (2)
+Rent Regulation Board.
+I submit this application for the increase of rent or the imposition of new conditions with regard to the renewal of the lease of the premises (1) now held by (2)
 The present lease expires on the (3)
 The present lease is at the rent of (4) and under the following conditions: (5)
 I desire to raise the rent to (6) and to impose the following conditions: (7)
