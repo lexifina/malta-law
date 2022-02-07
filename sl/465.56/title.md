@@ -2,4 +2,5 @@ SUBSIDIARY LEGISLATION 465.56
 GROUPS OF PERSONS IN RESIDENTIAL
 PROPERTIES REGULATIONS
 5th March 2021
-LEGAL NOTICE 77 of 2021, as amended by Legal Notices 109, 142 and 157 of 2021.
+LEGAL NOTICE 77 of 2021, as amended by Legal Notices 109, 142 157 and 183 of 2021.
+Repealed by Legal Notice 65 of 2022.
