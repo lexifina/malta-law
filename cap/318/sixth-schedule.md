@@ -40,12 +40,3 @@ House Rent
 The rates in Parts I, II, III and IV shall be increased by € 1.16 per week if the household is paying rent for its normal place of habitation:
 Provided that when more than one household live within the same premises, the rent allowance shall be paid only once and shall be paid to the head of household responsible for the payment of such rent to third parties.
 The ground rent payable by the household in respect of premises which are held in emphyteusis for a period not exceeding twenty-five years shall be deemed to be the house rent for the purposes of this item if such premises are used exclusively by the household and solely as a residence.
-- Substituted by: XIV. 1988.18.
-- Amended by: XVI. 1989.28.
-- Substituted by: XVI. 1990.53.
-- Amended by: XIII. 1991.45.
-- Substituted by: VIII. 1992.42.
-- Amended by: XXIV. 1993.17; XXV. 1994.2,36; XXVII. 1995.15.
-- Substituted by: XXI. 1996.60; XXII. 1997.8; L.N. 56 of 1999; L.N. 84 of 1999; L.N. 10 of 2000; L.N. 21 of 2001; L.N. 4 of 2002; L.N. 422 of 2002; L.N. 436 of 2003; II. 2004.33; L.N. 100 of 2006; L.N. 101 of 2006; L.N. 318 of 2007; L.N. 424 of 2007; L.N. 149 of 2008; L.N. 143 of 2009; L.N. 437 of 2010; L.N. 330 of 2011; L.N. 342 of 2012; L.N. 355 of 2013; L.N. 62 of 2014; L.N. 123 of 2015; XXXIX. 2015.12; L.N. 309 of 2016.
-- Amended by: XVI. 2017.40.
-- Substituted by: L.N. 6 of 2018; L.N.195 of 2018; L.N. 94 of 2019; L.N. 251 of 2020; L.N. 232 of 2023.

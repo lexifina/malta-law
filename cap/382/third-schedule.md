@@ -2,7 +2,7 @@
 # third-schedule
 MANUFACTURED TOBACCO
 Rate of
-Description of excise goods
+Description of excisable goods
 Excise Duty
 Cigarettes 23.4% of the
 retail price plus €107 per 1000 cigarettes but not less than €165 per 1000 cigarettes

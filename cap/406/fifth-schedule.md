@@ -12,8 +12,7 @@ Exports and like transactions
 International goods traffic
 2. (1) The supply of goods intended to be placed or while they are placed under a customs duty suspension regime.
 (2) The supply of services other than those exempted by item 6, consisting in work on movable goods that are intended to be placed or while they are placed under a customs duty suspension regime.
-Intra-community supplies
-3. (1) The intra-community supply of goods to a person who is identified on the relative invoice as a person identified for value added tax purposes by a valid and active value added tax identification number in a Member State other than Malta, excluding:
+Intra-community supplies 3. (1) The intra-community supply of goods to a person who is identified on the relative invoice as a person identified for value added tax purposes by a valid and active value added tax identification number in a Member State other than Malta, excluding:
 (a) a supply made by a person registered under article 11;
 (b) a supply that is subject to the special scheme of the profit margin in terms of Part Two of the Fourteenth Schedule:
 Provided that, the exemption provided for under this sub-item shall not apply where the supplier has not complied with the obligation to submit a recapitulative statement in terms of article 30(3) or the recapitulative statement submitted by him does not set out the correct information concerning the supply as required in terms of the said article 30(3), unless the supplier can duly justify his shortcoming to the satisfaction of the Commissioner.
@@ -70,7 +69,8 @@ For avoidance of doubt, "scheduled inter-island sea transport of passengers" sha
 (c) special regular services consisting in the carriage of school pupils and students to and from an educational establishment recognised as such by the Commissioner;
 (d) special regular services consisting in the carriage of workers to and from their place of work.
 In paragraphs (c) and (d) the term "special regular services" has the meaning assigned to it in the Passenger Transport Services Regulations or any other regulations replacing those regulations.
-Supplies of goods on board cruise liners 12. The supply of goods for consumption on board cruise liners where the place of taxation in terms of item 3 of the Third Schedule to the Act is deemed to be in Malta.
+Supplies of goods on board cruise liners
+12. The supply of goods for consumption on board cruise liners where the place of taxation in terms of item 3 of the Third Schedule to the Act is deemed to be in Malta.
 Supplies of goods in accordance with sub-item (2) of item 12A of the Second Schedule
 13. The supply of goods to a taxable person who is deemed to have received and supplied those goods in accordance with sub-item (2) of item 12A of the Second Schedule.
 Supplies to the European Commission or to an agency or body established under European Union law
@@ -108,8 +108,8 @@ Credit, banking and other services
 (d) shares or interests equivalent to shares giving the holder thereof de jure or de facto rights of ownership or possession over immovable property or part thereof.
 (6) The supply of services consisting of the management of any investment scheme, provided that these services are limited to those activities that are specific to and essential for the core activity of the scheme:
 Provided further that investment schemes shall refer to:
-"collective investment scheme" as defined under the Investment Services Act;
-"retirement scheme" as defined under the Retirement Pensions Act; "securitisation vehicle" as defined under the Securitisation Act; and
+"collective investment scheme" as defined under the Investment Services Act; "retirement scheme" as defined under the Retirement Pensions Act;
+"securitisation vehicle" as defined under the Securitisation Act; and
 "authorised reinsurance special purpose vehicle" as defined in the Re- Insurance Special Purpose Vehicle Regulations.
 Cultural and religious services
 4. (1) Religious services.
@@ -178,8 +178,8 @@ Goods exempt from customs duty
 exempt from customs duties other than as provided for in the Import Duties Act.
 (b) goods that are intended to be placed under a customs duty suspension
 regime.
-Goods of a non-commercial character imported in the personal luggage of travellers
-2A. The importation of goods, the total value of which does not exceed four hundred and thirty euro (€430) per person, as provided for in the Excise Duty (Goods imported by Persons Travelling from Third Countries) Regulations. S.L.382.02.
+Objects of a non-commercial nature imported in the personal luggage of travellers.
+2A. The importation of objects, where their total value does not exceed the limits provided in the Excise Duty (Goods Imported by Persons Travelling from Third Countries) Regulations. S.L. 382.02.
 Importation of goods where VAT shall be declared under the special scheme in Section 4 of Part Seven of the Fourteenth Schedule
 2B. The importation of goods where the VAT shall be declared under the special scheme in Section 4 of Part Seven of the Fourteenth Schedule and where, at the latest upon lodging of the import declaration, the individual value added tax identification number for the application of the special scheme of the supplier or of the intermediary acting on his behalf, allocated in terms of Section 4 of Part Seven of the Fourteenth Schedule, has been provided to the competent customs office in Malta.
 Goods transported from a third territory
@@ -265,4 +265,4 @@ Investment gold
 6. "Investment gold" has the meaning assigned to it in Part Six of the Fourteenth Schedule.
 - Amended by: L.N. 24 of 2001.
 - Substituted by: X. 2003.47.
-- Amended by: L.N. 250 of 2004; L.N. 520 of 2004; L.N. 334 of 2006; L.N. 121 of 2007; L.N. 445 of 2007; L.N. 234 of 2009; L.N. 286 of 2010; L.N. 425 of 2010; L.N. 534 of 2010; L.N. 379 of 2011; L.N. 499 of 2011; L.N. 38 of 2012; L.N. 345 of 2013; L.N. 422 of 2013; L.N. 480 of 2014; L.N. 227 of 2015; L.N. 247 of 2016; L.N. 383 of 2016; L.N.347 of 2017; L.N. 9 of 2018; L.N.155 of 2019; L.N.302 of 2019; L.N.253 of 2019; L.N.222 of 2020; L.N. 4 of 2021; L.N. 358 of 2021.
+- Amended by: L.N. 250 of 2004; L.N. 520 of 2004; L.N. 334 of 2006; L.N. 121 of 2007; L.N. 445 of 2007; L.N. 234 of 2009; L.N. 286 of 2010; L.N. 425 of 2010; L.N. 534 of 2010; L.N. 379 of 2011; L.N. 499 of 2011; L.N. 38 of 2012; L.N. 345 of 2013; L.N. 422 of 2013; L.N. 480 of 2014; L.N. 227 of 2015; L.N. 247 of 2016; L.N. 383 of 2016; L.N.347 of 2017; L.N. 9 of 2018; L.N.155 of 2019; L.N.302 of 2019; L.N.253 of 2019; L.N.222 of 2020; L.N. 4 of 2021; L.N. 358 of 202; VII.2022.70.

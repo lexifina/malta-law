@@ -2,7 +2,7 @@
 ## Title.
 ## Applicability.
 ## Definitions.
-## Breweries as tax warehouses.
+## Breweries as authorised tax warehouses.
 ## Applications for registering a brewery.
 ## Certificate of registration.
 ## Cessation of production.
@@ -24,7 +24,7 @@ PART I
 "the Act" means the Excise Duty Act; and
 "release for consumption" shall be taken to mean the making available to a natural or legal person, on the territory of Malta, of any beer subject to excise duty, when the beer leaves any arrangement made with the Commissioner in accordance with these regulations under which payment of excise duty is suspended; and, any reference to an arrangement where duty is kept in suspension shall be taken to refer to an arrangement made in accordance with these regulations, whereby beer may be kept or moved under specified conditions without payment of duty.
 PART II
-4. (1) Any brewery shall for the purpose of these regulations be deemed to be an approved tax warehouse if so approved by the Commissioner, and a brewer shall likewise be deemed to be an approved warehouse keeper.
+4. (1) Any brewery shall for the purpose of these regulations be deemed to be an authorised tax warehouse if so approved by the Commissioner, and a brewer shall likewise be deemed to be an authorised tax warehouse keeper.
 (2) An application to register a brewery in terms of article 9 of the Act, shall be made in writing to the Commissioner and shall include the following particulars:
 (a) the name of the applicant;
 (b) the status (sole proprietor, partnership, limited liability company or other status) of the applicant's business;
@@ -41,8 +41,8 @@ PART II
 (6) The Commissioner may, for reasonable cause, vary the particulars required on the certificate of registration provided that fourteen days' notice in writing are given to the brewer informing him of such variations.
 7. (1) A brewer shall notify the Commissioner of the cessation of production or the intention to cease production at any brewery registered in his name.
 (2) Where the Commissioner is satisfied that a brewer has ceased to produce beer brewery, he may revoke the registration of the relevant brewery at any time.
-7A. (1) Subject to such conditions that shall be established to ensure the simplified application of rules for an independent and small brewery, after he makes such a request to the Commissioner, the authorised warehouse keeper shall be provided with an annual certificate as an independent and small brewery established in Malta and it confirms its total annual production, as applicable, and confirming the independent and small brewery's conformity to the relevant criteria, as applicable. The administrative document for the movement of beer under regulation 12 of Part A of the Sixth Schedule or the customs document for release of beer for consumption shall refer to this certificate mentioned in this sub-regulation.
-(2) Notwithstanding that provided in sub-regulation (1), and under certain conditions that may be established by the Commissioner with the intent to ensure the correct and simple application of this regulation and for the prevention of evasion of any kind, avoidance or abuse, authorised warehouse keepers may certify themselves in writing to the Commissioner that they are an independent and small brewery established in Malta and portray their conformity to the relevant criteria, as applicable, and their relevant total annual production.
+7A. (1) Subject to such conditions that shall be established to ensure the simplified application of rules for an independent and small brewery, after he makes such a request to the Commissioner, the authorised tax warehouse keeper shall be provided with an annual certificate as an independent and small brewery established in Malta and it confirms its total annual production, as applicable, and confirming the independent and small brewery's conformity to the relevant criteria, as applicable. The administrative document for the movement of beer under regulation 12 of Part A of the Sixth Schedule or the customs document for release of beer for consumption shall refer to this certificate mentioned in this sub-regulation.
+(2) Notwithstanding that provided in sub-regulation (1), and under certain conditions that may be established by the Commissioner with the intent to ensure the correct and simple application of this regulation and for the prevention of evasion of any kind, avoidance or abuse, authorised tax warehouse keepers may certify themselves in writing to the Commissioner that they are an independent and small brewery established in Malta and portray their conformity to the relevant criteria, as applicable, and their relevant total annual production.
 (3) The Commissioner shall, under the conditions which he shall establish with the scope of ensuring the correct and simple application of this regulation, and for the prevention of any evasion, avoidance or abuse, recognise the certificate of an independent and small brewery mentioned in this regulation that is issued by another Member State, except in justified circumstances as deemed fit.
 PART III
 8. (1) The person, firm, partnership or company in whose name the brewery is registered shall be responsible for the payment of excise duty as specified in article 3 of the Act, at the time payment of excise duty becomes due. Such payment shall be effected at Custom House or at any other place appointed by notice in the Gazette, on any entry form containing such particulars as the Minister may by regulation under the Act prescribe.
@@ -60,7 +60,7 @@ which the production of beer began.
 (3) For the purpose of this regulation "beer" shall include unfinished beer.
 PART V
 10. (1) Beer produced in Malta may be kept by the brewer under duty suspension within the precincts of a registered brewery.
-(2) Such beer may be moved under duty suspension from a registered brewery to another registered brewery or approved tax warehouse or from an approved tax warehouse to a registered brewery or another approved tax warehouse and from such brewery or warehouse to a place of loading for export as merchandise or as ships stores as provided for in article 14 of the Act.
+(2) Such beer may be moved under duty suspension from a registered brewery to another registered brewery or authorised tax warehouse or from an authorised tax warehouse to a registered brewery or another authorised tax warehouse and from such brewery or warehouse to a place of loading for export as merchandise or as ships stores as provided for in article 14 of the Act.
 (3) All such removal of beer without payment of duty shall, unless the Commissioner may otherwise allow, be subject to the following conditions:
 (a) the beer is transported in containers or packages which are secured by a form of seal approved by the Commissioner or under customs escort, in either case as directed by the Commissioner;
 (b) the beer is accompanied by a document signed by a consignor and approved by the Commissioner, which shall specify the place from which despatched and the place to which consigned and the quantity and description of the beer;

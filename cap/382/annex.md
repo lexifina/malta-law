@@ -1,24 +1,17 @@
 ## ANNEX
+## MALTA INTERNAL ADMINISTRATIVE ACCOMPANYING DOCUMENT PRODUCTS SUBJECT TO EXCISE DUTY
+## 18a. Marks and numbers, No. and No kind of packages, description of goods No 18b. Marks and numbers, No. and No kind of packages, description of goods No 18c. Marks and numbers, No. and No kind of packages, description of goods No
+## Box 9 Box 10 Guarantee: indicate whether provided by the
 ## 24a. Sold in warehouse?
 ## Yes No
 ## Malta produced?
 ## Yes No 24b. Sold in warehouse?
 ## Yes No 24c. Sold in warehouse?
-## EXPLANATORY NOTES 1. 1.1 The
-## 1.2 The document must be completed legibly and in a
-## 1.3 The format of the IAAD is as laid down in the
-## 1.4 Any unused space in boxes 18a to 24c is to be lined
-## 1.5 The accompanying document comprises three
-## 1.6 Copies 2 and 3 must accompany the goods during
-## 1.7 In cases where the document is utilised for
-## 2. Box 1 Box 2
-## Box 3
-## Box 4
-## Box 5 Box 6 Box 7
-## Box 7a For goods to be exported, the notation 'EXPORT
-## Box 8
-## MALTA INTERNAL ADMINISTRATIVE ACCOMPANYING DOCUMENT PRODUCTS SUBJECT TO EXCISE DUTY
-## 18a. Marks and numbers, No. and No kind of packages, description of goods No 18b. Marks and numbers, No. and No kind of packages, description of goods No 18c. Marks and numbers, No. and No kind of packages, description of goods No
+## MALTA INTERNAL ADMINISTRATIVE ACCOMPANYING DOCUMENT PRODUCTS SUBJECT TO EXCISE DUTY B AUTHORISATION FOR CHANGE OF PLACE OF DELIVERY New name/address:
+## Request by: name/address of company:
+## Name and signatory: Place and date:
+## C CERTIFICATION OF RECEPTION OR EXPORTATION
+## *delete inapplicable A Record of control (continued)
 ## Title.
 ## Scope.
 ## Definitions.
@@ -32,9 +25,9 @@
 ## Containers with a band attached.
 ## Forfeiture.
 ## Retail price of cigarettes.
-## Registration of tax warehouse.
+## Registration of authorised tax warehouse.
 ## Cigarettes sealed with a band.
-## Cigarettes to be sealed with a band
+## Cigarettes to be sealed with a band.
 ## Water-pipe tobacco.
 ## Time and manner of payment of duty on cigarettes.
 ## Established retail price.
@@ -42,11 +35,11 @@
 ## Presumption as to quantity of products manufactured.
 ## Track and Trace system.
 ## Records and periodic statements.
-## Records to be kept under regulation 15 of Excise Goods Regulations.
+## Records to be kept under regulation 15 of Excisable Goods Regulations.
 ## Possession of tobacco products in contravention of the Act and regulations.
 ## Hand rolled cigarettes.
 ## Manner of calculating duty.
-## Installations as tax warehouses.
+## Installations as authorised tax warehouses.
 ## Plans to be approved by Commissioner.
 ## Tanks, etc., to be calibrated, etc.
 ## Landing of imported oil or gas.
@@ -54,9 +47,9 @@
 ## Blending of certain fuels.
 ## Returns.
 ## Statements.
-## Records to be kept for purposes of Excise Goods Regulations.
+## Records to be kept for purposes of Excisable Goods Regulations.
 ## Penalty.
-## Authorised warehouse keeper, etc., to provide measuring appliances, etc.
+## authorised tax warehouse keeper, etc., to provide measuring appliances, etc.
 ## Payment of duty.
 ## Products mentioned in Part B of the Fourth Schedule.
 ## Fiscal marking of gas oils and kerosene.
@@ -94,52 +87,47 @@
 PART B
 Alcohol and Alcoholic Beverages Regulations
 1. The title of these regulations is Alcohol and Alcoholic Beverages Regulations.
-2. These regulations shall apply to alcohol and alcoholic products excluding beer and wine specified as excise goods by the Excise Duty Act.
+2. These regulations shall apply to alcohol and alcoholic products excluding beer and wine specified as excisable goods by the Excise Duty Act.
 3. In these regulations, unless the context otherwise requires, "the Act" means the Excise Duty Act and all other terms shall have the meaning assigned to them by the Act.
-4. (1) Any person who is an authorised warehouse keeper in the goods specified in regulation 2 shall conform with the requirements of the relevant provisions of the Spirits Ordinance.
-(2) The provisions of the Alcoholic Beverages Regulations and of any other regulation made under the Spirits Ordinance shall apply, to the extent not otherwise provided for in the Excise Goods Regulations or these regulations, to alcoholic beverages enlisted in the First Schedule to the Act and which are also specified in the Second Schedule to the Act.
-5. (1) Any person who produces the goods specified in regulation 2 shall, in addition to the obligations imposed by the Spirits Ordinance, register any tax warehouse in which such goods are produced or intended to be produced in accordance with article 9 of the Act and as regulated by regulations 4 to 8 of the Excise Goods Regulations.
+4. (1) Any person who is an authorised tax warehouse keeper in the goods specified in regulation 2 shall conform with the requirements of the relevant provisions of the Spirits Ordinance.
+(2) The provisions of the Alcoholic Beverages Regulations and of any other regulation made under the Spirits Ordinance shall apply, to the extent not otherwise provided for in the Excisable Goods Regulations or these regulations, to alcoholic beverages enlisted in the First Schedule to the Act and which are also specified in the Second Schedule to the Act.
+5. (1) Any person who produces the goods specified in regulation 2 shall, in addition to the obligations imposed by the Spirits Ordinance, register any authorised tax warehouse in which such goods are produced or intended to be produced in accordance with article 9 of the Act and as regulated by regulations 4 to 8 of the Excisable Goods Regulations.
 (2) The provisions of article 9(4) of the Act applies only to the extent allowed by the Spirits Ordinance in respect to alcohol and alcoholic products.
-6. The Commissioner shall issue a certificate of registration in accordance with regulation 6 of the Excise Goods Regulations and may withhold the issue, or revoke such certificate if the applicant fails to conform with the requirements imposed by the Spirits Ordinance.
+6. The Commissioner shall issue a certificate of registration in accordance with regulation 6 of the Excisable Goods Regulations and may withhold the issue, or revoke such certificate if the applicant fails to conform with the requirements imposed by the Spirits Ordinance.
 7. Any reference in the Spirits Ordinance to duty payable on spirits shall be taken to refer also to the excise duty payable under the Act.
 8. Excise duty on alcohol and alcoholic beverages subject to duty under this Act shall be leviable and shall be assessed at the rate prevailing at such time as they are released for consumption and it shall be paid by no later than the last Sunday of the following month.
-9. (1) Imported spirits removed to a tax warehouse shall be treated in the same manner and shall be subject to the same conditions as are allowed or imposed by Part VI of the Spirits Ordinance on locally distilled spirits, and the person or persons responsible for such spirits shall keep such records as are envisaged in the said Ordinance.
+9. (1) Imported spirits removed to a authorised tax warehouse shall be treated in the same manner and shall be subject to the same conditions as are allowed or imposed by Part VI of the Spirits Ordinance on locally distilled spirits, and the person or persons responsible for such spirits shall keep such records as are envisaged in the said Ordinance.
 (2) In case of default the person or persons responsible for such spirits shall become liable to the same penalties contemplated under Part VI of the said Ordinance.
-10. (1) Without prejudice to the provisions of regulation 9(1) the authorised warehouse keeper shall submit to the Commissioner, not later than thirty days following the end of each calendar year, a statement certified by a public auditor testifying the following, as the case may be:
+10. (1) Without prejudice to the provisions of regulation 9(1) the authorised tax warehouse keeper shall submit to the Commissioner, not later than thirty days following the end of each calendar year, a statement certified by a public auditor testifying the following, as the case may be:
 (i) the quantity in litres of spirit produced during the relevant period, specifying the alcoholic
 strength and type of spirit;
 (ii) the quantity in litres of alcoholic products produced during the relevant period, specifying type, alcoholic strength and whether derived from dilution, blending or other process;
 (iii) the yield of each bottling operation for each product specifying the number of bottles and their capacity;
 (iv) the quantity in litres of bulk spirits kept in stock, specifying type and strength as at the end of the relevant period;
 (v) the quantity in litres of each packaged alcoholic product kept in stock at the end of the relevant period, specifying type, strength and package description;
-(vi) the quantity in litres of products sold or otherwise removed from the tax warehouse during the relevant period, specifying the nature of transaction;
-(vii) the quantity in litres of spirits or other alcoholic products introduced into the tax warehouse, indicating the source during the relevant period,
-specifying types and strength;
-(viii) the quantity of products removed from the tax warehouse during the relevant period specifying types and whether released for home
-consumption, for export or otherwise.
+(vi) the quantity in litres of products sold or otherwise removed from the authorised tax warehouse during the relevant period, specifying
+the nature of transaction;
+(vii) the quantity in litres of spirits or other alcoholic products introduced into the authorised tax warehouse, indicating the source during the relevant period, specifying types and strength;
+(viii) the quantity of products removed from the authorised tax warehouse during the relevant period specifying types and whether released for home consumption, for export or otherwise.
 (2) Any person who fails to comply with the provisions of this regulation shall be guilty of an offence and shall be liable, on conviction to a fine (multa) not exceeding twenty-five thousand euro (€25,000).
-11. (1) (a) No person may manufacture, process, prepare for sale, expose or offer for sale, sell or otherwise dispose of any ethyl alcohol as defined in the Second Schedule with an actual alcoholic strength by volume of between ten percent (10% vol.) and twenty-four percent (24% vol.) in containers of fifty (50) centilitres capacity or above unless a band or an excise stamp has been affixed thereon showing this percentage of alcohol as indicated by the Commissioner and as provided for in regulation 12.
-(b) No person may manufacture, process, prepare for sale,
-expose or offer for sale, sell or otherwise dispose of any ethyl alcohol as defined in the Second Schedule with an actual alcoholic strength by volume of twenty-five per cent (25% vol.) or more and in containers of fifty (50) centilitres capacity or above as indicated by the Commissioner unless a band or an excise stamp has been affixed thereon as provided for in regulation 12.
-(2) It shall be lawful for the Commissioner to exempt in writing from the provision of the preceding subregulation, under such conditions as he may deem fit to impose, any ethyl alcohol intended to be exported or as ship's supply or for sale to persons exempted by or under any law from the payment of excise duty.
-(3) It shall be lawful for the Commissioner to exempt in writing from the provision of subregulation (1) any other ethyl alcohol not covered by the preceding paragraph, under such conditions as he may deem fit to impose.
-12. (1) No containers immediately enclosing ethyl alcohol shall be released by Customs or from a tax warehouse unless a band or an excise stamp has been affixed thereon. This band or an excise stamp shall be the correct one as indicated by the Commissioner and it shall be affixed in the correct manner, as indicated by the Commissioner.
+11. (1) No person may manufacture, process, prepare for sale, expose or offer for sale, sell or otherwise dispose of any ethyl alcohol or fermented beverages or intermediate products as defined in the Second Schedule with an actual alcoholic strength by volume of ten per cent (10% vol.) or more in containers of fifty (50) centilitre capacity or more unless there is affixed to them an excise band or stamp which shows this percentage of alcohol, as indicated by the Commissioner and as provided for in regulation 12.
+(2) It shall be lawful for the Commissioner to exempt in writing from the provision of the preceding sub-regulation, under such conditions as he may deem fit to impose, any ethyl alcohol intended to be exported or as ship's supply or for sale to persons exempted by or under any law from the payment of excise duty.
+(3) It shall be lawful for the Commissioner to exempt in writing from the provision of sub-regulation (1) any other ethyl alcohol not covered by the preceding paragraph, under such conditions as he may deem fit to impose.
+12. (1) No containers immediately enclosing ethyl alcohol shall be released by Customs or from a authorised tax warehouse unless a band or an excise stamp has been affixed thereon. This band or an excise stamp shall be the correct one as indicated by the Commissioner and it shall be affixed in the correct manner, as indicated by the Commissioner.
 (2) The said bands or stamps shall be of a round shape and continue in a rectangular shape in a way that the round part is affixed on the cap and the rectangular part is affixed going down onto the container, in such a way that when the container is opened, the destruction of the band or stamp is ensured:
 Provided that if it is not possible to affix the band or excise stamp in this way because of the shape of the container, the band or excise stamp shall be affixed in any other way so long as the destruction of the band or excise stamp is ensured when the container is opened.
 (3) The bands or excise stamps shall be approved by the Commissioner and shall be supplied at the Custom House or at any other place to be appointed by the Minister by means of a notice in the Gazette.
-(4) Such bands or stamps shall be issued by the Commissioner against payment, as may be prescribed under the Act, on application by the authorised warehouse keeper or trader of ethyl alcohol.
-(5) The band or excise stamp shall be affixed to the container not later than five (5) days from when it is purchased, except in the case of a band or excise stamp which should be affixed by an authorised warehouse keeper.
-(6) (a) Any person who fails to affix a band or excise stamp within five (5) days from when it is purchased, except for an authorised warehouse keeper, shall, on conviction, be liable to a fine (multa) of one-hundred euro (€100) and the Court shall also order the forfeiture of the bands or excise stamps that were not affixed within the given time. In addition to this, the forfeiture of ethyl alcohol itself shall also take place according to the law, as applicable.
+(4) Such bands or stamps shall be issued by the Commissioner against payment, as may be prescribed under the Act, on application by the authorised tax warehouse keeper or trader of ethyl alcohol.
+(5) The band or excise stamp shall be affixed to the container not later than five (5) days from when it is purchased, except in the case of a band or excise stamp which should be affixed by an authorised tax warehouse keeper.
+(6) (a) A registered consignor or registered consignee whoo fails to affix a band or excise stamp within five (5) days from when it is purchased, except for an authorised tax warehouse keeper, shall, on conviction, be liable to a fine (multa) of one-hundred euro (€100) and the Court shall also order the forfeiture of the bands or excise stamps that were not affixed within the given time. In addition to this, the forfeiture of ethyl alcohol itself shall also take place according to the law, as applicable.
 (b) In the case of an irregularity mentioned in paragraph
-(a), the Commissioner, while he forfeits the bands or excise stamps not affixed within the time given, may, if the offender admits, refrain from instituting proceedings in terms of this Act and impose a penalty equivalent to one-hundred euro (€100). In addition to this, the forfeiture of the ethyl alcohol itself shall also
-take place according to law, as applicable.
-(7) (a) Every authorised tax warehouse keeper who takes out of the tax warehouse ethyl alcohol on which a band or excise stamp has not been affixed according to law, shall, on conviction, be liable to a fine (multa) of one-hundred euro (€100) and the Court shall also order the forfeiture of the bands or excise stamps that had to be affixed to those goods. In addition to this, the forfeiture of the ethyl alcohol itself shall also take place according to law, as applicable.
+(a), the Commissioner, while he forfeits the bands or excise stamps not affixed within the time given, may, if the offender admits, refrain from instituting proceedings in terms of this Act and impose a penalty equivalent to one-hundred euro (€100). In addition to this, the forfeiture of the ethyl alcohol itself shall also take place according to law, as applicable.
+(7) (a) Every authorised tax warehouse keeper who takes out of the authorised tax warehouse ethyl alcohol on which a band or excise stamp has not been affixed according to law, shall, on conviction, be liable to a fine (multa) of one-hundred euro (€100) and the Court shall also order the forfeiture of the bands or excise stamps that had to be affixed to those goods. In addition to this, the forfeiture of the ethyl alcohol itself shall also take place according to law, as applicable.
 (b) In the case of an irregularity mentioned in paragraph
 (a), the Commissioner, while he forfeits the bands or excise stamps that had to be affixed to the ethyl alcohol, may, if the offender admits, refrain from instituting proceedings in terms of this Act and impose a penalty equivalent to one-hundred euro (€100). In addition to this, the forfeiture of the ethyl alcohol itself shall also take place according to the law, as applicable.
-(8) (a) Every person who has in his possession bands or excise stamps that are not affixed after five (5) days from purchase have elapsed, except in the case of an authorised warehouse keeper, shall be liable, on conviction, to a fine (multa) of two-hundred and fifty euro (€250) and the Court shall order the forfeiture of those bands or excise stamps. In addition to this, the forfeiture of the ethyl alcohol itself shall also take place according to law, as applicable.
+(8) (a) Excluding people who are authorised, every person who has in his possession excise stamps or bands shall be liable, on conviction, to a fine (multa) of two hundred and fifty euro (€250) and the Court shall order the forfeiture of those excise stamps or bands. In addition, the forfeiture of the excisable goods themselves shall also take place, according to law, as applicable.
 (b) In the case of an irregularity mentioned in paragraph
-(a), the Commissioner, while he forfeits the bands or excise stamps that remained unaffixed, may, if the offender admits, refrain from instituting proceedings in terms of this Act and impose a penalty equivalent to two-hundred and fifty euro (€250). In addition to this, the forfeiture of the ethyl alcohol itself shall also take
-place according to law, as applicable.
+(a), the Commissioner, while he forfeits the bands or excise stamps that remained unaffixed, may, if the offender admits, refrain from instituting proceedings in terms of this Act and impose a penalty equivalent to two-hundred and fifty euro (€250). In addition to this, the forfeiture of the ethyl alcohol itself shall also take place according to law, as applicable.
 13. Any quantity of ethyl alcohol products found in the possession of any person in contravention to the provisions of regulations 11 or 12 shall, without prejudice to any other penalty provided for under the Act or any other law, be forfeited to Government.
 PART C
 Manufactured Tobacco Regulations
@@ -151,7 +139,7 @@ Manufactured Tobacco Regulations
 "Customs Tariff" refers to the First Schedule to the Import Duties Act and any Tariff substituting the same;
 "other smoking tobacco" and "hand rolling tobacco" have the same meaning assigned to them in the Third Schedule to this Act;
 "packet" includes any wrapper, carton, box, tin, pouch or other container immediately enclosing cigarettes.
-3. These regulations shall apply to tobacco, tobacco substitutes and products thereof which are specified as excise goods according to the Act.
+3. These regulations shall apply to tobacco, tobacco substitutes and products thereof which are specified as excisable goods according to the Act.
 3A. The retail price of cigarettes is that established by the importer or manufacturer.
 4. No person shall manufacture, process or prepare for sale any cigarettes, cigars or other tobacco products otherwise than in conformity with the provisions of article 9 of the Act.
 5. (1) No person may prepare for sale, expose or offer for sale, sell or otherwise dispose of any cigarettes other than in packets sealed with a band or stamp as provided for in regulation 6 or 10 as the case may be.
@@ -160,71 +148,62 @@ Manufactured Tobacco Regulations
 6. (1) No cigarettes shall be placed on the market unless the packet, box or container immediately enclosing the cigarettes has been sealed by a band or stamp affixed either on the side of the packet in such a manner as to ensure its destruction when such packet, box or container is opened, or else affixed at the bottom on the rear side of the packet:
 Provided that with regards to cigarettes which are imported in small quantities, which are not available for sale in Malta, to be sold to persons travelling to the European Union by air or by sea, the tax band can be affixed on the container which contains not less than ten (10) packets each containing not less than twenty (20) cigarettes
 (2) No tobacco used for hand rolled cigarettes shall be placed on the market unless its packet, box or container is sealed with a band or stamp in a way that in order for that packet, box or container to be opened, the destruction of the band or stamp is ensured.
-(3) Such bands or stamps shall be issued by the Commissioner against payment, as may be prescribed under the Act, on application by the authorised warehouse keeper of cigarettes, hand rolling tobacco or other smoking tobacco.
-(4) A band or excise stamp shall be affixed to the packet not later than five (5) days from when it is purchased except in the case of a band or excise stamp that should be affixed by an authorised warehouse keeper.
-(5) (a) Every person who fails to affix a band or excise stamp within five (5) days from when it is purchased, except for an authorised warehouse keeper, shall, on conviction, be liable to a fine (multa) of one-hundred euro (€100) and the Court shall also order the forfeiture of the bands or excise stamps that have not been affixed within the given time. In addition to this, the forfeiture of the cigarettes themselves shall also take place according to law, as applicable.
+(3) Such bands or stamps shall be issued by the Commissioner against payment, as may be prescribed under the Act, on application by the authorised tax warehouse keeper of cigarettes, hand rolling tobacco or other smoking tobacco.
+(4) A band or excise stamp shall be affixed to the packet not later than five (5) days from when it is purchased except in the case of a band or excise stamp that should be affixed by an authorised tax warehouse keeper.
+(5) (a) A registered consignor or registered consignee who fails to affix a band or excise stamp within five (5) days from when it is purchased, except for an authorised tax warehouse keeper, shall, on conviction, be liable to a fine (multa) of one-hundred euro (€100) and the Court shall also order the forfeiture of the bands or excise stamps that have not been affixed within the given time. In addition to this, the forfeiture of the cigarettes themselves shall also take place according to law, as applicable.
 (b) In the case of an irregularity mentioned in paragraph
-(a), the Commissioner, while he forfeits the bands or excise stamps not affixed in the time given, may, if the offender admits, refrain from instituting proceedings in terms of this Act and impose a penalty equivalent to one-hundred euro (€100). In addition to this, the forfeiture of the cigarettes themselves shall also take
-place according to law, as applicable.
-(6) (a) Every authorised warehouse keeper who takes out of the tax warehouse cigarettes on which a band or excise stamp was not affixed according to law, shall, on conviction, be liable to a fine (multa) of one-hundred euro (€100) and the Court shall also order the forfeiture of the bands or excise stamps that had to be affixed to those goods. In addition to this, the forfeiture of the cigarettes themselves shall also take place according to law, as applicable.
+(a), the Commissioner, while he forfeits the bands or excise stamps not affixed in the time given, may, if the offender admits, refrain from instituting proceedings in terms of this Act and impose a penalty equivalent to one-hundred euro (€100). In addition to this, the forfeiture of the cigarettes themselves shall also take place according to law, as applicable.
+(6) (a) Every authorised tax warehouse keeper who takes out of the authorised tax warehouse cigarettes on which a band or excise stamp was not affixed according to law, shall, on conviction, be liable to a fine (multa) of one-hundred euro (€100) and the Court shall also order the forfeiture of the bands or excise stamps that had to be affixed to those goods. In addition to this, the forfeiture of the cigarettes themselves shall also take place according to law, as applicable.
 (b) In the case of an irregularity mentioned in paragraph
-(a), the Commissioner, while he forfeits the bands or excise stamps that had to be affixed to the cigarettes, may, if the offender admits, refrain from instituting proceedings in terms of this Act and impose a penalty equivalent to one-hundred euro (€100). In addition to this, the forfeiture of the cigarettes themselves shall
-also take place according to law, as applicable.
-(7) (a) Every person who has in his possession bands or excise stamps that are not affixed after five (5) days from purchase have elapsed, except in the case of an authorised warehouse keeper, shall be liable, on conviction, to a fine (multa) of two-hundred and fifty euro (€250) and the Court shall order the forfeiture of these bands or excise stamps. In addition to this, the forfeiture of the cigarettes themselves shall also take place according to law, as applicable.
+(a), the Commissioner, while he forfeits the bands or excise stamps that had to be affixed to the cigarettes, may, if the offender admits, refrain from instituting proceedings in terms of this Act and impose a penalty equivalent to one-hundred euro (€100). In addition to this, the forfeiture of the cigarettes themselves shall also take place according to law, as applicable.
+(7) (a) Excluding people who are authorised, every person who has in his possession excise stamps or bands shall be liable, on conviction, to a fine (multa) of two hundred and fifty euro (€250) and the Court shall order the forfeiture of those excise stamps or bands. In addition, the forfeiture of the excisable goods themselves shall also take place, according to law, as applicable.
 (b) In the case of an irregularity mentioned in paragraph
-(a), the Commissioner, while he forfeits the bands or excise stamps that remained unaffixed, may, if the offender admits, refrain from instituting proceedings in terms of this Act and impose a penalty equivalent to two-hundred and fifty euro (€250). In addition to this, the forfeiture of the cigarettes themselves shall also
-take place according to law, as applicable.
+(a), the Commissioner, while he forfeits the bands or excise stamps that remained unaffixed, may, if the offender admits, refrain from instituting proceedings in terms of this Act and impose a penalty equivalent to two-hundred and fifty euro (€250). In addition to this, the forfeiture of the cigarettes themselves shall also take place according to law, as applicable.
 7. Any quantity of cigarettes or tobacco found in the possession of any person in contravention to the provisions of regulations 5 or 6 shall, without prejudice to any other penalty provided for under the Act or any other law, be forefeited to Government.
-7A. (1) No water-pipe tobacco (also known as shisha tobacco) shall be imported for the purpose of sale, stored for the purpose of sale, prepared for sale, offered for sale or offered for free unless it is imported, stored, prepared for sale, offered for sale or offered for free by a registered consignor, registered consignee or authorised warehouse keeper:
-Provided that a person who shows that he purchased water-pipe tobacco from a registered consignor, registered consignee or authorised warehouse keeper shall be deemed not to have violated this obligation.
+7A. (1) No water-pipe tobacco (also known as shisha tobacco) shall be imported for the purpose of sale, stored for the purpose of sale, prepared for sale, offered for sale or offered for free unless it is imported, stored, prepared for sale, offered for sale or offered for free by a registered consignor, registered consignee or authorised tax warehouse keeper:
+Provided that a person who shows that he purchased water-pipe tobacco from a registered consignor, registered consignee or authorised tax warehouse keeper shall be deemed not to have violated this obligation.
 (2) No water-pipe tobacco (also known as shisha tobacco) shall be offered on the market unless the packet, box or container that encloses the water-pipe tobacco immediately inside it, has been sealed with a band or excise stamp affixed as indicated by the Commissioner, in such a way that destruction of the band or excise stamp is ensured when the packet, box or container is opened.
 (3) No water-pipe tobacco (also known as shisha tobacco) shall be stored for the purpose of sale, prepared for the purpose of sale, offered for the purpose for sale or offered for free unless it is in its packet, box or container with the band or excise stamp still affixed to it, or within the water-pipe itself.
-(4) Those bands or excise stamps shall be issued by the Commissioner against payment, as may be prescribed by regulations issued under the Act, on application made to him by the authorised warehouse keeper of water-pipe tobacco.
+(4) Those bands or excise stamps shall be issued by the Commissioner against payment, as may be prescribed by regulations issued under the Act, on application made to him by the authorised tax warehouse keeper of water-pipe tobacco.
 (5) The bands or excise stamps shall be supplied at the Custom House or at any other place to be appointed by the Minister by means of a notice in the Gazette.
-(6) The band or excise stamp shall be affixed to the container not later than five (5) days from when it was purchased, except in the case where the band or excise stamp should be affixed by the authorised warehouse keeper.
-(7) (a) Every person who fails to affix the band or excise stamp within five (5) days from when it is purchased, except for an authorised warehouse keeper, shall, on conviction, be liable to a fine (multa) of one-hundred euro (€100) and the Court shall also order the forfeiture of the bands or excise stamps that have not been affixed within the given time. In addition to this, the forfeiture of the water-pipe tobacco itself shall also take place according to the law, as applicable.
+(6) The band or excise stamp shall be affixed to the container not later than five (5) days from when it was purchased, except in the case where the band or excise stamp should be affixed by the authorised tax warehouse keeper.
+(7) (a) A registered consignor or registered consignee who fails to affix the band or excise stamp within five (5) days from when it is purchased, except for an authorised tax warehouse keeper, shall, on conviction, be liable to a fine (multa) of one-hundred euro (€100) and the Court shall also order the forfeiture of the bands or excise stamps that have not been affixed within the given time. In addition to this, the forfeiture of the water-pipe tobacco itself shall also take place according to the law, as applicable.
+(b) In the case of an irregularity mentioned in paragraph (a), the Commissioner, while he forfeits the bands or excise stamps not affixed within the given time, may, if the offender admits, refrain from instituting proceedings in terms of this Act and impose a penalty equivalent to one-hundred euro (€100). In addition to this, the forfeiture of the water-pipe tobacco itself shall also take place according to law, as applicable.
+(8) (a) Every authorised tax warehouse keeper who takes out of the authorised tax warehouse water-pipe tobacco on which a band or excise stamp was not affixed according to law, shall, on conviction, be liable to a fine (multa) of one-hundred euro (€100) and the Court shall also order the forfeiture of the bands or excise stamps that had to be affixed to those goods. In addition to this, the forfeiture of the water-pipe tobacco itself shall also take place according to law, as applicable.
+(b) In the case of an irregularity mentioned in paragraph (a), the Commissioner, while he forfeits the bands or excise stamps that had to be affixed to the water-pipe tobacco, may, if the offender admits, refrain from instituting proceedings in terms of this Act and impose a penalty equivalent to one-hundred euro (€100). In addition to this, the forfeiture of the water-pipe tobacco itself shall also take place according to law, as applicable.
+(9) (a) Excluding people who are authorised, every person who has in his possession excise stamps or bands shall be liable, on conviction, to a fine (multa) of two hundred and fifty euro (€250) and the Court shall order the forfeiture of those excise stamps or bands. In addition, the forfeiture of the excisable goods themselves shall also take place, according to law, as applicable.
 (b) In the case of an irregularity mentioned in paragraph
-(a), the Commissioner, while he forfeits the bands or excise stamps not affixed within the given time, may, if the offender admits, refrain from instituting proceedings in terms of this Act and impose a penalty equivalent to one-hundred euro (€100). In addition to this, the forfeiture of the water-pipe tobacco itself shall also take place according to law, as applicable.
-(8) (a) Every authorised warehouse keeper who takes out of the tax warehouse water-pipe tobacco on which a band or excise stamp was not affixed according to law, shall, on conviction, be liable to a fine (multa) of one-hundred euro (€100) and the Court shall also order the forfeiture of the bands or excise stamps that had to be affixed to those goods. In addition to this, the forfeiture of the water-pipe tobacco itself shall also take place according to law, as applicable.
-(b) In the case of an irregularity mentioned in paragraph
-(a), the Commissioner, while he forfeits the bands or excise stamps that had to be affixed to the water-pipe tobacco, may, if the offender admits, refrain from instituting proceedings in terms of this Act and impose a penalty equivalent to one-hundred euro (€100). In addition to this, the forfeiture of the water-pipe tobacco itself shall also take place according to law, as applicable.
-(9) (a) Every person who has in his possession bands or excise stamps that are not affixed after five (5) days from purchase have elapsed, except in the case of an authorised warehouse keeper, shall be liable, on conviction, to a fine (multa) of two-hundred and fifty euro (€250) and the Court shall order the forfeiture of these bands or excise stamps. In addition to this, the forfeiture of the water-pipe tobacco itself shall also take place according to law, as applicable.
-(b) In the case of an irregularity mentioned in paragraph
-(a), the Commissioner, while he forfeits the bands or excise stamps that remained unaffixed, may, if the offender admits, refrain from instituting proceedings in terms of this Act and impose a penalty equivalent to two-hundred and fifty euro (€250). In addition to this, the forfeiture of the water-pipe tobacco itself shall also
-take place according to law, as applicable.
+(a), the Commissioner, while he forfeits the bands or excise stamps that remained unaffixed, may, if the offender admits, refrain from instituting proceedings in terms of this Act and impose a penalty equivalent to two-hundred and fifty euro (€250). In addition to this, the forfeiture of the water-pipe tobacco itself shall also take place according to law, as applicable.
 (10) Any quantity whatsoever of water-pipe tobacco which is found in the possession of any person in contravention of the provisions of these regulations shall, without prejudice to any other penalty provided for in the Act or in any other law, be forfeited in favour of Government..
-8. Excise duty on cigarettes and tobacco is due when they are offered for home consumption and shall be paid by the authorised warehouse keeper at the latest by the 15th day of the following month.
-9. When payment of excise duty on cigarettes is effected, the registered warehouse keeper or registered trader is to declare in writing the retail price established by the importer or manufacturer per packet of twenty (20) cigarettes or part of such packet.
+8. Excise duty on cigarettes and tobacco is due when they are offered for home consumption and shall be paid by the authorised tax warehouse keeper at the latest by the 15th day of the following month.
+9. When payment of excise duty on cigarettes is effected, the authorised tax warehouse keeper or registered trader is to declare in writing the retail price established by the importer or manufacturer per packet of twenty (20) cigarettes or part of such packet.
 10. (1) Payment of excise duty on cigarettes produced in Malta shall be indicated by affixing to every packet, box, carton or other container, a band or stamp that indicates that excise duty has been paid according to the Act for every quantity of cigarettes not exceeding twenty in every packet, box, carton or other container.
 (2) Such bands or stamps shall be affixed to or across the opening of the packet, box, carton or other container in such a manner as to ensure its destruction when such packet, box, carton or other container is opened.
 (3) The said bands or stamps shall be of the type approved by the Commissioner and shall be supplied at the Custom House or at any other place to be appointed by the Minister through a notice in the Gazette.
-11. The quantity of tobacco resulting after deducting the aggregate of the quantity of tobacco lying in stock at the tax warehouse, the quantity of products recorded as produced and the quantity of tobacco offals deemed unsuitable for production and still lying at the tax warehouse from the quantity recorded as introduced into the tax warehouse, shall be considered as having been manufactured into the products for which the tax warehouse is registered unless the authorised warehouse keeper can prove otherwise to the satisfaction of the Commissioner.
+11. The quantity of tobacco resulting after deducting the aggregate of the quantity of tobacco lying in stock at the authorised tax warehouse, the quantity of products recorded as produced and the quantity of tobacco offals deemed unsuitable for production and still lying at the authorised tax warehouse from the quantity recorded as introduced into the authorised tax warehouse, shall be considered as having been manufactured into the products for which the authorised tax warehouse is registered unless the authorised tax warehouse keeper can prove otherwise to the satisfaction of the Commissioner.
 11A. (1) Every tobacco manufacturer, tobacco importer, tobacco wholesaler, distributor of tobacco and first retail outlet of tobacco shall apply to be registered or authorised in the Track and Trace system established by the laws of the European Union and shall abide by the rules and practices of the system.
-(2) Every tobacco manufacturer and tobacco importer
-shall abide by the rules and practices of the Track and Trace system and this as one of the conditions for the authorisation as an authorised warehouse keeper and as a tax warehouse issued to him by the Commissioner, and in the absence of registration or authorisation in the Track and Trace system or in case of non-compliance with the rules and practices of the system, they shall be deemed to have infringed the conditions of a tax warehouse and of an authorised warehouse keeper.
+(2) Every tobacco manufacturer and tobacco importer shall abide by the rules and practices of the Track and Trace system and this as one of the conditions for the authorisation as an authorised tax warehouse keeper and as a authorised tax warehouse issued to him by the Commissioner, and in the absence of registration or authorisation in the Track and Trace system or in case of non-compliance with the rules and practices of the system, they shall be deemed to have infringed the conditions of a authorised tax warehouse and of an authorised tax warehouse keeper.
 (3) (a) The Commissioner shall cancel the registration or authorisation in the Track and Trace system of every tobacco wholesaler, distributor of tobacco and first retail outlet of tobacco, who irregularly operates outside the Track and Trace system, removes tobacco from the Track and Trace system or deceives the Track and Trace system, and this without prejudice to any other action which may be taken under this Act or under any other law.
-(b) This registration or authorisation shall remain
-cancelled for a period of one (1) year from the date of the irregularity in the case of the first irregularity, and for a period of three (3) years from the second irregularity in the case of the second irregularity, and for a period of six (6) years from the third irregularity in the case of the third irregularity, after which periods there needs to be a new application for registration or authorisation. In the case of the fourth irregularity or more, the person shall not be allowed to apply again.
-12. (1) The authorised warehouse keeper of tobacco and tobacco products shall submit to the Commissioner a statement showing, in respect of the production of each product, during such accounting period as the Commissioner may allow or as may be prescribed:
-(a) the weight of leaf tobacco, of tobacco substitutes and of tobacco imported cut or cut and blended but not further manufactured, held by him on the first day of such period at any tax warehouse registered in his name;
+(b) This registration or authorisation shall remain cancelled for a period of one (1) year from the date of the irregularity in the case of the first irregularity, and for a period of three (3) years from the second irregularity in the case of the second irregularity, and for a period of six (6) years from the third irregularity in the case of the third irregularity, after which periods there needs to be a new application for registration or authorisation. In the case of the fourth irregularity or more, the person shall not be allowed to apply again.
+12. (1) The authorised tax warehouse keeper of tobacco and tobacco products shall submit to the Commissioner a statement showing, in respect of the production of each product, during such accounting period as the Commissioner may allow or as may be prescribed:
+(a) the weight of leaf tobacco, of tobacco substitutes and of tobacco imported cut or cut and blended but not further manufactured, held by him on the first day of such period at any authorised tax warehouse registered in his name;
 (b) the weight of any tobacco as aforesaid acquired by him during each such period, stating from where acquired;
 (c) the weight of any tobacco as aforesaid sold or otherwise disposed of during such period and to whom it was sold or in whose favour it was disposed of;
 (d) the quantity of each product manufactured by him during each such period; and
-(e) the weight of offal resulting from the manufacture of each tobacco product during each such period at any
-tax warehouse registered in his name.
+(e) the weight of offal resulting from the manufacture of each tobacco product during each such period at any authorised tax warehouse registered in his name.
 (2) The said statement shall be produced to the Commissioner not later than the twenty-first day of the month immediately following the end of each accounting period referred to in sub-regulation (1) and shall be so compiled as to show the information required to be furnished, classified separately under leaf tobacco, tobacco substitute, tobacco imported cut and tobacco imported cut and blended.
 (3) Any person who fails to comply with the provisions of this regulation shall be guilty of an offence and shall be liable on conviction to a fine (multa) not exceeding twenty-five thousand euro (€25,000).
-13. The following records shall be kept by the authorised warehouse keeper of tobacco products in accordance with regulation 15 of the Excise Goods Regulations:
+13. The following records shall be kept by the authorised tax warehouse keeper of tobacco products in accordance with regulation 15 of the Excisable Goods Regulations:
 (a) all records relating to the information required to be submitted to the Commissioner according to the last preceding regulation, and
 (b) Customs warehousing and releasing entries, invoices, delivery orders and all other documents concerned with the importation, acquisition, sales, deliveries, exportation or transfer of tobacco, tobacco substitutes and products thereof.
 14. (1) It shall not be lawful for any person other than a person exempted under article 14 of the Act, to acquire by any title whatsoever or be in possession of any cigarettes in containers to which the band, or stamp mentioned in regulation 6 or 10 has not been affixed.
 (2) It shall not be lawful for any person other than a person exempted under article 14 of the Act, knowingly to acquire by any title whatsoever or be in possession of cigarettes or any other tobacco product, in respect of which the duty which is, or, but for the exemption granted under the Act, would be leviable under the Act, has not been paid.
-(3) For the purpose of the last preceding subregulation, tobacco products in respect of which payment of drawback has been allowed shall be deemed to be tobacco products in respect of which duty has not been paid.
+(3) For the purpose of the last preceding sub-regulation, tobacco products in respect of which payment of drawback has been allowed shall be deemed to be tobacco products in respect of which duty has not been paid.
 15. In accordance with article 14 of the Act, the provisions of these regulations shall not apply to a person who produces hand rolled cigarettes in the circumstances mentioned in article 9(4)(b) of the Act, provided such cigarettes are produced from tobacco or tobacco substitutes on which excise and import duty or any other tax, where applicable, has been paid.
 PART D
 Mineral Oils Regulations
 1. The title of these regulations is Mineral Oils Regulations.
-2. These regulations shall apply to petroleum oils and gases specified as excise goods by the Excise Duty Act.
+2. These regulations shall apply to petroleum oils and gases specified as excisable goods by the Excise Duty Act.
 3. In these regulations, unless the context otherwise requires -
 "the Act" means the Excise Duty Act;
 ''heating'' and ''heating purposes'' mean heat generated from gas oils classified within HS Code 2710.19.43 and 2710.19.48, or within 2710.20.11 and 2710.20.19 with a sulphur content of not more than 0.1% sulphur by weight, when these gas oils are used to heat buildings, pools, commercial ovens, incinerators and for industrial purposes;
@@ -232,58 +211,55 @@ Mineral Oils Regulations
 and all other terms shall have the meaning assigned to them by the Act.
 4. (1) Excise duty on petroleum oils of a density below 0.900 at a temperature of 15°C shall be calculated per 1000 litres of product at a temperature of 15°C.
 (2) Excise duty on gases shall be calculated on the net weight in kilograms.
-5. Petroleum oil and gas storage installations shall for the purpose of these regulations be deemed to be approved tax warehouses if so approved by the Commissioner, and storage installation keeper shall likewise be deemed to be an approved warehouse keeper.
-6. A detailed plan of the storage installation shall be submitted to the Commissioner before approval as a tax warehouse is given, and no alterations shall be effected to the storage tanks, pipelines, inlet or outlet valves connected to the storage tanks or to the pipeline, before notification to and approval by the Commissioner.
+5. Petroleum oil and gas storage installations shall for the purpose of these regulations be deemed to be authorised tax warehouses if so approved by the Commissioner, and storage installation keeper shall likewise be deemed to be an authorised tax warehouse keeper.
+6. A detailed plan of the storage installation shall be submitted to the Commissioner before approval as a authorised tax warehouse is given, and no alterations shall be effected to the storage tanks, pipelines, inlet or outlet valves connected to the storage tanks or to the pipeline, before notification to and approval by the Commissioner.
 7. (1) All storage tanks and service tanks shall be calibrated and the capacity of all pipelines shall be ascertained to the satisfaction of the Commissioner.
-(2) Any petroleum oil produced in a tax warehouse shall be stored in tanks calibrated as provided for in sub-regulation (1) and all gas so produced shall be measured and stored in such manner as the Commissioner may direct.
+(2) Any petroleum oil produced in a authorised tax warehouse shall be stored in tanks calibrated as provided for in sub-regulation
+(1) and all gas so produced shall be measured and stored in such manner as the Commissioner may direct.
 8. All imported petroleum oil shall be landed from the importing vessel under Customs supervision and when imported in bulk shall be conveyed through approved pipelines to the storage tanks which are calibrated as specified in regulation 7 or otherwise measured to the satisfaction of the Commissioner.
 9. (1) Petroleum oil or gas discharged into the storage tanks after being produced or imported shall be measured by the Customs official to ascertain the quantity of oil or gas produced or imported before any issues from such tanks are made.
 (2) The quantities of petroleum oils shall be measured at observed temperature and converted to the relative quantities at a constant temperature of 15ºC by the application of the appropriate volume correction coefficient.
-10. (1) In derogation to the provision of regulation 8(ii) of the Excise Goods Regulations, blending of fuel oil of a density above 0.900 at 15°C with diesel oil for bunkering purposes or for meeting the specifications requested by a particular customer shall not by itself constitute production of petroleum oils.
+10. (1) In derogation to the provision of regulation 8(ii) of the Excisable Goods Regulations, blending of fuel oil of a density above 0.900 at 15°C with diesel oil for bunkering purposes or for meeting the specifications requested by a particular customer shall not by itself constitute production of petroleum oils.
 (2) Blending of fuel oil with diesel oil for bunkering or other purposes shall be carried out only as directed by the Commissioner and under such conditions as he may impose.
-(3) Except as provided for in the preceding sub-regulation, oils of different density shall only be mixed in a registered tax warehouse.
-11. (1) The authorised warehouse keeper of petroleum oils or gases shall produce to the Commissioner, not later than five days after the last Sunday of each calendar month, a return declaring the respective quantity of each type of petroleum oil or gas produced, the quantity of such products kept in stock at the tax warehouse, and the quantities of such products released for home consumption, as bunkering fuel, as merchandise for export, or for any other destination covered by an exemption order, up to and during the period ending at the last Sunday of each month.
-(2) The authorised warehouse keeper shall produce to the Commissioner, not later than five days after the last Sunday of each calendar month a return declaring the quantity of each type of product introduced into the bonded premises specifying the date of warehousing, the importing vessel, the quantity of each type of product released from the bonded premises for home consumption, for export as merchandise, as bunkering fuel, or for any other destination covered by an exemption order.
+(3) Except as provided for in the preceding sub-regulation, oils of different density shall only be mixed in a registered authorised tax warehouse.
+11. (1) The authorised tax warehouse keeper of petroleum oils or gases shall produce to the Commissioner, not later than five days after the last Sunday of each calendar month, a return declaring the respective quantity of each type of petroleum oil or gas produced, the quantity of such products kept in stock at the authorised tax warehouse, and the quantities of such products released for home consumption, as bunkering fuel, as merchandise for export, or for any other destination covered by an exemption order, up to and during the period ending at the last Sunday of each month.
+(2) The authorised tax warehouse keeper shall produce to the Commissioner, not later than five days after the last Sunday of each calendar month a return declaring the quantity of each type of product introduced into the bonded premises specifying the date of warehousing, the importing vessel, the quantity of each type of product released from the bonded premises for home consumption, for export as merchandise, as bunkering fuel, or for any other destination covered by an exemption order.
 (3) In the case of duty free releases, the monthly return specified in sub-regulations (1) and (2) shall be supported by copies of export documents or other delivery documents relevant to such transactions.
-12. (1) Not later than thirty days after the end of June and the end of December of each year or as otherwise directed by the Commissioner, the authorised warehouse keeper shall submit to the Commissioner a statement certified by a public auditor containing the following details:
-(a) the quantity in metric tons of crude oil or gas extracted from any source or imported and introduced into the tax warehouse, specifying the date and origin of each introduction;
+12. (1) Not later than thirty days after the end of June and the end of December of each year or as otherwise directed by the Commissioner, the authorised tax warehouse keeper shall submit to the Commissioner a statement certified by a public auditor containing the following details:
+(a) the quantity in metric tons of crude oil or gas extracted from any source or imported and introduced into the authorised tax warehouse, specifying the date and origin of each introduction;
 (b) the quantity in kilograms or litres as appropriate, of oils and other materials imported or otherwise obtained as raw material for processing, specifying the type, the density at 15°C, the date and the importing vessel of each importation;
 (c) the quantity of each type of oil and gas produced specifying the relative density at 15°C of each type of oil or gas;
-(d) the quantity of oil and gas in kilograms or litres as appropriate consumed by the authorised warehouse keeper in heating or fuelling the machinery for the process of production;
+(d) the quantity of oil and gas in kilograms or litres as appropriate consumed by the authorised tax warehouse keeper in heating or fuelling the machinery for the process of production;
 (e) the quantity of each type of oil and gas in kilograms or litres as appropriate, sold, exported or otherwise
-delivered from the tax warehouse;
-(f) the quantity of each type of oil and gas produced which is kept in stock at the tax warehouse as on the end of each period;
-(g) the balance of crude or other oils and materials, obtained as raw materials, still in stock at the tax
-warehouse at the end of each period; and
+delivered from the authorised tax warehouse;
+(f) the quantity of each type of oil and gas produced which is kept in stock at the authorised tax warehouse as on the end of each period;
+(g) the balance of crude or other oils and materials, obtained as raw materials, still in stock at the authorised tax warehouse at the end of each period; and
 (h) the amount of excise duty paid during the period being reported upon.
-(2) The authorised warehouse keeper shall submit to the Commissioner not later than thirty days after the end of December of each year or as otherwise directed by the Commissioner a statement certified by a public accountant containing the following details:
+(2) The authorised tax warehouse keeper shall submit to the Commissioner not later than thirty days after the end of December of each year or as otherwise directed by the Commissioner a statement certified by a public accountant containing the following details:
 (a) the quantity in kilograms or litres as appropriate of all oils and gases introduced into the installation or warehouse specifying each type of product, the date of warehousing and the importing vessel or other source;
 (b) the quantity of each type of oil and gas released from the installation or warehouse as sales, as exports, as bunkering fuel and as other deliveries, specifying which type of transaction;
 (c) the balance of quantities for each type of oil or gas kept in stock at the installation or warehouse at the end of the year; and;
 (d) the amount of excise duty paid during the year being reported upon.
-13. The following records shall be kept by the authorised warehouse keeper in accordance with regulation 15 of the Excise Goods Regulations:
+13. The following records shall be kept by the authorised tax warehouse keeper in accordance with regulation 15 of the Excisable Goods Regulations:
 (a) all records relating to the information required to be submitted to the Commissioner according to regulation 12;
 (b) Customs warehousing and issuing entries, invoices, delivery orders and all other documents concerned with the importation, acquisition, sales, deliveries, exportations or transfer of petroleum oils, gases, and raw materials.
 14. Any person who fails to comply with the provisions of regulations 11 or 12 shall be guilty of an offence and shall be liable on conviction to a fine (multa) not exceeding twenty-five thousand euro (€25,000).
-15. The authorised warehouse keeper shall be responsible to provide such measuring appliances, gauges, calibration and conversion tables, and any other instrument or tool which the Commissioner may require for ascertaining the quantities or relative densities of any product and furthermore shall afford such facilities and assistance as may be required by the Commissioner or Customs officials delegated by him, for the examination, taking account or for sampling any oil or gas on the premises of the authorised warehouse keeper where such operations are required to be done on products, produced or kept by the authorised warehouse keeper and such facilities shall include reasonable accommodation for Customs officials delegated as aforesaid for such duration as may be necessary for these operations to be carried out.
-16. Excise duty due on petroleum oils or gases released for consumption from the tax warehouse shall be remitted to the Commissioner not later than five days following the last Sunday of each calendar month in settlement of all the duty due on the products so released up to that Sunday.
+15. The authorised tax warehouse keeper shall be responsible to provide such measuring appliances, gauges, calibration and conversion tables, and any other instrument or tool which the Commissioner may require for ascertaining the quantities or relative densities of any product and furthermore shall afford such facilities and assistance as may be required by the Commissioner or Customs officials delegated by him, for the examination, taking account or for sampling any oil or gas on the premises of the authorised tax warehouse keeper where such operations are required to be done on products, produced or kept by the authorised tax warehouse keeper and such facilities shall include reasonable accommodation for Customs officials delegated as aforesaid for such duration as may be necessary for these operations to be carried out.
+16. Excise duty due on petroleum oils or gases released for consumption from the authorised tax warehouse shall be remitted to the Commissioner not later than five days following the last Sunday of each calendar month in settlement of all the duty due on the products so released up to that Sunday.
 16A. (1) No product mentioned in Part B of the Fourth Schedule shall be placed on the market, unless a band or an excise stamp has been affixed to the container immediately enclosing the product, as indicated by the Commissioner.
-(2) Such bands or excise stamps shall be issued by the Commissioner against payment, as may be prescribed by regulations under the Act, on application by the authorised warehouse keeper of petroleum oils.
+(2) Such bands or excise stamps shall be issued by the Commissioner against payment, as may be prescribed by regulations under the Act, on application by the authorised tax warehouse keeper of petroleum oils.
 (3) The said bands or excise stamps shall be supplied at the Custom House or at any other place to be appointed by the Minister by means of a notice in the Gazette.
-(4) The band or stamp shall be affixed to the container not later than five (5) days from when it is purchased, except in the case where the band or excise stamp should be affixed by an authorised warehouse keeper.
-(5) (a) Every person who fails to affix the band or excise stamp within five (5) days from when it is purchased, except for an authorised warehouse keeper, shall, on conviction, be liable to a fine (multa) of one-hundred euro (€100) and the Court shall also order the forfeiture of the bands or excise stamps that have not been affixed within the given time. In addition to this, the forfeiture of the products mentioned in Part B of the Fourth Schedule shall also take place according to the law, as applicable.
+(4) The band or stamp shall be affixed to the container not later than five (5) days from when it is purchased, except in the case where the band or excise stamp should be affixed by an authorised tax warehouse keeper.
+(5) (a) A registered consignor or registered consignee who fails to affix the band or excise stamp within five (5) days from when it is purchased, except for an authorised tax warehouse keeper, shall, on conviction, be liable to a fine (multa) of one-hundred euro (€100) and the Court shall also order the forfeiture of the bands or excise stamps that have not been affixed within the given time. In addition to this, the forfeiture of the products mentioned in Part B of the Fourth Schedule shall also take place according to the law, as applicable.
+(b) In the case of an irregularity mentioned in paragraph (a), the Commissioner, while he forfeits the bands or excise stamps not affixed within the given time, may, if the offender admits, refrain from instituting proceedings in terms of this Act and impose a penalty equivalent to one-hundred euro (€100). In addition to this, the forfeiture of the products mentioned in Part B of the Fourth Schedule themselves shall also take place according to law, as applicable.
+(6)(a) Every authorised tax warehouse keeper who takes out of the authorised tax warehouse products mentioned in Part B of the Fourth Schedule on which a band or excise stamp was not affixed according to law, shall, on conviction, be liable to a fine (multa) of one-hundred euro (€100) and the Court shall also order the forfeiture of the bands or excise stamps that had to be affixed to those goods. In addition to this, the forfeiture of the products mentioned in Part B of the Fourth Schedule shall also take place according to law, as applicable.
 (b) In the case of an irregularity mentioned in paragraph
-(a), the Commissioner, while he forfeits the bands or excise stamps not affixed within the given time, may, if the offender admits, refrain from instituting proceedings in terms of this Act and impose a penalty equivalent to one-hundred euro (€100). In addition to this, the forfeiture of the products mentioned in Part B of the Fourth Schedule themselves shall also take
-place according to law, as applicable.
-(6)(a) Every authorised warehouse keeper who takes out of the tax warehouse products mentioned in Part B of the Fourth Schedule on which a band or excise stamp was not affixed according to law, shall, on conviction, be liable to a fine (multa) of one-hundred euro (€100) and the Court shall also order the forfeiture of the bands or excise stamps that had to be affixed to those goods. In addition to this, the forfeiture of the products mentioned in Part B of the Fourth Schedule shall also take place according to law, as applicable.
-(b) In the case of an irregularity mentioned in paragraph
-(a), the Commissioner, while he forfeits the bands or excise stamps that had to be affixed to the products mentioned in Part B of the Fourth Schedule, may, if the offender admits, refrain from instituting proceedings in terms of this Act and impose a penalty equivalent to one-hundred euro (€100). In addition to this, the forfeiture of the products mentioned in Part B of the Fourth Schedule themselves shall also take
-place according to law, as applicable.
-(7)(a) Every person who has in his possession bands or excise stamps that are not affixed after five (5) days from purchase have elapsed, except in the case of an authorised warehouse keeper, shall be liable, on conviction, to a fine (multa) of two-hundred and fifty euro (€250) and the Court shall order the forfeiture of these bands or excise stamps. In addition to this, the forfeiture of the products mentioned in Part B of the Fourth Schedule themselves shall also take place according to law, as applicable.
+(a), the Commissioner, while he forfeits the bands or excise stamps that had to be affixed to the products mentioned in Part B of the Fourth Schedule, may, if the offender admits, refrain from instituting proceedings in terms of this Act and impose a penalty equivalent to one-hundred euro (€100). In addition to this, the forfeiture of the products mentioned in Part B of the Fourth Schedule themselves shall also take place according to law, as applicable.
+(7) (a) Excluding people who are authorised, every person who has in his possession excise stamps or bands shall be liable, on conviction, to a fine (multa) of two hundred and fifty euro (€250) and the Court shall order the forfeiture of those excise stamps or bands. In addition, the forfeiture of the excisable goods themselves shall also take place, according to law, as applicable.
 (b) In the case of an irregularity mentioned in paragraph
 (a), the Commissioner, while he forfeits the bands or excise stamps that remained unaffixed, may, if the offender admits, refrain from instituting proceedings in terms of this Act and impose a penalty equivalent to two-hundred and fifty euro (€250). In addition to this, the forfeiture of the products mentioned in Part B of the Fourth Schedule themselves shall also take place according to law, as applicable.
 (8) Any quantity of the products mentioned in Part B of the Fourth Schedule which is found in the possession of any person in contravention of the provisions of these regulations shall, without prejudice to any other penalty provided in the Act or in any other law, be forfeited in favour of Government.
-17. (1) In accordance with regulations 13 and 14 of the Excise Goods Regulations, gas oils falling within HS Codes 2710.19.43 to 2710.19.48 or 2710.20.11 to 2710.20.19 and kerosene falling within HS Codes 2710.19.21 to 2710.19.25 when sold or supplied under any duty suspension as provided for in the Fourth Schedule, shall be fiscally marked.
+17. (1) In accordance with regulations 13 and 14 of the Excisable Goods Regulations, gas oils falling within HS Codes 2710.19.43 to 2710.19.48 or 2710.20.11 to 2710.20.19 and kerosene falling within HS Codes 2710.19.21 to 2710.19.25 when sold or supplied under any duty suspension as provided for in the Fourth Schedule, shall be fiscally marked.
 (2) (a) Each of the following substances shall constitute a
 fiscal marker:
 (i) for gas oils, excluding gas oils intended to be
@@ -297,8 +273,7 @@ state senior citizens' homes,
 Corradino Correctional Facility,
 sports, philanthropic and religious entities so
 authorised by the Minister,
-bakeries up to the maximum amount of litres per month required by the bakery as certified by a
-mechanical engineer, and
+bakeries up to the maximum amount of litres per month required by the bakery as certified by a mechanical engineer, and
 other entities authorised by the Minister
 and kerosene -
 (aa) N-Ethyl-N-[2-(1-isobutoxyethoxy)ethyl] 4-(phenylazo)aniline defined in the Colour Index as Solvent Yellow 124, and
@@ -309,13 +284,10 @@ be used for heating purposes by:
 state and private hospitals,
 state senior citizens' homes,
 Corradino Correctional Facility,
-sports, philanthropic and religious entities so
-authorised by the Minister,
-bakeries up to the maximum amount of litres per month required by the bakery as certified by a
-mechanical engineer, and
+sports, philanthropic and religious entities so authorised by the Minister,
+bakeries up to the maximum amount of litres per month required by the bakery as certified by a mechanical engineer, and
 other entities authorised by the Minister;
-(aa) not less than 6 milligrams but not more than 9 milligrams of N-Ethyl-N-[2-(1-isobutoxy-ethoxy) ethyl] - 4 - (phenylazo) aniline per litre of mineral
-oil, and
+(aa) not less than 6 milligrams but not more than 9 milligrams of N-Ethyl-N-[2-(1-isobutoxy-ethoxy) ethyl] - 4 - (phenylazo) aniline per litre of mineral oil, and
 (bb) not less than such quantity of a red dye as gives a colour intensity, as measured in a spectrophotometer at 500 - 540 namometres, corresponding to 5 milligrams of 1-[4(phenylazo) phenylazo]2-[ethylamino]naphtalene per
 litre of mineral oil;
 (ii) for gas oils intended to be used for heating
@@ -333,7 +305,7 @@ and kerosene -
 oil, and
 (bb) not less than such quantity of a blue anthraquinone dye as gives a colour intensity, as measured in a spectrophotometer at 630 nanometres, corresponding to 5 milligrams of C.I. Solvent Blue 79, as defined in the Colour Index, per litre of mineral oil.
 17A. (1) There shall be added a national chemical marker, hereinafter referred to as "the marker", to all mineral oils identified by the Commissioner by means of an order in the Gazette and intended for release for consumption.
-(2) The marker shall be supplied to the tax warehouse keepers by the Department of Customs against compensation. The compensation charged shall cover the costs of the product to the Department.
+(2) The marker shall be supplied to the authorised tax warehouse keepers by the Department of Customs against compensation. The compensation charged shall cover the costs of the product to the Department.
 (3) The marker shall be added to such mineral oils utilising dosing pumps in the proportions as directed by the Commissioner.
 (4) No such mineral oils may be released for consumption unless so marked.
 18. Except as otherwise provided in regulations made by the Minister, oil must be marked before delivery for use of that oil as prescribed in regulation 17(1).
@@ -344,7 +316,7 @@ oil, and
 bearing a description of their contents.
 (2) At the end of each month, the warehousekeeper of any premises where marking occurs must -
 (a) take stock of the markers that he stores for use or that are in use at those premises;
-(b) make a written record of that stocktake;
+(b) make a written record of that stock-take;
 (c) preserve that written record for not less than six years.
 21. Marked oil must be stored separately from unmarked oil.
 22. Any drum, storage tank or other container or any delivery pump or pipe must bear an indelible notice to the effect that where it contains, or is an outlet for, any gas oil or kerosene marked under regulation 17, such oil is not to be used as road fuel.
@@ -358,12 +330,9 @@ shall provide to the recipient a delivery note bearing a statement to the effect
 (3) No substance calculated to impede the identification of any marker may be added to any oil.
 25. No person may add any chemical identifier or dye other than a marker to any gas oil or kerosene required to be marked by these regulations.
 26. No oil of a description required to be marked by these regulations may be imported, brought into Malta, or released for consumption where there has been added any substance calculated to impede the identification of any marker.
-27. (a) Where any person contravenes any of the regulations
-from 24 to 26, he shall be guilty of an offence and shall for every such offence be liable, on conviction to a fine (multa) as prescribed under article 16 of the Act and that oil to which such a chemical identifier or dye has been added shall be liable to forfeiture as prescribed under article 17 of the Act.
-(b) Any person found in any unlawful possession of oil
-containing any of the markers or dyes mentioned in regulation 17 shall be guilty of an offence and shall for every such offence be liable, on conviction to a fine (multa) as prescribed under article 16 of the Act and any oil shall be liable to forfeiture as prescribed under article 17 of the Act.
-(c) Any person found in any unlawful possession of oil
-containing any of the markers mentioned in regulation 17A shall be guilty of an offence and shall for every such offence be liable, on conviction, to a fine (multa) as prescribed under article 16 of the Act and that oil shall be liable to forfeiture as prescribed under article 17 of the Act.
+27. (a) Where any person contravenes any of the regulations from 24 to 26, he shall be guilty of an offence and shall for every such offence be liable, on conviction to a fine (multa) as prescribed under article 16 of the Act and that oil to which such a chemical identifier or dye has been added shall be liable to forfeiture as prescribed under article 17 of the Act.
+(b) Any person found in any unlawful possession of oil containing any of the markers or dyes mentioned in regulation 17 shall be guilty of an offence and shall for every such offence be liable, on conviction to a fine (multa) as prescribed under article 16 of the Act and any oil shall be liable to forfeiture as prescribed under article 17 of the Act.
+(c) Any person found in any unlawful possession of oil containing any of the markers mentioned in regulation 17A shall be guilty of an offence and shall for every such offence be liable, on conviction, to a fine (multa) as prescribed under article 16 of the Act and that oil shall be liable to forfeiture as prescribed under article 17 of the Act.
 28. (1) Any means of transport which carries energy products on which no excise duty has been paid, which is either used on land, such as fuel tank trucks and trailers, or used at sea, such as barges or tankers, shall be registered with the Commissioner.
 (2) Any operator of any such means of transport as are mentioned in sub-regulation (1), shall declare to the Commissioner that such means are to be used solely to carry energy products on which no excise duty has been paid.
 29. (1) According to such requirements as may be set down by the Commissioner, such means of transport shall be permanently and visibly marked with a label containing the words, in red colour, "DUTY FREE". This label shall be of a size not less than 820 millimetres by 240 millimetres.
@@ -408,24 +377,26 @@ necessary controls; and
 (b) submit at the end of each month a statement of all production that took place in that month and give an indication of the percentage volume of biomass contained in the product which is being offered for sale; and
 (c) declare the source of the gas oil contained in the
 product which is being offered for sale.
-- Amended by: XVI. 2017.77; VII.2019.59; VIII.2020.66; XVIII.2021.55.
+- Amended by: XVI. 2017.77; VII.2019.59; VIII.2020.66; XVIII.2021.55; VII.2022.66.
 - Amended by: XVI. 2017.77.
-- Amended by: VII.2019.59; VIII.2020.66.
+- Amended by: VII.2019.59; VIII.2020.66; VII.2022.66.
 - Amended by: XVI. 2017.77; VII.2019.59; VIII.2020.66; XVIII.2021.55.
-- Amended by: XVI. 2017.78; L.N. 270 of 2017; VII.2019.59; VIII.2020.66; XVIII.2021.55.
+- Amended by: VII.2022.66.
+- Amended by: XVI. 2017.78; L.N. 270 of 2017; VII.2019.59; VIII.2020.66; XVIII.2021.55; VII.2022.66.
 - Added by: VII.2019.59.
-- Amended by: XVI. 2017.78; VII.2019.59; XVIII.2021.55.
+- Amended by: XVI. 2017.78; VII.2019.59; XVIII.2021.55; VII.2022.66.
 - Added by: VIII.2020.66.
 - Substituted by: XVIII.2021.55.
+- Amended by: VII.2022.66.
 - Substituted by: VII.2019.59.
 - Amended by: VII.2019.59.
 - Added by: VII.2019.59.
 - Substituted by: XVIII.2021.55.
-- Amended by: XVI. 2017.79; VII.2018.80; VII.2019.59; VIII.2020.66; XVIII.2021.55.
+- Amended by: XVI. 2017.79; VII.2018.80; VII.2019.59; VIII.2020.66; XVIII.2021.55; VII.2022.66.
 - Amended by: XVI. 2017.79.
 - Substituted by: XVI. 2017.79.
 - Added by: VIII.2020.66.
-- Amended by: XVIII.2021.55.
+- Amended by: XVIII.2021.55; VII.2022.66.
 - Amended by: XVI. 2017.79; L.N. 270 of 2017.
 - Substituted by: VII.2018.80.
 - Substituted by: VII.2018.80.

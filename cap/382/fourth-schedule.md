@@ -1,7 +1,7 @@
 ## FOURTH SCHEDULE
 # fourth-schedule
 ENERGY PRODUCTS
-Description of excise goods Rate of
+Description of excisable goods Rate of
 Excise Duty
 Part A Leaded petrol falling within CN Codes 2710.12.31, 2710.12.50.11, 2710.12.50.19, 2710.12.50.90, 2710.12.51 and €678.18 per 1000 2710.12.59 litres
 Unleaded petrol falling within CN Codes 2710.12.41, €359 per 1000 2710.12.45 and 2710.12.49 litres

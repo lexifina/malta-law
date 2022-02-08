@@ -1,7 +1,7 @@
 ## FIRST SCHEDULE
 # first-schedule
 First Column Second Column
-List of Excise Goods Relevant Schedule
+List of Excisable goods Relevant Schedule
 Alcohol and alcoholic beverages to the extent as shown in Second Schedule the relevant schedule to this Act.
 Manufactured tobacco to the extent as shown in the Third Schedule relevant schedule to this Act.
 Energy products to the extent as shown in the relevant Fourth Schedule schedule to this Act.

@@ -1,7 +1,7 @@
 ## SECOND SCHEDULE
 # second-schedule
 ALCOHOL AND ALCOHOLIC BEVERAGES
-Description of excise goods Rate of Excise Duty
+Description of excisable goods Rate of Excise Duty
 BEER €1.93 per hectolitre
 per degree Plato
 If produced by small and independent breweries with an €0.965 per hectolitre annual production not exceeding 200,000 hectolitres of per degree Plato beer.

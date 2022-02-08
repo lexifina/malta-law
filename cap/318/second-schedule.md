@@ -1,7 +1,7 @@
 ## SECOND SCHEDULE
 # second-schedule
 [Articles 12, 20, 23, 27, 30, 66, 68, 73, 76 and 76A]
-Calculation of means for the purposes of an exemption from the payment of Class Two Contributions and for the award of Social Assistance, Sickness Assistance, Free Medical Aid, an Age Pension, Severe Disability Assistance, Disability Assistance, an Assistance for the Visually Impaired,Children's Allowance, a Supplementary Allowance, and a Disabled Child Allowance.
+Calculation of means for the purposes of an exemption from the payment of Class Two Contributions and for the award of Social Assistance, Sickness Assistance, Free Medical Aid, an Age Pension, Severe Disability Assistance, Disability Assistance, an Assistance for the Visually Impaired, Children's Allowance, a Supplementary Allowance, and a Disabled Child Allowance.
 PART I
 Exemption from the Payment of Class Two Contributions
 1. In calculating the means for the purposes of article 12 account shall be taken of:
@@ -100,7 +100,13 @@ and the term "excess pension" shall mean any pension over the National Minimum P
 PART IV
 Age Pension
 1. In calculating the means for the purposes of article 66, account shall be taken of any property including any settlement of property in trust (excluding the house of residence), income or privilege as is indicated in paragraph 1 of Part 1 of this Schedule; and save as provided in paragraph 3 of this Part, where the limits laid down in the proviso to paragraph 1(a) of Part I of this Schedule are exceeded, the person making a claim for an Age Pension, as the case may be, shall be deemed not to be entitled to such pension:
-Provided that in calculating the means in terms of this paragraph, in lieu of the limits laid down in the proviso to paragraph 1(a) of Part I of this Schedule, €14,000 in the case of a single or widowed person or € 23, 300 in the case of a married person shall instead be taken in the calculation of means.
+Provided that in calculating the means in terms of this paragraph, in lieu of the limits laid down in the proviso to paragraph 1(a) of Part I of this Schedule, €14,000 in the case of a single or widowed person or € 23, 300 in the case of a married person shall instead be taken in the calculation of means:
+Provided further that, with effect from 1st January 2022, in the case of a person who has been in receipt of an Age Pension in accordance with the provisions of article 66 for a period of five (5) years or more and comes into possession of other property or assets through inheritance, in lieu of the limits laid down in the first proviso, shall instead be taken in the calculation of the capital means the amount of thirty thousand euro (€30,000) in the case of a single or widowed person, or the amount of fifty thousand euro (€50,000) in the case of a married person. So however that, when calculating the capital means in such cases, no account shall be taken of:
+(a) a donation of a property by the beneficiary of the Age Pension to a son or daughter, provided that such property is being donated to the son or daughter in order for the son or daughter to form his or her future house of residence;
+(b) a donation of part of the house of residence of the Age
+Pension beneficiary to the son or daughter including the space above such property, provided that such donation is being made in order for the son or daughter
+to form his or her future house of residence;
+(c) a donation of up to a maximum of twenty thousand euro (€20,000) to the son or daughter by the beneficiary of the Age Pension, provided such donation is made in accordance with the provisions of the laws of Malta.
 2. The means accruing, or which could accrue, from any property, income or privilege as is described under Part I of this Schedule shall be calculated in the manner laid down in paragraphs 2 and 3 (with the exclusion of paragraph 3(a) and (d) of the said Part I); so however that no account shall be taken of:
 (a) the first €385 of such means in the case of a married couple; or
 (b) the first €270 of such means in the case of a single or widowed person; and
@@ -118,7 +124,7 @@ Provided further that each of the couple in respect of whom the foregoing provis
 PART V
 Severe Disability Assistance, Disability Assistance and Assistance for
 the Visually Impaired
-(Deleted by Act VII.2022.41)
+(Deleted by VII.2022.41)
 PART VI
 Social Assistance
 1A. In calculating the means for the purposes of article 30 account shall be taken of any property, income or privilege as indicated in paragraph 1 of Part II of this Schedule; so however that no account shall be taken of the first €470 by way of earnings derived by any person from the carrying out of hand knitting, lace making, crochet and embroidery activities at home, and the manufacture of which does not involve any mechanical processes; and where the limit laid down in the proviso to paragraph 1(a) of Part II of this Schedule is exceeded, the person making a claim for Social Assistance shall be deemed not to be entitled to such assistance.
@@ -176,7 +182,7 @@ Provided further that in the case of a person who is in receipt of a pension (wh
 - Substituted by: L.N. 330 of 2011.
 - Amended by: V. 2012.31; L.N. 218 of 2012.
 - Substituted by: L.N. 342 of 2012.
-- Amended by: IX. 2013.8; XII. 2014.38; XIII. 2015.90; XV. 2016.6; XVI. 2017.38; VII.2018.44; VII.2019.37; VIII.2020.33.
+- Amended by: IX. 2013.8; XII. 2014.38; XIII. 2015.90; XV. 2016.6; XVI. 2017.38; VII.2018.44; VII.2019.37; VIII.2020.33; VII.2022.41.
 - See Cap. 207.
 - See Cap. 452.
 - See Cap. 123.
