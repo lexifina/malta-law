@@ -1,4 +1,4 @@
 SUBSIDIARY LEGISLATION 123.39
 PART-TIME WORK RULES
 1st January, 1996
-LEGAL NOTICE 157 of 1996, as amended by Legal Notices 321 of 2001, 105 of 2005, 3 of 2006, 409 of 2007, 320 of 2012, 185 of 2014 and 125 of 2016; and Act XXVII of 2016.
+LEGAL NOTICE 157 of 1996, as amended by Legal Notices 321 of 2001, 105 of 2005, 3 of 2006, 409 of 2007, 320 of 2012, 185 of 2014 and 125 of 2016; Act XXVII of 2016 and Legal Notice 67 of 2022.
