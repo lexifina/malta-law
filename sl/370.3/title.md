@@ -2,4 +2,4 @@ SUBSIDIARY LEGISLATION 370.03
 INVESTMENT SERVICES ACT (FEES)
 REGULATIONS
 1st January, 2014*
-LEGAL NOTICE 9 of 2014, as amended by Legal Notices 217, 264 and 371 of 2016.
+LEGAL NOTICE 9 of 2014, as amended by Legal Notices 217, 264, 371 of 2016 and 20 of 2022.
