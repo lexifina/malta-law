@@ -50,7 +50,7 @@ regulations 9 and 10, it ascertains any of the following situations for an inves
 (a) the investment firm is exposed to risks or
 elements of risks, or poses risks to others that are material and are not covered or not sufficiently covered by the own funds requirement, and especially K‐factor requirements, set out in Parts Three or Four of the IFR;
 (b) the investment firm does not meet the
-requirements set out in Articles 24 and 26 of the IFD and other supervisory measures are unlikely to sufficiently improve the arrangements, processes, mechanisms and strategies within an appropriate timeframe;
+requirements set out in Articles 24 and 26 of the IFD and other supervisory measures are unlikely to sufficiently improve the arrangements, processes, mechanisms and strategies within an appropriate time-frame;
 (c) the adjustments in relation to the prudent
 valuation of the trading book are insufficient to enable the investment firm to sell or hedge out its positions within a short period without incurring material losses under normal market conditions;
 (d) the review carried out in accordance with
