@@ -1,7 +1,7 @@
 ## SCHEDULE V
 # schedule-v
-BODIES WITH WHOM THE COMPETENT AUTHORITY MAY
-EXCHANGE INFORMATION
+BODIES WITH WHOM THE COMPETENT
+AUTHORITY MAY EXCHANGE INFORMATION
 (Regulation 6)
 The competent authority may exchange information with:
 (1) Other European regulatory authorities and may transmit information to the ESRB, EBA, or ESMA in accordance with the CRD, the CRR and with article 15 of Regulation (EU) No. 1092/2010, with Articles 31, 35 and 36 of Regulation (EU) No. 1093/2010 and with Articles 31 and 36 of Regulation (EU) No. 1095/2010;
@@ -34,7 +34,7 @@ investigating breaches of company law;
 (16) (1) Other departments of Member States central government administrations responsible for law on the supervision of institutions, financial institutions and insurance undertakings and to inspectors acting on behalf of those departments provided that
 (a) such disclosures may be made only where necessary for reasons of prudential supervision, and prevention and resolution of failing institutions.
 (b) persons having access to such information shall be subject to professional secrecy.
-(2) In an emergency situation as referred to in Article 114(1) of the CRD, to disclose information which is relevant to the departments referred to in the first subparagraph of this article in all Member States concerned;
+(2) In an emergency situation as referred to in Article 114(1) of the CRD, to disclose information which is relevant to the departments referred to in the first sub-paragraph of this article in all Member States concerned;
 (17) (1) Parliamentary enquiry committees, courts of auditors and other entities in charge of enquiries relating to the prudential supervision of institutions in Malta, subject to the following conditions:
 (a) that the entities have a precise mandate under national law to investigate or scrutinise the actions of authorities responsible for the supervision of institutions or for laws on such supervision;
 (b) that the information is strictly necessary for fulfilling the mandate referred to in sub-paragraph (a);
@@ -43,3 +43,19 @@ investigating breaches of company law;
 (2) Information received pursuant to paragraphs (1) to (8) inclusive of this Schedule, and information obtained by means of an on-the-spot check or inspection referred to in regulation 7 of these regulations, shall not be disclosed to the bodies referred to in paragraphs 16 and 17(1) of this Schedule save with the express consent of the authorities which disclosed the information or of the authorities of the Member State in which such an on-the-spot check or inspection was carried out.
 (18) (1) Recognised clearing houses or other similar bodies responsible for the provision of clearing or settlement services in order to ensure the proper functioning of those bodies in relation to defaults or potential defaults by market participants of the information referred to in paragraph (1) of this Schedule and articles 17(7) and 17F of the Act.
 (2) The information received under paragraph (1) of this Schedule shall not be disclosed in the circumstances referred to in sub-paragraph (1) of this paragraph without the express consent of the competent authorities, which have disclosed it.
+(19) Authorities responsible for supervising the obliged entities listed in points
+(1) and (2) of Article 2(1) of Directive (EU) 2015/849 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing of the European Parliament and of the Council for compliance with the said Directive.
+(20) (1) Notwithstanding Articles 26(1) and 17(7) of the Investment Services Act, the competent authority may, subject to the conditions set out in sub-paragraphs 2, 3 and 4 of this paragraph, transmit or share certain information with the following:
+(a) the International Monetary Fund and the World Bank, for the purposes of assessments for the Financial Sector Assessment Program;
+(b) the Bank for International Settlements, for the purposes of quantitative impact studies;
+(c) the Financial Stability Board, for the purposes of its surveillance function.
+(2) The competent authority may only share confidential information following an explicit request by the relevant body, where at least the following conditions are met:
+(a) the request is duly justified in light of the specific tasks performed by the requesting body in accordance with its statutory mandate;
+(b) the request is sufficiently precise as to the nature, scope and format of the required information, and the means of its disclosure or transmission;
+(c) the requested information is strictly necessary for the performance of the specific tasks of the requesting body and does not go beyond the statutory tasks conferred on the requesting body;
+(d) the information is transmitted or disclosed exclusively to the persons
+directly involved in the performance of the specific task;
+(e) the persons having access to the information are subject to professional
+secrecy requirements at least equivalent to those referred to in Article 26(1) of the Investment Services Act.
+(3) Where the request is made by any of the entities referred to in sub-paragraph 1, the competent authority may only transmit aggregate or anonymised information and may only share other information at the premises of the competent authority.
+(4) To the extent that the disclosure of information involves processing of personal data, any processing of personal data by the requesting body shall comply with the requirements laid down in Regulation (EU) 2016/679 of the European Parliament and of the Council.
