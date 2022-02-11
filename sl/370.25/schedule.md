@@ -1,17 +1,16 @@
 ## SCHEDULE
 # schedule
-(Regulation 5)
-The provisions of regulation 5 shall apply at least in any of the
+(Regulation 6)
+The provisions of regulation 6 shall apply at least in any of the
 following circumstances:
 (a) an investment firm fails to have in place governance arrangements required by the competent authority in accordance with the provisions of the Investment Services Act (Supervisory Review) Regulations, 2013 which transpose the requirements of Article 74 of the CRD;
 (b) an investment firm fails to report information or provide incomplete or inaccurate information on compliance to meet own funds requirements set out in Article 92 of the CRR to the competent authority, in
 breach of Article 99(1) of the CRR;
 (c) an investment firm fails to report or provides incomplete or inaccurate information to the competent authority in relation to the data referred to in Article 101 of the CRR;
-(d) an investment firm fails to report information or provides incomplete or inaccurate information about a large exposure to the competent authority in breach of
-Article 394(1) of the CRR;
-(e) an investment firm fails to report or provides
+(d) an investment firm fails to report information or
 [S.L.370.25 MEASURES AND INVESTIGATORY POWERS) 7
-incomplete or inaccurate information on liquidity to the competent authority in breach of Article 415(1) and (2) of the CRR;
+provides incomplete or inaccurate information about a large exposure to the competent authority in breach of Article 394(1) of the CRR;
+(e) an investment firm fails to report or provides incomplete or inaccurate information on liquidity to the competent authority in breach of Article 415(1) and (2) of the CRR;
 (f) an investment firm fails to report information or provides incomplete or inaccurate information on the leverage ratio to the competent authority in breach of Article 430(1) of the CRR;
 (g) an investment firm repeatedly or persistently fails to hold liquid assets in breach of Article 412 of the CRR;
 (h) an investment firm incurs exposure in excess of the limits set out in Article 395 of the CRR;
@@ -21,3 +20,7 @@ incomplete or inaccurate information on liquidity to the competent authority in 
 (l) an investment firm is found liable for a serious breach of the Prevention of Money Laundering Act and the regulations issued thereunder;
 (m) an investment firm allows one or more persons not
 complying with Article 91 of the CRD to become or remain a member of the management body.
+(n) a parent institution, a parent financial holding company or a parent mixed financial holding company fails to take any action that may be required to ensure compliance with the prudential requirements set out in Part Three, Four, Six and Seven of the CRR or imposed under point
+(a) of Article 104(1) or Article 105 of the CRD as transposed in the Investment Services Act (Supervisory Review) Regulations on a consolidated or sub-consolidated basis.
+- Amended by: L.N. 31 of 2022.
+- See S.L. 370.15.
