@@ -1,4 +1,4 @@
 SUBSIDIARY LEGISLATION 330.09
 RECOVERY AND RESOLUTION REGULATIONS
 18th September, 2015
-LEGAL NOTICE 301 of 2015, and 89 of 2017 as amended by Legal Notice 279 of 2019 and 6 of 2021.
+LEGAL NOTICE 301 of 2015, and 89 of 2017 as amended by Legal Notices 279 of 2019, 6 of 2021 and 74 of 2022.
