@@ -2,4 +2,4 @@ SUBSIDIARY LEGISLATION 552.12
 DEVELOPMENT PLANNING (FEES)
 REGULATIONS
 16th July, 2010
-LEGAL NOTICE 356 of 2010, as amended by Legal Notices 48 and 58 of 2011, 268 of 2012, 126 of 2013 and 163 of 2016, 81 of 2017 and 21 of 2019.
+LEGAL NOTICE 356 of 2010, as amended by Legal Notices 48 and 58 of 2011, 268 of 2012, 126 of 2013 and 163 of 2016, 81 of 2017, 21 of 2019 and 83 of 2022.

@@ -7,21 +7,24 @@
 ## 25,000 2,000
 ## 15,000 3,000
 ## 35,000 13,000
-## 6,000 1,000
-## ENV Fee
-## Livestock Farm Building -
-## Other Garages -
-## Penthouse -
-## Plant and Machinery 13,000
-## Public Car Park -
-## Quarry (New / Horizontal Extension) 13,000
-## Social/Cultural/Sports/ Educational/Forced Relocation 2,000
-## Temporary Structure / Use of Land -
-## Villa (Semi / Fully Detached - 2 dwelling units) / Farmhouse -
-## Waste Disposal 3,000
-## Satellite dishes above 2m diameter or telecommunication antennae -
-## Other development not otherwise specified -
-## Vending Machine - 1 Only where the change of use solely involves the use of land.
+## Industrial Development (incl. ext) in areas designated for industrial development in the Local Plans - Site Area - -
+## In lieu of PC application - -
+## Land Reclamation for Agriculture 6,000 1,000
+## Livestock Farm Building - -
+## Other Garages - -
+## Penthouse - -
+## Plant and Machinery 25,000 13,000
+## Public Car Park - -
+## Quarry (New/Horizontal Extension) 40,000 13,000
+## Social/Cultural/ Educational/Forced Relocation/Sports Projects 35,000 2,000
+## Temporary Structure/Use of Land - -
+## Villa (Semi/Fully Detached - 2 dwelling units)/Farmhouse - -
+## Waste Disposal 15,000 3,000
+## Satellite dishes above 2m diameter or telecommunication antennae - -
+## Other development not otherwise specified - -
+## Vending Machine - -
+## 1 Only where the change of use solely involves the use of land.
+## minimum fee of €70
 # schedule-1
 1. Except as otherwise provided, the relevant fees at the rates specified in this Schedule, shall be paid in respect of applications for development permission according to the nature of the development and calculated as herein provided:
 Category A
@@ -31,18 +34,28 @@ Fee
 Development Rate (€) Rate (€) Rate (€) Rate (€)
 Per Per
 Per m2 Per m2 Application Application
-Correction of Site, CPPS Request 150.00 - - - Extensions to dwellings, Alterations, Renewal, Amended Applications & M i n o r Amendments 150.00 - - 25.00 Quarry - Vertical Extension 1,485.00 - - 120.00 Special Buildings or Uses 145.00 3.08 1.68 15.00
+Correction of Site, CPPS Request 150.00 - - -
+Extensions to dwellings, Alterations, Renewal, Amended Applications & M i n o r Amendments 150.00 - - 25.00
+Quarry - Vertical Extension 1,485.00 - - 120.00
+Special Buildings or Uses 145.00 3.08 1.68 15.00
 Category C
 Environment Fee Demolition of Building or Structures DPF
-Rate (€) Rate (€) up to 50m2 - - From 51m2 to 400 m2 20
-200 From 401m2 to 750 m2 400 40 From 751m2 to 1,000 m2 1,000 100 > 1,000m2 2,000.00 200
+Rate (€) Rate (€) up to 50m2 - -
+From 51m2 to 400 m2 20
+200 From 401m2 to 750 m2 400 40
+From 751m2 to 1,000 m2 1,000 100
+> 1,000m2 2,000.00 200
 Category D
-Fee Rate (€) Compliance Certificate 60.00 Dangerous Structure Notifications 60.00 Development Notification Order - Alterations 60.00 Development Notification Order - Extensions/New Development 120.00 Planning Control Applications per 150m2 of site or part thereof 235.00
+Fee Rate (€)
+Compliance Certificate 60.00
+Dangerous Structure Notifications 60.00
+Development Notification Order - Alterations 60.00
+Development Notification Order - Extensions/New Development 120.00 Planning Control Applications per 150m2 of site or part thereof 235.00
 Requests for a reconsideration
 Requests for Revocation or Modification of Permission €500
 Provided that:
 1. Where a request for screening is submitted to the Planning Authority, it shall be accompanied by the Screening Fee of €50. This fee is in no case refundable;
-2. The rate regulating temporary structure / use of land shall only be applied once, on any given site, in any one calendar year;
+2. The rate regulating temporary structure/use of land shall only be applied once, on any given site, in any one calendar year;
 3. Where an application for a boathouse is not accompanied by proof of registration of the applicant as a fisherman, the Development Permit Fee shall be calculated at the rate of commercial development;
 4. For the purposes of the calculation of floor area in relation to bungalow development, only the build-up area, which includes the amount of floor area within a building determined by the external measurements of the building, which includes the thickness of the external walls and half the thickness of dividing or party walls, and the internal shafts, internal yards, shall be considered;
 5. Where garages do not share a common access with a residential/commercial development, and parking spaces (excluding lock-up garages), forming part of a mixed development, have a direct access to both residential and commercial development, the rate of "other garages" shall be applied;
@@ -64,7 +77,7 @@ Provided that:
 12. For Planning Control applications relating to local plan amendments, in cases where the applicant does not pay the standard fee over the whole site area, the fee payable at the submission of the said local plan amendment application shall be of €235.00. So however that applications for development permission submitted following a Planning Control application relating to amendments to local plan aforementioned, or a Planning Control application relating to amendments to local plan submitted by the Authority in accordance with the provisions of regulation 6 of Development Planning (Procedure for Minor Modifications to Subsidiary Plans) Regulations, after the requirements of sub-regulation (3) of regulation 4 of the said regulations, for which the provisions of this clause have been applied, a fee of €3.00 per meter squared, or part thereof, over and above any other rate established by these regulations shall be paid in relation to such application for development permission;
 13. Where an application involves more than one use or type of development, but is not already included under paragraph 6 of this proviso, the development permit fee to be paid shall be calculated by adding together the amounts applicable to each type of development. When the application includes commercial development, the fee for the commercial development shall be calculated by reference to the rate for the commercial floor area only and shall not include the site area
 14. (a) All fees shall be paid at rates calculated by reference to the development
-proposed in the application, and no fees properly paid shall be refundable as specified in subparagraphs (b) and (c) except in the following cases:
+proposed in the application, and no fees properly paid shall be refundable as specified in sub-paragraphs (b) and (c) except in the following cases:
 (i) the application has been invalidly made;
 (ii) the application has been withdrawn by the applicant prior to determination.
 (b) When an application is withdrawn by the applicant, the percentage of the development permit fee which shall be refunded shall be as follows:
@@ -75,7 +88,7 @@ development permit fee shall be refunded;
 (iv) no development permit fees shall be refunded when a notice in terms of articles 97, 98 or 105 of the Act has been served on the
 applicant or on the site to which the application relates;
 15. (i) Where an application is submitted for new development on a site
-(described as the new application for the purpose of this subparagraph) and the applicant states in writing that -
+(described as the new application for the purpose of this sub-paragraph) and the applicant states in writing that -
 (a) an application for development of the same type had previously
 been submitted by the applicant on another site (described as the original site for the purpose of this paragraph) in the vicinity of
 the new site and had been approved, and
@@ -100,10 +113,10 @@ wrong indication of the site) shall not prejudice the new application.
 infrastructure services contribution required.
 (ii) If the applicant or architect does not submit a receipt of the infrastructure services contribution originally paid with evidence that this is related to a previous development permission on the same site, the amount to be deducted from the new infrastructure services contribution required shall be calculated as per Schedule 2.
 (b) For post-1992 applications the Infrastructure Services Contribution recorded, on the Authority's records, to have been originally paid on a previous development permission on the same site, shall be deducted from the the new infrastructure services contribution required;
-17. No infrastructure services contribution shall be paid when the application relates solely to an application by a Government entity or regulatory authotity or a body corporate established by law, including Malta Enterprise, where the applicant gives an undertaking, in a form specified by the Planning Authority, to the same Authority that the necessary infrastructure services will be provided by, or in conjunction with, and with the approval of, the relevant entity or regulatory authotity and at the expense of the applicant or the relevant entity or regulatory authotity, and that the necessary maintenance of those services will also be so carried out;
-18. No main sewer contribution shall be payable in respect of applications for sewage treatment works, pumping stations and similar structures or works provided by the Drainage Section of the Water Services Corporation or any other body which subsequently assumes the responsibilities of that entity or regulatory authotity;
+17. No infrastructure services contribution shall be paid when the application relates solely to an application by a Government entity or regulatory authority or a body corporate established by law, including Malta Enterprise, where the applicant gives an undertaking, in a form specified by the Planning Authority, to the same Authority that the necessary infrastructure services will be provided by, or in conjunction with, and with the approval of, the relevant entity or regulatory authority and at the expense of the applicant or the relevant entity or regulatory authority, and that the necessary maintenance of those services will also be so carried out;
+18. No main sewer contribution shall be payable in respect of applications for sewage treatment works, pumping stations and similar structures or works provided by the Drainage Section of the Water Services Corporation or any other body which subsequently assumes the responsibilities of that entity or regulatory authority;
 19. The infrastructure services contribution shall be reduced by 75%, where:
-(a) the applicant gives to the Authority an undertaking, in a form specified by the Planning Authority, that the necessary infrastructure services will be provided by the applicant, or by, and with the approval of, the relevant entity or regulatory authotity and at the applicant's expense, and that the necessary maintenance of these services will also be carried out; or
+(a) the applicant gives to the Authority an undertaking, in a form specified by the Planning Authority, that the necessary infrastructure services will be provided by the applicant, or by, and with the approval of, the relevant entity or regulatory authority and at the applicant's expense, and that the necessary maintenance of these services will also be carried out; or
 (b) the application relates to a site where the necessary infrastructure services have been provided at the expense of a private individual and an undertaking, in a form specified by the Planning Authority, to maintain these services has been given;
 20. All Infrastructure Services Contributions shall be levied at rates calculated with reference to the development proposed in the application and no contribution shall be refundable except in the following cases:
 (i) the permission applied for has been refused, unless it is a dismissal in terms of section 52(5) of the Environment and Development Planning Act;
@@ -131,7 +144,7 @@ the permit on the original site shall be cancelled by the Authority and the infr
 (a) in the case of a development permission where the development has not commenced, by subtracting the development permit fee paid on the development permission in force, calculated by using the current rates in these regulations, from that due on the new development application;
 (b) in the case of a development permission where the development has commenced but not yet completed, by subtracting the development permit fee paid on that part of the development not yet commenced, calculated by using the current rates in these regulations, from that due on the new development application.
 (2) Where the development permission in force is a renewal of a previous permission, the development permit fee to be paid for the new development shall be calculated by subtracting the development permit fee of the original application, calculated by using the current rates in these regulations, from that due on the new development application.
-"27. (1) When calculating the fees required in relation to an application for industrial development falling under Category A in areas designated for industrial development in the Local Plans, no other fees shall be charged other than the rates established in Category A of the table under this Schedule for "Industrial Development (incl. ext) in areas designated for industrial development in the Local Plans - Floor Area" and for "Industrial Development (incl. ext) in areas designated for industrial development in the Local Plans - Site Area".
+27. (1) When calculating the fees required in relation to an application for industrial development falling under Category A in areas designated for industrial development in the Local Plans, no other fees shall be charged other than the rates established in Category A of the table under this Schedule for "Industrial Development (incl. ext) in areas designated for industrial development in the Local Plans - Floor Area" and for "Industrial Development (incl. ext) in areas designated for industrial development in the Local Plans - Site Area.
 (2) In the case of applications for a change of use to garages (ancillary), within such designated areas, only a Development Permit Fee equivalent to €1.24 per m² shall be charged.
-(3) In the case of applications falling under Categories B, C and D within such designated areas, the rates applicable under each category shall be charged.".
-- Amended by: L.N. 48 of 2011; L.N. 58 of 2011; L.N. 126 of 2013; L.N. 163 of 2016; L.N. 81 of 2017; L.N. 21 of 2019.
+(3) In the case of applications falling under Categories B, C and D within such designated areas, the rates applicable under each category shall be charged. 28. Development applications including sport projects submitted or validated after the 1st January 2021 and the applicants are either the Malta Sports Council, or a body registered with the Malta Sports Council, are to be exempt from the payment of Development Planning Fees (DPF) and Environment Fees (EF).
+- Amended by: L.N. 48 of 2011; L.N. 58 of 2011; L.N. 126 of 2013; L.N. 163 of 2016; L.N. 81 of 2017; L.N. 21 of 2019; L.N. 83 of 2022.
