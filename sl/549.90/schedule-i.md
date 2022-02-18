@@ -7,3 +7,4 @@ General Licence Conditions
 (c) has paid any administrative fines imposed in accordance with regulation 12 as prescribed in Schedule II;
 (d) has paid necessary licence fees as prescribed in regulation 5 and as listed in Schedule IV.
 2. In the case of general hunting licence, no person shall hunt unless he holds a duly paid insurance policy against third party risks to persons or damage to property
+- Substituted by: L.N. 133 of 2016; L.N 85 of 2022.
