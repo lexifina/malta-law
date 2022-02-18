@@ -13,12 +13,16 @@ have not previously been used for the generation of electricity;
 the feed-in tariff to be paid by the distribution system operator to an installation operator for electricity generated from solar photovoltaic installations and supplied to the distribution system operator shall be in accordance with the amounts per kWh, solar photovoltaic installation's individual capacity limits and maximum units allocated per annum for payment of each feed-in tariff as established in Table A:
 Table A: Caps and Feed-in Tariffs applicable for solar photovoltaic
 installations approved under the FIT scheme
-FIT Scheme Capacity of solar Feed-in Tariffs Maximum units allocated
-photovoltaic applicable between per annum for FIT
-installation installed the 1st January 2022 payment to PV systems
-and the 30th December in any location approved under this FIT
-2022 scheme between the 1st
-January 2022 and the 30th
+Maximum units allocated
+Feed-in Tariffs per annum for FIT
+Capacity of solar
+applicable between payment to PV systems
+photovoltaic
+FIT Scheme the 1st January 2022 approved under this FIT
+installation installed and the 30th December
+scheme between the 1st
+in any location January 2022 and the 30th
+2022
 December 2022
 =>1kWp and <40kWp 15 cents per kWh 12.8 GWh per annum
 (8MWp)
