@@ -73,7 +73,3 @@ Anas querquedula
 Anas clypeata
 Aythya ferina
 Aythya fuligula.
-- Substituted by: L.N. 39 of 2007.
-- Amended by: L.N. 280 of 2007.
-- Substituted by: L.N. 283 of 2010.
-- Amended by: L.N. 69 of 2016.

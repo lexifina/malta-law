@@ -15,5 +15,3 @@ b. Ramla l-}amra beach; as per site plan attached hereto;
 c. San Blas bay, as per site plan attached hereto;
 d. Xatt l-a]mar beach, as per site plan attached hereto;
 e. Xlendi bay, as per site plan attached hereto.
-- Substituted by: L.N. 39 of 2007.
-- Amended by: L.N. 341 of 2013.

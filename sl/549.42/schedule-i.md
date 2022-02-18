@@ -260,5 +260,3 @@ Emberizidae (Emberizinae)
 Emberiza cineracea
 Emberiza hortulana
 Emberiza caesia
-- Amended by: L.N. 39 of 2007.
-- Substituted by: L.N. 283 of 2010.

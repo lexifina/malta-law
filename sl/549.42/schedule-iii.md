@@ -46,4 +46,3 @@ Scolopacidae
 Lymnocryptes minimus
 Gallinago gallinago
 Scolopax rusticola
-- Amended by: L.N. 39 of 2007.
