@@ -1,10 +1,11 @@
 ## SCHEDULE 3
 ## Monday 8.00am
-## No Collection
-## No Recyclable Collection
-## No No Collection Collection
-## Recyclable
 ## No
+## Glass 8:00am
+## No Recyclable
+## Recyclable
+## No Collection
+## Organic Waste and Mixed Waste 7:00am Glass and Recyclable 8:00 am
 # schedule-3
 Regulation 2
 For the purpose of these regulations and this Schedule, the following definitions shall apply:
@@ -26,11 +27,14 @@ Central Saturday Sunday Collection
 Monday Tuesday Wednesday Thursday Friday Glass
 Region time
 Organic
-First Fri- Waste
-Organic Mixed Organic Mixed
-Balzan 9.00am day of the
-Waste Waste Waste Waste
-Mixed month Waste
+First
+Waste
+Organic Mixed Organic Mixed Wednes-
+Balzan 9.00am
+Waste Waste Waste Waste day of the
+Mixed
+month
+Waste
 Southern Saturday Sunday Collection
 Monday Tuesday Wednesday Thursday Friday Glass
 Region time
@@ -40,8 +44,11 @@ Organic Mixed Organic Mixed
 Birżebbuġa 7.30am Friday of
 Waste Waste Waste Waste
 Mixed the month Waste
-South East- Saturday Sunday Collection
-Monday Tuesday Wednesday Thursday Friday Glass ern Region Time
+South
+Saturday Sunday Collection
+Eastern Monday Tuesday Wednesday Thursday Friday Glass
+Time
+Region
 Organic
 8.30am
 First Fri- Waste
@@ -53,19 +60,22 @@ Central Saturday Sunday Collection
 Monday Tuesday Wednesday Thursday Friday Glass
 Region time
 Organic Organic
-No First Waste Waste
-Organic Mixed Mixed
-Birkirkara Collec- 8.00am Friday of
-Waste Waste Waste
-Mixed tion the month Waste
+First
+No Waste Waste
+Organic Mixed Mixed Thursday Birkirkara Collec- 8.00am
+Waste Waste Waste of the
+Mixed tion
+month
+Waste
 [S.L.549.40 IN STREETS AND PUBLIC PLACES OR AREAS 15
 South
 Saturday Sunday Collection Eastern Monday Tuesday Wednesday Thursday Friday Glass
 time Region
 Organic
+8.30am
 First Waste
 Organic Mixed Organic Mixed
-Bormla 8.30am Friday of
+Bormla Friday of
 Waste Waste Waste Waste
 Mixed the month Waste
 Northern Saturday Sunday Collection
@@ -136,42 +146,42 @@ Mixed the month Waste
 Central Saturday Sunday Collection
 Monday Tuesday Wednesday Thursday Friday Glass Region time
 Organic
-Organic 6.00pm
+Organic 9.00am
 Waste
 Waste
-First
-Organic Mixed Mixed
-Gżira Friday of
-Waste Waste Waste
-the month
-Saturday Mixed
-Waste 12.00pm
+Mixed First
+Organic Mixed
+Gżira Waste Friday of
+Recyclable Waste Waste
+12:00pm the month
+Mixed 9:00am Waste Glass
+8:00am
 Southern Saturday Sunday Collection
 Monday Tuesday Wednesday Thursday Friday Glass Region time
-Organic
-11.00am
-Waste
+Organic Waste
 First
 Organic Mixed Organic Mixed
-Ħamrun Friday of
+Ħamrun 8.00am Friday of
 Waste Waste Waste Waste
-Mixed the month
-8.00am
-Waste
+Mixed the month Waste
 Central Saturday Sunday Collection
 Monday Tuesday Wednesday Thursday Friday Glass Region time
 Organic
 8.00am
-Waste
-First and
-Organic Mixed Organic Mixed third
-Iklin Mixed
-Waste Waste Waste Waste Friday of
-Waste
-12.00pm the month
+Waste First and
+third
+Organic Mixed Organic Mixed
+Iklin Tuesday Mixed
+Waste Waste Waste Waste
+of the Waste
+12.00pm
+month
+[S.L.549.40 18 IN STREETS AND PUBLIC PLACES OR AREAS
 South
-Saturday Sunday Collection Eastern Monday Tuesday Wednesday Thursday Friday Glass
-time Region
+Saturday Sunday Collection
+Eastern Monday Tuesday Wednesday Thursday Friday Glass
+time
+Region
 Organic
 7.30am
 Waste
@@ -181,7 +191,6 @@ Isla Friday of Mixed
 Waste Waste Waste Waste
 the month Waste
 9.30am
-[S.L.549.40 18 IN STREETS AND PUBLIC PLACES OR AREAS
 South East- Saturday Sunday Collection
 Monday Tuesday Wednesday Thursday Friday Glass ern Region time
 Organic
@@ -203,22 +212,27 @@ Central Saturday Sunday Collection
 Monday Tuesday Wednesday Thursday Friday Glass
 Region time
 Organic
-First Waste
-Organic Mixed Organic Mixed
-Lija 1.30pm Friday of
-Waste Waste Waste Waste
-Mixed the month Waste
+First
+Waste
+Organic Mixed Organic Mixed Wednes-
+Lija 1.30pm
+Waste Waste Waste Waste day of the
+Mixed
+month
+Waste
+[S.L.549.40 IN STREETS AND PUBLIC PLACES OR AREAS 19
 Southern Saturday Sunday Collection
 Monday Tuesday Wednesday Thursday Friday Glass
 Region time
-Organic Mixed Waste Waste
+Organic Mixed
+9.00am
+Waste Waste
 First
-Organic Organic Mixed
-Luqa 9.00am Friday of
-Waste Waste Waste
-the month
-Mixed Waste
-[S.L.549.40 IN STREETS AND PUBLIC PLACES OR AREAS 19
+Organic Organic Mixed Tuesday
+Luqa
+Waste Waste Waste of the
+month Mixed
+Waste
 South
 Saturday Sunday Collection
 Eastern Monday Tuesday Wednesday Thursday Friday Glass
@@ -254,14 +268,12 @@ Waste Waste Waste of the
 Mixed
 month
 Waste
+[S.L.549.40 20 IN STREETS AND PUBLIC PLACES OR AREAS
 Northern Saturday Sunday Collection
-Monday Tuesday Wednesday Thursday Friday Glass
-Region time
-Organic Organic Mixed Organic Mixed
-Mdina 8.00am
+Monday Tuesday Wednesday Thursday Friday Glass Region time
+Organic Organic Mixed Organic Mixed Mdina 8.00am
 Waste Waste Waste Waste Waste
 Mixed Waste
-[S.L.549.40 20 IN STREETS AND PUBLIC PLACES OR AREAS
 Northern Saturday Sunday Collection
 Monday Tuesday Wednesday Thursday Friday Glass Region Time
 Organic
@@ -275,13 +287,14 @@ Waste Waste
 Northern Saturday Sunday Collection
 Monday Tuesday Wednesday Thursday Friday Glass Region time
 Organic Organic
-First and
-Waste Waste
-Organic Mixed Mixed Third Mġarr 7.00am
-Waste Waste Waste Friday of
-Mixed
-the month
-Waste
+7.00am
+First and Waste Waste Third
+Organic Mixed Mixed
+Mġarr Tuesday
+Waste Waste Waste Glass
+Mixed of the
+8.00am Waste
+month
 Northern Saturday Sunday Collection
 Monday Tuesday Wednesday Thursday Friday Glass Region Time
 Organic
@@ -290,9 +303,10 @@ Waste
 Waste First and
 third
 Organic Mixed Mixed
-Mosta 8.00am Thursday
+Mosta 8.00am Tuesday
 Waste Waste Waste
 of the Mixed month Waste
+[S.L.549.40 IN STREETS AND PUBLIC PLACES OR AREAS 21
 Southern Saturday Sunday Collection
 Monday Tuesday Wednesday Thursday Friday Glass Region time
 Organic
@@ -309,35 +323,37 @@ Organic Mixed Organic Mixed
 Msida 8.00am Friday of
 Waste Waste Waste Waste
 Mixed the month Waste
-[S.L.549.40 IN STREETS AND PUBLIC PLACES OR AREAS 21
 Northern Saturday Sunday Collection
-Monday Tuesday Wednesday Thursday Friday Glass
-Region time
+Monday Tuesday Wednesday Thursday Friday Glass Region time
 Organic Organic
-First Waste Waste
-Organic Mixed Mixed
-Mtarfa 8.00am Friday of
-Waste Waste Waste
-Mixed the month Waste
+First
+Waste Waste
+Organic Mixed Mixed Tuesday Mtarfa 8.00am
+Waste Waste Waste of the
+Mixed
+month
+Waste
 Northern Saturday Sunday Collection
-Monday Tuesday Wednesday Thursday Friday Glass
-Region Time
+Monday Tuesday Wednesday Thursday Friday Glass Region Time
 Organic Organic
+7.00am
 First Waste Waste
-Organic Mixed Mixed
-Naxxar 7.00am Friday of
-Waste Waste Waste
-Mixed the month Waste
+Organic Mixed Mixed Wednes- Naxxar Glass
+Waste Waste Waste day of the
+Mixed
+7.30am
+month
+Waste
 South
 Saturday Sunday Collection Eastern Monday Tuesday Wednesday Thursday Friday Glass
-time
-Region
+time Region
 Organic
 First Waste
 Organic Mixed Organic Mixed
 Paola 7.30am Friday of
 Waste Waste Waste Waste
 Mixed the month Waste
+[S.L.549.40 22 IN STREETS AND PUBLIC PLACES OR AREAS
 Northern Saturday Sunday Collection
 Monday Tuesday Wednesday Thursday Friday Glass
 Region time
@@ -356,7 +372,6 @@ Organic Mixed Organic Mixed
 Pietà 7.30am Friday of
 Waste Waste Waste Waste
 Mixed the month Waste
-[S.L.549.40 22 IN STREETS AND PUBLIC PLACES OR AREAS
 Southern Saturday Sunday Collection
 Monday Tuesday Wednesday Thursday Friday Glass
 Region time
@@ -387,6 +402,7 @@ Waste Waste Waste Friday of
 Mixed
 the month
 Waste
+[S.L.549.40 IN STREETS AND PUBLIC PLACES OR AREAS 23
 Southern Saturday Sunday Collection
 Monday Tuesday Wednesday Thursday Friday Glass
 Region time
@@ -405,7 +421,6 @@ Organic Mixed Mixed
 San Ġwann 7.00am Friday of
 Waste Waste Waste
 Mixed the month Waste
-[S.L.549.40 IN STREETS AND PUBLIC PLACES OR AREAS 23
 Southern Saturday Sunday Collection
 Monday Tuesday Wednesday Thursday Friday Glass
 Region time
@@ -430,11 +445,13 @@ Region time
 Organic Organic
 First
 Waste Waste
-Organic Mixed Mixed Monday Siġġiewi 7.00am
+Organic Mixed Mixed Monday
+Siġġiewi 7.00am
 Waste Waste Waste of the
 Mixed
 month
 Waste
+[S.L.549.40 24 IN STREETS AND PUBLIC PLACES OR AREAS
 Central Saturday Sunday Collection
 Monday Tuesday Wednesday Thursday Friday Glass
 Region time
@@ -457,9 +474,9 @@ Organic Mixed Mixed
 St. Julians 7.30am Friday of
 Waste Waste Waste
 Mixed the month Waste
-[S.L.549.40 24 IN STREETS AND PUBLIC PLACES OR AREAS
 Northern Saturday Sunday Collection
-Monday Tuesday Wednesday Thursday Friday Glass Region time
+Monday Tuesday Wednesday Thursday Friday Glass
+Region time
 Organic
 Organic 7.00am
 Waste
@@ -470,11 +487,19 @@ Mixed
 the month
 Waste 8.00am
 Northern Saturday Sunday Collection
-Monday Tuesday Wednesday Thursday Friday Glass Region time
-Organic Organic Waste Waste
-Organic Mixed Mixed Alternate Swieqi 8.00am
-Waste Waste Waste Fridays
-Mixed Waste
+Monday Tuesday Wednesday Thursday Friday Glass
+Region time
+Organic Organic
+8.00am
+Waste Waste
+Alternate
+Organic Mixed Mixed
+Swieqi Wednes- Glass
+Waste Waste Waste
+Mixed day
+9.00am
+Waste
+[S.L.549.40 IN STREETS AND PUBLIC PLACES OR AREAS 25
 Central Saturday Sunday Collection
 Monday Tuesday Wednesday Thursday Friday Glass Region time
 Organic Organic Waste Waste
@@ -485,12 +510,14 @@ South
 Saturday Sunday Collection Eastern Monday Tuesday Wednesday Thursday Friday Glass
 time Region
 Organic
+7.00am
 First Waste
-Organic Mixed Organic Mixed
-Tarxien 7.00am Friday of
-Waste Waste Waste Waste
-Mixed the month Waste
-[S.L.549.40 IN STREETS AND PUBLIC PLACES OR AREAS 25
+Organic Mixed Organic Mixed Tuesday Tarxien Glass
+Waste Waste Waste Waste of the
+Mixed
+8.00am
+month
+Waste
 South
 Saturday Sunday Collection Eastern Monday Tuesday Wednesday Thursday Friday Glass
 time Region
@@ -513,15 +540,16 @@ Organic Mixed Organic Mixed
 Xgħajra 7.30am Friday of
 Waste Waste Waste Waste
 Mixed the month Waste
+[S.L.549.40 26 IN STREETS AND PUBLIC PLACES OR AREAS
 South
 Saturday Sunday Collection Eastern Monday Tuesday Wednesday Thursday Friday Glass
 time Region
-Organic
-First Waste
-Organic Mixed Organic Mixed
-Żabbar 7.00am Friday of
-Waste Waste Waste Waste
-Mixed the month Waste
+First Organic Organic
+and third Waste Waste
+Organic Mixed Mixed
+Żabbar Tuesday
+Waste Waste Waste
+Mixed of the Waste month
 Southern Saturday Sunday Collection
 Monday Tuesday Wednesday Thursday Friday Glass Region time
 Organic
@@ -530,11 +558,9 @@ Organic Mixed Organic Mixed
 Żebbuġ 7.00am Friday of
 Waste Waste Waste Waste
 Mixed the month Waste
-[S.L.549.40 26 IN STREETS AND PUBLIC PLACES OR AREAS
 South
 Saturday Sunday Collection Eastern Monday Tuesday Wednesday Thursday Friday Glass
-time
-Region
+time Region
 Organic
 First Waste
 Organic Mixed Organic Mixed
@@ -542,14 +568,14 @@ Organic Mixed Organic Mixed
 Waste Waste Waste Waste
 Mixed the month Waste
 Southern Saturday Sunday Collection
-Monday Tuesday Wednesday Thursday Friday Glass
-Region time
+Monday Tuesday Wednesday Thursday Friday Glass Region time
 Organic
 Alternate Waste
 Organic Mixed Organic Mixed
 Żurrieq 8.00am Thurs-
 Waste Waste Waste Waste
 Mixed days Waste
+[S.L.549.40 IN STREETS AND PUBLIC PLACES OR AREAS 27
 Local Councils in Gozo
 Gozo Collection
 Monday Tuesday Wednesday Thursday Friday Saturday Sunday Glass Region Time
@@ -568,10 +594,8 @@ Organic
 First Waste Għajn- Organic Mixed Organic Mixed
 8.00am Friday of sielem Waste Waste Waste Waste
 Mixed the month Waste
-[S.L.549.40 IN STREETS AND PUBLIC PLACES OR AREAS 27
 Gozo Collection
-Monday Tuesday Wednesday Thursday Friday Saturday Sunday Glass
-Region Time
+Monday Tuesday Wednesday Thursday Friday Saturday Sunday Glass Region Time
 Organic
 7.00am
 Waste
@@ -584,14 +608,13 @@ the month
 September) Mixed Saturday
 Waste 10.30am
 Gozo Collection
-Monday Tuesday Wednesday Thursday Friday Saturday Sunday Glass
-Region Time
+Monday Tuesday Wednesday Thursday Friday Saturday Sunday Glass Region Time
 Mixed Organic
 Waste (from First Waste
-Organic Mixed Organic
-Għasri July 7.00am Friday of
+Organic Mixed Organic Għasri July 7.00am Friday of
 Waste Waste Waste
 Mixed to the month Waste September)
+[S.L.549.40 28 IN STREETS AND PUBLIC PLACES OR AREAS
 Gozo Collection
 Monday Tuesday Wednesday Thursday Friday Saturday Sunday Glass
 Region Time
@@ -618,7 +641,6 @@ the month
 3.00pm
 Waste Waste Waste Waste
 *To be collected only from July to September.
-[S.L.549.40 28 IN STREETS AND PUBLIC PLACES OR AREAS
 Gozo Collection
 Monday Tuesday Wednesday Thursday Friday Saturday Sunday Glass
 Region Time
@@ -637,6 +659,7 @@ Organic Mixed Organic
 Nadur 10.30am Friday of Waste
 Waste Waste Waste
 Mixed the month Waste
+[S.L.549.40 IN STREETS AND PUBLIC PLACES OR AREAS 29
 Gozo Collection
 Monday Tuesday Wednesday Thursday Friday Saturday Sunday Glass
 Region Time
@@ -650,7 +673,8 @@ Gozo Collection
 Monday Tuesday Wednesday Thursday Friday Saturday Sunday Glass
 Region Time
 Organic
-First Waste Victoria/ Organic Mixed Organic Mixed
+First Waste
+Victoria/ Organic Mixed Organic Mixed
 7.00am Friday of Rabat Gozo Waste Waste Waste Waste
 Mixed the month Waste
 Gozo Collection
@@ -664,9 +688,9 @@ San Organic Mixed Organic Waste (from
 Mixed the month
 tember)
 Waste
-[S.L.549.40 IN STREETS AND PUBLIC PLACES OR AREAS 29
 Gozo Collection
-Monday Tuesday Wednesday Thursday Friday Saturday Sunday Glass Region Time
+Monday Tuesday Wednesday Thursday Friday Saturday Sunday Glass
+Region Time
 Organic
 Mixed
 First Waste
@@ -677,13 +701,15 @@ Mixed the month
 tember)
 Waste
 Gozo Collection
-Monday Tuesday Wednesday Thursday Friday Saturday Sunday Glass Region Time
+Monday Tuesday Wednesday Thursday Friday Saturday Sunday Glass
+Region Time
 Organic
 First Waste
 Organic Mixed Organic Mixed
 Xagħra 8.00am Friday of
 Waste Waste Waste Waste
 Mixed the month Waste
+[S.L.549.40 30 IN STREETS AND PUBLIC PLACES OR AREAS
 Gozo Collection
 Monday Tuesday Wednesday Thursday Friday Saturday Sunday Glass Region Time
 Organic
@@ -703,7 +729,6 @@ the month
 3.00pm
 Waste Waste Waste Waste
 *To be collected only from July to September
-[S.L.549.40 30 IN STREETS AND PUBLIC PLACES OR AREAS
 Gozo Collection
 Monday Tuesday Wednesday Thursday Friday Saturday Sunday Glass Region Time
 Organic
