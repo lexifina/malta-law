@@ -53,11 +53,11 @@ partially, a claim made in a Court of First
 Instance, the fees stated in sub-paragraph (1) of
 this paragraph shall also be due but shall be
 rebated by ......................................................... 50%
-(b) The amount to be paid in accordance with
-subparagraph (a) of this paragraph is to be paid
-not later than the day preceding the day of the
-first court sitting in the case, and in the event
-that such payment is not effected, such act of
+(b) The amount to be paid in accordance with sub-
+paragraph (a) of this paragraph is to be paid not
+later than the day preceding the day of the first
+court sitting in the case, and in the event that
+such payment is not effected, such act of
 procedure shall be deemed not to have been
 done.
 (c) In computing such amount, the Registrar shall,
@@ -65,10 +65,10 @@ together with the notified act concerning which
 the act is done, inform such person of the
 amount to be paid and by which date.
 (d) In the case of special summary proceedings or proceedings in the Court of Magistrates or any other proceedings where the act of procedure is filed in the Court and not in the registry, the fees due shall be paid not later than the day preceding the day of the sitting following the filing of the act, and if such payment is not effected, such act of procedure shall be deemed not to have been done.
-(e) The provisions of subparagraph (c) shall not apply in the eventualities provided for in subparagraph (d).
+(e) The provisions of sub-paragraph (c) shall not apply in the eventualities provided for in sub-paragraph (d).
 (3) Any counter-claim contained in any act of procedure stated in sub-paragraphs (1) or (2) of this paragraph shall be treated as if it is a new claim and the fees set out in sub-paragraphs (1) and (2) of this paragraph shall be levied on the counter claim and the reply thereto.
 (4) In actions for personal separation, divorce, annulment, maintenance, filiation, paternity, child abduction or custody, relating to the civil status of a person, relating to human rights or relating to general elections and in actions of possession and jactitation suits or concerning personal injury, claims for the payment of wages or claims for unjust dismissal from employment, causes respecting the execution of a promise of sale or of a promise of transfer both of movable and immovable property, causes of spoliation requesting that works be carried out under the supervision of the Court, the fees stated in this paragraph shall not apply but there shall be levied a one time fee of ................................ €100
-(5) The fees established in sub-paragraph (1) of this paragraph shall be raised by one-third on appeal, but no fee shall be due in terms of subparagraph (2) of this paragraph.
+(5) The fees established in sub-paragraph (1) of this paragraph shall be raised by one-third on appeal, but no fee shall be due in terms of sub-paragraph (2) of this paragraph.
 (6) No fee shall be payable under this paragraph for any appeal filed in terms of any other law which already provides a fee to be paid for such an appeal.
 (7) In the case of appeals filed in terms of any other law for which no fee is established in terms of that law, including appeals filed in terms of articles 41 and 75 of the Environment and Development Planning Act (Cap. 504), the fees established in terms of this paragraph shall not be due but there shall be levied a one-time fee of ................................ €120 4 (1) When the value of a claim is uncertain or
 indeterminate and the fees stated in paragraph 3 cannot be applied, the value of the claim shall be assessed in accordance with the following rules:
@@ -750,8 +750,8 @@ fees specified in paragraph 10;
 instructions, prepared sketch designs, made an approximate estimate of the cost, submitted applications for building and/or other licences, and prepared working drawings and specifications, the fee shall amount to two-thirds (2/3) of
 the fees specified in paragraph 10.
 2. The perit who has been engaged after a former one has been abandoned by, or has abandoned, his client as above shall be entitled to:
-(a) five-sixths (5/6) of the fees specified in paragraph 10 in the case contemplated in sub-paragraph 1 (a) of this paragraph;
-(b) one-half (½) of the fees specified in paragraph 10 in the case contemplated in sub-paragraph 1 (b) of this paragraph.
+(a) five-sixths (5/6) of the fees specified in paragraph 10 in the case contemplated in sub-paragraph 1(a) of this paragraph;
+(b) one-half (½) of the fees specified in paragraph 10 in the case contemplated in sub-paragraph 1(b) of this paragraph.
 12. Old Material or Material and Services provided by Client
 When building work has been executed wholly or in part with old material or where the material, labour and/or carriage is provided wholly or in part by the client, the fee of the perit shall be calculated as if the work had been executed throughout with new material and as if the material, labour and/or carriage had been paid for throughout at current cost.
 13. Services not included in Paragraph 10 and 11 Additional fees shall be payable for:
