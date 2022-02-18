@@ -8,10 +8,8 @@ The proxy for the market price per kWh referred to in regulations
 kWh as approved by the Regulator from time to time.
 The Regulator may define which cost items may be considered in
 the determination of the proxy for the market price per kWh of electricity incurred by the distribution system operator.
-The rate determined to be the proxy for the market price for the
-year 2021 shall be of:
-as from the 1st January 2021 till the 30th June 2021 of (a) seven cents and fifty-three mils (€0.07,53) per kWh;
-(b) as from the 1st July 2021 till the 31st December 2021 of seven cents and fifty-eight mils (€0.07,58) per kWh.
+The rate determined to be the proxy for the market price for the year
+2022 shall be of eight cents and eighty-five mils (€0.08,85 per kWh) per kWh.
 - Amended by: XXV. 2015.41; L.N. 370 of 2016.
 - Substituted by: L.N.119 of 2017.
-- Amended by: L.N. 158 of 2018; L.N. 172 of 2019; L.N. 17 of 2021; L.N. 297 of 2021.
+- Amended by: L.N. 158 of 2018; L.N. 172 of 2019; L.N. 17 of 2021; L.N. 297 of 2021; L.N. 87 of 2022.
