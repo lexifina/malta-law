@@ -33,7 +33,7 @@ species
 • Radiology
 • Reproduction and reproductive disorders
 • Veterinary state medicine and public health
-[S.L.437.43 OF VETERINARY SURGEONS 19
+[S.L.437.43 18 OF VETERINARY SURGEONS
 • Veterinary legislation and forensic medicine
 • Therapeutics
 • Propaedeutics
