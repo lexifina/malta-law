@@ -16,10 +16,10 @@ Part A
 - is ready to be consumed without any further preparation, such as cooking, boiling or heating,
 including food containers used for fast food or other meal ready for immediate consumption, except beverage containers, plates and packets and wrappers containing food;
 (h) Beverage containers made of expanded polystyrene, including their caps and lids;
-(i) Cups for beverages made of expanded polystyrene, including their covers and lids.
+(i) Cups for beverages made of expanded polystyrene, including their covers and lids. [S.L. 117.41 4 SINGLE-USE PLASTIC PRODUCTS
 Part B
-Beverage containers with a capacity of up to three litres, i.e. receptacles used to contain liquid, such as beverage bottles including their caps and lids and composite beverage packaging including their [S.L. 117.41 4 SINGLE-USE PLASTIC PRODUCTS
-caps and lids, but not:
+Beverage containers with a capacity of up to three litres, i.e.
+receptacles used to contain liquid, such as beverage bottles including their caps and lids and composite beverage packaging including their caps and lids, but not:
 - glass or metal beverage containers that have caps and lids
 made from plastic; and
 - beverage containers intended and used for food for
