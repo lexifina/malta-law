@@ -34,7 +34,7 @@ In emergency stations which are separated from the tunnel by a door, a clearly l
 Follow signs to emergency exits"
 Lay-bys
 The signs to indicate lay-bys should be E signs according to the Vienna Convention. Telephones and fire extinguishers shall be indicated by an additional panel or incorporated in the sign itself.
-[S.L.499.60 19 IN THE TRANS-EUROPEAN ROAD NETWORK
+[S.L.499.60 IN THE TRANS-EUROPEAN ROAD NETWORK 19
 Emergency exits
 The signs to indicate "Emergency exits" should be G signs according to the Vienna Convention. Examples are shown below:
 It is also necessary to sign the two nearest exits on the sidewalls. Examples are shown below.

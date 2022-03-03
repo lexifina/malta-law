@@ -6,7 +6,7 @@ modifications and periodic exercises
 1. Approval of the design
 1.1. The provisions of these regulations shall be applied from the preliminary design stage onward.
 1.2. Before any construction work begins, the Tunnel Manager shall compile the safety documentation described under points 2.2 and 2.3 for a tunnel at the design stage and shall consult the Safety Officer. The Tunnel Manager shall submit the safety documentation to the Authority and attach the opinion of the Safety Officer, and, or of the Inspection Entity when available.
-[S.L.499.60 15 IN THE TRANS-EUROPEAN ROAD NETWORK
+[S.L.499.60 IN THE TRANS-EUROPEAN ROAD NETWORK 15
 1.3. The design, as appropriate, shall be approved by the Authority, which shall inform the Tunnel Manager of its decision.
 2. Safety documentation
 2.1. The Tunnel Manager shall compile safety documentation for each tunnel and keep it permanently up-to-date. He shall provide a copy of the safety documentation to the Safety Officer.
@@ -53,4 +53,4 @@ incident scenarios,
 exercises for complementary results.
 (a) Full scale exercises under conditions that are as realistic as possible shall be conducted in each tunnel at least every four years. Tunnel closure will only be required if acceptable arrangements can be made for diverting traffic. Partial and, or simulation exercises shall be conducted every year in between. In areas where several tunnels are located in close proximity to each other, a full scale exercise must be conducted in at least one of those tunnels.
 (b) The Safety Officer and the emergency services shall evaluate jointly these exercises, draw up a report and make appropriate proposals.
-[S.L.499.60 17 IN THE TRANS-EUROPEAN ROAD NETWORK
+[S.L.499.60 IN THE TRANS-EUROPEAN ROAD NETWORK 17
