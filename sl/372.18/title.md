@@ -1,4 +1,4 @@
 SUBSIDIARY LEGISLATION 372.18
 PAYMENT OF PROVISIONAL TAX (P.T.) RULES
 21st March, 2000
-LEGAL NOTICE 48 of 2000, as amended by Legal Notices 204 and 268 of 2002, 425 of 2007, 426 of 2012 and 304 of 2019.
+LEGAL NOTICE 48 of 2000, as amended by Legal Notices 204 and 268 of 2002, 425 of 2007, 426 of 2012, 304 of 2019 and 99 of 2022.
