@@ -1,4 +1,4 @@
 SUBSIDIARY LEGISLATION 123.162
 DONATIONS (COMMUNITY CHEST FUND) RULES
 28th November, 2014
-LEGAL NOTICE 412 of 2014, as amended by Legal Notices 2 of 2016, 2, and 343 of 2017,321 of 2018 and 325 of 2019 and 63 of 2021.
+LEGAL NOTICE 412 of 2014, as amended by Legal Notices 2 of 2016, 2, and 343 of 2017, 321 of 2018 and 325 of 2019, 63 of 2021 and 103 of 2022.
