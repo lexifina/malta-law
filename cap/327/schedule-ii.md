@@ -1,4 +1,6 @@
 ## SCHEDULE II
+## *Regulations shall be applicable from October 2022 or later.
+## *Regulations shall be applicable from October 2025 or later.
 # schedule-ii
 STATUTES, REGULATIONS AND BYE-LAWS
 [ARTICLE 136]
@@ -191,8 +193,8 @@ Citation and interpretation
 "the Course" means a programme of study leading to a University qualification;
 "the Dean" means the Dean of a faculty or the Director of an institute, centre, or school of the University;
 "the Faculty" means a faculty, institute, centre, or school of the University;
-"the Senate" means the Senate of the University; and
-"the University" means the University of Malta. Applicability
+"the Senate" means the Senate of the University; and "the University" means the University of Malta.
+Applicability
 2. These regulations shall be applicable from September 2016 onwards.
 Courses
 3. The Courses are offered at the following levels:
@@ -200,12 +202,29 @@ Courses
 (b) Postgraduate Degrees, Diplomas, Certificates and Awards;
 (c) Undergraduate Degrees, Diplomas, Certificates and Awards; and
 (d) Non-Tertiary Courses consisting of (i) Foundation Studies Courses; (ii) Pre-Tertiary Certificate Courses; and (iii) Courses offered by the Junior College of the University.
-Students of the University
-4. Applicants to Courses may be accepted as:
-(a) regular students if they satisfy the requirements of the statutes, regulations and bye-laws, and have been judged eligible to be so admitted; or
-(b) probationary students if they possess the general entry requirements but are short of the special Course requirements by not more than one element, where an element means a difference of one grade in one subject (e.g. a grade D instead of a grade C in one subject), only when a provision regarding probationary students is included in the respective Course regulations or bye-laws; or
-(c) visiting students if they register on study-units with the intention of obtaining credits, but are not enrolled in a programme of study leading to a qualification; or
-(d) auditing students if they follow study-units without the intention of obtaining credits and are not enrolled in a programme of study leading to a qualification.
+Students of the University 4.* Applicants to Courses shall be accepted as:
+(1) regular students if they satisfy the requirements of the statutes, regulations and bye-laws, and have been judged eligible to be so admitted; or
+(2) probationary students in an undergraduate course if they:
+have reached the age of 18 by the 31st December of the year during (a)
+which the course for which they apply commences; and
+(b) are in possession of the required Secondary Education Certificate (SEC) passes at grade 5 or better in English, Maltese and Mathematics as
+indicated in regulation 12 (1) (b) of these regulations; and
+(c) have sat all six subjects as specified in regulation 5 (2) (a) as indicated
+in the Matriculation Certificate Regulations, 2013; and
+(d) have attempted to improve their Matriculation Certificate by sitting for the required subject or subjects at the MATSEC Second Session of examinations (normally held in September) of the year during which the course for which they apply commences; and
+(e) have obtained EITHER a pass grade in at least one subject from each Group 1, 2 and 3 and in Systems of Knowledge as specified in regulation 5 (2) (b) (i) and obtained between 38 and 42 points calculated as specified in regulation 5 (5) both as indicated in the Matriculation Certificate Regulations, 2013;
+OR not less than 44 grade points but lack a pass grade in one subject from one of the Groups 1, 2 or 3 or in Systems of Knowledge as specified in regulation 5 (2) (b)
+(i) of the Matriculation Examination Regulations, 2013;
+OR lack not more than a grade (such as a D instead of a C, but not an F instead of a pass grade E) in a subject or subjects indicated as special course requirements (Advanced or Intermediate level) for the course applied for, as long as they have obtained a pass grade in at least one of the subjects from each Group 1, 2 and 3 and in Systems of Knowledge as specified in regulation 5 (2) (b) (i), and not less than 38 points calculated as indicated in regulation 5 (5), both as indicated in the Matriculation Certificate Regulations, 2013,
+provided that all the provisions indicated in regulation 4 (2) of these regulations shall not be applicable to the following:
+(i) courses which are restricted to a limited number of applicants, if all places
+have been filled by fully qualified applicants. Should any places remain vacant after the results of the MATSEC Second Session of examinations, the Faculty Admissions Committee concerned shall have sole discretion to decide on the criteria for choosing applicants for admission as probationary students in terms of these regulations;
+(ii) courses that are not governed by the General Regulations for
+Undergraduate Courses; and
+(iii) courses that may be accessed through a Certificate course at level 4 of the
+Malta Qualifications Framework (MQF) designed for the purpose of providing an alternative route to a higher level Undergraduate Course, unless the Board concerned makes a specific recommendation to the Admission Board; or
+(3) visiting students if they are accepted to register on study-units with the intention of obtaining credits, but are not enrolled in a programme of study leading to a qualification; or
+(4) auditing students if they are accepted to follow study-units without the intention of obtaining credits and are not enrolled in a programme of study leading to a qualification.
 Regular Students
 5. Applicants shall be admitted as doctoral or postgraduate regular students if they satisfy the entry requirements as specified in the general regulations and the respective Course regulations or bye-laws and have been judged eligible to be so admitted.
 6. Applicants shall be admitted as undergraduate regular students if they:
@@ -218,11 +237,10 @@ Regular Students
 (g) are eligible to follow a Pre-Tertiary Certificate Course; or
 (h) are accepted by the Admissions Board to follow study-units within the Programme in the Liberal Arts and Sciences offered by the University; or
 (i) possess qualifications which fall short of those required, which shortfall in qualifications at SEC Level, the Admissions Board, on the advice of the Access Disability Support Committee, deems to have been due to a significant disability (including applicants within the Autism Spectrum and with Specific Learning Difficulties) and provided that the missing qualifications will not adversely affect the applicant's studies at University. Each application will be considered on its own merits.
-Probationary students
-7. (1) Course bye-laws may provide that probationary students shall be admitted into the first year of an undergraduate Course subject to satisfying all special conditions imposed by the Faculty to compensate for the missing element.
-(2) If probationary students progress unconditionally to the next year of the Course, including satisfying all special conditions as imposed by the Faculty, they shall thenceforth be considered as regular students.
-(3) If, by the end of the first year of the Course, probationary students do not successfully complete all the requirements to progress unconditionally to the second year, they shall be required to withdraw from the Course and shall neither be entitled to a repeat year nor to an extension year nor to progress conditionally in terms of the General Regulations for University Undergraduate Awards, 2019.
-(4) Applicants shall be admitted as probationary students once only.
+Probationary students 7.* (1) If probationary students successfully complete all study-units included in the programme of study for the first year of their Course, they shall thenceforth be considered as regular students.
+(2) If, by the end of the first academic year of the Course, probationary students do not qualify for regular progression, they shall be allowed to proceed conditionally to the second year of the course if they fulfil the requirements for conditional progression in terms of the General Regulations for Undergraduate Awards.
+(3) If, by the end of the first academic year of the Course, probationary students do not qualify for regular or conditional progression to the second year of the Course, they shall be required to withdraw from the Course and shall neither be entitled to a repeat year nor to an extension year.
+(4) Applicants shall be admitted as probationary students in the same course once only. The Admissions Board may allow applicants to be admitted as probationary students in a second or subsequent course, if, after examining the applicant's academic record at the University, it is deemed that the applicant merits another such opportunity. Such applicants may also be required to attend an interview.
 Visiting students
 8. (1) Visiting students may register for:
 (a) individual study-units that are offered within University pre-tertiary, undergraduate and postgraduate Courses, subject to approval by the Faculty; and
@@ -236,10 +254,11 @@ Auditing students
 9. (1) The University may allow individuals with particular interests to widen their knowledge by attending study-units as auditing students.
 (2) Auditing students may be admitted to follow study-units provided the lecturer concerned poses no objection thereto and is satisfied that the individual has the necessary academic background to follow the study-units with profit.
 (3) Auditing students shall be entitled to the rights and privileges accorded to regular students, but may not sit for any assessments of the University. The University may withdraw permission previously granted by it to any auditing students to follow study-units at any time. Auditing students may be charged an administrative service fee.
-Junior Students of the University
-10. Applicants may be admitted to the University as Junior Students at the Junior College of the University if they:
-either (a) are in possession of six passes in the Secondary Education Certificate (SEC) examination at grade 5 or better, which subjects must include Maltese, English Language, Mathematics, and one of Biology, Chemistry, or Physics;
-or (b) possess SEC qualifications which fall short of those required, which shortfall the Admissions Board, on the advice of the Access Disability Support Committee, deems to have been due to a significant disability (including applicants within the Autism Spectrum and with Specific Learning Difficulties) and provided that the missing qualifications will not adversely affect the applicant's studies at the Junior College. Each application shall be considered on its own merits.
+Junior Students of the University 10.* Applicants may be admitted to the University as Junior Students at the Junior College of the University if they:
+either (a) are in possession of six passes in the Secondary Education
+Certificate (SEC) examination at grade 5 or better, provided that one of the subjects must be Maltese, English Language or Mathematics. Students missing one or two subjects from Maltese, English Language or Mathematics must attend preparatory classes at the Junior College in order to satisfy the General Entry Requirements as specified in Regulation 12 of these regulations;
+or (b) possess SEC qualifications which fall short of those required, which
+shortfall the Admissions Board, on the advice of the Access Disability Support Committee, deems to have been due to a significant disability (including applicants within the Autism Spectrum and with Specific Learning Difficulties) and provided that the missing qualifications will not adversely affect the applicant's studies at the Junior College. Each application shall be considered on its own merits.
 The Admissions Board
 11. (1) The Admissions Board shall be composed of the following members:
 The Rector or his nominated delegate, as ex officio Chairman;
@@ -257,7 +276,8 @@ a Course, to which such applicant may be admitted;
 (d) advise Senate on all matters regarding admission to the University and to programmes of study.
 (4) Where the Admissions Board has reason to believe that the presence of an applicant within the University community could present a clear and present danger to the well-being and safety of students and staff, or a significant risk that their safety be imperilled, or that activities on campus be disrupted, the Board shall on the basis of available evidence have the option to refuse admission, or to grant admission subject to appropriate safeguards which shall be decided upon on an ad hoc basis, or to delay admission until expert advice is obtained. For the avoidance of doubt, evidence could also take the form of expert advice documented in a sworn affidavit.
 Entry Requirements for Undergraduate Courses
-12. (1) General Entry Requirements. Subject to any other provision of these regulations, the general entry requirements are the following:
+12.* (1)
+General Entry Requirements. Subject to any other provision of these regulations, the general entry requirements are the following:
 (a) the Matriculation Certificate, which is awarded to candidates who pass examinations in a range of subjects that includes a language, a humanistic, and a science subject, and Systems of Knowledge, as
 specified in the Matriculation Examination Regulations; and
 (b) passes in the Secondary Education Certificate at grade 5 or better in Maltese, English Language and Mathematics, provided that if a pass in Maltese, and, or English Language, and, or Mathematics is obtained at Advanced or Intermediate Matriculation Level, a pass in such subjects in the Secondary Education Certificate Examination is not required.
@@ -273,24 +293,32 @@ programme of study may specify other requirements in addition to the general ent
 another language as approved by the Admissions Board,
 provided that, as from September 2018 such other language cannot be English and applicants whose mother tongue is English shall be required to offer a language other than English instead of Maltese.
 (6) Notwithstanding that provided in sub-regulation (5), where Course regulations or bye-laws specify Maltese as a special Course requirement, the required pass in Maltese must be obtained at the level and grade as stipulated in the respective Course regulations or bye-laws.
+Maltese as a Requirement 13.* (1) Further to the requirement of Maltese at Secondary Education Certificate level for admittance to the Junior College as specified in regulation 10 or for admittance to the University Undergraduate courses as specified in regulation 12, the Admissions Board may, in special circumstances and subject to the conditions set out hereunder, allow an applicant to offer another language instead of Maltese, as follows:
+(a) a Maltese applicant, who has lived and studied abroad for a significant
+period during the previous four years, and has not received adequate teaching in Maltese.
+(b) a Non-Maltese applicant, who pursued at least four years of
+compulsory secondary level schooling in Malta, may present a pass at Grade 5 or better in Il-Malti bħala Lingwa Barranija (SEC) for admission.
+(c) a Non-Maltese applicant, who pursued less than four years of
+compulsory secondary level schooling in Malta, may present either a pass at Grade 5 or better in Il-Malti bħala Lingwa Barranija (SEC) or in another language at SEC level at grade 5 or better or at a comparable level.
+(2) Notwithstanding that provided in paragraph (1) of this regulation, where for admittance to the University Undergraduate courses, course regulations or bye-laws specify Maltese as a special Course requirement, the required pass in Maltese must be obtained at the level and grade as stipulated in the respective Course regulations or bye-laws.
 Proficiency and Aptitude Tests
-13. (1) The regulations or bye-laws of undergraduate or postgraduate Courses may require applicants to:
+14. (1) The regulations or bye-laws of undergraduate or postgraduate Courses may require applicants to:
 (a) pass a proficiency test in one or more subject/s, as approved by the Faculty offering the Course; and, or
 (b) pass an aptitude test.
 (2) Senate, on the advice of the Board, shall appoint a Board of Examiners for aptitude and proficiency tests.
 Recognition and Accreditation of Prior Learning (RPL)
-14. (1) Adult Learners may access a Course of study based on knowledge, skills and competencies acquired through prior learning and experientially. Such applicants shall receive adequate support from the RPL Administrative Office to enable them to identify and collect all the evidence required for the validation of their prior informal and/or non-formal learning.
+15. (1) Adult Learners may access a Course of study based on knowledge, skills and competencies acquired through prior learning and experientially. Such applicants shall receive adequate support from the RPL Administrative Office to enable them to identify and collect all the evidence required for the validation of their prior informal and/or non-formal learning.
 (2) RPL applications shall typically be assessed by only one RPL assessor, provided that if the application relates to more than one major area of study more assessors may be involved.
 (3) Once an application has been assessed, the RPL assessor/s shall submit a detailed report to the Faculty Admissions Committee which will subsequently submit its recommendation to the Board for a final decision.
 Further Provisions
-15. (1) Admission to a Course after its Commencement. An applicant who is qualified for admission to the University as a regular student may be allowed by the Admissions Board, subject to any conditions it may impose, to join a Course in its second year or any following year.
+16. (1) Admission to a Course after its Commencement. An applicant who is qualified for admission to the University as a regular student may be allowed by the Admissions Board, subject to any conditions it may impose, to join a Course in its second year or any following year.
 (2) (a) Concurrent Courses. Unless with the special permission of the Senate, a
 student may not register concurrently for more than one Course leading to a degree, diploma or certificate, except in the cases listed in paragraph (b).
 (b) Students may be allowed to register for any concurrent courses, if the student's workload does not exceed 75 ECTS credits per academic year in the case of full-time students or if the student's workload does not exceed 45 ECTS credits per academic year in the case of part-time students.
 (3) A student who discontinues a Course or is not permitted by the relevant Course regulations or bye-laws, to continue a Course, shall not be allowed to re-register as a student in any Course before the lapse of one year from the effective date of such discontinuation, unless with the permission of the Admissions Board.
 (4) Exceptionally, and for objective reasons, Course bye-laws may specify a minimum age for admission, as approved by Senate.
 Applications for Admission
-16. (1) Applicants wishing to join Courses in terms of these regulations shall apply by the prescribed dates unless, in special circumstances, with the permission of the Admissions Board.
+17. (1) Applicants wishing to join Courses in terms of these regulations shall apply by the prescribed dates unless, in special circumstances, with the permission of the Admissions Board.
 (2) Applicants shall submit all supporting documents, including an original recent Police Good Conduct Certificate, if required, within the deadline stipulated by the Office of the Registrar. Should they fail to do so, applicants shall be considered as no longer interested to pursue the Course/s they applied for.
 (3) (a) For Courses which involve work with vulnerable persons, applicants
 shall submit an original recent Police Good Conduct Certificate. A list of such Courses shall be approved by Senate and shall be published at the time of call for applications.
