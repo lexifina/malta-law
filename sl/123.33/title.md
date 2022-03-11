@@ -3,4 +3,4 @@ SUBSIDIARY LEGISLATION 123.33
 DOUBLE TAXATION RELIEF ON TAXES ON INCOME WITH THE REPUBLIC OF POLAND
 ORDER
 24th November, 1994
-LEGAL NOTICE 28 of 1995, as amended by Legal Notice 14 of 2012 and as modified by S.L.123.183.
+LEGAL NOTICE 28 of 1995, as amended by Legal Notices 14 of 2012 and 64 of 2021 as modified by S.L.123.183.
