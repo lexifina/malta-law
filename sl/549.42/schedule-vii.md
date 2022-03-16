@@ -5,13 +5,15 @@ Beaches protected under regulation 18(2)(a) and (c)
 Malta:
 a. Armier bay, as per site plan attached hereto;
 b. Anchor bay, as per site plan attached hereto;
-c. G]ajn Tuffie]a bay, as per site plan attached hereto;
+c. Għajn Tuffieħa bay, as per site plan attached hereto;
 d. Paradise bay, as per site plan attached hereto;
-e. {nejna bay, as per site plan attached hereto;
+e. Ġnejna bay, as per site plan attached hereto;
 f. Golden bay, as per site plan attached hereto.
 Gozo:
-a. M[arr ix-Xini bay; as per site plan attached hereto;
-b. Ramla l-}amra beach; as per site plan attached hereto;
+a. Mġarr ix-Xini bay; as per site plan attached hereto;
+b. Ramla l-Ħamra beach; as per site plan attached hereto;
 c. San Blas bay, as per site plan attached hereto;
-d. Xatt l-a]mar beach, as per site plan attached hereto;
+d. Xatt l-aħmar beach, as per site plan attached hereto;
 e. Xlendi bay, as per site plan attached hereto.
+- Substituted by: L.N. 39 of 2007.
+- Amended by: L.N. 341 of 2013.

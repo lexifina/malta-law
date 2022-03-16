@@ -1,6 +1,6 @@
 ## SCHEDULE IX
 # schedule-ix
-Regulation 27(2)
+[Regulation 27(2)]
 Non-Schedule I species subject to special protection
 ANSERIFORMES
 Anatidae
@@ -13,14 +13,14 @@ Accipitridae
 Accipiter gentilis Falkun Goshawk
 Accipiter nisus Sparvier Eurasian Sparrowhawk
 Buteo buteo Kuċċarda prima Common Buzzard
-Buteo lagopus Kuċċarda tal-Kalzetti Rough-legged Buzzard Falconidae
+Buteo lagopus Kuċċarda tal-Kalzetti Rough-legged Buzzard
+Falconidae
 Falco concolor Żumbrell Għarbi Sooty Falcon
 Falco subbuteo Seqer tal-Ħannieqa Eurasian Hobby
 Falco tinnunculus Spanjulett Common Kestrel
 GRUIFORMES
 Rallidae
-Porphyrio alleni Faġan tal-Baħar Afrikan Allen's Gallinule
-PELECANIFORMES
+Porphyrio alleni Faġan tal-Baħar Afrikan Allen's Gallinule PELECANIFORMES
 Ardeidae
 Ardea cinerea Russett Griż Grey Heron
 Bubulcus ibis Agrett tal-Bhejjem Cattle Egret

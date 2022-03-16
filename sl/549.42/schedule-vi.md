@@ -20,3 +20,4 @@ General Licence Conditions
 (h) has submitted his application for the renewal of his licence to the Wild Birds Regulation Unit within one year from the date of expiry of his licence.
 3. The general licence shall immediately cease to be valid and the person shall not hunt or attempt to hunt or take or attempt to take birds during such time that the person concerned is in default of any of the requirements stipulated in paragraph 2 of this Schedule during the five-year validity period of the licence:
 Provided that where the person concerned rectifies his default as referred in this paragraph during the five year period of validity of his licence, the validity of the licence would be reinstated.
+- Substituted by: L.N. 341 of 2013; L.N. 69 of 2016.

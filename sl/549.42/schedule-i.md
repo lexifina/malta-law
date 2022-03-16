@@ -140,10 +140,10 @@ Charadriidae
 Charadrius alexandrinus
 Charadrius morinellus (Eudromias morinellus)
 Pluvialis apricaria
-Hoplopterus spinosus
-Scolopacidae
+Hoplopterus spinosus Scolopacidae
 Calidris alpina schinzii
-Philomachus pugnax Gallinago media
+Philomachus pugnax
+Gallinago media
 Limosa lapponica
 Numenius tenuirostris
 Tringa glareola
@@ -175,11 +175,11 @@ Columbidae
 Columba palumbus azorica
 Columba trocaz
 Columba bollii
-Columba junoniae
-STRIGIFORMES
+Columba junoniae STRIGIFORMES
 Strigidae
 Bubo bubo
-Nyctea scandiaca Surnia ulula
+Nyctea scandiaca
+Surnia ulula
 Glaucidium passerinum
 Strix nebulosa
 Strix uralensis
@@ -211,8 +211,7 @@ Alaudidae
 Chersophilus duponti
 Melanocorypha calandra
 Calandrella brachydactyla
-Galerida theklae
-Lullula arborea
+Galerida theklae Lullula arborea
 Motacillidae
 Anthus campestris
 Troglodytidae
@@ -246,8 +245,7 @@ Certhia brachydactyla dorotheae
 Laniidae
 Lanius collurio
 Lanius minor
-Lanius nubicus
-Corvidae
+Lanius nubicus Corvidae
 Pyrrhocorax pyrrhocorax
 Fringillidae (Fringillinae)
 Fringilla coelebs ombriosa
@@ -260,3 +258,5 @@ Emberizidae (Emberizinae)
 Emberiza cineracea
 Emberiza hortulana
 Emberiza caesia
+- Amended by: L.N. 39 of 2007.
+- Substituted by: L.N. 283 of 2010.

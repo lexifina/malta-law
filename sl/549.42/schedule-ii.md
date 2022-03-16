@@ -15,15 +15,15 @@ Anas acuta
 Anas querquedula
 Anas clypeata
 Aythya ferina
-Aythya fuligula
-GALLIFORMES
+Aythya fuligula GALLIFORMES
 Tetraonidae
 Lagopus lagopus hibernicus
 Lagopus lagopus scoticus
 Lagopus mutus
 Phasianidae
 Alectoris graeca
-Alectoris rufa Coturnix coturnix
+Alectoris rufa
+Coturnix coturnix
 Perdix perdix
 Phasianus colchicus
 GRUIFORMES
@@ -73,3 +73,7 @@ Anas querquedula
 Anas clypeata
 Aythya ferina
 Aythya fuligula.
+- Substituted by: L.N. 39 of 2007.
+- Amended by: L.N. 280 of 2007.
+- Substituted by: L.N. 283 of 2010.
+- Amended by: L.N. 69 of 2016.
