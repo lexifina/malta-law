@@ -3,3 +3,4 @@ NUMBER OF PERSONS IN PUBLIC SPACES
 REGULATIONS
 19th August, 2020
 LEGAL NOTICE 337 of 2020, as amended by Legal Notice 380 and 408 of 2020 and 89, 126, 182 and 238 of 2021.
+Repealed by Legal Notice 115 of 2022.

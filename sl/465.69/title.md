@@ -5,3 +5,4 @@ VACCINATION AGAINST
 COVID-19 REQUIREMENT REGULATIONS
 17th January, 2022
 LEGAL NOTICE 8 of 2022, as amended by Legal Notices 48 and 71 of 2022.
+Repealed by Legal Notice 115 of 2022.
