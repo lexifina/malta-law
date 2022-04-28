@@ -1,4 +1,4 @@
 SUBSIDIARY LEGISLATION 123.21
 INCOME TAX EXEMPTION ORDER
 2nd April, 2002
-LEGAL NOTICE 78 of 2002, as amended by Legal Notice 181 of 2015.
+LEGAL NOTICE 78 of 2002, as amended by Legal Notices 181 of 2015 and 120 of 2022.
