@@ -3,3 +3,4 @@ CLOSURE OF CERTAIN PLACES OF
 ENTERTAINMENT REGULATIONS
 19th August, 2020
 LEGAL NOTICE 336 of 2020, as amended by Legal Notice 74 of 2021.
+Repealed by Legal Notice 125 of 2022.

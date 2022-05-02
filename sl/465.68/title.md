@@ -4,3 +4,4 @@ CLOSURE OF ENGLISH LANGUAGE TEACHING
 SCHOOLS ORDER
 14th July, 2021
 LEGAL NOTICE 299 of 2021, as amended by Legal Notice 314 of 2021.
+Repealed by Legal Notice 125 of 2022.

@@ -3,3 +3,4 @@ MANDATORY USE OF MEDICAL OR
 CLOTH MASKS REGULATIONS
 8th August, 2020
 LEGAL NOTICE 326 of 2020, as amended by Legal Notice 327, 335 and 402 of 2020, 82, 223, 275, 471 of 2021, 9, 106 and 119 of 2022.
+Repealed by Legal Notice 125 of 2022.

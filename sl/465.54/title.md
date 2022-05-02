@@ -3,3 +3,4 @@ CLOSURE OF FOOD AND DRINK OUTLETS
 REGULATIONS
 5 th March, 2021
 LEGAL NOTICE 75 of 2021, as amended by Legal Notice 79, 92, 140, 205, 219, 239, 276, 382, 502 of 2021, 6, 76 and 102 of 2022.
+Repealed by Legal Notice 125 of 2022.

@@ -2,3 +2,4 @@ SUBSIDIARY LEGISLATION 465.64
 CLOSURE OF SCHOOLS ORDER
 12th March 2021
 LEGAL NOTICE 97 of 2021, as amended by Legal Notice 102 of 2021.
+Repealed by Legal Notice 125 of 2022.
