@@ -3,4 +3,5 @@ SUBSIDIARY LEGISLATION 465.23
 PERIOD OF QUARANTINE (CONTACT WITH OTHER
 PERSONS) ORDER
 17th March, 2020
-LEGAL NOTICE 78 of 2020, as amended by Legal Notice 253 of 2020.
+LEGAL NOTICE 78 of 2020, as amended by Legal Notices 253 of 2020, 332 and 510 of 2021.
+Repealed by Legal Notice 125 of 2022.
