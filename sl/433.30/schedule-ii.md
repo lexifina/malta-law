@@ -14,8 +14,7 @@ The previous cropping of the field shall not have been incompatible with the pro
 4. Field and crop inspections
 The satisfaction of all the standards or other conditions mentioned in this Schedule, shall, in the case of basic seed, be examined in official field inspections and, in the case of certified seed, be examined either in official field inspections or in inspections carried out under official supervision.
 These field inspections shall be carried out in accordance with the following conditions:
-(a) The condition and the stage of development of the crop shall permit
-an adequate examination;
+(a) The condition and the stage of development of the crop shall permit an adequate examination;
 (b) The number of field inspections shall be at least:
  for Avena nuda, Avena sativa, Avena strigosa, Hordeum
 vulgare, Phalaris canariensis, xTriticosecale, Triticum aestivum subsp. aestivum, Triticum turgidum subsp. durum, Triticum aestivum subsp. spelta, Secale cereale: 1
@@ -79,8 +78,8 @@ Table 1.6:
 Minimum
 Crop
 distance
-1 2 Phalaris canariensis, and Secale cereale other than hybrids: - for the production of basic seed 300m - for the production of certified seed 250m Sorghum spp. - for the production of basic seed (*) 400m - for the production of certified seed (*) 200m x Triticosecale, self-pollinating varieties: - for the production of basic seed 50m
-- for the production of certified seed 20m Zea mays 200m
+1 2 Phalaris canariensis, and Secale cereale other than hybrids: - for the production of basic seed 300m - for the production of certified seed 250m Sorghum spp. - for the production of basic seed (*) 400m - for the production of certified seed (*) 200m
+x Triticosecale, self-pollinating varieties: - for the production of basic seed 50m - for the production of certified seed 20m Zea mays 200m
 (*) In the areas where the presence of S. halepense or S. bicolor subsp. drummondii is a particular cross-pollination issue, the following shall apply:
 (a) crops to produce basic seed of Sorghum bicolor subsp. bicolor or its hybrids must be isolated not less than 800 m from any source of such contaminating pollen;
 (b) crops to produce certified seed of Sorghum bicolor subsp. bicolor or its hybrids must be isolated not less than 400 m from any source of such contaminating pollen.
@@ -105,7 +104,7 @@ Minimum
 Crop
 distance
 1 2 For the production of basic seed - where the male sterility is used 1000m - where male sterility is not used 600m For the production of certified seed 500m
-C. Crops to produce certified seed of hybrids of Avena nuda, Avena sativa, Avena strigosa, Triticum aestivum subsp. aestivum, Triticum turgidum subsp. durum, Triticum aestivum subsp. spelta and self-pollinating xTriticosecale and crops to produce certified seed of hybrids of Hordeum vulgare by means of a technique other than Cytoplasmic Male Sterility (CMS)
+C. Crops to produce certified seed of hybrids of Avena nuda, Avena sativa, Avena strigosa and self-pollinating xTriticosecale and crops to produce certified seed of hybrids of Hordeum vulgare, Triticum aestivum subsp. aestivum, Triticum aestivum subsp. spelta and Triticum turgidum subsp. durum, by means of a technique other than Cytoplasmic Male Sterility (CMS):
 1. Varietal identity and varietal purity
 The crop shall have sufficient identity and purity as regards the characteristics of the components.
 Where seed is produced by use of a chemical hybridisation agent, the crop shall conform to the following other standards or conditions:
@@ -139,6 +138,26 @@ CMS female component is a single hybrid.
 - 99.5% for crops used to produce certified seed.
 (iii) The requirements of points (i) and (ii) shall be examined in official post-control test.
 (c) Certified seed may be produced in mixed cultivation of female male-sterile component with a male component which restores fertility.
+4. Crops to produce basic and certified seed of hybrids of Triticum aestivum subsp. aestivum, Triticum aestivum subsp. spelta and Triticum turgidum subsp. durum by means of CMS:
+(a) The crop shall conform to the following standards as regards distances from neighbouring sources of pollen, which may result in undesirable foreign pollination:
+Crop Minimum distance
+1 2
+For the CMS female component for the 300m production of basic seed For the production of certified seed 25m
+(b) The crop shall have sufficient varietal identity and purity as regards the characteristics of the components.
+In particular, the crop shall conform to the following standards:
+(i) The percentage by number of plants, which are obviously not true to type, shall not exceed:
+- for the crops used to produce basic seed, 0.1% for the
+maintainer and the restorer line and 0.3% for the CMS
+female component, and
+- for the crops used to produce certified seed, 0.3% for the
+restorer and 0.6% for the CMS female component and 1% in case the CMS female component is a single hybrid;
+(ii) The level of male sterility of the female component shall be at least:
+- 99.7% for crops used to produce basic seed, and
+- 99% for crops used to produce certified seed;
+(iii) The conformity with the requirements of points (i) and (ii)
+shall be examined by official post-control test.
+(c) Certified seed may be produced in mixed cultivation of a female male-sterile component with a male component, which restores fertility.
+The Directorate shall report by 28 February of each year to the Commission and the other Member States the results of the preceding year concerning the quantity of produced hybrid seeds, compliance of the field inspections with the respective requirements, the percentage of seed lots, which have been rejected due to insufficient quality parameters, and any further information justifying that rejection This reporting obligation shall be applicable until 28 February 2030.
 II. Fodder Plants
 Basic seed, certified seed, certified seed of the first and second generations
 1. Varietal identity and varietal purity
