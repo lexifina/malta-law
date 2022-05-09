@@ -4,3 +4,4 @@ TRAVEL BAN
 (EXTENSION TO ALL COUNTRIES) ORDER
 21st March, 2020
 LEGAL NOTICE 92 of 2020, as amended by Legal Notices 244, 255 280, 290, 388 and 472 of 2020, 196, 255, 271, 301, 316, 369, 393, 465 of 2021, 77, 91, 101, 113 and 123 of 2022.
+Repealed by Legal Notice 134 of 2022.
