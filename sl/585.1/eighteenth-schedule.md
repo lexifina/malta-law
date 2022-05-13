@@ -6,8 +6,8 @@ ACCEPTANCE TEST IS PERFORMED:
 (a) Full equipment details including
 • type of equipment • manufacturer • model • serial numbers • year of manufacture • year of Installation • for x-ray equipment: Max KV. Max mA • location of equipment
 (b) Particulars of the test
-• reason for performing test • person(s) performing test • date of test • name of standard followed • specified tolerances, manufactures specification and other reference documents
-if appropriate
+• reason for performing test • person(s) performing test • date of test • name of standard followed • specified tolerances, manufactures specification and other reference docu-
+ments if appropriate
 • details of test equipment used, including calibration dates
 (c) Previous tests
 • Details of any on-site/factory tests performed by manufacturer and results of

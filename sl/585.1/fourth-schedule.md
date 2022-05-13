@@ -38,7 +38,7 @@ Use of sealed sources and x-ray generators for thickness gauging, density gaugin
 Use of radioactive sources to eliminate static electricity
 (vi) Illumination
 (a) Use and repair of gaseous tritium light sources for illumination, in safety signs and equipment, sighting and location markers, watches and instruments.
-Use of radioluminous paint (tritium and promethium-147) for the (b) luminising of timepieces and the repair of radioluminised timepieces.
+Use of radioluminous paint (tritium and promethium-147) for the luminising (b) of timepieces and the repair of radioluminised timepieces.
 (vii) Security screening
 Use of x-rays, gamma rays to examine packages, baggage, containers or vehicles.
 4. Other Practices
@@ -54,4 +54,3 @@ Use of ionising radiation in radiography
 (vi) Safety devices
 (vi) Import or export of equipment that can produce ionising radiation
 Use of ionising radiation in smoke and fire detectors and other safety instruments
-- Amended by: L.N. 184 of 2020.

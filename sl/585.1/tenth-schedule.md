@@ -30,4 +30,3 @@ The response to an emergency exposure situation shall be undertaken through the 
 (2) Assessing the effectiveness of strategies and implemented actions and adjusting them as appropriate to the prevailing situation;
 (3) Comparing the doses against the applicable reference level, focusing on those groups whose doses exceed the reference level;
 (4) Implementing further protection strategies, as necessary, based on prevailing conditions and available information.
-- Amended by: L.N. 184 of 2020.
