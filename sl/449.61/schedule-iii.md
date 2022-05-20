@@ -1,19 +1,25 @@
 ## SCHEDULE III
 # schedule-iii
-MONITORING FOR INDICATIVE DOSE AND ANALYTICAL
-PERFORMANCE CHARACTERISTICS
+MONITORING FOR INDICATIVE DOSE AND
+ANALYTICAL PERFORMANCE
+CHARACTERISTICS
 1. Monitoring for compliance with the ID
-The competent authority may require the water utilities and, or
+the competent authority shall require the water utilities and, or
 private water suppliers to use various reliable screening strategies to indicate the presence of radioactivity in water intended for human consumption. These strategies may include screening for certain radionuclides, or screening for an individual radionuclide, or gross alpha activity or gross beta activity screening.
 (a) screening for certain radionuclides, or screening for an individual radionuclide:
 if one of the activity concentrations exceeds 20% of the corresponding derived value or the tritium concentration exceeds its parametric value listed in Schedule I, an analysis of additional radionuclides shall be required. The radionuclides to be measured shall be defined by the competent authority taking into account all relevant information about likely sources of radioactivity;
 (b) screening strategies for gross alpha activity and gross beta activity:
-the competent authority may require the water utility and, or private water supplier to use screening strategies for gross alpha activity and gross beta activity* to monitor for the parametric indicator value for ID.
-For this purpose gross alpha activity or gross beta activity
-screening levels shall be set. The recommended screening level for gross alpha activity is 0,1 Bq/l. The recommended screening level for gross beta activity is 1,0 Bq/l.
-If the gross alpha activity and gross beta activity are less than 0,1
-Bq/l and 1,0 Bq/l respectively, the competent authority may assume that the ID is less than the parametric value of 0,1 mSv and radiological investigation is not needed unless it is known from other sources of information that specific radionuclides are present in the water that are liable to cause an ID in excess of 0,1 mSv. SUBSTANCES IN WATER INTENDED FOR HUMAN
+the competent authority may require the water utility and, or private water supplier to use screening strategies for gross alpha activity and gross beta activity* to monitor for the parametric indicator value for ID:
+SUBSTANCES IN WATER INTENDED FOR HUMAN
 [S.L.449.61 CONSUMPTION) 9
+Provided that the screening levels for gross alpha
+activity or gross beta activity should be as follows:
+The screening level for gross alpha activity should not
+exceed 0,1 Bq/1.
+The screening level for gross beta activity should not exceed
+1,0 Bq/1.
+For this purpose gross alpha activity or gross beta activity screening levels shall be set. The recommended screening level for gross alpha activity is 0,1 Bq/l. The recommended screening level for gross beta activity is 1,0 Bq/l.
+If the gross alpha activity and gross beta activity are less than 0,1 Bq/l and 1,0 Bq/l respectively, the competent authority may assume that the ID is less than the parametric value of 0,1 mSv and radiological investigation is not needed unless it is known from other sources of information that specific radionuclides are present in the water that are liable to cause an ID in excess of 0,1 mSv.
 If the gross alpha activity exceeds 0,1 Bq/l or the gross beta activity exceeds 1,0 Bq/l, analysis for specific radionuclides shall be required.
 The competent authority may set alternative screening levels for gross alpha activity and gross beta activity where they can demonstrate that the alternative levels are in compliance with an ID of 0,1 mSv.
 The radionuclides to be measured shall be defined by the competent authority taking into account all relevant information about likely sources of radioactivity. Since elevated levels of tritium may indicate the presence of other artificial radionuclides, tritium, gross alpha activity and gross beta activity should be measured in the same sample.
@@ -28,16 +34,13 @@ where
 Ci (obs) = observed concentration of radionuclide i
 Ci (der) = derived concentration of radionuclide i
 n = number of radionuclides detected.
+SUBSTANCES IN WATER INTENDED FOR HUMAN [S.L.449.61 10 CONSUMPTION)
 Derived concentrations for radioactivity in water
 intended for human consumption (2)
 Origin Nuclide Derived Concentration
 U-238 (3) Natural 3,0 Bq/l
 U-234 (3) 2,8 Bq/l
-Ra-226 0,5 Bq/l
-Ra-228 0,2 Bq/l
-Pb-210 0,2 Bq/l
-Po-210 0,1 Bq/l
-SUBSTANCES IN WATER INTENDED FOR HUMAN [S.L.449.61 10 CONSUMPTION)
+Ra-226 0,5 Bq/l Ra-228 0,2 Bq/l Pb-210 0,2 Bq/l Po-210 0,1 Bq/l
 Artificial C-14 240 Bq/l
 Sr-90 4,9 Bq/l
 Pu-239/Pu-240 0,6 Bq/l
@@ -50,11 +53,11 @@ not for its chemical toxicity
 For the following parameters and radionuclides, the method of
 analysis used must, as a minimum, be capable of measuring activity concentrations with a limit of detection specified below:
 Parameters and Limit of detection Notes radionuclides (Notes 1, 2)
-Tritium 10 Bq/l Note 3 Radon 10 Bq/l Note 3 gross alpha activity 0,04 Bq/l Note 4 gross beta activity 0,4 Bq/l Note 4 U-238 0,02 Bq/l U-234 0,02 Bq/l Ra-226 0,04 Bq/l Ra-228 0,02 Bq/l Note 5 Pb-210 0,02 Bq/l Po-210 0,01 Bq/l C-14 20 Bq/l Sr-90 0,4 Bq/l Pu-239/Pu-240 0,04 Bq/l Am-241 0,06 Bq/l Co-60 0,5 Bq/l Cs-134 0,5 Bq/l Cs-137 0,5 Bq/l I-131 0,5 Bq/l
-Note 1: The limit of detection shall be calculated according to the ISO
-standard 11929: Determination of the characteristic limits (decision threshold, detection limit and limits of the confidence interval) for measurements of ionising radiation - Fundamentals and application, with SUBSTANCES IN WATER INTENDED FOR HUMAN
+Tritium 10 Bq/l Note 3 Radon 10 Bq/l Note 3 gross alpha activity 0,04 Bq/l Note 4 gross beta activity 0,4 Bq/l Note 4 U-238 0,02 Bq/l U-234 0,02 Bq/l Ra-226 0,04 Bq/l Ra-228 0,02 Bq/l Note 5 Pb-210 0,02 Bq/l Po-210 0,01 Bq/l C-14 20 Bq/l Sr-90 0,4 Bq/l
+SUBSTANCES IN WATER INTENDED FOR HUMAN
 [S.L.449.61 CONSUMPTION) 11
-probabilities of errors of 1st and 2nd kind of 0,05 each.
+Pu-239/Pu-240 0,04 Bq/l Am-241 0,06 Bq/l Co-60 0,5 Bq/l Cs-134 0,5 Bq/l Cs-137 0,5 Bq/l I-131 0,5 Bq/l
+Note 1: The limit of detection shall be calculated according to the ISO standard 11929: Determination of the characteristic limits (decision threshold, detection limit and limits of the confidence interval) for measurements of ionising radiation - Fundamentals and application, with probabilities of errors of 1st and 2nd kind of 0,05 each.
 Note 2: Measurement uncertainties shall be calculated and reported as complete standard uncertainties, or as expanded standard uncertainties with an expansion factor of 1,96, according to the ISO Guide for the Expression of Uncertainty in Measurement.
 Note 3: The limit of detection for tritium and for radon is 10% of its parametric value of 100 Bq/l.
 Note 4: The limit of detection for gross alpha activity and gross beta activities are 40% of the screening values of 0,1 and 1,0 Bq/l respectively.
