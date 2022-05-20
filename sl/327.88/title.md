@@ -1,4 +1,4 @@
 SUBSIDIARY LEGISLATION 327.88
 UNIVERSITY ASSESSMENT REGULATIONS
 20th October, 2009
-LEGAL NOTICE 274 of 2009, as amended by Legal Notices 353, 399 and 472 of 2010, 149 of 2011, 35 of 2012, 138, 299 and 419 of 2013, 45 and 348 of 2014, 255 and 356 of 2015, 191 of 2016,52 of 2018, 113 of 2018 351 of 2018 and 42 and 151 of 2019 and 11, 297, 305 of 2020 and 355 of 2021.
+LEGAL NOTICE 274 of 2009, as amended by Legal Notices 353, 399 and 472 of 2010, 149 of 2011, 35 of 2012, 138, 299 and 419 of 2013, 45 and 348 of 2014, 255 and 356 of 2015, 191 of 2016,52 of 2018, 113 of 2018 351 of 2018 and 42 and 151 of 2019 and 11, 297, 305 of 2020, 355 of 2021 and 150 of 2022.
