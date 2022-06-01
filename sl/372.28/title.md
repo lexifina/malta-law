@@ -1,4 +1,4 @@
 SUBSIDIARY LEGISLATION 372.28
 INCOME TAX (RATE OF INTEREST) RULES
 1st January, 2016
-LEGAL NOTICE 295 of 2015, as amended by Legal Notices 304 of 2019 and 99 of 2022.
+LEGAL NOTICE 295 of 2015, as amended by Legal Notices 304 of 2019 and 99 and 228 of 2022.
