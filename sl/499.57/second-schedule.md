@@ -2,84 +2,64 @@
 # second-schedule
 (Regulations 32, 38)
 TRAFFIC MANAGEMENT CLASSIFICATION DURING ROAD WORKS
-Minimum Fine for No. Item Standard Requirements
-Requirements breach
+Fine for No. Item Minimum Requirements Standard Requirements
+breach
 1 TM A - Works on ALL roads not affecting traffic in any way
-1.1 Works carried 1. Provide 1. Temporary Traffic €50
-out on footpath temporary Management
-pedestrian Arrangements in 1.2 Works carried
-access (Safe line with: Safety at
-out within the
-route for Inhabited Road
-parking bay
-pedestrians) Works and Road
-area, not
-Works - A Code of
+1.1 Works carried out 1. Provide temporary 1. Temporary Traffic €50
+on footpath pedestrian access Management
+(Safe route for Arrangements in line 1.2 Works carried out
+pedestrians) with: Safety at
+within the parking
+Inhabited Road Works
+bay area, not
+2. Approval by and Road Works - A
 affecting traffic
-2. Approval by Practice
-Authority for Transport in 2. Traffic Signs Malta for any Manual Chapter 8 obstruction to Volume 1Traffic pedestrian Safety Measures crossing and and Signs for Road pedestrian areas Works and
-Temporary Situations
-3. Construction
-machinery not obstructing carriageway
-4. Programme of
-Works
-2 TM B - Works on traffic carriageway on ALL roads partially obstructing
-traffic, however, existing traffic flows retained 2.1 Works on 1. Provide 1. Traffic €100
-traffic temporary Management Plan carriageway pedestrian of works area
-access (Safe 2.2 Works on
-2. Enforcement route for
-centre- strips,
-required pedestrians)
-side verges,
-Temporary
-roundabouts
-3. Programme of
-Traffic
-and any other
-Works
+Authority for Code of Practice Transport in Malta for any obstruction 2. Traffic Signs Manual to pedestrian Chapter 8 Volume crossing and 1Traffic Safety pedestrian areas Measures and Signs for
+Road Works and Temporary Situations
+3. Construction machinery
+not obstructing carriageway
+4. Programme of Works
+2 TM B - Works on traffic carriageway on ALL roads partially obstructing traffic, however,
+existing traffic flows retained 2.1 Works on traffic 1. Provide temporary 1. Traffic Management €100
+carriageway pedestrian access Plan of works area
+(Safe route for
+2. Enforcement required pedestrians) 2.2 Works on centre-
+Temporary Traffic
+strips, side
+3. Programme of Works
 Management
-road junctions
+verges,
 Arrangements in
-etc. 4. Construction
+roundabouts and 4. Construction machinery
 line with Code
-machinery not obstructing
+any other road not obstructing junctions etc. carriageway
 2. Approval by
-carriageway
 Authority for Transport in Malta for any obstruction to pedestrian crossing and pedestrian areas
-3 TM C - Works on ALL roads affecting traffic, including partial and full
-obstruction, where traffic diversions are required
-3.1 Works on 1. Provide 1. Traffic €300
-carriageway temporary Management Plan fully pedestrian of works area obstructing access (Safe
-2. Traffic traffic flow on route for
-Management Plan arterial, pedestrians) area-wide distributor, link Temporary
-roads and other Traffic
-3. Enforcement
-roads (as Management
-required
-required) Arrangements in
-line with Code
-4. Programme of
-Works
+3 TM C - Works on ALL roads affecting traffic, including partial and full obstruction,
+where traffic diversions are required
+3.1 Works on 1. Provide temporary 1. Traffic Management €300
+carriageway fully pedestrian access Plan of works area obstructing traffic (Safe route for
+2. Traffic Management flow on arterial, pedestrians)
+Plan area-wide distributor, link Temporary Traffic
+roads and other Management
+3. Enforcement required
+roads (as Arrangements in required) line with Code
+4. Programme of Works
 2. Approval by
+5. Construction machinery
 Authority for
-5. Construction
-Transport in
-machinery not
-Malta for any
-obstructing
-obstruction to
+not obstructing
+Transport in Malta
 carriageway
-pedestrian crossing and pedestrian areas
-4 TM D - Development Projects (Industrial, Residential, Commercial) which
-have an impact on existing adjacent roads 4.1 Works on 1. Provide 1. Impact on change in €500
-development temporary traffic volumes, projects which pedestrian traffic patterns, have an impact access (Safe vehicle mix, road on the route for environment characteristics pedestrians)
-2. Traffic of the existing
-Temporary Management Plan adjacent roads Traffic of development
-Management works area
-Arrangements in
-3. Programme of line with Code
-Works
+for any obstruction to pedestrian crossing and pedestrian areas
+4 TM D - Development Projects (Industrial, Residential, Commercial) which have an
+impact on existing adjacent roads 4.1 Works on 1. Provide temporary 1. Impact on change in €500
+development pedestrian access traffic volumes, traffic projects which (Safe route for patterns, vehicle mix, have an impact on pedestrians) road environment the characteristics
+Temporary Traffic 2. Traffic Management of the existing Management Plan of development adjacent roads
+Arrangements in works area
+line with Code
+3. Programme of Works
 2. Approval by
-4. Construction Authority for
-machinery not Transport in obstructing Malta for any carriageway obstruction to
-pedestrian crossing and pedestrian areas
+4. Construction machinery Authority for
+not obstructing Transport in Malta carriageway for any obstruction
+to pedestrian crossing and pedestrian areas
