@@ -1,3 +1,4 @@
+## shall in no case be extended beyond 4.00 a.m.
 ## FIRST SCHEDULE
 # first-schedule
 (Regulation 3)
@@ -155,17 +156,27 @@ predominantly sports goods, fishing gear, camping goods, boats and bicycles
 52.48.9 Other retail sale in specialised stores selling predominantly games
 and toys
 52.48.12 Other retail sale in specialised stores selling predominantly stamps
-and coins 52.48.13 Other retail sale in specialised stores selling predominantly non-
-food products not elsewhere classified 52.5 Retail sale of second hand goods in stores 52.52 Catering; supply of prepared food
+and coins
+52.48.13 Other retail sale in specialised stores selling predominantly non-
+food products not elsewhere classified
+52.5 Retail sale of second hand goods in stores 52.52 Catering; supply of prepared food
 Third Schedule
 (Regulation 6)
-Designated areas in Bugibba, Qawra and
-Paceville where no music can be heard
+Designated areas in Bugibba, Qawra, Paceville and Valletta where no music can be heard
 outdoors after 1.00 a.m.
 Buġibba and Qawra
 Dawret il-Gżejjer Iż-Żona Pedonali - Triq il-Bajja, Parti minn Triq San Antnin, Parti minn Triq il-Pijunieri sa Triq il-Ħallel Parti minn Triq il-Ħallel sa Triq iċ-Ċerna Triq it-Trunċiera Parti minn Triq il-Qawra minn Triq l-Istamar sa Triq it-Trunċiera
 Paceville
 Trejqet Dragunara
 Triq il-Ġdida fi Triq Santu Wistin
+Valletta
+Merchants Street
+Old Bakery Street
+Old Theatre Street
+Republic Street
+South Street
+St. Lucia Street
+Strait Street
 - Amended by: L.N.176 of 2017.
 - Added by: L.N.176 of 2019.
+- Amended by: L.N. 161 of 2022.
