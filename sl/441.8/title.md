@@ -1,4 +1,4 @@
 SUBSIDIARY LEGISLATION 441.08
 BUSINESS HOURS REGULATIONS
 10th January, 2017
-LEGAL NOTICE 6 of 2017 and 176 of 2017, as amended by Legal Notices 176 of 2019 and 161 of 2022.
+LEGAL NOTICE 6 of 2017 and 176 of 2017, as amended by Legal Notices 176 of 2019 and 161 and 163 of 2022.

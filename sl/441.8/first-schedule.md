@@ -170,13 +170,15 @@ Paceville
 Trejqet Dragunara
 Triq il-Ġdida fi Triq Santu Wistin
 Valletta
+Archbishop Street
 Merchants Street
 Old Bakery Street
 Old Theatre Street
 Republic Street
 South Street
 St. Lucia Street
+St. Ursola Street
 Strait Street
 - Amended by: L.N.176 of 2017.
 - Added by: L.N.176 of 2019.
-- Amended by: L.N. 161 of 2022.
+- Amended by: L.N. 161 of 2022; L.N. 163 of 2022.
