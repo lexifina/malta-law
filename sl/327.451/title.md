@@ -7,4 +7,4 @@ THE AUSPICES OF THE FACULTY OF
 INFORMATION AND COMMUNICATION
 TECHNOLOGY
 19th July, 2013
-LEGAL NOTICE 194 of 2013, as amended by Legal Notices 325 of 2013, and 19 and 154 of 2016 and 355 of 2020.
+LEGAL NOTICE 194 of 2013, as amended by Legal Notices 325 of 2013, and 19 and 154 of 2016, 355 of 2020 and 169 of 2022.
