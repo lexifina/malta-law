@@ -12,4 +12,4 @@ PHOTO
 SEAL Signature of the beneficiary: ........................ For the competent authorities: ........................ -------------------------------------------------------------------------------------------------------------
 The pass-holder has been identified by the authorities ................................................ (5)(6)
 The identity of the pass-holder has not been established ...................................................... This document is issued pursuant to Article 26 of Directive 2001/55/EC only and in no way constitutes a document which can be equated to a travel document authorising the crossing of the external border or a document proving the individual's identity.
-[S.L.420.05 DISPLACED PERSONS (MINIMUM STANDARDS) 11
+[S.L.420.05 12 DISPLACED PERSONS (MINIMUM STANDARDS)
