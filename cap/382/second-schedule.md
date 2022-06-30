@@ -49,6 +49,7 @@ b. for scientific research; c. for medical purposes in hospitals and pharmacies;
 d. in a manufacturing process provided that the final product does not contain alcohol;
 e. in the manufacture of a component product which is not subject to excise duty;
 f. in the manufacture of food supplements defined by Directive 2002/46/EC of the European Parliament and of the Council containing ethyl alcohol, if the unit packet of the food supplement released for consumption does not exceed 0,15 litres and food supplements are placed on the market pursuant to Article 10 of Directive 2002/46/EC.
+3. when used by the armed forces of any Member State, other than Malta, for the use of those forces, for the civilian staff accompanying them or for supplying their messes or canteens when such forces take part in a defence effort carried out for the implementation of a Union activity under the common security and defence policy.
 DENATURANTS approved by the Commissioner 1. In the manufacture of Mineralised Methylated Spirit the denaturant should be composed of:
 Base: - 90% vol. ethanol - 9.5% vol. wood naptha, and - 0.5% vol. crude pyridine
 To each 1,000 litres of which is added:
@@ -70,10 +71,9 @@ or:
 - 95% vol ethanol - 5% vol wood naphta
 To each 100 litres of which is added
 - 0.5% vol methyl salicylate - 2.0% vol diethyl phthalate - 2.5% castor oil
-(This type of denatured alcohol is commercially
-referred to as Surgical Spirit)
+(This type of denatured alcohol is commercially referred to as Surgical Spirit)
 - Amended by: VII. 1996.4.
 - Substituted by: VII. 1997.2; XXV. 1997.5; IV. 1998.2; IX. 2001.9; II. 2002.26; II. 2004.57.
 - Amended by: L.N. 118 of 2006.
 - Substituted by: L.N. 425 of 2007.
-- Amended by: II. 2009.33; IV. 2011.68; XXII. 2011.5; XII. 2014.71; XIII. 2015.136; XV. 2016.35; XVIII.2021.53.
+- Amended by: II. 2009.33; IV. 2011.68; XXII. 2011.5; XII. 2014.71; XIII. 2015.136; XV. 2016.35; XVIII.2021.53; L.N. 177 of 2022.

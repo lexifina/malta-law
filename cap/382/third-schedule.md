@@ -3,18 +3,16 @@
 MANUFACTURED TOBACCO
 Rate of
 Description of excisable goods
-Excise Duty
-Cigarettes 23.4% of the
-retail price plus €107 per 1000 cigarettes but not less than €165 per 1000 cigarettes
-1. a. The following shall be deemed to be cigarettes: i. rolls of tobacco capable of being smoked as they are
-and which are not cigars or cigarillos within the
-definition of cigars or cigarillos below;
+Excise Duty Cigarettes 23.4% of the
+retail price plus €107 per 1000 cigarettes but not less than €165 per 1000 cigarettes 1. a. The following shall be deemed to be cigarettes: i. rolls of tobacco capable of being smoked as they are
+and which are not cigars or cigarillos within the definition of cigars or cigarillos below;
 ii. rolls of tobacco which, by simple non-industrial
 handling, are inserted into cigarette-paper tubes;
 iii. rolls of tobacco which, by simple non-industrial
 handling, are wrapped in cigarette paper;
 b. A roll of tobacco referred to in paragraph 1.a.i. shall, for excise duty purposes, be considered as two cigarettes where, excluding filter or mouthpiece, it is longer than 8 cm but not longer than 11 cm, as three cigarettes where, excluding filter or mouthpiece, it is longer than 11 cm but not longer than 14 cm, and so on.
-Products consisting in whole or in part of substances other than tobacco but otherwise conforming to the criteria set out in sub-paragraph a.i. to iii. above shall be treated as cigarettes and the provisions of this sub-paragraph shall apply thereto.
+Products consisting in whole or in part of substances other
+than tobacco but otherwise conforming to the criteria set out in sub-paragraph a.i. to iii. above shall be treated as cigarettes and the provisions of this sub-paragraph shall apply thereto.
 2. For the purpose of the ad valorem duty, the retail price is the price recommended by the importer or manufacturer or their representative for the retail sale of cigarettes; where no such price has been recommended the highest retail price at which cigarettes of that description are normally sold by retail is used.
 Cigars and Cigarillos €25.24 per
 1000 units
@@ -51,3 +49,4 @@ Manufactured tobacco denatured to the satisfaction of the Commissioner and used 
 Manufactured tobacco which is destroyed under administrative supervision.
 Manufactured tobacco which is solely intended for scientific tests and for tests connected with product quality.
 Manufactured tobacco which is reworked by the producer Tobacco products to be sold for immediate consumption on board ships or aircraft travelling to another EU country.
+Tobacco products used by the armed forces of any Member State, other than Malta, for the use of those forces, for the civilian staff accompanying them or for supplying their messes or canteens when such forces take part in a defence effort carried out for the implementation of a Union activity under the common security and defence policy.
