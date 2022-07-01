@@ -73,9 +73,11 @@ Supplies of goods on board cruise liners
 12. The supply of goods for consumption on board cruise liners where the place of taxation in terms of item 3 of the Third Schedule to the Act is deemed to be in Malta.
 Supplies of goods in accordance with sub-item (2) of item 12A of the Second Schedule
 13. The supply of goods to a taxable person who is deemed to have received and supplied those goods in accordance with sub-item (2) of item 12A of the Second Schedule.
-Supplies to the European Commission or to an agency or body established under European Union law
-14. The supply of goods or services to the European Commission or to an agency or a body established under European Union law where the European Commission or such an agency or body purchases those goods or services in the execution of the tasks conferred on it by European Union law in order to respond to the COVID-19 pandemic, except where the goods and services purchased are used, either immediately or at a later date, for the purposes of onward supplies for consideration by the European Commission or such an agency or body:
-Provided that, when the conditions for the exemption cease to apply, the European Commission or the agency or body concerned which received the exempt supply shall inform the Commissioner and the supply of those goods or services shall be subject to VAT under the conditions applicable at that time."; and
+Certain transactions treated as exports
+14. (1) The supply of goods or services to the European Commission or to an agency or a body established under European Union law where the European Commission or such an agency or body purchases those goods or services in the execution of the tasks conferred on it by European Union law in order to respond to the COVID-19 pandemic, except where the goods and services purchased are used, either immediately or at a later date, for the purposes of onward supplies for consideration by the European Commission or such an agency or body:
+Provided that, when the conditions for the exemption cease to apply, the European Commission or the agency or body concerned which received the exempt supply shall inform the Commissioner and the supply of those goods or services shall be subject to tax under the conditions applicable at that time.
+(2) The supply of goods or services within Malta, intended either for the armed forces of other Member States for the use of those forces, or of the civilian staff accompanying them, or for supplying their messes or canteens when such forces take part in a defence effort carried out for the implementation of a European Union activity under the common security and defence policy.
+(3) The supply of goods or services to another Member State, intended for the armed forces of any Member State other than the Member State of destination itself, for the use of those forces, or of the civilian staff accompanying them, or for supplying their messes or canteens when such forces take part in a defence effort carried out for the implementation of a European Union activity under the common security and defence policy.
 Part Two
 Exemptions without credit
 This Part applies to the supplies listed herein subject to the definitions contained in Part Five. Items 2 and 3 are without prejudice to item 5 of Part One.
@@ -108,7 +110,8 @@ Credit, banking and other services
 (d) shares or interests equivalent to shares giving the holder thereof de jure or de facto rights of ownership or possession over immovable property or part thereof.
 (6) The supply of services consisting of the management of any investment scheme, provided that these services are limited to those activities that are specific to and essential for the core activity of the scheme:
 Provided further that investment schemes shall refer to:
-"collective investment scheme" as defined under the Investment Services Act; "retirement scheme" as defined under the Retirement Pensions Act;
+"collective investment scheme" as defined under the Investment Services Act;
+"retirement scheme" as defined under the Retirement Pensions Act;
 "securitisation vehicle" as defined under the Securitisation Act; and
 "authorised reinsurance special purpose vehicle" as defined in the Re- Insurance Special Purpose Vehicle Regulations.
 Cultural and religious services
@@ -203,9 +206,12 @@ Investment gold
 7. The importation of investment gold, saving the option for taxation in terms of Part Six of the Fourteenth Schedule.
 Importation of gas, electricity, heat or cooling energy, through systems or networks
 8. The importation of gas through a natural gas system or any network connected to such a system or fed in from a vessel transporting gas into a natural gas system or any upstream pipeline network, of electricity or of heat or cooling energy through heating or cooling networks.
-Importation of goods by the European Commission or by an agency or a body established under European Union law
-9. The importation of goods by the European Commission or by an agency or a body established under European Union law where the European Commission or such an agency or body imports those goods in the execution of tasks conferred on it by European Union law in order to respond to the COVID-19 pandemic, except where the goods imported are used, either immediately or at a later date, for the purposes of onward supplies for consideration by the European Commission or such an agency or body:
-Provided that, when the conditions for the exemption cease to apply, the European Commission or the agency or body concerned shall inform the Comptroller of Customs and the importation of those goods shall be subject to VAT under the conditions applicable at that time.
+Certain importations of goods in an official capacity
+9. (a) The importation of goods by the European Commission or by an agency or a body established under European Union law where the European Commission or such an agency or body imports those goods in the execution of tasks conferred on it by European Union law in order to respond to the COVID-19 pandemic, except where the goods imported are used, either immediately or at a later date, for the purposes of onward supplies for consideration by the European Commission or such an agency or body:
+Provided that, when the conditions for the exemption cease to apply, the European Commission or the agency or body concerned shall inform the Comptroller of Customs and the importation of those goods shall be subject to tax under the conditions applicable at that time.
+(b) The importation of goods by the armed forces of other Member States
+for the use of those forces, or of the civilian staff accompanying them, or for supplying their messes or canteens when such forces take part in a defence effort carried out for the implementation of a European Union
+activity under the common security and defence policy.
 Part Five
 Definitions
 For the purposes of this Schedule, the following terms shall have the meaning assigned to them in this Part.
@@ -265,4 +271,4 @@ Investment gold
 6. "Investment gold" has the meaning assigned to it in Part Six of the Fourteenth Schedule.
 - Amended by: L.N. 24 of 2001.
 - Substituted by: X. 2003.47.
-- Amended by: L.N. 250 of 2004; L.N. 520 of 2004; L.N. 334 of 2006; L.N. 121 of 2007; L.N. 445 of 2007; L.N. 234 of 2009; L.N. 286 of 2010; L.N. 425 of 2010; L.N. 534 of 2010; L.N. 379 of 2011; L.N. 499 of 2011; L.N. 38 of 2012; L.N. 345 of 2013; L.N. 422 of 2013; L.N. 480 of 2014; L.N. 227 of 2015; L.N. 247 of 2016; L.N. 383 of 2016; L.N.347 of 2017; L.N. 9 of 2018; L.N.155 of 2019; L.N.302 of 2019; L.N.253 of 2019; L.N.222 of 2020; L.N. 4 of 2021; L.N. 358 of 202; VII.2022.70.
+- Amended by: L.N. 250 of 2004; L.N. 520 of 2004; L.N. 334 of 2006; L.N. 121 of 2007; L.N. 445 of 2007; L.N. 234 of 2009; L.N. 286 of 2010; L.N. 425 of 2010; L.N. 534 of 2010; L.N. 379 of 2011; L.N. 499 of 2011; L.N. 38 of 2012; L.N. 345 of 2013; L.N. 422 of 2013; L.N. 480 of 2014; L.N. 227 of 2015; L.N. 247 of 2016; L.N. 383 of 2016; L.N.347 of 2017; L.N. 9 of 2018; L.N.155 of 2019; L.N.302 of 2019; L.N.253 of 2019; L.N.222 of 2020; L.N. 4 of 2021; L.N. 358 of 2021; VII.2022.70; L.N. 138 of 2022.
