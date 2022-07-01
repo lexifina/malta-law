@@ -37,8 +37,7 @@ Supply for consideration of goods forming part of an economic activity
 13. The transfer or disposal by a taxable person of goods forming part of his economic activity for consideration including:
 (a) the sale by judicial auction pursuant to any proceedings exercised by a creditor or by creditors of that person;
 (b) the transfer of such goods by order made by or in the name of a public authority or in pursuance of the law against payment of compensation shall be treated as a supply of goods by that taxable person acting as such.
-Application of goods forming part of an economic activity
-14. (1) Subject to paragraph (3), the application by a person registered under article 10 of goods forming part of his economic activity for his private use, or that of his staff, or the disposal thereof free of charge or, more generally, their application for purposes other than those of his economic activity, where the value added tax on the said goods or the component parts thereof was wholly or partly deducted shall be treated as a supply of goods for consideration by that taxable person acting as such.
+Application of goods forming part of an economic activity 14. (1) Subject to paragraph (3), the application by a person registered under article 10 of goods forming part of his economic activity for his private use, or that of his staff, or the disposal thereof free of charge or, more generally, their application for purposes other than those of his economic activity, where the value added tax on the said goods or the component parts thereof was wholly or partly deducted shall be treated as a supply of goods for consideration by that taxable person acting as such.
 (2) Paragraph (1) also applies with respect to the goods forming part of the economic activity of a person at the time when his registration under article 10 is, for any reason, cancelled:
 Provided that the Commissioner may exempt that person from accounting for the supply when he has reason to believe that the taxable value is less than two hundred and fifty euro (€250).
 (3) This item does not apply to -
@@ -101,6 +100,8 @@ Intra-community acquisitions
 (a) the acquisition of the right to dispose as owner of goods which are transported by or on behalf of the supplier or the person acquiring them from a Member State to the person acquiring them in another Member State; or
 (b) the use in a Member State by a taxable person for the purpose of his economic activity of goods transported by him or on his behalf from another Member State within the territory of which those goods were produced, extracted, purchased, acquired or imported by him for the purpose of his economic activity, where the transport of those goods would, if made from Malta to another Member State, be treated as a transfer of goods to another Member State in accordance with item 17;
 (c) the acquisition by a non-taxable legal person of goods imported by that person into the Community and transported to a Member State other than the State of importation.
+(d) The application by the armed forces of a Member State taking part in a defence effort carried out for the implementation of a European Union activity under the common security and defence policy, for their use or for the use of the civilian staff accompanying them, of goods which they have not purchased subject to the general rules governing taxation on the domestic market of an EU Member State shall be treated as an intra- Community acquisition of goods for consideration, where the importation of those goods would not be eligible for the exemption provided for in
+paragraph (b) of item 9 of Part Four of the Fifth Schedule.
 (2) Any transaction which is treated under this Act as a supply of goods or a supply of goods for consideration shall also be treated as involving an acquisition of the right to dispose as owner of those goods or an acquisition of those goods for consideration.
 Importation
 19. Importation means:
@@ -111,4 +112,4 @@ transported from a third territory excluding, however:
 (ii) goods covered by the Treaty establishing the European Coal and
 Steel Community that are in free circulation.
 - Substituted by: X. 2003.47.
-- Amended by: L.N. 426 of 2007; L.N. 443 of 2007; L.N. 105 of 2008; L.N. 34 of 2009; L.N. 532 of 2010; L.N. 61 of 2011; L.N. 418 of 2012; L.N. 251 of 2019; L.N. 219 of 2020.
+- Amended by: L.N. 426 of 2007; L.N. 443 of 2007; L.N. 105 of 2008; L.N. 34 of 2009; L.N. 532 of 2010; L.N. 61 of 2011; L.N. 418 of 2012; L.N. 251 of 2019; L.N. 219 of 2020; L.N. 140 of 2022.
