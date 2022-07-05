@@ -121,9 +121,92 @@ provisions for food contact materials set out in Regulation (EC) No 1935/2004 an
 No: Name of the allergenic fragrance: CAS Number: 1 Alanroot oil (Inula helenium) 97676-35-2 2 Allylisothiocyanate 57-06-7 3 Benzyl Cyanide 140-29-4 4 4 tert-Butylphenol 98-54-4 5 Chenopodium oil 8006-99-3 6 Cyclamen alcohol 4756-19-8 7 Diethyl maleate 141-05-9 8 Dihydrocoumarin 119-84-6 9 2,4-Dihydroxy-3-methylbenzaldehyde 6248-20-0 10 3,7-Dimethyl-2-octen-1-ol (6,7-Dihydrogeraniol) 40607-48-5 11 4,6-Dimethyl-8-tert-butylcoumarin 17874-34-9 12 Dimethyl citraconate 617-54-9 13 7,11-Dimethyl-4.6,10-dodecatrien-3-one 26651-96-7 14 6,10-Dimethyl-3.5,9-undecatrien-2-one 141-10-6 15 Diphenylamine 122-39-4 16 Ethyl acrylate 140-88-5 17 Fig leaf, fresh and preparations 68916-52-9 18 trans-2-Heptenal 18829-55-5 19 trans-2-Hexenal diethyl acetal 67746-30-9 20 trans-2-Hexenal dimethyl acetal 18318-83-7 21 Hydroabietyl alcohol 13393-93-6 22 4-Ethoxy-phenol 622-62-8 23 6-lsopropyl-2-decahydronaphthalenol 34131-99-2 24 7-Methoxycoumarin 531-59-9 25 4-Methoxyphenol 150-76-5 26 4-(p-Methoxyphenyl)-3-butene-2-one 943-88-4 27 1-(p-Methoxyphenyl)-1-penten-3-one 104-27-8 28 Methyl trans-2-butenoate 623-43-8 29 6-Methylcoumarin 92-48-8 30 7-Methylcoumarin 2445-83-2 31 5-Methyl-2,3-hexanedione 13706-86-0 32 Costus root oil (Saussurea lappa Clarke) 8023-88-9 33 7-Ethoxy-4-methylcoumarin 87-05-8 34 Hexahydrocoumarin 700-82-3 35 Peru balsam, crude (Exudation of Myroxylon pereirae (Royle) 8007-00-9
 Klotzsch)
 36 2-Pentylidene-cyclohexanone 25677-40-1 37 3.6,10-Trimethyl-3.5,9-undecatrien-2-one 1117-41-5 38 Verbena oil (Lippia citriodora Kunth) 8024-12-2 39 Musk ambrette (4-tert-Butyl-3-methoxy-2,6-dinitrotoluene) 83-66-9 40 4-Phenyl-3-buten-2-one 122-57-6 41 Amyl cinnamal 122-40-7 42 Amylcinnamyl alcohol 101-85-9 43 Benzyl alcohol 100-51-6 44 Benzyl salicylate 118-58-1 45 Cinnamyl alcohol 104-54-1 46 Cinnamal 104-55-2 47 Citral 5392-40-5 48 Coumarin 91-64-5 49 Eugenol 97-53-0 50 Geraniol 106-24-1 51 Hydroxy-citronellal 107-75-5 52 Hydroxy-methylpentylcyclohexenecarboxaldehyde 31906-04-4 53 Isoeugenol 97-54-1 54 Oakmoss extracts 90028-68-5 55 Treemoss extracts 90028-67-4
+Nº Name of the allergenic fragrance CAS number
+56 Atranol (2,6-Dihydroxy-4-methyl-benzaldehyde) 526-37-4
+57 Chloroatranol (3-Chloro-2,6-Dihydroxy-4-methyl-benzaldehyde) 57074-21-2
+58 Methyl heptine carbonate 111-12-6
 However, the presence of traces of these fragrances shall be allowed provided that such presence is technically unavoidable under good manufacturing practice and does not exceed 100 mg/kg.
 In addition, the names of the following allergenic fragrances shall be listed on the toy, on an affixed label, on the packaging or in an accompanying leaflet, if added to a toy, as such, at concentrations exceeding 100 mg/kg in the toy or components thereof:
-No: Name of the allergenic fragrance: CAS Number: 1 Anisyl alcohol 105-13-5 2 Benzyl benzoate 120-51-4 3 Benzyl cinnamate 103-41-3 4 Citronellol 106-22-9 5 Farnesol 4602-84-0 6 Hexyl cinnamaldehyde 101-86-0 7 Lilial 80-54-6 8 d-Limonene 5989-27-5 9 Linalool 78-70-6 10 Methyl heptine carbonate 111-12-6 11 3-methyl-4-(2.6,6-trimethyl-2-cyclohexen-1-yl)-3-buten-2-one 127-51-5
+No: Name of the allergenic fragrance: CAS Number: 1 Anisyl alcohol 105-13-5 2 Benzyl benzoate 120-51-4 3 Benzyl cinnamate 103-41-3
+(4) Citronellol 106-22-9;
+1117-61-9; 7540-51-4 5 Farnesol 4602-84-0 6 Hexyl cinnamaldehyde 101-86-0 7 Lilial 80-54-6 8 d-Limonene 5989-27-5 9 Linalool 78-70-6 10 3-methyl-4-(2.6,6-trimethyl-2-cyclohexen-1-yl)-3-buten-2-one 127-51-5
+11 Acetylcedrene 32388-55-9
+12 Amyl salicylate 2050-08-0
+13 trans-Anethole 4180-23-8
+14 Benzaldehyde 100-52-7
+15 Camphor 76-22-2; 464-
+49-3
+16 Carvone 99-49-0;
+6485-40-1; 2244-16-8
+17 beta-Caryophyllene (ox.) 87-44-5
+18 Rose ketone-4 (Damascenone) 23696-85-7
+19 alpha-Damascone (TMCHB) 43052-87-5;
+23726-94-5
+20 cis-beta-Damascone 23726-92-3
+21 delta-Damascone 57378-68-4
+22 Dimethylbenzyl carbinyl acetate (DMBCA) 151-05-3
+23 Hexadecanolactone 109-29-5
+24 Hexamethylindanopyran 1222-05-5
+25 (DL)-Limonene 138-86-3
+26 Linalyl acetate 115-95-7
+27 Menthol 1490-04-6;
+89-78-1; 2216-51-5
+28 Methyl salicylate 119-36-8
+29 3-methyl-5-(2,2,3-trimethyl-3-cyclopenten-1-yl) pent-4-en-2-ol 67801-20-1
+30 alpha-Pinene 80-56-8
+31 beta-Pinene 127-91-3
+32 Propylidene phthalide 17369-59-4
+33 Salicylaldehyde 90-02-8
+34 alpha-Santalol 115-71-9
+35 beta-Santalol 77-42-9
+36 Sclareol 515-03-7 37 alpha-Terpineol 10482-56-1;
+98-55-5
+38 Terpineol (mixture of isomers) 8000-41-7
+39 Terpinolene 586-62-9
+40 Tetramethyl acetyloctahydro naphthalenes 54464-57-2;
+54464-59-4; 68155-66-8; 68155-67-9
+41 Trimethyl benzenepropanol (Majantol) 103694-68-4
+42 Vanillin 121-33-5
+43 Cananga odorata and Ylang-ylang oil 83863-30-3;
+8006-81-3
+44 Cedrus atlantica bark oil 92201-55-3;
+8000-27-9
+45 Cinnamomum cassia leaf oil 8007-80-5
+46 Cinnamomum zeylanicum bark oil 84649-98-9
+47 Citrus aurantium amara flower oil 8016-38-4
+48 Citrus aurantium amara peel oil 72968-50-4
+49 Citrus bergamia peel oil expressed 89957-91-5
+50 Citrus limonum peel oil expressed 84929-31-7
+51 Citrus sinensis (syn.: Aurantium dulcis) peel oild expressed 97766-30-8;
+8028-48-6
+52 Cymbopogon citratus/schoenanthus oils 89998-14-1;
+8007-02-01; 89998-16-3
+53 Eucalyptus spp. leaf oil 92502-70-0;
+8000-48-4
+54 Eugenia caryophyllus leaf/flower oild 8000-34-8
+55 Jasminum grandiflorum/officinale 84776-64-7;
+90045-94-6; 8022-96-6
+56 Juniperus virginiana 8000-27-9;
+85085-41-2
+57 Laurus nobilis fruit oil 8007-48-5
+58 Laurus nobilis leaf oil 8002-41-3
+59 Laurus nobilis seed oil 84603-73-6
+60 Lavandula hybrida 91722-69-9
+61 Lavandula officinalis 84776-65-8
+62 Mentha piperita 8006-90-4;
+84082-70-2
+63 Mentha spicata 84696-51-5 64 Narcissus spp. Diverse,
+including 90064-25-8
+65 Pelargonium graveolens 90082-51-2;
+8000-46-2
+66 Pinus mugo 90082-72-7
+67 Pinus pumila 97676-05-6
+68 Pogostemon cablin 8014-09-3;
+84238-39-1
+69 Rose flower oil (Rosa spp.) Diverse,
+including 8007-01-0, 93334-48-6, 84696-47-9, 84604-12-6, 90106-38-0, 84604-13-7, 92347-25-6
+70 Santalum album 84787-70-2;
+8006-87-9 8006-64-2; 71 Turpentine (oil) 9005-90-7; 8052-14-0
 (14) The use of the fragrances set out in points 41 to 55 of the list set out in the first paragraph of point 13 and of the fragrances set out in points 1 to 11 of the list set out in the third paragraph of that point shall be allowed in olfactory board games, 33 cosmetic kits and gustative games, provided that:
 (i) those fragrances are clearly labelled on the packaging, and the packaging contains the warning set out in point 10 of Part B of Schedule VI;
 (ii) if applicable, the resulting products made by the child in accordance with the instructions comply with the requirements of
@@ -155,4 +238,3 @@ VI. Hygiene
 (2) A toy intended for use by children under 36 months must be designed and manufactured in such a way that it can be cleaned. A textile toy shall, to this end, be washable, except if it contains a mechanism that may be damaged if soak washed. The toy shall fulfil the safety requirements also after having been cleaned in accordance with this point and the manufacturer's instructions.
 VII. Radioactivity
 Toys shall comply with all relevant measures adopted under Chapter III of the Treaty establishing the European Atomic Community.
-- Amended by: L.N. 341 of 2012; L.N. 191 of 2015; L.N. 359 of 2018; L.N. 215 of 2019; L.N. 267 of 2021.

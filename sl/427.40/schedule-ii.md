@@ -5,4 +5,3 @@ List of Cmr Substances and their Permitted Uses in accordance with
 Substance: Classification: Permitted use: Nickel CMR 2 In toys and toy components
 made of stainless steel
 In toy components which are intended to conduct an electric current
-- Substituted by: L.N. 191 of 2015.
