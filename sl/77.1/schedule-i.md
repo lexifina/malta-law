@@ -12,7 +12,9 @@ Fax (with STD code):
 E-mail address:
 Correspondence address:
 File reference, if known:
-(b) Information on the identity of the person concerned by the request (*):
+(b) Information on the identity of the person concerned by
+the request (*): INFORMATION FROM THE CRIMINAL RECORD
+[S.L.77.01 BETWEEN MALTA AND OTHER MEMBER STATES 9
 Full name (forenames and all surnames):
 Previous names:
 Pseudonym and, or alias, if any:
@@ -36,13 +38,18 @@ available the case reference number) .....................
 ..............................................................................
 
 (2) request outside the context of criminal proceedings
-INFORMATION FROM THE CRIMINAL RECORD [S.L.77.01 8 BETWEEN MALTA AND OTHER MEMBER STATES
-(please identify the authority before which the proceedings are pending and, if available, the case reference number, while ticking the relevant box): 
-(i) from a judicial authority .............................. .....................................................................
+(please identify the authority before which the
+proceedings are pending and, if available, the case
+reference number, while ticking the relevant box):
 
-(ii) from a competent administrative authority ... .....................................................................
+(i) from a judicial authority ..............................
+.....................................................................
 
-(iii) from the person concerned for information on own criminal record ................................ ....................................................................
+(ii) from a competent administrative authority ...
+.....................................................................
+
+(iii) from the person concerned for information
+on own criminal record ................................ ....................................................................
 Purpose for which the information is requested:
 Requesting authority: 
 the person concerned does not consent for this information to be divulged (if the person concerned was asked for its consent in accordance with the law o f the requesting Member State).
@@ -50,4 +57,5 @@ Contact person for any further information needed:
 Name:
 Telephone:
 E-mail address:
+INFORMATION FROM THE CRIMINAL RECORD [S.L.77.01 10 BETWEEN MALTA AND OTHER MEMBER STATES
 Other information (e.g. urgency of the request):

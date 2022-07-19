@@ -12,11 +12,11 @@ there is information on convictions entered in the criminal record of the person
 
 there is other information entered in the criminal record of the person concerned; such information is attached (optional)
 
-there is information on convictions entered in the criminal record of the person concerned but the convicting Member State intimated that the information about these
-INFORMATION FROM THE CRIMINAL RECORD
-[S.L.77.01 BETWEEN MALTA AND OTHER MEMBER STATES 9
-convictions may not be retransmitted for any purposes other than that of criminal proceedings. The request for more information may be sent directly to ........................... (please indicate the convicting Member State) 
-in accordance with the Maltese legislation of the requested Member State, requests made for any purposes other than that of criminal proceedings may not be dealt with.
+there is information on convictions entered in the criminal record of the person concerned but the convicting Member State intimated that the information about these convictions may not be retransmitted for any purposes other than that of criminal proceedings. The request for more information may be sent directly to ...........................
+(please indicate the convicting Member State)
+
+in accordance with the Maltese legislation of the requested Member State, requests made for any purposes other than
+that of criminal proceedings may not be dealt with.
 Contact person for any further information needed:
 Name:
 Telephone:
@@ -27,4 +27,7 @@ Done at:
 On
 Signature and official stamp (if appropriate):
 Name and position/organisation:
-If appropriate, please attach a list of convictions and send the complete package to the requesting Member State. It is not necessary to translate the form or the list into the language of the requesting Member State.
+If appropriate, please attach a list of convictions and send the complete package to the requesting Member State. It is not
+INFORMATION FROM THE CRIMINAL RECORD
+[S.L.77.01 BETWEEN MALTA AND OTHER MEMBER STATES 11
+necessary to translate the form or the list into the language of the requesting Member State.
