@@ -8,14 +8,30 @@ Northern Region
 The design is based on a Maltese cross, signifying Malta, the northern quarter of which has been replaced by the fleur de lys, a symbol normally found on nautical navigational magnetic compasses. Whereas other cardinal points on such compasses are usually indicated by letters S, W and E to signify the direction of those points South, West and East, North is usually signified by a fleur de lys.
 The blazon would read - Azure an eight pointed Maltese cross Argent, the uppermost arm replaced by a fleur de lys Or, ensigned by a mural coronet of five eschaugettes all Or.
 Central Region
-The design for the shield of arms for Central Region was agreed at the last meeting. It is based on a blue field signifying the Mediterranean Sea in which thirteen golden disks (in heraldry called bezants or a Byzantine gold coin) may be identified as the thirteen municipalities forming this region.
-The blazon would read - Azure thirteen bezants 3, 3, 3, 3 and 1, all ensigned by a mural coronet of five eschaugettes Or.
+Repealed by Legal Notice 207 of 2022.
 South Eastern Region
-• An Escutcheon with the field in Gules (red) to signify the courage and magnanimity with which the group of Councils forming the Xlokk Region aim to address their tasks together. Red is also the colour of the insignia of the mayors who represent their respective local councils on the regional committee.
-• 15 same size small escutcheons in argent (silver/white) signifying equality and sincerity towards each other in order to work peacefully together towards their common aims.
-• A chief is 'cousu' (sewn on, added) as a sign of honour which distinguishes this Region from the others having six historic cities within its territory thus signifying dominion and authority. The two capital cities are each represented with a six turreted mural crown while the four other cities are each symbolized by a four turreted mural crown. All six crowns are in Or (gold).
-• The Chief in Sable (black) to signify the constancy with which the region aspires to work while Black is also the colour of the Mayors representing the cities.
+Repealed by Legal Notice 207 of 2022.
 Southern Region
 The design of the shield of Southern Region is based on the Mediterranean sea in blue with white waves. In the centre the rayed sun in golg, the four cardinal points enhanced. The southern-most divided vertically in the ancient colours of Malta, white and red.
 Blazon:
 Undy per fess, of eight Azure and Argent, the sun in its splendour with cardinal rays enhanced Or, that in base per pale Argent and Gules.
+Eastern Region
+The Coat of Arms shows in Chief the Sun rising, with reference to the Eastern Region.
+In the Middle there is a Horizontal Fess on which there is an orange Blossom from which emerge four oranges which refer to the localities from which they emerged from the Parish of Birkirkara.
+The Bridge is that of Madliena which means the Union of the Coastal Localities with those of the Countryside.
+The seven waves at the bottom of the Shield refer to the Locations Adjacent to the Sea.
+Blazon:
+Azure a bridge or standing on waves azure and argent. In centre, a fess gules bordered Argent. On the fess an orange blossom or form which four orange fruits sprout. On chief a rising sun or on a background azure.
+Western Region
+The Star is the planet Venus which is known as 'The West Star'. The Colour of the sun is golden, which symbolizes generosity, faith, and energy.
+Red Background - Colour the sky when it is reddish at sunset. It is a sign of positive outlook.
+Blue inner doors - A colour that is also found in the West, which symbolises the peace, calm and silence of the West of Malta.
+The Fortification - The Fortification consists of a main gate that symbolises the Old City of Malta, Mdina, on both sides there are two windows that symbolize the other two cities which are Siġġiewi and Żebbuġ. At the top we find seven laces symbolizing the other seven localities that are part of the Western Region. This shows the ideal union between the cities and localities of the Region for the benefits of the citizens of the West.
+Fortification is the colour Gold means - Generosity, Faith, Energy as well as Strength.
+Blazon:
+Gules, a fortified wall in gold and with seven merlons of the same colour. On the ramparts an open door and two windows on each side all azure. On Chief there is a seven-pointed star Or.
+Port Region
+Argent six escutcheons Gules arranged fesswise (3,2,1), upon a chief Sable below three mural crowns of three towers arranged fesswise two mural crowns of four towers similarly arranged all Or.
+Above the shield is a mural crown of five towers Or.
+In the aforesaid Arms, the escutcheons represent the six villages which are members of the Port Regional Council, that is to say Floriana, Kalkara, Fgura, Paola, Tarxien and Xgħajra, the mural crowns of three towers represent the three small cities which are members of the said Council, that is to say Cospicua, Senglea and Żabbar while the mural crowns of four towers represent the two larger cities which are members of the said Council, that is to say Valletta and Vittoriosa.
+- Added by: L.N. 207 of 2022.
