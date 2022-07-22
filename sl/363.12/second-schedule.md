@@ -1,37 +1,25 @@
 ## SECOND SCHEDULE
-## ACCT
-## € € 2 0000
-## 0020 0090 0100
-## 1 1000
-## 2000
-## 7000
+## € €
 ## Less
 ## Add
-## Date
-## g=(e+f) h
-## TOTAL BUDGET
-## € €
+## Notes:
+## Declaration: The Mayor and the Executive Secretary declare that the above statements show a true and fair view of the Council's position on the signing date and that all commitments have been included in these financial statements.
+## Mayor Date
+## h
+## ACCT
+## 2 0000 0001
+## 0002 0003 0004
+## 0015
+## 0020 0021
+## 0036
+## 0056
+## 0066
+## 0090
 ## d - c
-## 1200
-## 1300 1400
-## 1500
-## 1600
-## 1700
-## 2100
-## 2200
-## 2310 2311
-## 2312 2313 2314
-## 2330
-## 2340
-## 2 3 6 0 / 70
-## 2375
-## 2400
-## 2500
-## 2600
-## 2700 2800 2900
+## 2800
+## 2900
 ## 3000
-## 3010
-## 3020
+## 3010 3020
 ## 3030
 ## 3035 3040
 ## 3041
@@ -39,63 +27,90 @@
 ## 3050
 ## 3051
 ## 3052
+## 3053
+## 3055
+## 3060
+## 3061
+## 3062
+## 3063
+## 3064
+## 3100
+## 3200
+## 3300
+## 3600
+## 3400
+## 7000
+## 7001
+## 7100 7200
+## 7300 7500
 ## 2004/2005
 ## €
-## Income
-## Funds received from central government 163,482.41
-## Income raised under Local Council Bye-Laws -
-## Income raised under Local Enforcement System 14,174.24
-## Investment Income 3,717.68
-## General Income 1,395.29
-## 182,769.62
-## Expenditure
-## Personal emoluments 33,410.20
-## Operations and maintenance 73,943.63
-## Administration and other expenditure 51,085.49
-## Finance Cost -
-## (158,439.32)
-## Surplus for the year 24,330.31
-## 24,330.31
-## 13,810.85
+## 163,482.41
 ## -
-## (3,717.68)
+## 14,174.24
+## 3,717.68
+## 1,395.29
+## 182,769.62
+## 33,410.20
+## 73,943.63
+## 51,085.49
+## (158,439.32)
+## 24,330.31
+## Cash flow from operating activities
+## Surplus for the year 24,330.31
+## Adjustments for:
+## Depreciation 13,810.85
+## Increase / (Decrease) in Provision for Bad Debts -
+## Interest receivable (3,717.68)
+## Interest payable -
+## (Profit) / Loss on disposal of asset -
 ## 34,423.48
-## (7,628.70)
-## (7,712.56)
-## 19,082.23
-## (25,998.14)
-## 4,963.89
+## Increase / (Decrease) in payables (7,628.70)
+## Decrease / (Increase) in receivables (7,712.56)
+## Decrease / (Increase) in inventories -
+## Cash generated from operations 19,082.23
+## Interest paid -
+## Net cash from operating activities 19,082.23
+## Cash flows from investing activities
+## Purchase of property, plant and equipment (25,998.14)
+## Proceeds from sale of equipment -
+## Interest received 4,963.89
+## Net cash used in investing activities
 ## (21,034.24)
-## (1,952.01)
-## 101,921.73
-## 99,969.72
-## Special Program -mes Total
-## 6,988.12 87,353.83
-## - 43,023.53
-## - (2,212.90)
-## 6,988.12 228,164.45
+## Cash flows from financing activities
+## Proceeds from long-term borrowings -
+## Loan Repayments
+## Net cash from financing activities -
+## Net increase/(decrease) in cash and cash (1,952.01) equivalents
+## Cash and cash equivalents at beginning of year 101,921.73
+## Cash and cash equivalents at end of year 99,969.72
+## Asset Total
+## Cost
+## As at 01 April 87,353.83 2005
+## Additions - 43,023.53
+## Disposals - (2,212.90)
+## A s 228,164.45 March 2006
+## G r a nt s an d o t h e r r e i m bu r s e - ments
+## As at 1 April 6,988.12 2005
+## Additions - -
+## A s 6,988.12 March 2006
+## Accumulated Depreciation
+## As at 1 April - 76,820.41 2005
+## Charge for the - 14,556.25 year
+## Released on - (1,798.28) disposal
+## A s - 89,578.38 March 2006
+## N e t Value
+## A s - 131,597.95 March 2006
+## As at 01 April 161,355.70 2004
+## Additions - 25,998.14
+## Disposals - -
+## A s 187,353.83 March 2005
 ## 6,988.12 6,988.12
 ## - -
+## - 63,009.55
+## - 13,810.85
 ## - 76,820.41
-## - 14,556.25
-## - (1,798.28)
-## - 89,578.38
-## - 131,597.95
-## Special
-## -mes Total
-## 6,988.12 161,355.70
-## - 25,998.14
-## 6,988.12 187,353.83
-## As at 1 April 6,988.12 2004
-## Additions - -
-## A s 6,988.12 March 2005
-## Accumulated Depreciation
-## As at 1 April - 63,009.55 2004
-## Charge for the - 13,810.85 year
-## Released on - - disposal
-## A s - 76,820.41 March 2005
-## N e t Value
-## A s - 103,545.31 March 2005
+## - 103,545.31
 # second-schedule
 (Regulation 2)
 The Procedures specified in the First Column of the Schedule shall have effect subject to the amendments specified in the Second Column thereof.
@@ -104,27 +119,26 @@ FIRST COLUMN SECOND COLUMN PROCEDURES EXTENT OF AMENDMENT L.C.P. 1/96 - Local 1.
 be substituted the words "€1,164.69"; and
 (b) in item e.02, for the words "€232.94" and "€2,329.37" there shall be substituted the words "€1,164.69" and "€4,658.75" respectively;
 (c) in item e.03 for the words "€2,329.37" there shall be substituted the words "€4,658.75".
-2. In item c.09 of P1.14, immediately after the words
-"must be deposited daily" there shall be added the words "or not less than twice a week".
-3. P1.01 shall be amended as follows:
-Immediately after item h.06 there shall be added the
+2. Item C.09 of P1.14 shall be substituted by the
 following:
-"h.07 The depreciation of fixed assets is accounted for through the month-end procedure on a monthly basis. The rates of depreciation are established in
-Appendix P1.XI.".
-4. P1.02 shall be amended as follows:
-Immediately after item a.02 there shall be added the
-following:
-"a.03 Ensuring that every payment and commitment to pay, whether existent or in the future, is registered as required in a cumulative and consolidated format in terms of the established form in Appendix P1. XII, which form shall immediately reveal and also provide a projection of the emerging balance. When such projected balance falls below the level of the benchmark established in terms of regulation 4 of the Financial Regulations, both the Council and the Director shall be immediately informed in order to lay the ground for the commencement of the relative corrective procedure. A copy of this form (Appendix P1. XII) shall accompany the minutes of every Council meeting and shall be referred to Director.". 5. P1.05 shall be amended as follows:
+c. Any money and income received shall be deposited at least once a month provided that the amount left at the Council's premises does not exceed one thousand euro (€1,000), in total, in a given month, or unless decided otherwise by the Council and such decision is within the parameters of the Council's insurance policy in place. Monies exceeding one thousand euro (€1,000) shall be deposited on the same day that this threshold is reached.
+3. P1.01 shall be amended as follows: Immediately after item h.06 there shall be added the following:
+"h.07 The depreciation of fixed assets is accounted for through the month-end procedure on a monthly basis. The rates of depreciation are established in Appendix P1.XI.".
+4. P1.02 shall be amended as follows: Immediately after item a.02 there shall be added the following:
+"a.03 Ensuring that every payment and commitment to pay, whether existent or in the future, is registered as required in a cumulative and consolidated format in terms of the established form in Appendix P1. XII, which form shall immediately reveal and also provide a projection of the emerging balance. When such projected balance falls below the level of the benchmark established in terms of regulation 4 of the Financial Regulations, both the Council and the Director shall be immediately informed in order to lay the ground for the commencement of the relative corrective procedure. A copy of this form (Appendix P1. XII) shall accompany the minutes of every Council meeting and shall be referred to Director.".
+5. P1.05 shall be amended as follows:
 (a) Immediately after d.06 there shall be added the following new paragraphs: "d.07 A copy of this report shall be forwarded to
 the Director within fifteen days of its presentation to the Council as specified in the preceeding paragraph (i.e., by the 30th July, 30th October, 30th January and 30th
 April of each year).
-Should the Council fail to submit such report, the Minister shall, on the advice of the Director, provisionally retain any portion of the allocation of funds approved to the Council, until the Council abides by such obligation. Provided that the Minister shall only retain such funds following a period of time prescribed in a written notice where the Council is given the opportunity to rectify its failure. Provided further that the amount so retained shall not exceed 1% of the funds allocated to the Council during the financial year.".
+Should the Council fail to submit such report, the Minister shall, on the advice of the Director, provisionally retain any portion of the allocation of funds approved to the Council, until the Council abides by
+such obligation.
+Provided that the Minister shall only retain such funds following a period of time prescribed in a written notice where the Council is given the opportunity to rectify its failure. Provided further that the amount so retained shall not exceed 1% of the funds allocated to the Council during the financial year.".
 (b) Immediately after g.05, there shall be added the following: "h. The Council shall forward to the Director
-a copy of the approved minutes of its meetings as well as the minutes of the
-Finance Committee.
-Should the Council fail to submit such minutes within three working days after their approval, the Minister may, on the advice of the Director, provisionally retain any portion of the allocation of funds approved to the Council, until the Council
+a copy of the approved minutes of its meetings as well as the minutes of the Finance Committee. Should the Council fail to submit such minutes within three working days after their approval, the Minister may, on the advice of the Director, provisionally retain any portion of the allocation of funds approved to the Council, until the Council
 abides by such obligation.
-Provided that the amount so retained shall not exceed 1% of the funds allocated to the Council during the fmancial year. i. The Financial Situation Indicator of a
+Provided that the amount so retained shall not exceed 1% of the funds allocated to
+the Council during the fmancial year.
+i. The Financial Situation Indicator of a
 Council, as defined by regulation 4 of the Financial Regulations, is calculated by taking the total amount of current assets (cash in bank and debtors) and deducting from it the total amount of current liabilities (payments/creditors falling due in the short and long term), with the exception of long-term financial commitments approved in writing by the
 Minister in terms of the Act.
 In situations where the Council has an approved loan arrangement, the long term outstanding loan will not be taken into consideration, when calculating the Financial Situation Indicator. However, both the Council and the Director shall ensure that that the loan repayments are in line with the original agreement when the
@@ -134,7 +148,8 @@ Situation Indicator with a favourable balance which is less than ten per cent of
 (i) The Director shall issue a notice in writing about this situation to the Local Council. The Council shall thereby be bound to reply in writing so as to state how the next quarterly financial report will be drawn up, how the Council would improve its financial situation and which expenditure cuts the Council was about to effect to achieve the ten per cent mark;
 (ii) The Council shall be bound to appoint a Finance Committee which would include as members, the Mayor, another Councillor and the Executive Secretary, and should no person from the Council or the Executive Secretary be a qualified accountant, a qualified accountant shall be appointed by the Council. Before any decision is taken about any expenditure, the Council shall request the advice in writing of the Finance Committee which would evaluate the proposed expenditure, having regard to the financial
 situation of the Council;
-(iii) Should the Council, by the second quarterly financial report after the Director's letter, fail to make provision for the ten per cent benchmark, the Minister may, on the advice of the Director, withhold the release of such amount from the allocation approved to the Local Council which would be equal to the difference between the actual balance and the ten per cent benchmark. The amount shall be withheld for so long as in any quarterly report made after the withholding of such amount, the ten per cent benchmark is achieved. On such occurrence, the Minister shall authorise the release of such amount to the Council: Provided that when a Council consistently registers a positive result, the Minister shall remove the application of the requirement of a favourable balance of ten per cent as long as the Council continues to register a positive financial position. The Minister may at any time reactivate the ten per cent requirement in such cases where the financial result or forecasts of the Council would require such measure. i.02 Should a Council have a Financial
+(iii) Should the Council, by the second quarterly financial report after the Director's letter, fail to make provision for the ten per cent benchmark, the Minister may, on the advice of the Director, withhold the release of such amount from the allocation approved to the Local Council which would be equal to the difference between the actual balance and the ten per cent benchmark. The amount shall be withheld for so long as in any quarterly report made after the withholding of such amount, the ten per cent benchmark is achieved. On such occurrence, the Minister shall authorise the release of such amount to the Council:
+Provided that when a Council consistently registers a positive result, the Minister shall remove the application of the requirement of a favourable balance of ten per cent as long as the Council continues to register a positive financial position. The Minister may at any time reactivate the ten per cent requirement in such cases where the financial result or forecasts of the Council would require such measure. i.02 Should a Council have a Financial
 Situation Indicator with a negative balance of less than five per cent of the funds, which the Government would have allocated to the Local Council for that
 same Local Council financial year:
 (i) The Director shall formally call upon the Mayor and the Executive Secretary within fifteen days from the discovery of the negative balance;
@@ -157,14 +172,15 @@ Should the Director incur any expenses in the preparation of that plan or in the
 shall be used for this purpose;
 (iii) Prior to the implementation of the restructuring plan the Director shall inform the Minister about the plan, and the Minister shall, before confirming the plan, request and hear the views of the Local Councils Association;
 (iv) During the restructuring period, the Council's accounts shall be controlled by the Director who shall have the right to refuse to finance any undertaking of the Council which adversely affects the restructuring plan;
-(v) The Council may not enter into any financial undertaking without the approval of the Director.
+(v) The Council may not enter into any financial undertaking without the
+approval of the Director.
 (vi) Any document relating to a call for public tenders, and any documentation of the Council, including any correspondence which the Council may send, shall include a statement declaring that the Council may not enter into any financial commitment unless it has an agreement to do so in writing with the Director;
 (vii) Such funds as are allocated by the
-Government shall be held by the Director in the name of the Local Council and shall be spent according to approved procedures;
+Government shall be held by the Director in the name of the Local Council and shall be spent according
+to approved procedures;
 (viii) Within the context of the
 restructuring plan, the Director shall have the right to pay such amounts as may be due by the Council to third parties.".
-Appendix p1. XI
-Depreciation Rates
+Appendix p1. XI Depreciation Rates
 The depreciation rates that will be applicable are as follows:
 % Rate Land 0 Buildings 1 Office Furniture and Fittings 7.5 Construction Works 10 Urban Improvements (Street Furniture) 10 Special Projects 10 Office Equipment 20 Motor Vehicles 20 Plant and Machinery 20 Computer Equipment 25 Trees 0 Plants 100 Litter Bins 100 Playground Furniture 100 Traffic signs 100 Road Signs 100 Street Mirrors 100 Street Lights 100
 Appendix P1. XII
@@ -184,7 +200,7 @@ Local Government Auditors P2.10 Guidance for Mayors and Local Local Government (
 Councils' Executive Secretaries 6, 8 P2.11 Miscellaneous
 Appendices P2.I Specimen Annual Audit Report on the
 Local Council's Financial Statements P2.II Specimen Local Government
-Audit ors' Re port o n the Local Council's Indicators to Measure Performance P2.III Specimen Local Government
+Auditors' Report on the Local Council's Indicators to Measure Performance P2.III Specimen Local Government
 Auditors' Report on Value for Money
 P2 Audit Procedures P2.01 Background Information a These Procedures shall be read together with the Act and with the Local
 Government (Financial) Regulations, the Local Government (Audit) Regulations and the Local Government (Financial) Procedures. b The Local Government Act provides for the decentralisation of certain aspects of
@@ -322,17 +338,18 @@ ABC & Co
 Certified Public Accountants
 Appendix P2.I (continued) ....................................... Local Council Annual Audit Report ------------------------------------------------------------------------------------------------------------
 Table of Contents Section Page Statement of Local Council Members' and Executive Secretary's Responsibilities 3 Report of the Local Government Auditor to the Auditor General 4 Statement of Income and Expenditure 5 Statement of Affairs 6 Statement of Changes in Equity 7 Cash flow statement 8 Schedule of Special Needs Funds 9 Notes to the Financial Statements 10
-Appendix P2.I (continued) ....................................... Local Council Annual Audit Report ------------------------------------------------------------------------------------------------------------
+Appendix P2.I (continued) ....................................... Local Council Annual Audit Report
+------------------------------------------------------------------------------------------------------------
 Financial Statements for the year ended 31 March 2006
-Statement of Local Council Members' and Executive Secretary's Responsibilities
-The Local Government (Financial) Regulations require the Executive Secretary to prepare a detailed annual administrative report which includes a statement of the Local Council's income and expenditure for the year and of the Council's retained funds at the end of year. By virtue of the same regulations it is the duty of the Local Council and the Executive Secretary to ensure that the financial statements forming part of the report present fairly, in accordance with the accounting policies applicable to Local Councils, the income and expenditure of the Local Council for the year and its retained funds as at the year end, and that they comply with the Act, the Local Council (Financial) Regulations, and the Local Council (Financial) Procedures issued in terms of the said Act.
+Statement of Local Council Members' and Executive Secretary's Responsibilities The Local Government (Financial) Regulations require the Executive Secretary to prepare a detailed annual administrative report which includes a statement of the Local Council's income and expenditure for the year and of the Council's retained funds at the end of year. By virtue of the same regulations it is the duty of the Local Council and the Executive Secretary to ensure that the financial statements forming part of the report present fairly, in accordance with the accounting policies applicable to Local Councils, the income and expenditure of the Local Council for the year and its retained funds as at the year end, and that they comply with the Act, the Local Council (Financial) Regulations, and the Local Council (Financial) Procedures issued in terms of the said Act.
 The Executive Secretary is responsible to maintain a continuous internal control to ascertain that the accounting, recording and other financial operations are properly conducted in accordance with the Local Government Act, Local Council (Financial) Regulations, and the Local Government (Financial) Procedures. The Executive Secretary is also responsible for safeguarding the assets of the company and hence for taking reasonable steps for the prevention and detection of fraud and other irregularities.
 Appendix P2.I (continued)
 ....................................... Local Council Annual Audit Report ------------------------------------------------------------------------------------------------------------
 Financial Statements for the year ended 31 March 2006 Report of the Local Government Auditor to the Auditor General
 Appendix P2.I (continued) ....................................... Local Council Annual Audit Report ------------------------------------------------------------------------------------------------------------
 Statement of Income and Expenditure for the year ended 31 March 2006
-Appendix P2.I (continued) ....................................... Local Council Annual Audit Report ------------------------------------------------------------------------------------------------------------
+Appendix P2.I (continued) ....................................... Local Council Annual Audit Report
+------------------------------------------------------------------------------------------------------------
 Statement of Affairs as at 31 March 2006
 Notes 2005/2006 2004/2005
 € € € Assets Non-current Assets Property, plant and equipment 131,597.95 103,545.31 12
@@ -373,17 +390,16 @@ Commitments
 Brought Contracted Invoices Carried Forward this year received Forward
 € € € €
 - - Special Program 1 14,442.12 14,442.12 - - Special Program 2 27,952.48 27,952.48 - - Special Program 3 40,204.98 40,204.98 - - Total 82,599.58 82,599.58
-Appendix P2.I (continued) ....................................... Local Council Annual Audit Report ------------------------------------------------------------------------------------------------------------
-Notes to the Financial Statements for the year ended 31 March 2006
-1. General Information .......................................... Local Council is the local authority of ............................ set up in accordance with the Local Government Act. The office of the Local Council is situated at .............................................................................................................................................. .
+Appendix P2.I (continued) ....................................... Local Council Annual Audit Report
+------------------------------------------------------------------------------------------------------------
+Notes to the Financial Statements for the year ended 31 March 2006 1. General Information .......................................... Local Council is the local authority of ............................ set up in accordance with the Local Government Act. The office of the Local Council is situated at .............................................................................................................................................. .
 2. Accounting Policies and Reporting Procedures These financial statements have been drawn up in accordance with the accounting policies and reporting procedures prescribed for Local Councils in the Financial Regulations issued by the Minister of Finance in conjunction with the Minister responsible for Local Government in terms of article 67 of the Local Government Act (Cap. 363). The financial statements are prepared under the historical cost convention as modified to include fair values stated in the accounting policies below. These Financial Statements are prepared in accordance to the requirements of International Financial Reporting Standards and comply with the Local Government Act Cap. 363, the Financial Regulations issued in terms of this Act and the Local Councils (Financial) Procedures 1996.
 The principal accounting policies and reporting procedures used by the Local Councils are as follows:
 a. Revenue recognition Revenue is recognised when there are no significant uncertainties concerning the derivation of consideration or associated costs. Interest income is recognised in the income statement as it accrues.
 b. Local Enforcement System ........................................ Local Council forms part of ...................... Joint Committee. The amount disclosed in the financial statements under Local Enforcement Income represents the share of profit derived from the Joint Committee after deducting the related expenses.
 c. Property, Plant and Equipment Property, plant and equipment is stated at cost less accumulated depreciation and impairment loss to date. Depreciation is calculated on a monthly basis using the reducing balance method at rates calculated to write off the cost less residual value of each asset over its expected useful life as follows:
 %
-Land 0 Trees 0 Buildings 1 Office Furniture and Fittings 7.5 Construction Works 10 Urban Improvements (Street Furniture) 10 Special Projects 10 Office Equipment 20 Motor Vehicles 20 Plant and Machinery 20 Computer Equipment 25 Plants 100 Litter Bins 100 Playground furniture 100 Traffic Signs 100 Road Signs 100 Street Mirrors 100 Street Lights 100
-d. Government Grants Government grants are accounted for on a systematic basis in the Income and Expenditure Account over the periods necessary to match them with the related costs which they are intended to compensate. If such costs have already been incurred when the grant is made, or if there are no related cost, then the grant is accounted for when it becomes receivable.
+Land 0 Trees 0 Buildings 1 Office Furniture and Fittings 7.5 Construction Works 10 Urban Improvements (Street Furniture) 10 Special Projects 10 Office Equipment 20 Motor Vehicles 20 Plant and Machinery 20 Computer Equipment 25 Plants 100 Litter Bins 100 Playground furniture 100 Traffic Signs 100 Road Signs 100 Street Mirrors 100 Street Lights 100 d. Government Grants Government grants are accounted for on a systematic basis in the Income and Expenditure Account over the periods necessary to match them with the related costs which they are intended to compensate. If such costs have already been incurred when the grant is made, or if there are no related cost, then the grant is accounted for when it becomes receivable.
 e. Impairment of Assets Assets that have an indefinite useful life are not subject to amortisation and are tested annually for impairment. Assets that are subject to amortisation or depreciation are reviewed for impairment whenever events or changes in circumstances indicate that the carrying amount may not be recoverable. An impairment loss is recognised for the amount by which the carrying amount of the asset exceeds its recoverable amount. The recoverable amount is the higher of the fair value of the asset less cost to sell and the value in use. Impairment losses are immediately recognised as an expense in the Statement of Income and Expenditure.
 f. Amounts Receivable Amounts receivable are recognised initially at fair value and subsequently measured at amortised cost using the effective interest rate method, less provision for impairment. A provision for impairment of amounts receivable is established when there is objective evidence that the Council will not be able to collect all amounts due according to the original terms of the receivables. The amount of the provision is the difference between the carrying amount of the asset in the present value of the estimated future cash flows, discounted at the effective interest rate. The amount of the provision is recognised in the Statement of Income and Expenditure.
 g. Foreign Currencies Items included in the Financial Statements are measured using the currency of the primary economic environment in which the Local Council operates. These Financial Statements are presented in €, which is the Council's functional and present currency.
@@ -400,9 +416,8 @@ In terms of article 55 of the Local Government Act (Cap. 363) 179,275.56 163,482
 € €
 4. Income raised from Bye-Laws
 - Income raised under Local Council Bye-Laws 361.05
-2005/2006 2004/2005
-€ €
-5. Local Enforcement Income Share of Profit from Joint Committee/Fines and Penalties* 15,760.54 14,174.24 *Applicable only when Local Council does not form part of a Joint Committee.
+2005/2006 2004/2005 € € 5. Local Enforcement Income
+Share of Profit from Joint Committee/Fines and Penalties* 15,760.54 14,174.24 *Applicable only when Local Council does not form part of a Joint Committee.
 2005/2006 2004/2005
 € € 6. Investment Income
 - 773.35 Income received from Government Securities
@@ -452,7 +467,8 @@ Receivables 489.17 349.41 LES debtors 6,033.08 5,264.38 Prepayments and accrued 
 2005/2006 2004/2005
 € € Bank balances: - ordinary funds 150,843.23 17,337.53 - special needs funds 82,599.58 82,599.58
 Cash in Hand 32.61 32.61
-233,475.43 99,969.72 16. Long Term Borrowings
+233,475.43 99,969.72
+16. Long Term Borrowings
 (i) Long term borrowings consist of a loan borrowed by the council with the approval of
 the Minister responsible from Local Government. This amount is to be repaid by 30 June 2014. Interest is being charged at 7% per annum.
 (ii) The loan repayment for the current year amounts to €8,301.89. This consists of 12
@@ -482,7 +498,8 @@ Prepared by:
 ABC & Co
 Certified Public Accountants
 Appendix P2.II (continued)
-.................... Local Council Indicators to Measure Performance Audit Report - Year ------------------------------------------------------------------------------------------------------------
+.................... Local Council Indicators to Measure Performance Audit Report - Year
+------------------------------------------------------------------------------------------------------------
 Table of Contents Section Page
 Executive Summary 01 1.0 Introduction 02 2.0 Scope 02 3.0 Methodology 02 4.0 Findings and Recommendations 03
 4.1 General Observations 03 4.2 Repair and Upkeep (Works) Functions 04
@@ -492,9 +509,11 @@ Executive Summary 01 1.0 Introduction 02 2.0 Scope 02 3.0 Methodology 02 4.0 Fin
 Appendices 16
 Appendix P2.II (continued)
 .................... Local Council Indicators to Measure Performance Audit Report - Year ------------------------------------------------------------------------------------------------------------
-Executive Summary Executive Summary
+Executive Summary
+Executive Summary
 Appendix P2.II (continued)
-.................... Local Council Indicators to Measure Performance Audit Report - Year ------------------------------------------------------------------------------------------------------------ 1.0 Introduction
+.................... Local Council Indicators to Measure Performance Audit Report - Year ------------------------------------------------------------------------------------------------------------
+1.0 Introduction
 2.0 Scope
 3.0 Methodology
 4.0 Findings and Recommendations
@@ -510,7 +529,8 @@ c. Local Council Response
 d. Action Plan
 e. Signatures Local Government Auditors Mayor Executive Secretary
 Appendix P2.II (continued)
-.................... Local Council Indicators to Measure Performance Audit Report - Year ------------------------------------------------------------------------------------------------------------ 4.3 Contractual Services Functions 4.3.x (Function)
+.................... Local Council Indicators to Measure Performance Audit Report - Year ------------------------------------------------------------------------------------------------------------
+4.3 Contractual Services Functions 4.3.x (Function)
 a. Findings
 Comparative
 Graphs/Charts of Indicators to Measure
@@ -531,16 +551,19 @@ Prepared by:
 ABC & Co
 Certified Public Accountants
 Appendix P2.III (continued)
-.................... Local Council Value for Money Audit Report - Year 1 to Year 3 ------------------------------------------------------------------------------------------------------------
+.................... Local Council Value for Money Audit Report - Year 1 to Year 3
+------------------------------------------------------------------------------------------------------------
 Table of Contents Section Page
 Executive Summary 01 1.0 Introduction 02 2.0 Scope 02 3.0 Methodology 02 4.0 Findings and Recommendations 03
 4.01 Organisational Structure 03 4.02 Policies and Practices 04 4.03 Planning and Budgeting 05 4.04 Monitoring and Control 06 4.05 Decision Making 07 4.06 Documentation Control 08 4.07 Human Resources Management 09 4.08 Operation Management 10 4.09 Quality 11 4.10 Financial Management 12 4.11 Procurement and Tendering 13 4.12 Office Practices 14 4.13 Laws and Prosecution 15 4.14 Cost Control and Economics of Scale 16 4.15 Complaints Handling and Customer Service 17 4.16 Indicators to Measure Performance 18 5.0 Conclusion 19
 Appendices 20
 Appendix P2.III (continued)
 .................... Local Council Value for Money Audit Report - Year 1 to Year 3 ------------------------------------------------------------------------------------------------------------
-Executive Summary Executive Summary
+Executive Summary
+Executive Summary
 Appendix P2.III (continued)
-.................... Local Council Value for Money Audit Report - Year 1 to Year 3 ------------------------------------------------------------------------------------------------------------ 1.0 Introduction
+.................... Local Council Value for Money Audit Report - Year 1 to Year 3 ------------------------------------------------------------------------------------------------------------
+1.0 Introduction
 2.0 Scope
 3.0 Methodology
 4.0 Findings and Recommendations
@@ -555,12 +578,12 @@ Signatures
 Local Government Auditor Mayor Executive Secretary
 5.0 Conclusion
 Appendix P2.III (continued)
-.................... Local Council Value for Money Audit Report - Year 1 to Year 3 ------------------------------------------------------------------------------------------------------------
+.................... Local Council Value for Money Audit Report - Year 1 to Year 3
+------------------------------------------------------------------------------------------------------------
 Appendices
 ------------------------------------------------------------------------------------------------------------
 L.C.P. 3/96 - Local 1. In P3.03, a, for the words from "The Secretary" to Councils (Tendering) "of the tender submitted." there shall be substituted the Procedures, 1996. following:
-"The Secretary is to ensure that bid bonds submitted by Tenderers are in conformity with the following table:
-Estimate Value of Contract Bidbond requested Up to €4,658.75 Nil
+"The Secretary is to ensure that bid bonds submitted by Tenderers are in conformity with the following table: Estimate Value of Contract Bidbond requested Up to €4,658.75 Nil
 from €4,661.08 to €11,646.87 €465.87
 from €11,649.20 to €34,940.60 €1,164.69
 from €34,942.93 to €58,234.33 €2,329.37
@@ -623,7 +646,3 @@ proceedings shall be Maltese, unless
 otherwise stated; and
 (e) The applicable substantive law shall be
 the Laws of Malta.".
-- Added by: L.N. 28 of 2000.
-- Amended by: L.N. 152 of 2000; L.N. 320 of 2002; L.N. 323 of 2002; L.N. 319 of 2003; L.N. 403 of 2004; L.N. 328 of 2006.
-- Substituted by: L.N. 425 of 2007.
-- Amended by: L.N. 267 of 2017; L.N. 166 of 2019.
