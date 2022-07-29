@@ -28,5 +28,3 @@ Sulphur content Mg/kg - 10.0 Lead content g/l - 0.005
 4 The summer period shall be taken to start on 1 May and end on 30 September:
 Provided that, limitedly for the year 2020, the start of the summer period shall be taken to start from the 1st of July 2020 and end on 30 September 2020.
 5 Other mono-alcohols and ethers with a final boiling point no higher than that stated in EN 228:2012.
-- Substituted by: L.N. 66 of 2011.
-- Amended by: L.N. 231 of 2012; L.N. 168 of 2015; XXV. 2015.41; L.N. 309 of 2020.

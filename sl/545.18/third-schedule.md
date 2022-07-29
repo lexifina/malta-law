@@ -38,4 +38,3 @@ The formula would accordingly be simplified as follows:
 R G/F ≥ 8,6 · S F (%) - 0,816
 On this basis, the only value that needs to be introduced to the formula to arrive at the required ratio between the mass of boil-off gas and marine fuel consumed (R G/F or M BOG /M F) is the sulphur content of the marine fuel used while at berth. By means of examples, the table below indicates the minimum ratio required to meet the equivalence criteria for marine fuels with different sulphur contents.
 Sulphur content (%) 1,0 % 1,5 % 2,0 % 2,5 % 3,0 % 3,5 % M BOG /M F 7,8 12,1 16,4 20,7 25,0 29,3
-- Added by: L.N. 231 of 2012.
