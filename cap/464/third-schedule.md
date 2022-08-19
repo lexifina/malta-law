@@ -22,5 +22,3 @@ Professions Complementary to Medicine
 - Medical Laboratory Science
 - Medical Physicists
 - Nutritional Therapists
-- Substituted by: L.N. 253 of 2004; L.N. 376 of 2005.
-- Amended by: L.N. 442 of 2011; L.N. 399 of 2014; L.N. 390 of 2018.
