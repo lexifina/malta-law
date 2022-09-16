@@ -21,8 +21,7 @@ The specialities in respect of which the Specialist Accreditation Committee for 
 14. Family Medicine
 15. Forensic Medicine
 16. Gastroenterology
-17. General/Internal Medicine
-18. General Surgery
+17. General/Internal Medicine 18. General Surgery
 19. Genito-Urinary Medicine
 20. Geriatrics
 21. Haemotology
@@ -48,7 +47,7 @@ i. Community Paediatrics
 ii. Paediatric Cardiology
 iii. Paediatric Endocrinology and Diabetes
 iv. Paediatric Gastroenterology, Hepatology and Nutrition
-v. Paediatric Infectious Disease
+v. Paediatric Infectious Diseases and Immunology
 vi. Paediatric Nephrology
 vii. Paediatric Neurology
 viii. Paediatric Oncology
@@ -61,8 +60,7 @@ ix. Paediatric Respiratory Medicine
 45. Rehabilitation Medicine
 46. Respiratory Medicine
 47. Rheumatology
-48. Sports and Exercise Medicine
-49. Urology
+48. Sports and Exercise Medicine 49. Urology
 50. Vascular Surgery
 51. Virology
 B. DENTAL SURGEONS
@@ -70,7 +68,8 @@ The specialities in respect of which the Specialist Accreditation Committee for 
 1. Oral Surgery
 2. Orthodontics
 C. NURSES
-The specialities in respect of which the Specialist Accreditation Committee for nurses shall issue certificates of completion of specialist training shall be the following:
+The specialities in respect of which the Specialist Accreditation
+Committee for nurses shall issue certificates of completion of specialist training shall be the following:
 1. Accident and Emergency
 2. Anaesthesia and Pain Management
 3. Critical and intensive care
@@ -90,11 +89,12 @@ Medicine* 9.
 17. Rehabilitation
 18. Surgery*
 D. MIDWIVES
-The specialities in respect of which the Specialist Accreditation Committee for midwives shall issue certificates of completion of specialist training shall be the following:
+The specialities in respect of which the Specialist Accreditation
+Committee for midwives shall issue certificates of completion of specialist training shall be the following:
 1. Neonatal
 2. Obstetrics
 3. Perinatal mental health
 4. Primary and community care
 5. Public health
 6. Reproductive health
-- Amended by: III. 2004.32; L.N. 206 of 2011; L.N. 373 of 2011; L.N. 292 of 2015; L.N. 23 of 2018; L.N. 59 of 2018; L.N. 390 of 2018.
+- Amended by: III. 2004.32; L.N. 206 of 2011; L.N. 373 of 2011; L.N. 292 of 2015; L.N. 23 of 2018; L.N. 59 of 2018; L.N. 390 of 2018; L.N. 233 of 2022.
