@@ -11,5 +11,9 @@ New application or renewal of the general licence to take €50 for a validity b
 Replacement of a lost general licence document (licence €20 for any card) replacement licence
 document (licence
 card) issued
+Submission of documents or applications, or compliance with
+€150 for each late any payment obligation after the deadline stipulated in writing
+submission or late by the Wild Birds Regulation Unit:
+payment in addition to the original amount, if Provided that this shall not apply to fines (multi) that are not paid within the stipulated deadline due
 - Added by: L.N. 252 of 2014.
-- Amended by: L.N. 281 of 2015; L.N. 69 of 2016.
+- Amended by: L.N. 281 of 2015; L.N. 69 of 2016; L.N. 255 of 2022.
