@@ -17,6 +17,7 @@ Misleading commercial practices
 9. Stating or otherwise creating the impression that a product can legally be sold when it cannot.
 10. Presenting rights given to consumers by law as a distinctive feature of the trader's offer.
 11. Without prejudice to the provisions of the Broadcasting Act (Cap. 350) and any regulations made thereunder, using editorial content in the media to promote a product where a trader has paid for the promotion without making that clear in the content or by images or sounds clearly identifiable by the consumer (advertorial).
+11a. Providing search results in response to a consumer's online search query without clearly disclosing any paid advertisement or payment specifically for achieving higher ranking of products within the search results.
 12. Making a materially inaccurate claim concerning the nature and extent of the risk to the personal safety or security of the consumer or his family if the consumer does not purchase the product.
 13. Promoting a product similar to a product made by a particular manufacturer in such a manner as deliberately to mislead the consumer into believing that the product is made by that same manufacturer when it is not.
 14. Establishing, operating or promoting a pyramid promotional scheme where a consumer gives consideration for the opportunity to receive compensation that is derived primarily from the introduction of other consumers into the scheme rather than from the sale or consumption of products.
@@ -29,6 +30,9 @@ Misleading commercial practices
 21. Including in marketing material an invoice or similar document seeking payment which gives the consumer the impression that he has already ordered the marketed product when he has not.
 22. Falsely claiming or creating the impression that the trader is not acting for purposes relating to his trade, business, craft or profession, or falsely representing oneself as a consumer.
 23. Creating the false impression that after-sales service in relation to a product is available in a Member State other than the one in which the product is sold.
+23a. Reselling events tickets to consumers if the trader acquired them by using automated means to circumvent any limit imposed on the number of tickets that a person can buy or any other rules applicable to the purchase of tickets.
+23b. Stating that reviews of a product are submitted by consumers who have actually used or purchased the product without taking reasonable and proportionate steps to check that they originate from such consumers.
+23c. Submitting or commissioning another legal or natural person to submit false consumer reviews or endorsements, or misrepresenting consumer reviews or social endorsements, in order to promote products.
 Aggressive commercial practices
 24. Creating the impression that the consumer cannot leave the premises until a contract is formed.
 25. Conducting personal visits to the consumer's home ignoring the consumer's request to leave or not to return except in circumstances and to the extent justified, under national law, to enforce a contractual obligation.
