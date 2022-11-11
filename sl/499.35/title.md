@@ -1,4 +1,4 @@
 SUBSIDIARY LEGISLATION 499.35
 PORTS SECURITY REGULATIONS
 1st December, 2004
-LEGAL NOTICE 484 of 2004, as amended by Legal Notices 425 of 2007 and 3 of 2008; Act XV of 2009; and Legal Notice 329 of 2012.
+LEGAL NOTICE 484 of 2004, as amended by Legal Notices 425 of 2007 and 3 of 2008; Act XV of 2009; and Legal Notice 329 of 2012 and Act XVI of 2022.
