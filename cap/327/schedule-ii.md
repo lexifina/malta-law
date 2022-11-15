@@ -1,6 +1,6 @@
 ## SCHEDULE II
 ## *Regulations shall be applicable from October 2022 or later.
-## *Regulations shall be applicable from October 2025 or later.
+## *Regulations shall be applicable from October 2025 and October 2027.
 # schedule-ii
 STATUTES, REGULATIONS AND BYE-LAWS
 [ARTICLE 136]
@@ -293,13 +293,14 @@ programme of study may specify other requirements in addition to the general ent
 another language as approved by the Admissions Board,
 provided that, as from September 2018 such other language cannot be English and applicants whose mother tongue is English shall be required to offer a language other than English instead of Maltese.
 (6) Notwithstanding that provided in sub-regulation (5), where Course regulations or bye-laws specify Maltese as a special Course requirement, the required pass in Maltese must be obtained at the level and grade as stipulated in the respective Course regulations or bye-laws.
-Maltese as a Requirement 13.* (1) Further to the requirement of Maltese at Secondary Education Certificate level for admittance to the Junior College as specified in regulation 10 or for admittance to the University Undergraduate courses as specified in regulation 12, the Admissions Board may, in special circumstances and subject to the conditions set out hereunder, allow an applicant to offer another language instead of Maltese, as follows:
+Maltese as a Requirement 13.* (1) As from October 2025, for admittance to the Junior College, and as from October 2027, for admittance to the University undergraduate courses, further to the requirement of Maltese at Secondary Education Certificate level, as specified in regulations 10 and 12 of these regulations, the Admissions Board may, in special circumstances and subject to the conditions set out hereunder, allow an applicant to offer another language instead of Maltese, as follows:
 (a) a Maltese applicant, who has lived and studied abroad for a significant
-period during the previous four years, and has not received adequate teaching in Maltese.
-(b) a Non-Maltese applicant, who pursued at least four years of
-compulsory secondary level schooling in Malta, may present a pass at Grade 5 or better in Il-Malti bħala Lingwa Barranija (SEC) for admission.
-(c) a Non-Maltese applicant, who pursued less than four years of
-compulsory secondary level schooling in Malta, may present either a pass at Grade 5 or better in Il-Malti bħala Lingwa Barranija (SEC) or in another language at SEC level at grade 5 or better or at a comparable level.
+period during the previous four years, and has not received adequate teaching in Maltese;
+(b) a Non-Maltese applicant, who pursued at least four years of compulsory
+secondary level schooling in Malta, may present a pass at Grade 5 or better in Il-Malti bħala Lingwa Barranija (SEC) for admission;
+(c) a Non-Maltese applicant, who pursued less than four years of compulsory
+secondary level schooling in Malta, may present either a pass at Grade 5 or better in Il-Malti bħala Lingwa Barranija (SEC) or in another language at
+SEC level at grade 5 or better or at a comparable level.
 (2) Notwithstanding that provided in paragraph (1) of this regulation, where for admittance to the University Undergraduate courses, course regulations or bye-laws specify Maltese as a special Course requirement, the required pass in Maltese must be obtained at the level and grade as stipulated in the respective Course regulations or bye-laws.
 Proficiency and Aptitude Tests
 14. (1) The regulations or bye-laws of undergraduate or postgraduate Courses may require applicants to:
@@ -317,8 +318,7 @@ student may not register concurrently for more than one Course leading to a degr
 (b) Students may be allowed to register for any concurrent courses, if the student's workload does not exceed 75 ECTS credits per academic year in the case of full-time students or if the student's workload does not exceed 45 ECTS credits per academic year in the case of part-time students.
 (3) A student who discontinues a Course or is not permitted by the relevant Course regulations or bye-laws, to continue a Course, shall not be allowed to re-register as a student in any Course before the lapse of one year from the effective date of such discontinuation, unless with the permission of the Admissions Board.
 (4) Exceptionally, and for objective reasons, Course bye-laws may specify a minimum age for admission, as approved by Senate.
-Applications for Admission
-17. (1) Applicants wishing to join Courses in terms of these regulations shall apply by the prescribed dates unless, in special circumstances, with the permission of the Admissions Board.
+Applications for Admission 17. (1) Applicants wishing to join Courses in terms of these regulations shall apply by the prescribed dates unless, in special circumstances, with the permission of the Admissions Board.
 (2) Applicants shall submit all supporting documents, including an original recent Police Good Conduct Certificate, if required, within the deadline stipulated by the Office of the Registrar. Should they fail to do so, applicants shall be considered as no longer interested to pursue the Course/s they applied for.
 (3) (a) For Courses which involve work with vulnerable persons, applicants
 shall submit an original recent Police Good Conduct Certificate. A list of such Courses shall be approved by Senate and shall be published at the time of call for applications.
