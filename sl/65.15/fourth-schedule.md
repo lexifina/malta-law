@@ -2,37 +2,93 @@
 # fourth-schedule
 (Regulations 9 and 19)
 SPECIFICATIONS FOR TESTING EQUIPMENT
-The fully-computerised Test Lane/s shall incorporate:
-1. Roller Brake Tester for motor vehicles and trailers with a maximum permissible mass of 3,500kgs and over; or Roller Brake Tester for motor vehicles and trailers with a maximum permissible mass of less than 3,500Kg; or Roller Brake Tester for motorcycles; or Plate Brake Tester as an option to above in weight category:
-Provided that with effect from 20 May 2023, such Roller Brake and Plate Brake Testers shall be in accordance with Annex A to standard ISO 21069-1 on the technical requirements of roller brake tester or equivalent standards;
-2. Headlamp aiming device allowing the setting of the headlight to be tested:
-3. Exhaust Gas Analyser - Petrol and Diesel:
-Provided that with effect from 20 May 2023, such analyser shall be a 4-gas analyser in accordance with Directive 2004/22/EC of the European Parliament and of the Council)
-4. Electronic Wheel Turning Plates;
-5. Electronic Sound Level Meter;
-6. Lift or Pit facilities with Axle Jacking Equipment.
-Other Equipment
-7. Decelerometer - (portable) for testing brakes in the eventual failure of the equipment mentioned in paragraph 1, and for use on vehicles which cannot be tested by the above-mentioned equipment, e.g. permanent four-wheel drive, vehicles with studded tyres, etc.;
-8. Thread gauge, tapping hammer, small lever and Low Volt Lamp and a set of wheel chocks.
-9. With effect from 20 May 2023, a device to connect to the electronic vehicle interface, such as an OBD scan tool.
+1. Equipment
+Vehicle roadworthiness tests undertaken in accordance with these regulations shall be carried out by using the appropriate equipment. The test equipment that is necessary will depend on the vehicle categories to be tested, as described in Table I. The fully-computerised test lane/s shall incorporate the following minimum equipment:
+1. For each test lane, a pit or lift and, for the testing of vehicles having a maximum mass exceeding 3.5 tonnes, a device to lift a vehicle on one of the axles, equipped with appropriate lighting and, where necessary, with aeration devices;
+2. For testing any vehicle, a roller brake tester capable of measuring, displaying and recording the braking forces and the air pressure in air brake systems, provided that with effect from 20 May 2023, such roller brake tester shall be in accordance with Annex A to standard ISO 21069-1 on the technical requirements of roller brake tester or equivalent standards;
+3. For testing vehicles having a maximum mass not exceeding 3.5 tonnes, a roller brake tester in accordance with item 2, which may not have the capability of recording and displaying braking forces, pedal force and the air pressure in air brake systems, or
+A plate brake tester equivalent to the roller brake tester in accordance with item 2, which may not have the capability of recording and displaying the braking forces, pedal force and the air pressure in air brake systems;
+4. A deceleration recording instrument, while non-continuous measurement instruments must record and, or store measurements at least 10 times per second;
+5. Facilities for the testing of air brake systems, such as manometers, connectors and hoses;
+6. A wheel or axle load measuring device to determine the axle loads (optional facilities for measuring two-wheel loads, such as wheel weight pads and axle weight pads);
+7. A device for testing the wheel-axle suspension (wheel play detector) without lifting the axis, meeting the following requirements:
+(a) the device must be equipped with at least two power-operated plates that can be moved in opposite sense in both the longitudinal and the transversal directions;
+(b) the movement of the plates must be controllable by the operator from the testing position;
+(c) for vehicles having a maximum mass exceeding 3.5 tonnes, the plates
+shall comply with the following technical requirements:
+- longitudinal and transversal movement of at least 95 mm,
+- longitudinal and transversal movement speed 5 cm/s to 15 cm/s;
+8. A Class II sound level meter;
+9. An exhaust gas analyser for petrol and diesel vehicles, provided that with effect from 20 May 2023, such analyser shall be a 4-gas analyser (carbon monoxide, carbon dioxide, oxygen and hydrocarbons) in accordance with Directive 2014/32/EU of the European Parliament and of the Council of 26 February 2014 on the harmonisation of the laws of the Member States relating to the making available on the market of measuring instruments (recast);
+10. A device for measuring the absorption coefficient with sufficient accuracy;
+11. One headlamp aiming device allowing the setting of the headlight to be tested in accordance with the provisions for the setting of headlights of motor vehicles (Regulation (EU) 2019/2144); the light and dark boundary must be easily recognisable in daylight (without direct sunlight);
+12. A device for measuring the tread depth of tyres;
+13. A device to connect to the electronic vehicle interface, such as an OBD scan tool;
+14. A device to detect LPG/CNG/LNG leakage, if such vehicles are tested.
+Any of the above devices may be combined in one composite device, provided that this does not affect the accuracy of each device.
+II. Calibration of equipment used for measurements
+The interval between two successive calibrations may not exceed:
+(i) 24 months for the measurement of weight, pressure and sound level;
+(ii) 24 months for the measurement of forces;
+(iii) 12 months for the measurement of gaseous emissions.
+III. Other Requirements
 The fully computerised test lane/s will be required to:
-• test the braking efficiency of service, secondary and parking brakes to at
-least 50% maximum permissible mass, 25% maximum permissible mass and 16% maximum permissible mass respectively, as well as a Brake imbalance limit of at least 70% on every axle;
-• test the exhaust gas emissions of petrol engines at least for Carbon
-Monoxide and Hydrocarbon gas levels to within manufacturers' specifications of at least 0% volume and 50 ppm respectively;
-• measure the engine revolutions per minute and engine oil temperature at
-time of test;
-• perform a Lambda test as per makers' specification and have 1K as its limit
-value;
-• test exhaust gas opacity co-efficient of absorption of both naturally aspirated
-and turbo-charged Diesel engines as per makers' specifications (minimum scale range is K= 0 to 6m-1);
-• test steering free play through the use of wheel turning plates;
-• have facility to lift vehicles for under-vehicle inspection and to raise
-separate axles to determine steering and suspension wear and tear;
-• test Headlamp Aim to pre-set limits within the Band tolerances on the
-equipment aiming screen as required for headlamp type and height setting;
-• perform exhaust system sound level testing;
-• print and transmit to link at Licensing and Testing Directorate, the limits and
-actual values resulting from tests carried out, as well as the particulars of the relative authorised testing station and of the vehicle undergoing the test, and the date and time of test.
-The software, hardware and communications equipment used by operators must be capable of on-line retrieval and update of the vehicle databases in use by the Licensing and Testing Directorate.
-The software, hardware and communications equipment used by operators must be in accordance with Government standards.
+1. test the braking efficiency of service, secondary and parking brakes to at least 50% maximum permissible mass, 25% maximum permissible mass and 16% maximum permissible mass respectively, as well as a brake imbalance limit of at least 70% on every axle;
+2. test the exhaust gas emissions of petrol engines at least for carbon monoxide and hydrocarbon gas levels to within manufacturers' specifications of at least 0% volume and 50 ppm respectively;
+3. measure the engine revolutions per minute and engine oil temperature at time of test;
+4. perform a Lambda test as per makers' specification and have 1K as its limit value;
+5. test exhaust gas opacity co-efficient of absorption of both naturally aspirated and turbo-charged diesel engines as per makers' specifications (minimum scale range is K= 0 to 6m⁻¹);
+6. test steering free play through the use of wheel turning plates;
+7. have the facility to lift vehicles for under-vehicle inspection and to raise separate axles to determine steering and suspension wear and tear;
+8. test headlamp aim to pre-set limits within the band tolerances on the equipment aiming screen as required for headlamp type and height setting;
+9. perform exhaust system sound level testing;
+10. print and transmit to link at Land Transport Directorate, the limits and actual values resulting from tests carried out, as well as the particulars of the relative authorised testing station and of the vehicle undergoing the test, and the date and time of test.
+The software, hardware and communications equipment used by operators must be capable of on-line retrieval and update of the vehicle databases in use by the Land Transport Directorate. The software, hardware and communications equipment used by operators must be in accordance with Government standards.
+Table I*
+Minimum equipment required for the purpose of performing a roadworthiness test
+Vehicles Category Equipment required for each item listed in section I
+Maxim
+um 1 2 3 4 5 6 7 8 9 10 11 12 13 14 Mass 1.Motorcy
+** cles
+L1e P x x x x x L3e,
+P x x x x x
+L4e L3e,
+D x x x x x
+L4e L2e P x x x x x x L2e D x x x x x x L5e P x x x x x x L5e D x x x x x x L6e P x x x x x x L6e D x x x x x x L7e P x x x x x x L7e D x x x x x x 2. Vehicles for the carriage of persons
+≤3,500 M1,
+P x x x x x x x x
+kg M2 ≤3,500 M1,
+D x x x x x x x
+kg M2 > 3,500 M2,
+P x x x x x x x x x x x x
+kg M3 > 3,500 M2,
+D x x x x x x x x x x x
+kg M3 3. Vehicles for the carriage of goods
+≤ 3,500
+N1 P x x x x x x x x
+kg ≤ 3,500
+N1 D x x x x x x x
+kg > 3,500 N2,
+P x x x x x x x x x x x x
+kg N3 > 3,500 N2,
+D x x x x x x x x x x x
+kg N3 4. Special vehicles derived from a category N vehicle, T1b, T2b, T3b, T4.1b, T4.2b and T4.3b
+≤ 3,500
+N1 P x x x x x x x x
+kg ≤ 3,500
+N1 D x x x x x x x
+kg > 3,500 N2, kg N3,
+T1b, T2b,
+P x x x x x x x x x x x x T3b,
+T4.1b, T4.2b and T4.3b
+> 3,500 N2, kg N3,
+T1b, T2b,
+D x x x x x x x x x x x T3b,
+T4.1b, T4.2b and T4.3b 5. Trailers
+≤ 750
+O1 x
+kg > 750 Kg ≤
+O2 x x x
+3,500 kg > 3,500 O3, x x x
+x x x
+kg O4 * The vehicle categories which are outside the scope of these regulations are included for guidance. ** P…petrol (positive ignition); D…diesel (compression ignition)."

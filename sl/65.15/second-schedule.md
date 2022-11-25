@@ -22,4 +22,5 @@ CATEGORY VII - Mopeds, Motorcycles, Motor Tricycles, Quadricycles and
 Quad bikes (L3e, L4e, L5e and L7e vehicles with an engine
 displacement of more than 125cm³).
 CATEGORY VIII- Wheeled tractors with a maximum design speed exceeding 40
-km/h, the use of which mainly takes place on public roads (T5 vehicles).
+km/h, the use of which mainly takes place on public roads (T1b,
+T2b, T3b, T4.1b, T4.2b and T4.3b vehicles)
