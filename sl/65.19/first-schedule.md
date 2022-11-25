@@ -1,5 +1,4 @@
 ## FIRST SCHEDULE
-## L.N. 134 of 2006.
 # first-schedule
 (Regulation 7)
 PART I
@@ -39,4 +38,3 @@ Address: .......................................................................
 Auditor's/Accountant's signature: ..................................................
 Date: .....................................
 i.e. an auditor or accountant as defined by the Accountancy Profession Act.
-- Substituted by: L.N. 408 of 2007.

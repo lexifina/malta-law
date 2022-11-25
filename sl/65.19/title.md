@@ -2,4 +2,4 @@ SUBSIDIARY LEGISLATION 65.19
 MOTOR VEHICLES (CARRIAGE OF GOODS BY ROAD)
 REGULATIONS
 1st May, 2004
-LEGAL NOTICE 146 of 2003, as amended by Legal Notices 134 of 2006, and 225 and 408 of 2007; Acts V of 2007 and XV of 2009; and Legal Notices 74 of 2010, 395 of 2011 and 423 of 2016.
+LEGAL NOTICE 146 of 2003, as amended by Legal Notices 134 of 2006, and 225 and 408 of 2007; Acts V of 2007 and XV of 2009; and Legal Notices 74 of 2010, 395 of 2011, 423 of 2016 and 300 of 2022.
