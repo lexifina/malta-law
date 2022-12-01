@@ -1,4 +1,4 @@
 SUBSIDIARY LEGISLATION 463.32
 START-UP FINANCE REGULATIONS
 1st January, 2020
-LEGAL NOTICE 335 of 2019, as amended by Legal Notice 296 of 2020.
+LEGAL NOTICE 335 of 2019, as amended by Legal Notices 296 of 2020 and 19 of 2023.
