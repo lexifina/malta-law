@@ -21,8 +21,7 @@ C. Intersections with major roads
 These signs (and similar signs with a different symbol) give advance warning to drivers on a minor road of the approach of an intersection with a major road as shown by the symbol. On encountering such a sign, drivers shall reduce their speed and, on reaching the intersection, give priority to all vehicular traffic, including turning traffic, on the major road.
 (1) (2)
 CROSSROADS T-JUNCTION
-D. Intersections with minor roads
-These signs (and similar signs with a different symbol) give warning to drivers on a major road of the approach of an intersection, of the type shown by the symbol, with a minor road. Although priority lies with the major road, drivers thereon should be on the lookout for possible emergency traffic from the minor road.
+D. Intersections with minor roads These signs (and similar signs with a different symbol) give warning to drivers on a major road of the approach of an intersection, of the type shown by the symbol, with a minor road. Although priority lies with the major road, drivers thereon should be on the lookout for possible emergency traffic from the minor road.
 (1) (2) (3)
 CROSSROADS SIDE ROAD ON LEFT SIDE ROAD ON RIGHT
 (4) (5)
@@ -159,8 +158,8 @@ NO WAITING BETWEEN 7.00 A.M. AND NOON
 (20)
 ALTERNATIVE "NO WAITING" SIGNS FOR ENVIRONMENTAL
 SENSITIVE AREAS
-(g) This sign No. (21), which shall be affixed near electric vehicle charging stations, indicates that between 7.00am and 10.00pm only electric vehicles may be parked thereon for the purpose of charging and for a maximum of 30 minutes after the vehicle is fully charged, whereas any electric vehicle may be parked thereon without restrictions during the remaining hours:
-Provided that, for the purposes of this provision, the term "electric vehicle" shall mean a Category M1 or N1 vehicle which is powered solely and exclusively by one or more electric motors using electrical energy stored in batteries, which batteries are charged with an external electricity source, including Plugin Hybrid vehicles and excluding electric motor cycles.
+(g) This sign No. (21), which shall be affixed near the electric vehicle charging stations, indicates that between 7.00am and 10.00pm only electric vehicles may be parked thereon for the purpose of charging, and for a maximum of thirty (30) minutes after the vehicle is fully charged, whereas any electric vehicle may be parked thereon without restrictions during the remaining hours:
+Provided that for the purposes of this provision, the term "electric vehicle" shall mean a Category M1 or N1 vehicle which is powered solely and exclusively by one or more electric motors, using electrical energy stored in batteries, which batteries are charged with an external electricity source, including Plugin hybrid vehicles and excluding electric motorcycles.
 (21)
 E. Mandatory - Operation
 These signs (or similar signs with a different symbol, words or figures) impose certain obligations on vehicles or other road users, as specified by the particular sign. They are placed slightly in advance, or at the point of commencement, of the obligation.
@@ -467,4 +466,4 @@ PART V - INTERPRETATION
 For the purpose of this Schedule -
 "minor road" means a road at a road junction on which road there is placed a STOP sign or a GIVE WAY sign;
 "major road" means the road at a road junction into which road there emerges vehicular traffic from a minor road.
-- Amended by: L.N. 106 of 1970; L.N. 99 of 1974; L.N. 25 of 1978; L.N. 53 of 1979; L.N. 129 of 1990; L.N. 101 of 1997; L.N. 126 of 1999; L.N. 207 of 2000; L.N. 151 of 2009; L.N. 114 of 2011; L.N. 253 of 2011; L.N. 173 of 2018; L.N. 120 of 2019; L.N. 264 of 2022.
+- Amended by: L.N. 106 of 1970; L.N. 99 of 1974; L.N. 25 of 1978; L.N. 53 of 1979; L.N. 129 of 1990; L.N. 101 of 1997; L.N. 126 of 1999; L.N. 207 of 2000; L.N. 151 of 2009; L.N. 114 of 2011; L.N. 253 of 2011; L.N. 173 of 2018; L.N. 120 of 2019; L.N. 264 of 2022; L.N. 318 of 2022.
