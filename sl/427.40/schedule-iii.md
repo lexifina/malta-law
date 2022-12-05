@@ -9,6 +9,9 @@ Bisphenol A 80-05-7 0,04 mg/l (migration limit) in accordance with the
 methods laid down in EN 71-10:2005 and EN 71-
 11:2005
 20 μg/m3 (emission limit) after a maximum of 28 Formamide 75-12-7 days from commencement of the emission testing of foam toy materials containing more than 200 mg/kg (cut-off limit based on content).
+Aniline 62-53-3 30 mg/kg after reductive cleavage in textile toy
+material
+10 mg/kg and leather toy material 30mg/kg as free aniline in finger paints after reductive cleavage in finger paints
 Phenol 108-95-2 5 mg/l (migration limit) in polymeric materials
 in accordance with the methods laid down in EN 71-10:2005 and EN 71-11:2005
 10mg/kg (content limit) as a preservative in accordance with the methods laid down in EN 71-10:2005 and EN 71-11:2005
