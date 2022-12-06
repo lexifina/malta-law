@@ -6,4 +6,4 @@ SURGERY ASSISTANCE - Dip. D.S.A. - UNDER
 THE AUSPICES OF THE FACULTY OF
 DENTAL SURGERY
 20th November, 2015
-LEGAL NOTICE 368 of 2015, as amended by Legal Notices 319 of 2017 and 298 of 2020.
+LEGAL NOTICE 368 of 2015, as amended by Legal Notices 319 of 2017 and 298 of 2020 and 327 of 2022.
