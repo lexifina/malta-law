@@ -6,4 +6,4 @@ SCIENCE (HONOURS) - B.Sc. (HONS) - UNDER
 THE AUSPICES OF THE FACULTY
 OF DENTAL SURGERY
 25th May, 2012
-LEGAL NOTICE 160 of 2012, as amended by Legal Notices 40 of 2013, 226 of 2014, 334 of 2015, 71 of 2016 and 313 of 2016.
+LEGAL NOTICE 160 of 2012, as amended by Legal Notices 40 of 2013, 226 of 2014, 334 of 2015, 71 of 2016 and 313 of 2016 and 323 of 2022.
