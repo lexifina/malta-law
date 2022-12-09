@@ -9,11 +9,11 @@ including, inter alia:
 a. Knowledge of the characteristics of the
 transmission (gear) systems enabling a driver to make the best possible use of them;
 b. Knowledge of the technical characteristics and
-operation of the safety controls in order to control the vehicle (compliance with safety and security procedures), minimise
-wear and tear and prevent vehicle malfunction; and
+operation of the safety controls in order to control the vehicle
+[S.L. 499.68 VEHICLE HIRE SERVICES 43
+(compliance with safety and security procedures), minimise wear and tear and prevent vehicle malfunction; and
 c. Ability to optimise fuel consumption and ECO
 driving skills.
-[S.L. 499.68 VEHICLE HIRE SERVICES 43
 2. Safety of driver, passengers and other road users including:
 a. Ability to ensure passenger comfort and safety
 including particular behaviour with elderly and passengers with special needs;
@@ -40,11 +40,11 @@ f. Physical fitness to drive a light passenger
 transport vehicle; and
 g. Awareness of the risks on the road and accidents
 at work.
-3. Routes and destinations
+3. Routes and destinations [S.L. 499.68 44 VEHICLE HIRE SERVICES
 a. Thorough knowledge of routes, including the
 ability to provide shortest route and alternate routes; and
 b. Basic knowledge of prime tourist and commercial
-locations across Malta and Gozo [S.L. 499.68 44 VEHICLE HIRE SERVICES
+locations across Malta and Gozo
 4. Interpersonal skills including:
 a. Customer Care
 b. Politeness
