@@ -180,7 +180,8 @@ Diploma geneeskundig Geneeskunst specialist
 -Registratiecommissie Geneeskundig Specialisten (RGS) van de Koninklijke Nederlandsche Maatschappij tot Bevordering der Geneeskunst (1)
 Österreich Facharztdiplom Österreichische Ärztekammer 1.1.1994
 Polska Dyplom uzyskania tytułu Centrum Egzaminów 1.5.2004
-specjalisty Medycznych Portugal Titulo de especialista Ordem dos Médicos 1.1.1986
+specjalisty Medycznych
+Portugal Titulo de especialista Ordem dos Médicos 1.1.1986
 România Certificat de medic Ministerul Sănătăţii 1.1.2007
 specialist
 Slovenija Potrdilo o opravljenem 1.Ministrstvo za zdravje 1.5.2004
@@ -237,7 +238,8 @@ réanimation
 Magyarország Aneszteziológia és Sebészet
 intenzív terápia
 Malta Anesteżija u Kura Kirurġija Ġenerali
-Intensiva Nederland Anesthesiologie Heelkunde
+Intensiva
+Nederland Anesthesiologie Heelkunde
 Österreich Anästhesiologie und - Chirurgie
 Intensivmedizin - Allgemeinchirurgie und
 Viszeralchirurgie (4)
@@ -436,7 +438,8 @@ Traumatologie (3)
 Polska Ortopedia i traumatologia Patomorfologia
 narządu ruchu
 Portugal Ortopedia Anatomia patologica
-România Ortopedie şi traumatologie Anatomie patologică Slovenija - Ortopedska kirurgija; Patologija
+România Ortopedie şi traumatologie Anatomie patologică
+Slovenija - Ortopedska kirurgija; Patologija
 Travmatologija
 Slovensko Ortopédia Patologická anatómia
 Suomi/Finland Ortopedia ja traumatologia/ Patologia/Patologi
@@ -589,7 +592,8 @@ Lietuva
 Luxembourg Microbiologie Chimie biologique
 Magyarország Orvosi mikrobiológia
 Malta Mikrobijoloġija Patoloġija Kimika
-Nederland Medische microbiologie Klinische chemie (6) Österreich -Hygiene und Mikrobiologie Medizinische und Chemische
+Nederland Medische microbiologie Klinische chemie (6)
+Österreich -Hygiene und Mikrobiologie Medizinische und Chemische
 Labordiagnostik
 -Klinische Mikrobiologie und Hygiene (7)
 -Klinische Mikrobiologie und Virologie (8)
@@ -632,7 +636,8 @@ Lietuva Krūtinės chirurgija
 Luxembourg Immunologie Chirurgie thoracique
 Magyarország Allergológia és klinikai immunológia Mellkassebészet
 Malta Immunoloġija Kirurġija Kardjo-Toraċika
-Nederland Cardio-thoracale chirurgie Österreich -Immunologie Thoraxchirurgie
+Nederland Cardio-thoracale chirurgie
+Österreich -Immunologie Thoraxchirurgie
 -Klinische Immunologie (4)
 Polska Immunologia kliniczna Chirurgia klatki piersiowej
 Portugal Cirurgia cardiotorácica
@@ -930,8 +935,7 @@ Ireland Infectious diseases Public health medicine
 Italia Malattie infettive Igiene e medicina preventiva
 Malattie infettive e tropicali (2)
 Κύπρος -Υγειονολογία Λοιμώδη Νοσήματα (3)
--Κοινοτική Ιατρική
-Latvija Infektoloģija
+-Κοινοτική Ιατρική Latvija Infektoloģija
 Lietuva Infektologija
 Luxembourg Maladies contagieuses Santé publique
 Magyarország Infektológia Megelőző orvostan és
@@ -947,8 +951,7 @@ Slovenija Infektologija Javno zdravje
 Slovensko Infektológia Verejné zdravotníctvo
 Suomi/Finland Infektiosairaudet/Infektionssjukdomar Terveydenhuolto/Hälsovård
 Sverige Infektionssjukdomar Socialmedicin
-United Infectious diseases (5) Public health medicine (6)
-Kingdom
+United Infectious diseases (5) Public health medicine (6) Kingdom
 . (1) Since 2017. . (2) Since February 2015. . (3) Date of repeal in terms of Article 27(3): 08.12.2016. . (4) Since June 2015. . (5) Issued before 01.01.2021. . (6) Issued before 01.01.2021.
 Pharmacology Occupational Medicine
 Minimum period of training: Minimum period of
@@ -1215,7 +1218,8 @@ Sverige Klinisk neurofysiologi United Kingdom Clinical neurophysiology Oral and 
 . (1) Training leading to the award of evidence of formal qualifications as a specialist in dental,
 oral and maxillo-facial surgery (basic medical and dental training) assumes completion and validation of basic medical studies (Article 24) and, in addition, completion and validation of basic dental studies (Article 34). . (2) Since 2006. . (3) Since 10.07.2014. . (4) Since 2020/2021 . (5) Since 2009. . (6) Issued before 01.01.2021. . (7) Issued before 01.01.2021.
 Medical oncology Medical genetics
-Minimum period of Minimum period of training: training: 5 years 4 years
+Minimum period of Minimum period of training:
+training: 5 years 4 years
 Country Title Title
 Belgique/België/ Oncologie médicale/ Klinische genetica/génétique clinique Belgien Medische oncologie (1)
 България Медицинска онкология Медицинска генетика
@@ -1498,7 +1502,7 @@ yliopisto
 ä/Beslut av
 -Turun Tillstånds- och yliopisto tillsynsverket
 för socialoch hälsovården om godkännande av prakisk tjänstgöring
-Tandläkarexamen Universitet eller Bevis om Tandläkare 1.1.1994 Sverige
+Sverige Tandläkarexamen Universitet eller Bevis om Tandläkare 1.1.1994
 högskola legitimation
 som tandläkare, utfärdat av Socialstyrelsen
 United Kingdom -Bachelor of Dental -Universities Dentist 28.1.1980
@@ -1673,8 +1677,7 @@ Slovensko Diplom o špecializácii v Univerzita 17.12.2008
 Suomi/Finland Erikoishammaslääkärin Yliopisto 1.1.1994
 tutkinto, suu-ja leukakirurgia/ Specialtandläkarexamen, oral och maxillofacial kirurgi
 Sverige Bevis om Socialstyrelsen 1.1.1994
-specialistkompetens i oral kirurgi
-United Kingdom Certificate of completion Competent authority 28.1.1980
+specialistkompetens i oral kirurgi United Kingdom Certificate of completion Competent authority 28.1.1980
 of specialist training in recognised for this purpose
 oral surgery (3)
 . (1) Until 31.12.2020. . (2) Since 01.01.2021.0 . (3) Issued before 01.01.2021.
@@ -1965,8 +1968,7 @@ verpleger/verpleegster/ Les établissements Verpleegassistent
 Diplôme d'enseignement (e)
 d'infirmier(ère) reconnus/Die gradué(e)/Diplom eines anerkannten (einer) graduierten Ausbildungsanstalten Krankenpflegers (-pflegerin) България Диплома за висше Университет Медицинска 1.1.2007
 образование на сестра
-образователно-квалификационна степен "Бакалавър" с професионална квалификация "Медицинска сестра"
-Vysoká škola zřízená -Všeobecná 1.5.2004 Česko Diplom o ukončení
+образователно-квалификационна степен "Бакалавър" с професионална квалификация "Медицинска сестра" Česko Diplom o ukončení Vysoká škola zřízená -Všeobecná 1.5.2004
 studia ve studijním nebo uznaná státem sestra
 programu ošetřovatelství ve studijním oboru všeobecná sestra (bakalář, Bc.) Diplom o ukončení studia ve studijním programu Všeobecné ošetřovatelství (1) Diplom o ukončení studia ve studijním oboru diplomovaná všeobecná sestra (diplomovaný specialista, DiS.), accompanied by the following certificate: - Vysvědčení o absolutoriu Danmark Bevis for uddannelsen Professionshøjskole Sygeplejerske 29.6.1979
 til professionsbachelor i sygepleje Deutschland Zeugnis über die Staatlicher Gesundheits- und 29.6.1979
@@ -2068,9 +2070,10 @@ d'infirmier hospitalier gradué -Brevet de Lycée Technique Technicien pour Prof
 Magyarország 1.Ápoló 1.Szakképző iskola Ápoló 1.5.2004
 bizonyítvány 2.Ápoló oklevél 2.Felsőoktatási
 intézmény
-3.Okleveles 3.Felsőoktatási ápoló oklevél intézmény Malta Lawrja jew Universita 'ta' Infermier 1.5.2004
+3.Okleveles 3.Felsőoktatási ápoló oklevél intézmény
+Universita 'ta' Infermier 1.5.2004 Malta Lawrja jew
 diploma fl- Malta Registrat tal-
-istudji tal- Ewwel Livell
+Ewwel Livell istudji tal-
 infermerija Nederland 1.Diploma's 1.Door een van Verpleegkundige 29.6.1979
 verpleger A, overheidswege verpleegster A, benoemde verpleegkundige examencommissie A 2.Diploma 2.Door een van verpleegkundige overheidswege MBOV benoemde (Middelbare examencommissie Beroepsopleidin g Verpleegkundige ) 3.Diploma 3.Door een van verpleegkundige overheidswege HBOV (Hogere benoemde Beroepsopleidin examencommissie g Verpleegkundige ) 4.Diploma 4.Door een van beroepsonderwij overheidswege s aangewezen verpleegkundige opleidingsinstellin - g Kwalificatienive au 4 5.Diploma 5.Door een van hogere overheidswege beroepsopleidin aangewezen g opleidingsinstellin verpleegkundige g - Kwalificatienive au 5 Österreich 1.Diplom über 1.Schule für -Diplomierte 1.1.1994
 die Ausbildung allgemeine Gesundheits- und
@@ -2102,3 +2105,5 @@ Nursing and approved by the Midwifery Nursing and Council or one Midwifery Counc
 (3)
 . (1) Since 15.09.2012. . (2) This information on the evidence of qualifications replaces previous entries for the UK in
 order to ensure that graduates trained in the United Kingdom would be entitled to automatic recognition of their qualification without the need for actual registration, such registration not being part of the qualification process. . (3) Issued before 01.01.2021.
+- Substituted by: III. 2004.30; L.N. 27 of 2008; L.N. 177 of 2008.
+- Amended by: L.N. 234 of; 2013; L.N. 219 of 2022.
