@@ -9,18 +9,16 @@ Transfer of Operator Licence (under Part II)
 €50
 Changes in Licence (under Part II) €25
 Reissuing lost Licence (under Part II) €10
-Application for granting and renewal of driver's tag (under Part IV) €12
-Replacement of lost driver's tag (under Part IV)
+Application for granting and renewal of driver's tag (under Part IV)
 €12
-Application fee for Vehicle Hire Services Operator Licence (under Part V) €200
-Renewal fee for Vehicle Hire Services Operator Licence (under Part V) €200
 Transfer of Operator Licence (under Part V)
 €50
 Changes in Operator Licence (under Part V)
 €25
 Reissuing lost licence
 €10
-Application fee for a Passenger Transport Vehicle Licence (under Part VIII €25
+Application fee for a Passenger Transport Vehicle Licence(under Part VIII €25
+[S.L. 65.33 VEHICLE HIRE SERVICES 41
 Application fee for Intermediary Booking Platform Service (under Part IX) €100
 Renewal Fee (under Part IX
 €100

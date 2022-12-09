@@ -2,7 +2,7 @@
 # fourth-schedule
 (regulation 68)
 ADMINISTRATIVE PENALTIES
-Column 4 Column 1 Column 2 Column 3 [S.L. 65.33 44 VEHICLE HIRE SERVICES
+Column 4 Column 1 Column 2 Column 3
 Administrative Administrative Penalties for Administrative Penalties for
 Light Penalties for Vehicle Hire
 Passenger Light Services
@@ -53,13 +53,13 @@ regulation
 regulation
 50
 25
+[S.L. 65.33 VEHICLE HIRE SERVICES 45
 regulation
 50
 26
 regulation
 100
 27
-[S.L. 65.33 VEHICLE HIRE SERVICES 45
 regulation
 250
 28
