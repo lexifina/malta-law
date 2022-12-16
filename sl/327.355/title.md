@@ -3,7 +3,7 @@ SUBSIDIARY LEGISLATION 327.355
 STATUTE FOR THE CENTRE FOR RESILIENCE
 AND SOCIO-EMOTIONAL HEALTH
 3rd November, 2009
-LEGAL NOTICE 322 of 2009, as amended by Legal Notices 200 of 2012, 244 of 2014 and 142 of 2016.
+LEGAL NOTICE 322 of 2009, as amended by Legal Notices 200 of 2012, 244 of 2014, 142 of 2016 and 353 of 2022.
 The title of this statute is the Statute for the Centre for Resilience and Socio-Economic Health.
 STATUTE FOR THE CENTRE FOR RESILIENCE
 AND SOCIO-ECONOMIC HEALTH
