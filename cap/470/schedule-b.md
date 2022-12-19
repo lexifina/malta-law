@@ -12,6 +12,7 @@ THE EUROPEAN UNION
 • The Regional Committee
 • The Centre for Translations
 • The European Central Bank:
-Provided that the participation of the representative of the Maltese departments of the translators of the European Union, nominated together by the same departments listed in this Schedule, shall be in accordance with and so far as permitted by the regulations of the European Union institutions mentioned in this Schedule.
+The participation of the representative of the Maltese departments of the translators of the European Union, nominated together by the same departments listed in this Schedule, shall be in accordance with and so far as permitted by the regulations of the European Union institutions mentioned in this Schedule.
 - Added by: VI.2017.10.
 - Substituted by: L.N.105 of 2018.
+- Amended by: LV.2021.6.
