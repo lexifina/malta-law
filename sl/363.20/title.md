@@ -2,6 +2,6 @@ SUBSIDIARY LEGISLATION 363.20
 LOCAL GOVERNMENT (HUMAN RESOURCES)
 REGULATIONS
 1st July, 1998
-LEGAL NOTICE 127 of 1998, as amended by Legal Notices 174 of 1998, 89 of 2000, 64 of 2001, 282 of 2005, 95 and 425 of 2007, and 361 of 2014; and Act XXVII of 2016.
+LEGAL NOTICE 127 of 1998, as amended by Legal Notices 174 of 1998, 89 of 2000, 64 of 2001, 282 of 2005, 95 and 425 of 2007, and 361 of 2014; and Act XXVII of 2016 and Legal Notice 358 of 2022.
 PART I
 General Provisions
