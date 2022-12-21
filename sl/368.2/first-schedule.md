@@ -16,6 +16,3 @@ Fee for a pair of plates: €1,500
 Registration marks Composed as prescribed in the Taxi Services Regulations. allotted to taxis (S.L. 499.59)
 Fee for a pair of plates: €60 Issue of duplicate Fee for each plate: €35 registration mark plates
 Where the registration mark is of the Standard Alphanumeric Format (Random) type, the first letter shall stand for the month in which the licence of the vehicle shall be renewed.
-- Amended by: L.N. 110 of 2011.
-- Substituted by: L.N. 195 of 2011.
-- Amended by: L.N. 178 of 2015; L.N. 139 of 2018.
