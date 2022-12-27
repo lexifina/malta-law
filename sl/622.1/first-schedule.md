@@ -1,0 +1,23 @@
+## FIRST SCHEDULE
+# first-schedule
+(Regulation 4)
+CORE SUBJECTS FOR APPLICANTS TO THE TITLE OF PERIT
+ARKITETT
+An applicant for admission to the title of Perit Arkitett in accordance with article 5 of the Act must satisfy the Board that the academic training pursued satisfies the requirements of the Act. The applicant must be able to demonstrate having achieved sufficient depth in the study of architecture, over a full-time period of five (5) years or the equivalent in part-time studies, in accordance with the certified minimum amount of ECTS credits as indicated below. The minimum ECTS credit requirements established in article 5(2)(a) of the Act must be distributed in accordance with the tables in this Schedule.
+Each ECTS credit is normally taken to represent approximately 28 hours of formal lectures, tutorials, seminars and design workshops, but excludes private study and practical experience in professional design offices or construction sites or other workplaces, unless this is undertaken in accordance with the requirements of, and regulations related to article 5(2) (b) of the Act. ECTS credits gained during the period of professional traineeship cannot replace more than one (1) year of the mandatory minimum period established in article 5(2)(a) of the Act, and cannot replace more than the percentage indicated in brackets below of the minimum ECTS credits required to be gained during the period of formal academic study. Since architecture covers a wide range of disciplines, the required academic preparation includes alternative themes of specialised study, which are considered as part of the period of full-time studies.
+MANDATORY ARCHITECTURAL STUDIES
+Design project workshops: 80 ECTS (40%) demonstrating an ability to create architectural designs, within a multi-disciplinary context, that satisfy both aesthetic and technical requirements, including the investigation and preparation of the brief for a design project, taking into account social, economic, and environmental factors.
+Architectural theory and 20 ECTS (15%) context: including knowledge of the theories of architecture and the related arts, technologies and related human sciences, and knowledge of the visual arts as an influence on the quality of architectural design.
+Historical and heritage 20 ECTS (0%) studies: including knowledge of the history of architecture and of the relevance of a heritage context and its conservation.
+Urban design, landscape 20 ECTS (0%) and planning studies: including an adequate knowledge of urban design, planning and the skills involved in the planning process; an understanding of the relationship between people and buildings, and buildings and their environment; and the need to relate buildings and the spaces between them to human needs and scale.
+Construction technology 20 ECTS (0%) and materials: including the necessary design skills to meet building users' requirements within the constraints imposed by construction processes, material properties, cost factors and building regulations.
+Environmental science: 14 ECTS (0%) including an adequate knowledge of physical problems and technologies, and of the function of buildings, so as to provide them with internal conditions of user comfort and protection against the climate, in the framework of sustainable development, and to provide them with the required infrastructural support systems.
+Structural behaviour: 25 ECTS (0%)
+including an understanding of the structural design, constructional and engineering problems associated with building design, and of the mathematical tools and processes required to model such problems.
+Management studies: 18 ECTS (0%) including an adequate knowledge of the industries, organisations, regulations and procedures involved in the transformation of design concepts into buildings; and an understanding of the property market and real estate valuation.
+ADDITIONAL SPECIALISED STUDIES:
+(i) Architectural science and 25 ECTS (20%) technology;
+(ii) Architecture in urban contexts; or
+(iii) Architectural conservation.
+In addition to the above requisites, the applicant must demonstrate an ability to undertake research in a relevant architectural topic, and to communicate orally and in writing, and in particular to prepare clear technical or research reports, which requirement may be undertaken during the period of formal academic training or during the professional traineeship period pursuant to article 5(2)(b) of the Act. This component shall cover a minimum of 15 ECTS credits.
+The remaining ECTS credits required to fulfil the requirements of article 5 of the Act may be in any related subject considered to be acceptable by the Board.
