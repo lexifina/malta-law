@@ -21,9 +21,9 @@
 "half-day" means a period of twelve consecutive hours ending at 1.00 p.m. or at 1.00 a.m.;
 "hours of work" means the time on any day during which employees are at the disposal of the employer, exclusive of intervals allowed for meals and rest;
 "night-shift" means any period of employment that includes any hours form 10.00 p.m. to 6.00 a.m. of the next following day;
-"part-time employee" means an employee whose normal hours of work, calculated on a weekly basis or on average over a period of employment of up to one year, are less than the normal hours of work of a comparable whole-time employee and who is not a whole-time employee with reduced hours;
-"period of employment" means the time in any day during which employees are at the disposal of the employer, but inclusive of the [S.L.452.69 2 WAGES COUNCIL WAGE REGULATION
-intervals allowed for meals and rest;
+"part-time employee" means an employee whose normal hours of work, calculated on a weekly basis or on average over a period of employment of up to one year, are less than the normal hours of work of a comparable whole-time employee and who is not a whole-time employee with reduced hours; [S.L.452.69 2 WAGES COUNCIL WAGE REGULATION
+"period of employment" means the time in any day during which
+employees are at the disposal of the employer, but inclusive of the intervals allowed for meals and rest;
 "shift employee" means an employee who regularly works on a
 shift cycle basis;
 "time-and-a-half" and "double time" mean respectively one-and-
@@ -42,21 +42,21 @@ employees, other than watchmen, and
 (b) fifty-two hours of work in the case of watchmen.
 3. (1) The minimum weekly wage payable to whole-time
 employees, both males and females, shall be the following -
-(a) watchmen whose duties are mainly performed indoors ...................................................................... €182.83
-(b) watchmen whose duties are mainly performed out of doors ............................................................. €185.16
+(a) watchmen whose duties are mainly performed indoors ...................................................................... €192.73
+(b) watchmen whose duties are mainly performed out of doors ............................................................. €195.06
 (c) other employees -
-(i) at age 16 years ..................................... €173.21
-(ii) at age 17 years ..................................... €176.05
-(iii) at age 18 years or over ......................... €182.83.
+(i) at age 16 years ..................................... €183.11
+(ii) at age 17 years ..................................... €185.95
+(iii) at age 18 years or over ......................... €192.73.
 (2) In the case of shift workers, unless every weekly night shift
 is followed by two consecutive weekly day shift, such further weekly night shift or shifts shall entitle the employee to extra remuneration amounting to not less than one-fourth of his normal rate of pay.
 4. Part-time employees shall be paid pro rata at an hourly rate
 not less than that applicable to whole-time employees, namely, the appropriate rate per week shown in paragraph 3 hereof, divided by forty in the case of employees other than watchmen, and by fifty-two in the case of watchmen.
 5. Whole-time employees, other than watchmen, shall be
 allowed intervals for meals and rest of not less, in the aggregate, than one hour every day:
+[S.L.452.69 WAGES COUNCIL WAGE REGULATION 3
 Provided that -
 (a) subject to the provisions of paragraph (b) of this
-[S.L.452.69 WAGES COUNCIL WAGE REGULATION 3
 proviso, the interval or intervals shall be allowed after
 the first and before the last hour of the period of
 employment, and
@@ -92,8 +92,8 @@ overtime at time-and-a-half shall be payable to whole-
 time employees, other than watchmen, for work in
 excess of forty hours during the week less the number
 of hours that would have normally been worked on
-such a day by that employee, exclusive of any time
-paid for at overtime rate; [S.L.452.69 4 WAGES COUNCIL WAGE REGULATION
+[S.L.452.69 4 WAGES COUNCIL WAGE REGULATION
+such a day by that employee, exclusive of any time paid for at overtime rate;
 (c) in the case of watchmen, when a customary holiday falls on any day from Monday to Saturday, overtime at time-and-a-half shall be payable to them for work in-excess of fifty-two hours during that week.
 8. (1) In addition to the minimum weekly rest to which
 whole-time employees may be entitled under paragraph 6, whole-time employees shall be entitled to the national holidays and to all public holidays with full pay, and to the following vacation leave not being less than -
@@ -112,8 +112,9 @@ employee shall in every calendar year be entitled to the equivalent in hours of 
 Provided that -
 (a) the first three days of any claim for sick leave shall be
 paid in full by the employer;
-(b) a medical certificate covering the period of absence is produced to the employer on the day of return to work or, if such period of absence is longer than seven days, within seven days of the onset of sick leave absence;
+(b) a medical certificate covering the period of absence is produced to the employer on the day of return to work or, if such period of absence is longer than seven days,
 [S.L.452.69 WAGES COUNCIL WAGE REGULATION 5
+within seven days of the onset of sick leave absence;
 (c) employees in receipt of a social security pension in
 respect of retirement or widowhood in terms of the
 Social Security Act shall, for the purpose of
@@ -139,7 +140,8 @@ under the Social Security Act.
 (4) The sick leave entitlement granted by virtue of this paragraph shall be calculated on the basis provided for annual leave as specified in regulation 8(1) of the Organisation of Working Time Regulations.
 10. A whole-time employee shall be entitled to a maximum of one year injury leave on full pay, less the full amount of any injury benefit to which such employee may be entitled in terms of the Social Security Act, if such employee is injured during the actual discharge of his duty and such injury is not due to any contributory negligence on his part or to the contravention by him of any safety rules laid down by the management.
 11. A whole-time employee shall be allowed three days leave on full pay on the occasion of his marriage and one day leave on full pay on the occasion of the birth of a child to his wife.
-12. Whole-time employees called for jury service shall be allowed all necessary time off to enable them to attend to such service in court without loss of pay. [S.L.452.69 6 WAGES COUNCIL WAGE REGULATION
+12. Whole-time employees called for jury service shall be allowed all necessary time off to enable them to attend to such [S.L.452.69 6 WAGES COUNCIL WAGE REGULATION
+service in court without loss of pay.
 13. Whole-time employees shall be allowed two days paid
 leave on the occasion of the death of any of the following relatives: the wife, husband, father, mother (or the person who at the time is acting as the father or mother), son, daughter, brother or sister.
 14. An employee shall be entitled to the payment of the
@@ -158,8 +160,8 @@ The provisions of the above Schedule will apply to all employees
 in any undertaking, or in any part of an undertaking, the activities of which consist wholly or mainly in any of the following:
 (a) the manufacture and processing of leather and leather goods including the manufacture of gloves and the manufacture of boots, shoes, sandals, and other footwear, and
 (b) the manufacture of luggage, brief-cases, handbags, shopping bags and other bags of a similar nature.
-- Amended by: L.N. 427 of 2007; L.N. 149 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021.
-- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021.
+- Amended by: L.N. 427 of 2007; L.N. 149 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022.
+- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022.
 - See Cap. 252.
 - See Cap. 318.
 - See Cap. 318.

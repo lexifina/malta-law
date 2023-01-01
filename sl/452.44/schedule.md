@@ -35,10 +35,10 @@ Provided that for day workers, such hours of work shall be spread over a five da
 (2) The minimum weekly remuneration for watchmen shall be related to a week of not more than fifty-two hours of work, exclusive of overtime, spread over six days.
 3. Subject to the provisions of paragraph 6 of this Schedule, the minimum wage rates payable to whole-time employees, shall be the following -
 (a) (i) Watchmen whose duties are mainly performed
-indoors ............................................. €182.83
+indoors ............................................. €192.73
 (ii) Watchmen whose duties are mainly performed
-out of doors ...................................... €185.16
-(b) Other whole-time employees - At age 18 years or over ............................. €182.83 At age 17 years ......................................... €176.05 At age 16 years ......................................... €173.21
+out of doors ...................................... €195.06
+(b) Other whole-time employees - At age 18 years or over ............................. €192.73 At age 17 years ......................................... €185.95 At age 16 years ......................................... €183.11
 4. Whole-time employees, other than watchmen, shall be allowed intervals for meals and rest of not less, in the aggregate, than one hour in every day on which the hours of work exceed five and a half hours.
 5. All whole-time employees shall be allowed a weekly day of rest in every week.
 6. (1) Subject to the provisions of this paragraph and of paragraph 2 of this Schedule, minimum overtime rates are payable to all whole-time employees, other than watchmen, to whom this Schedule applies, as follows : -
@@ -85,8 +85,8 @@ Provided that if the brother or sister had not been living in the same household
 EXPLANATORY NOTE
 (This note is not part of the Order but is intended to indicate its applicability).
 The provisions of the above Schedule shall apply to all employees engaged in establishments manufacturing furniture, fixtures and other articles wholly or mainly in wood (excluding smokers' pipes but including boats and motor vehicles bodies) upholstery and wicker or cane work, whether natural or artificial and for employees employed by woodwork contractors in building and civil engineering.
-- Amended by: L.N. 91 of 1977; L.N. 1 of 1979; L.N. 91 of 1990; L.N. 427 of 2007; L.N. 142 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021.
-- Amended by: L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 104 of 2019; L.N. 469 of 2020; L.N. 464 of 2021.
+- Amended by: L.N. 91 of 1977; L.N. 1 of 1979; L.N. 91 of 1990; L.N. 427 of 2007; L.N. 142 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022.
+- Amended by: L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 104 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022.
 - See Cap. 252.
 - See Cap. 318.
 - See Cap. 318.

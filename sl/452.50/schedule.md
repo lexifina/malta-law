@@ -21,8 +21,8 @@
 "time-and-a-half" and "double-time" mean respectively one and a half times and twice the actual time rates applicable to the employee;
 "wages" means remuneration or earnings payable in money to an employee by an employer;
 "week" means a calendar week;
-"part-time employee" means an employee whose normal hours of work, calculated on a weekly basis or on average over a period of employment of up to one year, are less than the normal hours of work of a comparable whole-time employee and who is not a whole-time employee with reduced hours;
-"watchman" means a person who guards his employer's property [S.L.452.50 2 WAGES COUNCIL WAGE REGULATION
+"part-time employee" means an employee whose normal hours of work, calculated on a weekly basis or on average over a period of employment of up to one year, are less than the normal hours of work of a comparable whole-time employee and who is not a whole-time employee with reduced hours; [S.L.452.50 2 WAGES COUNCIL WAGE REGULATION
+"watchman" means a person who guards his employer's property
 against fire, theft, illegal entry and similar contingencies;
 "whole-time employee'' means an employee who is deemed to be
 a whole-time employee in terms of any recognized conditions of employment.
@@ -32,12 +32,12 @@ employees shall be related to a week of not more than -
 (b) fifty-two hours in the case of watchmen.
 3. The minimum weekly wages payable to whole-time
 employees shall be as follows -
-(a) watchmen employed wholly or mainly on indoor duties ..................................................... €182.83
-(b) watchmen employed wholly or mainly on outdoor duties ..................................................... €185.16
+(a) watchmen employed wholly or mainly on indoor duties ..................................................... €192.73
+(b) watchmen employed wholly or mainly on outdoor duties ..................................................... €195.06
 (c) other employees:
-At age 18 years or over ........................... €182.83
-At age 17 years ...................................... €176.05
-At age 16 years ...................................... €173.21.
+At age 18 years or over ........................... €192.73
+At age 17 years ...................................... €185.95
+At age 16 years ...................................... €183.11.
 4. Whole-time employees shall be allowed intervals for meals
 and rest of not less in the aggregate than one hour on any one day.
 5. Whole-time employees shall be entitled to one day of rest
@@ -53,8 +53,8 @@ overtime as follows -
 (i) for every hour worked in excess of eight hours on any one day, except the weekly day of rest of the employee ........................... time-and-a-half;
 (ii) for all hours worked on the weekly day of rest of the employee ................................. double time;
 (iii) for all time worked on a customary holiday ..................................................... double time;
-(iv) for every hour worked in excess of forty hours
 [S.L.452.50 WAGES COUNCIL WAGE REGULATION 3
+(iv) for every hour worked in excess of forty hours
 on any one week, exclusive of any hours for
 which overtime is payable in terms of the
 preceding provisions ................ time-and-a-half.
@@ -74,11 +74,8 @@ Provided that -
 produced to the employer on the day of return to work
 or, if such period of absence is longer than seven days,
 within seven days of the onset of sick leave absence;
-(c) employees in receipt of a social security pension in
-respect of retirement or widowhood in terms of the
-Social Security Act shall, for the purpose of
 [S.L.452.50 4 WAGES COUNCIL WAGE REGULATION
-calculating the sick leave pay due, be deemed to have received an amount equal to the sum set for sickness benefit entitlement at the rate established under the Social Security Act.
+(c) employees in receipt of a social security pension in respect of retirement or widowhood in terms of the Social Security Act shall, for the purpose of calculating the sick leave pay due, be deemed to have received an amount equal to the sum set for sickness benefit entitlement at the rate established under the Social Security Act.
 (2) The employer may require a medical certificate by his own
 physician to certify incapacity for work during the period of absence.
 (3) The sick leave entitlement granted by virtue of this
@@ -102,8 +99,8 @@ EXPLANATORY NOTE
 (This note is not part of the Schedule, but is intended to indicate its applicability).
 The above provisions apply to all employees in any undertaking or part of an undertaking the activities of which consist wholly or mainly in any of the following:
 Agriculture, horticulture, floriculture and viticulture, the breeding and rearing of livestock, poultry, rabbits, the keeping of bees and the processing of dairy products and products of a similar nature.
-- Amended by: L.N. 121 of 1978; L.N. 111 of 1990; L.N. 427 of 2007; L.N. 145 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016:; L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021.
-- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N.104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021.
+- Amended by: L.N. 121 of 1978; L.N. 111 of 1990; L.N. 427 of 2007; L.N. 145 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016:; L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022.
+- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N.104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022.
 - See Cap. 252.
 - See Cap. 318.
 - See Cap. 318.

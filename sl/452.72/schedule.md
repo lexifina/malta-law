@@ -20,8 +20,8 @@
 "customary holidays" means the days (other than Sundays) declared for the time being to be public holidays by or under the National Holidays and other Public Holidays Act;
 "hours of work" means the time on any day during which the employees are at the disposal of the employer, exclusive of intervals allowed for meals and rest;
 "part-time employee" means an employee whose normal hours of work, calculated on a weekly basis or on average over a period of employment of up to one year, are less than the normal hours of work of a comparable whole-time employee and who is not a whole-time employee with reduced hours;
-"time-and-a-half" and "double-time" mean respectively one and a half times and double the actual time rates applicable to the [S.L.452.72 2 COUNCIL WAGE REGULATION
-employee;
+"time-and-a-half" and "double-time" mean respectively one and a [S.L.452.72 2 COUNCIL WAGE REGULATION
+half times and double the actual time rates applicable to the employee;
 "wages" means remuneration or earnings payable in money to an
 employee by an employer;
 "week" means a calendar week;
@@ -38,9 +38,9 @@ over a period of six days, so that custodians shall be entitled to one
 day of rest in every period of seven consecutive days.
 4. The minimum weekly wages payable to whole-time
 employees shall be as follows -
-Age 18 and over ............................................. €182.83 per week
-Age 17 to 18 years .......................................... €176.05 per week
-Under 17 years ............................................... €173.21 per week
+Age 18 and over ............................................. €192.73 per week
+Age 17 to 18 years .......................................... €185.95 per week
+Under 17 years ............................................... €183.11 per week
 Part-time employees shall be paid pro rata at an hourly rate
 or part thereof not below the national minimum wage, as determined in accordance with the same paragraph and divided by forty.
 5. Whole-time employees shall be allowed intervals for meals
@@ -98,8 +98,8 @@ days leave on full pay on the occasion of their marriage.
 period of one year injury leave on full pay, less the full amount of any injury benefit to which such employee may be entitled in terms of the Social Security Act, if he is injured during the actual discharge of his duty and not due to contributory negligence on his part or to any contravention of safety rules laid down by the employer.
 14. Whole-time employees called for jury service shall be
 allowed all the necessary time off on full pay to attend the Court on such service.
-- Amended by: L.N. 427 of 2007; L.N. 152 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021.
-- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021.
+- Amended by: L.N. 427 of 2007; L.N. 152 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022.
+- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022.
 - See Cap. 252.
 - See S.L. 452.64.
 - See Cap. 318.

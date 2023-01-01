@@ -35,7 +35,7 @@ Teachers
 "teacher" includes Assistant Headmaster/Headmistress and Assistant Head teacher;
 "whole-time teacher" means a teacher who is deemed to be a whole-time teacher in terms of any recognized conditions of employment.
 4. The minimum monthly remuneration for whole-time teachers shall be related to a week of not more than twenty-seven hours of work.
-5. The minimum monthly remuneration payable to whole-time teachers shall be eight hundred and fifty-six euro and thirty-two cents (€856.32).
+5. The minimum monthly remuneration payable to whole-time teachers shall be eight hundred and ninety nine euro and twenty three cents (€899.23).
 6. (1) Whole time teachers shall be entitled to all customary holidays with full pay, but when any one of these holidays falls on a day in which the school is normally closed they shall not be entitled to a day off in lieu.
 (2) Whole-time teachers shall be entitled to holidays with full pay including the school holidays for Christmas, Carnival, Easter and the Summer Holidays from the closing to the re-opening of schools.
 7. (1) After the completion of three months continuous service, whole-time teachers shall in any scholastic year be entitled to the equivalent in hours of fifteen school days sick leave on full pay, less an amount equal to the sum set for sickness benefit entitlement at the rate established under the Social Security Act, and part-time employees shall have a pro rata entitlement to sick leave in hours on full pay, less an amount equal to the sum set for sickness benefit entitlement at the rate established under the Social Security Act, which amount is also to be calculated on a pro rata basis:
@@ -60,15 +60,15 @@ Other Employees
 "part-time employee" means an employee whose normal hours of work, calculated on a weekly basis or on average over a period of employment of up to one year, are less than the normal hours of work of a comparable whole-time employee and who is not a whole-time employee with reduced hours;
 "whole-time employee" means an employee who is deemed to be a whole-time employee in terms of any recognized conditions of employment.
 12. The minimum weekly remuneration payable to whole-time employees shall be related to a week of sixty hours of work in the case of watchmen or of forty-four hours of work in the case of other employees.
-13. (1) The minimum remuneration payable to whole-time employees, other than maids employed in schools which provide full residential facilities to students, or watchmen shall be one hundred and eighty-eight euro and seven cents (€188.07).
+13. (1) The minimum remuneration payable to whole-time employees, other than maids employed in schools which provide full residential facilities to students, or watchmen shall be one hundred and ninety-seven euro and ninety-seven cents (€197.97).
 (2) The minimum weekly remuneration payable to whole-time maids employed in schools which provide full residential facilities to students shall be as follows:
-At age 16 years .......................................................... €173.21
-At age 17 years .......................................................... €176.05
-At age 18 years or over .............................................. €182.83
-and one year thereafter ............................................... €185.16.
+At age 16 years .......................................................... €183.11
+At age 17 years .......................................................... €185.95
+At age 18 years or over .............................................. €192.73
+and one year thereafter ............................................... €195.06.
 (3) The minimum weekly remuneration payable to whole-time watchmen shall be -
-(a) for work performed indoors........................ €182.83
-(b) for work performed out of doors ................ €185.16.
+(a) for work performed indoors........................ €192.73
+(b) for work performed out of doors ................ €195.06.
 (4) Whole-time employees, other than watchmen, who are employed for the full period of a scholastic year, and whose employment is terminated by the employer at the commencement of, or during, the summer holidays, otherwise than for having reached the age of retirement, shall be entitled to receive a compensation equivalent to the basic minimum remuneration to which such employees would have been entitled had their employment not been terminated, calculated for the period during such holidays starting from the date of termination of employment up to the reopening of schools and payable in the same manner as the weekly remuneration used to be paid.
 14. There shall be allowed as minimum weekly rest -
 (a) one day to whole-time watchmen, and
@@ -119,9 +119,9 @@ Supplementary
 EXPLANATORY NOTE
 (This note is not part of the Order, but is intended to indicate its applicability).
 The Private Schools Wages Council operates in respect of all employees engaged under a contract of service in all schools (other than those schools established by and managed under the Government or the University of Malta) to the exclusion however of such members of the staff in respect of whom an individual salary or allowance is paid by the Government to the representative of the religious association of which those members form part.
-- Amended by: L.N. 84 of 1977; L.N. 38 of 1978; L.N. 5 of 1979; L.N. 9 of 1980; L.N. 427 of 2007; L.N. 154 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021.
-- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021.
-- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021.
+- Amended by: L.N. 84 of 1977; L.N. 38 of 1978; L.N. 5 of 1979; L.N. 9 of 1980; L.N. 427 of 2007; L.N. 154 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022.
+- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022.
+- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022.
 - See Cap. 252.
 - See Cap. 318.
 - See Cap. 318.

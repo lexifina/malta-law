@@ -22,8 +22,8 @@
 "day" means the time of twenty-four consecutive hours;
 "double pay" means double the minimum day's pay applicable to an employee;
 "hours of work" means the time on any day during which employees are at the disposal of the employer, exclusive of the intervals allowed for meals and rest;
-"meals" means morning coffee, lunch, afternoon tea and supper;
-"part-time employee" means an employee whose normal hours of [S.L.452.40 2 WAGE REGULATION
+"meals" means morning coffee, lunch, afternoon tea and supper; [S.L.452.40 2 WAGE REGULATION
+"part-time employee" means an employee whose normal hours of
 work, calculated on a weekly basis or on average over a period of employment of up to one year, are less than the normal hours of work of a comparable whole-time employee and who is not a whole-time employee with reduced hours;
 "remuneration" means wages or earnings, payable in money by
 an employer to an employee;
@@ -50,16 +50,16 @@ GROUP 6 shall consist of those workers who are engaged by
 the hour.
 3. The hours of work of workers in Groups 1 and 3 on those
 days when they do not sleep in their employer's house, of workers in Groups 2 and 4 on those days when they do not sleep in their employer's house, and of workers in Group 5, shall be not more than eight in any day but not more than forty-four hours in any week, this being up to the 28th February, 1990 and forty hours thereafter, exclusive of breaks for meals and rest.
+[S.L.452.40 WAGE REGULATION 3
 4. The minimum remuneration of workers shall be as follows:
 Whole-Timers
-Workers in Group 1 ................................... €814.39 per month
-Workers in Group 2 ................................... €798.10 per month
-Workers in Group 3 ................................... €188.07 per week
-Workers in Group 4.................................... €186.32 per week
-[S.L.452.40 WAGE REGULATION 3
+Workers in Group 1 ................................... €857.29 per month
+Workers in Group 2 ................................... €841.00 per month
+Workers in Group 3 ................................... €197.97 per week
+Workers in Group 4 .................................... €196.22 per week
 Part-Timers
-Workers in Group 5 ..................................... €31.05 per day
-Workers in Group 6 ........................................ €4.66 per hour:
+Workers in Group 5 ..................................... €32.70 per day
+Workers in Group 6 ........................................ €4.91 per hour:
 Provided that for employment exceeding four hours in any one day payment shall in no case be less than the equivalent of a day's work:
 Provided further that any part-time worker who qualifies as a whole-time employee in accordance with paragraph 1 of this Schedule shall be entitled to the full weekly wage applicable under this sub-paragraph notwithstanding that she works for less than six days.
 5. (1) Workers in Groups 1, 2, 3, and 4 on those days when they do not sleep in their employer's house and workers in Group 5 shall be entitled for payment at time-and-a-half for all time worked over eight hours in normal days and for all time worked over forty-four hours in any one week, this being up to 28th February, 1990 and for all time worked over forty hours after the 28th February, 1990.
@@ -81,18 +81,11 @@ hours.
 (d) Workers in Groups 1 and 3 on those days when they do
 not sleep in their employer's house, workers in Groups
 2 and 4 on those days when they do not sleep in their
-employer's house and workers in Group 5, shall be
-entitled to supper when their hours of work in excess
+[S.L.452.40 4 WAGE REGULATION
+employer's house and workers in Group 5, shall be entitled to supper when their hours of work in excess
 of eight in any day exceed three:
 Provided that workers in Groups 1 and 2 shall
-have forty-eight euro thirty-six cents (€48.36)
-deducted monthly from their minimum remuneration,
-workers in Groups 3 and 4 shall have eleven euro and
-sixteen cents (€11.16) deducted weekly from their
-minimum remuneration, and workers in Group 5 shall
-have one euro eighty-six cents (€1.86) deducted daily
-[S.L.452.40 4 WAGE REGULATION
-from their minimum remuneration, as compensation for meals to which they shall be entitled as aforesaid:
+have forty-eight euro thirty-six cents (€48.36) deducted monthly from their minimum remuneration, workers in Groups 3 and 4 shall have eleven euro and sixteen cents (€11.16) deducted weekly from their minimum remuneration, and workers in Group 5 shall have one euro eighty-six cents (€1.86) deducted daily from their minimum remuneration, as compensation for meals to which they shall be entitled as aforesaid:
 Provided that workers in Group 6 shall have no
 deduction from their minimum remuneration as compensation for meals to which they may be entitled as long as they are not entitled to a day's pay in which case they shall have €1.61 deducted from their
 minimum remuneration; and:
@@ -112,13 +105,13 @@ employer and employee the worker shall be entitled to a holiday of a number of d
 whole-time employees may be entitled under paragraph 8, whole-time employees shall be entitled to the national holidays and to all public holidays with full pay, and to the following vacation leave not being less than:
 (a) four working weeks and one working day during the
 calendar years 1988 and 1989;
+[S.L.452.40 WAGE REGULATION 5
 (b) four working weeks and two working days during the calendar year 1990;
 (c) four working weeks and three working days during the calendar year 1991;
-(d) four working weeks and four working days during the calendar year 1992 and during any calendar year thereafter:
-Provided that when a whole-time employee is in
-employment for less than twelve months during any calendar year, he shall be entitled to such part of the said vacation leave as is in
-[S.L.452.40 WAGE REGULATION 5
-proportion to the number of months in employment.
+(d) four working weeks and four working days during the
+calendar year 1992 and during any calendar year
+thereafter:
+Provided that when a whole-time employee is in employment for less than twelve months during any calendar year, he shall be entitled to such part of the said vacation leave as is in proportion to the number of months in employment.
 (2) For the purposes of this paragraph "vacation leave" means leave with pay which may be availed of on days agreed upon between the employer and the employee, provided that one day vacation leave during 1988 and 1989, two days vacation leave during 1990, three days vacation leave during 1991, and four days vacation leave during 1992 and during any calendar year thereafter shall not form part of any shut-down and shall be granted by the employer as optional leave in addition to any optional leave the employee may have been entitled to on the 9th November, 1988.
 10. (1) After the completion of six months continuous service, every whole-time employee in Groups 1, 2, 3 and 4 shall in every calendar year be entitled to the equivalent in hours of fourteen days sick leave on full pay, less an amount equal to the sum set for sickness benefit entitlement at the rate established under the Social Security Act, and part-time employees shall have a pro rata entitlement to sick leave in hours on full pay, less an amount equal to the sum set for sickness benefit entitlement at the rate established under the Social Security Act, which amount is also to be calculated on a pro rata basis:
 Provided that -
@@ -135,10 +128,12 @@ received an amount equal to the sum set for sickness
 benefit entitlement at the rate established under the
 Social Security Act.
 (2) The employer may require a medical certificate by his own physician to certify incapacity for work during the period of absence.
-(3) The sick leave entitlement granted by virtue of this paragraph shall be calculated on the basis provided for annual leave as specified in regulation 8(1) of the Organisation of Working Time Regulations.
-11. A whole-time employee shall be entitled to a maximum of one year injury leave on full pay, less the full amount of any injury benefit to which such employee may be entitled in terms of the Social Security Act, if he is injured during the actual discharge of his duty and such injury is not due to any contributory negligence on his part or to the contravention by him of any safety rules laid down by the management.
-12. Employees in Groups 1, 2, 3 and 4 shall be entitled to two days paid leave on the occasion of the death of any of the following [S.L.452.40 6 WAGE REGULATION
-relations: the wife or husband, the mother or father, the daughter or son, and the sister or brother.
+(3) The sick leave entitlement granted by virtue of this paragraph shall be calculated on the basis provided for annual leave as specified in regulation 8(1) of the Organisation of Working Time [S.L.452.40 6 WAGE REGULATION
+Regulations.
+11. A whole-time employee shall be entitled to a maximum of
+one year injury leave on full pay, less the full amount of any injury benefit to which such employee may be entitled in terms of the Social Security Act, if he is injured during the actual discharge of his duty and such injury is not due to any contributory negligence on his part or to the contravention by him of any safety rules laid down by the management.
+12. Employees in Groups 1, 2, 3 and 4 shall be entitled to two
+days paid leave on the occasion of the death of any of the following relations: the wife or husband, the mother or father, the daughter or son, and the sister or brother.
 13. Employees falling under Groups 1, 2, 3 or 4 shall be
 entitled to three working days leave on full pay on the occasion of their marriage.
 14. A male worker in Groups 1, 2, 3 and 4 shall be entitled to
@@ -156,9 +151,9 @@ and similar occupations connected with the household.
 In this paragraph ''private households'' includes charitable
 institutions which provide residential care to persons in need as their main activity, monasteries and convents but does not include any hospital, clinic, nursing home, institute of medico-surgical treatment, maternity home or hydropathic establishment, home for
 aged persons or schools run by any such households.
-- Amended by: L.N. 65 of 1976; L.N. 76 of 1977; L.N.108 of 1977; L.N. 36 of 1978; L.N. 2 of 1979; L.N. 25 of 1979; L.N. 66 of 1979; L.N. 30 of 1980; L.N. 33 of 1981; L.N.122 of 1989; L.N.427 of 2007; L.N.132 of 2010; L.N. 528 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021.
+- Amended by: L.N. 65 of 1976; L.N. 76 of 1977; L.N.108 of 1977; L.N. 36 of 1978; L.N. 2 of 1979; L.N. 25 of 1979; L.N. 66 of 1979; L.N. 30 of 1980; L.N. 33 of 1981; L.N.122 of 1989; L.N.427 of 2007; L.N.132 of 2010; L.N. 528 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022.
 - Substituted by: L.N. 528 of 2010.
-- Amended by: L.N. 362 of 2012; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N.104 of 2019; L.N.351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021.
+- Amended by: L.N. 362 of 2012; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N.104 of 2019; L.N.351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022.
 - Amended by: L.N. 504 of 2011.
 - See Cap. 252.
 - See Cap. 318.

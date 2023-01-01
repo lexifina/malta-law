@@ -19,8 +19,8 @@
 "whole-time employee" means an employee who is deemed to be a whole-time employee in terms of any recognized conditions of employment;
 "assistant projectionist" means a person over nineteen years of age who is employed to assist a projectionist;
 "cashier" means an employee engaged wholly or mainly in receiving cash and bookings for admission into a cinema or theatre;
-"staff manager" means an employee who is responsible to the employer for the control of the staff;
-"half-day" means a period of twelve hours ending or beginning at [S.L.452.43 2 WAGE REGULATION
+"staff manager" means an employee who is responsible to the employer for the control of the staff; [S.L.452.43 2 WAGE REGULATION
+"half-day" means a period of twelve hours ending or beginning at
 1.00 p.m.;
 "hours of work" means the time on any day during which
 employees are at the disposal of the employer, exclusive of any intervals allowed for meals and rest;
@@ -39,25 +39,25 @@ employer to an employee;
 week of not more than forty-six hours of work. Where a system of two or more shifts is in force the rates specified in paragraph 3 shall relate to an average of not more than forty-six hours over two or more weeks according to the number of shifts in force.
 3. The weekly minimum remuneration payable to whole-time
 employees shall be that shown hereunder:
-Projectionist.............................................. €187.49
-Assistant Projectionist............................... €185.16
-Staff Manager ........................................... €187.49
-Barman ..................................................... €185.16
-Cashier ..................................................... €185.16
-Usher/Usherette ........................................ €185.16
-Controller ................................................. €185.16
+Projectionist.............................................. €197.39
+Assistant Projectionist............................... €195.06
+Staff Manager ........................................... €197.39
+Barman ..................................................... €195.06
+Cashier ..................................................... €195.06
+Usher/Usherette ........................................ €195.06
+Controller ................................................. €195.06
 Learners -
-at age 16 years ......................................... €173.21
-at age 17 years .......................................... €176.05
-at age 18 years or over ............................. €182.83
-Other employees.......................................... €182.83.
+at age 16 years ......................................... €192.73
+at age 17 years .......................................... €185.95
+at age 18 years or over ............................. €183.11
+Other employees.......................................... €192.73.
 4. Whole-time employees shall be allowed a minimum daily
 period for meals and rest as follows:
 (a) where the period of employment includes the whole
 day, an aggregate of one hour;
 (b) where the period of employment is in the afternoon
-only, an aggregate of half-an-hour.
 [S.L.452.43 WAGE REGULATION 3
+only, an aggregate of half-an-hour.
 5. Whole-time employees shall be allowed in every calendar week a rest of one whole day, or two half days.
 6. Overtime shall be payable to whole-time employees as follows:
 For all time worked in excess of forty-six hours in a week - time-and-a-half:
@@ -106,8 +106,8 @@ This note is not part of the order but is intended to indicate its
 applicability.
 The provisions in the above Schedule apply to all employees in
 cinemas and theatres, other than stage performers and musicians.
-- Amended by: L.N. 107 of 1977; L.N. 128 of 1978; L.N. 427 of 2007; L.N. 133 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021.
-- Amended by: L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021.
+- Amended by: L.N. 107 of 1977; L.N. 128 of 1978; L.N. 427 of 2007; L.N. 133 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022.
+- Amended by: L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022.
 - See Cap. 252.
 - See Cap. 594.
 - See Cap. 318.

@@ -21,8 +21,8 @@
 "day" means a period running from midnight of one day to midnight of the next following day;
 "half-day" means a period running from midnight to noon, or from noon to midnight;
 "hours of work" means the time on any day during which employees are at the disposal of the employer, exclusive of the intervals allowed for meals and rest;
-"part-time employee" means an employee whose normal hours of work, calculated on a weekly basis or on average over a period of employment of up to one year, are less than the normal hours of work of a comparable whole-time employee and who is not a whole-time employee with reduced hours;
-"shift employee" means an employee who regularly works on a [S.L.452.46 2 WAGE REGULATION
+"part-time employee" means an employee whose normal hours of work, calculated on a weekly basis or on average over a period of employment of up to one year, are less than the normal hours of work of a comparable whole-time employee and who is not a whole-time employee with reduced hours; [S.L.452.46 2 WAGE REGULATION
+"shift employee" means an employee who regularly works on a
 shift cycle basis;
 "time-and-a-half" and "double-time" mean respectively one and a
 half times and twice the minimum time rate applicable to the employee;
@@ -44,18 +44,18 @@ hours shall be taken on an average spread over two or more weeks according to th
 3. The minimum weekly remuneration payable to all
 employees shall be as follows -
 (a) whole-time employees, other than watchmen/security guards:
-(i) 18 years or over .............................. €182.83;
-(ii) 17 years ........................................... €176.05;
-(iii) 16 years ........................................... €173.21;
-(b) watchmen/security guards ........................ €182.83.
+(i) 18 years or over .............................. €192.73;
+(ii) 17 years ........................................... €185.95;
+(iii) 16 years ........................................... €183.11;
+(b) watchmen/security guards ........................ €192.73.
 4. Shift employees, other than watchmen/security guards,
 shall be paid a premium of €3.26 a week.
 5. Whole-time employees, other than watchmen/security
 guards, shall be allowed intervals for meals and rest of not less, in the aggregate, than one hour on every day:
 Provided that -
 (a) subject to the provisions of paragraph (b) of this proviso, the interval or intervals shall be allowed after the first or before the last hour of the period of employment, and
-(b) where the last half hour of the period of employment is
 [S.L.452.46 WAGE REGULATION 3
+(b) where the last half hour of the period of employment is
 allowed as a half hour of rest, the employee shall be
 entitled to leave the place of work as soon as that half
 hour starts.
@@ -133,8 +133,8 @@ EXPLANATORY NOTE
 applicability).
 The provisions of the above Schedule apply to all employees in
 any undertaking or part of an undertaking, the activities of which consist wholly or mainly in the manufacture, repair or assembly of electronic or scientific equipment.
-- Amended by: L.N. 94 of 1977; L.N. 68 of 1979; L.N. 427 of 2007; L.N. 130 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021.
-- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021.
+- Amended by: L.N. 94 of 1977; L.N. 68 of 1979; L.N. 427 of 2007; L.N. 130 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022.
+- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022.
 - See Cap. 318.
 - See Cap. 318.
 - See Cap. 318.

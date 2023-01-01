@@ -47,11 +47,11 @@ spread over a week of six days.
 3. (a) Whole-time employees in the industry, other than
 watchmen, shall be entitled to minimum weekly wages,
 related to age, as follows -
-at age 18 or over ..................................... €182.83
-at age 17 or over ..................................... €176.05
-at age 16 or over ..................................... €173.21
+at age 18 or over ..................................... €192.73
+at age 17 or over ..................................... €185.95
+at age 16 or over ..................................... €183.11
 (b) Watchmen shall be paid the minimum weekly wage of
-one hundred and eighty-two euro and eighty-three cents (€182.83).
+one hundred and ninety two Euro and seventy three cents (€192.73)
 4. Part-time employees shall be paid pro rata at an hourly rate
 not less than the minimum time rate applicable to whole-time employees.
 5. Whole-time employees engaged on night shift duty shall
@@ -122,8 +122,8 @@ be given to him to perform.
 EXPLANATORY NOTE
 (This note is not part of the Schedule but is intended to indicate its applicability).
 This Schedule applies to all employees in any undertaking or part of an undertaking, the activities of which consist wholly or mainly in the manufacture of clay products, pottery, earthenware, china, ceramics, glass, glassware, mirrors and neon signs and fibreglass and fibreglass products.
-- Amended by: L.N. 4 of 1979; L.N. 75 of 1980; L.N. 113 of 1991; L.N. 427 of 2007; L.N. 148 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021.
-- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021.
+- Amended by: L.N. 4 of 1979; L.N. 75 of 1980; L.N. 113 of 1991; L.N. 427 of 2007; L.N. 148 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022.
+- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022.
 - See Cap. 252.
 - See Cap. 318.
 - See Cap. 318.

@@ -31,14 +31,14 @@ employees other than watchmen, and
 (b) fifty-two hours of work, spread over a six-day week, in the case of watchmen.
 3. The minimum weekly remuneration payable to whole-time
 employees, both males and females, shall be that shown hereunder:
-(a) watchmen ................................ €185.74 x €0.58c -
-€186.90
+(a) watchmen ................................ €195.64 x €0.58c -
+€196.80
 (b) other employees:
-(i) aged 20 years or over .........€185.74 x €0.58c -
-€186.90
-(ii) aged 18 years or 19 years ..... €182.83
-(iii) aged 17 years ...................... €176.68
-(iv) aged under 17 years ............ €174.10:
+(i) aged 20 years or over .........€195.64 x €0.58c -
+€196.80
+(ii) aged 18 years or 19 years ..... €192.73
+(iii) aged 17 years ...................... €186.58
+(iv) aged under 17 years ............ €184.00:
 Provided that, where the remuneration is
 incremental, the increment shall be awarded annually.
 4. Whole-time employees, other than watchmen, shall be
@@ -124,8 +124,8 @@ distilling, rectifying and blending of alcoholic liquors;
 (b) the production of wines, cider, parry or other fermented beverages; [S.L.452.60 6 COUNCIL WAGE REGULATION
 (c) the production of malt or malt liquors, such as beer, ale, porter and stout, and
 (d) the manufacture of non-alcoholic beverages, such as soft drinks and carbonated mineral waters.
-- Amended by: L.N. 112 of 1990; L.N. 427 of 2007; L.N. 144 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021.
-- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021.
+- Amended by: L.N. 112 of 1990; L.N. 427 of 2007; L.N. 144 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022.
+- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022.
 - See Cap. 252.
 - See Cap. 318.
 - See Cap. 318.

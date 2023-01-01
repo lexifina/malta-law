@@ -21,8 +21,8 @@
 "hours of work" means the time on any day during which employees are at the disposal of the employer, exclusive of the intervals allowed for meals and rest;
 "normal time", "time-and-a-half" and "double time" mean respectively one time, one-and-a-half and double time, the minimum time rate applicable to the employee;
 "part-time employee" means an employee whose normal hours of work, calculated on a weekly basis or on average over a period of employment of up to one year, are less than the normal hours of work of a comparable whole-time employee and who is not a whole-time employee with reduced hours;
-"period of employment" means the time in any one day during which employees are at the disposal of the employer, but inclusive [S.L.452.57 2 WAGES COUNCIL WAGE REGULATION
-of the intervals allowed for meals and rest;
+"period of employment" means the time in any one day during [S.L.452.57 2 WAGES COUNCIL WAGE REGULATION
+which employees are at the disposal of the employer, but inclusive of the intervals allowed for meals and rest;
 "wages" means remuneration or earnings payable in money by an
 employer to an employee;
 "week" means a calendar week;
@@ -47,47 +47,47 @@ sub-paragraph (2) hereof shall be as follows respectively:
 (c) twelve hours.
 3. The minimum weekly wage payable to whole-time
 employees shall be as follows -
-(a) clerk/receptionist ...................................... €189.82
-(b) drivers ...................................................... €189.24
+(a) clerk/receptionist ...................................... €199.72
+(b) drivers ...................................................... €199.14
 (c) conductors/attendants, and other employees (other than watchmen) -
-(i) aged 18 years or over ....................... €185.49
-(ii) aged 16 or 17 years .......................... €182.83
+(i) aged 18 years or over ....................... €195.39
+(ii) aged 16 or 17 years .......................... €192.73
 (d) watchmen:
-(i) those whose duties are mainly performed indoors ............................................... €185.49
+(i) those whose duties are mainly performed
 [S.L.452.57 WAGES COUNCIL WAGE REGULATION 3
+indoors ............................................... €195.39
 (ii) those whose duties are mainly performed out of
-doors ................................................. €187.82.
+doors ................................................. €197.72.
 4. (1) The minimum remuneration of part-time employees shall be as follows -
 (a) in the case of clerks/receptionists -
 (i) for the first 3 hours or less in any one day
-............................................................... €13.56
+............................................................... €14.27
 (ii) for each hour or part thereof in excess of the first
-3 hours in any one day ............................ €4.52;
+3 hours in any one day ............................ €4.76;
 (b) in the case of drivers -
 (i) for the first 3 hours or less in any one day
-............................................................... €12.34
+............................................................... €12.99
 (ii) for each hour or part thereof in excess of the first
-3 hours in any one day ............................ €4.11;
+3 hours in any one day ............................ €4.33;
 (c) in the case of conductors and attendants -
 (i) for the first 4 hours or
-less in any one day ...... €16.13 €15.90
+less in any one day ...... €16.99 €16.76
 (ii) for each hour or part
 thereof in excess of the
-first 4 hours in any one day €4.03 €3.97;
+first 4 hours in any one day €4.25 €4.19;
 (d) in the case of all other employees, including watchmen -
 (i) for the first 3 hours or
-less in any one day .......... €12.09 €11.91
+less in any one day .......... €12.75 €12.57
 (ii) for each hour or part
 thereof in excess of the
-first 3 hours in any one day €4.03 €3.97.
+first 3 hours in any one day €4.25 €4.19.
 (2) Where the Government grants to all its whole-time employees a general increase in wages and such increase is declared by the Minister responsible for labour by notice in the Gazette to be of general application to all whole-time employees the above rates shall be proportionately increased in accordance with the said general increase of wages, regard being had, in arriving to the said proportion, to the provisions set out in sub-paragraph (2) of paragraph 2 of this Schedule.
 5. Save as provided for in sub-paragraph (1) of paragraph 2, all whole-time employees, other than watchmen, shall be allowed intervals for meals and rest of not less, in the aggregate, than one hour every day:
 Provided that -
 (a) subject to paragraph (b) of this proviso, the interval or
 intervals shall be allowed after the first or before the
-last hour of the period of employment; and
-(b) where the last half hour of the period of employment is [S.L.452.57 4 WAGES COUNCIL WAGE REGULATION
-allowed as a half-hour of rest, the employee shall be entitled to leave the place of work as soon as that half hour starts.
+last hour of the period of employment; and [S.L.452.57 4 WAGES COUNCIL WAGE REGULATION
+(b) where the last half hour of the period of employment is allowed as a half-hour of rest, the employee shall be entitled to leave the place of work as soon as that half hour starts.
 6. All employees shall be entitled to one day of rest per week,
 four days of which, in any calendar year, shall be granted on Sundays, if so requested by the employee.
 7. In the case of all whole-time employees, overtime shall be
@@ -107,8 +107,9 @@ Provided that -
 (a) the first three days of any claim for sick leave shall be
 paid in full by the employer;
 (b) a medical certificate covering the period of absence is produced to the employer on the day of return to work or, if such period of absence is longer than seven days, within seven days of the onset of sick leave absence;
-(c) employees in receipt of a social security pension in respect of retirement or widowhood in terms of the Social Security Act shall, for the purpose of calculating the sick leave pay due, be deemed to have received an amount equal to the sum set for sickness benefit entitlement at the rate established under the Social Security Act.
+(c) employees in receipt of a social security pension in respect of retirement or widowhood in terms of the Social Security Act shall, for the purpose of calculating the sick leave pay due, be deemed to have received an amount equal to the sum set for sickness benefit entitlement at the rate established under the
 [S.L.452.57 WAGES COUNCIL WAGE REGULATION 5
+Social Security Act.
 (2) The employer may require a medical certificate by his own physician to certify incapacity for work during the period of absence.
 (3) The sick leave entitlement granted by virtue of this paragraph shall be calculated on the basis provided for annual leave as specified in regulation 8(1) of the Organisation of Working Time Regulations.
 10. Employees shall be allowed two days paid leave on the occasion of the death of any of the following relatives: the wife or husband, the father or mother (or the person who at the time was in fact acting as the father or mother of the employee), the son or daughter, and the brother or sister.
@@ -131,9 +132,9 @@ The provisions of this Order apply to all employees in any
 undertaking or part of an undertaking, the activities of which consist wholly or mainly in the hiring of cars or private buses, or in driving instruction, mainly -
 Drivers Conductors/Attendants Clerks /Receptionists Watchmen Garage handymen
 but excluding Mechanics and Petrol Station Attendants who are already covered by the Wage Regulation Orders.
-- Amended by: L.N. 48 of 1979; L.N. 427 of 2007; L.N. 134 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021.
-- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021.
-- Amended by: L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020.
+- Amended by: L.N. 48 of 1979; L.N. 427 of 2007; L.N. 134 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022.
+- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022.
+- Amended by: L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 335 of 2022.
 - See Cap. 252.
 - See Cap. 318.
 - See Cap. 318.

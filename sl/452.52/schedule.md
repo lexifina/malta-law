@@ -20,8 +20,8 @@
 "day" means a period running from midnight of one day to midnight of the next following day;
 "half day" means a period running from midnight to noon, or from noon to midnight;
 "hours of work" means the time on any day during which employees are at the disposal of the employer, exclusive of the intervals allowed for meals and rest;
-"part-time employee" means an employee whose normal hours of work, calculated on a weekly basis or on average over a period of employment of up to one year, are less than the normal hours of work of a comparable whole-time employee and who is not a whole-time employee with reduced hours;
-"period of employment" means the time in any day during which [S.L.452.52 2 INDUSTRIES WAGES COUNCIL WAGE REGULATION
+"part-time employee" means an employee whose normal hours of work, calculated on a weekly basis or on average over a period of employment of up to one year, are less than the normal hours of work of a comparable whole-time employee and who is not a whole-time employee with reduced hours; [S.L.452.52 2 INDUSTRIES WAGES COUNCIL WAGE REGULATION
+"period of employment" means the time in any day during which
 employees are at the disposal of the employer, inclusive of the intervals allowed for meals and rest;
 "shift employees" means employees in any factory to which this
 Schedule applies who normally are required to be at the disposal of their employer twenty-four hours a day;
@@ -42,9 +42,9 @@ working week as follows:
 to thirty-seven and one half hours.
 3. The minimum weekly remuneration payable to all whole-
 time employees, including learners, shall be the following -
-(a) watchmen ............................................... €184.00
+(a) watchmen ............................................... €193.90
 (b) other whole-time employees:
-at age 16 years ........................................ €174.68 at age 17 years ........................................ €177.01 at age 18 years ........................................ €184.00:
+at age 16 years ........................................ €184.58 at age 17 years ........................................ €186.91 at age 18 years ........................................ €193.90:
 Provided that -
 (a) where an establishment is conditioned to a working week of less than forty hours, the minimum wage laid
 down above shall apply; and
@@ -73,8 +73,8 @@ other than a Sunday or a customary holiday
 (c) for all time worked on Sundays, customary holidays or
 vacation leave not granted .......................double time.
 (4) When the normal number of working hours per week of an employee is less than forty hours such overtime rate shall be paid for all time worked in excess of his normal number of working hours in any one week.
-8. (1) In addition to the minimum weekly rest to which whole-time employees may be entitled under paragraph 6, whole-time employees shall be entitled to the National Holidays and to all [S.L.452.52 4 INDUSTRIES WAGES COUNCIL WAGE REGULATION
-public holidays with full pay, and to the following vacation leave not being less than -
+8. (1) In addition to the minimum weekly rest to which [S.L.452.52 4 INDUSTRIES WAGES COUNCIL WAGE REGULATION
+whole-time employees may be entitled under paragraph 6, whole-time employees shall be entitled to the National Holidays and to all public holidays with full pay, and to the following vacation leave not being less than -
 (a) four working weeks and one working day during the
 calendar years 1988 and 1989;
 (b) four working weeks and two working days during the calendar year 1990;
@@ -139,8 +139,8 @@ crushing, breaking up or baling of metals;
 (f) repairs of television sets and radios.
 2. The provisions of this Schedule do not apply to any
 employees engaged in the installation, erection, and fitting of transmission and distribution equipment for electric energy, gas or water, whether inside or outside buildings.
-- Amended by: L.N. 123 of 1978; L.N. 24 of 1979; L.N. 45 of 1990; L.N. 427 of 2007; L.N. 138 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016:; L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021.
-- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021.
+- Amended by: L.N. 123 of 1978; L.N. 24 of 1979; L.N. 45 of 1990; L.N. 427 of 2007; L.N. 138 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016:; L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022.
+- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022.
 - See Cap. 252.
 - See Cap. 318.
 - See Cap. 318.

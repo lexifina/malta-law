@@ -21,8 +21,8 @@
 "normal hourly wage" means the weekly wage divided by -
 (a) sixty, in the case of watchmen, and
 (b) forty, in the case of other employees;
-"part-time employee" means an employee whose normal hours of work, calculated on a weekly basis or on average over a period of employment of up to one year, are less than the normal hours of work of a comparable whole-time employee and who is not a whole-time employee with reduced hours;
-"recognised breaks" means breaks which are customary among [S.L.452.59 2 WAGE REGULATION
+"part-time employee" means an employee whose normal hours of work, calculated on a weekly basis or on average over a period of employment of up to one year, are less than the normal hours of work of a comparable whole-time employee and who is not a whole-time employee with reduced hours; [S.L.452.59 2 WAGE REGULATION
+"recognised breaks" means breaks which are customary among
 particular sections of the employees to whom this Schedule applies;
 "time-and-a-half" and "double-time" mean respectively -
 (a) in the case of a time employee, one-and-a-half times
@@ -49,13 +49,13 @@ Provided that -
 [S.L.452.59 WAGE REGULATION 3
 3. (1) Subject to the provisions of paragraph 7 of this Schedule, the minimum weekly wages payable to time employees shall be the following:
 (a) (i) Watchmen whose duties are mainly performed
-indoors ............................................ €187.49
+indoors ............................................ €197.39
 (ii) Watchmen whose duties are mainly performed
-out of doors ..................................... €189.82
+out of doors ..................................... €199.72
 (b) Other time employees:
-(i) aged 18 years or over ....................... €187.49
-(ii) aged 17 years ................................... €176.68
-(iii) aged under 17 years .......................... €174.10
+(i) aged 18 years or over ....................... €197.39
+(ii) aged 17 years ................................... €186.58
+(iii) aged under 17 years .......................... €184.00
 (2) Notwithstanding the provisions of paragraph 2 of this Schedule, an employee shall be entitled to the full contracted weekly remuneration if -
 (a) he works for not less than thirty-seven hours in any
 one week, exclusive of overtime work, if he works in a
@@ -154,8 +154,8 @@ to make ornamental or protective surfaces, and the
 preparation and setting of all marble objects whether
 for ornamental purposes or not.
 This Order does not apply to employees employed by woodwork contractors.
-- Amended by: L.N. 66 of 1989; L.N. 44 of 1990; L.N. 427 of 2007; L.N. 131 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021.
-- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021.
+- Amended by: L.N. 66 of 1989; L.N. 44 of 1990; L.N. 427 of 2007; L.N. 131 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022.
+- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022.
 - See Cap. 252.
 - See Cap. 318.
 - See Cap. 318.

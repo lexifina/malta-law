@@ -36,12 +36,12 @@ work spread over five days;
 (b) in the case of a night worker, to a week of thirty-eight hours of work exclusive of overtime, and in the case of watchman, to a week of forty-eight hours of work exclusive of overtime.
 3. The minimum weekly remuneration payable to whole-time
 employees shall be the following:
-(a) Watchmen ............................................... €182.83;
+(a) Watchmen ............................................... €192.73;
 and
 (b) Other employees aged:
-(i) 18 years or over ............................. €182.83
-(ii) 17 years ........................................ €176.05
-(iii) 16 years ........................................ €173.21.
+(i) 18 years or over ............................. €192.73
+(ii) 17 years ........................................ €185.95
+(iii) 16 years ........................................ €183.11.
 4. Employees, whether day or night workers, shall be allowed
 intervals of not less, in the aggregate, than one hour for meals and rest in any one period of employment in which the hours of work are not less than five and a half.
 5. Employees shall be allowed one whole day off each week.
@@ -115,8 +115,8 @@ EXPLANATORY NOTE
 applicability).
 The provisions of the above Schedule will apply to all
 employees, other than apprentices, in all establishments engaged in printing, publishing or book-binding.
-- Amended by: L.N. 6 of 1979; L.N. 427 of 2007; L.N. 153 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016:; L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021.
-- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021.
+- Amended by: L.N. 6 of 1979; L.N. 427 of 2007; L.N. 153 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016:; L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022.
+- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022.
 - See Cap. 252.
 - See Cap. 318.
 - See Cap. 318.

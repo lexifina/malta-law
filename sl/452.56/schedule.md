@@ -19,8 +19,8 @@
 "hours of work" means the time on any day during which the employees are at the disposal of the employer, exclusive of the intervals allowed for meals and rest;
 "part-time employee" means an employee whose normal hours of work, calculated on a weekly basis or on average over a period of employment of up to one year, are less than the normal hours of work of a comparable whole-time employee and who is not a whole-time employee with reduced hours;
 "period of employment" means the time in any day during which the employees are at the disposal of the employer, inclusive of the intervals allowed for meals and rest;
-"time-and-a-half" and "double-time" mean respectively one and a half times and double the actual time rate applicable to the [S.L.452.56 2 WAGES COUNCIL WAGE REGULATION
-employee;
+"time-and-a-half" and "double-time" mean respectively one and a [S.L.452.56 2 WAGES COUNCIL WAGE REGULATION
+half times and double the actual time rate applicable to the employee;
 "wages" means remuneration or earnings payable in money by an
 employer to an employee;
 "week" means a calendar week;
@@ -35,17 +35,17 @@ spaced between the times of 7.30 a.m. and 5.30 p.m. on any day of the week from 
 other than watchmen, shall be related to a week of forty hours of work, while that of watchmen shall be related to a week of sixty hours of work.
 3. (1) The minimum weekly wages of whole-time employees,
 other than watchmen, aged eighteen years or over shall be as follows -
-During the first two years of employment in the trade .................................................................. €182.83
-During the third year of employment in the trade .................................................................. €186.91 During the fourth year of employment in the trade ................................................................... €189.24
-During the fifth year of employment in the trade ................................................................... €191.57.
+During the first two years of employment in the trade .................................................................. €192.73
+During the third year of employment in the trade .................................................................. €196.81 During the fourth year of employment in the trade ................................................................... €199.14
+During the fifth year of employment in the trade ................................................................... €201.47.
 (2) The minimum weekly wages of whole-time employees,
 other than watchmen, under eighteen years of age shall be as follows -
-aged 16 years .................................................... €173.21
-aged 17 years .................................................... €176.05.
+aged 16 years .................................................... €183.11
+aged 17 years .................................................... €185.95.
 (3) The minimum weekly wages of whole-time watchmen,
 independently of their age, shall be as follows:
-(a) those whose duties are mainly performed indoors .................................................................. €182.83
-(b) those whose duties are mainly performed out of doors .................................................................. €185.16.
+(a) those whose duties are mainly performed indoors .................................................................. €192.73
+(b) those whose duties are mainly performed out of doors .................................................................. €195.06.
 [S.L.452.56 WAGES COUNCIL WAGE REGULATION 3
 4. Whole-time employees, other than watchmen, shall be allowed intervals for meals and rest of not less in the aggregate than one and a half hours on any day of the week from Monday to Friday and of not less than a quarter of an hour on any Saturday.
 5. Subject to the provisions of paragraph 2 hereof -
@@ -123,8 +123,8 @@ The provisions of the above Schedule apply to employees employed in any undertak
 In these proposals:
 "manufacture" includes repair; and
 "jewellery" means articles made wholly or mainly of or covered with gold, silver, platinum or other precious metals and includes diamonds or precious stones, articles of rolled gold.
-- Amended by: L.N. 122 of 1978; L.N. 427 of 2007; L.N. 141 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021.
-- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021.
+- Amended by: L.N. 122 of 1978; L.N. 427 of 2007; L.N. 141 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022.
+- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022.
 - See Cap. 252.
 - See Cap. 318.
 - See Cap. 318.

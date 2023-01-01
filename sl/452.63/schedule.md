@@ -19,8 +19,8 @@
 "hours of work" means the time on any day during which employees are at the disposal of the employer, exclusive of intervals allowed for meals and rest;
 "part-time employee" means an employee whose normal hours of work, calculated on a weekly basis or on average over a period of employment of up to one year, are less than the normal hours of work of a comparable whole-time employee and who is not a whole-time employee with reduced hours;
 "time-and-a-half" and "double-time" mean respectively one and a half times and twice the actual time rate applicable to the employee;
-"whole-time employee" means an employee who is deemed to be a whole-time employee in terms of any recognized conditions of employment;
-"wages" means remuneration or earnings, payable in money by [S.L.452.63 2 WAGES COUNCIL WAGE REGULATION
+"whole-time employee" means an employee who is deemed to be a whole-time employee in terms of any recognized conditions of employment; [S.L.452.63 2 WAGES COUNCIL WAGE REGULATION
+"wages" means remuneration or earnings, payable in money by
 an employer to an employee;
 "week" means a calendar week;
 "weekly day of rest" means a period of twenty-four consecutive
@@ -36,24 +36,23 @@ age specified in Column 1 of the table immediately following shall be entitled t
 Minimum Remuneration
 WHOLE-TIME EMPLOYEES (OTHER THAN WATCHMEN)
 Column 1 Column 2
-At age 16 years ............................................ €174.10
-17 years ............................................ €176.68 8 years and over ................................ €184.00
+At age 16 years ............................................ €184.00
+17 years ............................................ €186.58 8 years and over ................................ €193.90
 (b) Watchmen employed as whole-time employees performing duties as specified in Column 1 of the table immediately following shall be entitled to the appropriate rate of remuneration set out in Column 2 thereof:
 Minimum Remuneration
 WATCHMEN EMPLOYED AS WHOLE-TIME EMPLOYEES
 Column 1 Column 2
 Watchmen whose duties are mainly performed
-indoors ............................................................ €184.00
+indoors ............................................................ €193.90
 Watchmen whose duties are mainly performed
-outdoors .......................................................... €186.32
+outdoors .......................................................... €195.22
 4. All whole-time employees shall be allowed intervals of not
 less, in the aggregate, than one hour for meals and rest every day.
 5. (1) (Deleted by Legal Notice 5 of 2016).
 (2) All whole-time employees shall be entitled to at least one
 day of rest in every calendar week.
-6. Whole-time employees other than watchmen shall be
-entitled to overtime remuneration as follows:
 [S.L.452.63 WAGES COUNCIL WAGE REGULATION 3
+6. Whole-time employees other than watchmen shall be entitled to overtime remuneration as follows:
 (a) for all hours of work in excess of the normal hours of
 work in accordance with paragraph 2 of this Schedule
 .......................................................... time-and-a-half;
@@ -89,7 +88,8 @@ seventh day (day of rest) ............... double-time.
 (2) Only those employees who give their consent in terms of this paragraph shall be obliged to work on Sundays. These employees shall be paid in accordance with paragraph 6 of this Schedule.
 (3) No employee shall be subject to any disadvantage, threat or actual dismissal by his employer on account that he is not willing to give his consent to work on Sundays in terms of this paragraph.
 (4) This paragraph shall not apply to those employees who are obliged to work on Sundays by virtue of a pre requisite in their contract of employment or in the written statement which must be drawn up in terms of the Act and its subsidiary legislation.
-7. (1) In addition to the minimum weekly rest to which whole-time employees may be entitled under paragraph 5, whole-time employees shall be entitled to all customary holidays with full pay, and to the following vacation leave not being less than - [S.L.452.63 4 WAGES COUNCIL WAGE REGULATION
+7. (1) In addition to the minimum weekly rest to which whole-time employees may be entitled under paragraph 5, whole- [S.L.452.63 4 WAGES COUNCIL WAGE REGULATION
+time employees shall be entitled to all customary holidays with full pay, and to the following vacation leave not being less than -
 (a) four working weeks and one working day during each
 of the calendar years 1988 and 1989;
 (b) four working weeks and two working days during the calendar year 1990;
@@ -112,8 +112,10 @@ Provided that -
 (a) the first three days of any claim for sick leave shall be
 paid in full by the employer;
 (b) a medical certificate covering the period of absence is produced to the employer on the day of return to work or, if such period of absence is longer than seven days, within seven days of the onset of sick leave absence;
-(c) employees in receipt of a social security pension in respect of retirement or widowhood in terms of the Social Security Act shall, for the purpose of calculating the sick leave pay due, be deemed to have received an amount equal to the sum set for sickness benefit entitlement at the rate established under the
+(c) employees in receipt of a social security pension in respect of retirement or widowhood in terms of the Social Security Act shall, for the purpose of calculating the sick leave pay due, be deemed to have
 [S.L.452.63 WAGES COUNCIL WAGE REGULATION 5
+received an amount equal to the sum set for sickness
+benefit entitlement at the rate established under the
 Social Security Act.
 (2) After completing the first six months of employment, a whole-time employee shall in every calendar year be entitled to the equivalent in hours of a further thirty-six days sick leave on half pay, less an amount equal to half the sum set for sickness benefit entitlement at the rate established under the Social Security Act, and part-time employees shall have a pro rata entitlement to sick leave in hours on half pay, less an amount equal to half the sum set for sickness benefit entitlement at the rate established under the Social Security Act, which amount is also to be calculated on a pro rata basis:
 Provided that -
@@ -134,7 +136,8 @@ under the Social Security Act.
 9. Whole-time employees shall be allowed two days paid leave on the occasion of the death of any of the following relations: wife, husband, mother, father, (or the person who at the time was in fact acting as the mother or father of the employee), son, daughter, brother or sister.
 10. A whole-time employee shall be allowed three days leave with pay on the occasion of his or her marriage, and one day leave on the occasion of the birth of a child to the wife of the employee.
 11. A whole-time employee shall be entitled to one year injury leave on full pay less the full amount of any injury benefit to which such employee may be entitled under the Social Security Act, if he/ she is injured during the actual discharge of his/her duty and not due to any contributory negligence on his/her part or to any contravention of safety rules laid down by the management.
-12. Whole-time employees called for jury service shall be allowed all the necessary time off on full pay to attend such service at the Court. [S.L.452.63 6 WAGES COUNCIL WAGE REGULATION
+12. Whole-time employees called for jury service shall be [S.L.452.63 6 WAGES COUNCIL WAGE REGULATION
+allowed all the necessary time off on full pay to attend such service at the Court.
 13. In cases where the retiring age of a male employee is
 expected at the age of sixty years, such employee shall be given the opportunity by his employer to retain his employment beyond this age at least until the age of sixty-one years, provided that the employee in question shall still be allowed, if he so wishes, to retire at the age of sixty years.
 EXPLANATORY NOTE
@@ -142,8 +145,8 @@ EXPLANATORY NOTE
 applicability).
 The provisions of the above Schedule shall apply to all persons
 employed by wholesale merchants, distributors, importers, exporters, commission agents, wholesale and marketing, co-operatives, retailers, lending libraries, hawkers, hairdressers, consumers' co-operatives, photographic studios; but it shall not apply to employees in any shop run directly under the management of a hotel as part of the amenities of the hotel, nor to employees in any shop either run directly by the management of a club as part of the amenities thereof or given out under contract for the purpose of increasing those amenities.
-- Amended by: L.N. 427 of 2007; L.N. 125 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 5 of 2017; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021.
-- Amended by: L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021.
+- Amended by: L.N. 427 of 2007; L.N. 125 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 5 of 2017; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022.
+- Amended by: L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022.
 - See Cap. 252.
 - See Cap. 318.
 - See Cap. 318.
