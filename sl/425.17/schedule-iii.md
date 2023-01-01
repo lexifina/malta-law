@@ -9,13 +9,11 @@ Categories of Serious Offences related to Aquaculture
 3. Repeated, negligent or intentional failure in maintaining cage numbering on the aquaculture establishment cages.
 4. Failure to comply with any obligation in relation to the towing, caging or harvesting of bluefin tuna.
 5. Failure to provide any documentation required when towing bluefin tuna or in relation to bluefin tuna towing activities.
-[S.L. 425.17 18 (FISHERIES AND AQUACULTURE)
-6. Failure to have operational monitoring systems onboard
-or failure to report positions by towing vessels, when so required.
-7. The towing or auxiliary vessel carries fishing gear
-onboard contrary to applicable law or conditions.
+6. Failure to have operational monitoring systems onboard or failure to report positions by towing vessels, when so required.
+7. The towing or auxiliary vessel carries fishing gear onboard contrary to applicable law or conditions.
 8. Any unauthorised physical transfer of bluefin tuna at sea.
 9. Any landing and, or commercialisation of bluefin tuna
+[S.L. 425.17 18 (FISHERIES AND AQUACULTURE)
 which is affected by an illegality of any sort.
 10. Any lack of observance of a required distance from the
 cages of an aquaculture establishment, as directed by the relevant authorities.

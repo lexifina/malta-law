@@ -9,10 +9,10 @@ documentation required according to the the
 when towing bluefin tuna or obligations involved documentatio in relation to bluefin tuna in a given case, n relates to towing activities. which may affect daily vessel
 any person, activities, or including the vessel seven (7) if operator, its master the and the aquaculture documentatio establishment n relates operator. specifically
 to bluefin tuna, in any other case three (3) points
-[S.L. 425.17 (FISHERIES AND AQUACULTURE) 19
 2 Failure to have operational The master of the Seven (7)
 towing vessel. monitoring systems
 onboard or failure to report positions by towing vessels, when so required.
+[S.L. 425.17 (FISHERIES AND AQUACULTURE) 19
 3 The towing or auxiliary The master of the Seven (7)
 vessel. vessel carries fishing gear
 onboard contrary to applicable law or conditions.
@@ -29,10 +29,9 @@ operator.
 commercialisation of bluefin tuna which is affected by an illegality of any sort, including in relation to traceability obligations.
 7 Any lack of observance of a The master of the Ten (10)
 required distance from the relevant vessel. cages of an aquaculture establishment, as directed by the relevant authorities.
-[S.L. 425.17 20 (FISHERIES AND AQUACULTURE)
 8 Repeated, negligent or The permit holder and Three (3)
-intentional failure in operator of the
-maintaining cage aquaculture numbering on the bluefin establishment. tuna aquaculture establishment cages.
+intentional failure in operator of the maintaining cage aquaculture numbering on the bluefin establishment. tuna aquaculture establishment cages.
+[S.L. 425.17 20 (FISHERIES AND AQUACULTURE)
 9 Any bluefin tuna caging or The permit holder and Fifteen (15)
 operator of the harvesting operation aquaculture without the prior establishment, and any
 authorisation of the relevant
