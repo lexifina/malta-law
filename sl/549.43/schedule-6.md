@@ -7,3 +7,4 @@ The following information shall be contained in the register in relation to a pr
 - Registration number of the producer;
 - Information as to whether the producer self-complies or is a member of
 an authorised packaging waste recovery organisation.
+- Substituted by: L.N.226 of 2017.

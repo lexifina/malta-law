@@ -26,8 +26,8 @@ video inside);
 - CD spindles (sold empty, intended to be used as storage); - Soluble bags for detergents;
 - Grave side lights (containers for candles); and
 - Mechanical quern (integrated in a refillable recipient, e.g.
-[S.L.549.43 (PACKAGING AND PACKAGING WASTE) 29
 refillable pepper mill).
+[S.L.549.43 34 (PACKAGING AND PACKAGING WASTE)
 2. Illustrative examples for criterion (ii):
 (a) Packaging, if designed and intended to be filled at the point of sale
 - Paper or plastic carrier bags; - Disposable plates and cups; - Cling film; - Sandwich bags; - Aluminium foil; and - Plastic foil for cleaned clothes in laundries.
@@ -45,5 +45,4 @@ closure for detergents; and
 with a product, e.g. pepper mill filled with pepper).
 (c) Non-packaging
 - Radio frequency identification (RFID) tags.
-[S.L.549.43 30 (PACKAGING AND PACKAGING WASTE)
-- Substituted by: L.N. 358 of 2013.
+[S.L.549.43 (PACKAGING AND PACKAGING WASTE) 35

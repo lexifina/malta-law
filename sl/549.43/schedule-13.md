@@ -22,7 +22,7 @@ Address:
 , as the producer's authorised representative in Malta in accordance with regulation 21A.
 Name of legal or natural person established in Malta:
 hereby represents and undertakes the responsibilities as the authorised representative in Malta for
-[S.L.549.43 46 (PACKAGING AND PACKAGING WASTE)
+[S.L.549.43 50 (PACKAGING AND PACKAGING WASTE)
 Name of Producer:
 , in accordance with the Waste Management (Packaging & Packaging Waste) Regulations.
 This mandate, signed by both parties, commences on the date of signature unless otherwise declared, and will cease once either party informs the competent authority in Malta managing the national register that this mandate has been terminated.

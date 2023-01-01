@@ -29,10 +29,10 @@ applicable;
 market, by weight and by material during the specific reporting period in accordance with the reporting formats to be established by the competent authority;
 - Quantities of sales packaging or packaging material placed on the
 national market, by weight and by material during the specific reporting period in accordance with the reporting formats to be established by the competent authority;
+- Quantities of grouped packaging or packaging material placed on the [S.L.549.43 42 (PACKAGING AND PACKAGING WASTE)
+national market, by weight and by material during the specific reporting period in accordance with the reporting formats to be established by the competent authority;
 - Quantities of reusable packaging or packaging material placed on the
-national market, by weight and by material during the specific reporting period in accordance with the reporting formats to be established by the
-[S.L.549.43 (PACKAGING AND PACKAGING WASTE) 37
-competent authority;
+national market, by weight and by material during the specific reporting period in accordance with the reporting formats to be established by the competent authority;
 - Quantities of reusable sales packaging or packaging material placed on
 the national market, by weight and by material during the specific reporting period in accordance with the reporting formats to be established by the competent authority;
 - The number of rotations for all reusable packaging during the specific
@@ -53,4 +53,7 @@ producer for the carrying out of the waste management operations;
 - An appropriate description of how the data has been compiled,
 including any explanation of any estimates used; and
 - Proof of reuse, recycling, recovery or incineration at waste incineration
-plants with energy recovery as well as disposal in accordance with regulation 15. Quantity of plastic carrier bags put on the national market, by weight -and by thickness during the specific reporting period; [S.L.549.43 38 (PACKAGING AND PACKAGING WASTE)
+plants with energy recovery as well as disposal in accordance with regulation 15. Quantity of plastic carrier bags put on the national market, by weight -and by thickness during the specific reporting period;
+[S.L.549.43 (PACKAGING AND PACKAGING WASTE) 43
+- Substituted by: A.L. 226 tal-2017.
+- Amended by: A.L. 227 tal-2017; L.N. 152 of 2021; L.N. 369 of 2022.

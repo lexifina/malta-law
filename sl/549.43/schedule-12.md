@@ -10,5 +10,5 @@ signing the certificate;
 - The producer in respect of whom the approved person is issuing the
 certificate; and
 - Certification by the approved person as to whether the relevant producer
-has complied with his recovery and recycling obligations.
-[S.L.549.43 (PACKAGING AND PACKAGING WASTE) 45
+has complied with his Extended Producer Responsibility Obligations. With respect to producers placing on the market transport packaging and, or refillable gas cylinders, certification as to whether the relevant producer has complied with his recovery and recycling obligations.
+[S.L.549.43 (PACKAGING AND PACKAGING WASTE) 49
