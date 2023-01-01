@@ -12,7 +12,7 @@ A. Generic hallmarks linked to the main benefit test
 2. An arrangement where the intermediary is entitled to receive a fee (or interest, remuneration for finance costs and other charges) for the arrangement and that fee is fixed by reference to:
 (a) the amount of the tax advantage derived from the arrangement; or
 (b) whether or not a tax advantage is actually derived from the arrangement. This would include an obligation on the intermediary to partially or fully refund the fees where the intended tax advantage derived from the arrangement was not partially or fully achieved.
-[S.L.123.127 ON TAX MATTERS 85
+[S.L.123.127 92 ON TAX MATTERS
 3. An arrangement that has substantially standardised documentation and, or structure and is available to more than one relevant taxpayer without a need to be substantially customised for implementation.
 B. Specific hallmarks linked to the main benefit test
 1. An arrangement whereby a participant in the arrangement takes contrived steps which consist in acquiring a loss-making company, discontinuing the main activity of such company and using its losses in order to reduce its tax liability, including through a transfer of those losses to another jurisdiction or by the acceleration of the use of those losses.
@@ -32,7 +32,7 @@ framework of the OECD as being non-cooperative;
 4. There is an arrangement that includes transfers of assets and where there is a material difference in the amount being treated as payable in consideration for the assets in those jurisdictions involved.
 D. Specific hallmarks concerning automatic exchange of information and beneficial ownership
 1. An arrangement which may have the effect of undermining the reporting obligation under the laws implementing Union legislation or any equivalent agreements on the automatic exchange of Financial Account information, including agreements with third countries, or which takes advantage of the absence of such legislation or agreements. Such arrangements include at least the following:
-[S.L.123.127 86 ON TAX MATTERS
+[S.L.123.127 ON TAX MATTERS 93
 (a) the use of an account, product or investment that is not, or purports not to be, a Financial Account, but has features that are substantially similar to those of a Financial Account;
 (b) the transfer of Financial Accounts or assets to, or the use of jurisdictions that are not bound by the automatic exchange of Financial Account information with the State of residence of the relevant taxpayer;
 (c) the re-classification of income and capital into products or payments that are not subject to the automatic exchange of Financial Account information;
@@ -49,5 +49,6 @@ E. Specific hallmarks concerning transfer pricing
 2. An arrangement involving the transfer of hard-to-value intangibles. The term "hard-to-value intangibles" covers intangibles or rights in intangibles for which, at the time of their transfer between associated enterprises:
 (a) no reliable comparables exist; and
 (b) at the time the transaction was entered into, the projections of future cash flows or income expected to be derived from the transferred intangible, or the assumptions used in valuing the intangible are highly uncertain, making it difficult to predict the level of ultimate success of the intangible at the time of the transfer.
-[S.L.123.127 ON TAX MATTERS 87
+[S.L.123.127 94 ON TAX MATTERS
 3. An arrangement involving an intra-group cross-border transfer of functions and, or risks and, or assets, if the projected annual earnings before interest and taxes (EBIT), during the three-year period after the transfer, of the transferor or transferors, are less than 50% of the projected annual EBIT of such transferor or transferors if the transfer had not been made.
+- Added by: L.N. 342 of 2019.

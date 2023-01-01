@@ -16,7 +16,7 @@ dividends, and the total gross amount of other income generated with respect to 
 (b) the total gross proceeds from the sale or redemption of Financial
 Assets paid or credited to the account during the calendar year or other appropriate reporting period with respect to which the Reporting Malta Financial Institution acted as a custodian, broker, nominee, or otherwise as an agent for the Account Holder;
 6. in the case of any Depository Account, the total gross amount of interest paid or credited to the account during the calendar year or other appropriate reporting period; and
-[S.L.123.127 50 ON TAX MATTERS
+[S.L.123.127 ON TAX MATTERS 57
 7. in the case of any account not described in sub-paragraph A(5) or (6), the total gross amount paid or credited to the Account Holder with respect to the account during the calendar year or other appropriate reporting period with respect to which the Reporting Malta Financial Institution is the obligor or debtor, including the aggregate amount of any redemption payments made to the Account Holder during the
 calendar year or other appropriate reporting period.
 B. The information reported must identify the currency in which each amount is denominated.
@@ -32,7 +32,7 @@ B. The balance or value of an account is determined as of the last day of the ca
 C. Where a balance or value threshold is to be determined as of the last day of a calendar year, the relevant balance or value must be determined as of the last day of the reporting period that ends with or within that calendar year.
 D. Reporting Malta Financial Institutions may use service providers to fulfil their reporting and due diligence obligations imposed on such Reporting Malta Financial Institutions, as contemplated in these Regulations, but these obligations shall remain the responsibility of the Reporting Malta Financial Institutions.
 E. Reporting Malta Financial Institutions may apply the due diligence procedures for New Accounts to Pre-existing Accounts, and the due diligence procedures for High Value Accounts to Lower Value Accounts. Where a Reporting
-[S.L.123.127 ON TAX MATTERS 51
+[S.L.123.127 58 ON TAX MATTERS
 Malta Financial Institution opts to apply the due diligence procedures to New Accounts to be used for Pre-existing Accounts, the rules otherwise applicable to Pre-existing Accounts continue to apply.
 SECTION III
 DUE DILIGENCE FOR PRE-EXISTING INDIVIDUAL ACCOUNTS
@@ -48,9 +48,9 @@ B. Lower Value Accounts. The following procedures apply with respect to Lower Va
 (f) a "hold mail" instruction or "in-care-of" address in a Member State if the Reporting Malta Financial Institution does not have any other address on file for the Account Holder.
 3. If none of the indicia listed in subparagraph B(2) are discovered in the electronic search, then no further action is required until there is a change in circumstances that results in one or more indicia being associated with the account, or the account becomes a High Value Account.
 4. If any of the indicia listed in sub-paragraph B(2)(a) through (e) are discovered in the electronic search, or if there is a change in circumstances that results in one or more indicia being associated with the account, then the Reporting Malta Financial Institution must treat the Account Holder as a resident for tax purposes of each Member State for which an indicium is identified, unless it elects to apply sub-paragraph B(6) and one of the exceptions in that sub-paragraph applies with respect to that account.
-5. If a "hold mail" instruction or "in-care-of" address is discovered in the electronic search and no other address and none of the other indicia listed in sub-paragraph B(2)(a) through (e) are identified for the Account Holder, the Reporting
-[S.L.123.127 52 ON TAX MATTERS
-Malta Financial Institution must, in the order most appropriate to the circumstances, apply the paper record search described in sub-paragraph C(2), or seek to obtain from the Account Holder a self-certification or Documentary Evidence to establish the residence(s) for tax purposes of such Account Holder. If the paper search fails to establish an indicium and the attempt to obtain the self-certification or Documentary Evidence is not successful, the Reporting Malta Financial Institution must report the account to the competent authority of Malta as an undocumented account.
+5. If a "hold mail" instruction or "in-care-of" address is discovered in the electronic search and no other address and none of the other indicia listed in sub-
+[S.L.123.127 ON TAX MATTERS 59
+paragraph B(2)(a) through (e) are identified for the Account Holder, the Reporting Malta Financial Institution must, in the order most appropriate to the circumstances, apply the paper record search described in sub-paragraph C(2), or seek to obtain from the Account Holder a self-certification or Documentary Evidence to establish the residence(s) for tax purposes of such Account Holder. If the paper search fails to establish an indicium and the attempt to obtain the self-certification or Documentary Evidence is not successful, the Reporting Malta Financial Institution must report the account to the competent authority of Malta as an undocumented account.
 6. Notwithstanding a finding of indicia under sub-paragraph B(2), a Reporting Malta Financial Institution is not required to treat an Account Holder as a resident of a Member State if:
 (a) the Account Holder information contains a current mailing or residence address in that Member State, one or more telephone numbers in that Member State (and no telephone number in the Member State of the Reporting Malta Financial Institution) or standing instructions (with respect to Financial Accounts other than Depository Accounts) to transfer funds to an account maintained in a Member State, and the Reporting Malta Financial Institution obtains, or has previously reviewed and maintains, a record of:
 (i) a self-certification from the Account Holder of the Member State(s) or other jurisdiction(s) of residence of such Account
@@ -64,7 +64,7 @@ C. Enhanced Review Procedures for High Value Accounts. The following enhanced re
 1. Electronic Record search. With respect to High Value Accounts, the Reporting Malta Financial Institution must review electronically searchable data maintained by the Reporting Malta Financial Institution for any of the indicia described in sub-paragraph B(2).
 2. Paper Record Search. If the Reporting Malta Financial Institution's electronically searchable databases include fields for, and capture all of the information described in, sub-paragraph C(3), then a further paper record search is not required. If the electronic databases do not capture all of this information, then with respect to a High Value Account, the Reporting Malta Financial Institution must also review the current customer master file and, to the extent not contained in the current customer master file, the following documents associated with the account and obtained by the Reporting Malta Financial Institution within the last five years for any of the indicia described in sub-paragraph B(2):
 (a) the most recent Documentary Evidence collected with respect to the account;
-[S.L.123.127 ON TAX MATTERS 53
+[S.L.123.127 60 ON TAX MATTERS
 (b) the most recent account opening contract or documentation;
 (c) the most recent documentation obtained by the Reporting Malta Financial Institution pursuant to AML/KYC Procedures or for other regulatory purposes;
 (d) any power of attorney or signature authority forms currently in effect; and
@@ -81,7 +81,7 @@ on file with the Reporting Malta Financial Institution;
 5. Effect of Finding Indicia.
 (a) If none of the indicia listed in sub-paragraph B(2) are discovered in the enhanced review of High Value Accounts described in paragraph C, and the account is not identified as held by a Reportable Person in sub-paragraph C(4), then further action is not required until there is a change in circumstances that results in one or more indicia being associated with the account.
 (b) If any of the indicia listed in sub-paragraphs B(2)(a) through (e) are discovered in the enhanced review of High Value Accounts described in paragraph C, or if there is a subsequent change in circumstances that results in one or more indicia being associated with the account, then the Reporting Malta Financial Institution must treat the account as a Reportable Account with respect to each Member State for which an indicium is identified unless it elects to apply sub-paragraph B(6) and one of the exceptions in that sub-paragraph applies with respect to that account.
-[S.L.123.127 54 ON TAX MATTERS
+[S.L.123.127 ON TAX MATTERS 61
 (c) If a "hold mail" instruction or "in-care-of" address is discovered in the enhanced review of High Value Accounts described in paragraph C, and no other address and none of the other indicia listed in subparagraphs B(2)(a) through (e) are identified for the Account Holder, the Reporting Malta Financial Institution must obtain from such Account Holder a self-certification or Documentary Evidence to establish the residence(s) for tax purposes of the Account Holder. If the Reporting Malta Financial Institution cannot obtain such self-certification or Documentary Evidence, it must report the account to the competent authority of Malta as an undocumented account.
 6. If a Pre-existing Individual Account is not a High Value Account as of 31 December 2015, but becomes a High Value Account as of the last day of a subsequent calendar year, the Reporting Malta Financial Institution must complete the enhanced review procedures described in paragraph C with respect to such account within the calendar year following the year in which the account becomes a High Value Account. If based on this review such account is identified as a Reportable Account, the Reporting Malta Financial Institution must report the required information about such account with respect to the year in which it is identified as a Reportable Account and subsequent years on an annual basis, unless the Account Holder ceases to be a Reportable Person.
 7. Once a Reporting Malta Financial Institution applies the enhanced review procedures described in paragraph C to a High Value Account, the Reporting Malta Financial Institution is not required to reapply such procedures, other than the relationship manager inquiry described in sub-paragraph C(4), to the same High Value Account in any subsequent year unless the account is undocumented where the Reporting Malta Financial Institution should reapply them annually until such account ceases to be undocumented.
@@ -89,7 +89,7 @@ on file with the Reporting Malta Financial Institution;
 9. A Reporting Malta Financial Institution must implement procedures to ensure that a relationship manager identifies any change in circumstances of an account. For example, if a relationship manager is notified that the Account Holder has a new mailing address in a Member State, the Reporting Malta Financial Institution is required to treat the new address as a change in circumstances and, if it elects to apply sub-paragraph B(6), is required to obtain the appropriate documentation from the Account Holder.
 D. Review of Pre-existing High Value Individual Accounts must be completed by 31 December 2016. Review of Pre-existing Lower Value Individual Accounts must be completed by 31 December 2017.
 E. Any Pre-existing Individual Account that has been identified as a Reportable Account under this Section must be treated as a Reportable Account in all subsequent years, unless the Account Holder ceases to be a Reportable Person.
-[S.L.123.127 ON TAX MATTERS 55
+[S.L.123.127 62 ON TAX MATTERS
 SECTION IV
 DUE DILIGENCE FOR NEW INDIVIDUAL ACCOUNTS
 The following procedures apply for purposes of identifying Reportable Accounts among New Individual Accounts.
@@ -102,7 +102,7 @@ The following procedures apply for purposes of identifying Reportable Accounts a
 A. Entity Accounts Not Required to Be Reviewed, Identified or Reported. Unless the Reporting Malta Financial Institution elects otherwise, either with respect to all Pre-existing Entity Accounts or, separately, with respect to any clearly identified group of such accounts, a Pre-existing Entity Account with an aggregate account balance or value that does not exceed, as of 31 December 2015, an amount denominated in Euro that corresponds to USD 250 000, is not required to be reviewed, identified, or reported as a Reportable Account until the aggregate account balance or value exceeds that amount as of the last day of any subsequent calendar year.
 B. Entity Accounts Subject to Review. A Pre-existing Entity Account that has an aggregate account balance or value that exceeds, as of 31 December 2015, an amount denominated in Euro that corresponds to USD 250 000, and a Pre-existing Entity Account that does not exceed, as of 31 December 2015, that amount but the aggregate account balance or value of which exceeds such amount as of the last day of any subsequent calendar year, must be reviewed in accordance with the procedures set forth in paragraph D.
 C. Entity Accounts With Respect to Which Reporting Is Required. With respect to Pre-existing Entity Accounts described in paragraph B, only accounts that are held by one or more Entities that are Reportable Persons, or by Passive NFEs with one or more Controlling Persons who are Reportable Persons, shall be treated as Reportable Accounts.
-[S.L.123.127 56 ON TAX MATTERS
+[S.L.123.127 ON TAX MATTERS 63
 D. Review Procedures for Identifying Entity Accounts With Respect to Which Reporting Is Required. For Pre-existing Entity Accounts described in paragraph B, a Reporting Malta Financial Institution must apply the following review procedures to determine whether the account is held by one or more Reportable Persons, or by Passive NFEs with one or more Controlling Persons who are Reportable Persons:
 1. Determine Whether the Entity Is a Reportable Person.
 (a) Review information maintained for regulatory or customer
@@ -117,9 +117,9 @@ purposes of determining whether the Account Holder is a Passive NFE, the Reporti
 the purposes of determining the Controlling Persons of an Account Holder, a Reporting Malta Financial Institution may rely on information collected and maintained pursuant to AML/KYC Procedures.
 (c) Determining whether a Controlling Person of a Passive NFE is a Reportable Person. For the purposes of determining whether a Controlling Person of a Passive NFE is a Reportable Person, a
 Reporting Malta Financial Institution may rely on:
-(i) information collected and maintained pursuant to AML/ KYC Procedures in the case of a Pre-existing Entity
-[S.L.123.127 ON TAX MATTERS 57
-Account held by one or more NFEs with an aggregate account balance or value that does not exceed an amount denominated in Euro that corresponds to USD 1 000 000; or
+(i) information collected and maintained pursuant to AML/ KYC Procedures in the case of a Pre-existing Entity Account held by one or more NFEs with an aggregate
+[S.L.123.127 64 ON TAX MATTERS
+account balance or value that does not exceed an amount denominated in Euro that corresponds to USD 1 000 000; or
 (ii) a self-certification from the Account Holder or such Controlling Person of the Member State(s) or other jurisdiction(s) in which the controlling person is resident for tax purposes.
 E. Timing of Review and Additional Procedures Applicable to Pre-existing Entity Accounts
 1. Review of Pre-existing Entity Accounts with an aggregate account balance or value that exceeds, as of 31 December 2015, an amount denominated in Euro that corresponds to USD 250 000, must be completed by 31 December 2017.
@@ -132,9 +132,9 @@ The following procedures apply for purposes of identifying Reportable Accounts a
 Review Procedures for Identifying Entity Accounts With Respect to Which Reporting Is Required. For New Entity Accounts, a Reporting Malta Financial Institution must apply the following review procedures to determine whether the account is held by one or more Reportable Persons, or by Passive NFEs with one or more Controlling Persons who are Reportable Persons:
 1. Determine Whether the Entity Is a Reportable Person.
 (a) Obtain a self-certification, which may be part of the account opening documentation, that allows the Reporting Malta Financial Institution to determine the Account Holder's residence(s) for tax purposes and confirm the reasonableness of such self-certification based on the information obtained by the Reporting Malta Financial Institution in connection with the opening of the account, including any documentation collected pursuant to AML/KYC Procedures. If the Entity certifies that it has no residence for tax purposes, the Reporting Malta Financial Institution may rely on the address of the principal office of the Entity to determine the residence of the Account Holder.
-(b) If the self-certification indicates that the Account Holder is resident in a Member State, the Reporting Malta Financial Institution must treat the account as a Reportable Account, unless it reasonably determines based on information in its possession or that is publicly available that the
-[S.L.123.127 58 ON TAX MATTERS
-Account Holder is not a Reportable Person with respect to such Member State.
+(b) If the self-certification indicates that the Account Holder is resident in a Member State, the Reporting Malta Financial Institution must treat the account as a Reportable Account, unless it reasonably determines based on information in its possession or that is publicly available that the Account Holder is not a Reportable Person with respect to such Member
+[S.L.123.127 ON TAX MATTERS 65
+State.
 2. Determine Whether the Entity is a Passive NFE with One or More Controlling Persons Who Are Reportable Persons. With respect to an Account Holder of a New Entity Account (including an Entity that is a Reportable Person), the Reporting Malta Financial Institution must determine whether the Account Holder is a Passive NFE with one or more Controlling Persons who are Reportable Persons. If any of the Controlling Persons of a Passive NFE is a Reportable Person, then the account must be treated as a Reportable Account. In making these determinations the Reporting Malta Financial Institution must follow the guidance in sub-paragraphs A(2)(a) through (c) in the order most appropriate under the circumstances.
 (a) Determining whether the Account Holder is a Passive NFE. For purposes of determining whether the Account Holder is a Passive NFE, the Reporting Malta Financial Institution must rely on a self-certification from the Account Holder to establish its status, unless it has information in its possession or that is publicly available, based on which it can reasonably determine that the Account Holder is an Active NFE or a Financial Institution other than an Investment Entity described in sub-paragraph A(6)(b) of Section VIII that is not a Participating Jurisdiction Financial Institution.
 (b) Determining the Controlling Persons of an Account Holder. For purposes of determining the Controlling Persons of an Account Holder, a Reporting Malta Financial Institution may rely on information collected and maintained pursuant to AML/KYC Procedures.
@@ -143,9 +143,9 @@ SECTION VII
 SPECIAL DUE DILIGENCE RULES
 The following additional rules apply in implementing the due diligence procedures described above:
 A. Reliance on Self-Certifications and Documentary Evidence. A Reporting Malta Financial Institution may not rely on a self- certification or Documentary Evidence if the Reporting Malta Financial Institution knows or has reason to know that the self-certification or Documentary Evidence is incorrect or unreliable.
-B. Alternative Procedures for Financial Accounts held by Individual Beneficiaries of a Cash Value Insurance Contract or an Annuity Contract and for a Group Cash Value Insurance Contract or Group Annuity Contract. A Reporting Malta Financial Institution may presume that an individual beneficiary (other than the owner) of a Cash Value Insurance Contract or an Annuity Contract receiving a death benefit is not a Reportable Person and may treat such Financial Account as other than a Reportable Account unless the Reporting Malta Financial Institution has actual knowledge, or reason to know, that the beneficiary is a Reportable Person. A Reporting Malta Financial Institution has reason to know that a beneficiary of a Cash Value Insurance Contract or an Annuity Contract is a Reportable Person if the information collected by the Reporting Malta Financial Institution and associated with the beneficiary contains indicia as described in paragraph B of Section III. If a
-[S.L.123.127 ON TAX MATTERS 59
-Reporting Malta Financial Institution has actual knowledge, or reason to know, that the beneficiary is a Reportable Person, the Reporting Malta Financial Institution must follow the procedures in paragraph B of Section III.
+B. Alternative Procedures for Financial Accounts held by Individual Beneficiaries of a Cash Value Insurance Contract or an Annuity Contract and for a Group Cash Value Insurance Contract or Group Annuity Contract. A Reporting Malta Financial Institution may presume that an individual beneficiary (other than the owner) of a Cash Value Insurance Contract or an Annuity Contract receiving a death benefit is not a Reportable Person and may treat such Financial Account as other than a Reportable Account unless the Reporting Malta Financial Institution has actual knowledge, or reason to know, that the beneficiary is a Reportable Person. A Reporting Malta Financial Institution has reason to know that a beneficiary of a Cash Value Insurance Contract or an Annuity Contract is a Reportable Person if the information collected by the Reporting Malta Financial Institution and associated with the beneficiary contains indicia as described in paragraph B of Section III. If a Reporting Malta Financial Institution has actual knowledge, or reason to know, that
+[S.L.123.127 66 ON TAX MATTERS
+the beneficiary is a Reportable Person, the Reporting Malta Financial Institution must follow the procedures in paragraph B of Section III.
 A Reporting Malta Financial Institution may treat a Financial Account that is a member's interest in a Group Cash Value Insurance Contract or Group Annuity Contract as a Financial Account that is not a Reportable Account until the date on which an amount is payable to the employee/certificate holder or beneficiary, if the Financial Account that is a member's interest in a Group Cash Value Insurance Contract or Group Annuity Contract meets the following requirements:
 (i) the Group Cash Value Insurance Contract or Group Annuity Contract is issued to an employer and covers 25 or more employees/certificate holders;
 (ii) the employee/certificate holders are entitled to receive any contract
@@ -157,7 +157,7 @@ The term "Group Annuity Contract" means an Annuity Contract under which the obli
 C. Account Balance Aggregation and Currency Rules
 1. Aggregation of Individual Accounts. For purposes of determining the aggregate balance or value of Financial Accounts held by an individual, a Reporting Malta Financial Institution is required to aggregate all Financial Accounts maintained by the Reporting Malta Financial Institution, or by a Related Entity, but only to the extent that the Reporting Malta Financial Institution's computerised systems link the Financial Accounts by reference to a data element such as client number or TIN, and allow account balances or values to be aggregated. Each holder of a jointly held Financial Account shall be attributed the entire balance or value of the jointly held Financial Account for purposes of applying the aggregation requirements described in this sub-paragraph.
 2. Aggregation of Entity Accounts. For purposes of determining the aggregate balance or value of Financial Accounts held by an Entity, a Reporting Malta Financial Institution is required to take into account all Financial Accounts that are maintained by the Reporting Malta Financial Institution, or by a Related Entity, but only to the extent that the Reporting Malta Financial Institution's computerised systems link the Financial Accounts by reference to a data element such as client number or TIN, and allow account balances or values to be aggregated. Each holder of a jointly held Financial Account shall be attributed the entire balance or value of the jointly held Financial Account for purposes of applying the aggregation requirements described in this sub-paragraph.
-[S.L.123.127 60 ON TAX MATTERS
+[S.L.123.127 ON TAX MATTERS 67
 3. Special Aggregation Rule Applicable to Relationship Managers. For purposes of determining the aggregate balance or value of Financial Accounts held by a person to determine whether a financial account is a High Value Account, a Reporting Malta Financial Institution is also required, in the case of any Financial Accounts that a relationship manager knows, or has reason to know, are directly or indirectly owned, controlled, or established (other than in a fiduciary capacity) by the same person, to aggregate all such accounts.
 4. Amounts Read to Include Equivalent in Other Currencies. All amounts denominated in the domestic currency of each Member State shall be read to include equivalent amounts in other currencies, as determined by domestic law.
 SECTION VIII
@@ -175,8 +175,8 @@ activities or operations for or on behalf of a customer:
 (i) trading in money market instruments (cheques, bills, certificates of deposit, derivatives, etc.); foreign exchange; exchange, interest rate and index instruments; transferable securities; or commodity futures trading;
 (ii) individual and collective portfolio management; or
 (iii) otherwise investing, administering, or managing Financial Assets
-[S.L.123.127 ON TAX MATTERS 61
 or money on behalf of other persons; or
+[S.L.123.127 68 ON TAX MATTERS
 (b) the gross income of which is primarily attributable to investing, reinvesting, or trading in Financial Assets, if the Entity is managed by another Entity that is a Depository Institution, a Custodial Institution, a Specified Insurance Company, or an Investment Entity described in sub-paragraph A(6)(a).
 An Entity is treated as primarily conducting as a business one or more of the activities described in sub-paragraph A(6)(a), or an Entity's gross income is primarily attributable to investing, reinvesting, or trading in Financial Assets for the purposes of sub-paragraph A(6)(b), if the Entity's gross income attributable to the relevant activities equals or exceeds 50% of the Entity's gross income during the shorter of: (i) the three-year period ending on 31 December of the year preceding the year in which the determination is made; or (ii) the period during which the Entity has been in existence. The term "Investment Entity" does not include an Entity that is an Active NFE because that Entity meets any of the criteria in sub-paragraphs D(8)(d) through (g).
 This paragraph shall be interpreted in a manner consistent with similar language set forth in the definition of "financial institution" in the 2012 Financial Action Task Force Recommendations.
@@ -186,9 +186,9 @@ B. Non-Reporting Malta Financial Institution
 1. The term "Non-Reporting Malta Financial Institution" means any Financial Institution which is:
 (a) a Governmental Entity, International Organisation or Central Bank, other than with respect to a payment that is derived from an obligation held in connection with a commercial financial activity of a type engaged in by a Specified Insurance Company, Custodial Institution, or Depository Institution;
 (b) a Broad Participation Retirement Fund; a Narrow Participation Retirement Fund; a Pension Fund of a Governmental Entity, International Organisation or Central Bank; or a Qualified Credit Card Issuer;
-(c) any other Entity that presents a low risk of being used to evade tax, has substantially similar characteristics to any of the Entities described in sub-paragraphs B(1)(a) and (b), and is included in the list of Non- Reporting Malta Financial Institutions referred to in Article 8(7a) of the EU Administrative Cooperation Directive, provided that the status of
-[S.L.123.127 62 ON TAX MATTERS
-such Entity as a Non-Reporting Malta Financial Institution does not frustrate the purposes of the EU Administrative Cooperation Directive;
+(c) any other Entity that presents a low risk of being used to evade tax, has substantially similar characteristics to any of the Entities described in sub-paragraphs B(1)(a) and (b), and is included in the list of Non- Reporting Malta Financial Institutions referred to in Article 8(7a) of the EU Administrative Cooperation Directive, provided that the status of such Entity as a Non-Reporting Malta Financial Institution does not
+[S.L.123.127 ON TAX MATTERS 69
+frustrate the purposes of the EU Administrative Cooperation Directive;
 (d) an Exempt Collective Investment Vehicle; or
 (e) a trust to the extent that the trustee of the trust is a Reporting Malta Financial Institution and reports all information required to be reported pursuant to Section I with respect to all Reportable Accounts of the trust.
 2. The term "Governmental Entity" means the government of a Member State or other jurisdiction, any political subdivision of a Member State or other jurisdiction (which, for the avoidance of doubt, includes a state, province, county, or municipality), or any wholly owned agency or instrumentality of a Member State or other jurisdiction or of any one or more of the foregoing (each, a "Governmental Entity"). This category is comprised of the integral parts, controlled entities, and political subdivisions of a Member State or other jurisdiction.
@@ -199,9 +199,9 @@ such Entity as a Non-Reporting Malta Financial Institution does not frustrate th
 (iii) the Entity's assets vest in one or more Governmental Entities upon dissolution.
 (c) Income does not inure to the benefit of private persons if such persons are the intended beneficiaries of a governmental programme, and the programme activities are performed for the general public with respect to the common welfare or relate to the administration of some phase of government. Notwithstanding the foregoing, however, income is considered to inure to the benefit of private persons if the income is derived from the use of a Governmental Entity to conduct a commercial business, such as a commercial banking business, that provides financial services to private persons.
 3. The term "International Organisation" means any international organisation or wholly owned agency or instrumentality thereof. This category includes any intergovernmental organisation (including a supranational organisation) (i) that is comprised primarily of governments; (ii) that has in effect a headquarters or substantially similar agreement with the Member State; and (iii) the income of which does not inure to the benefit of private persons.
-4. The term "Central Bank" means an institution that is by law or government
-[S.L.123.127 ON TAX MATTERS 63
-sanction the principal authority, other than the government of the Member State itself, issuing instruments intended to circulate as currency. Such an institution may include an instrumentality that is separate from the government of the Member State, whether or not owned in whole or in part by the Member State.
+4. The term "Central Bank" means an institution that is by law or government sanction the principal authority, other than the government of the Member State
+[S.L.123.127 70 ON TAX MATTERS
+itself, issuing instruments intended to circulate as currency. Such an institution may include an instrumentality that is separate from the government of the Member State, whether or not owned in whole or in part by the Member State.
 5. The term "Broad Participation Retirement Fund" means a fund established to provide retirement, disability, or death benefits, or any combination thereof, to beneficiaries who are current or former employees (or persons designated by such employees) of one or more employers in consideration for services rendered, provided that the fund:
 (a) does not have a single beneficiary with a right to more than 5% of the fund's assets;
 (b) is subject to government regulation and provides information reporting to the tax authorities; and
@@ -217,9 +217,8 @@ account aggregation and currency translation.
 (b) the fund is sponsored by one or more employers that are not Investment Entities or Passive NFEs;
 (c) the employee and employer contributions to the fund (other than transfers of assets from retirement and pension accounts described in sub-paragraph C(17)(a)) are limited by reference to earned income and compensation of the employee, respectively;
 (d) participants that are not residents of the Member State in which the fund is established are not entitled to more than 20% of the fund's assets; and
-(e) the fund is subject to government regulation and provides information
-[S.L.123.127 64 ON TAX MATTERS
-reporting to the tax authorities.
+(e) the fund is subject to government regulation and provides information reporting to the tax authorities.
+[S.L.123.127 ON TAX MATTERS 71
 7. The term "Pension Fund of a Governmental Entity, International Organisation or Central Bank" means a fund established by a Governmental Entity, International Organisation or Central Bank to provide retirement, disability, or death benefits to beneficiaries or participants who are current or former employees (or persons designated by such employees), or who are not current or former employees, if the benefits provided to such beneficiaries or participants are in consideration of personal services performed for the Governmental Entity, International Organisation or Central Bank.
 8. The term "Qualified Credit Card Issuer" means a Financial Institution satisfying the following requirements:
 (a) the Financial Institution is a Financial Institution solely because it is an issuer of credit cards that accepts deposits only when a customer makes a payment in excess of a balance due with respect to the card and the overpayment is not immediately returned to the customer; and
@@ -234,9 +233,9 @@ physical shares in bearer form after 31 December 2015;
 possible, and in any event prior to 1 January 2018.
 C. Financial Account
 1. The term "Financial Account" means an account maintained by a Financial Institution, and includes a Depository Account, a Custodial Account and:
-(a) in the case of an Investment Entity, any equity or debt interest in the
-[S.L.123.127 ON TAX MATTERS 65
-Financial Institution. Notwithstanding the foregoing, the term "Financial Account" does not include any equity or debt interest in an Entity that is an Investment Entity solely because it (i) renders investment advice to, and acts on behalf of; or (ii) manages portfolios for, and acts on behalf of, a customer for the purpose of investing, managing, or administering Financial Assets deposited in the name of the customer with a Financial Institution other than such Entity;
+(a) in the case of an Investment Entity, any equity or debt interest in the Financial Institution. Notwithstanding the foregoing, the term "Financial Account" does not include any equity or debt interest in an
+[S.L.123.127 72 ON TAX MATTERS
+Entity that is an Investment Entity solely because it (i) renders investment advice to, and acts on behalf of; or (ii) manages portfolios for, and acts on behalf of, a customer for the purpose of investing, managing, or administering Financial Assets deposited in the name of the customer with a Financial Institution other than such Entity;
 (b) in the case of a Financial Institution not described in sub-paragraph C(1)(a), any equity or debt interest in the Financial Institution, if the class of interests was established with the purpose of avoiding reporting in accordance with Section I; and
 (c) any Cash Value Insurance Contract and any Annuity Contract issued or maintained by a Financial Institution, other than a non-investment-linked, non-transferable immediate life annuity that is issued to an individual and monetises a pension or disability benefit provided under an account that is an Excluded Account.
 The term "Financial Account" does not include any account that is an Excluded Account.
@@ -246,8 +245,9 @@ The term "Financial Account" does not include any account that is an Excluded Ac
 5. The term "Insurance Contract" means a contract (other than an Annuity Contract) under which the issuer agrees to pay an amount upon the occurrence of a specified contingency involving mortality, morbidity, accident, liability, or property risk.
 6. The term "Annuity Contract" means a contract under which the issuer agrees to make payments for a period of time determined in whole or in part by reference to the life expectancy of one or more individuals. The term also includes a contract that is considered to be an Annuity Contract in accordance with the law, regulation, or practice of the Member State or other jurisdiction in which the contract was issued, and under which the issuer agrees to make payments for a term of years.
 7. The term "Cash Value Insurance Contract" means an Insurance Contract (other than an indemnity reinsurance contract between two insurance companies) that has a Cash Value.
-[S.L.123.127 66 ON TAX MATTERS
-8. The term "Cash Value" means the greater of (i) the amount that the policyholder is entitled to receive upon surrender or termination of the contract (determined without reduction for any surrender charge or policy loan); and (ii) the amount the policyholder can borrow under or with regard to the contract. Notwithstanding the foregoing, the term "Cash Value" does not include an amount payable under an Insurance Contract:
+8. The term "Cash Value" means the greater of (i) the amount that the
+[S.L.123.127 ON TAX MATTERS 73
+policyholder is entitled to receive upon surrender or termination of the contract (determined without reduction for any surrender charge or policy loan); and (ii) the amount the policyholder can borrow under or with regard to the contract. Notwithstanding the foregoing, the term "Cash Value" does not include an amount payable under an Insurance Contract:
 (a) solely by reason of the death of an individual insured under a life insurance contract;
 (b) as a personal injury or sickness benefit or other benefit providing indemnification of an economic loss incurred upon the occurrence of the event insured against;
 (c) as a refund of a previously paid premium (less cost of insurance charges whether or not actually imposed) under an Insurance Contract (other than an investment-linked life insurance or annuity contract) due to cancellation or termination of the contract, decrease in risk exposure during the effective period of the contract, or arising from the correction of a posting or similar error with regard to the premium for the contract;
@@ -260,9 +260,8 @@ benefits payable are described in sub-paragraph C(8)(b); or
 (i) the Account Holder also holds with the Reporting Malta Financial Institution (or with a Related Entity within the same Member State as the Reporting Financial Institution) a Financial Account that is a Pre-existing Account under sub-paragraph C(9)(a);
 (ii) the Reporting Malta Financial Institution (and, as applicable, the Related Entity within the same Member State as the Reporting Financial Institution) treats both of the aforementioned Financial Accounts, and any other Financial Accounts of the Account Holder that are treated as Pre-existing Accounts under point (b), as a single Financial Account for purposes of satisfying the standards of knowledge requirements set forth in paragraph A of Section VII, and for purposes of determining the balance or value of any of the Financial Accounts when applying any of the account thresholds;
 (iii) with respect to a Financial Account that is subject to AML/KYC Procedures, the Reporting Malta Financial Institution is permitted to satisfy such AML/KYC Procedures for the Financial Account by relying upon the AML/KYC Procedures performed for the Pre-existing Account described in sub-paragraph C(9)(a); and
-(iv) the opening of the Financial Account does not require the
-[S.L.123.127 ON TAX MATTERS 67
-provision of new, additional or amended customer information by the Account Holder other than for the purposes of the EU
+(iv) the opening of the Financial Account does not require the provision of new, additional or amended customer information by the Account Holder other than for the purposes of the EU
+[S.L.123.127 74 ON TAX MATTERS
 Administrative Cooperation Directive..
 10. The term "New Account" means a Financial Account maintained by a Reporting Malta Financial Institution opened on or after 1 January 2016 unless it is treated as a Pre-existing Account under sub-paragraph C(9)(b).
 11. The term "Pre-existing Individual Account"" means a Pre-existing Account held by one or more individuals.
@@ -280,9 +279,8 @@ Administrative Cooperation Directive..
 (iv) withdrawals are conditioned on reaching a specified retirement age, disability, or death, or penalties apply to withdrawals made before such specified events; and
 (v) either (i) annual contributions are limited to an amount denominated in Euro that corresponds to USD 50 000 or less; or
 (ii) there is a maximum lifetime contribution limit to the account of an amount denominated in Euro that corresponds to USD 1 000 000 or less, in each case applying the rules set forth in paragraph C of Section VII for account aggregation currency translation.
-A Financial Account that otherwise satisfies the requirement of sub-paragraph C(17)(a)(v) will not fail to satisfy such requirement solely because such Financial Account may receive assets or funds transferred from one or more Financial Accounts that meet the requirements of sub-paragraph C(17)(a) or (b) or from one or
-[S.L.123.127 68 ON TAX MATTERS
-more retirement or pension funds that meet the requirements of any of sub-paragraphs B(5) to (7);
+A Financial Account that otherwise satisfies the requirement of sub-paragraph C(17)(a)(v) will not fail to satisfy such requirement solely because such Financial Account may receive assets or funds transferred from one or more Financial Accounts that meet the requirements of sub-paragraph C(17)(a) or (b) or from one or more retirement or pension funds that meet the requirements of any of sub-paragraphs B(5) to (7);
+[S.L.123.127 ON TAX MATTERS 75
 A Financial Account that otherwise satisfies the requirement of sub-paragraph C(17)(a)(v) will not fail to satisfy such requirement solely because such Financial Account may receive assets or funds transferred from one or more Financial Accounts that meet the requirements of sub-paragraph C(17)(a) or (b) or
 (b) an account that satisfies the following requirements:
 (i) the account is subject to regulation as an investment vehicle for purposes other than for retirement and is regularly traded on an established securities market, or the account is subject to regulation as a savings vehicle for purposes other than for retirement;
@@ -296,9 +294,8 @@ until the insured attains age 90, whichever is shorter;
 (iii) the amount (other than a death benefit) payable upon cancellation or termination of the contract cannot exceed the aggregate premiums paid for the contract, less the sum of mortality, morbidity, and expense charges (whether or not actually imposed) for the period or periods of the contract's existence and any amounts paid prior to the cancellation or termination of the contract; and
 (iv) the contract is not held by a transferee for value;
 (d) an account that is held solely by an estate if the documentation for such account includes a copy of the deceased's will or death certificate;
-[S.L.123.127 ON TAX MATTERS 69
 (e) an account established in connection with any of the following:
-(i) a court order or judgment;
+(i) a court order or judgment; [S.L.123.127 76 ON TAX MATTERS
 (ii) a sale, exchange, or lease of real or personal property, provided
 that the account satisfies the following requirements:
 - the account is funded solely with a down payment, earnest
@@ -317,9 +314,8 @@ sub-paragraph C(17)(f);
 (f) a Depository Account that satisfies the following requirements:
 (i) the account exists solely because a customer makes a payment in excess of a balance due with respect to a credit card or other revolving credit facility and the overpayment is not immediately returned to the customer; and
 (ii) beginning on or before 1 January 2016, the Financial Institution implements policies and procedures either to prevent a customer from making an overpayment in excess of an amount denominated in Euro that corresponds to USD 50 000, or to ensure that any customer overpayment in excess of that amount is refunded to the customer within 60 days, in each case applying the rules set forth in paragraph C of Section VII for currency translation. For this purpose, a customer overpayment does not refer to credit balances to the extent of disputed charges but does include credit balances resulting from merchandise returns;
-(g) any other account that presents a low risk of being used to evade tax, has substantially similar characteristics to any of the accounts described in subparagraphs C(17)(a) through (f), and is included in the list of Excluded Accounts referred to in Article 8(7a) of the EU Administrative Cooperation Directive, provided that the status of such account as an Excluded Account does not frustrate the purposes of the EU
-[S.L.123.127 70 ON TAX MATTERS
-Administrative Cooperation Directive.
+(g) any other account that presents a low risk of being used to evade tax, has substantially similar characteristics to any of the accounts described in subparagraphs C(17)(a) through (f), and is included in the list of Excluded Accounts referred to in Article 8(7a) of the EU Administrative Cooperation Directive, provided that the status of such account as an Excluded Account does not frustrate the purposes of the EU Administrative Cooperation Directive.
+[S.L.123.127 ON TAX MATTERS 77
 D. Reportable Account
 1. The term "Reportable Account" means a Financial Account that is maintained by a Reporting Malta Financial Institution and is held by one or more Reportable Persons or by a Passive NFE with one or more Controlling Persons that is a Reportable Person, provided it has been identified as such pursuant to the due diligence procedures described in Sections II through VII.
 2. The term "Reportable Person" means a Member State Person other than: (i) a corporation the stock of which is regularly traded on one or more established securities markets; (ii) any corporation that is a Related Entity of a corporation described in clause (i); (iii) a Governmental Entity; (iv) an International Organisation; (v) a Central Bank; or (vi) a Financial Institution.
@@ -334,9 +330,8 @@ The term "Controlling Persons" must be interpreted in a manner consistent with t
 7. The term "Passive NFE" means any: (i) NFE that is not an Active NFE; or
 (ii) an Investment Entity described in subparagraph A(6)(b) that is not a Participating Jurisdiction Financial Institution.
 8. The term "Active NFE" means any NFE that meets any of the following criteria:
-(a) less than 50% of the NFE's gross income for the preceding calendar year or other appropriate reporting period is passive income and less
-[S.L.123.127 ON TAX MATTERS 71
-than 50% of the assets held by the NFE during the preceding calendar year or other appropriate reporting period are assets that produce or are held for the production of passive income;
+(a) less than 50% of the NFE's gross income for the preceding calendar year or other appropriate reporting period is passive income and less than 50% of the assets held by the NFE during the preceding calendar [S.L.123.127 78 ON TAX MATTERS
+year or other appropriate reporting period are assets that produce or are held for the production of passive income;
 (b) the stock of the NFE is regularly traded on an established securities market or the NFE is a Related Entity of an Entity the stock of which is regularly traded on an established securities market;
 (c) the NFE is a Governmental Entity, an International Organisation, a Central Bank, or an Entity wholly owned by one or more of the foregoing;
 (d) substantially all of the activities of the NFE consist of holding (in whole or in part) the outstanding stock of, or providing financing and services to, one or more subsidiaries that engage in trades or businesses other than the business of a Financial Institution, except that an Entity does not qualify for this status if the Entity functions (or holds itself out) as an investment fund, such as a private equity fund, venture capital fund, leveraged buyout fund, or any investment vehicle whose purpose is to acquire or fund companies and then hold interests in those companies as capital assets for investment purposes;
@@ -348,7 +343,7 @@ than 50% of the assets held by the NFE during the preceding calendar year or oth
 (ii) it is exempt from income tax in its Member State or other jurisdiction of residence;
 (iii) it has no shareholders or members who have a proprietary or beneficial interest in its income or assets;
 (iv) the applicable laws of the NFE's Member State or other jurisdiction of residence or the NFE's formation documents do not permit any income or assets of the NFE to be distributed to, or applied for the benefit of, a private person or non-charitable Entity other than pursuant to the conduct of the NFE's charitable
-[S.L.123.127 72 ON TAX MATTERS
+[S.L.123.127 ON TAX MATTERS 79
 activities, or as payment of reasonable compensation for services rendered, or as payment representing the fair market value of
 property which the NFE has purchased; and
 (v) the applicable laws of the NFE's Member State or other jurisdiction of residence or the NFE's formation documents require that, upon the NFE's liquidation or dissolution, all of its assets be distributed to a Governmental Entity or other non-profit organisation, or escheat to the government of the NFE's Member State or other jurisdiction of residence or any political subdivision thereof.
@@ -361,9 +356,9 @@ E. Miscellaneous
 6. The term "Documentary Evidence" includes any of the following:
 (a) a certificate of residence issued by an authorised government body (for example, a government or agency thereof, or a municipality) of the Member State or other jurisdiction in which the payee claims to be a resident;
 (b) with respect to an individual, any valid identification issued by an authorised government body (for example, a government or agency thereof, or a municipality), that includes the individual's name and is typically used for identification purposes;
-(c) with respect to an Entity, any official documentation issued by an
-[S.L.123.127 ON TAX MATTERS 73
-authorised government body (for example, a government or agency thereof, or a municipality) that includes the name of the Entity and either the address of its principal office in the Member State or other jurisdiction in which it claims to be a resident or the Member State or other jurisdiction in which the Entity was incorporated or organised;
+(c) with respect to an Entity, any official documentation issued by an authorised government body (for example, a government or agency
+[S.L.123.127 80 ON TAX MATTERS
+thereof, or a municipality) that includes the name of the Entity and either the address of its principal office in the Member State or other jurisdiction in which it claims to be a resident or the Member State or other jurisdiction in which the Entity was incorporated or organised;
 (d) any audited financial statement, third-party credit report, bankruptcy filing, or securities regulator's report.
 With respect to a Pre-existing Entity Account, Reporting Malta Financial Institutions may use as Documentary Evidence any classification in the Reporting Malta Financial Institution's records with respect to the Account Holder that was determined based on a standardised industry coding system, that was recorded by the Reporting Malta Financial Institution consistent with its normal business practices for purposes of AML/KYC Procedures or another regulatory purposes (other than for tax purposes) and that was implemented by the Reporting Malta Financial Institution prior to the date used to classify the Financial Account as a Pre-existing Account, provided that the Reporting Malta Financial Institution does not know or does not have reason to know that such classification is incorrect or unreliable. The term "standardised industry coding system" means a coding system used to classify establishments by business type for purposes other than tax purposes.
 SECTION IX
@@ -375,6 +370,6 @@ Pursuant to Article 8(3a) of the EU Administrative Cooperation Directive, Member
 Institution when undocumented accounts are reported;
 (4) administrative procedures to ensure that the Entities and accounts defined in domestic law as Non-Reporting Malta Financial Institutions and Excluded Accounts continue to have a low risk of being used to evade tax; and
 (5) effective enforcement provisions to address non-compliance.
-[S.L.123.127 74 ON TAX MATTERS
+[S.L.123.127 ON TAX MATTERS 81
 - Added by: L.N. 384 of 2015.
 - Amended by: L.N. 344 of 2017.
