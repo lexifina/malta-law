@@ -6,28 +6,28 @@ Rates of Sickness, Unemployment, Special
 Unemployment, and Injury Benefits; Injury Grant
 and Injury Pension
 Daily Rate of Benefit
-Type of Benefit A Single Parent or a Any Other
-Married Person Person
-maintaining a Spouse who is not employed on a full-
-time basis
-Sickness Benefit € 21.85 € 14.15
-Injury Benefit € 32.78 € 24.66
-Unemployment Benefit € 8.66 € 13.25
-Special Unemployment Benefit € 14.68 € 22.25
-Part II
+Type of Benefit A Single Parent or a Married Any Other
+Person maintaining a Spouse Person
+who is not employed on a
+full-time basis
+Sickness Benefit € 23.03 € 14.92
+Injury Benefit € 34.55 € 26.00
+Unemployment Benefit € 13.97 € 9.13
+Special Unemployment Benefit € 23.45 € 15.47
+PART II
 Amounts of Injury Grant
 Degree of Disablement Amount of Grant
 % €
-1 259.21 2 518.35 3 777.52 4 1,036.65 5 1,295.70 6 1,554.86 7 1,814.01 8 2,073.17 9 2,332.33 10 2,591.45 11 2,850.57 12 3,109.73 13 3,369.87 14 3,628.03 15 3,887.10 16 4,146.20 17 4,405.38 18 4,664.47 19 4,923.64
-Part III
+1 275.89 2 551.62 3 827.51 4 1103.28 5 1378.98 6 1654.79 7 1930.60 8 2206.21 9 2482.24 10 2758.01 11 3033.79 12 3309.60 13 3585.40 14 3861.22 15 4136.94 16 4412.69 17 4688.83 18 4964.27 19 5240.10
+PART III
 Highest Rate of Injury Pension
 Weekly Rate
-€ 75.52
-Part IV
-Orphan's Allowance
+€78.84
+PART IV
+Orphans Allowance
 Weekly Rate
-€ 66.44
-Part V
-Orphan's Supplementary Allowance
+€70.04
+PART V
+Orphans Supplementary Allowance
 Weekly Rate
-€ 111.52
+€118.12

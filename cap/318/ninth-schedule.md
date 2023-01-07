@@ -6,23 +6,22 @@ Assistance
 Type of Assistance Weekly Rate
 1. Sickness Assistance:
 (i) in respect of the first member of the
-€ 27.85
+€29.83
 household;
-€ 27.85 (ii) in respect of any other member of the same
-household. 2. Milk Grant. € 23.66 3. Leprosy Assistance:
-(i) in respect of the head of household who is a
-€ 37.98 leper;
+(ii) in respect of any other member of the same
+€29.83 household.
+2. Milk Grant €25.64 3. Leprosy Assistance:
+(i) in respect of the head of household who is
+€39.96 a leper;
 (ii) in respect of any other member of the
 household who is a leper and not gainfully occupied:
-(a) if under 16 years of age;
-€ 23.66
-(b) if 16 years of age or over;
-€ 37.98
+(a) if under sixteen (16) years of age;
+€25.64
+(b) if sixteen (16) years of age or over;
+€39.96
 (iii) in respect of any other member of the
-€ 23.66 household who is not gainfully occupied. 4. Tuberculosis Assistance:
+€25.64 household who is not gainfully occupied. 4. Tuberculosis Assistance:
 (i) basic amount of tuberculosis assistance
-payable in respect of a household, one member of which is
-€ 30.64 affected by tuberculosis;
+€32.62 payable in respect of a household, one member of which is affected by tuberculosis;
 (ii) allowance payable in respect of each
-additional member of the household affected by, or particularly vulnerable to, tuberculosis.
-€ 20.40
+additional member of the household affected by, or €22.38 particularly vulnerable to, tuberculosis.
