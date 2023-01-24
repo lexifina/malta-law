@@ -1,0 +1,13 @@
+## ELEVENTH SCHEDULE
+# eleventh-schedule
+[Regulation 39]
+Form of oath which an Assistant Commissioner may administer to a Voter
+I, (1) .........................................................................................................................
+of (2) ...................................................................... do swear/affirm that I am the same person whose name appears as A.B. in the Local Councils' Electoral Register and that I have not already voted either here or elsewhere at this election for Local councillors. (So help me God.)
+Date.................................. Signature or mark of voter ..............................................
+Sworn/Affirmed before me this ...........................day of ...........................................
+............................................................
+Signature of Assistant Election
+Commissioner
+(1) Name in full
+(2) Address and Legally valid identification document number of voter
