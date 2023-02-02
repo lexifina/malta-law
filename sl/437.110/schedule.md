@@ -9,8 +9,10 @@ traditional dairy products:
 No 853/2004 in Annex III, Section IX, Chapter I, Part III, paragraph 2 shall be carried out before raw milk is to be used for production;
 (b) the number of micro-organisms as referred to in
 Council Regulation (EC) No 853/2004 in Annex III, Section IX, Chapter I, Part III, paragraph 3 shall be set on the basis of the result of a test on an individual sample of raw milk twice a month;
+(c) in line with Annex III, Section IX, Chapter I,
+Part IIB, paragraph 4 (b) and Annex III, Section IX, Chapter II,
 [S.L. 437.110 TRADITIONAL DAIRY PRODUCTS 7
-(c) in line with Annex III, Section IX, Chapter I, Part IIB, paragraph 4 (b) and Annex III, Section IX, Chapter II, Part I, paragraph 2(b) of Council Regulation (EC) No 853/2004, the Director authorises the use of raw milk at a temperature of not less than 37°C within two (2) hours from milking for the production of traditional dairy products;
+Part I, paragraph 2(b) of Council Regulation (EC) No 853/2004, the Director authorises the use of raw milk at a temperature of not less than 37°C within two (2) hours from milking for the production of traditional dairy products;
 (d) in order to accommodate food business operators in terms of Article 10, paragraph 4 of Council Regulation (EC) No 853/2004, it shall be permissible to utilise raw milk originating from sheep and goats which:
 (i) do not show clinical signs of brucellosis
 (B.melitensis);
@@ -26,8 +28,7 @@ as long as this milking takes place in an area which is not the area where these
 (ii) that the milk is filtered through a sieve
 preferably of food grade plastic or stainless steel and through a clean muslin cloth that is washed and boiled;
 (iii) that the milk is placed in a food grade
-plastic or stainless steel container and is not cooled if it is going to be used for the production of traditional dairy [S.L. 437.110 8 TRADITIONAL DAIRY PRODUCTS
-products within two (2) hours of milking;
+plastic or stainless steel container and is not cooled if it is going to be used for the production of traditional dairy products within two (2) hours of milking; [S.L. 437.110 8 TRADITIONAL DAIRY PRODUCTS
 (iv) that this container with milk may be
 transported without being cooled as long as the trip between the place where the milking takes place and the place where the production of the traditional dairy products takes place does not take longer than sixty
 (60) minutes;
@@ -51,8 +52,9 @@ be placed in a place where they can be cooled where the temperature shall be kep
 (xiii) that these forms of the traditional dairy
 product shall be turned over every two ( 2 ) hours for three or four times to dry up in a uniform and homogeneous manner;
 (xiv) that these forms of the traditional dairy
+product shall be extracted out of their containers after
 [S.L. 437.110 TRADITIONAL DAIRY PRODUCTS 9
-product shall be extracted out of their containers after twenty-four (24) hours;
+twenty-four (24) hours;
 (xv) that all this process of the manufacture of
 the traditional dairy product can take place in environments that do not have temperature control;
 (xvi) that the traditional dairy product that shall
