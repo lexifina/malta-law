@@ -4,4 +4,4 @@ CLAMPING AND REMOVAL OF MOTOR
 VEHICLES AND ENCUMBERING OBJECTS
 REGULATIONS
 27th June, 1997
-LEGAL NOTICE 94 of 1997, as amended by Legal Notices 192 of 1999, 123 of 2001, 405 of 2003, 291 of 2004, 47 of 2006, 408 of 2007 and 197 of 2009; Act XV of 2009; and Legal Notices 503 of 2010, 260 of 2011, 123 of 2017, 48 of 2018 and 55 of 2021.
+LEGAL NOTICE 94 of 1997, as amended by Legal Notices 192 of 1999, 123 of 2001, 405 of 2003, 291 of 2004, 47 of 2006, 408 of 2007 and 197 of 2009; Act XV of 2009; and Legal Notices 503 of 2010, 260 of 2011, 123 of 2017, 48 of 2018, 55 of 2021 and 23 of 2023.
