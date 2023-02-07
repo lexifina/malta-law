@@ -129,10 +129,11 @@ NO PARKING NO WAITING NO STOPPING
 (d) The first sign prohibits the use of acoustic signals by all motor vehicles, except in an emergency. Unless the sign is attached to the name plate of a built-up area (in which case the prohibition applies to the whole built-up area) the distance over which the prohibition extends may be indicated by means of a plate, of the type shown as No.(4) or (5) under paragraph G of this Part of the Schedule, appended to the sign. The second sign cancels the first one.
 (8) (9)
 NO HORN BLOWING END OF NO HORN BLOWING
-The sign indicating a TOW ZONE at No. (10) indicates that an encumbering object is parked or left unattended in a zone where it is liable to be towed away. The variable Police Station and telephone number thereof indicate, as the case may be, the procedures to be followed for the retrieval of the said object.
+(e) The sign indicating a TOW ZONE at No. (10) indicates that an encumbering object is parked or left unattended in a zone where it is liable to be towed away. A notice indicating the procedures to be followed for the retrieval of the said object shall be clearly indicated in the said notice.
 The sign indicating a CLAMPING ZONE at No. (11) indicates that a motor vehicle is parked or left unattended in a zone where it is liable to be clamped. A ticket indicating the procedures to be followed for the removal of the clamp will be affixed to the windscreen of the motor vehicles.
 In both cases, the zone is always indicated as a NO STOPPING area.
-(10) (11)
+(10)
+(11)
 (f) (12)
 SPEED ZONE
 (13)
@@ -151,8 +152,7 @@ NO WAITING EXCEPT FOR SCHOOL TRANSPORT
 (18)
 NO WAITING EXCEPT FOR LOADING AND UNLOADING
 MONDAY TO SATURDAY
-(FREEDOM ON SUNDAYS AND PUBLIC HOLIDAYS)
-(TIME VARIABLE) ONLY FOR COMMERCIAL VEHICLES
+(FREEDOM ON SUNDAYS AND PUBLIC HOLIDAYS) (TIME VARIABLE) ONLY FOR COMMERCIAL VEHICLES
 (19)
 NO WAITING BETWEEN 7.00 A.M. AND NOON
 (20)
@@ -261,7 +261,8 @@ ALL WEEK PLATE
 (j) This plate indicates that, during the time specified thereon, no stopping of vehicles is allowed on a road on which otherwise only the parking or waiting of vehicles is prohibited.
 (13)
 PEAK HOUR CLEARWAY
-(k) This plate signifies the category of vehicles affected by the provision of a sign conveying a definite instruction when such provisions are not absolute.
+(k) This plate signifies
+the category of vehicles affected by the provision of a sign conveying a definite instruction when such provisions are not absolute.
 (14)
 CATEGORY PLATE
 (l) This plate indicates the category of vehicles excluded from the provisions of a sign conveying a definite instruction.
@@ -466,4 +467,4 @@ PART V - INTERPRETATION
 For the purpose of this Schedule -
 "minor road" means a road at a road junction on which road there is placed a STOP sign or a GIVE WAY sign;
 "major road" means the road at a road junction into which road there emerges vehicular traffic from a minor road.
-- Amended by: L.N. 106 of 1970; L.N. 99 of 1974; L.N. 25 of 1978; L.N. 53 of 1979; L.N. 129 of 1990; L.N. 101 of 1997; L.N. 126 of 1999; L.N. 207 of 2000; L.N. 151 of 2009; L.N. 114 of 2011; L.N. 253 of 2011; L.N. 173 of 2018; L.N. 120 of 2019; L.N. 264 of 2022; L.N. 318 of 2022.
+- Amended by: L.N. 106 of 1970; L.N. 99 of 1974; L.N. 25 of 1978; L.N. 53 of 1979; L.N. 129 of 1990; L.N. 101 of 1997; L.N. 126 of 1999; L.N. 207 of 2000; L.N. 151 of 2009; L.N. 114 of 2011; L.N. 253 of 2011; L.N. 173 of 2018; L.N. 120 of 2019; L.N. 264 of 2022; L.N. 318 of 2022; L.N. 24 of 2023.
