@@ -3,4 +3,4 @@ AIRPORT (GROUNDHANDLING SERVICES)
 REGULATIONS
 18th February, 2003;
 25th March, 2003
-LEGAL NOTICE 66 of 2003, as amended by Legal Notices 84 of 2004 and 411 of 2007; and Act V of 2007.
+LEGAL NOTICE 66 of 2003, as amended by Legal Notices 84 of 2004, 411 of 2007, Act V of 2007 and Legal Notice 46 of 2023.
