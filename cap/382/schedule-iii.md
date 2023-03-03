@@ -155,7 +155,7 @@ authorities of the Member State of destination:
 Provided that where those data are not valid, the consignor shall be informed without delay.
 (8) When the Commissioner receives a cancellation message as mentioned in this regulation, for excisable goods whose place of destination is Malta and the consignee is an authorised warehousekeeper or a registered consignee, the Commissioner shall forward the cancellation message to the warehousekeeper or consignee as the case may be.
 (9) During the movement under a duty suspension arrangement, the consignor may, using the computerised system, amend the destination to show a new destination which must be one of the destinations referred to in article 8B(1)(a)(i), (ii), (iii) or, where applicable, in article 8B(2) of the Act.
-6. (1) The consignor wanting to amend the destination as provided for in regulation 5(9), or to complete the destination as provided for in the proviso of regulation 7, shall complete the fields of the draft change of destination message and submit it to the Commissioner. The draft change of destination message shall comply with the requirements set out in Table 3 of Annex I.
+6. (1) The consignor intending to amend the destination as provided for in regulation 5(9), or to complete the destination as provided for in the proviso of regulation 7, shall complete the fields of the draft change of destination message and submit it to the Commissioner. The draft change of destination message shall comply with the requirements set out in Tables 3 and 4 of Annex; I.
 (2) The Commissioner shall carry out an electronic verification of the data in the draft change of destination message. Where those data are valid, the Commissioner shall:
 (a) add the date and time of validation and a sequence number to the change of destination message and inform the consignor thereof;
 (b) update the original electronic administrative document
@@ -176,11 +176,11 @@ Provided that as soon as the data concerning the consignee are known, and at the
 (b) the splitting is carried out in the territory of a Member
 State which permits such a procedure;
 (c) the Commissioner shall inform the competent authorities of other Member States of the place where the splitting is carried out.
-9. (1) The consignor wanting to split the movement of excisable goods as provided for in regulation 8 shall complete the fields of the draft splitting operation message for each destination and submit it to the Commissioner. The draft splitting operation message shall comply with the requirements set out in Table 5 of Annex I.
+9. (1) The consignor intending to split the movement of excisable goods as provided for in regulation 8 shall complete the fields of the draft splitting operation message for each destination and submit it to the Commissioner. The draft splitting operation message shall comply with the requirements set out in Tables 4 and 5 of Annex I;
 (2) The Commissioner shall carry out an electronic verification of the data in the draft splitting operation messages and where those data are valid, the Commissioner shall:
 (a) generate a new electronic administrative document for each destination, which shall replace the original
 electronic administrative document;
-(b) generate, for the original electronic administrative document, a 'notification of splitting' which shall comply with the requirements set out in Table 4 of Annex I; and
+(b) generate, for the original electronic administrative document, a "notification of splitting" which shall comply with the requirements set out in Tables 4 and 5 of Annex I; and
 (c) send the notification of splitting to the consignor and to the competent authorities of the Member State of destination mentioned in the original electronic administrative document.
 (3) The proviso of regulation 4(2) and regulation 5(1), (3) and
 (4) shall apply in respect of each new electronic administrative document referred to in sub-regulation (2)(a).
@@ -230,6 +230,8 @@ The Minister, after consulting the Commissioner, may enter into an agreement wit
 - Amended by: XVI.2017.80; VIII.2020.66; XVIII.2021.55; VII.2022.66.
 - Added by: XVIII.2021.55.
 - Amended by: XVI. 2017.80; VIII.2020.66; XVIII.2021.55; VII.2022.66.
+- Amended by: L.N. 50 of 2023.
+- Amended by: L.N. 50 of 2023.
 - See Cap. 436.
 - See Cap. 436.
 - See Cap. 436.
