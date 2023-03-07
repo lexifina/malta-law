@@ -1,4 +1,0 @@
-## ANNEX IV
-# annex-iv
-Correlation
-Table [S.L.65.29 42 OF ELECTRONIC ROAD TOLLS SYSTEMS)
