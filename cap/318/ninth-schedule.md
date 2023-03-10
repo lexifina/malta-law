@@ -1,6 +1,6 @@
 ## NINTH SCHEDULE
 # ninth-schedule
-[Article 25]
+(Article 25)
 Amounts of Sickness Assistance, Milk Grant, Leprosy Assistance and Tuberculosis
 Assistance
 Type of Assistance Weekly Rate

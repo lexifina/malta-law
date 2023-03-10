@@ -1,6 +1,6 @@
 ## EIGHTH SCHEDULE
 # eighth-schedule
-[ARTICLE 23]
+(Article 23)
 PART I
 Scale Rate of Means governing Free Medical Aid when the head of household is in
 insurable employment or self-occupied

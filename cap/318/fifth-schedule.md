@@ -38,7 +38,7 @@ MEDICAL AID MAY BE ACCORDED
 2. Cardiovascular Diseases:
 (a) Chronic Heart Failure
 (b) Hypertension
-(c) Ischaemic Heart Disease
+(c) Coronary Artery Disease
 (d) Cardiac Arrhythmias
 (e) Peripheral Vascular Disease
 (f) Cerebrovascular disease
@@ -123,6 +123,7 @@ MEDICAL AID MAY BE ACCORDED
 (i) Polymyalgia Rheumatica
 (j) Myalgic Encephalomyelitis
 (k) Fibromyalgia
+(l) Osteoporosis
 13. Metabolic Disorders
 (a) Inborn Errors of Metabolism
 14. Eye diseases:
@@ -136,6 +137,7 @@ MEDICAL AID MAY BE ACCORDED
 (b) Turner Syndrome
 (c) Prader-Willi Syndrome
 17. Gender Identity and Sex Characteristics Related Conditions
+PART I
 - Amended by: XVI. 1990. 52; XIII. 1991.44; XXV. 1994.2,35.
 - Substituted by: L.N. 56 of 1999; L.N. 84 of 1999; L.N. 62 of 2007.
-- Amended by: I. 2012.18; L.N. 79 of 2014; L.N. 302 of 2015; IXV. 2017.39; L.N. 44 of 2018; L.N. 183 of 2019; VIII.2020.34; L.N. 307 of 2021.
+- Amended by: I. 2012.18; L.N. 79 of 2014; L.N. 302 of 2015; IXV. 2017.39; L.N. 44 of 2018; L.N. 183 of 2019; VIII.2020.34; L.N. 307 of 2021; L.N. 55 of 2023.

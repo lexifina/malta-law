@@ -1,7 +1,6 @@
 ## SIXTH SCHEDULE
 # sixth-schedule
 (Articles 26, 27, 30, 66, 68, 90A, 93, 129)
-PART I
 Scale Rates of Social Assistance per week inclusive of any measures under the
 provisions of article 90A
 A Household of ONE eligible
