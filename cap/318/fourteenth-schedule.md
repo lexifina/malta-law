@@ -50,7 +50,7 @@ allowance on difference obtaining between reckonable annual income and
 €25,924
 Children in household under sixteen 6.5% for each such child
 (16) years of age.
-Over sixteen (16) years but under twenty-one (21) y ears a nd still undergoing full time education or training in an educational institution recognised by the Government in terms of the Education Act (Cap. 327)
+Over sixteen (16) years but under twenty -one (21) years and still undergoing full time education or training in an educational institution recognised by the Government in terms of the Education Act (Cap. 327)
 2% for each such child and who is not receiving any form of remuneration or allowance or is registered unemployed under the Part I of the register and has never been gainfully occupied.
 Over sixteen (16) years but under twenty-one (21) years and is registered as unemployed under Part I of the register kept in accordance with the provisions of the Employment and Training Services Act (Cap. 594) and
 2% for each such child who has never been gainfully occupied, and who is not in receipt of any benefit, pension or assistance payable under this Act.
@@ -71,4 +71,4 @@ An allowance payable under this Part shall continue to be payable when the child
 - Added by: XXI. 1996.68.
 - Substituted by: XXII. 1997.14; L.N. 56 of 1999; L.N. 84 of 1999; L.N. 10 of 2000; L.N. 21 of 2001; L.N. 4 of 2002; II. 2002.78; L.N. 422 of 2002; L.N. 436 of 2003.
 - Amended by: II. 2004.34.
-- Substituted by: L.N. 100 of 2006; L.N. 101 of 2006; L.N. 318 of 2007; L.N. 424 of 2007; L.N. 149 of 2008; L.N. 143 of 2009; L.N. 437 of 2010; L.N. 330 of 2011; L.N. 342 of 2012; L.N. 355 of 2013; L.N. 62 of 2014; L.N. 123 of 2015; L.N. 309 of 2016; L.N. 6 of 2018; L.N.195 of 2018; L.N.94 of 2019; L.N.251 of 2020; XXIX.2019.71; L.N. 331 of 2021; L.N. 232 of 2023; L.N. 257 of 2024.
+- Substituted by: L.N. 100 of 2006; L.N. 101 of 2006; L.N. 318 of 2007; L.N. 424 of 2007; L.N. 149 of 2008; L.N. 143 of 2009; L.N. 437 of 2010; L.N. 330 of 2011; L.N. 342 of 2012; L.N. 355 of 2013; L.N. 62 of 2014; L.N. 123 of 2015; L.N. 309 of 2016; L.N. 6 of 2018; L.N.195 of 2018; L.N.94 of 2019; L.N.251 of 2020; XXIX.2019.71; L.N. 331 of 2021; L.N. 232 of 2023; L.N. 257 of 2023.
