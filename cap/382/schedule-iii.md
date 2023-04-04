@@ -1,27 +1,27 @@
 ## SCHEDULE III
 ## Sp. Gr Sucrose
 ## % w/w
-## 1.000 15.439
-## 1.001 15.671
-## 1.002 15.903
-## 1.003 16.134
-## 1.004 16.365
-## 1.005 16.595
-## 1.006 16.825
-## 1.007 17.055
-## 1.008 17.284
-## 1.009 17.513
-## 1.010 17.741
-## 1.011 17.970
-## 1.012 18.197
-## 1.013 18.425
-## 1.014 18.652
-## 1.015 18.878
-## 1.079 19.105
-## 1.080 19.331
-## 1.081 19.556
-## 1.082 19.782
-## 1.083 20.007
+## 1.063 15.439
+## 1.064 15.671
+## 1.065 15.903
+## 1.066 16.134
+## 1.067 16.365
+## 1.068 16.595
+## 1.069 16.825
+## 1.070 17.055
+## 1.071 17.284
+## 1.072 17.513
+## 1.073 17.741
+## 1.074 17.970
+## 1.075 18.197
+## 1.076 18.425
+## 1.077 18.652
+## 1.078 18.878
+## 1.016 19.105
+## 1.017 19.331
+## 1.018 19.556
+## 1.019 19.782
+## 1.020 20.007
 ## Title.
 ## Scope.
 ## Definition.
@@ -153,7 +153,7 @@ Provided that when the Commissioner, in the cases referred to in these regulatio
 (c) forward the cancellation message to the competent
 authorities of the Member State of destination:
 Provided that where those data are not valid, the consignor shall be informed without delay.
-(8) When the Commissioner receives a cancellation message as mentioned in this regulation, for excisable goods whose place of destination is Malta and the consignee is an authorised warehousekeeper or a registered consignee, the Commissioner shall forward the cancellation message to the warehousekeeper or consignee as the case may be.
+(8) When the Commissioner receives a cancellation message as mentioned in this regulation, for excisable goods whose place of destination is Malta and the consignee is an authorised warehousekeeper or a registered consignee, the Commissioner shall send the cancellation message to the warehouse keeper or the consignee as the case may be.
 (9) During the movement under a duty suspension arrangement, the consignor may, using the computerised system, amend the destination to show a new destination which must be one of the destinations referred to in article 8B(1)(a)(i), (ii), (iii) or, where applicable, in article 8B(2) of the Act.
 6. (1) The consignor intending to amend the destination as provided for in regulation 5(9), or to complete the destination as provided for in the proviso of regulation 7, shall complete the fields of the draft change of destination message and submit it to the Commissioner. The draft change of destination message shall comply with the requirements set out in Tables 3 and 4 of Annex; I.
 (2) The Commissioner shall carry out an electronic verification of the data in the draft change of destination message. Where those data are valid, the Commissioner shall:
@@ -230,6 +230,7 @@ The Minister, after consulting the Commissioner, may enter into an agreement wit
 - Amended by: XVI.2017.80; VIII.2020.66; XVIII.2021.55; VII.2022.66.
 - Added by: XVIII.2021.55.
 - Amended by: XVI. 2017.80; VIII.2020.66; XVIII.2021.55; VII.2022.66.
+- Amended by: XII.2023.56.
 - Amended by: L.N. 50 of 2023.
 - Amended by: L.N. 50 of 2023.
 - See Cap. 436.

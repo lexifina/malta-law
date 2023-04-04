@@ -1,17 +1,24 @@
 ## ANNEX
-## MALTA INTERNAL ADMINISTRATIVE ACCOMPANYING DOCUMENT PRODUCTS SUBJECT TO EXCISE DUTY
-## 18a. Marks and numbers, No. and No kind of packages, description of goods No 18b. Marks and numbers, No. and No kind of packages, description of goods No 18c. Marks and numbers, No. and No kind of packages, description of goods No
-## Box 9 Box 10 Guarantee: indicate whether provided by the
 ## 24a. Sold in warehouse?
 ## Yes No
 ## Malta produced?
 ## Yes No 24b. Sold in warehouse?
 ## Yes No 24c. Sold in warehouse?
-## MALTA INTERNAL ADMINISTRATIVE ACCOMPANYING DOCUMENT PRODUCTS SUBJECT TO EXCISE DUTY B AUTHORISATION FOR CHANGE OF PLACE OF DELIVERY New name/address:
-## Request by: name/address of company:
-## Name and signatory: Place and date:
-## C CERTIFICATION OF RECEPTION OR EXPORTATION
-## *delete inapplicable A Record of control (continued)
+## EXPLANATORY NOTES 1. 1.1 The
+## 1.2 The document must be completed legibly and in a
+## 1.3 The format of the IAAD is as laid down in the
+## 1.4 Any unused space in boxes 18a to 24c is to be lined
+## 1.5 The accompanying document comprises three
+## 1.6 Copies 2 and 3 must accompany the goods during
+## 1.7 In cases where the document is utilised for
+## 2. Box 1 Box 2
+## Box 3
+## Box 4
+## Box 5 Box 6 Box 7
+## Box 7a For goods to be exported, the notation 'EXPORT
+## Box 8
+## MALTA INTERNAL ADMINISTRATIVE ACCOMPANYING DOCUMENT PRODUCTS SUBJECT TO EXCISE DUTY
+## 18a. Marks and numbers, No. and No kind of packages, description of goods No 18b. Marks and numbers, No. and No kind of packages, description of goods No 18c. Marks and numbers, No. and No kind of packages, description of goods No
 ## Title.
 ## Scope.
 ## Definitions.
@@ -113,22 +120,22 @@ the nature of transaction;
 11. (1) No person may manufacture, process, prepare for sale, expose or offer for sale, sell or otherwise dispose of any ethyl alcohol or fermented beverages or intermediate products as defined in the Second Schedule with an actual alcoholic strength by volume of ten per cent (10% vol.) or more in containers of fifty (50) centilitre capacity or more unless there is affixed to them an excise band or stamp which shows this percentage of alcohol, as indicated by the Commissioner and as provided for in regulation 12.
 (2) It shall be lawful for the Commissioner to exempt in writing from the provision of the preceding sub-regulation, under such conditions as he may deem fit to impose, any ethyl alcohol intended to be exported or as ship's supply or for sale to persons exempted by or under any law from the payment of excise duty.
 (3) It shall be lawful for the Commissioner to exempt in writing from the provision of sub-regulation (1) any other ethyl alcohol not covered by the preceding paragraph, under such conditions as he may deem fit to impose.
-12. (1) No containers immediately enclosing ethyl alcohol shall be released by Customs or from a authorised tax warehouse unless a band or an excise stamp has been affixed thereon. This band or an excise stamp shall be the correct one as indicated by the Commissioner and it shall be affixed in the correct manner, as indicated by the Commissioner.
+12. (1) No containers immediately stocks kept in the authorised tax warehouse other than a government authorised tax warehouse, as well as on sales, issues or other deliveries of excisable goods shall be released by Customs or from a authorised tax warehouse unless a band or an excise stamp has been affixed thereon. This band or an excise stamp shall be the correct one as indicated by the Commissioner and it shall be affixed in the correct manner, as indicated by the Commissioner.
 (2) The said bands or stamps shall be of a round shape and continue in a rectangular shape in a way that the round part is affixed on the cap and the rectangular part is affixed going down onto the container, in such a way that when the container is opened, the destruction of the band or stamp is ensured:
 Provided that if it is not possible to affix the band or excise stamp in this way because of the shape of the container, the band or excise stamp shall be affixed in any other way so long as the destruction of the band or excise stamp is ensured when the container is opened.
 (3) The bands or excise stamps shall be approved by the Commissioner and shall be supplied at the Custom House or at any other place to be appointed by the Minister by means of a notice in the Gazette.
-(4) Such bands or stamps shall be issued by the Commissioner against payment, as may be prescribed under the Act, on application by the authorised tax warehouse keeper or trader of ethyl alcohol.
+(4) Such bands or stamps shall be issued by the Commissioner against payment, as may be prescribed under the Act, on application by the authorised tax warehouse keeper or trader of ethyl alcohol, fermented beverages and intermediate products.
 (5) The band or excise stamp shall be affixed to the container not later than five (5) days from when it is purchased, except in the case of a band or excise stamp which should be affixed by an authorised tax warehouse keeper.
-(6) (a) A registered consignor or registered consignee whoo fails to affix a band or excise stamp within five (5) days from when it is purchased, except for an authorised tax warehouse keeper, shall, on conviction, be liable to a fine (multa) of one-hundred euro (€100) and the Court shall also order the forfeiture of the bands or excise stamps that were not affixed within the given time. In addition to this, the forfeiture of ethyl alcohol itself shall also take place according to the law, as applicable.
+(6) (a) A registered consignor or registered consignee whoo fails to affix a band or excise stamp within five (5) days from when it is purchased, except for an authorised tax warehouse keeper, shall, on conviction, be liable to a fine (multa) of one-hundred euro (€100) and the Court shall also order the forfeiture of the bands or excise stamps that were not affixed within the given time. In addition to this, the forfeiture of ethyl alcohol, fermented beverages and intermediate products shall also take place according to the law, as applicable.
 (b) In the case of an irregularity mentioned in paragraph
-(a), the Commissioner, while he forfeits the bands or excise stamps not affixed within the time given, may, if the offender admits, refrain from instituting proceedings in terms of this Act and impose a penalty equivalent to one-hundred euro (€100). In addition to this, the forfeiture of the ethyl alcohol itself shall also take place according to law, as applicable.
-(7) (a) Every authorised tax warehouse keeper who takes out of the authorised tax warehouse ethyl alcohol on which a band or excise stamp has not been affixed according to law, shall, on conviction, be liable to a fine (multa) of one-hundred euro (€100) and the Court shall also order the forfeiture of the bands or excise stamps that had to be affixed to those goods. In addition to this, the forfeiture of the ethyl alcohol itself shall also take place according to law, as applicable.
+(a), the Commissioner, while he forfeits the bands or excise stamps not affixed within the time given, may, if the offender admits, refrain from instituting proceedings in terms of this Act and impose a penalty equivalent to one-hundred euro (€100). In addition to this, the forfeiture of the ethyl alcohol, fermented beverages and intermediate products shall also take place according to law, as applicable.
+(7) (a) Every authorised tax warehouse keeper who takes out of the authorised tax warehouse ethyl alcohol, fermented beverages and intermediate products on which a band or excise stamp has not been affixed according to law, shall, on conviction, be liable to a fine (multa) of one-hundred euro (€100) and the Court shall also order the forfeiture of the bands or excise stamps that had to be affixed to those goods. In addition to this, the forfeiture of the ethyl alcohol, fermented beverages and intermediate products shall also take place according to law, as applicable.
 (b) In the case of an irregularity mentioned in paragraph
-(a), the Commissioner, while he forfeits the bands or excise stamps that had to be affixed to the ethyl alcohol, may, if the offender admits, refrain from instituting proceedings in terms of this Act and impose a penalty equivalent to one-hundred euro (€100). In addition to this, the forfeiture of the ethyl alcohol itself shall also take place according to the law, as applicable.
+(a), the Commissioner, while he forfeits the bands or excise stamps that had to be affixed to the ethyl alcohol, fermented beverages and intermediate products, may, if the offender admits, refrain from instituting proceedings in terms of this Act and impose a penalty equivalent to one-hundred euro (€100). In addition to this, the forfeiture of the ethyl alcohol, fermented beverages and intermediate products shall also take place according to the law, as applicable.
 (8) (a) Excluding people who are authorised, every person who has in his possession excise stamps or bands shall be liable, on conviction, to a fine (multa) of two hundred and fifty euro (€250) and the Court shall order the forfeiture of those excise stamps or bands. In addition, the forfeiture of the excisable goods themselves shall also take place, according to law, as applicable.
 (b) In the case of an irregularity mentioned in paragraph
-(a), the Commissioner, while he forfeits the bands or excise stamps that remained unaffixed, may, if the offender admits, refrain from instituting proceedings in terms of this Act and impose a penalty equivalent to two-hundred and fifty euro (€250). In addition to this, the forfeiture of the ethyl alcohol itself shall also take place according to law, as applicable.
-13. Any quantity of ethyl alcohol products found in the possession of any person in contravention to the provisions of regulations 11 or 12 shall, without prejudice to any other penalty provided for under the Act or any other law, be forfeited to Government.
+(a), the Commissioner, while he forfeits the bands or excise stamps that remained unaffixed, may, if the offender admits, refrain from instituting proceedings in terms of this Act and impose a penalty equivalent to two-hundred and fifty euro (€250). In addition to this, the forfeiture of the ethyl alcohol, fermented beverages and intermediate products shall also take place according to law, as applicable.
+13. Any quantity of ethyl alcohol, fermented beverages and intermediate products found in the possession of any person in contravention to the provisionsthe possession of any person in contravention to the provisions of regulations 11 or 12 shall, without prejudice to any other penalty provided for under the Act or any other law, be forfeited to Government.
 PART C
 Manufactured Tobacco Regulations
 1. The title of these regulations is Manufactured Tobacco Regulations.
@@ -271,8 +278,7 @@ purposes by:
 state and private hospitals,
 state senior citizens' homes,
 Corradino Correctional Facility,
-sports, philanthropic and religious entities so
-authorised by the Minister,
+sports, philanthropic and religious entities so authorised by the Minister,
 bakeries up to the maximum amount of litres per month required by the bakery as certified by a mechanical engineer, and
 other entities authorised by the Minister
 and kerosene -
@@ -304,6 +310,8 @@ and kerosene -
 (aa) not less than 6 milligrams but not more than 9 milligrams of N-Ethyl-N-[2-(1-isobutoxy-ethoxy) ethyl] - 4 - (phenylazo) aniline per litre of mineral
 oil, and
 (bb) not less than such quantity of a blue anthraquinone dye as gives a colour intensity, as measured in a spectrophotometer at 630 nanometres, corresponding to 5 milligrams of C.I. Solvent Blue 79, as defined in the Colour Index, per litre of mineral oil.
+(3)(a) With effect from the 19th January 2024 the common fiscal marker provided for by Council Directive 95/60/EC of 27 November 1995 on fiscal marking of gas oils and kerosene, for the marking of all gas oils falling within CN codes 2710 19 43, 2710 19 46, 2710 19 47, 2710 19 48, 2710 20 11, 2710 20 16 and 2710 20 19, as well as of kerosene falling within CN code 2710 19 25, shall be ACCUTRACE™ PLUS.
+(b) The marking level of ACCUTRACE™ PLUS shall be at least 12.5 milligram per litre and not more than 18.75 milligram per litre of energy product, which corresponds to a marking level of at least 9.5 milligram of butoxybenzene per litre and not more than 14.25 milligram of butoxybenzene per litre of energy product.
 17A. (1) There shall be added a national chemical marker, hereinafter referred to as "the marker", to all mineral oils identified by the Commissioner by means of an order in the Gazette and intended for release for consumption.
 (2) The marker shall be supplied to the authorised tax warehouse keepers by the Department of Customs against compensation. The compensation charged shall cover the costs of the product to the Department.
 (3) The marker shall be added to such mineral oils utilising dosing pumps in the proportions as directed by the Commissioner.
@@ -377,11 +385,11 @@ necessary controls; and
 (b) submit at the end of each month a statement of all production that took place in that month and give an indication of the percentage volume of biomass contained in the product which is being offered for sale; and
 (c) declare the source of the gas oil contained in the
 product which is being offered for sale.
-- Amended by: XVI. 2017.77; VII.2019.59; VIII.2020.66; XVIII.2021.55; VII.2022.66.
+- Amended by: XVI. 2017.77; VII.2019.59; VIII.2020.66; XVIII.2021.55; VII.2022.66; XII.2023.56.
 - Amended by: XVI. 2017.77.
 - Amended by: VII.2019.59; VIII.2020.66; VII.2022.66.
 - Amended by: XVI. 2017.77; VII.2019.59; VIII.2020.66; XVIII.2021.55.
-- Amended by: VII.2022.66.
+- Amended by: VII.2022.66; XII.2023.56.
 - Amended by: XVI. 2017.78; L.N. 270 of 2017; VII.2019.59; VIII.2020.66; XVIII.2021.55; VII.2022.66.
 - Added by: VII.2019.59.
 - Amended by: XVI. 2017.78; VII.2019.59; XVIII.2021.55; VII.2022.66.
@@ -392,7 +400,7 @@ product which is being offered for sale.
 - Amended by: VII.2019.59.
 - Added by: VII.2019.59.
 - Substituted by: XVIII.2021.55.
-- Amended by: XVI. 2017.79; VII.2018.80; VII.2019.59; VIII.2020.66; XVIII.2021.55; VII.2022.66.
+- Amended by: XVI. 2017.79; VII.2018.80; VII.2019.59; VIII.2020.66; XVIII.2021.55; VII.2022.66; XII.2023.56.
 - Amended by: XVI. 2017.79.
 - Substituted by: XVI. 2017.79.
 - Added by: VIII.2020.66.

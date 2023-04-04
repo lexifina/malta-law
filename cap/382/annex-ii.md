@@ -1,19 +1,33 @@
 ## ANNEX II
-## D
+## Example
+## 05
+## ES
+## 7R19YTE17UI C8J4
+## P
+## 9
+## EPC
+## T200
+## T300
+## T400
+## T500
+## B000
+## W200
+## W300
+## I000
+## S200
 ## N
-## S300
-## S400
-## S500
-## S600
-## E200
-## E300
-## E410
-## E420
-## E430
-## E440
 ## Y
-## E920
-## E930
+## E450
+## E460
+## E470
+## E480
+## E490
+## E500
+## E600
+## E700
+## E800
+## E910
+## Currency
 # annex-ii
 (referred to in regulation 3(2) of this Part)
 List of codes
@@ -51,6 +65,5 @@ shall be applicable as the additional codes for these above-mentioned products i
 PART J
 Exemption Certificate
 Serial No (optional, depending on national requirements)
-- Substituted by: L.N. 50 of 2023.
 - Added by: VII.2022.66.
 - Added by: L.N. 50 of 2023.

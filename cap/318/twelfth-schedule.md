@@ -1,7 +1,7 @@
 ## TWELFTH SCHEDULE
 # twelfth-schedule
-(Articles 17, 26, 29, 31, 33, 40, 44, 50, 54, 63, 64, 67,
-85, 90A)
+[ARTICLES 17, 26, 29, 31, 33, 40, 44, 50, 54, 63, 64, 67, 85,
+90A]
 Rates of several kinds of pension
 A. Full Rates of Retirement Pension per week, inclusive of any increases under the provisions of article 90A, when the yearly average of contributions paid or credited is 50 or more:
 Persons who are also in receipt of a Persons who are also in receipt of a Service Pension that is payable by or Service Pension that is NOT payable on behalf of the Government of the by or on behalf of the Government of
@@ -9,8 +9,7 @@ United Kingdom the United Kingdom
 Married person Married person
 who is Any other person who is Any other person
 maintaining a maintaining a
-spouse spouse
-€145.23 €124.98 €139.50 €122.38
+spouse spouse €145.23 €124.98 €139.50 €122.38
 B. Full Rates of Increased Retirement Pension, Invalidity Pension, Increased Invalidity Pension, National Minimum Pension and Increased National Minimum Pension per week, inclusive of any increases under the provisions of article 90A, when the yearly average of contributions paid or credited is 50 or more:
 Type of Pension Married person who is Any other person
 maintaining a spouse
@@ -86,7 +85,8 @@ spouse and who was in
 receipt of a National
 Minimum Pension on or
 before 31 December 2017
-For pensioners whose pension initial award date is prior to 3rd €13.16 per week €17.26 per week
+For pensioners whose pension
+€13.16 per week €17.26 per week initial award date is prior to 3rd
 January 2009
 For pensioners whose pension initial award date falls between €12.74 per week €16.37 per week 3rd January 2009 and 31st
 December 2009
@@ -94,10 +94,10 @@ For pensioners whose pension initial award date falls between €12.17 per week 
 December 2010
 For pensioners whose pension initial award date falls between
 €11.35 per week €13.66 per week 1st January 2011 and 31st
-December 2011
-For pensioners whose pension initial award date falls between
+December 2011 For pensioners whose pension initial award date falls between
 €11.23 per week €13.38 per week 1st January 2012 and 31st
-December 2012 For pensioners whose pension initial award date falls between
+December 2012
+For pensioners whose pension initial award date falls between
 €10.58 per week €12.11 per week 1st January 2013 and 31st
 December 2013
 For pensioners whose pension initial award date falls between

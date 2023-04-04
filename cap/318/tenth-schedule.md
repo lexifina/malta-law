@@ -1,8 +1,12 @@
 ## TENTH SCHEDULE
 # tenth-schedule
-(Articles 7, 10, 16, 17, 116)
+[ARTICLES 7,10,16,17,116]
 RATES OF CONTRIBUTIONS
 Part I
+Class One Contributions
+(Employed Persons)
+RATES OF CONTRIBUTIONS
+PART I
 Class One Contributions
 (Employed Persons)
 Weekly Rate
@@ -14,52 +18,55 @@ the Employer
 Persons under eighteen (18) years of age whose basic weekly wage or the weekly
 A €6.62 €6.62
 equivalent of their basic monthly salary does not exceed €192.73.
-€19.27, or if the insured person is employed on a part-
-Persons over eighteen (18) time basis elects, 10%
-years of age whose basic calculated to the weekly wage or the weekly nearest cent of such B €19.27
-equivalent of their basic person's basic weekly monthly salary does not wage or the weekly exceed €192.73. equivalent of such
+€19.27, or if the insured person is employed on a part-time basis elects,
+Persons over eighteen (18)
+10% calculated to the
+years of age whose basic
+nearest cent of such
+weekly wage or the weekly B person's basic weekly €19.27
+equivalent of their basic
+wage or the weekly
+monthly salary does not
+equivalent of such
+exceed €192.73.
 person's basic monthly salary (see note 1
 below)
-Persons born on 31 December 1961 or before
-10%
-whose basic weekly wage or
-calculated to
-the weekly equivalent of
-the nearest
-their basic monthly salary 10% calculated to the
+Persons born on 31 December 1961 or before whose basic weekly wage or the weekly
+10% calculated
+equivalent of their basic
+to the nearest
+monthly salary exceeds 10% calculated to the
 cent of their
-exceeds €192.74 but does nearest cent of their
+€192.74 but does not exceed nearest cent of their
 basic weekly
-not exceed €392.76. basic weekly wage or C wage or the
-the weekly equivalent Persons born on 1 January
+€392.76. basic weekly wage or C wage or the
+the weekly equivalent of Persons born on 1 January
 weekly
-of their basic monthly 1962 or after whose basic
+their basic monthly 1962 or after whose basic
 equivalent of
 salary weekly wage or the weekly
 their basic
 equivalent of their basic
-monthly
-monthly salary exceeds
-salary
-€192.74 but does not exceed €515.98 (see note 2 below).
-Persons born on 31 December 1961 or before whose basic weekly wage or
+monthly salary
+monthly salary exceeds €192.74 but does not exceed €515.98 (see note 2 below).
+Persons born on 31 December 1961 or before whose basic weekly wage or the weekly
 €39.28 €39.28
-the weekly equivalent of their basic monthly salary exceeds €392.77. D
+equivalent of their basic monthly salary exceeds €392.77. D
 Persons born on 1 January 1962 or after whose basic weekly wage or the weekly
 €51.60 €51.60
 equivalent of their basic monthly salary exceeds €515.99 (see note 2 below).
 10% calculated
 Persons under eighteen (18) to the nearest
-years of age who are following cent of the a full-time course of studies or 10% calculated to the basic weekly instruction under the Student- nearest cent of the basic remuneration Worker Scheme, or other weekly remuneration or or the weekly similar schemes (including the the weekly equivalent of equivalent of
+years of age who are following cent of the basic a full-time course of studies or 10% calculated to the weekly instruction under the Student- nearest cent of the basic remuneration or Worker Scheme, or other weekly remuneration or the weekly similar schemes (including the the weekly equivalent of equivalent of
 E
-Extended Skills Training their basic monthly their basic Schemes, but excluding the remuneration up to a monthly Worker-Student Schemes) maximum rate of remuneration involving distinct work and contribution of €4.38 up to a study periods for which they maximum rate are receiving remuneration. of contribution
-of €4.38
+Extended Skills Training their basic monthly their basic Schemes, but excluding the remuneration up to a monthly Worker-Student Schemes) maximum rate of remuneration up involving distinct work and contribution of €4.38 to a maximum study periods for which they are rate of receiving remuneration. contribution of
+€4.38
 10% calculated
 Persons over eighteen (18) to the nearest
-years of age who are following cent of the a full-time course of studies or 10% calculated to the basic weekly instruction under the Student- nearest cent of the basic remuneration Worker Scheme, or other weekly remuneration or or the weekly similar schemes (including the the weekly equivalent of equivalent of
+years of age who are following cent of the basic a full-time course of studies or 10% calculated to the weekly instruction under the Student- nearest cent of the basic remuneration or Worker Scheme, or other weekly remuneration or the weekly similar schemes (including the the weekly equivalent of equivalent of
 F
-Extended Skills Training their basic monthly their basic Schemes, but excluding the remuneration up to a monthly Worker-Student Schemes) maximum rate of remuneration involving distinct work and contribution of €7.94 up to a study periods for which they maximum rate are receiving remuneration. of contribution
-of €7.94
+Extended Skills Training their basic monthly their basic Schemes, but excluding the remuneration up to a monthly Worker-Student Schemes) maximum rate of remuneration up involving distinct work and contribution of €7.94 to a maximum study periods for which they are rate of receiving remuneration. contribution of
+€7.94
 Note 1: If the insured person elects to pay a contribution of 10% of a basic wage or salary less than the weekly equivalent of the National Minimum Wage, such contribution may, if the person qualifies for a contributory benefit or a contributory pension, result in the payment of a reduced contributory benefit or contributory pension.
 Note 2: By virtue of the Social Security (Amendment) (No. 2) Act, 2006 and the Notice of coming into force of the Social Security (Amendment) (No. 2) Act, 2006, through which the enacted pension reform entered into force, the pensionable income for persons born on or after 1st January 1962, with effect from January 2023 is guaranteed at the amount of €26,831.48. Therefore, this is reflected in an increase in the highest rate of payable contribution.
 PART II

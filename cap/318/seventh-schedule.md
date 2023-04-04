@@ -1,6 +1,6 @@
 ## SEVENTH SCHEDULE
 # seventh-schedule
-(Article 20)
+[ARTICLE 20]
 Scale Rates of Means governing Sickness Assistance
 Number of persons in Household Scale Rate
 One person only €22.00

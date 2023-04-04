@@ -1,10 +1,10 @@
 ## THIRD SCHEDULE
 # third-schedule
 (Articles 18, 28, 29, 30, 69)
-Part I
+PART I
 Rates of Sickness, Unemployment, Special
-Unemployment and Injury Benefits, Injury Grant and
-Injury Pension
+Unemployment, and Injury Benefits; Injury Grant
+and Injury Pension
 Daily Rate of Benefit
 Type of Benefit A Single Parent or a Married Any Other
 Person maintaining a Spouse Person

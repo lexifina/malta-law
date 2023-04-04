@@ -34,7 +34,7 @@ Excisable Goods Regulations
 (f) the date on which the applicant intends to begin production of excisable goods;
 (g) an estimate of the maximum yearly productive capacity of the intended authorised tax warehouse.
 (2) (i) The Commissioner shall maintain an electronic
-database which shall contain a register of persons who are authorised tax warehouse keepers or traders registered for excise purposes as well as a register of those premises authoris ed as authorised tax warehouses.
+database which shall contain a register of persons who are authorised tax warehouse keepers or traders registered for excise purposes as well as a register of those premises a uthorised as authorised tax warehouses.
 (ii) This register shall contain the following information:
 (a) the identification number issued by the
 competent authorities in respect of the person or premises;
@@ -70,7 +70,7 @@ Provided that where any of these processes is performed in a government bonded w
 10. Excise duty due on goods released from customs stations or bonded warehouse controlled by Customs, shall be paid before such goods are released. In other cases, the excise duty shall be paid before such goods are released or periodically as may be allowed by the Commissioner on the goods released during a specific period as directed by him. Failing such directive duty shall be paid not later than five days following the last Sunday of each calendar month in settlement of all duty due on goods released for consumption up to that Sunday.
 11. The duty shall be assessed on the quantity as units, net kilos, litres or litres @ 15°C. as appropriate and where applicable, on the alcoholic strength or specific gravity, as specified in the schedules to the Act, relevant to the particular goods.
 12. (1) Save as is otherwise provided by any law excisable goods produced in Malta may be kept by the authorised tax warehouse keeper under duty suspension within the precincts of a registered authorised tax warehouse.
-(2) Such goods may be moved under duty suspension from a registered authorised tax warehouse to another authorised tax warehouse or from such authorised tax warehouse to a place of loading for export as merchandise or as ship's stores or for delivery to persons exempted as provided for in article 14 of the Act.
+(2) Such goods may be moved under duty suspension from a registered authorised tax warehouse to another authorised tax warehouse or from such authorised tax warehouse to a place of loading for export as merchandise or as ship's stores or for delivery to persons exempted as provided for in article 14 of the Act, or from an authorized tax warehouse to another authorized tax warehouse.
 (3) All such removal of excisable goods without payment of duty shall, unless the Commissioner may otherwise allow, be subject to the following conditions:
 (a) the goods are transported in containers or packages which are secured by a form of seal approved by the Commissioner or under customs escort, in either case
 as directed by the Commissioner; and
@@ -99,7 +99,7 @@ official acknowledging receipt on board; and
 (ii) an audited statement for each accounting period
 certified by a certified public auditor in respect of all production, stocks kept at the authorised tax warehouse and sales of excisable goods made during the accounting period, in the case of an authorised tax warehouse keeper, and containing such information as may be prescribed in relation to particular excisable goods;
 (iii) an audited statement for each accounting period
-certified by a certified public auditor in respect of every introduction, stocks kept in the authorised tax warehouse other than a government authorised tax warehouse and sales, issues or other deliveries of excisable goods made during the accounting period, in the case of a authorised tax warehouse keeper, containing such information as may be prescribed in relation to particular goods;
+certified by a certified public auditor in respect of every introduction, stocks kept in the authorised tax warehouse other than a government authorised tax warehouse, as well as on sales, issues or other deliveries of excisable goods made during the accounting period, in the case of a authorised tax warehouse keeper, containing such information as may be prescribed in relation to particular goods;
 (iv) the term of an accounting period shall be of six months
 or such longer period as the Commissioner may allow or as may otherwise be prescribed and the audited statement shall reach the Commissioner within thirty days after the end of each accounting period being reported upon.
 17. (1) (a) Excisable goods, in relation to any accounting period which were registered as produced or introduced in an authorised tax warehouse and which are not satisfactorily shown to have been sold or legitimately removed from the authorised tax warehouse and on which no duty had been paid shall be deemed as goods which are unaccounted for and the Commissioner shall, without prejudice to any other action which may be taken against the authorised tax warehouse keeper in terms of this Act or any other law, allow the payment of the duty due on the discrepancy.
@@ -110,7 +110,7 @@ Provided that if the extra goods which are found in the authorised tax warehouse
 Provided that such functions, powers and duties as are by law reserved to officers holding the rank not below that of inspector of Police shall only be exercisable by officials not below the rank of customs officer.
 - Amended by: XXV. 1997.6; XIV. 1998.5, 7; L.N. 227 of 1999; IX. 2001.11.
 - Substituted by: L.N. 243 of 2002.
-- Amended by: IX. 2003.80; L.N. 11 of 2004; L.N. 450 of 2004; L.N. 481 of 2004; II. 2005.39, 41; L.N. 416 of 2005; L.N. 118 of 2006; L.N. 425 of 2007; L.N. 96 of 2010; L.N. 284 of 2010; XXII. 2011.5; L.N. 207 of 2012; L.N. 437 of 2013; XIII. 2015.143; 144; XVI. 2017.76; L.N. 270 of 2017; VII.2018.80; VII.2019.59; VIII.2020.66; XVIII.2021.55; VII.2022.66; L.N. 50 of 2023.
+- Amended by: IX. 2003.80; L.N. 11 of 2004; L.N. 450 of 2004; L.N. 481 of 2004; II. 2005.39, 41; L.N. 416 of 2005; L.N. 118 of 2006; L.N. 425 of 2007; L.N. 96 of 2010; L.N. 284 of 2010; XXII. 2011.5; L.N. 207 of 2012; L.N. 437 of 2013; XIII. 2015.143; 144; XVI. 2017.76; L.N. 270 of 2017; VII.2018.80; VII.2019.59; VIII.2020.66; XVIII.2021.55; VII.2022.66; L.N. 50 of 2023; XII.2023.56.
 - Amended by: XVI. 2017.76; VIII.2020.66; XVIII.2021.55; VII.2022.66.
 - Amended by: XVIII.2021.55; VII.2022.66.
 - Amended by: VII.2019.59.

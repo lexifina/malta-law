@@ -1,6 +1,6 @@
 ## FOURTEENTH SCHEDULE
 # fourteenth-schedule
-(Articles 30, 70, 72, 73, 76, 76A, 77, 80)
+[Articles 30, 70, 72, 73, 76, 76A, 77, 80]
 Rates of several kinds of Allowances, Maternity
 Benefit and Marriage Grant
 PART I
