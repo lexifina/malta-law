@@ -86,3 +86,10 @@ In addition to the taxable products listed above, any product intended for use, 
 In addition to the taxable products listed above, any other hydrocarbon, except for peat, intended for use, offered for sale or used for heating purposes, shall be taxed at the rate for the equivalent energy product.
 Part D REDUCED EXCISE DUTY RATES Petroleum products falling under CN Codes 2710 1921 to 2710 1968, and 2710 2011 to 2710 2039 used for the purposes other than motor fuels or as heating fuels may pay a reduced excise duty rate of €0.25 per litre under such conditions which the Minister may prescribe for the purpose of ensuring the correct and straightforward application of such exemptions and of preventing any evasion, avoidance or abuse.
 Part E EXEMPTIONS All products in this schedule are exempt from duty when used by the armed forces of any Member State, other than Malta, for the use of those forces, for the civilian staff accompanying them or for supplying their messes or canteens when such forces take part in a defence effort carried out for the implementation of a Union activity under the common security and defence policy.
+- Substituted by: VII. 1997.4; XXV. 1997.5.
+- Amended by: IV. 1998.4; V. 1999.4.
+- Substituted by: IX. 2001.9; II. 2002.28; II. 2004.57; II. 2005.38.
+- Amended by: II. 2006.17; Substituted:; VIII. 2006.2.
+- Amended by: IV. 2007.33.
+- Substituted by: L.N. 425 of 2007.
+- Amended by: XXXII. 2007.80; L.N. 105 of 2008; II. 2009.35; I. 2010.65; IV. 2011.70; V. 2012.53; III. 2013.66; XII. 2014.73; XIII. 2015.138; XV. 2016.37; XVI. 2017.70; VII.2018.76; VII.2019.58; VIII.2020.65; L.N. 250 of 2020; XVIII.2021.54; L.N. 429 of 2021; L.N. 177 of 2022.
