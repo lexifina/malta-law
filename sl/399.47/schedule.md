@@ -9,41 +9,54 @@ Competent Service Name Number
 Ministry Public Body
 Public Body is
 Responsible
-Ministry responsible for Single Home Affairs, Malta Police Regulations 3 to European
-112
-National Security Force 6 emergency call and Law service Enforcement Ministry
-Regulations 7 to
-responsible for
-9 in so far as
-Home Affairs, Malta Police Missing
-these relate to 116000
-National Security Force children hotline
-the missing
-and Law
+Ministry Single
+Ministry
+responsible Regulations 3 European
+responsible for 112
+for home to 6 emergency call
+home affairs
+affairs service
+Regulations 7
+Ministry to 9 in so far as Missing
+Malta Police
+responsible for these relate to children 116000
+Force
+home affairs the missing hotline
 children hotline
-Enforcement
-Regulations 7 to
+Regulations 7
+Foundation to 9 in so far as
 Ministry
-9 in so far as
-responsible for the Foundation for
-these relate to Child helpline
-Family, Children's Social Welfare 116111
-the child and hotline
-Rights and Social Services
-helpline and
-Solidarity
+for Social these relate to Child helpline
+responsible for 116111
+Welfare the child and hotline
+social welfare
+Services helpline and
 hotline
-Regulations 7 to
-Ministry
-9 in so far as
-responsible for the Emotional
+Regulations 7
+to 9 in so far as
+Ministry Emotional
 Aġenzija these relate to
-Family, Children's Support 116123
+responsible for support 116123
 Appoġġ the helpline for
-Rights and Social Helpline
+social welfare helpline
 emotional
-Solidarity
 support
-Ministry Ministry for responsible for Home Affairs, Home Affairs, National Public warning
-Regulation 10 n/a
-National Security Security and systems and Law Law Enforcement Enforcement
+Regulations 7
+to 9 in so far as
+Ministry Victim Helpline for
+these relate to
+responsible for Support victims of 116006
+the helpline for
+home affairs Agency crime
+victims of
+crime
+Ministry
+Ministry
+responsible Public warning
+responsible for Regulation 10 n/a
+for home systems
+home affairs
+affairs
+EUROPEAN EMERGENCY CALL SERVICE ("112" NUMBER) AND THE EUROPEAN HARMONISED
+SERVICES OF SOCIAL VALUE [S.L. 399.47 8 ("116" NUMBERING RANGE)
+- Substituted by: L.N. 80 of 2023.
