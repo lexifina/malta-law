@@ -2,7 +2,7 @@
 # schedule-ii
 1. With reference to the sampling and testing for the official investigation referred to in regulation 5:
 (a) sampling shall involve a soil sample with a standard rate of at least 1500 ml soil/ha collected from at least 100 cores/ha preferably in a rectangular grid of not less than 5 meters in width and not more than 20 meters in length between sampling points covering the entire field. The whole sample shall be used for further examination, i.e. extraction of cysts, species identification and, if applicable, pathotype/virulence group determination;
-(b) testing shall involve methods for the extraction of potato cyst nematodes described in the relevant Phytosanitary Procedures or Diagnostic Protocols for pallida and Globodera Globodera rostochiensis: EPPO standards.
+(b) testing shall involve methods for the extraction of potato cyst nematodes described in the relevant Phytosanitary Procedures or Diagnostic Protocols for Globodera pallida and Globodera rostochiensis: EPPO standards.
 2. With reference to the sampling and testing for the official survey referred to in regulation 6(2):
 (a) sampling shall be:
 - the sampling described in point 1 of this Schedule with a

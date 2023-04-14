@@ -28,7 +28,7 @@ The testing procedure is intended for potato tubers and plants with symptoms typ
 (2) Rapid diagnostic tests facilitate presumptive diagnosis but are not essential. A negative result does not always guarantee absence of the pathogen.
 [S.L.433.07 (SMITH) YABUUCI ET AL 11
 (3) Streaming test for bacterial ooze from vascular stem tissue is described in Section VI.A.1.
-(4) Test for poly-β-hydroxybutyrate granules in bacterial cells is described in Section VI.A.2.
+(4) Test for poly--hydroxybutyrate granules in bacterial cells is described in Section VI.A.2.
 (5) Serological agglutination tests on bacterial ooze or extracts from symptomatic tissue are described in Section VI.A.3.
 (6) If test on bacterial ooze suspended in water or symptomatic tissue extracts is described in Section VI.A.5.
 (7) FISH test on bacterial ooze suspended in water or symptomatic tissue extracts is described in Section VI.A.7.
@@ -90,7 +90,7 @@ Solanum dulcamara and S. nigrum plants. Under natural conditions, wilting sympto
 Rapid screening tests may facilitate presumptive diagnosis but are not essential. Use one or more of the following validated tests:
 2.1. Stem streaming test
 (See Section VI.A.1.)
-Detection of poly-β-hydroxybutyrate (PHB) granules 2.2.
+Detection of poly--hydroxybutyrate (PHB) granules 2.2.
 Characteristic PHB granules in the cells of R. solanacearum are visualised by staining heat-fixed smears of bacterial ooze from infected tissue on a microscope slide with Nile Blue A or Sudan Black (See Section VI.A.2.).
 2.3. Serological agglutination tests
 (See Section VI.A.3.)
@@ -416,7 +416,7 @@ testing and run the appropriately optimised PCR programme (Appendix 6).
 6.3. Analysis of the PCR product
 6.3.1. Resolve PCR amplicons by agarose gel electrophoresis. Run at least 12 µl of amplified DNA reaction mixture from each sample mixed with 3 ìl loading buffer (Appendix 6) in 2,0% (w/v) agarose gels in tris-acetate-EDTA (TAE) buffer (Appendix 6) at 5 to 8 V per cm. Use an appropriate DNA marker, e.g. 100 bp ladder.
 6.3.2. Reveal DNA bands by staining in ethidium bromide (0,5 mg per L) for 30 to 60 minutes taking appropriate precautions for handling this mutagen.
-Observe stained gel under short wave UV transillumination (λ = 302 nm) 6.3.3. for amplified PCR products of the expected size (Appendix 6) and document.
+Observe stained gel under short wave UV transillumination ( = 302 nm) 6.3.3. for amplified PCR products of the expected size (Appendix 6) and document.
 6.3.4. For all new findings/cases verify authenticity of the PCR amplicon by performing restriction enzyme analysis on a sample of the remaining amplified DNA by incubating at the optimum temperature and time with an appropriate enzyme and buffer (see Appendix 6). Resolve the digested fragments by agarose gel electrophoresis as before and observe characteristic restriction fragment pattern under UV transillumination after ethidium bromide staining and compare with the undigested and digested positive control.
 Interpretation of the PCR test result:
 The PCR test is negative if the R. solanacearum-specific PCR amplicon of expected size is not detected for the sample in question but is detected for all positive control samples (in case of multiplex PCR with plant specific internal control primers: a second PCR-product of expected size must be amplified with the sample in question).
@@ -834,7 +834,7 @@ Determination of contamination level in IF and FISH tests
 2. Calculate the number of typical fluorescent cells per microscope slide window (C).
 C = c × S/s
 where S = surface area of window of multispot slide
-and s = surface area of objective field s = πi2/4G2K2
+and s = surface area of objective field s = i2/4G2K2
 where i = field coefficient (varies from 8 to 24 depending upon ocular type)
 K = tube coefficient (1 or 1,25)
 G = magnification of objective (100 ×, 40 × etc.).
