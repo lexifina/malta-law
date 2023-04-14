@@ -19,3 +19,4 @@ HIERARCHY REFERRED TO IN REGULATION 4A
 13. Public awareness campaigns, in particular on separate collection, waste prevention and litter reduction, and mainstreaming these issues in education and training.
 14. Systems for coordination, including by digital means, between all competent public authorities involved in waste management.
 15. Promoting continuous dialogue and cooperation between all stakeholders in waste management and encouraging voluntary agreements and company reporting on waste.
+- Added by: L.N.451 of 2021.
