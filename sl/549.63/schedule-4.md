@@ -74,4 +74,3 @@ Provided that:
 (c) littering of public places is prevented.
 11. Cesspits
 Domestic cesspits, with the exclusion of cesspits for the collection of industrial effluents, provided that they are covered by other national legislation.
-- Amended by: L.N. 441 of 2011; L.N. 384 of 2012; L.N. 382 of 2015.

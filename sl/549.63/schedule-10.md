@@ -1,4 +1,5 @@
 ## SCHEDULE 10
+## * This refers to the classification of waste based on the European List of Waste - Commission Decision 2000/532/EC and Schedule 3 of these Regulations.
 # schedule-10
 (Regulation 6)
 INFORMATION TO BE SUBMITTED ON
@@ -24,4 +25,3 @@ The information to be contained in a statement of conformity is:
 - details on whether the placement on the market for the first time after the material has ceased to be waste is in conformity with the relevant national, EU or international chemical and product related legislation;
 - quantity, in kilogram, of the material that is placed on the market for the first time after it has ceased to be waste;
 - the HS Code of the material if it is to be exported for use in another Member State or third country.
-- Amended by: L.N. 441 of 2011.

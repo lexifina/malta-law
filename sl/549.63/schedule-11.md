@@ -12,4 +12,3 @@ The Waste Management Fund shall include:
 (i) S.L. 549.43 - Waste Management (Packaging and Packaging Waste)
 (ii) S.L. 549.89 - Waste Management (Electrical and Electronic Equipment) Regulations
 (iii) S.L. 549.54 - Waste Management (Waste Batteries and Accumulators) Regulations
-- Added by: L.N.164 of 2017.

@@ -1,5 +1,4 @@
 ## SCHEDULE 5
-## *OJ L 226, 6.9.2000, p. 3
 # schedule-5
 WASTE PREVENTION PROGRAMMES AND
 WASTE MANAGEMENT PLANS
@@ -42,8 +41,7 @@ Policies in relation to bio-waste
 (a) encourage the recycling, including composting and digestion, of bio-waste in a way that fulfils a high level of environment protection and results in output which meets relevant high-quality standards;
 (b) encourage home composting;
 (c) promote the use of materials produced from bio-waste.
-Policies in relation to re-use
-10. Measures, as appropriate, to promote the re-use of products and preparing for re-use activities, in particular:
+Policies in relation to re-use 10. Measures, as appropriate, to promote the re-use of products and preparing for re-use activities, in particular:
 (a) measures to encourage the establishment and support of re-use and repair networks,
 (b) the use of economic instruments,
 (c) the use of procurement criteria,
@@ -68,3 +66,4 @@ the general public or at a specific set of consumers;
 (d) historical contaminated waste disposal sites and measures for their rehabilitation.
 Policies in relation to waste oils
 15. Measures, as appropriate, and in accordance with paragraph 3 of this schedule, to encourage the regeneration of waste oils where technically feasible.
+- Amended by: L.N. 441 of 2011; L.N. 6 of 2014.

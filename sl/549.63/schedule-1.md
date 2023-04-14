@@ -1,5 +1,4 @@
 ## SCHEDULE 1
-## *This operation is prohibited by EU legislation and international conventions. †If there is no other D code appropriate, this can include preliminary operations prior to disposal including pre-processing such as, inter alia, sorting, crushing, compacting, pelletising, drying, shredding, conditioning or separating prior to submission to any of the operations numbered D1 to D12. ‡Temporary storage means preliminary storage according to regulation 4.
 # schedule-1
 DISPOSAL OPERATIONS
 D 1 Deposit into or on to land (e.g. landfill, etc.)

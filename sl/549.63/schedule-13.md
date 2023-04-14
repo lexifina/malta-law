@@ -11,4 +11,3 @@ The implementation plan to be submitted pursuant to sub-regulation (3) of regula
 5. A timetable for the implementation of the measures identified in item 4, determination of the body competent for their implementation and an assessment of their individual contribution to attaining the targets applicable in the event of a time extension.
 6. Information on funding for waste management in line with the polluter-pays principle.
 7. Measures to improve data quality, as appropriate, with a view to better planning and monitoring performance in waste management.
-- Added by: L.N.451 of 2021.
