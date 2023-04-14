@@ -247,7 +247,7 @@ Other DNA extraction methods (e.g. Qiagen DNeasy Plant Kit) could be applied pro
 6.3. Analysis of the PCR product
 6.3.1. Resolve PCR amplicons by agarose gel electrophoresis. Run at least 12 µl of amplified DNA reaction mixture from each sample mixed with 3 µl loading buffer (Appendix 6) in 2,0% (w/v) agarose gels in tris-acetate-EDTA (TAE) buffer (Appendix 6) at 5 to 8 V per cm. Use an appropriate DNA marker, e.g. 100 bp ladder.
 6.3.2. Reveal DNA bands by staining in ethidium bromide (0,5 mg per L) for 30 to 45 min taking appropriate precautions for handling this mutagen.
-Observe stained gel under short wave UV transillumination (e.g. λ = 302 6.3.3. nm) for amplified PCR products of the expected size (Appendix 6) and document.
+Observe stained gel under short wave UV transillumination (e.g.  = 302 6.3.3. nm) for amplified PCR products of the expected size (Appendix 6) and document.
 6.3.4. For all new findings/cases verify authenticity of the PCR amplicon by performing restriction enzyme analysis on a sample of the remaining amplified DNA by incubating at the optimum temperature and time with an appropriate enzyme and buffer (see Appendix 6). Resolve the digested fragments by agarose gel electrophoresis as before and observe characteristic restriction fragment pattern under UV transillumination after ethidium bromide staining and compare with the undigested and digested positive control.
 Interpretation of the PCR test result:
 The PCR test is negative if the C. m. subsp. sepedonicus-specific PCR amplicon of expected size is not detected for the sample in question but is detected for all positive control samples (in case of multiplex PCR with plant specific internal control primers: a second PCR-product of expected size must be amplified with the sample in question).
@@ -424,7 +424,7 @@ Determination of contamination level in IF and FISH tests
 C = c × S/s
 Where S = surface area of window of multispot slide, and
 s = surface area of objective field.
-s = πi2/4G2K2 where i = field coefficient (varies from 8 to 24 depending
+s = i2/4G2K2 where i = field coefficient (varies from 8 to 24 depending
 upon ocular type)
 K = tube coefficient (1 or 1,25)
 G = magnification of objective (100x, 40x etc.).
