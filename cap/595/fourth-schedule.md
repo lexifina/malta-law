@@ -54,6 +54,9 @@ legacy of the Valletta 2018 Foundation Victim Support Agency To exercise and exe
 and duties relating to victim support in liaison with other pertinent Agencies and Government Departments. International Protection To receive, process and determine Agency applications for international protection
 as well as ensuring an independent, fair and efficient asylum determination
 procedure
+Detention Services To be responsible for the confinement Agency of third country nationals who entered
+Malta irregularly or are irregularly present in Malta, and who have been issued with an order prescribing their
+detention
 Project Green To implement and execute
 environmental projects and projects which provide for the embellishment and creation of green spaces
-- Amended by: XXVIII. 2018.42; L.N.121 of 2019; L.N. 192 of 2019; L.N. 197 of 2019; L.N. 2 of 2020; L.N. 194 of 2020; L.N. 344 of 2020; L.N. 418 of 2020; L.N. 436 of 2020; L.N. 445 of 2020; L.N. 453 of 2020; L.N. 7 of 2021; L.N. 124 of 2021; L.N. 399 of 2021; L.N. 412 of 2021; L.N. 254 of 2022; L.N. 367 of 2022.
+- Amended by: XXVIII. 2018.42; L.N.121 of 2019; L.N. 192 of 2019; L.N. 197 of 2019; L.N. 2 of 2020; L.N. 194 of 2020; L.N. 344 of 2020; L.N. 418 of 2020; L.N. 436 of 2020; L.N. 445 of 2020; L.N. 453 of 2020; L.N. 7 of 2021; L.N. 124 of 2021; L.N. 399 of 2021; L.N. 412 of 2021; L.N. 254 of 2022; L.N. 367 of 2022; L.N. 31 of 2023.
