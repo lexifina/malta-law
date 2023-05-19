@@ -12,10 +12,10 @@ to make the best possible use of it:
 curves relating to torque, power, and specific consumption of an engine, area of optimum use of revolution counter, gearbox-ratio cover diagrams.
 1.2. Objective: to know the technical characteristics and operation of the safety
 controls in order to control the vehicle, minimise wear and tear, and prevent disfunctioning:
-limits to the use of brakes and retarder, combined use of brakes and retarder, making better use of speed and gear ratio, making use of vehicle inertia, using ways of slowing down and braking on downhill stretches, action in the event of failure, use of electronic and mechanical devices such as Electronic Stability Program (ESP), Advanced Emergency Braking Systems (AEBS), Anti-Lock Braking System (ABS), traction control systems (TCS) and in vehicle monitoring systems (IVMS) and other, approved for use, driver assistance or automation devices.
+limits to the use of brakes and retarder, combined use of brakes and retarder, making better use of speed and gear ratio, making use of vehicle inertia, using ways of slowing down and braking on downhill stretches, action in the event of failure, use of electronic and mechanical devices such as Electronic Stability
+Program (ESP), Advanced Emergency Braking Systems (AEBS), Anti-Lock Braking System (ABS), traction control systems (TCS) and in vehicle monitoring systems (IVMS) and other, approved for use, driver assistance or automation devices.
 1.3. Objective: ability to optimise fuel consumption:
-optimisation of fuel consumption by applying know-how as regards points 1.1 and 1.2, importance of anticipating traffic flow, appropriate distance to other vehicles and use of the vehicle's momentum, steady speed, smooth driving style and appropriate tyre pressure, and familiarity with intelligent transport systems that
-improve driving efficiency and assist in route planning.
+optimisation of fuel consumption by applying know-how as regards points 1.1 and 1.2, importance of anticipating traffic flow, appropriate distance to other vehicles and use of the vehicle's momentum, steady speed, smooth driving style and appropriate tyre pressure, and familiarity with intelligent transport systems that improve driving efficiency and assist in route planning.
 1.3a. Objective: ability to anticipate, assess and adapt to risks in traffic:
 to be aware of and adapt to different road, traffic and weather conditions, anticipate forthcoming events; to understand how to prepare and plan a journey during abnormal weather conditions; to be familiar with the use of related safety equipment and to understand when a journey has to be postponed or cancelled due to extreme weather conditions; to adapt to the risks of traffic, including dangerous behaviour in traffic or distracted driving (through the use of electronic devices, eating, drinking, etc.); to recognise and adapt to dangerous situations and to be able to cope with stress deriving therefrom, in particular related to size and weight of the vehicles and vulnerable road users, such as pedestrians, cyclists and powered two wheelers;
 to identify possible hazardous situations and properly interpret how these potentially hazardous situations may turn into situations where crashes can no longer be averted and selecting and implementing actions that increase the safety margins to such an extent that a crash can still be averted in case the potential hazards should occur.
@@ -44,12 +44,12 @@ carriage of specific groups of passengers, safety equipment on board buses, safe
 3. Health, road and environmental safety, service, logistics
 All licences
 3.1. Objective: to make drivers aware of the risks of the road and of accidents at
-work:
-types of accidents at work in the transport sector, road accident statistics, involvement of lorries/coaches, human, material and financial consequences.
+work: types of accidents at work in the transport sector, road accident statistics, involvement of lorries/coaches, human, material and financial consequences.
 3.2. Objective: ability to prevent criminality and trafficking in illegal
 immigrants:
 general information, implications for drivers, preventive measures, check list, legislation on transport operator liability.
-3.3. Objective: ability to prevent physical risks: ergonomic principles; movements and postures which pose a risk, physical fitness, handling exercises, personal protection.
+3.3. Objective: ability to prevent physical risks:
+ergonomic principles; movements and postures which pose a risk, physical fitness, handling exercises, personal protection.
 3.4. Objective: awareness of the importance of physical and mental ability:
 principles of healthy, balanced eating, effects of alcohol, drugs or any other substance likely to affect behaviour, symptoms, causes, effects of fatigue and stress, fundamental role of the basic work/rest cycle.
 3.5 Objective: ability to assess emergency situations:
@@ -81,8 +81,7 @@ and 3.5.
 The minimum duration of this test must be 30 minutes.
 The vehicle used for the practical test must meet at least the requirements for test vehicles as defined in the Third Schedule.
 The practical test may be supplemented by a third test taking place on special terrain or on a top-of-the-range simulator so as to assess training in rational driving based on safety regulations, in particular with regard to vehicle handling in different road conditions and the way they change with different atmospheric conditions and the time of day or night.
-The duration of this optional test is not fixed. Should the driver undergo such a test, its duration may be deducted from the 90 minutes of the driving test referred to under (i), but the time deducted may not exceed 30 minutes.
-For new drivers, the theoretical test must be limited to the subjects, referred to in section 1, which are relevant to the vehicles to which the new initial qualification applies. However, such drivers must undergo the whole practical test.
+The duration of this optional test is not fixed. Should the driver undergo such a test, its duration may be deducted from the 90 minutes of the driving test referred to under (i), but the time deducted may not exceed 30 minutes. For new drivers, the theoretical test must be limited to the subjects, referred to in section 1, which are relevant to the vehicles to which the new initial qualification applies. However, such drivers must undergo the whole practical test.
 Section 3: Compulsory periodic training
 Compulsory periodic training courses must be organised by an approved training centre. Their duration must be of 35 hours every five years, given in periods of at least seven hours, which may be split over two consecutive days. Whenever e-learning is used, the approved training centre shall ensure that the proper quality of the training is maintained, including by selecting the subjects where ICT tools can most effectively be deployed. In particular, the Authority shall require reliable user identification and appropriate means of control. The maximum duration of the e-learning training shall not exceed 12 hours. At least one of the training course periods shall cover a road safety subject. The content of the training shall take into account training needs specific to the transport operations carried out by the driver and relevant legal and technological developments and should, as far as possible, take into account specific training needs of the driver. A range of different subjects should be covered over the 35 hours, including repeat training where it is shown that the driver needs specific remedial training.
 Section 4: Approval of the initial qualification and periodic training
@@ -105,3 +104,6 @@ training courses of the approved centres, and must be entitled to monitor such c
 are no longer complied with.
 The approved centre must guarantee that the instructors have a sound knowledge of the most recent regulations and training requirements. As part of a specific selection procedure, the instructors must provide certification showing a knowledge of both the subject material and teaching methods. As regards the practical part of the training, instructors must provide certification of experience as professional drivers or similar driving experience, such as that of driving instructors for heavy vehicles.
 The programme of instruction must be in accordance with the approval and must cover the subjects in the list in section 1.
+- Added by: L.N. 25 of 2007.
+- Amended by: L.N. 172 of 2011.
+- Substituted by: L.N. 193 of 2020.
