@@ -13,3 +13,4 @@ Nature of test and provision of a motor car
 (d) his ability to inspire confidence.
 (5) Where the test is to be conducted in a motor car, the person shall provide a motor car which is a passenger vehicle and which is suitable for such a test.
 (6) The instructor may also be required to undergo a medical test as to his fitness to work as an instructor.
+- Amended by: L.N. 25 of 2007; L.N. 172 of 2011.

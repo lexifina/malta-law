@@ -49,8 +49,7 @@ arrhythmias) with structural heart disease and sustained ventricular tachycardia
 (iv) defibrillator implantation or replacement or appropriate or
 inappropriate defibrillator shock;
 (v) syncope (a transient loss of consciousness and postural tone,
-characterised by rapid onset, short duration, and spontaneous recovery, due to global cerebral hypoperfusion, of presumed reflex origin, of unknown
-cause, with no evidence of underlying heart disease);
+characterised by rapid onset, short duration, and spontaneous recovery, due to global cerebral hypoperfusion, of presumed reflex origin, of unknown cause, with no evidence of underlying heart disease);
 (vi) acute coronary syndrome;
 (vii) stable angina if symptoms do not occur with mild exercise;
 (viii) percutaneous coronary intervention (PCI);
@@ -109,8 +108,7 @@ aneurysm when maximum aortic diameter is such that it predisposes to a significa
 (iii) heart failure: NYHA III and IV;
 (iv) cardiac assist devices;
 (v) valvular heart disease in NYHA III or IV or with ejection
-fraction (EF) below 35%, mitral stenosis and severe pulmonary hypertension or with severe echocardiographic aortic stenosis or aortic stenosis causing syncope; except for completely asymptomatic severe
-aortic stenosis if the exercise tolerance test requirements are fulfilled;
+fraction (EF) below 35%, mitral stenosis and severe pulmonary hypertension or with severe echocardiographic aortic stenosis or aortic stenosis causing syncope; except for completely asymptomatic severe aortic stenosis if the exercise tolerance test requirements are fulfilled;
 (vi) structural and electrical cardiomyopathies - hypertrophic
 cardiomyopathy with history of syncope or when two or more of the following conditions present: left ventricle (LV) wall thickness > 3 cm, non-sustained ventricular tachycardia, a family history of sudden death (in a first degree relative), no increase of blood pressure with exercise;
 (vii) long QT syndrome with syncope, Torsade des Pointes and
@@ -128,18 +126,19 @@ Diabetes Mellitus
 6. In the following paragraphs, a severe hypoglycaemia means that the assistance of another person is needed and a recurrent hypoglycaemia is defined as a second severe hypoglycaemia during a period of 12 months.
 Group 1:
 (i) Driving licences may be issued to, or renewed for, applicants or drivers who have diabetes mellitus. When treated with medication, they shall be subject to authorised medical opinion and regular medical review, appropriate to each case, but the interval shall not exceed five years.
-(ii) An applicant or driver with diabetes treated with medication which carries a risk of inducing hypoglycaemia shall demonstrate an understanding of the risk of hypoglycaemia and adequate control of the condition. Driving licences shall not be issued to, or renewed for, applicants or drivers who have inadequate awareness of hypoglycaemia. Driving licences shall not be issued to, or renewed for, applicants or drivers who have recurrent severe hypoglycaemia, unless supported by competent medical opinion and regular medical assessment. For recurrent severe hypoglycaemias during waking hours a licence shall not be issued or renewed until 3 months after
-the most recent episode. Driving licences may be issued or renewed in exceptional cases, provided that it is duly justified by competent medical opinion and subject to regular medical assessment, ensuring that the person is still capable of driving the vehicle safely taking into account the effects of the medical condition.
+(ii) An applicant or driver with diabetes treated with medication which carries a risk of inducing hypoglycaemia shall demonstrate an understanding of the risk of hypoglycaemia and adequate control of the condition. Driving licences shall not be issued to, or renewed for, applicants or drivers who have inadequate awareness of hypoglycaemia. Driving licences shall not be issued to, or renewed for, applicants or drivers who have recurrent severe hypoglycaemia, unless supported by competent medical opinion and regular medical assessment. For recurrent severe hypoglycaemias during waking hours a licence shall not be issued or renewed until 3 months after the most recent episode. Driving licences may be issued or renewed in exceptional cases, provided that it is duly justified by competent medical opinion and subject to regular medical assessment, ensuring that the person is still capable of driving the vehicle safely taking into account the effects of the medical condition.
 Group 2:
 (iii) Consideration may be given to the issuing/renewal of Group 2 licences to drivers with diabetes mellitus. When treated with medication which carries a risk of inducing hypoglycaemia (that is, with insulin, and some tablets), the following criteria shall apply:
 - no severe hypoglycaemic events have occurred in the previous 12
 months,
-- the driver has full hypoglycaemic awareness, - the driver must show adequate control of the condition by regular
+- the driver has full hypoglycaemic awareness,
+- the driver must show adequate control of the condition by regular
 blood glucose monitoring, at least twice daily and at times relevant to driving,
 - the driver must demonstrate an understanding of the risks of
 hypoglycaemia,
 - there are no other debarring complications of diabetes.
-Moreover, in these cases, such licences shall be issued subject to the opinion of a competent medical authority and to regular medical review, undertaken at intervals of not more than three years.
+Moreover, in these cases, such licences shall be issued subject to the opinion of a competent medical authority and to regular medical review,
+undertaken at intervals of not more than three years.
 (iv) A severe hypoglycaemic event during waking hours, even unrelated to driving, shall be reported and shall give rise to a reassessment of the licensing status.
 Neurological Diseases and obstructive sleep apnoea syndrome
 7. (a) Driving licences shall not be issued to, or renewed for, applicants or
@@ -149,8 +148,7 @@ Neurological disturbances associated with diseases or surgical intervention affe
 (b) Obstructive sleep apnoea syndrome - In the following paragraphs, a moderate obstructive sleep apnoea syndrome corresponds to a number of apnoeas and hypopnoeas per hour (Apnoea-Hypopnoea Index) between 15 and 29 and a severe obstructive sleep apnoea syndrome corresponds to an Apnoea-Hypopnoea Index of 30 or more, both associated with excessive daytime sleepiness.
 Applicants or drivers in whom a moderate or severe obstructive sleep apnoea syndrome is suspected shall be referred for further authorised medical advice before a driving licence is issued or renewed. They may
 be advised not to drive until confirmation of the diagnosis.
-Driving licences may be issued to applicants or drivers with moderate or severe obstructive sleep apnoea syndrome who show adequate control of their condition and compliance with appropriate treatment and
-improvement of sleepiness, if any, confirmed by authorised medical opinion.
+Driving licences may be issued to applicants or drivers with moderate or severe obstructive sleep apnoea syndrome who show adequate control of their condition and compliance with appropriate treatment and improvement of sleepiness, if any, confirmed by authorised medical opinion.
 Applicants or drivers with moderate or severe obstructive sleep apnoea syndrome under treatment shall be subject to a periodic medical review, at intervals not exceeding three years for drivers of group 1 and one year for drivers of group 2, with a view to establish the level of compliance with the treatment, the need for continuing the treatment and continued good vigilance.
 Epilepsy
 8. Epileptic seizures or other sudden disturbances of the state of consciousness constitute a serious danger to road safety if they occur in a person driving a power-driven vehicle.
@@ -162,12 +160,12 @@ Group 1:
 If the person has epilepsy, the criteria for an unconditional licence are not met. Notification shall be given to the licensing authority.
 (ii) Provoked epileptic seizure: the applicant who has had a provoked epileptic seizure because of a recognisable provoking factor that is unlikely to recur at the wheel can be declared able to drive on an individual basis, subject to neurological opinion (the assessment shall be, if appropriate, in accordance with other relevant sections of this
 Schedule, e.g. in the case of alcohol or other co-morbidity).
-(iii) First or single unprovoked seizure: the applicant who has had a first unprovoked epileptic seizure can be declared able to drive after a period of six months without seizures, if there has been an appropriate medical assessment. The Authority may allow drivers with recognised good prognostic indicators to drive sooner.
+(iii) First or single unprovoked seizure: the applicant who has had a first
+unprovoked epileptic seizure can be declared able to drive after a period of six months without seizures, if there has been an appropriate medical assessment. The Authority may allow drivers with recognised good prognostic indicators to drive sooner.
 (iv) Other loss of consciousness: the loss of consciousness shall be assessed according to the risk of recurrence while driving.
 (v) Epilepsy: drivers or applicants can be declared fit to drive after a one-year period free of further seizures.
 (vi) Seizures exclusively in sleep: the applicant or driver who has never had any seizures other than seizures during sleep can be declared fit to drive so long as this pattern has been established for a period which must not be less than the seizure-free period required for epilepsy. If there is an occurrence of attacks/seizure arising while awake, a one-year period free of further event before licensing is required [see paragraph (v)].
-(vii) Seizures without influence on consciousness or the ability to act: the
-applicant or driver who has never had any seizures other than seizures which have been demonstrated exclusively to affect neither consciousness nor cause any functional impairment can be declared fit to drive so long as this pattern has been established for a period which must not be less than the seizure-free period required for epilepsy. If there is an occurrence of any other kind of attacks/seizures a one-year period free of further event before licensing is required [see paragraph
+(vii) Seizures without influence on consciousness or the ability to act: the applicant or driver who has never had any seizures other than seizures which have been demonstrated exclusively to affect neither consciousness nor cause any functional impairment can be declared fit to drive so long as this pattern has been established for a period which must not be less than the seizure-free period required for epilepsy. If there is an occurrence of any other kind of attacks/seizures a one-year period free of further event before licensing is required [see paragraph
 (v)].
 (viii) Seizures because of a physician-directed change or reduction of anti-
 epileptic therapy: the patient may be advised not to drive from the commencement of the period of withdrawal and thereafter for a period of six months after cessation of treatment. Seizures occurring during physician-advised change or withdrawal of medication require three months off driving if the previously effective treatment is reinstated.
@@ -183,8 +181,7 @@ according to the risk of recurrence while driving. The risk of recurrence shall 
 (xiv) Epilepsy: 10 years freedom from further seizures shall have been
 achieved without the aid of anti-epileptic drugs. The Authority may allow drivers with recognised good prognostic indicators to drive
 sooner. This also applies in case of ''juvenile epilepsy''.
-Certain disorders (e.g. arterio-venous malformation or intra-cerebral haemorrhage) entail an increased risk of seizures, even if seizures have not yet occurred. In such a situation an assessment shall be carried out by a competent medical authority; the risk of having a seizure shall be
-2% per annum or less to allow licensing.
+Certain disorders (e.g. arterio-venous malformation or intra-cerebral haemorrhage) entail an increased risk of seizures, even if seizures have not yet occurred. In such a situation an assessment shall be carried out by a competent medical authority; the risk of having a seizure shall be 2% per annum or less to allow licensing.
 Mental Disorders
 9. (a) Group 1:
 Driving licences shall not be issued to, or renewed for, applicants or drivers who suffer from:
@@ -215,8 +212,7 @@ Renal Disorders
 13. (a) Group 1:
 Driving licences may be issued or renewed for applicants and drivers suffering from serious renal insufficiency subject to authorised medical opinion and regular medical check-ups.
 (b) Group 2:
-Save in exceptional cases duly justified by authorised medical opinion, and subject to regular medical check-ups, driving licences shall not be issued to or renewed for applicants or drivers
-suffering from serious and irreversible renal deficiency.
+Save in exceptional cases duly justified by authorised medical opinion, and subject to regular medical check-ups, driving licences shall not be issued to or renewed for applicants or drivers suffering from serious and irreversible renal deficiency.
 Miscellaneous Provisions
 14. (a) Group 1:
 Subject to authorised medical opinion and, if necessary, regular medical check-ups, driving licences may be issued to or renewed for applicants or drivers who have had an organ transplant or an
@@ -226,4 +222,3 @@ artificial implant which affects the ability to drive.
 vehicles covered by the definition of this group.
 (ii) As a general rule, where applicants or drivers suffer from any disorder which is not mentioned in the preceding paragraph but is liable to be, or to result in, a functional incapacity affecting safety at the wheel, driving licences shall not be issued or renewed unless the application is supported by authorised medical opinion
 and, if necessary, subject to regular medical check-ups.
-- Amended by: L.N. 25 of 2007; L.N. 426 of 2010; L.N. 172 of 2011; L.N. 234 of 2015; L.N. 16 of 2018; L.N.183 of 2020.

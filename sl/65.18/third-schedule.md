@@ -26,7 +26,3 @@ maximum authorised mass of at least 1,250 kg, a width of at least 2.40m and capa
 kg, with a length of at least 5m and capable of a speed of at least 80 km/h; fitted with anti-lock brakes and equipped with recording equipment as defined by Regulation (EEC) No 3821/85. D1E A combination made up of a category D1 test vehicle and a trailer with a
 maximum authorised mass of at least 1,250 kg and capable of a speed of at least 80 km/h; the cargo compartment of the trailer shall consist of a closed box body which is at least 2m wide and 2m high; the trailer shall be presented with a minimum of 800 kg real total mass. g Agricultural tractor as defined in regulation 2, and which is in a
 roadworthy condition, that is having clean lights, windows and mirrors.
-- Substituted by: L.N. 25 of 2007.
-- Amended by: L.N. 25 of 2009; L.N. 172 of 2011.
-- Substituted by: L.N. 149 of 2013; L.N. 14 of 2014.
-- Amended by: L.N. 234 of 2015; L.N. 56 of 2016; L.N. 449 of 2020.

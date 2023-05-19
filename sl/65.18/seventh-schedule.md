@@ -40,8 +40,7 @@ system) (for example: "20.07(300N)")
 25 Modified accelerator systems
 25.01 Adjusted accelerator pedal
 25.03 Tilted accelerator pedal
-25.04 Hand operated accelerator
-25.05 Knee operated accelerator
+25.04 Hand operated accelerator 25.05 Knee operated accelerator
 25.06 Accelerator operation supported by external force
 25.08 Accelerator pedal on the left
 25.09 Measure to prevent obstruction or actuation of accelerator
@@ -139,10 +138,8 @@ the case of a third country e.g. "71.987654321.HR");
 type (B1)
 78 Restricted to vehicles with automatic transmission
 79 (.............) Restricted to vehicles which comply with the
-specifications indicated in brackets, in the context of the
-application of Article 13 of Directive 2006/126/EC
-79.01 Restricted to two-wheel vehicles with or without a side-car
-79.02 Restricted to category AM vehicles of the three-wheel or light
+specifications indicated in brackets, in the context of the application of Article 13 of Directive 2006/126/EC
+79.01 Restricted to two-wheel vehicles with or without a side-car 79.02 Restricted to category AM vehicles of the three-wheel or light
 quadricycle type
 79.03 Restricted to tricycles
 79.04 Restricted to tricycles combined with a trailer having a
@@ -152,7 +149,8 @@ kW/kg
 79.06 Category BE vehicle where the maximum authorised mass of
 the trailer exceeds 3,500 kg
 80 Restricted to holders of a driving licence for a category A
-vehicle of the motor tricycle type not having reached the age of 24 years 81 Restricted to holders of a driving licence for a category A
+vehicle of the motor tricycle type not having reached the age of 24 years
+81 Restricted to holders of a driving licence for a category A
 vehicle of the two-wheel motorcycle type not having reached the age of 21 years
 95 Driver holding CPC meeting the obligation of professional
 aptitude provided for by Directive 2003/59/EC until ........ (for example "95(01.01.12)")
@@ -177,4 +175,3 @@ coach
 111 The holder of a category B driving licence is authorised to
 drive a motorcycle or tricycle covered by category A1, on roads in Malta only
 333 Probationary driving licence for first time licensees only
-- Amended by: L.N. 25 of 2007; L.N. 25 of 2009; XV. 2009.49; L.N. 172 of 2011; L.N. 14 of 2014; L.N. 56 of 2016.
