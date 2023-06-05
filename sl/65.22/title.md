@@ -3,4 +3,4 @@ SUBSIDIARY LEGISLATION 65.22
 MOTOR VEHICLES (CARRIAGE OF DANGEROUS GOODS
 BY ROAD) REGULATIONS
 1st May, 2004
-LEGAL NOTICE 211 of 2003, as amended by Legal Notices 349 of 2005, 216 of 2007 and 212 of 2009; Act XV of 2009; and Legal Notices 226 of 2011, 181 of 2013, 193 of 2017 and 360 of 2018 and 38 of 2019 and 200 of 2021.
+LEGAL NOTICE 211 of 2003, as amended by Legal Notices 349 of 2005, 216 of 2007 and 212 of 2009; Act XV of 2009; and Legal Notices 226 of 2011, 181 of 2013, 193 of 2017 and 360 of 2018 and 38 of 2019 and 200 of 2021 and 116 of 2023.
