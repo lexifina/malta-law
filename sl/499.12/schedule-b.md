@@ -1,19 +1,4 @@
 ## SCHEDULE B
-## 1. Rank & Name of person who measured the contents of the Bunker tanks:
-## 2. The Measurement was:
-## How much Bunker oil is to be transhipped: Fuel
-## The agreed pumping rate is
-## 5. What are the means of communication between the ships? ..................................................................
-## 6. Who is responsible for communication with the bunker vessel?
-## 7. How often are the contents of the bunker tanks measured: every ....................... minutes.
-## 8. Who is responsible for the measurements referred to in question 7?
-## 9. Who is in charge of supervising and of taking immediate action in the event of a malfunction?
-## Signed
-## Place: ....................................................... Date: .........................................................
-## Signature: ..................................................................................
-## Rank & Name:
-## REMARKS
-## * Delete as appropriate
 # schedule-b
 SHIP/SHORE SAFETY CHECK LIST
 Ship's name ..........................................................................................................
@@ -172,15 +157,6 @@ While the Check List is based upon cargo handling operations it is required that
 Deviations
 The conditions under which the operation takes place may change during the process. The changes may be such that safety or pollution prevention can no longer be regarded as guaranteed. The party noticing or causing the unsafe condition is under an obligation to take all necessary actions. which may include stopping the operation, to re-establish safe conditions. The presence of the unsafe condition shall be reported to the other party and where necessary co-operation with the other party shall be sought.
 [S.L.499.12 62 AND FACILITIES AND BUNKERING
-BUNKERING CHECKLIST FOR SHIPS RECEIVING BUNKERS
-(to be completed by the receiving ship in addition to the relevant sections in the
-"Ship to Ship Transfer" or "Ship/Shore Safety" Checklist, as appropriate)
-Name of Ship Name of Captain Berth or Area Name of Bunker Barge Date of Transfer
-[S.L.499.12 AND FACILITIES AND BUNKERING 63
-SHIP TO SHIP BUNKER TRANSFER CHECKLIST
-(To be completed before any Bunker transfer is conducted)
-Name of Bunker Barge Berth or Area Name of Receiving Ship Date of Transfer
-[S.L.499.12 64 AND FACILITIES AND BUNKERING
 EXAMPLE OF CHECK LIST FOR MARINE LOADING ARMS
 No. Operation Yes No Remarks I. PRE-ARRIVAL CHECKS TO CONFIRM MANIFOLD CONNECTION CRITERIA 1. Is the flange face vertical and parallel with the ship's side. 2. Is the manifold flange setback from the rail within the design limits of m, min. to m, max. 3. Is the manifold O and length consistent with the following: O Material Permissible
 Cantilever Length
@@ -188,12 +164,12 @@ Including Spools
 4. Is the flange size type and I.D. (consider also pipe I.D.) compatible with the arms O/B flange or coupler: Flange Flange Flange Flange I.D. Pipe Type Size Press
 Rating 5. For coupler equipped arms, is the clearance behind the manifold flange . (Consider the greater rearward clearance is needed when connecting to reducers.) 6. Are the vessel's manifold spacings consistent with the following criteria: Check case Arms connected Spacing between which governs simultaneously manifolds to for pending which arms will vessel be connected
 Min. Max. 7. Is the height of the manifold centerline within the following limits: Minimum: Maximum: 8. Will the manifolds remain within the design envelope: *Upper elevation of envelope: *Lower elevation of envelope: Note: It is necessary that the vessel also comply with the min/max. manifold spacings given in 2 and 6 and the vessel motion be limited to the following: Surge (movement along pier) + Drift (movement off pier) *Must be reduced if spotting of active manifolds is not in accordance with the design basis, which usually is centered on the active arm(s). 9. Is the manifold support able to sustain uplift as well as downward loads. 10. Are there any obstructions directly below or in front of the manifolds which would interfere with engagement of the coupler or placement of the jack. No. Operation Yes No Remarks II. CHECKS TO BE CARRIED OUT DURING CARGO HANDLING 1. Is the vessel moored correctly with respect to the arm(s) centerline. Permissible mooring offset = + and -
-[S.L.499.12 AND FACILITIES AND BUNKERING 65
+[S.L.499.12 AND FACILITIES AND BUNKERING 63
 2. Is the wind speed within design limits = km/ hour (gust). 3. Are the supplementary and/or primary jacks in place and properly adjusted. 4. Are the swivel nitrogen purge pressures and flow rates being maintained (LNG arms). 5. Is the product flow rate within design limits =
 m3/HR. 6. Are the fluid swivels and coupler connectors free of leakage. 7. Is the ice build-up limited to within the design value =
 (LPG/LNG arms). 8. Are the arms remaining a safe distance apart and from deck/platform equipment ( at the counterweights and between other parts of the arm.) 9. Are the product temperature and pressure within design limits: Product Design Pressure
 Temp.°C kPa 10. Is the vessel movement being limited to the design conditions of: Surge = + Drift = 11. Is the arm free of vibration. 12. Is the ship's crew maintaining proper tension in the mooring lines. 13. Prior to disconnection - is any ice formation removed from the arm (LPG/LNG arms).
-[S.L.499.12 66 AND FACILITIES AND BUNKERING
+[S.L.499.12 64 AND FACILITIES AND BUNKERING
 SPECIMEN LETTER FOR ISSUE TO MASTERS
 OF TANKERS AT TERMINALS
 Company .................................. Terminal ..................................
@@ -217,7 +193,7 @@ Terminal Representative on duty is ............................. Position or Tit
 Signed: ........................................
 Master
 SS/MV: ....................................... Date: ................ Time: ................
-[S.L.499.12 AND FACILITIES AND BUNKERING 67
+[S.L.499.12 AND FACILITIES AND BUNKERING 65
 FIRE NOTICE
 FIRE INSTRUCTIONS IN CASE OF FIRE
 DO NOT HESITATE RAISE THE ALARM
@@ -251,6 +227,6 @@ Fire Ashore
 - Fight fire and prevent fire spreading
 - If required stand by to disconnect hoses or arms
 - Inform all ships and the Authority
-[S.L.499.12 68 AND FACILITIES AND BUNKERING
+[S.L.499.12 66 AND FACILITIES AND BUNKERING
 - Implement terminal emergency plan
 IN THE CASE OF FIRE THE TERMINAL PERSONNEL WILL DIRECT THE MOVEMENT OF VEHICULAR TRAFFIC ASHORE

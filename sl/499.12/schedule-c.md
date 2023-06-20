@@ -29,7 +29,7 @@ hydrocarbon vapours? Yes/No
 ................................................................................................................
 In the circumstances noted it is considered safe to proceed with this work.
 Signed ....................................................................... Master/Responsible Officer
-[S.L.499.12 AND FACILITIES AND BUNKERING 69
+[S.L.499.12 AND FACILITIES AND BUNKERING 67
 ................................................................... Person in charge of work team
 Section 3
 The work has been completed and all persons under my supervision, materials and equipment have been withdrawn.
@@ -51,7 +51,7 @@ Grinding
 Sand or grit blasting
 Metal chipping
 Tests for combustible gas should be carried out immediately before commencement of hot work and at frequent intervals as long as the work is in progress.
-[S.L.499.12 70 AND FACILITIES AND BUNKERING
+[S.L.499.12 68 AND FACILITIES AND BUNKERING
 COLD WORK PERMIT
 Relating to any work which will not involve generation of temperature conditions likely to be of sufficient intensity to cause ignition of combustible gases, vapours or liquids in or adjacent to the area involved.
 General
@@ -86,7 +86,7 @@ Information and instructions to person carrying out work:
 2.3 Equipment expected to contain the following hazardous material when
 opened: ................................................................................................... ...............................................................................................................
 2.4 Special Conditions/Precautions ...............................................................
-[S.L.499.12 AND FACILITIES AND BUNKERING 71
+[S.L.499.12 AND FACILITIES AND BUNKERING 69
 ................................................................................................................
 In the circumstances noted it is considered safe to proceed with this work.
 Signed ....................................................................... Master/Responsible Officer
@@ -117,7 +117,7 @@ METHOD OF ISOLATION
 AUTHORISED BY
 TIME DATE
 SUPPLY ISOLATED) BY EIC RECEIVED BY
-[S.L.499.12 72 AND FACILITIES AND BUNKERING
+[S.L.499.12 70 AND FACILITIES AND BUNKERING
 WORK COMPLETED BY
 WORK CLEARED BY
 SUPPLY RECONNECTION AUTHORISED BY
