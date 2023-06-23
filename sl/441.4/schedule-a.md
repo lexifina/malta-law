@@ -3,7 +3,8 @@
 (Regulation 5(5))
 General conditions that shall apply for every licence, permit or authorisation
 to be issued from the Local Council
-1. For a licence, permit or authorisation to be issued from the Local Council to any person, an application shall be submitted to the Local Council where the activity is to be held, on the prescribed form and this form shall reach the Local Council at least forty-eight hours prior to the activity, during office hours and office days.
+1. For a licence, permit or authorisation to be issued from the Local Council to any person, an application shall be submitted to the Local Council where the activity is to be held, on the prescribed form and this form shall reach the Local Council at least forty-eight hours prior to the activity, during office hours and office days:
+Provided that a licence, permit or authorisation may be issued by the Local Council even if an application reaches the Local Council in less than forty-eight (48) hours prior to the activity, against the fees established in Schedule B to the principal regulations.
 2. The applicant shall pay the fees due as stipulated in Schedule B.
 3. If the application is not granted, the fees paid shall be refunded to applicant:
 Provided that the fee shall not be refunded if applicant cancels the application or if the application is revoked by the Local Council or any other authority due to a breach of any of the conditions.
