@@ -1,6 +1,7 @@
 ## THIRD SCHEDULE
 ## Transitory provi- sions.
 ## Definitions.
+## * see also transitory provisions reproduced immediately after this Schedule.
 ## Existing private rights.
 ## Presumptions.
 ## Things in the pub- lic domain.

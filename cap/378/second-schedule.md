@@ -8,7 +8,8 @@ Infringements under article 51F
 Provided that the Civil Court may, in establishing the penalty, take into account circumstances that may lead to an increase or decrease in the basic amount:
 Provided further that the Civil Court shall do so on the basis of an overall assessment which takes into account all the relevant circumstances.
 3. The Civil Court may impose a higher penalty than the basic amount where there are aggravating circumstances, having regard to the gravity and duration of the infringement and, or the amount of gains improperly made as a result of the infringement.
-4. Without prejudice to the generality of rule 3, the following shall in all cases be deemed as aggravating circumstances: - where the infringement is an unfair commercial practice listed in
+4. Without prejudice to the generality of rule 3, the following shall in all cases be deemed as aggravating circumstances:
+- where the infringement is an unfair commercial practice listed in
 the First Schedule, the basic amount shall be increased by a sum not less than one thousand seven hundred and fifty euro (€1,750) and not more than four thousand six hundred and fifty euro (€4,650);
 - in the case of a second or subsequent infringement, the basic
 amount shall be increased by two thousand three hundred and fifty euro (€2,350) for each and every subsequent infringement;
@@ -33,7 +34,3 @@ Provided that in the case of non-compliance with the decree of the Civil Court o
 Infringements under article 12G
 9. For the infringement referred to in article 12G, the amount of the penalty shall not be less than four thousand six hundred and fifty euro (€4,650) and not more than twenty-three thousand three hundred euro (€23,300):
 Provided that in the case of non-compliance with a compliance order, the Civil Court shall also impose a daily penalty of not less than one hundred and twenty euro (€120) and of not more than two hundred and thirty euro (€230) for each day of non-compliance.
-- Added by: II. 2008.56.
-- Amended by: VI. 2011.75, 119; VI. 2014.11.
-- Substituted by: XVI.2019.28.
-- Amended by: XLIV.2021.18.

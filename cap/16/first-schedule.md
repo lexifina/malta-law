@@ -1,4 +1,5 @@
 ## FIRST SCHEDULE
+## Added: XXXI.1965.23.
 ## Added: L.N. 339 of 2019.
 # first-schedule
 PART I
@@ -203,19 +204,36 @@ parties in the civil union;
 - Amended by: XXI.1993.7.
 - Substituted by: XXIII.2017.90; L.N. 339 of 2019; LXV.2020.29.
 - Substituted by: L.N. 339 of 2019; LXV.2020.29.
+- Added by: IX. 2014.14.
+- Substituted by: L.N. 339 of 2019; LXV.2020.29.
 - Substituted by: L.N. 339 of 2019.
+- Substituted by: L.N. 339 of 2019.
+- Amended by: XXVII.2020.40.
 - Added by: Ord XXI.1962.19.
 - Substituted by: XXIII.2017.90; L.N. 339 of 2019; LXV.2020.29.
+- Substituted by: XXI.1993.85.
+- Substituted by: XXIII.2017.90; L.N. 339 of 2019; LXV.2020.29.
 - Substituted by: LXV.2020.29.
+- Added by: XXXI.1965.23.
+- Substituted by: XXI.1993.85; L.N. 339 of 2019; LXV.2020.29.
 - Substituted by: XXIII.2017.90; L.N. 339 of 2019.
-- Added by: XXV.2014.5.
-- Substituted by: L.N. 339 of 2019; LXV.2020.29.
 - Added by: L.N. 339 of 2019.
 - Substituted by: LXV.2020.29.
+- Added by: XXV.2014.5.
+- Substituted by: L.N. 339 of 2019; LXV.2020.29.
+- Added by: XXXI.1965.23.
+- Amended by: XXI.1993.85.
+- Substituted by: XXIII.2017.90; L.N. 339 of 2019.
+- Added by: L.N. 339 of 2019.
+- Substituted by: LXV.2020.29.
+- Added by: XXXI.1965.23.
+- Added by: XXXI.1965.23.
 - Added by: XXXI. 1965.23.
 - Substituted by: L.N. 339 of 2019.
 - Added by: L.N. 339 of 2019.
+- Added by: L.N. 339 of 2019.
 - Amended by: XXVII.2020.41.
+- Added by: L.N. 38 of 2021.
 - Added by: XXXI.1965.23.
 - Substituted by: L.N. 339 of 2019.
 - Added by: LXV.2020.29.
