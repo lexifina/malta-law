@@ -1,4 +1,5 @@
 ## SECOND SCHEDULE
+## Department
 ## Department of Active Ageing and Community Care
 ## Cabinet Office
 ## Economic Policy Department
@@ -13,7 +14,7 @@
 ## Department for Policy in Health
 ## Department of Probation and Parole
 ## Rural Development Department
-## department
+## Function of the department
 ## Office of the President
 ## Office of the Public Service Commission
 # second-schedule

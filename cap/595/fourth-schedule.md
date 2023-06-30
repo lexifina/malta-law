@@ -32,13 +32,13 @@ process of application for citizenship for exceptional services in terms of the 
 citizenship
 Malta Council for To support the Government in the Science and Technology commercialisation of activities Agency relating to science, technology,
 research and innovation matters Malta Food Agency To deliver public services in relation
-to food from farming and fisheries Malta International To be responsible for strengthening and Contemporary Art Space ensuring the achievement of the highest Agency quality in contemporary art Management Efficiency To support public sector change Unit initiatives through the provision of
+to food from farming and fisheries Malta International To be responsible for strengthening and Contemporary Art Space ensuring the achievement of the highest Agency quality in contemporary art National Agency for the To promote performing arts, provide Performing Arts national platforms for performing arts in
+Malta and serve as the organizational and administrative framework for the Żfin Malta Unit, the Teatru Malta Unit and the Kor Malta Unit, nurture regular audiences and establish new ones, and cultivate a sense of artistic culture
+among the people
+Management Efficiency To support public sector change Unit initiatives through the provision of
 consultancy advice
 National Development To implement the functions of the and Social Fund Agency National Development and Social Fund
-established under the Individual Investor Programme of the Republic of Malta
-Regulations
-(S.L. 188.03)
-National Literacy To support the Government in matters Agency relating to literacy Public Administration - To achieve the retraining and re-skilling Human Resource needs of public employees Development Unit Registry of Companies To function as a public registry for Agency commercial partnerships and to execute
+established under the Individual Investor Programme of the Republic of Malta Regulations (S.L. 188.03) National Literacy To support the Government in matters Agency relating to literacy Public Administration - To achieve the retraining and re-skilling Human Resource needs of public employees Development Unit Registry of Companies To function as a public registry for Agency commercial partnerships and to execute
 those functions and duties relating to the registration of such commercial
 partnerships
 Residency Malta Agency To execute the functions and duties of
@@ -59,4 +59,4 @@ Malta irregularly or are irregularly present in Malta, and who have been issued 
 detention
 Project Green To implement and execute
 environmental projects and projects which provide for the embellishment and creation of green spaces
-- Amended by: XXVIII. 2018.42; L.N.121 of 2019; L.N. 192 of 2019; L.N. 197 of 2019; L.N. 2 of 2020; L.N. 194 of 2020; L.N. 344 of 2020; L.N. 418 of 2020; L.N. 436 of 2020; L.N. 445 of 2020; L.N. 453 of 2020; L.N. 7 of 2021; L.N. 124 of 2021; L.N. 399 of 2021; L.N. 412 of 2021; L.N. 254 of 2022; L.N. 367 of 2022; L.N. 31 of 2023.
+- Amended by: XXVIII. 2018.42; L.N.121 of 2019; L.N. 192 of 2019; L.N. 197 of 2019; L.N. 2 of 2020; L.N. 194 of 2020; L.N. 344 of 2020; L.N. 418 of 2020; L.N. 436 of 2020; L.N. 445 of 2020; L.N. 453 of 2020; L.N. 7 of 2021; L.N. 124 of 2021; L.N. 399 of 2021; L.N. 412 of 2021; L.N. 254 of 2022; L.N. 367 of 2022; L.N. 31 of 2023; L.N. 117 of 2023.
