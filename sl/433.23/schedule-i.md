@@ -1,4 +1,3 @@
-## [S.L.433.23 4 OF VEGETABLE SPECIES
 ## SCHEDULE I
 # schedule-i
 CPVO guidelines
