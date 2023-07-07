@@ -1,19 +1,19 @@
 ## FIFTH SCHEDULE
 # fifth-schedule
 (Regulation 41)
-REQUIREMENTS FOR REGISTRATION WITH
-THE COUNCIL FOR THE PROFESSIONS COMPLEMENTARY TO MEDICINE
+REQUIREMENTS FOR REGISTRATION WITH THE COUNCIL FOR THE PROFESSIONS COMPLEMENTARY TO MEDICINE
 1. Application form
-2. Original or authenticated copies of the following (English version):
-(a) Birth and marriage (if applicable) certificates;
-(b) Identification document - I.D. Card/Passport;
-(c) Recent Police conduct certificate;
-(d) Professional Document - Diploma/Degree;
-(e) Letters of reference in English version;
-(f) A detailed transcript of Theoretical and Practical Training and Studies in hours associated with the Profession and in relation with the profession syllabus performed by your Institution being the University/ College. This has to be endorsed in the original format by the Head/
-Registrar of your Institution being the University/College;
-(g) A recent (six months) verification certificate of current registration and
-good standing with the Council you are registered with;
-(h) Curriculum Vitae in English version.
-All correspondence and interview will be carried out in Maltese or English
+2. Identification document
+3. The following documentation (in English or Maltese, or certified translations in English or Maltese):
+(a) recent conduct certificate issued by the police;
+(b) documentation indicating the applicant's professional qualifications
+and, or the applicant's portfolio of academic record and practical training associated with the profession and in relation with the professional syllabus performed by the applicant's institution.
+(c) a certificate of good standing with the Council where the applicant
+is registered, or in the case where the profession is not regulated in a Member State and therefore such a certificate cannot be issued, a declaration on oath or a solemn declaration stating that the applicant is not registered with a Council in another Member State since the said profession is not regulated in such Member State. The said declaration shall be made by the applicant before a competent judicial or administrative authority or where appropriate, before a notary or a qualified professional body of the Member State in question, who shall issue a certificate attesting the authenticity of the declaration on oath or solemn declaration made by the applicant;
+(d) where the competent authorities of the home Member State or of the
+Member State from where the foreign national originates do not issue the documents referred to in paragraph (c), the said documents shall be substituted by a declaration on oath or in the case where States do not provide a declaration on oath, it shall be substituted by a solemn declaration made by the person concerned before a competent judicial or administrative authority or, where appropriate, before a notary or a qualified professional body of the home Member State or the Member State from where the person originates, who shall issue a certificate attesting the authenticity of the declaration on oath or solemn declaration;
+(e) appropriate proof of knowledge of the English or Maltese language;
+(f) the Council may invite the applicant to provide information
+concerning his training to the extent necessary in order to determine the existence of potential substantial differences with the required national training.
 [S.L.464.10 14 TO MEDICINE (STANDING ORDERS)
+All correspondence shall be received and interviews shall be carried out in the Maltese or English language.
