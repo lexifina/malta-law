@@ -1,5 +1,5 @@
 ## SECOND SCHEDULE
-## * Strike out words not applicable.
+## §Strike out words not applicable. * Strike out words not applicable.
 ## *Insert name and full postal address of importer. †Insert name and full postal address of exporter.
 ## Signature and stamp of Comptroller of Customs
 # second-schedule
@@ -76,7 +76,8 @@ This authorization is issued subject to the following conditions:
 7. The copy of the export authorization, if any, which accompanies the drugs, shall be forwarded to the Chief Government Medical Officer immediately the importation of the drugs has been effected.
 (Date) .............................
 ............................................ (Signature and stamp of the
-Chief Government Medical Officer.) SCHEDULE specifying the drugs and quantities thereof to be imported.
+Chief Government Medical Officer.)
+SCHEDULE specifying the drugs and quantities thereof to be imported.
 This authorization is not to leave the possession of the importer until it is surrendered to the Chief Government Medical Officer or to the Comptroller of Customs, who will complete the certificate on the back and return the authorization to the Chief Government Medical Officer.
 ENDORSEMENT BY COMPTROLLER OF CUSTOMS
 at the time of Importation
@@ -122,8 +123,7 @@ Number and date of import certificate
 (and authority by whom issued) by virtue of
 which this diversion is authorized ...............................
 Name of vessel on which the consignment
-is authorized to be carried from Malta ...............................
-Period within which the consignment is
+is authorized to be carried from Malta ............................... Period within which the consignment is
 to be carried from Malta ...............................
 This certificate is issued subject to the following conditions:
 (1) The duplicate copy of this certificate shall accompany the consignment to the place of destination, and for this purpose shall be delivered to the master of the vessel by which the consignment is despatched.

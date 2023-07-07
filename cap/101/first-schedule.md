@@ -50,12 +50,13 @@ DIPHENOXYLATE
 DIPIPANONE
 DROTEBANOL
 ECGONINE, its esters and derivatives which are convertible to ecgonine and cocaine
+ETAZENE, 2-[(4-ethoxyphenyl)methyl]-N,N-diethyl-1H-benzimidazole-1-ethanamine
 ETHYLMETHYLTHIAMBUTENE
 ETONITAZENE
+ETONITAZEPYNE, 2-[(4-ethoxyphenyl)methyl]-5-nitro-1-(2-pyrrolidin-1-ylethyl)-1H-benzoimidazole
 ETORPHINE
 ETOXERIDINE
-FENTANYL
-4-FLUOROISOBUTYRFENTANYL (4-FIBF, pFIBF), N-(4- Fluorophenyl)-2-methyl-N-[1-(2-phenylethyl)piperidin-4-yl]propanamide
+FENTANYL 4-FLUOROISOBUTYRFENTANYL (4-FIBF, pFIBF), N-(4- Fluorophenyl)-2-methyl-N-[1-(2-phenylethyl)piperidin-4-yl]propanamide
 FURANYLFENTANYL, N-phenyl-N-[1-(2-phenylethyl)piperidin-4-yl]furan-2-carboxamide
 FURETHIDINE
 HEROIN
@@ -75,6 +76,7 @@ METAZOCINE
 METHADONE
 METHADONE - INTERMEDIATE
 METHOXYACETYLFENTANYL, 2-methoxy-N-phenyl-N-[1-(2-phenylethyl)piperidin-4-yl]acetamide
+2-methyl-AP-237, 1-{2-methyl-4-[(2E)-3-phenylprop-2-en-1-yl]piperazin-1-yl}butan-1-one
 METHYLDESORPHINE
 METHYLDIHYDROMORPHINE
 METHYLFENTANYL (CIS and TRANS ISOMERS)
@@ -88,7 +90,8 @@ MORPHINE METHOBROMIDE and other pentavelent nitrogen morphine derivatives, inclu
 MORPHINE-N-OXIDE
 MT-45, (1-cyclohexyl-4-(1,2-diphenylethyl)piperazine)
 MYROPHINE
-NICOMORPHINE NORACYMETHADOL
+NICOMORPHINE
+NORACYMETHADOL
 NORLEVORPHANOL
 NORMETHADONE
 NORMORPHINE
@@ -114,8 +117,8 @@ PIMINODINE
 PIRITRAMIDE
 PROHEPTAZINE
 PROPERIDINE
-RACEMETHORPHAN
-RACEMORAMIDE
+PROTONITAZENE, N,N-diethyl-5-nitro-2-[(4-propoxyphenyl)methyl]-1-H-benzimidazole-1-ethanamine
+RACEMETHORPHAN RACEMORAMIDE
 RACEMORPHAN
 REMIFENTANIL
 SUFENTANIL
@@ -147,5 +150,5 @@ ACETYLDIHYDROCODEINE CODEINE DIHYDROCODEINE ETHYLMORPHINE NICOCODINE NICODICODIN
 drug.
 8. Preparations conforming to any of the formulae listed in this Part of the Schedule and mixtures of such preparations with any material which contains no drug.
 - Added by: XXIII.1980.9.
-- Amended by: L.N. 32 of 1984; L.N. 58 of 1988; L.N. 49 of 1990; L.N. 93 of 1990; L.N. 148 of 2000; L.N. 373 of 2007; L.N. 331 of 2009; L.N. 49 of 2016; L.N. 359 of 2017; L.N. 360 of 2017; L.N. 43 of 2018; L.N. 230 of 2018; L.N. 389 of 2018; L.N. 189 of 2019; L.N. 119 of 2021; L.N. 120 of 2021; LXVI.2021.25; L.N. 165 of 2022.
+- Amended by: L.N. 32 of 1984; L.N. 58 of 1988; L.N. 49 of 1990; L.N. 93 of 1990; L.N. 148 of 2000; L.N. 373 of 2007; L.N. 331 of 2009; L.N. 49 of 2016; L.N. 359 of 2017; L.N. 360 of 2017; L.N. 43 of 2018; L.N. 230 of 2018; L.N. 389 of 2018; L.N. 189 of 2019; L.N. 119 of 2021; L.N. 120 of 2021; LXVI.2021.25; L.N. 165 of 2022; L.N. 156 of 2023.
 - See Cap. 31.
