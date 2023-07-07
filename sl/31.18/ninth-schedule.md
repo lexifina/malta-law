@@ -1,5 +1,6 @@
 ## NINTH SCHEDULE
-## D.H. Licence Prescription No. of Dispensary
+## Name and Surname of Patient .................................... A legally valid Identification Document Number (where available, or Passport No., in case of Non-Maltese citizens who do not hold a legally valid identification document): ................................................
+## Date of D.H. Licence Prescription No. of Dispensary
 # ninth-schedule
 (Regulation 9)
 DEPARTMENT OF HEALTH

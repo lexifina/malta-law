@@ -16,6 +16,7 @@
 ## B. FOR OFFICIAL USE ONLY
 ## To be filled by Government Dispenser
 ## PRESCRIPTION TYPE
+## Pink Form
 ## LOCATION DISPENSER
 ## To be filled by Coder
 ## Item No.

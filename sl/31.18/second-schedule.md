@@ -19,7 +19,7 @@ phenylethyl) amino] ethyl)-1H-purine-2, 6-
 dione
 N- ethyl-- methyl-m(trifluoromethyl) FENFLURAMINE phenethylamine FENPROPOREX dl-3-[(a-methylphenethyl)amino] propionitrile GLUTETHIMIDE 2-ethyl-2-phenylglutarimide KETAMINE (±)-2-(2-Chlorophenyl)-2-
 methylaminocyclohezanone LEVAMPHETAMINE 1-a-methylphenethylamine LEVOMETHAMPHETAMINE l-N, a-dimethylphenethylamine MAZINDOL 5-(p-chlorophenyl)-2, 5-dihydro-3H-imidazo
-[2, 1-a] isoindol-5-ol MECLOQUALONE 3 -( o- ch lor op h eny l) -2 -m eth yl- 4 (3 H)-
+[2, 1-a] isoindol-5-ol MECLOQUALONE 3 -( o- c h l or op h e ny l ) -2 -m e t h yl - 4 (3 H )-
 quinazolinone MEFENOREX dl-N-(3-chloropropyl)-a-
 methylphenethylamine N--trimethylphenethylamine MEPHENTERMINE MEPROBAMATE 2-methyl-2-propyl-1, 3-propanediol
 dicarbamate 3-(-methylphenethyl)-N-phenylcarbamoyl) MESOCARB sydnone imine METHAMPHETAMINE (+)-2-methylamino-l-phenylpropane METHAMPHETAMINE RACEMATE 2-methyl-3-o-tolyl-4(3H)-quinazolinone METHAQUALONE METHYLPHENIDATE 2-phenyl-2 (2-piperidyl) acetic acid, methyl
@@ -39,11 +39,11 @@ N-[(2S)-1-Amino-3-methyl-1-oxobutan-2-yl]- AB-CHMINACA 1-(cyclohexylmethyl)-1H-i
 fluorobenzyl)-1H-indazole-3-carboxamide 5F-AMB-PINACA (or 5F-AMB or 5F-MMB- methyl 2-({[1-(5-fluoropentyl)-1H-indazole-3-
 yl]carbonyl}amino)-3-methylbutanoate PINACA)
 5F-MDMB-PICA (or 5F-MDMB-2201) methyl 2-{[1-(5-fluoropentyl)-1H-indole-3-
-carbonyl]amino}-3,3-dimethylbutanoate 4F-MDMB-BINACA (or 4F-MDMB-BUTIN- methyl 2-{[1-(4-fluorobutyl)-1H-indazole-3-
+carbonyl]amino}-3,3-dimethylbutanoate 4F-MDMB-BINACA (or 4F-MDMB-BUTIN methyl 2-{[1-(4-fluorobutyl)-1H-indazole-3-
 carbonyl]amino}-3,3-dimethylbutanoate ACA)
-4-CMC (or 4-chloromethcathinone or clephed- 1-(4-chlorophenyl)-2-(methylamino)propan-1-
+4-CMC (or 4-chloromethcathinone or clephed 1-(4-chlorophenyl)-2-(methylamino)propan-1-
 one rone)
-N-ethylhexedrone (or NEH, Hexen, Ethyl-Hex, 2-(ethylamino)-1-phenylhexan-1-one Ethyl-hexedrone) Alpha-PHP (or PV-7, α-PHP, α-pyrrolidinohex- 1-phenyl-2-(pyrrolidin-1-yl)hexan-1-one anophenone) Flualprazolam (or Ro 11-5073/000) 8-chloro-6-(2-fluorophenyl)-1-methyl-4H-
+N-ethylhexedrone (or NEH, Hexen, Ethyl-Hex, 2-(ethylamino)-1-phenylhexan-1-one Ethyl-hexedrone) Alpha-PHP (or PV-7, α-PHP, α-pyrrolidinohex 1-phenyl-2-(pyrrolidin-1-yl)hexan-1-one anophenone) Flualprazolam (or Ro 11-5073/000) 8-chloro-6-(2-fluorophenyl)-1-methyl-4H-
 [1,2,4]triazolo[4,3-a][1,4]benzodiazepine Etizolam (or Y-7131 or Depas) 4-(2-chlorophenyl)-2-ethyl-9-methyl-6H-
 thieno[3,2-f][1,2,4]triazolo[4,3-a][1,4]diazepine". EUTYLONE 1-(1,3-benzodioxol-5-yl)-2-(ethylamino)butan-
 1-one
@@ -51,7 +51,11 @@ thieno[3,2-f][1,2,4]triazolo[4,3-a][1,4]diazepine". EUTYLONE 1-(1,3-benzodioxol-
 one
 3-chloromethcathinone, 3-CMC 1-(3-chlorophenyl)-2-(methylamino)propan-1-
 one".
+ADB-BUTINACA N-[1-(aminocarbonyl)-2,2-dimethylpropyl]-1-
+butyl-1H-indazole-3-carboxamide)
+Alpha-PiHP, α-PiHP 4-methyl-1-phenyl-2-(pyrrolidin-1-yl)pentan-1-
+one)
 And any salts or esters of the above.
 - Amended by: L.N. 26 of 1987.
 - Substituted by: L.N. 70 of 1988.
-- Amended by: L.N. 103 of 1989; L.N. 78 of 1998; L.N. 183 of 1999; L.N. 173 of 2010; L.N. 413 of 2012; L.N. 112 of 2021; L.N. 294 of 2021; L.N. 295 of 2021; L.N. 164 of 2022; L.N. 251 of 2022.
+- Amended by: L.N. 103 of 1989; L.N. 78 of 1998; L.N. 183 of 1999; L.N. 173 of 2010; L.N. 413 of 2012; L.N. 112 of 2021; L.N. 294 of 2021; L.N. 295 of 2021; L.N. 164 of 2022; L.N. 251 of 2022; L.N. 157 of 2023.
