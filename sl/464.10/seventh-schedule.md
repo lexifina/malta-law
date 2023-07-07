@@ -14,4 +14,4 @@ Name Address and Additional
 Number Registration
 Qualifications
 Seal
-Council for the Professions Complementary to Medicine - Malta [S.L.464.10 16 TO MEDICINE (STANDING ORDERS)
+Council for the Professions Complementary to Medicine - Malta
