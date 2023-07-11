@@ -44,8 +44,8 @@ University students who become entitled to a supplementary maintenance grant in 
 (i) €291.62 every four weeks;
 (ii) €698.81 per annum;
 (iii) a one-time grant of €698.81.
-Part III - Prescribed Degree Courses
-Students who, under the terms established in these regulations, are following a full-time day undergraduate degree course at the University of Malta or at MCAST as prescribed shall qualify for the following maintenance grant for the duration of the course of their studies:
+Part III - Prescribed Courses
+Students who, under the terms established in these regulations, are following a full-time course leading to a full qualification at Level 4 or higher of the Malta Qualification Framework at the University of Malta or at MCAST as prescribed shall qualify for the following maintenance grant for the duration of the course of their studies:
 1. A fixed rate of €151.99 every four weeks payable from the commencement till the end of the academic year is deemed as the normal stipend.
 2. A sum of €698.81 per academic year to partly cover expenses related to educational material and equipment.
 3. A one-time grant of €698.81.
