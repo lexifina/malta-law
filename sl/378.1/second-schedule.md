@@ -1,199 +1,284 @@
 ## SECOND SCHEDULE
-## CLAIMANT
-## TO DEFENDANT
-## Whoever is served with this notice of claim must within 18 days from the date of service file a reply. If
-## Tribunal staff will fill
-## You must first refer your claim to the Director General or to a registered consumer association who will
-## reference number
-## date
-## WHERE?
-## Te l l
-## ABANDONING
-## Form 1A
-## Notice making counterclaim
-## FROM DEFENDANT
-## Fill in the name, address and telephone of the person making the counterclaim
-## TO CLAIMANT
-## Fill in the name, address and telephone number of the person the counterclaim is against
-## Whoever is served with this notice of counterclaim must within 18 days from the date of service file a reply to a counterclaim. If he fails to do so, the Tribunal may then proceed to determine the dispute in his absence. A reply to a counterclaim may also be filed by registered 'advice of receipt' mail.
-## Te l l happened
-## HOW MUCH?
-## State how much is being claimed from the claimant
-## ABANDONING PART OF A CLAIM
-## If you are abandoning p a r t counterclaim excess of €5,000 sign this declaration
-## DEFENDANT
-## Form 2A
-## Fill in the name, address and telephone number of the person making counterclaim against you
-## FROM CLAIMANT
-## Fill in the name, address and telephone number claimant filing this reply counterclaim
-## Tribunal staff will fill in this part
-## Form 4
-## Form 7
 # second-schedule
+REGISTRY FILE NO. LOCATION
+FORM 1
 NOTICE OF CLAIM
-IN THE CONSUMER CLAIMS TRIBUNAL STEP 1 FROM COMPLETE the NOTICE OF You must be sure that the address that you give is CLAIM using a typewriter or writing correct because this is where the Registry will clearly. Make sure that all the copies send you any further notices or information. If are legible. your address changes at any time please notify
-the Registry immediately. STEP 2 FILE the NOTICE OF CLAIM by TO taking it to the Consumer Claims
-Be sure that you have the correct address of Tribunal Registry. Filing may also be
-defendant. If there is more than one defendant effected by means of registered
-put the name of each defendant (side by side) in 'advice of receipt' mail sent to the
-the space provided. In such a case however make Consumer Claims Tribunal Registry.
-sure that the claim is a result of the same You must pay a filing fee, which
-transaction.
-depends on the amount you are
-WHAT HAPPENED? claiming and a service fee. The staff will check the form and when it is
-You do not need to tell everything about your accepted for filing, apply the registry
-case here. You must tell just enough to let stamp, add on filing and service fees
-defendant know what the case is all about. Keep and assign a file number. The
-your description brief. You will have a full Secretary will then proceed to serve
-opportunity to present all the facts during the on your behalf the defendant with a
-trial.
-copy of the Notice of Claim. The Secretary will register the claim, assign it before an Arbiter, schedule a date for the hearing and serve the defendant and you with a Notice of Hearing (Form 4 in the Second Schedule). The hearing will be scheduled on a day within fifty days from the filing of the claim after taking into consideration the time periods allowed by these rules for both parties to reply to the claim or counterclaim. STEP 3 WHAT HAPPENS AFTER WHERE? If the defendant files a Reply to a A Notice of Claim must be filed in the Registry Claim, you will be served with a copy of the Tribunal where the transaction, to which of the Reply to a Claim. If no reply is the claim refers, took place. filed within 18 days of the date of the
-HOW MUCH?
-notification of the Notice of Claim,
-If the value of your claim is more than €5,000 you may apply for a default order (excluding filing and services fees) you may still against the defendant who failed to present your claim before the Tribunal if you are file a Reply to a Claim. prepared to abandon the amount of your claim in excess of €5,000. In such a case you must then declare under ABANDONING PART OF A CLAIM that you are abandoning the amount of your claim in excess of €5,000.
-PARTICULARS OF THE CLAIM - continued
-LIST YOUR WITNESSES IN Name and address of persons you intend to call as witness THIS PART
-WHAT HAPPENED? ATTACH EXTRA SHEETS IF SPACE IS INSUFFICIENT
-Say what is being claimed, stating briefly the facts that led to the dispute
-signature of claimant date
-NOTICE OF COUNTERCLAIM IN THE CONSUMER CLAIMS TRIBUNAL STEP 1 FROM Complete the Notice of Counterclaim You must be sure that the address that you give is using a typewriter or writing clearly. correct because this is where the Registry will Make sure that all the copies are send you any further notices or information. If legible. your address changes at any time please notify
-the Registry immediately. STEP 2 File the Notice of Counterclaim TO together with your Reply to a Claim
-Be sure that you have the correct address of the by taking it to the Consumer Claims
-claimant. If there is more than one claimant put Tribunal Registry. Such filing may
-the name of each claimant (side by side) in the also be effected by means of
-space provided. In such a case however make registered 'advice of receipt' mail
-sure that the claim is a result of the same sent to the Consumer Claims Tribunal
-transaction.
-Registry. You must pay a filing fee,
-WHAT HAPPENED? which depends on the amount you are claiming and a service fee. The staff
-You do not need to tell everything about your will check the form and when it is
-case here. You must tell just enough to let accepted for filing, apply the registry
-claimant know what the counterclaim is all stamp. The Secretary will register the
-about. Keep your description brief. You will have counterclaim, which will be heard
-a full opportunity to present all the facts during together with the original claim made
-the trial.
-against you as notified in the notice
-HOW MUCH? of hearing. The Secretary will
-proceed to serve on your behalf the If the value of your counterclaim is more than claimant with a copy of the Notice of €5,000 (excluding filing and service fees) you Counterclaim together with your may still present your counterclaim before the Reply to a Claim. Tribunal if you are prepared to abandon the
-amount of your counterclaim in excess of €5,000. STEP 3 In such a case you must then declare under WHAT HAPPENS AFTER
-ABANDONING PA RT O F T H E COUNTERCLAIM that you are abandoning the If the claimant files a Reply to a amount of your counterclaim in excess of €5,000. Counterclaim, you will be served with a copy of the Reply to a Counterclaim. If no reply to a counterclaim is filed within 18 days from the date of the notification of the Notice of Counterclaim, you may apply for a default order against the claimant who failed to file a Reply to a Counterclaim.
-PARTICULARS OF THE COUNTERCLAIM - continued
-LIST YOUR WITNESSES IN Name and address of persons you intend to call as witness THIS PART
-WHAT HAPPENED? ATTACH EXTRA SHEETS IF SPACE IS INSUFFICIENT
-Say what is being claimed, stating briefly the facts that led to the dispute
-signature of claimant date
-REPLY TO A CLAIM
-IN THE CONSUMER CLAIMS TRIBUNAL STEP 1 FROM Complete the Reply to a Claim using This is where you identify the party who is filing a typewriter or writing clearly. Make this Reply to a Claim. Give an address where sure that all the copies are legible. notices and other information about the dispute
-can be sent to you. If your address changes at any time please notify the Registry immediately. STEP 2 File the Reply to a Claim by taking it DISPUTE to the Consumer Claims Tribunal
-You do not need to tell everything about your Registry where the Notice of Claim
-case here. You must tell just enough to indicate to against you was filed. A reply may
-the claimant and to the Tribunal what parts of the also be filed by means of registered
-claim you dispute and why. If there is anything in 'advice of receipt' mail. The staff
-the Notice of Claim with which you agree, be will check the form and if it is in
-sure to include that in your reply. order, accept it for filing, apply the registry stamp and add on filing and service fees. The Reply to a Claim must be filed within 18 days from when you are served with the Notice of Claim. STEP 3 WHAT HAPPENS AFTER COUNTERCLAIM Then the Tribunal will send a copy of If you want to make a counterclaim that is a your Reply to a Claim to the claim against the claimant, then together with claimant. The date of hearing, the your Reply to a Claim you must also complete a place where the dispute will be heard, Notice of Counterclaim following the and the presiding Arbiter are those instructions on that form. To make a specified in the Notice of Hearing counterclaim your own claim must be connected form you have received together with to or related to the claim that the claimant has this form. made against you.
-PARTICULARS OF YOUR REPLY TO A CLAIM - continued
-LIST YOUR WITNESSES Name and address of whom you intend to call as witness IN THIS PART
-DISPUTE ATTACH SEPARATE SHEETS IF SPACE IS INSUFFICIENT
-State if you are disputing the claim being made. If you are, then explain with what you disagree and why
-Defendant's signature date
-REPLY TO A COUNTERCLAIM IN THE CONSUMER CLAIMS TRIBUNAL STEP 1 FROM Complete t h e Reply t o a This is where you identify the party who is filing Counterclaim using a typewriter or this Reply to a Counterclaim. Give an address writing clearly. Make sure that all the where notices and other information about the copies are legible. dispute can be sent to you. If this address
-changes at any time please notify the Registry
-immediately.
-STEP 2 File the Reply to a Counterclaim by DISPUTE taking it to the Consumer Claims
-You do not need to tell everything about your Tribunal Registry where the Notice
-case here. You must tell just enough to indicate to of Claim was filed. A Reply to a
-the defendant and to the Tribunal what parts of Counterclaim may also be filed by
-the counterclaim you dispute and why. If there is means of registered 'advice of
-anything in the Notice of Counterclaim with receipt' mail. The staff will check the
-which you agree, be sure to include that in your form and if it is in order, accept it for
-reply.
-filing. The Reply to a Counterclaim must be filed within 18 days from when you are served with the Notice of Counterclaim. STEP 3 WHAT HAPPENS AFTER Then the Tribunal will send a copy of your Reply to a Counterclaim to the defendant. The date of the hearing, the place where the dispute will be heard, and the presiding Arbiter are those specified in the Notice of Hearing form you were served with following the filing of your Notice of Claim.
-PARTICULARS OF YOUR REPLY TO A COUNTERCLAIM - continued
-LIST YOUR WITNESSES Name and address of whom you intend to call as witness IN THIS PART
-DISPUTE ATTACH SEPARATE SHEETS IF SPACE IS INSUFFICIENT
-State if you are disputing the counterclaim being made. If y ou a re, then explain with what you disagree and why.
-Defendant's signature date
-APPLICATION FOR A DEFAULT ORDER
 IN THE CONSUMER CLAIMS TRIBUNAL
-Fill in the names of In the case between: parties to the claim
-CLAIMANT copying them from
-AND the Notice of Claim.
+FROM CLAIMANT
+(who is making the claim) Indicate the name, identity card number, postal address, email address and telephone/mobile number of the person making the claim TO DEFENDANT
+(who is receiving the claim) Indicate the name, postal address, email address and telephone/mobile number of the person against whom the claim is being made (any other identification details available, including identity card number or company registration number are to be included)
+NOTICE TO THE PARTY AGAINST WHOM THE CLAIM IS MADE
+Whoever is served with this Notice of Claim must within 18 days from the date of service file a reply. If he/she fails to do so, the Tribunal may then proceed to determine the dispute in his/ her absence.
+FOR OFFICE USE ONLY
+AMOUNT CLAIMED € FILING FEES € SERVICE FEES € TOTAL €
+DETAILS OF THE CLAIM
+DECLARATION BY CLAIMANT
+I/we referred my/our claim to the Director General (Consumer Affairs)/registered consumers' association who tried to settle my/our dispute but no settlement was achieved within 15 working days. Indicate the reference number of the Reference number: Office for Consumer Affairs/registered consumers' association's file relating to your claim and state the date when you
+Date:
+referred your claim to the Director General or the consumers' association, as the case may be.
+AMOUNT CLAIMED Indicate how much is being € claimed from the defendant
+I declare that any amount of my claim in excess of FORFEITING PART OF
+€10,000.00 is being forfeited
+A CLAIM
+If you are forfeiting part of ……………………………………………………………… your claim in excess of Signature €10,000.00, you should sign this declaration STEP 1 CLAIMANT (who is making the claim)
+Complete the Notice of Claim by writing clearly or by You must ensure that the address that you indicate is typing in the information required. correct because the Secretary to the Tribunal shall
+send you other notices or information in the STEP 2
+indicated address. If your address changes please notify the Secretary immediately on 21227070 or The Notice of Claim is to be filed at the Consumer
+send an email on tribunal.cases@mccaa.org.mt. Claims Tribunal Registry. You must pay a filing fee, which depends on the amount you are claiming, and a
+DEFENDANT (who is receiving the claim) service fee. The Secretary to the Tribunal will then
+You must ensure that the name and address of the proceed to serve, on your behalf, the defendant with a
+defendant are correct. If there is more than one copy of the Notice of Claim.
+defendant, indicate the name of each defendant (side by side) in the space provided. In such a case, however, STEP 3
+you must ensure that the claim is a result of the same transaction. If the defendant files a reply, you will be served with a
+When the defendant is a limited liability company, the copy of the reply. If no reply is filed within 18 days of
+claim must be made against the said company and not the date of the notification of the Notice of Claim, you
+against its directors or employees of the said company. may apply for a default order against the defendant
+When the defendant operates under a trade name, the who failed to file a reply.
+claim must be made against the owner of the business.
+AMOUNT CLAIMED If the value of your claim is more than €10,000.00 (excluding filing and services fees) you may still present your claim before the Tribunal if you are prepared to forfeit the amount of your claim in excess of €10,000.00. In such a case you must then declare under 'Forfeiting part of the claim' that you are forfeiting the amount of your claim in excess of €10,000.00.
+EXPLAIN WHAT HAPPENED Indicate what is being claimed. Keep your description brief and indicate sufficient facts in order that the defendant is clearly informed about what your case is all about. You shall have the opportunity to present all the facts during the hearing. You must include photocopies of all the relevant documentation that you intend to file.
+WHERE TO FILE A NOTICE OF CLAIM A Notice of Claim must be filed in the Registry of the Tribunal where the transaction to which the claim refers took place.
+In case you require further information or guidance, you may contact the Secretary to the Tribunal on 21227070 or by sending an email to tribunal.cases@mccaa.org.mt
+DETAILS OF THE CLAIM - continued
+INDICATE YOUR Name and surname of persons you intend to call as witness WITNESSES IN THIS PART EXPLAIN WHAT YOU MAY ATTACH EXTRA SHEETS IF SPACE IS HAPPENED INSUFFICIENT Indicate what is being claimed by briefly explaining the facts that led to the dispute
+Would you consider a YES NO virtual sitting (remote location) instead of physically attending at the Tribunal?
+Signature of claimant Date
+REGISTRY FILE NO.
+LOCATION
+FORM 1A
+NOTICE OF COUNTERCLAIM
+IN THE CONSUMER CLAIMS TRIBUNAL
+FROM DEFENDANT
+(who is receiving the claim) Indicate the name, identity card number and/or company registration number, postal address, email address and telephone/mobile number of the defendant filing this reply
+TO CLAIMANT
+(who is making the claim) Indicate the name, identity card number, postal address, email address and telephone number/mobile number of the person making the claim against you
+NOTICE TO THE PARTY AGAINST WHOM THE COUNTERCLAIM IS MADE Whoever is served with the Notice of Counterclaim must within 18 days from the date of service, file a reply to a counterclaim. If he/she fails to do so, the Tribunal may then proceed to determine the dispute in his/her absence.
+FOR OFFICE USE ONLY
+AMOUNT CLAIMED €
+FILING FEES €
+SERVICE FEES €
+TOTAL € AMOUNT CLAIMED State how much is being € claimed from the claimant
+I declare that any amount of my claim in excess of FORFEITING PART OF
+€10,000.00 is being forfeited
+A CLAIM
+If you are forfeiting part of
+……………………………………………………………… your claim in excess of Signature €10,000.00 you should sign this declaration
+Kindly indicate the Registry file number of the claim made against you: CCT ................................ STEP 1 FROM
+Complete the Notice of Counterclaim by writing clearly or You must ensure that the address that you by typing in the information required. indicate is correct because the Secretary to the
+Tribunal shall send you other notices or STEP 2
+information in the indicated address. If your address changes please notify the Secretary The Notice of Counterclaim is to be filed at the Registry of
+immediately on 21227070 or send an email the Consumer Claims Tribunal. You must pay a filing fee
+on tribunal.cases@mccaa.org.mt. which depends on the amount you are claiming and a service fee. The Secretary to the Tribunal shall then proceed to serve
+TO the claimant on your behalf with a copy of the Notice of Counterclaim together with your Reply to a Claim. You must ensure that the name and address of the
+claimant are correct. If there is more than one STEP 3
+claimant, indicate the name of each claimant (side by side) in the space provided. In such a If the claimant files a Reply to a Counterclaim, you shall be
+case, however, you must ensure that the claim is a served with a copy of that reply. If no reply to a counterclaim
+result of the same transaction. is filed within 18 days from the date of the notification of the Notice of Counterclaim, you may apply for a default order
+AMOUNT CLAIMED against the claimant who failed to file a reply to the counterclaim. If the value of your counterclaim is more than
+€10,000.00 (excluding filing and services fees) you may still present your counterclaim before the Tribunal if you are prepared to forfeit the amount of your claim in excess of €10,000.00. In such a case you must then declare under 'Forfeiting part of the claim' that you are forfeiting the amount of your claim in excess of €10,000.00.
+EXPLAIN WHAT HAPPENED
+Keep your description brief and indicate sufficient facts in order that the claimant is clearly informed about what your case is all about. You shall have the opportunity to present all the facts during the hearing. You must include photocopies of all the relevant documentation that you intend to file.
+WHERE TO FILE A NOTICE OF COUNTERCLAIM
+A Notice of Counterclaim must be filed in the Registry of the Tribunal where the transaction to which the claim refers took place.
+In case you require further information or guidance, you may contact the Secretary to the Tribunal on 21227070 or by sending an email to tribunal.cases@mccaa.org.mt
+DETAILS OF THE COUNTERCLAIM - continued
+INDICATE YOUR WITNESSES Name and surname of persons you intend to call as IN THIS PART witness
+EXPLAIN WHAT HAPPENED YOU MAY ATTACH EXTRA SHEETS IF
+SPACE IS INSUFFICIENT Indicate what is being claimed by briefly indicating the facts that led to the dispute
+Would you consider a virtual sitting YES NO (remote location) instead of physically attending at the Tribunal?
+Signature of claimant Date
+REGISTRY FILE NO.
+LOCATION
+FORM 2
+REPLY TO A CLAIM
+IN THE CONSUMER CLAIMS TRIBUNAL
+TO CLAIMANT
+(who is making the claim)
+Indicate the name, identity card number, postal address, email address and telephone/mobile number of the person making the claim against you.
+FROM DEFENDANT
+(who is receiving the claim)
+Indicate the name, identity card number and/or company registration number, postal address, email address and telephone/mobile number of the defendant filing this reply.
+NOTICE TO DEFENDANT
+If with the Reply to a Claim you intend to make a counterclaim, you must complete a Notice of Counterclaim as well, following the instructions on that form (Form 1A). You must ensure that your Notice of Counterclaim is filed together with the Reply to a Claim.
+FOR OFFICE USE ONLY
+AMOUNT CLAIMED* €
+FILING FEES €
+SERVICE FEES €
+TOTAL €
+*The amount claimed is only applicable if as a defendant you are also filing a counterclaim together with this reply.
+STEP 1 FROM
+Complete the Reply to a Claim by writing clearly or You must ensure that the address that you indicate is by typing in the information required. correct because the Secretary to the Tribunal shall
+send you any other notices or information at the indicated address. If your address changes, please notify the Secretary to the Tribunal immediately by
+STEP 2
+calling on 21227070 or send an email on tribunal.cases@mccaa.org.mt.
+The Reply to a Claim is to be filed at the Registry of the Consumer Claims Tribunal. You must pay filing and service fees. The Reply to a Claim must be filed within 18 days from when you are served with the DISPUTE Notice of Claim.
+You must keep your description of facts brief and include sufficient details to indicate to the claimant and to the Tribunal which parts of the claim you are
+STEP 3
+contesting and the reason. If there are parts in the Notice of Claim with which you agree, you must
+The Secretary to the Tribunal shall send a copy of
+ensure to include them in your reply.
+your Reply to a Claim to the claimant. The date of hearing, the place where the dispute will be heard and the presiding Arbiter are specified in the Notice of Hearing form you received together with this COUNTERCLAIM form.
+If you intend to make a counterclaim, that is a claim against the claimant, you must also complete the Notice of Counterclaim together with your Reply to a Claim. To be entitled to make a counterclaim, such claim must be connected to, or related to the claim that the claimant has made against you.
+In case you require further information or guidance, you may contact the Secretary to the Tribunal on 21227070 or by sending an email to tribunal.cases@mccaa.org.mt DETAILS OF THE REPLY TO A CLAIM - continued
+LIST YOUR Name and surname of persons you intend to call as witness WITNESSES IN THIS PART
+DISPUTE YOU MAY ATTACH EXTRA SHEETS IF SPACE IS
+INSUFFICIENT
+Indicate if you are contesting the claim that is being made against you. If you are contesting it, you must explain the parts that you disagree with and the reason.
+Would you consider a YES NO virtual sitting (remote location) instead of physically attending at the Tribunal?
+Signature of defendant Date
+REGISTRY FILE NO.
+LOCATION
+FORM 2A
+REPLY TO A COUNTERCLAIM
+IN THE CONSUMER CLAIMS TRIBUNAL
+TO DEFENDANT
+(who is receiving the claim) Indicate the name, identity card number and/or company registration number, postal address, email address and telephone/mobile number of the person making the counterclaim against you
+FROM CLAIMANT
+(who is making the claim) Indicate the name, identity card number, postal address, email address and telephone/mobile number of the claimant filing this reply to a counterclaim
+FOR OFFICE USE ONLY
+FILING FEES €
+SERVICE FEES €
+TOTAL € STEP 1 FROM Complete the Reply to a Counterclaim by You must ensure that the address that you writing clearly or by typing in the indicate is correct because the Secretary to the information required. Tribunal shall send you any other notices or
+information at the indicated address. If your address changes at any time, please notify the STEP 2 Secretary to the Tribunal immediately on 21227070 or send an email on The Reply to a Counterclaim has to be filed tribunal.cases@mccaa.org.mt. in the Registry of the Consumer Claims Tribunal. You must pay filing and service
+DISPUTE fees. The Reply to a Counterclaim must be
+You must keep your description brief and you filed within 18 days from when you are must include sufficient details to indicate to served with the Notice of Counterclaim. the defendant and to the Tribunal which parts of the claim you are contesting and the reason. STEP 3
+If there are parts in the Notice of Counterclaim with which you agree, you must The Secretary to the Tribunal shall serve a
+ensure to include them in your reply. copy of your Reply to a Counterclaim upon the defendant. The date of hearing, the place where the dispute will be heard, and the presiding Arbiter are those specified in the Notice of Hearing form you were served with following the filing of your Notice of Claim.
+In case you require further information or guidance, you may contact the Secretary to the Tribunal on 21227070 or by sending an email to tribunal.cases@mccaa.org.mt
+DETAILS OF THE REPLY TO A COUNTERCLAIM - continued
+INDICATE YOUR Name and surname of persons you intend to call as WITNESSES IN THIS witness PART
+DISPUTE YOU MAY ATTACH EXTRA SHEETS IF SPACE
+IS INSUFFICIENT Indicate if you are contesting the claim that is being made against you and explain why you disagree with the claim.
+Yes No Would you consider a virtual sitting (remote location) instead of physically attending at the Tribunal?
+Signature of defendant Date
+REGISTRY FILE NO.
+LOCATION
+FORM 3
+APPLICATION FOR A DEFAULT ORDER IN THE CONSUMER CLAIMS
+TRIBUNAL
+In the case between Indicate the names CLAIMANT of the parties to the (who is making the claim) dispute by copying the details from the Notice of Claim
+AND
 DEFENDANT
-Name of party APPLICANT making application
-I request that this Tribunal issue a default order against .......................................................................................................... ..........................................................................................................
-I confirm that the amount still due to me is of €
-signature of applicant date
-FOR OFFICE USE
-Amount claimed €
+(who is receiving the claim)
+Name of party APPLICANT making the (who is making this application) application
+I respectfully request that this Tribunal issues a default order against ................................................................................................................ ................................................................................................................ ................................................................................................................ ................................................................................................................ (indicate the official name and surname, postal address and the identity card number, if available, of the party against whom the default order is being requested)
+I confirm that the total amount still due to me is the following: €
+......................
+Date ...............................................................................................
+Signature of Applicant
+FOR OFFICE USE ONLY
+AMOUNT CLAIMED €
 Expenses €
 Interest €
-DECREE BY TRIBUNAL
-This part will be completed by the Tribunal w h e n deciding y o u r application for a default order
-signature of Arbiter date
+DECREE BY ARBITER
+............................................................................................... ....................
+Signature of Arbiter Date
+REGISTRY FILE NO.
+LOCATION
+FORM 4
 NOTICE OF HEARING
 IN THE CONSUMER CLAIMS TRIBUNAL
 TO CLAIMANT
+(who is making the claim)
 AND
 DEFENDANT
-You are informed that the hearing of your dispute will take place before an Arbiter of the Consumer Claims Tribunal: on
-date time
-at
-address where the hearing will be held
-before
-name of arbiter
-signature of tribunal secretary date
+(who is receiving the claim)
+Please be informed that the hearing of your dispute shall take place before an Arbiter of the Consumer Claims Tribunal:
+DATE ..................................................................... .....................
+Date Time
+ADDRESS
+(Address where the hearing shall be held or virtual link (if applicable))
+BEFORE (Name of Arbiter)
+..........................................................................................
+.....................
+Signature of Secretary to the Tribunal Date
 WARNING TO PARTIES
-If you fail to attend for the hearing without giving a valid reason the Arbiter may decide the dispute in your absence and award expenses against you. If you cannot attend for the hearing you must then immediately apply in writing to the Tribunal requesting a postponement, explaining why you cannot attend. It is at the discretion of the Tribunal to decide whether your request is justified or not.
+Please be advised that if you fail to attend for the hearing without giving a valid reason, the Arbiter may proceed to decide the dispute in your absence and he may decide to award the expenses against you. If you cannot attend for the hearing you must immediately inform the Tribunal in writing requesting a postponement, explaining why you cannot attend. In any case, it is at the discretion of the Tribunal to decide whether your request is justified or otherwise.
 NOTICE OF HEARING
-ATTEND for the hearing at least ten minutes before the appointed time. Make sure that you are fully prepared, since this will be your only opportunity to state your case and submit your evidence to the Tribunal. BEAR IN MIND these points 1) BRING all the documents that are relevant to the case such as receipts, correspondence or agreements. 2) MAKE SURE that any witnesses whose evidence you need arrive early. If a witness is not prepared to attend voluntarily, then you should apply to the Tribunal for the issue of a Summons to Witness (Form 5). The summons is an
-order of the Tribunal telling the witness to attend for the hearing.
-3) PREPARE what you are going to say beforehand. Go over all the facts in chronological order. You may during the hearing refer to any notes you may have prepared beforehand.
+1. You must ensure that you attend for the hearing at least ten (10) minutes before the appointed time.
+2. You must ensure that you are fully prepared, since this will be your only opportunity to state your case and submit your evidence to the Tribunal.
+3. You must follow the following important points:
+- You must ensure that you bring all the documents that are relevant to the case
+such as receipts, correspondence or agreements.
+- You must ensure that any witnesses whose evidence you need arrive early. If a
+witness is not prepared to attend voluntarily, then you should apply to the Tribunal for the issue of a Summons of Witness (Form 5). The summons is an order of the Tribunal informing the witness to attend for the hearing.
+- You must prepare what you intend to state beforehand.
+- You must ensure that all the facts are in chronological order. During the hearing
+you may refer to any notes you may have prepared beforehand.
+- When appearing before the Tribunal, it is essential that you dress appropriately.
+Men are required to wear a jacket and a tie.
+REGISTRY FILE NO.
+LOCATION
+FORM 5
 SUMMONS TO WITNESS
 IN THE CONSUMER CLAIMS TRIBUNAL
-In the case between: Fill in the names of the parties to the claim copying them from the Notice of Claim CLAIMANT
+Indicate the names CLAIMANT of the parties to the (who is making the claim) claim by copying the details from the Notice of Claim
 AND
 DEFENDANT
-TO WITNESS Fill in the name and address of the person you want to attend the Tribunal
-Name of party who requires witness APPLICANT
-WHEN AND WHERE
-Witness is required to attend before the Consumer Claims Tribunal Fill in the place, date and time of the hearing on date at time
-at full address of the place where witness must attend
-WHY IS THE WITNESS BEING SUMMONED State briefly to your witness why you need his evidence
-Witness is required to bring these documents and other things If you want the witness to bring to the hearing any documents or other things list them here
-Sign and date your summons signature of party applying for summons date
-T h i s p a r t w i l l b e For office use only completed b y t h e
-DECREE BY ARBITER Tribunal
-After having considered this application for a summons to witness, I hereby authorise the issue of this summons and order witness to appear at the place, time and date as aforesaid and to bring any of the documents or things as required in this summons
-signature of Arbiter date
-NOTICE TO WITNESS
-Once you have received a notice of summons duly authorised by the Tribunal, you must then attend for the Tribunal hearing at the time and place indicated in this summons and bring with you any documents or other things required from you in the summons.
+(who is receiving the claim)
+TO WITNESS Indicate the name and address of the person you require to attend the Tribunal hearing
+Indicate the name of the party who APPLICANT requires witness (who is making this application)
+DATE AND ADDRESS
+The witness is required to attend before the Consumer Claims Tribunal
+Indicate the place, date and time of the on ................................. ....................................... hearing Date Time
+at
+at (Official address of the Tribunal where the witness must attend or
+the virtual link (if applicable))
+THE REASON FOR WHICH THE WITNESS IS BEING SUMMONED
+Indicate briefly to your witness why you require his/her evidence
+Witness is required to bring these documents and/or other
+things
+If you require the witness to bring to the sitting any documents or other things, you must list them here
+Sign and indicate the .......................................................................... ...................... date of your Signature of party applying for summons Date summons
+FOR OFFICE USE ONLY
+DECREE BY ARBITER
+After having considered this application for a summons to witness, I hereby authorise the issue of this summons and order witness to appear at the place, time and date as aforesaid and to bring all of the documents and, or things as required in this summons.
+............................................... ........................ Signature of Arbiter Date
+NOTICE TO THE WITNESS
+Once you have received a Notice of Summons duly authorised by the Tribunal, you must thus attend for the Tribunal hearing on the date, and at the time and place indicated in this summons and bring with you all documents or other things as indicated in the summons.
 SUMMONS TO WITNESS
-You do not need to ask the Tribunal to issue a Summons to Witness, if witness is prepared to attend voluntarily. COMPLETE the Summons to Witness following the instructions on the form. Be sure to type or write clearly and that all copies are legible. FILE the Summons to Witness by taking it to the Consumer Claims Tribunal Registry. The Staff will check if the form has been completed correctly. They will then apply the registry stamp and proceed with the service of the summons. If you want the witness to bring any specific documents (for example invoices) be sure to list them in your summons. REMEMBER to file the summons in good time before the date of the hearing when you want the witness to attend. If a witness who is notified with the summons fails to attend the Arbiter may then issue an Order of Escort against him.
+You do not need to request the Tribunal to issue a Summons to Witness if the witness is prepared to attend voluntarily.
+You must complete the Summons of Witness following the instructions on the form and by writing clearly or typing in the information required.
+The Summons to Witness must be filed in the Consumer Claims Tribunal Registry. If you require the witness to bring any specific documents (example: invoices), you must list them in your summons.
+It is important to file the summons in good time before the date of the hearing when you require the witness to attend. If a witness who is duly served with the summons fails to attend, the Arbiter may issue an Order of Escort in his/her regard.
+REGISTRY FILE NO.
+LOCATION
+FORM 6
 ORDER OF ESCORT
 IN THE CONSUMER CLAIMS TRIBUNAL
 In the case between:
 CLAIMANT
+(who is making the claim)
 AND
 DEFENDANT
+(who is receiving the claim)
 TO
-Officer executing order of arrest
-Whereas the witness ..........................................................................................
-.......................................................................................... ..........................................................................................
-full name and address of witness
-was served with a Summons to Witness at the hearing of this dispute and the said witness failed to obey the summons, and I am satisfied that the evidence of the witness is material to this dispute, YOU ARE THEREFORE ORDERED TO ESCORT AND BRING THE WITNESS BEFORE THIS TRIBUNAL
-on
-date time
+(Officer executing order of escort)
+Whereas the witness (Full name and address of witness) was served with a Summons of Witness at the hearing of this dispute and the said witness failed to obey the summons, and I am satisfied that the evidence of the witness is material to this dispute,
+YOU ARE THEREFORE ORDERED TO ESCORT AND BRING THE WITNESS BEFORE THIS TRIBUNAL
+.................................
+Date on
+at .......................................
+Time
+(Address where the hearing of the Tribunal is to be held)
 at
-address where the trial is to be held
-signature of Arbiter date
+...................... Signature of Arbiter
+......................
+Date
+REGISTRY FILE NO.
+LOCATION
+FORM 7
 BLANK APPLICATION
 IN THE CONSUMER CLAIMS TRIBUNAL
-Fill in the names of the In the case between: parties to the claim copying them from the
-CLAIMANT Notice of Claim
+Indicate the names CLAIMANT of the parties to the (who is making the claim) claim by copying the details from the Notice of Claim
 AND
 DEFENDANT
-Name of party making application
-APPLICANT(S)
-Briefly state what you are applying for
-signature of applicant date
+(who is receiving the claim)
+Indicate the name of the party making the applicaiton APPLICANT
+(who is making this application)
+Briefly indicate what you are claiming
+……………… Signature of Applicant
+………………
+Date
 - Amended by: L.N. 284 of 2000; L.N. 425 of 2007; L.N. 59 of 2011.
+- Substituted by: XXIV.2023.11.
