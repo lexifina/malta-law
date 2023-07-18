@@ -3106,8 +3106,7 @@ H.S. Code
 Description Import Duty
 Number 12.14 Swedes, mangolds, fodder roots, hay, lucerne (alfalfa), clover,
 sainfoin, forage kale, lupines, vetches and similar forage
-products, whether or not in the form of pellets:
-1214.10.00.00 - Lucerne (alfalfa) meal and pellets 0
+products, whether or not in the form of pellets: 1214.10.00.00 - Lucerne (alfalfa) meal and pellets 0
 - Other: 1214.90
 1214.90.10.00 - - Mangolds, swedes and other fodder roots 0
 - - Other:
@@ -6024,7 +6023,7 @@ volume of 80% vol or higher 0
 Spirits Ordinance (Cap. 89) 0
 2207.20.00.20 - - Other for industrial production, for pharmaceutical and
 for medical use, denatured as directed by the
-Commissioner for Revenue 0
+Commissioner for Tax and Customs 0
 2207.20.00.90 - - Other 0
 22.08 Undenatured ethyl alcohol of an alcoholic strength by
 volume of less than 80% vol; spirits, liqueurs and other
@@ -6917,8 +6916,8 @@ paragraph e) above of which 85% or more by volume (including losses) distils at 
 g) "fuel oils" (subheadings 2710.00.71.00 to 2710.00.78.00) means heavy oils as defined in
 paragraph e) above (other than gas oils as defined in paragraph f) above) which, for a corresponding diluted colour C, have a viscosity V: - not exceeding that shown in line I of the following table when the sulphated ashes content
 is less than 1% by the ASTM D 874 method and the saponification index is less than 4 by the ASTM D 939-54 method,
-- exceeding that shown in line II when the pour point is not less than 10C by the ASTM
-D 97 method,
+- exceeding that shown in line II when the pour point is not less than 10C by the ASTM D
+97 method,
 - exceeding that shown in line I but not exceeding that shown in line II when 25% or more
 by volume distils at 300C by the ASTM D 86 method or, if less than 25% by volume distils at 300 C, when the pour point is higher than 10 C below zero by the ASTM D 97 method. These provisions apply only to oils having a diluted colour C of less than 2.
 DILUTED COLOUR C/VISCOSITY V CONCORDANCE TABLE
@@ -7015,8 +7014,8 @@ D 86 method:
 - - Other: 2707.99
 - - - Crude oils:
 2707.99.11.00 - - - - Crude light oils of which 90% or more by volume distils
-at temperature of up to 200 C
-3.2 2707.99.19.00 - - - - Other
+at temperature of up to 200 C 3.2
+2707.99.19.00 - - - - Other
 1 2707.99.30.00 - - - Sulphuretted toppings
 0 2707.99.50.00 - - - Basic products
 3 2707.99.70.00 - - - Anthracene
@@ -7116,9 +7115,8 @@ Number
 6
 - - - - Other:
 2710.00.81.92 - - - - - White oils, liquid paraffin
-0 2710.00.81.94 - - - - - Oils with a density of 0.810 to 0.900 exclusive at 15
-C 0
-2710.00.81.96 - - - - - Oils with a density of or above 0.900 at 15 C
+0 2710.00.81.94 - - - - - Oils with a density of 0.810 to 0.900 exclusive at 15 C
+0 2710.00.81.96 - - - - - Oils with a density of or above 0.900 at 15 C
 0 2710.00.81.99 - - - - - Other
 6
 - - - For undergoing chemical transformation by a process
@@ -7128,9 +7126,8 @@ other than those specified in respect of subheading
 6
 - - - - Other:
 2710.00.83.92 - - - - - White oils, liquid paraffin
-0 2710.00.83.94 - - - - - Oils with a density of 0.810 to 0.900 exclusive at 15
-C 0
-2710.00.83.96 - - - - - Oils with a density of or above 0.900 at 15 C
+0 2710.00.83.94 - - - - - Oils with a density of 0.810 to 0.900 exclusive at 15 C
+0 2710.00.83.96 - - - - - Oils with a density of or above 0.900 at 15 C
 0 2710.00.83.99 - - - - - Other
 6
 - - - For other purposes:
@@ -7141,16 +7138,16 @@ C 0
 6 2710.00.94.00 - - - - Metal-working compounds, mould release oils
 6 2710.00.96.00 - - - - Electrical insulating oils
 6
-H.S. Code
-Description Import Duty
-Number
 - - - - Other lubricating oils and other oils:
 2710.00.97.00 - - - - - Other lubricating oils
 6
+H.S. Code
+Description Import Duty
+Number
 - - - - - Other:
 2710.00.97.92 - - - - - - Oils with a density of 0.810 to 0.900 exclusive at
-15C
-3.7 2710.00.97.99 - - - - - - Other
+15C 3.7
+2710.00.97.99 - - - - - - Other
 3.7 2710.91.00.00 - - Waste Oils* containing polychlorinated biphenyls/
 terphenyls or PBBS 3.5
 2710.99.00.00 - - Waste Oils* NES in HS 2710 91 00 petroleum or from
@@ -7178,11 +7175,12 @@ other than those specified in respect of subheading No. 2711.12.91.00 0
 than those specified in respect of subheading No.
 2711.13.10.00 0
 - - - For other purposes:
+2711.13.91.00 - - - - Of a purity exceeding 90% but less than 95%
+0.7 2711.13.97.00 - - - - Other
+0.7
 H.S. Code
 Description Import Duty
-Number 2711.13.91.00 - - - - Of a purity exceeding 90% but less than 95%
-0.7 2711.13.97.00 - - - - Other
-0.7 2711.14.00.00 - - Ethylene, propylene, butylene and butadiene
+Number 2711.14.00.00 - - Ethylene, propylene, butylene and butadiene
 1.5 2711.19.00.00 - - Other
 1.5
 - In gaseous state:
@@ -7217,11 +7215,11 @@ other than those specified in respect of subheading No.
 2712.90.39.00 - - - - For other purposes
 0
 - - - Other:
+2712.90.91.00 - - - - Blend of l-alkalenes containing by weight 80% or more
+of l-alkalenes of a chain-length of 24 carbon atoms or more but not exceeding 28 carbon atoms 0
 H.S. Code
 Description Import Duty
-Number 2712.90.91.00 - - - - Blend of l-alkalenes containing by weight 80% or more
-of l-alkalenes of a chain-length of 24 carbon atoms or more but not exceeding 28 carbon atoms 0
-2712.90.99.00 - - - - Other
+Number 2712.90.99.00 - - - - Other
 0
 27.13 Petroleum coke, petroleum bitumen and other residues of
 petroleum oils or of oils obtained from bituminous
@@ -7283,8 +7281,7 @@ caking agent) necessary for their preservation or transport;
 (e) Artificial graphite (heading No. 38.01); products put up as charges for fire extinguishers or put up in fire extinguishing grenades, of heading No. 38.13; ink removers put up in packings for retail sale, of heading No. 38.24; cultured crystals (other than optical elements) weighing not less than 2.5 g each, of the halides of the alkali or alkaline-earth metals, of heading No. 38.24;
 (f) Precious or semi precious stones (natural, synthetic or reconstructed) or dust or powder of such stones (headings Nos. 71.02 to 71.05), or precious metals or precious metal alloys of Chapter 71;
 (g) The metals, whether or not pure, metal alloys or cermets, including sintered metal carbides (metal carbides sintered with a metal), of Section XV; or
-(h) Optical elements, for example, of the halides of the alkali or of the alkaline earth metals (heading No. 90.01).
-4. Chemically defined complex acids consisting of a non metal acid of sub Chapter II and a metal
+(h) Optical elements, for example, of the halides of the alkali or of the alkaline earth metals (heading No. 90.01). 4. Chemically defined complex acids consisting of a non metal acid of sub Chapter II and a metal
 acid of sub Chapter IV are to be classified in heading No. 28.11.
 5. Headings Nos. 28.26 to 28.42 apply only to metal or ammonium salts or peroxysalts.
 Except where the context otherwise requires, double or complex salts are to be classified in heading No. 28.42.
@@ -7292,7 +7289,7 @@ Except where the context otherwise requires, double or complex salts are to be c
 (a) Technetium (atomic No. 43), promethium (atomic No. 61), polonium (atomic No. 84) and all elements with an atomic number greater than 84;
 (b) Natural or artificial radioactive isotopes (including those of the precious metals or of the base metals of Sections XIV and XV), whether or not mixed together;
 (c) Compounds, inorganic or organic, of these elements or isotopes, whether or not chemically defined, whether or not mixed together;
-(d) Alloys, dispersions (including cermets), ceramic products and mixtures containing these elements or isotopes or inorganic or organic compounds thereof and having a specific radioactivity exceeding 74 Bq/g (0.002 μCi/g);
+(d) Alloys, dispersions (including cermets), ceramic products and mixtures containing these elements or isotopes or inorganic or organic compounds thereof and having a specific radioactivity exceeding 74 Bq/g (0.002 µCi/g);
 (e) Spent (irradiated) fuel elements (cartridges) of nuclear reactors;
 (f) Radioactive residues whether or not usable.
 The term "isotopes", for the purposes of this Note and of the wording of headings Nos. 28.44 and 28.45, refers to: - individual nuclides, excluding, however, those existing in nature in the monoisotopic state; - mixtures of isotopes of one and the same element, enriched in one or several of the said
@@ -7315,11 +7312,11 @@ I. CHEMICAL ELEMENTS
 2801.30.10.00 - - Fluorine
 5 2801.30.90.00 - - Bromine
 9
+28.02 00.00.00 Sulphur, sublimed or precipitated; collodial sulphur
+4.6
 H.S. Code
 Description Import Duty
 Number
-28.02 00.00.00 Sulphur, sublimed or precipitated; collodial sulphur
-4.6
 28.03 Carbon (carbon blacks and other forms of carbon not
 elsewhere specified or included):
 2803.00.10.00 - Methane black
@@ -7355,11 +7352,11 @@ interalloyed; mercury:
 4.1
 - Alkaline-earth metals:
 2805.21.00.00 - - Calcium
+5.7 2805.22.00.00 - - Strontium and barium
 5.7
 H.S. Code
 Description Import Duty
-Number 2805.22.00.00 - - Strontium and barium
-5.7
+Number
 - Rare-earth metals, scandium and yttrium, whether or not 2805.30
 intermixed or interalloyed:
 2805.30.10.00 - - Intermixtures or interalloys
@@ -7367,7 +7364,9 @@ intermixed or interalloyed:
 2.7
 - Mercury: 2805.40
 2805.40.10.00 - - In flasks of a net content of 34.5 kg (standard weight), of a
-€6.99 per f.o.b. value, per flask, not exceeding €232.94 bottle flask 2805.40.90.00 - - Other
+€6.99 per
+f.o.b. value, per flask, not exceeding €232.94
+bottle flask 2805.40.90.00 - - Other
 0
 II. INORGANIC ACIDS AND INORGANIC
 OXYGEN COMPOUNDS OF NON-METALS
@@ -7393,11 +7392,10 @@ polyphosphoric acids:
 3.7
 28.11 Other inorganic acids and other inorganic oxygen
 compounds of non-metals:
+- Other inorganic acids:
 H.S. Code
 Description Import Duty
-Number
-- Other inorganic acids:
-2811.11.00.00 - - Hydrogen fluoride (hydrofluoric acid)
+Number 2811.11.00.00 - - Hydrogen fluoride (hydrofluoric acid)
 7
 - - Other: 2811.19
 2811.19.10.00 - - - Hydrogen bromide (hydrobromic acid)
@@ -7432,10 +7430,11 @@ OF NON-METALS
 6 2812.10.99.00 - - - Other
 6 2812.90.00.00 - Other
 5.7
+28.13 Sulphides of non-metals; commercial phosphorus
+trisulphide:
 H.S. Code
 Description Import Duty
-Number 28.13 Sulphides of non-metals; commercial phosphorus
-trisulphide:
+Number
 2813.10.00.00 - Carbon disulphide
 6
 - Other: 2813.90
@@ -7470,11 +7469,11 @@ and peroxides, of strontium or barium:
 28.18 Artificial corundum, whether or not chemically defined;
 aluminium oxide; aluminium hydroxide:
 2818.10 - Artificial corundum, whether or not chemically defined:
+2818.10.10.00 - - White, pink or ruby, with an aluminium oxide content
+exceeding 97.5% by weight 5.2
 H.S. Code
 Description Import Duty
-Number 2818.10.10.00 - - White, pink or ruby, with an aluminium oxide content
-exceeding 97.5% by weight 5.2
-2818.10.90.00 - - Other
+Number 2818.10.90.00 - - Other
 5.2 2818.20.00.00 - Aluminium oxide, other than artificial corundum
 5.7 2818.30.00.00 - Aluminium hydroxide
 5.7
@@ -7505,12 +7504,12 @@ or more by weight of combined iron evaluated as Fe2 03:
 10.5 2824.20.00.00 - Red lead and orange lead
 10.5 2824.90.00.00 - Other
 10.5
-H.S. Code
-Description Import Duty
-Number 28.25 Hydrazine and hydroxylamine and their inorganic salts;
+28.25 Hydrazine and hydroxylamine and their inorganic salts;
 other inorganic bases; other metal oxides, hydroxides and
 peroxides:
-2825.10.00.00 - Hydrazine and hydroxylamine and their inorganic salts
+H.S. Code
+Description Import Duty
+Number 2825.10.00.00 - Hydrazine and hydroxylamine and their inorganic salts
 6 2825.20.00.00 - Lithium oxide and hydroxide
 5.3 2825.30.00.00 - Vanadium oxides and hydroxides
 5.3 2825.40.00.00 - Nickel oxides and hydroxides
@@ -7524,8 +7523,7 @@ peroxides:
 2825.90.11.00 - - - Calcium hydroxide, of a purity of 98% or more calculated
 on the dry weight, in the form of particles of which
 - not more than 1% by weight have a particle-size exceeding
-75 micrometres
-and
+75 micrometres and
 - not more than 4% by weight have a particle-size of not less
 than 1.3 micrometres 4.6
 2825.90.19.00 - - - Other
@@ -7544,12 +7542,12 @@ complex fluorine salts:
 2826.11.00.00 - - Of ammonium or of sodium
 10 2826.12.00.00 - - Of aluminium
 5.3 2826.19.00.00 - - Other
-5.3
-H.S. Code
-Description Import Duty
-Number 2826.20.00.00 - Fluorosilicates of sodium or of potassium
+5.3 2826.20.00.00 - Fluorosilicates of sodium or of potassium
 12 2826.30.00.00 - Sodium hexafluoroaluminate (synthetic cryolite)
 8
+H.S. Code
+Description Import Duty
+Number
 - Other: 2826.90
 2826.90.10.00 - - Dipotassium hexafluorozirconate
 5 2826.90.90.00 - - Other
@@ -7586,11 +7584,12 @@ bromides and bromide oxides; iodides and iodide oxides:
 6.9
 28.28 Hydrochlorites; commercial calcium hypochlorite;
 chlorites; hypobromites:
-H.S. Code
-Description Import Duty
-Number 2828.10.00.00 - Commercial calcium hypochlorite and other calcium
+2828.10.00.00 - Commercial calcium hypochlorite and other calcium
 hypochlorites 5.5
 - Other 2828.90.00.00 5.5
+H.S. Code
+Description Import Duty
+Number
 28.29 Chlorates and perchlorates; bromates and perbromates;
 iodates and periodates:
 - Chlorates:
@@ -7622,13 +7621,13 @@ iodates and periodates:
 8
 28.33 Sulphates; alums; peroxosulphates (persulphates):
 - Sodium sulphates:
-H.S. Code
-Description Import Duty
-Number 2833.11.00.00 - - Disodium sulphate
+2833.11.00.00 - - Disodium sulphate
 5.5 2833.19.00.00 - - Other
 5.5
 - Other sulphates:
-2833.21.00.00 - - Of magnesium
+H.S. Code
+Description Import Duty
+Number 2833.21.00.00 - - Of magnesium
 9 2833.22.00.00 - - Of aluminium
 9 2833.23.00.00 - - Of chromium
 9 2833.24.00.00 - - Of nickel
@@ -7661,12 +7660,12 @@ of lead 8
 3
 28.35 Phosphates (hypophosphites), phosphonates (phosphites),
 phosphates and polyphosphates:
-H.S. Code
-Description Import Duty
-Number 2835.10.00.00 - Phosphinates (hypophosphites) and phosphonates
+2835.10.00.00 - Phosphinates (hypophosphites) and phosphonates
 (phosphites) 6
 - Phosphates:
-2835.22.00.00 - - Of mono- or disodium
+H.S. Code
+Description Import Duty
+Number 2835.22.00.00 - - Of mono- or disodium
 5.5 2835.23.00.00 - - Of trisodium
 10 2835.24.00.00 - - Of potassium
 10
@@ -7701,14 +7700,14 @@ carbonates 6
 10 2836.40.00.00 - Potassium carbonates
 5.5 2836.50.00.00 - Calcium carbonate
 5 2836.60.00.00 - Barium carbonate
-8
-H.S. Code
-Description Import Duty
-Number 2836.70.00.00 - Lead carbonate
+8 2836.70.00.00 - Lead carbonate
 8
 - Other:
 2836.91.00.00 - - Lithium carbonates
-5.5 2836.92.00.00 - - Strontium carbonate
+5.5
+H.S. Code
+Description Import Duty
+Number 2836.92.00.00 - - Strontium carbonate
 8
 - - Other: 2836.99
 - - - Carbonates:
@@ -7740,13 +7739,12 @@ Number 2836.70.00.00 - Lead carbonate
 5.3
 - Other borates: 2840.20
 2840.20.10.00 - - Borates of sodium, anhydrous
-3.7
-H.S. Code
-Description Import Duty
-Number 2840.20.90.00 - - Other
+3.7 2840.20.90.00 - - Other
 5.3 2840.30.00.00 - Peroxoborates (perborates)
 6.9
-28.41 Salts of oxometallic or peroxometallic acids:
+H.S. Code
+Description Import Duty
+Number 28.41 Salts of oxometallic or peroxometallic acids:
 2841.10.00.00 - Aluminates
 6.9 2841.20.00.00 - Chromates of zinc or of lead
 13 2841.30.00.00 - Sodium dichromate
@@ -7779,14 +7777,14 @@ compounds of precious metals, whether or not chemically
 defined; amalgams of precious metals:
 - Colloidal precious metals: 2843.10
 2843.10.10.00 - - Silver
-5.3
-H.S. Code
-Description Import Duty
-Number 2843.10.90.00 - - Other
+5.3 2843.10.90.00 - - Other
 3.7
 - Silver compounds:
 2843.21.00.00 - - Silver nitrate
-6 2843.29.00.00 - - Other
+6
+H.S. Code
+Description Import Duty
+Number 2843.29.00.00 - - Other
 6 2843.30.00.00 - Gold compounds
 3
 - Other compounds; amalgams: 2843.90
@@ -7824,12 +7822,12 @@ compounds of these products, of a U235 content of:
 containing plutonium or compounds of these products:
 - - - Mixtures of uranium and plutonium:
 2844.20.51.00 - - - - Ferro-uranium
+0 2844.20.59.00 - - - - Other (Euratom)
+0 2844.20.99.00 - - - Other
 0
 H.S. Code
 Description Import Duty
-Number 2844.20.59.00 - - - - Other (Euratom)
-0 2844.20.99.00 - - - Other
-0
+Number
 - Uranium depleted in U235 and its compounds; thorium and 2844.30
 its compounds; alloys, dispersions (including cermets),
 ceramic products and mixtures containing uranium
@@ -7871,12 +7869,12 @@ compounds of this product 0
 - - Other:
 2844.40.20.00 - - - Artificial radioactive isotopes (Euratom)
 0 2844.40.30.00 - - - Compounds of artificial radioactive isotopes (Euratom)
-0
-H.S. Code
-Description Import Duty
-Number 2844.40.80.00 - - - Other
+0 2844.40.80.00 - - - Other
 0 2844.50.00.00 - Spent (irradiated) fuel elements (cartridges) of nuclear
 reactors (Euratom) 0
+H.S. Code
+Description Import Duty
+Number
 28.45 Isotopes other than those of heading No. 28.44;
 compounds, inorganic or organic, of such isotopes,
 whether or not chemically defined:
@@ -7908,14 +7906,15 @@ ferrophosphorus 6.6
 vanadium; of tantalum; of titanium 8
 2849.90.90.00 - - Other
 5.3
-H.S. Code
-Description Import Duty
-Number 28.50 Hydrides, nitrides, azides, silicides and borides, whether or
+28.50 Hydrides, nitrides, azides, silicides and borides, whether or
 not chemically defined, other than compounds which are
 also carbides of heading No. 28.49:
 2850.00.20.00 - Hydrides; nitrides
 4.6 2850.00.50.00 - Azides
-6.3 2850.00.70.00 - Silicides
+6.3
+H.S. Code
+Description Import Duty
+Number 2850.00.70.00 - Silicides
 8.8 2850.00.90.00 - Borides
 5.3
 28.51 Other inorganic compounds (including distilled or
@@ -7959,7 +7958,8 @@ tablets, sticks or similar forms) for use as fuels, or liquid or liquified-gas f
 (ij) Products put up as charges for fire extinguishers or put up in fire extinguishing grenades, of
 heading No. 38.13; ink removers put up in packings for retail sale, of heading No. 38.24; or
 (k) Optical elements, for example, of ethylenediamine tartrate (heading No. 90.01).
-3. Goods which could be included in two or more of the headings of this Chapter are to be classified in that one of those headings which occurs last in numerical order. 4. In headings Nos. 29.04 to 29.06, 29.08 to 29.11 and 29.13 to 29.20, any reference to halogenated, sulphonated, nitrated or nitrosated derivatives, includes a reference to compound derivatives, such as sulphohalogenated, nitrohalogenated, nitrosulphonated or nitrosulphohalogenated derivatives. Nitro and nitroso groups are not to be taken as "nitrogen functions" for the purpose of heading No. 29.29.
+3. Goods which could be included in two or more of the headings of this Chapter are to be classified in that one of those headings which occurs last in numerical order.
+4. In headings Nos. 29.04 to 29.06, 29.08 to 29.11 and 29.13 to 29.20, any reference to halogenated, sulphonated, nitrated or nitrosated derivatives, includes a reference to compound derivatives, such as sulphohalogenated, nitrohalogenated, nitrosulphonated or nitrosulphohalogenated derivatives. Nitro and nitroso groups are not to be taken as "nitrogen functions" for the purpose of heading No. 29.29.
 For the purposes of headings Nos. 29.11, 29.12, 29.14, 29.18 and 29.22, "oxygen function" is to be restricted to the functions (the characteristic organic oxygen containing groups) referred to in headings Nos. 29.05 to 29.20.
 5. (a) The esters of acid function organic compounds of sub Chapters I to VII with organic
 compounds of these sub Chapters are to be classified with that compound which is classified in the heading which occurs last in numerical order in these sub Chapter.
@@ -7980,8 +7980,7 @@ These provisions apply only when the ring-position hetero-atoms are those result
 SUBHEADING NOTE
 1. Within any one heading of this Chapter, derivatives of a chemical compound (or group of chemical compounds) are to be classified in the same subheading as that compound (or group of compounds) provided that they are not more specifically covered by any other subheading and that there is no residual subheading named "Other" in the series of subheadings concerned.
 ADDITIONAL NOTE
-1. For the purposes of subheading 2937.22.00.00, the expression 'adrenal cortical hormones' means natural adrenal cortical hormones, or those reproduced by synthesis, and their derivatives, provided that the latter retain hormonal activity.
-H.S. Code
+1. For the purposes of subheading 2937.22.00.00, the expression 'adrenal cortical hormones' means natural adrenal cortical hormones, or those reproduced by synthesis, and their derivatives, provided that the latter retain hormonal activity. H.S. Code
 Description Import Duty
 Number
 I. HYDROCARBONS AND THEIR
@@ -8017,16 +8016,15 @@ NITRATED OR NITROSATED DERIVATIVES
 0
 - - - Isoprene:
 2901.24.91.00 - - - - For use as a power or heating fuel
-0
-H.S. Code
-Description Import Duty
-Number 2901.24.99.00 - - - - For other purposes
+0 2901.24.99.00 - - - - For other purposes
 0
 - - Other 2901.29
 2901.29.20.00 - - - For use as power or heating fuels
 0 2901.29.80.00 - - - For other purposes
 0
-29.02 Cyclic hydrocarbons:
+H.S. Code
+Description Import Duty
+Number 29.02 Cyclic hydrocarbons:
 - Cyclanes, cyclenes and cycloterpenes:
 - - Cyclohexane: 2902.11
 2902.11.10.00 - - - For use as a power or heating fuel
@@ -8061,14 +8059,15 @@ Number 2901.24.99.00 - - - - For other purposes
 4.6 2902.70.00.00 - Cumene
 8
 - Other: 2902.90
-H.S. Code
-Description Import Duty
-Number 2902.90.10.00 - - Naphthalene and anthracene
+2902.90.10.00 - - Naphthalene and anthracene
 2.5 2902.90.30.00 - - Biphenyl and terphenyls
 6.9 2902.90.50.00 - - Vinyltoluenes
 6.3 2902.90.60.00 - - 1,3-Disopropylbenzene
 6.3 2902.90.80.00 - - Other
 6.3
+H.S. Code
+Description Import Duty
+Number
 29.03 Halogenated derivatives of hydrocarbons:
 - Saturated chlorinated derivatives of acyclic hydrocarbons:
 2903.11.00.00 - - Chloromethane (methyl chloride) and chloroethane (ethly
@@ -8101,9 +8100,6 @@ hydrocarbons:
 2903.30.80.10 - - - Iodides
 8.4 2903.30.80.90 - - - Other
 7.6
-H.S. Code
-Description Import Duty
-Number
 - Halogenated derivatives of acyclic hydrocarbons containing
 two or more different halogens:
 2903.41.00.00 - - Trichlorofluoromethane
@@ -8111,7 +8107,9 @@ two or more different halogens:
 7.4 2903.43.00.00 - - Trichlorotrifluoroethanes
 7.4
 - - Dichlorotetrafluoroethanes and chloropentafluoroethane: 2903.44
-2903.44.10.00 - - - Dichlorotetrafluoroethanes
+H.S. Code
+Description Import Duty
+Number 2903.44.10.00 - - - Dichlorotetrafluoroethanes
 7.4 2903.44.90.00 - - - Chloropentafluoroethane
 7.4
 - - Other derivatives perhalogenated only with fluorine and 2903.45
@@ -8143,10 +8141,7 @@ dibromotetrafluoroethanes:
 - - - Halogenated only with fluorine and bromine:
 2903.49.30.00 - - - - Of methane, ethane or propane
 7.4 2903.49.40.90 - - - - Other
-7.4
-H.S. Code
-Description Import Duty
-Number 2903.49.80.00 - - - Other
+7.4 2903.49.80.00 - - - Other
 7.4
 - Halogenated derivatives of cyclanic, cyclenic or
 cycloterpenic hydrocarbons:
@@ -8154,7 +8149,10 @@ cycloterpenic hydrocarbons:
 7.4
 - - Other: 2903.59
 2903.59.10.00 - - - 1, 2-Dibromo-4-(1,2-dibromoethyl)cyclohexane
-7.4 2903.59.30.00 - - - Tetrabromocyclooctanes
+7.4
+H.S. Code
+Description Import Duty
+Number 2903.59.30.00 - - - Tetrabromocyclooctanes
 7.4 2903.59.90.00 - - - Other
 7.4
 - Halogenated derivatives of aromatic hydrocarbons:
@@ -8185,15 +8183,16 @@ nitrated or nitrosated derivatives:
 2905.11.00.00 - - Methanol (methyl alcohol)
 13 2905.12.00.00 - - Propan -1-ol (propyl alcohol) and propan-2-ol (isopropyl
 alcohol) 5.5
-H.S. Code
-Description Import Duty
-Number 2905.13.00.00 - - Butan-1-ol (n-butyl alcohol)
+2905.13.00.00 - - Butan-1-ol (n-butyl alcohol)
 6.6
 - - Other butanols: 2905.14
 2905.14.10.00 - - - 2-Methylpropan-2-ol) (tert-butyl alcohol)
 6.6 2905.14.90.00 - - - Other
 11 2905.15.00.00 - - Pentanol (amyl alcohol) and isomers thereof
 8
+H.S. Code
+Description Import Duty
+Number
 - - Octanol (octyl alcohol) and isomers thereof: 2905.16
 2905.16.10.00 - - - 2-Ethylhexan-1-ol
 7.9 2905.16.20.00 - - - Octan-2-ol
@@ -8227,10 +8226,7 @@ alcohol) and octadecan-l-ol (stearyl alcohol) 7.9
 2905.41.00.00 - - 2-Ethyl-2-(hydroxymethyl) propane-1, 3-diol
 (trimethylolpropane) 13
 2905.42.00.00 - - Pentaerythritol
-13
-H.S. Code
-Description Import Duty
-Number 2905.43.00.00 - - Mannitol
+13 2905.43.00.00 - - Mannitol
 12
 - - D-glucitol (sorbitol): 2905.44
 - - - In aqueous solution:
@@ -8238,6 +8234,9 @@ Number 2905.43.00.00 - - Mannitol
 calculated on the D-glucitol content 12
 2905.44.19.00 - - - - Other
 12
+H.S. Code
+Description Import Duty
+Number
 - - - Other:
 2905.44.91.00 - - - - Containing 2% or less by weight of D-mannitol,
 calculated on the D-glucitol content 12
@@ -8271,16 +8270,16 @@ dimethylcyclohexanols 8
 - - Sterols and inositols: 2906.13
 2906.13.10.00 - - - Sterols
 6.6 2906.13.90.00 - - - Inositols
-6.6
-H.S. Code
-Description Import Duty
-Number 2906.14.00.00 - - Terpineols
+6.6 2906.14.00.00 - - Terpineols
 5.5 2906.19.00.00 - - Other
 7.1
 - Aromatic:
 2906.21.00.00 - - Benzyl alcohol
 7.4 2906.29.00.00 - - Other
 7.4
+H.S. Code
+Description Import Duty
+Number
 III. PHENOLS, PHENOL-ALCOHOLS, AND
 THEIR HALOGENATED, SULPHONATED,
 NITRATED OR NITROSATED DERIVATIVES
@@ -8310,12 +8309,13 @@ diphenylolpropane) and its salts 6.9
 derivatives of phenols or phenol-alcohols:
 2908.10.00.00 - Derivatives containing only halogen substitutes and their
 salts 6.9
-H.S. Code
-Description Import Duty
-Number 2908.20.00.00 - Derivatives containing only sulpho groups, their salts and
+2908.20.00.00 - Derivatives containing only sulpho groups, their salts and
 esters 7.6
 2908.90.00.00 - Other
 5.5
+H.S. Code
+Description Import Duty
+Number
 IV. ETHERS, ALCOHOL PEROXIDES, ETHER
 PEROXIDES, KETONE PEROXIDES,
 EPOXIDES WITH A THREE-MEMBERED
@@ -8352,13 +8352,13 @@ or nitrosated derivatives:
 glycol 8
 2909.43.00.00 - - Monobutyl ethers of ethylene glycol or of diethylene
 glycol 8
-H.S. Code
-Description Import Duty
-Number 2909.44.00.00 - - Other monoalkylethers of ethylene glycol or of diethylene
+2909.44.00.00 - - Other monoalkylethers of ethylene glycol or of diethylene
 glycol 8
 - - Other: 2909.49
 - - - Acyclic
-2909.49.11.00 - - - - 2-(2-Chloroethoxy) ethanol
+H.S. Code
+Description Import Duty
+Number 2909.49.11.00 - - - - 2-(2-Chloroethoxy) ethanol
 8 2909.49.19.00 - - - - Other
 8 2909.49.90.00 - - - Cyclic
 6.6
@@ -8388,15 +8388,15 @@ cyclic polymers of aldehydes; paraformaldehyde:
 2912.11.00.00 - - Methanal (formaldehyde)
 5.5 2912.12.00.00 - - Ethanal (acetaldehyde)
 19.2 2912.13.00.00 - - Butanal (butyraldehyde, normal isomer)
-7.8
-H.S. Code
-Description Import Duty
-Number 2912.19.00.00 - - Other
+7.8 2912.19.00.00 - - Other
 7.1
 - Cyclic aldehydes without other oxygen function:
 2912.21.00.00 - - Benzaldehyde
 7.1 2912.29.00.00 - - Other
-7.1 2912.30.00.00 - Aldehyde-alcohols
+7.1
+H.S. Code
+Description Import Duty
+Number 2912.30.00.00 - Aldehyde-alcohols
 7.1
 - Aldehyde-ethers, aldehyde-phenols and aldehydes with
 other oxygen function:
@@ -8428,15 +8428,14 @@ oxygen function:
 6.9 2914.23.00.00 - - Ionones and methylionones
 6.9 2914.29.00.00 - - Other
 6.9
-H.S. Code
-Description Import Duty
-Number
 - Aromatic ketones without other oxygen function:
 2914.31.00.00 - - Phenylacetone (phenylpropan-2-one)
 7.6 2914.39.00.00 - - Other
 7.6
 - Ketone-alcohols and ketone-aldehydes: 2914.40
-2914.40.10.00 - - 4-Hydroxy-4-methylpentan-2-one (diacetone alcohol)
+H.S. Code
+Description Import Duty
+Number 2914.40.10.00 - - 4-Hydroxy-4-methylpentan-2-one (diacetone alcohol)
 7 2914.40.90.00 - - Other
 3 2914.50.00.00 - Ketone-phenols and ketones with other oxygen function
 7.6
@@ -8470,15 +8469,15 @@ derivatives:
 6.6 2915.22.00.00 - - Sodium acetate
 15.2 2915.23.00.00 - - Cobalt acetates
 11 2915.24.00.00 - - Acetic anhydrides
-8
-H.S. Code
-Description Import Duty
-Number 2915.29.00.00 - - Other
+8 2915.29.00.00 - - Other
 7.4
 - Esters of acetic acid:
 2915.31.00.00 - - Ethyl acetate
 7.3 2915.32.00.00 - - Vinyl acetate
-11.5 2915.33.00.00 - - n-Butyl acetate
+11.5
+H.S. Code
+Description Import Duty
+Number 2915.33.00.00 - - n-Butyl acetate
 5.5 2915.34.00.00 - - Isobutyl acetate
 5.5 2915.35.00.00 - - 2-Ethoxyethyl acetate
 7.4
@@ -8510,9 +8509,7 @@ phenylethane-1, 2-diol 5.5
 7.1 2915.90.20.00 - - Chloroformates
 7.1 2915.90.80.00 - - Other
 7.1
-H.S. Code
-Description Import Duty
-Number 29.16 Unsaturated acyclic monocarboxylic acids and their
+29.16 Unsaturated acyclic monocarboxylic acids and their
 anhydrides, halides, peroxides and peroxyacids ; their
 halogenated, sulphonated, nitrated or nitrosated
 derivatives:
@@ -8520,7 +8517,9 @@ derivatives:
 anhydrides, halides, peroxides, peroxyacids and their
 derivatives:
 - - Acrylic acid and its salts: 2916.11
-2916.11.10.00 - - - Acrylic acid
+H.S. Code
+Description Import Duty
+Number 2916.11.10.00 - - - Acrylic acid
 8 2916.11.90.00 - - - Salts of acrylic acid
 10
 - - Esters of acrylic acid: 2916.12
@@ -8553,9 +8552,6 @@ peroxides, peroxyacids and their derivatives:
 7.8 2916.35.00.00 - - Esters of phenylacetic acid
 7.8 2916.39.00.00 - - Other
 6.5
-H.S. Code
-Description Import Duty
-Number
 29.17 Polycarboxylic acids, their anhydrides, halides, peroxides
 and peroxyacids; their halogenated, sulphonated, nitrated
 or nitrosated derivatives:
@@ -8563,6 +8559,9 @@ or nitrosated derivatives:
 peroxides, peroxyacids and their derivatives:
 2917.11.00.00 - - Oxalic acid, its salts and esters
 6.5
+H.S. Code
+Description Import Duty
+Number
 - - Adipic acid, its salts and esters: 2917.12
 2917.12.10.00 - - - Adipic acid and its salts
 13 2917.12.90.00 - - - Esters of adipic acid
@@ -8593,17 +8592,16 @@ peroxides, peroxyacids and their derivatives:
 13
 - - - Other:
 2917.39.30.00 - - - - Benzene-1, 2-4-tricarboxylic acid
-13
-H.S. Code
-Description Import Duty
-Number 2917.39.40.00 - - - - Isophthaloyl dichloride, containing by weight 0.8% or
+13 2917.39.40.00 - - - - Isophthaloyl dichloride, containing by weight 0.8% or
 less of terephthaloyl dichloride 13
 2917.39.50.00 - - - - Naphthalene-1, 4, 5, 8-tetracarboxylic acid
 13 2917.39.60.00 - - - - Tetrachlorophthalic anhydride
 13 2917.39.70.00 - - - - Sodium 3, 5-bis (methoxycarbonyl) benzenesulphonate
 13 2917.39.80.00 - - - Other
 13
-29.18 Carboxylic acids with additional oxygen function and their
+H.S. Code
+Description Import Duty
+Number 29.18 Carboxylic acids with additional oxygen function and their
 anhydrides, halides, peroxides and peroxyacids ; their
 halogenated, sulphonated, nitrated or nitrosated
 derivatives:
@@ -8636,9 +8634,7 @@ peroxyacids and their derivatives:
 8.1 2918.23.90.00 - - - Other
 6.5
 - - Other: 2918.29
-H.S. Code
-Description Import Duty
-Number 2918.29.10.00 - - - Sulphosalicylic acids, hydroxynaphthoic acids; their salts
+2918.29.10.00 - - - Sulphosalicylic acids, hydroxynaphthoic acids; their salts
 and esters 7.6
 2918.29.30.00 - - - 4-Hydroxybenzoic acid, its salts and esters
 7.1 2918.29.50.00 - - - Gallic acid, its salts and esters
@@ -8646,7 +8642,9 @@ and esters 7.6
 7.4 2918.30.00.00 - Carboxylic acids with aldehyde or ketone function but
 without other oxygen function, their anhydrides, halides,
 peroxides, peroxyacids and their derivatives 7.4
-2918.90 - Other:
+H.S. Code
+Description Import Duty
+Number 2918.90 - Other:
 2918.90.10.00 - - 2, 6-Dimethoxybenzoic acid
 7.4 2918.90.20.00 - - Dicamba (ISO)
 7.4 2918.90.30.00 - - Sodium phenoxyacetate
@@ -8675,16 +8673,16 @@ their halogenated, sulphonated, nitrated or nitrosated
 derivatives 6.5
 2920.90.20.00 - - Dimethylphosphonate (dimethyl phosphite)
 6.5 2920.90.30.00 - - Trimethyl phosphite (trimethoxyphosphine)
-6.5
-H.S. Code
-Description Import Duty
-Number 2920.90.40.00 - - Triethyl phosphite
+6.5 2920.90.40.00 - - Triethyl phosphite
 6.5 2920.90.50.00 - - Diethyl phosphonate (diethyl hydrogenphosphite) (diethyl
 phosphie) 6.5
 2920.90.85.00 - - Other products
 6.5
 IX. NITROGEN-FUNCTION COMPOUNDS
 29.21 Amine-function compounds:
+H.S. Code
+Description Import Duty
+Number
 - Acyclic monoamines and their derivatives; salts thereof:
 - - Methylamine, di- or trimethylamine and their salts: 2921.11
 2921.11.10.00 - - - Methylamine, di- or trimethylamine
@@ -8716,10 +8714,7 @@ salts 6.3
 2921.42.10.00 - - - Halogenated, sulphonated, nitrated and nitrosated
 derivatives and their salts 12
 2921.42.90.00 - - - Other
-7.1
-H.S. Code
-Description Import Duty
-Number 2921.43.00.00 - - Toluidines and their derivatives; salts thereof
+7.1 2921.43.00.00 - - Toluidines and their derivatives; salts thereof
 7.1 2921.44.00.00 - - Diphenylamine and its derivatives; salts thereof
 7.1 2921.45.00.00 - - 1-Naphthylamine (a-naphthylamine), 2-naphthylamine (ß-
 naphthylamine) and their derivatives; salts thereof 7.1
@@ -8728,6 +8723,9 @@ naphthylamine) and their derivatives; salts thereof 7.1
 6.5 2921.49.90.00 - - - Other
 6.5
 - Aromatic polyamines and their derivatives; salts thereof:
+H.S. Code
+Description Import Duty
+Number
 - - o-, m-, p-Phenylenediamine, diaminotoluenes and their 2921.51
 derivatives; salts thereof:
 - - - o-, m-, p-Phenylenediamine, diaminotoluenes and their
@@ -8755,10 +8753,7 @@ thereof:
 7.1 2922.13 - - Triethanolamine and its salts:
 2922.13.10.00 - - - Triethanolamine
 7.1 2922.13.90.00 - - - Salts of triethanolamine
-7.1
-H.S. Code
-Description Import Duty
-Number 2922.19 - - Other:
+7.1 2922.19 - - Other:
 2922.19.10.00 - - - N-Ethyldiethanolamine
 6.5 2922.19.20.00 - - - 2, 2-Methyliminodiethanol (N-methyldiethanolamine)
 6.5 2922.19.90.00 - - - Other
@@ -8767,7 +8762,10 @@ Number 2922.19 - - Other:
 esters, other than those containing more than one kind of
 oxygen function; salts thereof:
 2922.21.00.00 - - Aminohydroxynaphthalenesulphonic acids and their salts
-10 2922.22.00.00 - - Anisidines, dianisidines, phenetidines, and their salts
+10
+H.S. Code
+Description Import Duty
+Number 2922.22.00.00 - - Anisidines, dianisidines, phenetidines, and their salts
 7.6 2922.29.00.00 - - Other
 10 2922.30.00.00 - Amino-aldehydes, amino-ketones and amino-quinones,
 other than those containing more than one kind of oxygen
@@ -8796,9 +8794,6 @@ compounds or carbonic acid:
 derivatives; salts thereof 7.6
 - Cyclic amides (including cyclic carbamates) and their
 derivatives; salts thereof:
-H.S. Code
-Description Import Duty
-Number
 - - Ureines and their drivatives; salts thereof: 2924.21
 2924.21.10.00 - - - Isoproturon (ISO)
 6.5
@@ -8808,7 +8803,9 @@ Number
 6.5 2924.22.00.00 - - 2-Acetamidobenzoic acid (N-acetylanthranilic acid)
 7.4
 - - Other: 2924.29
-2924.29.10.00 - - - Lidocain (INN)
+H.S. Code
+Description Import Duty
+Number 2924.29.10.00 - - - Lidocain (INN)
 12 2924.29.30.00 - - - Paracetamol (INN)
 7.4 2924.29.90.00 - - - Other
 7.4
@@ -8837,10 +8834,7 @@ methanophthalimide) 7
 7.1
 29.28 Organic derivatives of hydrazine and hydroxylamine
 2928.00.10.00 - N, N-Bis (2-methoxythyl) hydroxylamine
-7.4
-H.S. Code
-Description Import Duty
-Number 2928.00.90.00 - Other
+7.4 2928.00.90.00 - Other
 7.4
 29.29 Compounds with other nitrogen-function:
 - Isocyanates: 2929.10
@@ -8848,7 +8842,9 @@ Number 2928.00.90.00 - Other
 13 2929.10.90.00 - - Other
 13
 - Other: 2929.90
-2929.90.00.10 - - Calcium or sodium cyclamates
+H.S. Code
+Description Import Duty
+Number 2929.90.00.10 - - Calcium or sodium cyclamates
 13 2929.90.00.90 - - Other
 0
 X. ORGANO-INORGANIC COMPOUNDS,
@@ -8875,9 +8871,7 @@ hydroxyphenyl) propionate] 0
 (methylthio)-m-phenylenediamine 0
 2930.90.70.00 - - Other
 0
-H.S. Code
-Description Import Duty
-Number 29.31 Other organo-inorganic compounds:
+29.31 Other organo-inorganic compounds:
 2931.00.10.00 - Dimethyl methylphosphonate
 7.6 2931.00.20.00 - Methylphosphonoyl difluoride (methylphosphonic
 difluoride) 7.6
@@ -8885,7 +8879,9 @@ difluoride) 7.6
 dichloride) 7.6
 2931.00.95.00 - Other
 7.6
-29.32 Heterocyclic compounds with oxygen hetero-atom(s) only:
+H.S. Code
+Description Import Duty
+Number 29.32 Heterocyclic compounds with oxygen hetero-atom(s) only:
 - Compounds containing an unfused furan ring (whether or
 not hydrogenated) in the structure:
 2932.11.00.00 - - Tetrahydrofuran
@@ -8917,9 +8913,7 @@ pyran-1-yl] naphthalene-2-carboxylate 8
 6.9 2932.94.00.00 - - Safrole
 6.9
 - - Other: 2932.99
-H.S. Code
-Description Import Duty
-Number 2932.99.10.00 - - - Benzofuran (coumarone)
+2932.99.10.00 - - - Benzofuran (coumarone)
 6.9 2932.99.30.00 - - - Internal ethers
 7.4 2932.99.50.00 - - - Epoxides with a four-membered ring
 7.9 2932.99.70.00 - - - Other cyclic acetals and internal hemiacetals, whether or
@@ -8927,7 +8921,9 @@ not with other oxygen functions, and their halogenated,
 sulphonated, nitrated or nitrosated derivatives 6.9
 2939.99.80.00 - - - Other
 8
-29.33 Heterocyclic compounds with nitrogen hetero-atom(s)
+H.S. Code
+Description Import Duty
+Number 29.33 Heterocyclic compounds with nitrogen hetero-atom(s)
 only:
 - Compounds containing an unfused pyrazole ring (whether
 or not hydrogenated) in the structure:
@@ -8959,10 +8955,7 @@ not hydrogenated) in the structure:
 pyridostigmine bromide (INN) 5.5
 2933.39.20.00 - - - 2, 3, 5, 6-Tetrachloropyridine
 8 2933.39.25.00 - - - 3, 6-Dichloropyridine-2-carboxylic acid
-8
-H.S. Code
-Description Import Duty
-Number 2933.39.35.00 - - - 2-Hydroxyethylammonium-3, 6-dichloropyridine-2-
+8 2933.39.35.00 - - - 2-Hydroxyethylammonium-3, 6-dichloropyridine-2-
 carboxylate 8
 2933.39.40.00 - - - 2-Butoxyethyl (3, 5, 6-trichloro-2-pyridyloxy) acetate
 8 2933.39.45.00 - - - 3, 5-Dichloro-2, 4, 6-trifluoropyridine
@@ -8972,7 +8965,9 @@ carboxylate 8
 8
 - Compounds containing a quinoline or isoquinoline ring-
 system (whether or not hydrogenated), not further fused:
-2933.40.10.00 - - Halogen derivatives of quinoline; quinolinecarboxylic acid
+H.S. Code
+Description Import Duty
+Number 2933.40.10.00 - - Halogen derivatives of quinoline; quinolinecarboxylic acid
 derivatives 5.5
 2933.40.30.00 - - Dextromethorphan (INN) and its salts
 0 2933.40.90.00 - - Other
@@ -9004,9 +8999,6 @@ trimethylenetrinitramine) 5.5
 ylamino] phenol 8
 2933.69.80.00 - - - Other
 8
-H.S. Code
-Description Import Duty
-Number
 - Lactams:
 2933.71.00.00 - - 6-Hexanelactam (e-caprolactam)
 8 2933.79.00.00 - - Other lactams
@@ -9017,7 +9009,9 @@ Number
 dibenz[c,e]azepine (azapetine), chlordiazepoxide (INN),
 phenindamine (INN) and their salts ; imipramine hydro-
 chloride (INNM) 5.5
-2933.90.50.00 - - Monoazepines
+H.S. Code
+Description Import Duty
+Number 2933.90.50.00 - - Monoazepines
 8 2933.90.60.00 - - Diazepines
 8 2933.90.65.00 - - 2, 4-Di-tert-butyl-6-(5-chlorobenzotriatol-2-yl) phenol
 8 2933.90.95.00 - - Other
@@ -9047,10 +9041,7 @@ and maleates 0
 0 2934.90.60.00 - - Monothioles, whether or not hydrogenated
 0 2934.90.70.00 - - Monooxamonoazines, whether or not hydrogenated
 0 2934.90.80.00 - - Monothiins
-0
-H.S. Code
-Description Import Duty
-Number 2934.90.85.00 - - 7-Aminocephalosporanic acid
+0 2934.90.85.00 - - 7-Aminocephalosporanic acid
 0 2934.90.89.00 - - Nucleic acids and their salts
 0 2934.90.91.00 - - Salts and esters of (6R, 7R)-3-acetoxymethyl-7[(R)-2-
 formyloxy-2-phenylacetamido]-8-oxo-5-thia-1-
@@ -9059,7 +9050,9 @@ azabicyclo-[4.2.0] oct-2-ene-2-carboxylic acid 0
 0 2934.90.96.00 - - Other
 0
 29.35 Sulphonamides:
-2935.00.10.00 - 3-{1-[-(Hexadecylsulphonylamino)-1H-indole-3-yl]-3-oxo-
+H.S. Code
+Description Import Duty
+Number 2935.00.10.00 - 3-{1-[-(Hexadecylsulphonylamino)-1H-indole-3-yl]-3-oxo-
 1H, 3H-naphthol [1, 8cd] pyran-1-yl}-N, N-dimethyl- 1H-ondole-7-sulphonamide 0
 2935.00.20.00 - Metosulam (ISO)
 0 2935.00.90.00 - Other
@@ -9085,10 +9078,7 @@ its derivatives 0
 - - Other vitamins and their derivatives: 2936.29
 2936.29.10.00 - - - Vitamin B9 and its derivatives
 7.6 2936.29.30.00 - - - Vitamin H and its derivatives
-4.3
-H.S. Code
-Description Import Duty
-Number 2936.29.90.00 - - - Other
+4.3 2936.29.90.00 - - - Other
 5
 - Other, including natural concentrates: 2936.90
 - - Natural concentrates of vitamins:
@@ -9096,7 +9086,9 @@ Number 2936.29.90.00 - - - Other
 4.1 2936.90.19.00 - - - Other
 6.6 2936.90.90.00 - - Intermixtures, whether or not in any solvent
 6.8
-29.37 Hormones, natural or reproduced by synthesis; derivatives
+H.S. Code
+Description Import Duty
+Number 29.37 Hormones, natural or reproduced by synthesis; derivatives
 thereof used primarily as hormones; other steroids used
 primarily as hormones:
 2937.10.00.00 - Pituitary (anterior) or similar hormones, and their
@@ -9126,9 +9118,7 @@ salts, ethers, esters and other derivatives:
 6 2938.90.30.00 - - Glycyrrhizic acid and glycyrrhizates
 5.7 2938.90.90.00 - - Other
 6.6
-H.S. Code
-Description Import Duty
-Number 29.39 Vegetable alkaloids, natural or reproduced by synthesis,
+29.39 Vegetable alkaloids, natural or reproduced by synthesis,
 and their salts, ethers, esters and other derivatives:
 2939.10.00.00 - Alkaloids of opium and their derivatives; salts thereof
 0
@@ -9136,7 +9126,10 @@ and their salts, ethers, esters and other derivatives:
 - - Quinine and its salts: 2939.21
 2939.21.10.00 - - - Quinine and quinini sulphate
 4 2939.21.90.00 - - - Other
-9.6 2939.29.00.00 - - Other
+9.6
+H.S. Code
+Description Import Duty
+Number 2939.29.00.00 - - Other
 0 2939.30.00.00 - Caffeine and its salts
 10.4
 - Ephedrines and their salts:
@@ -9164,16 +9157,17 @@ XIII. OTHER ORGANIC COMPOUNDS
 maltose, glucose and fructose; sugar ethers and sugar
 esters, and their salts, other than products of headings
 Nos. 29.37, 29.38 and 29.39:
-H.S. Code
-Description Import Duty
-Number 2940.00.10.00 - Rhamnose, raffinose and mannose
+2940.00.10.00 - Rhamnose, raffinose and mannose
 15 2940.00.90.00 - Other
 20
 29.41 Antibiotics:
 - Penicillins and their derivatives with a penicillanic acid 2941.10
 structure; salts thereof:
 2941.10.10.00 - - Amoxicillin (INN) and its salts
-0 2941.10.20.00 - - Ampicillin (INN), metampicillin (INN), pivampicillin
+0
+H.S. Code
+Description Import Duty
+Number 2941.10.20.00 - - Ampicillin (INN), metampicillin (INN), pivampicillin
 (INN) and their salts 0
 2941.10.90.00 - - Other
 0
@@ -9221,7 +9215,8 @@ administered to the patient, being unmixed products put up in measured doses or 
 (e) Blood grouping reagents;
 (f) Dental cements and other dental filling; bone reconstruction cements;
 (g) First aid boxes and kits; and
-(h) Chemical contraceptive preparations based on hormones or spermicides H.S. Code Description
+(h) Chemical contraceptive preparations based on hormones or spermicides
+H.S. Code Description
 Import Duty
 Number 30.01 Glands and other organs, dried, whether or not
 powdered; extracts of glands or other organs or of their
@@ -9230,7 +9225,9 @@ salts; other animal substances prepared for therapeutic or
 prophylactic uses, not elsewhere specified or included:
 - Glands and other organs, dried, whether or not powdered: 3001.10
 3001.10.10.00 - - Powdered 0
-3001.10.90.00 - - Other 0
+H.S. Code Description
+Import Duty
+Number 3001.10.90.00 - - Other 0
 - Extracts of glands or other organs or of their secretions: 3001.20
 3001.20.10.00 - - Of human origin 0
 3001.20.90.00 - - Other 0
@@ -9258,13 +9255,13 @@ means of biotechnological processes:
 3002.30.00.00 - Vaccines for veterinary medicine 0
 - Other: 3002.90
 3002.90.10.00 - - Human blood 0
-H.S. Code Description
-Import Duty
-Number 3002.90.30.00 - - Animal blood prepared for therapeutic, prophylactic or
+3002.90.30.00 - - Animal blood prepared for therapeutic, prophylactic or
 diagnostic uses 0
 3002.90.50.00 - - Cultures of micro-organisms 0
 3002.90.90.00 - - Other 0
-30.03 Medicaments (excluding goods of heading No. 30.02, 30.05
+H.S. Code Description
+Import Duty
+Number 30.03 Medicaments (excluding goods of heading No. 30.02, 30.05
 or 30.06) consisting of two or more constituents which
 have been mixed together for therapeutic or prophylactic
 uses, not put up in measured doses or in forms or
@@ -9296,14 +9293,14 @@ derivatives thereof with a penicillanic acid structure 0
 - Containing other antibiotics: 3004.20
 3004.20.10.00 - - Put up in forms or in packings of a kind sold by retail 0
 3004.20.90.00 - - Other 0
-H.S. Code Description
-Import Duty
-Number
 - Containing hormones or other products of heading No.
 29.37 but not containing antibiotics:
 - - Containing insulin: 3004.31
 3004.31.10.00 - - - Put up in forms or in packings of a kind sold by retail 0
 3004.31.90.00 - - - Other 0
+H.S. Code Description
+Import Duty
+Number
 - - Containing adrenal cortical hormones: 3004.32
 3004.32.10.00 - - - Put up in forms or in packings of a kind sold by retail 0
 3004.32.90.00 - - - Other 0
@@ -9334,13 +9331,13 @@ surgical, dental or veterinary purposes:
 3005.10.00.00 - Adhesive dressings and other articles having an adhesive
 layer 6.6
 - Other: 3005.90
-H.S. Code Description
-Import Duty
-Number
 - - Wadding and articles or wadding 6.6 3005.90.10.00
 - - Other:
 - - - Of textile materials:
 3005.90.31.00 - - - - Gauze and articles of gauze 6.6
+H.S. Code Description
+Import Duty
+Number
 - - - - Other:
 3005.90.51.00 - - - - - Of nonwoven fabrics 6.6
 3005.90.55.00 - - - - - Other 6.6
@@ -9399,7 +9396,8 @@ calculated on the dry anhydrous product.
 B. Fertilisers consisting of any of the goods described in (A) above mixed together, but with no
 account being taken of the fluorine content limit.
 C. Fertilisers consisting of any of the goods described in (A) or (B) above, but with no account
-being taken of the fluorine content limit, mixed with chalk, gypsum or other inorganic non fertilising substances. 4. Heading No. 31.04 applies only to the following goods, provided that they are not put up in the forms or packages described in heading No. 31.05: A. Goods which answer to one or other of the descriptions given below:
+being taken of the fluorine content limit, mixed with chalk, gypsum or other inorganic non fertilising substances.
+4. Heading No. 31.04 applies only to the following goods, provided that they are not put up in the forms or packages described in heading No. 31.05: A. Goods which answer to one or other of the descriptions given below:
 (i) crude natural potassium salts (for example, carnallite, kainite and sylvite);
 (ii) potassium chloride, whether or not pure, except as provided in Note 1(c) above;
 (iii) potassium sulphate, whether or not pure;
@@ -9436,15 +9434,14 @@ other inorganic non-fertilising substances:
 - Sodium nitrate: 3102.50
 3102.50.10.00 - - Natural sodium nitrate
 0 3102.50.90.00 - - Other
-8
-H.S. Code Description
-Import Duty
-Number 3102.60.00.00 - Double salts and mixtures of calcium nitrate and ammonium
+8 3102.60.00.00 - Double salts and mixtures of calcium nitrate and ammonium
 nitrate 8
 3102.70.00.00 - Calcium cyanamide
 8 3102.80.00.00 - Mixtures of urea and ammonium nitrate in aqueous or
 ammoniacal solution 8
-3102.90.00.00 - Other, including mixtures not specified in foregoing
+H.S. Code Description
+Import Duty
+Number 3102.90.00.00 - Other, including mixtures not specified in foregoing
 subheadings 8
 31.03 Mineral or chemical fertilisers, phosphatic:
 - Superphosphates: 3103.10
@@ -9475,15 +9472,15 @@ tablets or similar forms or in packages of a gross weight
 not exceeding 10 kg:
 3105.10.00.00 - Goods of this Chapter in tablets or similar forms or in
 packages of a gross weight not exceeding 10 kg 8.8
-H.S. Code Description
-Import Duty
-Number
 - Mineral or chemical fertilisers containing the three 3105.20
 fertilising elements nitrogen, phosphorus and potassium:
 3105.20.10.00 - - With a nitrogen content exceeding 10% by weight on the
 dry anhydrous product 6.5
 3105.20.90.00 - - Other
-6.5 3105.30.00.00 - Diammonium hydrogenorthophosphate (diammonium
+6.5
+H.S. Code Description
+Import Duty
+Number 3105.30.00.00 - Diammonium hydrogenorthophosphate (diammonium
 phosphate) 6.6
 3105.40.00.00 - Ammonium dihydrogenorthophosphate (monoammonium
 phosphate) and mixtures thereof with diammonium
@@ -9536,15 +9533,15 @@ Description Import Duty
 Number 32.01 Tanning extracts of vegetable origin; tannins and their
 salts, ethers, esters and other derivatives:
 3201.10.00.00 - Quebracho extract
-0
-H.S. Code
-Description Import Duty
-Number 3201.20.00.00 - Wattle extract
+0 3201.20.00.00 - Wattle extract
 9
 - Other: 3201.90
 3201.90.20.00 - - Sumach extract, vallonia extract, oak or chestnut extract
 5.8 3201.90.90.00 - - Other
-5.3 32.02 Synthetic organic tanning substances, and inorganic
+5.3
+H.S. Code
+Description Import Duty
+Number 32.02 Synthetic organic tanning substances, and inorganic
 tanning substances; tanning preparations, whether or not
 containing natural tanning materials; enzymatic
 preparations for pretanning:
@@ -9579,15 +9576,14 @@ thereon 10
 and preparations based thereon 10
 3204.16.00.00 - - Reactive dyes and preparations based thereon
 6.5 3204.17.00.00 - - Pigments and preparations based thereon
-10
-H.S. Code
-Description Import Duty
-Number 3204.19.00.00 - - Other, including mixtures of colouring matter of two or
+10 3204.19.00.00 - - Other, including mixtures of colouring matter of two or
 more of the subheading Nos. 3204.11.00.00 to
 3204.19.00.00 10
 3204.20.00.00 - Synthetic organic products of a kind used as fluorescent
 brightening agents 6
-3204.90.00.00 - Other
+H.S. Code
+Description Import Duty
+Number 3204.90.00.00 - Other
 10
 32.05 00.00.00 Colour lakes; preparations as specified in Note 3 to this
 Chapter based on colour lakes 10
@@ -9620,14 +9616,14 @@ the ceramic, enamelling or glass industry; glass frit and
 other glass, in the form of powder, granules or flakes:
 3207.10.00.00 - Prepared pigments, prepared opacifiers, prepared colours
 and similar preparations 6.9
-H.S. Code
-Description Import Duty
-Number
 - Vitrifiable enamels and glazes, engobes (slips) and similar 3207.20
 preparations:
 3207.20.10.00 - - Engobes (slips)
 5.3 3207.20.90.00 - - Other
-6.3 3207.30.00.00 - Liquid lustres and similar preparations
+6.3
+H.S. Code
+Description Import Duty
+Number 3207.30.00.00 - Liquid lustres and similar preparations
 5.3
 - Glass frit and other glass, in the form of powder, granules or 3207.40
 flakes:
@@ -9663,11 +9659,11 @@ Chapter:
 10 3208.20.90.20 - - - Undercoats, primers and enamel paints
 10 3208.20.90.90 - - - Other
 10
+- Other: 3208.90
+- - Solutions as defined in Note 4 to this Chapter:
 H.S. Code
 Description Import Duty
 Number
-- Other: 3208.90
-- - Solutions as defined in Note 4 to this Chapter:
 - - - Polyurethane of 2, 2'-(tert-butylimino) diethanol and 4, 4'-
 methylene-dicyclohexyl diisocyanate, in the for of a
 solution in N, N-dimethylacetamide containing by weight
@@ -9706,12 +9702,11 @@ modified natural polymers, dispersed or dissolved in an
 aqueous medium:
 3209.10 - Based on acrylic or vinyl polymers:
 3209.10.00.10 - - Lacquers and varnishes in containers of 5 litres and under
-10
+10 3209.10.00.20 - - Primers, undercoats, synthetic resin emulsion-based paints
+and enamel paints 10
 H.S. Code
 Description Import Duty
-Number 3209.10.00.20 - - Primers, undercoats, synthetic resin emulsion-based paints
-and enamel paints 10
-3209.10.00.90 - - Other
+Number 3209.10.00.90 - - Other
 10
 - Other: 3209.90
 3209.90.00.10 - - Lacquers and varnishes in containers of 5 litres and under
@@ -9748,11 +9743,11 @@ used in the manufacture of paints (including enamels):
 6.6
 - - - Other:
 3212.90.31.00 - - - - With a basis of aluminium powder
-10
+10 3212.90.39.00 - - - - Other
+6.5
 H.S. Code
 Description Import Duty
-Number 3212.90.39.00 - - - - Other
-6.5 3212.90.90.00 - - Dyes and other colouring matter put up in forms or
+Number 3212.90.90.00 - - Dyes and other colouring matter put up in forms or
 packings for retail sale 7.1
 32.13 Artists' students or signboard painters' colours, modifying
 tints, amusement colours and the like, in tablets, tubes,
@@ -9813,9 +9808,10 @@ essential oils:
 3301.12.90.00 - - - Deterpenated 6.9
 - - Of lemon: 3301.13
 3301.13.10.00 - - - Not deterpenated 11
+3301.13.90.00 - - - Deterpenated 6.9
 H.S. Code
 Description Import Duty
-Number 3301.13.90.00 - - - Deterpenated 6.9
+Number
 - - Of lime: 3301.14
 3301.14.10.00 - - - Not deterpenated 11
 3301.14.90.00 - - - Deterpenated 6.9
@@ -9847,10 +9843,10 @@ Number 3301.13.90.00 - - - Deterpenated 6.9
 3301.29.31.00 - - - - Deterpenated 2.3
 - - - Other:
 3301.29.61.00 - - - - Not deterpenated 0
+3301.29.91.00 - - - - Deterpenated 2.3
 H.S. Code
 Description Import Duty
-Number 3301.29.91.00 - - - - Deterpenated 2.3
-3301.30.00.00 - Resinoids 2
+Number 3301.30.00.00 - Resinoids 2
 - Other: 3301.90
 3301.90.10.00 - - Terpenic by-products of the deterpenation of essential
 oils 2.3
@@ -15189,9 +15185,9 @@ NOTES
 1. For the purposes of this Chapter, the term "carpets and other textile floor coverings" means floor
 coverings in which textile materials serve as the exposed surface of the article when in use and includes articles having the characteristics of textile floor coverings but intended for use for other purposes.
 2. This Chapter does not cover floor covering underlays.
-Import H.S. Code
+H.S. Code Import
 Description
-Duty Number
+Number Duty
 57.01 Carpets and other textile floor coverings knotted, whether
 or not made up:
 - Of wool or fine animal hair: 5701.10
@@ -26989,7 +26985,7 @@ spacecraft launch vehicles:
 1.7
 - - Other:
 8803.90.91.00 - - - For use in civil aircraft and gliders
-0 8803.90.98.00 - - - Other
+0 Ý8803.90.98.00 - - - Other
 0
 88.04 00.00.00 Parachutes (including dirigible parachutes and
 paragliders) and rotochutes; parts thereof and accessories
@@ -29088,15 +29084,15 @@ H.S. Code Num-
 Description ber Import Duty
 98.01 00.00.00 Household and personal effects, furniture and other
 domestic articles, (excluding firearms and weapons of all
-kinds), which in the opinion of the Commissioner for
-Revenue have been in use within that household by the
+kinds), which in the opinion of the Commissioner for Tax
+and Customs have been in use within that household by the
 importing person or his family, and are imported by such
 person on removing his household from another country to
 Malta provided that such articles are imported within six
 months from the date of arrival in Malta of the person
 importing them to take up residence in Malta, or within
-such other period which the Commissioner for Revenue
-may allow 0
+such other period which the Commissioner for Tax and
+Customs may allow 0
 98.02 00.00.00 Samples of no commercial value
 0
 98.03 00.00.00 Showcards

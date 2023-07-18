@@ -46,8 +46,7 @@ economic impact
 A. Provisions common to several procedures 84-90
 B. External transit 91-97
 I. General provisions 91-92
-II. Specific provisions relating to external Community 93-97
-transit
+II. Specific provisions relating to external Community 93-97 transit
 C. Customs Warehouse 98-113
 D. Inward processing 114-129
 I. General 114-115
@@ -62,7 +61,8 @@ G. Outward processing 145-160
 I. General 145-146
 II. Grant of the authorization 147-148
 III. Operation of the procedure 149-153
-IV. Outward processing with use of the standard exchange 154-159 system
+IV. Outward processing with use of the standard exchange 154-159
+system
 V. Other provisions 160
 Section 4 Esportation 161-162
 Section 5 Internal transit 163-165
@@ -155,7 +155,7 @@ payable on the exportation of goods.
 (21) ''Holder of the procedure" means the person on whose behalf the customs declaration was made or the person to whom the rights and obligations of the abovementioned person in respect of a customs procedure have been transferred.
 (22) ''Holder of the authorization" means the person to whom an authorization has been granted.
 (23) ''Provisions in force" means provisions applicable in Malta.
-(24) ''Commissioner'' means the Commissioner for Revenue, and includes any other person having an express or implied authority to act for the said Commissioner in carrying out the provisions of this Code.
+(24) ''Commissioner'' means the Commissioner for Tax and Customs, and includes any other person having an express or implied authority to act for the said Commissioner in carrying out the provisions of this Code.
 (25)''the Community'' means the European Community established by the Treaty establishing the European Economic Community done at Rome on 25 March, 1957, as amended by the Single European Act of 1986 and the Treaty on European Union done at Maastricht on 7 February, 1992 and Amsterdam Treaty done in Amsterdam on 16 and 17 June, 1997, and whose members are Belgium, Denmark, the Federal Republic of Germany, Greece, Spain, France, Ireland, Italy, Luxembourg, the Netherlands, Austria, Portugal, Finland, Sweden and the United Kingdom of Great Britain and Northern Ireland, and other States which may become members thereof and to which an agreement between the European Community and Malta applies, and for the purposes of any agreement between the European Community and Malta, such other countries to which that agreement applies.
 (26) ''Minister'' means Minister responsible for Customs.
 CHAPTER 2
@@ -1660,10 +1660,8 @@ agricultural or €46,587.47 per applicant and per calendar year
 commercial policy measure, or provisional or definitive antidumping, or provisional or definitive countervailing duty
 Column 1 Column 2
 Order Goods Processing
-No
-Processing into information technology products of MCT 11 Any electronic type codes 8471 10 10 00 to 8471 90 00 00, 8473 10 11 00, 8473 of components, 21 10 00 to 8473 40 11 00, 8473 50 10 00, 8473 50 90 00 and parts, assemblies
-8541 10 00 10 to 8542 90 00 00 (including
-subassemblies), or materials (whether or not electronic), which are vital to the electronic working performance of the processed product 12 Solid fractions of Processing into:
+No 11 Any electronic type Processing into information technology products of MCT
+of components, codes 8471 10 10 00 to 8471 90 00 00, 8473 10 11 00, 8473 parts, assemblies 21 10 00 to 8473 40 11 00, 8473 50 10 00, 8473 50 90 00 and (including 8541 10 00 10 to 8542 90 00 00 subassemblies), or materials (whether or not electronic), which are vital to the electronic working performance of the processed product 12 Solid fractions of Processing into:
 palm oil falling
 - mixtures of fatty acids falling within MCT codes 3823 within MCT code
 11 00, 3823 12 00 00, ex 3823 19 10 00, ex 3823 19 30 1511 90 19 00 or 00 and ex 3823 19 90 00 Fluid fractions of
@@ -1700,9 +1698,7 @@ code ex 2918 19 99 00
 Column 1 Column 2
 Order Goods Processing
 No 14 Tobaccos falling Processing into ''homogenised'' or ''reconstituted'' tobacco
-falling within MCT code 2403 91 00 and/or tobacco powder within Chapter 24 falling within MCT code 2403 99 90 of the Maltese
-Customs Tariff
-Processing into partly or wholly stemmed/stripped tobaccos 15 Raw or
+within Chapter 24 falling within MCT code 2403 91 00 and/or tobacco powder of the Maltese falling within MCT code 2403 99 90 Customs Tariff 15 Raw or Processing into partly or wholly stemmed/stripped tobaccos
 unmanufactured falling within MCT code 2401 20 and into tobacco refuse tobacco falling falling within MCT code 2401 30 00 within MCT code 2401 10
 Raw or unmanufactured tobacco partly stemmed/stripped falling within MCT code ex 2401 20 16 Products falling Processing into products falling within MCT codes: 2710 00
 within MCT codes: 71 00 or 2710 00 72 00 2707 10, 2707 20, 2707 30, 2707 50, 2707 91 00 00, 2707 99 30 00, 2707 99 91 00, 2707 99 99 00 and 2710 00 17 Crude oils falling Processing into products falling within MCT codes 2707 10
@@ -1713,12 +1709,13 @@ falling within MCT 60 00 00 code 3921 90 60 00
 Column 1 Column 2
 Order Goods Processing
 No
-Processing into: 20 Skating boots
+20 Skating boots Processing into:
 without skates
 ice skates of MCT code 9506 70 10 00 attached of MCT
 code 6402 19 00 00
 roller skates of MCT code 9506 70 30 00
-Skating boots without skates attached of MCT code 6403 19 00 21 Motor chassis fitted Processing into fire engines fitted with integral fire fighting
+Skating boots without skates attached of MCT code 6403 19 00
+21 Motor chassis fitted Processing into fire engines fitted with integral fire fighting
 with cabs, of MCT and/ or life saving equipment, of MCT code 8705 30 00 00 code 8704 21 31
 PART B
 The economic conditions shall be examined for the following types of goods and operations, which are not covered by Part A:
