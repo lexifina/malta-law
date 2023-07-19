@@ -8,4 +8,4 @@ PHARMACOLOGY - B.SC. (HONS) - UNDER THE
 AUSPICES OF THE FACULTY OF MEDICINE AND
 SURGERY
 19th November, 2021
-LEGAL NOTICE 442 of 2021, as amended by Legal Notice 305 of 2022.
+LEGAL NOTICE 442 of 2021, as amended by Legal Notices 305 of 2022 and 175 of 2023.
