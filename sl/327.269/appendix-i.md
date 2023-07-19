@@ -2,14 +2,9 @@
 # appendix-i
 The Preparatory Course
 1. In order to be admitted to the Preparatory Course for the Nursing area of study, applicants are required to be in possession of one of the following:
-(a) passes at Grade 3 or better in the Secondary Education
-Certificate Examination in six subjects, including
-Maltese, English Language and Mathematics; or
-(b) passes in the Secondary Education Certificate
-Examination in six subjects, including: Maltese,
-English Language, Mathematics and either Biology or
-Health and Social Care, together with a pass at
 B.SC. (HONS) - UNDER THE AUSPICES OF [S.L.327.269 6 THE FACULTY OF HEALTH SCIENCES
+(a) passes at Grade 3 or better in the Secondary Education Certificate Examination in six subjects, including Maltese, English Language and Mathematics; or
+(b) passes in the Secondary Education Certificate Examination at grade 5 or better in six subjects, including: Maltese, English Language, Mathematics and either Biology or Health and Social Care, together with a pass at
 Advanced Level in any other subject; or
 (c) the MCAST-BTEC Extended Diploma in Health and Social Care (Health Studies) or the MCAST Advanced
 Diploma in Health Sciences, or equivalent.
@@ -27,4 +22,4 @@ completed the Preparatory Course if they obtain all the credits as outlined in t
 7. The provisions regarding assessment, progression and
 successful completion of the Preparatory Course, and any other provisions not outlined in this Appendix to these bye-laws shall be those stipulated in the Principal Regulations and shall apply mutatis mutandis.
 - Added by: L.N. 354 of 2020.
-- Amended by: L.N. 20 of 2021.
+- Amended by: L.N. 20 of 2021; L.N. 179 of 2023.
