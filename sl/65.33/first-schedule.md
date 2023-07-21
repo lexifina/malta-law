@@ -4,6 +4,7 @@
 (Regulations 5(4), 42(b), 44(5), 44(6), 65(4))
 FEES
 Application fee for Light Passenger Transport Vehicle Services Operator Licence (under Part II) €200
+[S.L. 65.33 VEHICLE HIRE SERVICES 41
 Renewal fee for Light Passenger Transport Vehicle Services Operator Licence (under Part II) €200
 Transfer of Operator Licence (under Part II)
 €50
@@ -18,7 +19,6 @@ Changes in Operator Licence (under Part V)
 Reissuing lost licence
 €10
 Application fee for a Passenger Transport Vehicle Licence(under Part VIII €25
-[S.L. 65.33 VEHICLE HIRE SERVICES 41
 Application fee for Intermediary Booking Platform Service (under Part IX) €100
 Renewal Fee (under Part IX
 €100

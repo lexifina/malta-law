@@ -28,14 +28,14 @@ regulation 18 200
 regulation 19 200
 regulation 20 50
 regulation 21 250
-regulation 22 200
+regulation 22 200 [S.L. 499.68 46 VEHICLE HIRE SERVICES
 regulation 23 50
 regulation 24 50
 regulation 25 50
 regulation 26 50
 regulation 27 100
 regulation 28 250
-regulation 29 100 100 [S.L. 499.68 46 VEHICLE HIRE SERVICES
+regulation 29 100 100
 regulation 30 100
 regulation 32 100
 regulation 33 100

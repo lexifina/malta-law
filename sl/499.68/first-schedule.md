@@ -22,6 +22,6 @@ Changes in Operator Licence (under Part V)
 Reissuing lost licence
 €10
 Application fee for a Passenger Transport Vehicle Licence (under Part VIII €25
-Application fee for Intermediary Booking Platform Service (under Part IX) €100
+Application fee for Intermediary Booking Platform Service (under Part IX) €100 [S.L. 499.68 42 VEHICLE HIRE SERVICES
 Renewal Fee (under Part IX
-€100 [S.L. 499.68 42 VEHICLE HIRE SERVICES
+€100
