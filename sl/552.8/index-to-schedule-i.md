@@ -64,6 +64,7 @@ Class 14 Tented structures and Awnings
 (ii) Placing of small tents, tarpaulins or similar structures
 Class 15 Beach management facilities
 (i) Hiring of beach furniture
+(ii) Mobile installations
 Class 16 Development in zones administered by INDIS Malta Ltd and Malta Enterprise Zones
 (i) The construction, re-development, alteration or extension of an industrial unit
 (ii) The construction, re-development, alteration or extension of a unit
@@ -198,8 +199,7 @@ wiring on the site or its surroundings; and
 (bb) existing overhead wiring and other infrastructural services
 currently above ground are relocated underground;
 (d) within Valletta, Floriana, Cottonera and areas scheduled for their
-archaeological importance, excavation works shall be carried out under the supervision of an archaeologist appointed by the
-Superintendent of Cultural Heritage.
+archaeological importance, excavation works shall be carried out under the supervision of an archaeologist appointed by the Superintendent of Cultural Heritage.
 Development under this Class, when it is located in a UCA, ODZ and in scheduled property or within thirty metres from a scheduled property or in a designated area, shall be subject to the notification procedure established in article 5(1) and (3).
 CLASS 6 - Development related to public transport
 (i) The installation of signs which do not exceed fifty square centimetres in
@@ -247,17 +247,17 @@ lies within a development zone; and the proposed use does not have any negative 
 (c) any land in relation to which an extension has been permitted in terms of this sub-paragraph shall be fully restored to its pristine condition and any structure removed within ten days from the expiry of each permitted period unless the extended period immediately follows the previous period, in which case the relative restoration and removal of any structure shall be carried
 out within ten days from the last permitted period.
 (ii) The reversible use of land by Government entities, Local Councils and
-other public entities appointed thereby, for the temporary use of land for cultural and social purposes as well as any temporary structures required for such use for not more than four calendar months yearly, provided that the land used is fully restored to its pristine condition and any structures are removed within ten days from the expiry of such
+other public entities appointed thereby, for the temporary use of land for cultural and social purposes, and for the temporary placing and use of a caravan or a camp, as well as any temporary structures required for such use for not more than four calendar months in one (1) calendar year only, provided that the land used is fully restored to its pristine condition and any structures are removed within ten days from the expiry of such
 period, except for sites located in scheduled property:
-Provided that the use of land is not permitted if such use is for a caravan site or for camping, or for off-road vehicle, motor car and motorcycle racing or rallying, or for practising for these events and activities:
+Provided that the use of land is not permitted if such use is for off-road vehicle, motor car and motorcycle racing or rallying, or for practising for these events and activities:
 Provided further that the development described shall only be permitted if:
 (a) any temporary structure required for such use would not impair
 visibility at a road junction or otherwise pose a threat to the safety of pedestrians or vehicular traffic;
 (b) such use does not entail direct or indirect damage to existing
-historical buildings or monuments, archaeological or natural features including underground shelters, cisterns or water
-galleries, rubble walls and natural stone paving;
+historical buildings or monuments, archaeological or cultural or natural or landscape remnants including underground shelters, caves, cisterns or water galleries, natural habitats, valleys and watercourses, ridges and escarpments, natural bedrock, topography, trees, rubble walls and natural stone paving;
 (c) waste collection, waste disposal facilities, and any necessary mobile sanitary facilities, as required by law and which do not involve any non-reversible interventions, are available on site prior to the commencement of use;
 Development under this Class shall be subject to the notification procedure established in article 5(1) and (3). For development under paragraph (i), the first notification shall be automatically renewed provided the site remains unchanged, unless the Authority decides that the temporary use should cease prior to the expiry period and notifies the applicant accordingly. The commencement date and the expiry date shall be stated in the applicant's request and the confirmation by the Authority, and the limited time is not automatically renewed annually nor extended in perpetuity.
+Development under this Class shall also be subject to the prior clearance from the Environment and Resources Authority in the case of areas declared as protected under the Environment Protection Act
 CLASS 11 - Development related to aviation
 (i) Changes to the use of buildings within the perimeter of an airport, for purposes connected with air transport services or other flying activities at that airport.
 CLASS 12 - Lighting of buildings, structures and roads
@@ -308,6 +308,8 @@ Provided that the development shall only be permitted if:
 Malta Tourism Authority;
 (b) specific authorisation by the Malta Tourism Authority is
 submitted, by the applicant to the Authority, as part of the notification procedure.
+(ii) The temporary use of land for the erection, placing and installation of
+structures required in relation to mobile sanitary facilities and life-saving management practices on beaches, provided that the notification is submitted by a Government entity, a Local Council, any other public entity appointed thereby, or a registered institution whose expertise is in civil protection subject to the prior clearance from the Environment and Resources Authority in the case of areas declared as protected under the Environment Protection Act and the site is not located on sand dunes.
 Development under this Class shall be subject to the notification procedure established in article 5(1) and (3).
 CLASS 16 - Development in zones administered by INDIS Malta Ltd and Malta Enterprise Zones
 (i) The construction, re-development, alteration or extension of an industrial unit or a unit for any purposes ancillary to the main industrial unit within zones administered by INDIS Malta Ltd and Malta Enterprise Zones, including associated signs and adverts, provided that:
@@ -358,8 +360,7 @@ Development under this Class shall be subject to the notification procedure esta
 Class 20 Development related to the Corradino Correctional Facility"
 (a) Development carried out by the Director of the Corradino
 Correctional Facility on land designated for the same Corradino Correctional Facility in a subsidiary plan approved in terms of the Act, provided that:
-(i) when the development is located on designated areas or
-scheduled property, it shall be subject to prior clearance by the Superintendent of Cultural Heritage and, by the Environment and Resources Authority in the case of areas declared as protected
+(i) when the development is located on designated areas or scheduled property, it shall be subject to prior clearance by the Superintendent of Cultural Heritage and, by the Environment and Resources Authority in the case of areas declared as protected
 under the Environment Protection Act;
 (ii) the proposed development is recommended by the Minister
 responsible for the Prisons;
@@ -374,8 +375,7 @@ responsible for the Malta Police Force;
 Resources Authority are informed accordingly.
 Class 22 Existing Development Related to Malta's Culture and Tradition
 (i) Existing fireworks factories, including their operations, provided that the fireworks factories, including the footprint of their built structures and their operations, have been in existence since, or before, the year 1994 and the same fireworks factories, including the footprint of their built structures and their operations, were still in existence in 2016, as evident from the relative aerial photography of the Authority and upon submission of proof of actual use of the site as a fireworks factory in the aforementioned years.
-(ii) Development under paragraph (i) shall be considered permitted
-development:
+(ii) Development under paragraph (i) shall be considered permitted development:
 Provided that the provisions of article 3(5) of the principal order shall not be applicable to such class:
 Provided further that the provisions of the Sanitary Regulations, the relevant provisions of the Development Control Design Policy, Guidance and Standards, the Rural Policy and Design Guidance and all other relevant approved plans and policies under the Act, exceptions, conditions, restrictions, rules, limitations and exclusions currently in force, shall not be applicable for this Class.
 Class 23 Development by the Civil Protection Department
