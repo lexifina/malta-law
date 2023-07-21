@@ -41,4 +41,3 @@ The original of the authorisation must be kept by the haulage undertaking.
 A certified copy of the authorisation must be kept in the vehicle. In the case of a coupled combination of vehicles it must accompany the motor vehicle. It covers the coupled combination of vehicles even if the trailer or semi-trailer is not registered or authorised to use the roads in the name of the authorisation holder or if it is registered or authorised to use the roads in another Member State.
 The authorization must be produced whenever required by an authorised inspecting officer.
 Within the territory of each Member State the holder must comply with the laws, regulations and administrative provisions in force in that State, in particular with regard to transport and traffic.
-- Amended by: L.N. 134 of 2006; XV. 2009.49.

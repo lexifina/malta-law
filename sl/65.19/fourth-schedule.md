@@ -34,4 +34,3 @@ UNDER THE ECMT
 7. Transport of medical supplies and equipment needed for emergencies, more particularly in response to natural disasters and humanitarian needs.
 8. Transport for non-commercial purposes of works and objects of art for fairs and exhibitions.
 9. Transport for non-commercial purposes of properties, accessories and animals to or from theatrical, musical, film, sports or circus performances, fairs or fetes, and those intended for radio recordings, or for film or television production.
-- Amended by: L.N. 134 of 2006; L.N. 225 of 2007; L.N. 395 of 2011.

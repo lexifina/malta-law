@@ -37,3 +37,4 @@ It may be withdrawn by the Authority, in particular where the haulier has:
 - supplied incorrect information with regard to the data needed for the
 issue or extension of the attestation.
 A certified true copy of the attestation must be kept in the vehicle and must be produced by the driver whenever required by an authorised inspecting officer.
+- Amended by: L.N. 134 of 2006; XV. 2009.49.

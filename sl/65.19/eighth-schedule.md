@@ -16,11 +16,11 @@ B5 11h<…<12 h X
 extension not allowed
 B6 12 h<… X B7 Art. 6.2 Exceed weekly driving 56 h<…<60 h X
 time
-B8 60 h<…<70 h X B9 70 h<… X B10 Art. 6.3 Exceed accumulated 90 h<…<100 h X
+B8 60 h<…<70 h X B9 70 h<… X B10 Art. 6.3 Ex c e e d accumulated 90 h<…<100 h X
 driving time during 2 B11 100 h<…<112 h 30 X
 consecutive weeks B12 112 h 30<… X C Breaks C1 Art. 7 Exceed uninterrupted 4 h 30<...<5 h X
 driving time
-C2 5 h<...<6 h X C3 6 h<... X D Rest periods D1 Art. 8.2 In su ff icien t d aily r est 10 h<…<11 h X
+C2 5 h<...<6 h X C3 6 h<... X D Rest periods D1 Art. 8.2 Insufficient daily rest 10 h<…<11 h X
 period of less than 11 hours
 D2 8 h 30<...<10 h X
 if reduced daily rest period
@@ -32,7 +32,7 @@ D6 …<7 h X period allowed D7 Insufficient split daily rest 3 h + (8 h<…<9 h)
 period of less than 3 hours
 D8 3 h + (7 h<…<8 h) X
 + 9 hours
-D9 3 h + (…<7 h) X D10 Art. 8.5 In su ff icien t d aily r est 8 h<…<9 h X
+D9 3 h + (…<7 h) X D10 Art. 8.5 Insufficient daily rest 8 h<…<9 h X
 period of less than 9 hours D11 7 h<...<8 h X
 for multi-manning D12 …<7 h X No. Legal basis Type of infringement Level of
 seriousness*
@@ -104,3 +104,4 @@ L3 Signature missing on temporary sheet X L4 Art. 16.3 Loss or theft of driver c
 declared to the competent authorities of the
 Member State where the theft occurred
 (*) VSI = Very Serious Infringement SI = Serious Infringement MI = Minor Infringement
+- Added by: L.N. 74 of 2010.
