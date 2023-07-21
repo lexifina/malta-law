@@ -4,6 +4,6 @@ To make provision for the protection of the environment and for the establishmen
 31st January, 2016;
 4th April, 2016*
 1st February,2019†
-ACT I of 2016, as amended by Acts XXIII of 2018 and XXXVI of 2020.
+ACT I of 2016, as amended by Acts XXIII of 2018, XXXVI of 2020 and XXX of 2023.
 PART I
 Preliminary

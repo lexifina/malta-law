@@ -1,5 +1,5 @@
-## SCHEDULE
-# schedule
+## FIRST SCHEDULE
+# first-schedule
 [Article 58(2)]
 The activities and operations referred to in article 58(1) include, amongst others, the following:
 (a) in relation to biodiversity and other natural features:
@@ -27,8 +27,7 @@ other potentially hazardous factors;
 integrity of the site and the landscape;
 6. off-roading activities or events;
 7. cleaning or dredging of valleys;
-(xiii) modify, endanger the stability of or demolish any natural physical features, or any rural structures affording a habitat for flora and
-fauna or otherwise contributing to the integrity of the landscape
+(xiii) modify, endanger the stability of or demolish any natural physical features, or any rural structures affording a habitat for flora and fauna or otherwise contributing to the integrity of the landscape
 or the physical environment, as may be prescribed;
 (xiv) manage biological diversity as may be prescribed;
 (xv) for the access to genetic resources and their benefit-sharing;
@@ -44,3 +43,4 @@ or the physical environment, as may be prescribed;
 (ii) trade in genetically modified organisms;
 (iii) manage or otherwise have in his possession genetically modified organisms;
 (e) any other activity as may be prescribed by regulations.
+- Renumbered by: XXX.2023.9.
