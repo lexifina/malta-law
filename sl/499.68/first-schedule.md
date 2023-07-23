@@ -1,5 +1,3 @@
-## shall be applicable and payable by such undertaking.
-## [S.L. 499.68 VEHICLE HIRE SERVICES 41
 ## FIRST SCHEDULE
 # first-schedule
 (Regulations 5(4), 42(b), 44(5), 44(6), 65(4))
@@ -22,6 +20,6 @@ Changes in Operator Licence (under Part V)
 Reissuing lost licence
 €10
 Application fee for a Passenger Transport Vehicle Licence (under Part VIII €25
-Application fee for Intermediary Booking Platform Service (under Part IX) €100 [S.L. 499.68 42 VEHICLE HIRE SERVICES
+Application fee for Intermediary Booking Platform Service (under Part IX) €100 [S.L. 499.68 44 VEHICLE HIRE SERVICES
 Renewal Fee (under Part IX
 €100

@@ -2,7 +2,7 @@
 # third-schedule
 (Regulation 40(1)(a))
 PART 1:
-[S.L. 499.68 VEHICLE HIRE SERVICES 43
+[S.L. 499.68 VEHICLE HIRE SERVICES 45
 List of subjects to be covered in the training course to obtain a driver's permit referred to in regulation 40(1)(a):
 1. Knowledge of vehicle characteristics and safety features including, inter alia:
 a. Knowledge of the characteristics of the
@@ -31,7 +31,7 @@ ii. Passengers requesting information on
 illegal activities.
 iii. Passengers requesting over-speeding.
 iv. Passengers requesting overloading of
-[S.L. 499.68 44 VEHICLE HIRE SERVICES
+[S.L. 499.68 46 VEHICLE HIRE SERVICES
 passengers
 e. Correct use of speed;
 f. Physical fitness to drive a light passenger transport
@@ -60,5 +60,5 @@ b. Ability to safely install the wheelchair in the
 vehicle, backing the chair to the "fold down" seats, then securing both wheelchair brakes, secure seat belts/safety harness and also secure wheel belts/clamps if fitted to vehicle, ensure that the wheelchair and the person making use thereof are secure.
 PART 2:
 Organisation of the Examination
-[S.L. 499.68 VEHICLE HIRE SERVICES 45
+[S.L. 499.68 VEHICLE HIRE SERVICES 47
 The Authority or a body approved by the Authority shall organise a compulsory examination which may be written or oral to establish whether the applicant has achieved the required level of knowledge in the subjects listed in Part I.
