@@ -1,4 +1,4 @@
 SUBSIDIARY LEGISLATION 61.02
 PASSPORT REGULATIONS
 28th September, 1993
-LEGAL NOTICE 131 of 1993, as amended by Legal Notices 59 of 2001, 141 of 2007, 97 of 2009, 111 of 2011 and 159 of 2014.
+LEGAL NOTICE 131 of 1993, as amended by Legal Notices 59 of 2001, 141 of 2007, 97 of 2009, 111 of 2011, 159 of 2014 and 193 of 2023.
