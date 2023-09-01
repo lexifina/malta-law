@@ -1,4 +1,4 @@
 SUBSIDIARY LEGISLATION 156.01
 PETROLEUM (PRODUCTION) REGULATIONS
 1st December, 2001
-LEGAL NOTICE 320 of 2001, as amended by Legal Notice 410 of 2007.
+LEGAL NOTICE 320 of 2001, as amended by Legal Notices 410 of 2007 and 206 of 2023.

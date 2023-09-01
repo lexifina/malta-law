@@ -1,44 +1,42 @@
 ## SCHEDULE
 # schedule
-(Regulation 4)
-Form of Application for a Production Licence
-or an Exploration Licence
-1. Name of applicant in full.
-2. (a) Place of registration or incorporation.
-(b) Principal place of business.
-(c) Place of central management and control.
-(d) Particulars of the members of the board of directors or
-other governing body of the corporate body, as follows:
-(1) Full names
-(2) Usual residential address
-(3) Nationalities
-3. (a) Particulars of capital authorised and issued, as follows:
-(1) Class of Capital
-(2) Amount Authorised
-(3) Amount issued
-(4) Amount paid up
-(5) Voting rights of each class
-(b) The annual reports and balance sheets, if any, for the
-three years immediately preceding the application accompanying the application.
-(c) Particulars of all holdings of not less than 5 per centum
-in number or value of any class of capital which has
-been issued by the corporate body as follows:
-(1) Name of holder or names or joint holders, in full
-(2) Class of holding
-(3) Amount
-(4) Nationality of holder(s)
-(d) Particulars of all capital issued to bearer, as follows:
-(1) Class of capital
-(2) Total amount issued
-(3) Amount issued to bearer
-4. Particulars of previous experience in exploration and/or production of petroleum and availability of specialised personnel and equipment.
-5. If the application is for an exploration licence -
-(a) Description of the area in respect of which the application is submitted, such an area being also
-shown on a map accompanying the application.
-(b) Description of the exploration intended to be carried out, including an indication of the methods to be used and information as to any sea or air craft intended to be utilised.
-6. Type of licence applied for, and if a production licence, reference number(s) or letter(s) of the block(s) or area(s) in respect of which the application is made.
-I hereby declare that the information given above or annexed to this application is correct.
-Date
-Signature of a duly authorised
-officer of the body corporate
-whose capacity is to be stated.
+(Regulation 6)
+Form of Application for a licence in accordance with regulation 6
+The applicants shall provide the following details:
+(a) their name and surname, address and nationality;
+(b) their place of registration or incorporation, the
+company registration number or any other distinguishing number in the case of any other entity not being a company, its principal place of business, the members of the Board of Directors and senior management, the nationality and domicile of the members of the Board of Directors, the capital structure and the factors constituting control of the applicant by other natural or legal person;
+(c) their name and surname, address, telephone
+number and email address of the contact person for the application;
+(d) their form of organisation, including information
+concerning their relationship with the parent company, if such exists, and other affiliated persons;
+(e) the financial structure of the applicant and the
+parent company, if such exists, including annual reports, audited balance sheets and profit and loss statements for the past three (3) years, and any other reports which they and the parent company may have filed to the competent authority for capital market and transactions in securities regulation, during the past three (3) years immediately preceding the application;
+(f) the manner in which the activities shall be
+financed, if the application is approved, and how the performance of their obligations shall be guaranteed, including in the case of an exploration and production licence, the proposed financial security measures to cover liabilities and damages potentially deriving from oil and gas operations;
+(g) a list of their relevant work carried out in the past
+five (5) years immediately preceding the application to demonstrate their experience in petroleum prospection and, or petroleum exploration and, or production of petroleum;
+(h) experience of the key allocated personnel
+(detailed curriculum vitae for each one describing their professional experience);
+(i) safety statistics for the past three (3) years;
+(j) proof of an implemented health, safety and
+environment system;
+(k) the block or blocks or area or areas in respect of
+which the application is made and if the application is made in respect of more than one block or area, the priority assigned to each block or area;
+(l) a detailed description of the work programme
+proposed for the block or blocks or area or areas applied for and the geographical distribution over such block or blocks or area or areas;
+(m) the minimum obligations to be undertaken
+relating to work and expenditure during the licence period;
+(n) a description concerning the effects which the
+activities are likely to have on the environment, and the proposed mitigation measures;
+(o) proposals relating to the commercial and
+economic terms and conditions required as criteria for the evaluation of the application, such as the financial considerations;
+(p) any agreement between persons relating to the
+manner in which petroleum operations are to be financed;
+(q) any other information as may be required in the
+call for applications pursuant to regulation 4(1) or under the applicable model contract or which they want the Minister to consider;
+(r) a declaration that the information provided in the
+application is true and correct; and
+(s) signature of a duly authorised officer together
+with a power of attorney authorising him to sign on their behalf.
+In the case that the application is submitted by a consortium, or by a group of two (2) or more natural or legal persons, the information required above shall be submitted for each consortium member or for each person and the consortium or group shall in its application, designate one (1) person as representative of the consortium or group. In this case, the application shall also include the participating interest of each member of the consortium.
