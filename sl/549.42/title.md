@@ -1,4 +1,4 @@
 SUBSIDIARY LEGISLATION 549.42
 CONSERVATION OF WILD BIRDS REGULATIONS
 29th March, 2006
-LEGAL NOTICE 79 of 2006, as amended by Legal Notices 39, 280 and 426 of 2007, 30 of 2009, 283 of 2010, 82 and 421 of 2011, 267 and 426 of 2012, 341 and 403 of 2013, 110 and 252 of 2014, 281 of 2015 69 of 2016* 368 of 2018, 367 of 2020, 86, 107 and 255 of 2022 and 150 of 2023.
+LEGAL NOTICE 79 of 2006, as amended by Legal Notices 39, 280 and 426 of 2007, 30 of 2009, 283 of 2010, 82 and 421 of 2011, 267 and 426 of 2012, 341 and 403 of 2013, 110 and 252 of 2014, 281 of 2015 69 of 2016* 368 of 2018, 367 of 2020, 86, 107 and 255 of 2022, 150 and 209 of 2023.
