@@ -7,8 +7,7 @@
 Technical Guidelines and Site Preparation
 1. The level of noise emitted from any site shall:
 (a) respect the levels as established by the Work Place
-(Minimum Health and Safety Requirements for the Protection of Workers from Risks resulting from exposure to Noise) Regulations, at any point when measured immediately outside the site with methodologies established by the said regulations in respect of weekly noise exposure level and daily noise exposure level. Any measurement shall follow the prescribed standards as approved by the competent authority responsible for issuing such standards. Should a locally approved standard not be available, an equivalent standard to the satisfaction of
-the appropriate competent authority shall apply;
+(Minimum Health and Safety Requirements for the Protection of Workers from Risks resulting from exposure to Noise) Regulations, at any point when measured immediately outside the site with methodologies established by the said regulations in respect of weekly noise exposure level and daily noise exposure level. Any measurement shall follow the prescribed standards as approved by the competent authority responsible for issuing such standards. Should a locally approved standard not be available, an equivalent standard to the satisfaction of the appropriate competent authority shall apply;
 (b) moreover, to minimise noise and vibration levels,
 all equipment shall have functional exhaust or muffler systems;
 (c) unnecessary noise such as leaving noisy idle
@@ -46,7 +45,7 @@ permeable land; and
 (v) any other form of pollution caused from
 the storm water run off generated from the site.
 Clients shall therefore be obliged to ensure that the site is equipped with the necessary collection sumps and pumps that enable any water discharged within the site to be collected and pumped there, avoiding all works related spillage of such waste water onto public or private areas.
-3. (a) Any deconstruction or excavation works on a site shall be carried out in line with sections five (5), seven (7) and eight
+3.* (a) Any deconstruction or excavation works on a site shall be carried out in line with sections five (5), seven (7) and eight
 (8) of the national standard SM 810:2022 titled 'Recycling-oriented Deconstruction, Controlled Excavation Works and Classification of Waste' as reproduced on the website of the Authority.
 (b) Any apertures utilised in a residential building shall by design follow the standardisation of dimensions of internal and external apertures as specified in the Technical Document titled 'Standardisation of Apertures for Residential Buildings in Malta' as published on the website of the Authority.
 - See S.L. 424.28.

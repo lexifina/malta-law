@@ -31,7 +31,8 @@ space exceeds one (1) kilometre, works shall not be subject to any of the aforem
 (a) to limit any generation of dust, during works there
 shall be applied water and, or, chemical dust stabilizers or any other appropriate technique which control emissions of dust from the site;
 (b) prior to leaving the site the client shall on a daily
-basis remove any works related spillages resulting from the works from the public way in front of the site;
+basis remove any works related spillages resulting from the
+works from the public passage in front of the site;
 (c) prior to leaving the site, the client shall ensure that
 on a daily basis public sidewalks and public areas within ten
 (10) metres from either side of the site are swept or vacuumed; and

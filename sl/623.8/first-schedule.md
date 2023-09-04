@@ -20,7 +20,7 @@ Development Title
 Permit Number Works
 Commencement
 Date
-Name Of Site 24 Hour Manager Contact Number
+Name Of Site 24 Hour Manager Contact Number
 Lead Contractor
 Other Insert name Insert name of Insert name of fourth Contractors of second third contractor contractor
 contractor
@@ -41,7 +41,7 @@ cement, small pieces of material and shingles shall be transported, deposited an
 4. Without prejudice to any other law, no building material,
 waste, machinery or equipment shall be allowed to obstruct the pavement or the smooth flow of traffic in the vicinity of the site on which works are in progress or complete. Depositing of building materials for loading or unloading purposes and placing of equipment in the street along the frontage of the site shall be authorised by the responsible Local Council.
 5. Without prejudice to any other law and in addition to the
-requirements emanating from the Work Place (Minimum Health and Safety Requirements for Work at Construction Sites) Regulations, when a hazard to vehicular traffic on a public way is created by work on, or associated with construction works, one (1) or more of the following shall be provided to direct the traffic, as may be considered appropriate and approved by the responsible Local Council, and where
+requirements emanating from the Work Place (Minimum Health and Safety Requirements for Work at Construction Sites) Regulations, when a hazard to vehicular traffic on a public passage is created by work on, or associated with construction works, one (1) or more of the following shall be provided to direct the traffic, as may be considered appropriate and approved by the responsible Local Council, and where
 appropriate by the Authority for Transport in Malta:
 (a) one (1) or more law enforcement officers;
 (b) warning signs;
