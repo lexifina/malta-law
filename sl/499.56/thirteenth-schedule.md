@@ -104,3 +104,5 @@ L3 Signature missing on temporary sheet X L4 Art. 16.3 Loss or theft of driver c
 declared to the competent authorities of the
 Member State where the theft occurred
 (*) VSI = Very Serious Infringement SI = Serious Infringement MI = Minor Infringement
+- Added by: L.N. 75 of 2010.
+- Amended by: L.N. 251 of 2011.

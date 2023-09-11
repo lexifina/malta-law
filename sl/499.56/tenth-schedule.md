@@ -1,6 +1,6 @@
 ## TENTH SCHEDULE
 ## At least nine years but less than ten years before the date of such application
-## (€)
+## (€) (€)
 # tenth-schedule
 FEES
 Part 1
@@ -67,7 +67,7 @@ for a vehicle which was manufactured:
 51 31620 41820 52020 62220 72420 82620
 52 31772 42172 52572 62972 73372 83772
 53 and over 31800 42400 53000 63600 74200 84800
-Provided that coaches which are new motor vehicles, open top buses which are new motor vehicles, tail lift vans which are new motor vehicles, vintage buses, trackless trains and electric trolley vehicles shall be exempt from the entry fee irrespective of the number of passengers which they can carry.
+Provided that coaches which are new motor vehicles, open top buses which are new motor vehicles, tail lift vans which are new motor vehicles, minibuses which are new motor vehicles that are licensed from 19th August 2023 onwards,vintage buses, trackless trains and electric trolley vehicles shall be exempt from the entry fee irrespective of the number of passengers which they can carry.
 2A. Entry Fee payable for an open top bus which was manufactured more than ten years prior to the entry into force of these regulations to be used for the provision of passenger transport services other than those on sightseeing passenger transport routes ............................................................................................................................ €10,600
 3. Passenger Transport Vehicle Licence renewal fee €25 per passenger
 transport vehicle
