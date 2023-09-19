@@ -41,7 +41,8 @@ versus
 ......................................
 The application of the said
 Respectfully sheweth: -
-That in the claim by/against for he qualifies for admission to sue/defend with the benefit of legal aid.
+That in the claim by/against for
+he qualifies for admission to sue/defend with the benefit of legal aid.
 Wherefore applicant humbly prays this Court that he may be allowed to sue/defend with the benefit of legal aid, and the said applicant declares on oath that he believes that his aforesaid claim/ defence is just, and that excluding the subject-matter of the proceedings, he does not possess property of any sort (not including wearing apparel) the net value whereof amounts to a sum of not more than .6,988.12 not including everyday household items that are considered reasonably necessary for the use by applicant and his family, and that his yearly income is not more than the national minimum wage established for persons of eighteen years and over; and that in calculating the said net asset value, no account has been taken of the principal residence of the applicant or any other property, immovable or movable, which forms the subject matter of court proceedings, even though such other property is not the subject matter of the proceedings in respect of which legal aid is being applied for; and that in calculating the income, the period of computation has been calculated at the twelve months' period prior to the demand for the benefit of legal aid.
 (Decree of the Court)
 The Court
@@ -58,7 +59,8 @@ That the applicant as creditor of the said claims that amount, but he is unable 
 Wherefore the applicant humbly prays that this Court may order the publication of the notice relative to such competition proceedings.
 (Decree of the Court)
 The Court,
-Allows the application, and appoints the day of for the appearance of the parties interested at the hearing of the cause, and directs the Registrar to publish the notice referred to in article 416 of the Code of Organization and Civil Procedure.
+Allows the application, and appoints the day of
+for the appearance of the parties interested at the hearing of the cause, and directs the Registrar to publish the notice referred to in article 416 of the Code of Organization and Civil Procedure.
 This day of (Registrar's signature)
 0.23 cents No. 5
 Notice in compliance with the preceding Order.
@@ -595,13 +597,13 @@ This, day of 20
 0.23 cents No.26
 Court order to perform the function of Judicial Assistant.
 REPUBLIC OF MALTA
-To Doctor of Laws ..................................Judicial Assistant. Whereas it is required that in a cause before the (insert name of Court)................................. Summons No ............................... between plaintiff .............................................. and defendant ............................................... it is necessary to appoint a Judicial Assistant therein and in particular to:
+To Doctor of Laws ................................. Judicial Assistant. Whereas it is required that in a cause before the (insert name of Court)................................. Summons No ............................... between plaintiff .............................................. and defendant ............................................... it is necessary to appoint a Judicial Assistant therein and in particular to:
 *(a) ascertain and establish the issues of fact or of law involved in the cause, as well as the issues of fact or of law on which the parties agree, and to endeavour to induce the parties to reach an agreement on the issues involved in the cause, and to make a report thereof to the said Court;
 *(b) take the testimony of any person that is produced as a witness;
 *(c) take any affidavit on any matter; *(d) receive documents produced with any testimony, affidavit or declaration, including in particular a testimony, affidavit or declaration as is referred to in the Code of Organization and Civil Procedure;
 *(e) ............................................................................. .................................................................................. You are, therefore, hereby ordered that in terms of the provisions of article 97A of the Code of Organization and Civil Procedure, you will perform the functions of Judicial Assistant in the aforementioned cause with all the powers given to you by law, and in such manner that a first sitting should be held on the ................ day of ........................ 20 ....... at ........ a.m/p.m. at .................... and that you will thereafter file before this Court your report and the evidence received, if any, by not later than the date of the first sitting before this same Court.
 .................................. Judge of the said Court
-This ........................... day of ....................... 20
+This ............................day of ....................... 20
 0.23 cents No. 27
 Notice of hearing of proceedings/evidence before a Judicial Assistant.
 REPUBLIC OF MALTA
@@ -644,7 +646,7 @@ Application of..................................................................
 Respectfully requests the issue of a subpoena order in the above stated cause against the person mentioned hereunder to attend for the sitting and at the time stated hereunder, and to bring with him the documents hereunder mentioned:
 Person summoned to attend as witness: ........................................ Address:....................................................................................... Date, time and place where witness is to attend: ......................... Documents to be brought by witness:...........................................
 Advocate: .................................................................................. Legal Procurator: .......................................................................
-This ............................................. day of .................. 20 ......
+This............................................. day of .................. 20 ......
 Filed by............................................................................
 (Registrar's signature)
 0.23 cents
@@ -656,7 +658,7 @@ Each witness is hereby being warned that should he fail to appear on the day and
 ....................................
 Doctor of Laws
 Judicial Assistant
-This .............................................day of ................... 20 ......
+This ............................................. day of ................... 20 ......
 0.23 cents No. 30
 Escort Order issued by a Judicial Assistant against a person failing to attend on subpoena.
 REPUBLIC OF MALTA
@@ -721,7 +723,8 @@ That the details of the person being indicated by the applicant to effect servic
 (3) of article 856 are the following:-
 Full name of individual or company name: .................
 Identity card number or company registration number: .......
-Address: ............................................. .................................................................................................
+Address: .............................................
+.................................................................................................
 That the applicant confirms that the above-mentioned person has accepted to effect the said service.
 That by the departure of the said sea vessel from Malta, the debt or claim of the applicant may be evaded;
 Therefore, the applicant respectfully requests that this Honourable Court orders the issue of a Warrant of Arrest of Sea Vessels against the said sea vessel for the herein mentioned credit and with the costs of this procedure.
@@ -741,8 +744,10 @@ Orders the Executive Officer to execute this warrant by serving it forthwith on 
 Orders that person indicated by the applicant to effect service of a copy of the warrant in accordance to sub-article (3) of article 856 on the person whose ship or vessel is arrested, the master or other person in charge of such ship or vessel, and to elevate the appropriate documentation and certification from on board the ship or vessel, which documentation and certification shall within one
 (1) working day, be handed over to the Registrar, Civil Courts and Tribunals, by the person indicated by the applicant.
 Given by the (name of Court)
-and witnessed by Doctor of Laws, of the above-mentioned Court.
-Today, day of 20 Form No. 33
+and witnessed by Doctor of Laws,
+of the above-mentioned Court.
+Today, day of 20
+Form No. 33
 Executive Warrant of Arrest of Sea Vessels over ten (10) metres in length
 Before .............................. Warrant No. ............................
 Applicant .......................
@@ -846,7 +851,8 @@ That the details of the said aircraft are the following:-
 - Authority: Authority for Transport in Malta ....................
 That by the departure of the said aircraft from Malta, the debt or claim of the applicant may be evaded;
 Therefore, the applicant respectfully requests that this Court orders the issue of a Warrant of Arrest of an Aircraft against the said aircraft for the herein mentioned credit and for the costs of this procedure.
-............................................ .................................................... Advocate Legal Procurator
+............................................ ....................................................
+Advocate Legal Procurator
 Confirmed on oath before me after having read to him/her the contents, and filed by:-
 Form No. 34 Warrant of Arrest of an Aircraft in security of a debt or any other claim amounting to not less than seven thousand euro (PRECAUTIONARY)
 Court Order
@@ -884,7 +890,8 @@ That the details of the said aircraft are the following:-
 - Authority: Authority for Transport in Malta ....................
 Therefore, the applicant respectfully requests that this Court orders the issue of an Executive Warrant of Arrest of an Aircraft against the said aircraft for the herein mentioned credit and for the costs of this procedure and (1) order the sale of the said aircraft or
 (2) fix a time-limit within which the debtor is to pay the amount due.
-....................................... .................................................. Advocate Legal Procurator
+....................................... ..................................................
+Advocate Legal Procurator
 Confirmed on oath before me after having read to him/her the contents, and filed by:-
 Form No. 35 EXECUTIVE WARRANT of Arrest of an Aircraft in security of a debt or any other claim amounting to not less than seven thousand euro
 (Order for payment)
@@ -953,7 +960,8 @@ That the details of the said aircraft are the following:-
 - Authority: Authority for Transport in Malta .....................
 That by the departure of the said aircraft from Malta, the debt or claim of the applicant may be evaded;
 Therefore, the applicant respectfully requests that this Court orders the issue of a Warrant of Arrest of an Aircraft against the said aircraft for the herein mentioned credit and for the costs of this procedure.
-...................................... .............................................. Advocate Legal Procurator
+...................................... ..............................................
+Advocate Legal Procurator
 Confirmed on oath before me after having read to him/her the contents, and filed by:-
 Form No. 36 Warrant of Arrest of an Aircraft in security of a debt or any other claim amounting to not less than one million euro (PRECAUTIONARY)
 Court Order
@@ -989,7 +997,8 @@ That the details of the said aircraft are the following:-
 - Authority: Authority for Transport in Malta .....................
 Therefore, the applicant respectfully requests that this Court orders the issue of an Executive Warrant of Arrest of an Aircraft against the said aircraft for the herein mentioned credit and for the costs of this procedure and (1) order the sale of the said aircraft or
 (2) fix a time-limit within which the debtor is to pay the amount due.
-...................................... .............................................. Advocate Legal Procurator
+...................................... ..............................................
+Advocate Legal Procurator
 Confirmed on oath before me after having read to him/her the contents, and filed by:-
 Form No. 37 EXECUTIVE WARRANT of Arrest of an Aircraft in security of a debt or any other claim amounting to not less than one million euro
 (Order for payment)

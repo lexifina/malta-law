@@ -269,7 +269,7 @@ Of Administrators
 (3) The Court may, either generally or with reference to a particular organisation -
 (a) disqualify any person from holding an office within an organisation; or
 (b) disqualify any person from performing identified functions within an organisation,
-and this, on any of the grounds mentioned in this article, following the application of any interested party, the Attorney General or, in the case of voluntary organisations, the Commissioner for Voluntary Organisations.
+and this, on any of the grounds mentioned in this article, following the application of any interested party, the State Advocate or, in the case of voluntary organisations, the Commissioner for Voluntary Organisations.
 The Court may rehabilitate such person in accordance with regulations, which may be made by the Minister from time to time regulating the disqualification of administrators, their rehabilitation and the registration of such disqualification and rehabilitation orders in the Registry for Legal Persons or the Public Registry, as the case may be.
 (4)Persons who are subject to a disqualification order issued by the Court in terms of sub-article (3) shall not perform such functions, either generally or with reference to a particular organisation, and this, for such times as are stated in the order.
 9. (1) Administrators may be removed in cases of misconduct, failure to declare conflicts of interest, breach of duty or failure to comply with the statute or any provisions of this Title:
@@ -685,7 +685,7 @@ duties and any applicable law;
 foundation expressly state otherwise or the administrators consider it unreasonable in the circumstances and obtain the consent of the Court to maintain in force rights in favour of such person subject to such conditions as the Court may consider appropriate;
 (g) in any event and notwithstanding any provision of law, a foundation shall not be subject to an obligation to pay or return more than the foundation property held by it, after deducting any fees and costs, and shall not be subject to any obligation for any distributions made by it, in good faith prior to having written notice of any claim.
 29C. Article 958R of this Code shall apply to foundations and endowments thereto mutatis mutandis.
-30.(1) It shall be the obligation of the administrators of any foundation established after the relevant date, other than pious foundations, marriage legacies and ecclesiastical entities constituted as foundations, to register such foundation in terms of this Schedule within the periods stated in this Title:
+30. (1) It shall be the obligation of the administrators of any foundation established after the relevant date, other than pious foundations, marriage legacies and ecclesiastical entities constituted as foundations, to register such foundation in terms of this Schedule within the periods stated in this Title:
 Provided that when no administrators are designated, the foundation shall be registered by any of the persons mentioned in article 31(2), (3) and (4) or by the person designated in the statute as having the power to appoint the administrators.
 (2)After a foundation has been established by public deed in accordance with this Sub-Title of this Schedule or at any time after the opening of succession in case of a foundation established by will, the provisions of article 14 shall apply to any acts carried out by the administrators on behalf of a foundation prior to its registration and in such cases the administrators shall not be personally liable in accordance with article 17(2) if:
 (a) the actions carried out implement what is expressly
@@ -709,13 +709,13 @@ Provided that a testamentary executor may deliver the same even before being con
 (a) if the foundation is created by a public deed, from the date of such deed;
 (b) if it is created by a public will, from the date of death of the founder; and
 (c) if it is created by a secret will, from the date of the publication of the will.
-(7)The said delivery may be made by any one of the persons mentioned in sub-articles (2), (3) and (4), or by the person designated in the statute as having the power to appoint the administrators either personally or by an authorized agent.
-(8)On receipt of the documents mentioned in sub-article (1), the Registrar shall -
+(7) The said delivery may be made by any one of the persons mentioned in sub-articles (2), (3) and (4), or by the person designated in the statute as having the power to appoint the administrators either personally or by an authorized agent.
+(8) On receipt of the documents mentioned in sub-article (1), the Registrar shall -
 (a) register the foundation, on being satisfied that all the provisions of this Sub-Title have been complied with; or
 (b) refuse to register the foundation, informing the applicant in writing of the reasons for such refusal: Provided that, the fact that the Registrar registers a foundation in the absence of compliance with any requirement under any special law, shall not exempt such foundation or its administrators from their obligation to comply with such law or to be subject to any penalties or proceedings which may arise from the breach of such special law.
-(9)The Registrar shall have the right to require any information from any person, if such information is deemed by him to be necessary for registration of a foundation but, in the case of a private interest foundation as defined in article 31B, shall not be entitled to request a copy of the beneficiary statement from the administrators or the Notary Public:
+(9) The Registrar shall have the right to require any information from any person, if such information is deemed by him to be necessary for registration of a foundation but, in the case of a private interest foundation as defined in article 31B, shall not be entitled to request a copy of the beneficiary statement from the administrators or the Notary Public:
 Provided that nothing in this sub-article shall limit any powers of the Malta Financial Services Authority under applicable law.
-(10)If the delivery prescribed in sub-article (1) is not made within the period established in sub-article (6), the persons mentioned in sub-articles (2), (3) and (4) and the person designated in the statute as having the power to appoint the administrators shall be liable to a penalty, payable to the Registrar, of two hundred and thirty-two euro and ninety-four cents (€232.94) each:
+(10) If the delivery prescribed in sub-article (1) is not made within the period established in sub-article (6), the persons mentioned in sub-articles (2), (3) and (4) and the person designated in the statute as having the power to appoint the administrators shall be liable to a penalty, payable to the Registrar, of two hundred and thirty-two euro and ninety-four cents (€232.94) each:
 Provided that no person shall be liable for failure to observe this obligation if he is unaware of the death of the founder or any other relevant fact:
 Provided further that in case of a public benefit foundation which is enrolled in accordance with the Voluntary Organisations Act , the penalty above referred to shall be reduced to twenty-three euro (€23).
 (11)The provisions of article 636(2) and (3) of the Code of Organization and Civil Procedure shall apply to the extracts contemplated in this article.
@@ -799,7 +799,7 @@ Provided that:
 (a) any administrator;
 (b) the supervisory council;
 (c) any interested party, or
-(d) in the case of a public benefit foundation, the Attorney General:
+(d) in the case of a public benefit foundation, the State Advocate:
 Provided that a public benefit foundation may not have its purpose changed or extended to other purposes
 which are not also social or public purposes.
 (3)The deed of foundation may indicate the way in which the moneys or property of the foundation may be used for the attainment of the purpose for which the foundation is established and when no such indication is made the administrators may exercise their discretion.
@@ -1005,7 +1005,7 @@ Provided that, the decision to act without consent is taken unanimously by the a
 (d) any other person who is vested with such right in the deed of foundation;
 (e) subject to the terms of the foundation, any beneficiary of the foundation who is of full age and capacity, or if a minor, to his lawful guardian or representative;
 (f) subject to the terms of the foundation, any other public benefit organisation or charitable trust referred to by name for the benefit of which the foundation was established; and
-(g) in case of a foundation established for a purpose, the Attorney General or the relevant authority under applicable law.
+(g) in case of a foundation established for a purpose, the State Advocate or the relevant authority under applicable law.
 (2)Subject to the terms of the foundation and to any order of the Court given for special reasons, an administrator or any other person shall not be required to disclose to any person any document or information relating to a private interest foundation which -
 (a) discloses the administrator's deliberations as to the manner in which a power or discretion was exercised, or a duty conferred or imposed by law or by the terms of the foundation was performed;
 (b) discloses the reason for any particular exercise of such power or discretion or performance of duty or the material upon which such reason will be or might have been based;
@@ -1322,7 +1322,7 @@ Provided that the local representative may also wind up the organisation if he h
 (5)Notwithstanding that the name of the organisation has been struck off the Register in terms of the preceding provisions of this article, the liability, if any, of every promoter, founder, administrator, member, of the organisation shall continue and may be enforced as if the name of the organisation had not been struck off the Register.
 69. Amendments to this Schedule introduced by means Act XXXVI of 2018, requiring statements to be made in the constitutive instrument or the statute of an organisation which were not required prior to the coming into force of the aforementioned Act, shall not be binding on those organisations which already existed prior to the coming into force of the Act. Such organisations are required to introduce such statements in their constitutive instrument or statute in conformity with the provisions of the Act XXXVI of 2018within five (5) years of the coming into force of the Act XXXVI of 2018.
 - Added by: XIII.2007.13.
-- Amended by: L.N. 196 of 2010; L.N. 426 of 2012; XXV.2019.28; XLVII.2020.3; XXXIX.2020.14; LXV.2020.30.
+- Amended by: L.N. 196 of 2010; L.N. 426 of 2012; XXV.2019.28; XLVII.2020.3; XXXIX.2020.14; LXV.2020.30; L.N. 212 of 2023.
 - Amended by: L.N. 196 of 2010; XXXVI.2018.41.
 - Amended by: XXXVI.2018.42.
 - Amended by: XXXVI.2018.43.
@@ -1330,7 +1330,7 @@ Provided that the local representative may also wind up the organisation if he h
 - Amended by: XXXVI.2018.45.
 - Amended by: L.N. 196 of 2010; XXXVI.2018.46.
 - Amended by: XXXVI.2018.47.
-- Amended by: XXXVI.2018.48.
+- Amended by: XXXVI.2018.48; L.N. 212 of 2023.
 - Amended by: XXXVI.2018.49; XXXIX.2020.15.
 - Amended by: XXXVI.2018.50; XLVII.2020.5,6.
 - Amended by: XXXVI.2018.51.
@@ -1366,7 +1366,7 @@ Provided that the local representative may also wind up the organisation if he h
 - Added by: XXXVI.2018.73.
 - Amended by: XXXIX.2020.20.
 - Added by: XXXVI.2018.73.
-- Amended by: XXXVI.2018.74.
+- Amended by: XXXVI.2018.74; L.N. 212 of 2023.
 - Amended by: XXXI.2018.60.
 - Substituted by: XXXVI.2018.75.
 - Amended by: XXV.2019.28; XXXIX.2020.21.
@@ -1375,7 +1375,7 @@ Provided that the local representative may also wind up the organisation if he h
 - Amended by: XXXVI.2018.78.
 - Amended by: XXXVI.2018.79.
 - Amended by: XXXVI.2018.80.
-- Amended by: XXXVI.2018.81; XXXIX.2020.23.
+- Amended by: XXXVI.2018.81; XXXIX.2020.23; L.N. 212 of 2023.
 - Substituted by: XXXVI.2018.82.
 - Substituted by: XXXVI.2018.83.
 - Amended by: XXXVI.2018.84.

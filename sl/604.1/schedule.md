@@ -1,6 +1,8 @@
 ## SCHEDULE
+## NUMBER
 ## CLAIMANT
 ## DEFENDANT
+## Date
 # schedule
 Forms
 FORM 1: Notice of Claim.
@@ -107,7 +109,8 @@ signature of Adjudicating Panel Registrar date
 NOTICE OF HEARING
 ATTEND for the hearing at least ten minutes before the appointed time. Make sure that you are fully prepared, since this will be your only opportunity to state your case and submit your evidence to the Adjudicating Panel. BEAR IN MIND these points 1) BRING all the documents that are relevant to the case such
 as receipts, correspondence or agreements.
-2) MAKE SURE that any witnesses whose evidence you need arrive early. If a witness is not prepared to attend voluntarily, then you should apply to the Adjudicating Panel for the issue of a Summons to Witness (Form 7). The summons is an order of the Adjudicating Panel telling the witness to attend for the hearing. 3) PREPARE what you are going to say beforehand. Go over all the facts in chronological order. You may during the hearing refer to any notes you may have prepared beforehand.
+2) MAKE SURE that any witnesses whose evidence you need arrive early. If a witness is not prepared to attend voluntarily, then you should apply to the Adjudicating Panel for the issue of a Summons to Witness (Form 7). The summons is an order of the Adjudicating Panel telling the witness to attend for the hearing. 3) PREPARE what you are going to say beforehand. Go over all the facts in chronological order. You may during the hearing
+refer to any notes you may have prepared beforehand.
 [S.L. 604.01 PRIVATE RESIDENTIAL LEASES 19
 SUMMONS TO WITNESS IN THE ADJUDICATING PANEL FOR PRIVATE RESIDENTIAL
 LEASES
