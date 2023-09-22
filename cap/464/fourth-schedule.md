@@ -27,5 +27,6 @@ Malta Association of Hospital Pharmacists Malta Chamber of Pharmacists
 - Nurses and Midwives
 Malta Union of Midwives and Nurses Malta Midwives Association Maltese Association of Psychiatric Nurses Maltese Emergency Nurses' Association Association of Nurses and Midwives in Advance Practice Malta Association of Gastroenterology Nurses and Associates
 - Professions Complementary to Medicine
-Association of Podiatrists of Malta Association of Speech-Language Pathologists Malta Association of Dental Hygienists Malta Association of Medical Physics Malta Association of Physiotherapists Malta Dental Technologists Association Malta Environmental Health Officers Association Maltese Association of Occupational Therapists Society of Medical Radiographers Malta Association of Biomedical Scientists
-- Amended by: III. 2004.31; L.N. 342 of 2004; L.N. 147 of 2006; L.N. 27 of 2008; L.N. 140 of 2008; L.N. 159 of 2011; L.N. 413 of 2014; L.N. 20 of 2017; L.N. 23 of 2018; L.N. 390 of 2018; L.N. 229 of 2019; L.N. 303 of 2021; L.N. 233 of 2022; L.N. 106 of 2023.
+Association of Podiatrists of Malta Association of Speech-Language Pathologists Malta Association of Dental Hygienists Malta Association of Medical Physics Malta Association of Physiotherapists Malta Dental Technologists Association
+Malta Environmental Health Officers Association Maltese Association of Occupational Therapists Society of Medical Radiographers Malta Association of Biomedical Scientists Malta Association of Audiologists
+- Amended by: III. 2004.31; L.N. 342 of 2004; L.N. 147 of 2006; L.N. 27 of 2008; L.N. 140 of 2008; L.N. 159 of 2011; L.N. 413 of 2014; L.N. 20 of 2017; L.N. 23 of 2018; L.N. 390 of 2018; L.N. 229 of 2019; L.N. 303 of 2021; L.N. 233 of 2022; L.N. 106 of 2023; L.N. 223 of 2023.

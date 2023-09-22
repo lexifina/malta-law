@@ -180,8 +180,7 @@ Diploma geneeskundig Geneeskunst specialist
 -Registratiecommissie Geneeskundig Specialisten (RGS) van de Koninklijke Nederlandsche Maatschappij tot Bevordering der Geneeskunst (1)
 Österreich Facharztdiplom Österreichische Ärztekammer 1.1.1994
 Polska Dyplom uzyskania tytułu Centrum Egzaminów 1.5.2004
-specjalisty Medycznych
-Portugal Titulo de especialista Ordem dos Médicos 1.1.1986
+specjalisty Medycznych Portugal Titulo de especialista Ordem dos Médicos 1.1.1986
 România Certificat de medic Ministerul Sănătăţii 1.1.2007
 specialist
 Slovenija Potrdilo o opravljenem 1.Ministrstvo za zdravje 1.5.2004
@@ -238,8 +237,7 @@ réanimation
 Magyarország Aneszteziológia és Sebészet
 intenzív terápia
 Malta Anesteżija u Kura Kirurġija Ġenerali
-Intensiva
-Nederland Anesthesiologie Heelkunde
+Intensiva Nederland Anesthesiologie Heelkunde
 Österreich Anästhesiologie und - Chirurgie
 Intensivmedizin - Allgemeinchirurgie und
 Viszeralchirurgie (4)
@@ -438,8 +436,7 @@ Traumatologie (3)
 Polska Ortopedia i traumatologia Patomorfologia
 narządu ruchu
 Portugal Ortopedia Anatomia patologica
-România Ortopedie şi traumatologie Anatomie patologică
-Slovenija - Ortopedska kirurgija; Patologija
+România Ortopedie şi traumatologie Anatomie patologică Slovenija - Ortopedska kirurgija; Patologija
 Travmatologija
 Slovensko Ortopédia Patologická anatómia
 Suomi/Finland Ortopedia ja traumatologia/ Patologia/Patologi
@@ -592,8 +589,7 @@ Lietuva
 Luxembourg Microbiologie Chimie biologique
 Magyarország Orvosi mikrobiológia
 Malta Mikrobijoloġija Patoloġija Kimika
-Nederland Medische microbiologie Klinische chemie (6)
-Österreich -Hygiene und Mikrobiologie Medizinische und Chemische
+Nederland Medische microbiologie Klinische chemie (6) Österreich -Hygiene und Mikrobiologie Medizinische und Chemische
 Labordiagnostik
 -Klinische Mikrobiologie und Hygiene (7)
 -Klinische Mikrobiologie und Virologie (8)
@@ -636,8 +632,7 @@ Lietuva Krūtinės chirurgija
 Luxembourg Immunologie Chirurgie thoracique
 Magyarország Allergológia és klinikai immunológia Mellkassebészet
 Malta Immunoloġija Kirurġija Kardjo-Toraċika
-Nederland Cardio-thoracale chirurgie
-Österreich -Immunologie Thoraxchirurgie
+Nederland Cardio-thoracale chirurgie Österreich -Immunologie Thoraxchirurgie
 -Klinische Immunologie (4)
 Polska Immunologia kliniczna Chirurgia klatki piersiowej
 Portugal Cirurgia cardiotorácica
@@ -1218,8 +1213,7 @@ Sverige Klinisk neurofysiologi United Kingdom Clinical neurophysiology Oral and 
 . (1) Training leading to the award of evidence of formal qualifications as a specialist in dental,
 oral and maxillo-facial surgery (basic medical and dental training) assumes completion and validation of basic medical studies (Article 24) and, in addition, completion and validation of basic dental studies (Article 34). . (2) Since 2006. . (3) Since 10.07.2014. . (4) Since 2020/2021 . (5) Since 2009. . (6) Issued before 01.01.2021. . (7) Issued before 01.01.2021.
 Medical oncology Medical genetics
-Minimum period of Minimum period of training:
-training: 5 years 4 years
+Minimum period of Minimum period of training: training: 5 years 4 years
 Country Title Title
 Belgique/België/ Oncologie médicale/ Klinische genetica/génétique clinique Belgien Medische oncologie (1)
 България Медицинска онкология Медицинска генетика
@@ -2070,10 +2064,9 @@ d'infirmier hospitalier gradué -Brevet de Lycée Technique Technicien pour Prof
 Magyarország 1.Ápoló 1.Szakképző iskola Ápoló 1.5.2004
 bizonyítvány 2.Ápoló oklevél 2.Felsőoktatási
 intézmény
-3.Okleveles 3.Felsőoktatási ápoló oklevél intézmény
-Universita 'ta' Infermier 1.5.2004 Malta Lawrja jew
+3.Okleveles 3.Felsőoktatási ápoló oklevél intézmény Malta Lawrja jew Universita 'ta' Infermier 1.5.2004
 diploma fl- Malta Registrat tal-
-Ewwel Livell istudji tal-
+istudji tal- Ewwel Livell
 infermerija Nederland 1.Diploma's 1.Door een van Verpleegkundige 29.6.1979
 verpleger A, overheidswege verpleegster A, benoemde verpleegkundige examencommissie A 2.Diploma 2.Door een van verpleegkundige overheidswege MBOV benoemde (Middelbare examencommissie Beroepsopleidin g Verpleegkundige ) 3.Diploma 3.Door een van verpleegkundige overheidswege HBOV (Hogere benoemde Beroepsopleidin examencommissie g Verpleegkundige ) 4.Diploma 4.Door een van beroepsonderwij overheidswege s aangewezen verpleegkundige opleidingsinstellin - g Kwalificatienive au 4 5.Diploma 5.Door een van hogere overheidswege beroepsopleidin aangewezen g opleidingsinstellin verpleegkundige g - Kwalificatienive au 5 Österreich 1.Diplom über 1.Schule für -Diplomierte 1.1.1994
 die Ausbildung allgemeine Gesundheits- und
