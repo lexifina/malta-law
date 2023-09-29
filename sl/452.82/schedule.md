@@ -1,0 +1,18 @@
+## SCHEDULE
+# schedule
+(regulation 10)
+The activities mentioned in regulation 10 include all building work relating to the construction, repair, upkeep, alteration or demolition of buildings, and in particular the following work:
+1. excavation
+2. earthmoving
+3. actual building work
+4. assembly and dismantling of prefabricated elements
+5. fitting out or installation
+6. alterations
+7. renovation
+8. repairs
+9. dismantling
+10 demolition
+11. maintenance
+12. upkeep, painting and cleaning work
+13. improvements
+- Added by: L.N. 224 of 2023.
