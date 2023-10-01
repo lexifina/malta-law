@@ -597,13 +597,13 @@ This, day of 20
 0.23 cents No.26
 Court order to perform the function of Judicial Assistant.
 REPUBLIC OF MALTA
-To Doctor of Laws ................................. Judicial Assistant. Whereas it is required that in a cause before the (insert name of Court)................................. Summons No ............................... between plaintiff .............................................. and defendant ............................................... it is necessary to appoint a Judicial Assistant therein and in particular to:
+To Doctor of Laws..................................Judicial Assistant. Whereas it is required that in a cause before the (insert name of Court)..................................Summons No ............................... between plaintiff .............................................. and defendant ............................................... it is necessary to appoint a Judicial Assistant therein and in particular to:
 *(a) ascertain and establish the issues of fact or of law involved in the cause, as well as the issues of fact or of law on which the parties agree, and to endeavour to induce the parties to reach an agreement on the issues involved in the cause, and to make a report thereof to the said Court;
 *(b) take the testimony of any person that is produced as a witness;
 *(c) take any affidavit on any matter; *(d) receive documents produced with any testimony, affidavit or declaration, including in particular a testimony, affidavit or declaration as is referred to in the Code of Organization and Civil Procedure;
 *(e) ............................................................................. .................................................................................. You are, therefore, hereby ordered that in terms of the provisions of article 97A of the Code of Organization and Civil Procedure, you will perform the functions of Judicial Assistant in the aforementioned cause with all the powers given to you by law, and in such manner that a first sitting should be held on the ................ day of ........................ 20 ....... at ........ a.m/p.m. at .................... and that you will thereafter file before this Court your report and the evidence received, if any, by not later than the date of the first sitting before this same Court.
 .................................. Judge of the said Court
-This ............................day of ....................... 20
+This............................day of ....................... 20
 0.23 cents No. 27
 Notice of hearing of proceedings/evidence before a Judicial Assistant.
 REPUBLIC OF MALTA
@@ -646,7 +646,7 @@ Application of..................................................................
 Respectfully requests the issue of a subpoena order in the above stated cause against the person mentioned hereunder to attend for the sitting and at the time stated hereunder, and to bring with him the documents hereunder mentioned:
 Person summoned to attend as witness: ........................................ Address:....................................................................................... Date, time and place where witness is to attend: ......................... Documents to be brought by witness:...........................................
 Advocate: .................................................................................. Legal Procurator: .......................................................................
-This............................................. day of .................. 20 ......
+This ............................................. day of .................. 20 ......
 Filed by............................................................................
 (Registrar's signature)
 0.23 cents
@@ -658,7 +658,7 @@ Each witness is hereby being warned that should he fail to appear on the day and
 ....................................
 Doctor of Laws
 Judicial Assistant
-This ............................................. day of ................... 20 ......
+This............................................. day of ................... 20 ......
 0.23 cents No. 30
 Escort Order issued by a Judicial Assistant against a person failing to attend on subpoena.
 REPUBLIC OF MALTA
