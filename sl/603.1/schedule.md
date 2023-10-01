@@ -62,11 +62,29 @@ IX of Part II of Book First of the Criminal Code;
 article 39 of the Nuclear Safety and Radiation Protection Act;
 (h) attempt or conspiracy to commit or complicity in
 the offences mentioned in paragraphs (a), (b), (c), (d), (e), (f) and (g) above.
+1C. The Attorney General shall have the power to decide
+whether a prosecution is or is not to be instituted in the following categories of offences when the charges are to be filed in the Court of Magistrates as a court of criminal judicature or in the Court of
+[S.L. 603.01 (TRANSITORY PROVISIONS) 5
+Magistrates as a Court of criminal inquiry on or after the 1st October 2023:
+(a) grievous bodily harm; grievous bodily harm with
+arms proper; other cases of grievous bodily harm; grievous bodily harm from which death ensues under sub-title II of Title VIII of Part II of Book First of the Criminal Code;
+(b) involuntary homicide; involuntary homicide in the
+course of theft or attempted theft under sub-title IV of Title VIII of Part II of Book First of the Criminal Code;
+(c) infanticide under sub-title VIII of Title VIII of
+Part II of Book First of the Criminal Code;
+(d) stalking involving fear of violence, serious alarm
+or distress under sub-title IX of Title VIII of Part II of Book First of the Criminal Code;
+(e) aggravated theft under sub-title I of Title IX of
+Part II of Book First of the Criminal Code;
+(f) offences against the National Interest (Enabling
+Powers) Act;
+(g) offences against the Fisheries Conservation and
+Management Act;
+(h) attempts or conspiracy to commit or complicity in
+the offences mentioned in paragraphs (a), (b), (c), (d), (e), (f) and (g) above.
 2. Nothing in this Schedule shall be interpreted:
 (a) as excluding the Commissioner of Police or any
-other public authority having prosecution powers under any
-[S.L. 603.01 (TRANSITORY PROVISIONS) 5
-other law from exercising or from continuing to exercise the said powers after the coming into force of this Schedule; or
+other public authority having prosecution powers under any other law from exercising or from continuing to exercise the said powers after the coming into force of this Schedule; or
 (b) as giving rise to any defect in the proceedings:
 (i) in cases where such powers are exercised
 after the coming into force of this Schedule or where
@@ -77,13 +95,20 @@ having prosecution powers after the said coming into
 force; or
 (ii) where it results that the amount of financial
 loss or evasion of any tax or duty does not reach or
+[S.L. 603.01 6 (TRANSITORY PROVISIONS)
 exceeds the minimum threshold established under
 paragraphs (g) or (h) of item 1.
-3. (1) Without prejudice to the provisions of item 2, the Executive Police shall not on or after the 1st October 2020 institute or pursue any prosecution for the crimes listed in item 1 in the absence of a decision to prosecute having been taken by the Attorney General.
-(2) Without prejudice to the provisions of item 2, the Executive Police shall not on or after the 1st October 2021 institute or pursue any prosecution for the crimes listed in item 1A in the absence of a decision to prosecute having been taken by the Attorney General.
-(3) Without prejudice to the provisions of item 2, the Executive Police shall not on or after the 1st October 2022 institute or pursue any prosecution for the crimes listed in item 1B in the absence of a decision to prosecute having been taken by the Attorney General.
-4. In this Schedule any reference to an offence provided in the Criminal Code or in any other law shall, unless the context otherwise requires, be read and construed as an indication of that offence through a reference to the marginal note of the article which prescribes it and any discrepancy between the marginal note and the content of the article shall have no effect on the inclusion in this Schedule of the offence as described in the actual text of the relative article.
-- Amended by: L.N. 367 of 2021; L.N. 241 of 2022.
+3. (1) Without prejudice to the provisions of item 2, the
+Executive Police shall not on or after the 1st October 2020 institute or pursue any prosecution for the crimes listed in item 1 in the absence of a decision to prosecute having been taken by the Attorney General.
+(2) Without prejudice to the provisions of item 2, the
+Executive Police shall not on or after the 1st October 2021 institute or pursue any prosecution for the crimes listed in item 1A in the absence of a decision to prosecute having been taken by the Attorney General.
+(3) Without prejudice to the provisions of item 2, the
+Executive Police shall not on or after the 1st October 2022 institute or pursue any prosecution for the crimes listed in item 1B in the absence of a decision to prosecute having been taken by the Attorney General.
+(4) Without prejudice to the provisions of item 2, the
+Executive Police shall not on or after the 1st October 2023 institute or pursue any prosecution for the crimes listed in item 1C in the absence of a decision to prosecute having been taken by the Attorney General.
+4. In this Schedule any reference to an offence provided in
+the Criminal Code or in any other law shall, unless the context otherwise requires, be read and construed as an indication of that offence through a reference to the marginal note of the article which prescribes it and any discrepancy between the marginal note and the content of the article shall have no effect on the inclusion in this Schedule of the offence as described in the actual text of the relative article.
+- Amended by: L.N. 367 of 2021; L.N. 241 of 2022; L.N. 225 of 2023.
 - See Cap. 9.
 - See Cap. 9.
 - See Cap. 9.
@@ -99,4 +124,11 @@ paragraphs (g) or (h) of item 1.
 - See Cap. 9.
 - See Cap. 9.
 - See Cap. 585.
+- See Cap. 9.
+- See Cap. 9.
+- See Cap. 9.
+- See Cap. 9.
+- See Cap. 9.
+- See Cap. 365.
+- See Cap. 425.
 - See Cap. 9.
