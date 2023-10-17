@@ -1,11 +1,4 @@
 SUBSIDIARY LEGISLATION 36.34
-AQUACULTURE REGULATIONS
+AQUACULTURE REGULATIONS*
 29th May, 1990
 LEGAL NOTICE 73 of 1990.
-The title of these Regulations is Aquaculture Regulations. 1.
-In these Regulations, unless the context otherwise 2. requires -
-"Director" means the Director of Agriculture and Fisheries and includes any officer of the department duly authorised by the Director to act on his behalf;
-"to fatten" means to keep fish from the fingerling stage to market size;
-"to rear" means to breed and rear up to the fingerling stage and includes the selling of broodstock;
-"to keep" includes to rear and to fatten;
-"fish" includes fin fish, molluscs and crustaceans, whether of fresh or of sea-water.

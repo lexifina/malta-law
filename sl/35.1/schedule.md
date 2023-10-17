@@ -18,15 +18,12 @@
 ## L.N. 21 of 1961
 ## L.N. 34 of 1974
 ## G.N. 151 of 1934
-## G.N. 338 of 1925 G.N. 549 of 1937 G.N. 481 of 1938 G.N. 827 of 1948
-## G.N. 200 of 1926 G.N. 595 of 1947
-## G.N. 338 of 1925; G.N. 152 of 1930
-## G.N. 451 of 1929
+## G.N. 64 of 1950
+## G.N. 594 of 1947
+## G.N. 338 of 1925 L.N. 123 of 1992 XIII. 2015.18 L.N. 353 of 2018.
 ## G.N. 275 of 1948
 ## L.N. 118 of 1975 L.N. 148 of 1998
 ## L.N. 40 of 1973
-## L.N. 210 of 1997 XIII. 2015.18
-## G.N. 437 of 1948 L.N. 210 of 1997 XIII. 2015.18
 # schedule
 (Regulation 2)
 €
@@ -175,27 +172,10 @@ Public Registry For a certificate containing a translation of a registration of 
 Marriage Registry
 For receiving notice of an intended marriage ....................... 1.16 For receiving notice of a caveat .......................................... 2.33 For a certificate by the marriage officer that a notice has been given .......................................................................... 0.58
 War Damage Commission Extracts from, or copies of, documents kept by the War Damage Commission, for every 100 words or under ............ 0.35
-MINISTRY FOR AGRICULTURE AND FISHERIES Health guards Health guards attending dogs kept under observation, per day of 12 hours or portion of such day ................................ 0.26 Health guards attending cattle, each per day ........................ 0.41
-Quarantine Bullocks, horses, mules and donkeys, in quarantine, per head, per day, including consumption of water .................... 0.01 Bullocks, horses, mules and donkeys, in quarantine, per head, per day, if kept after the expiration of the established period of quarantine, including consumption of water ......... 0.03 Sheep, goats, swine, dogs and other small animals, in quarantine, per head, per day, including consumption of water .................................................................................. 0.005 Sheep, goats, swine, dogs and other small animals, in quarantine, per head, per day, if kept after the expiration of the established period of quarantine, including consumption of water .............................................................................. 0.03
-Disinfection of animals
-Bullocks, sheep and goats, per head .................................. Horses, mules and donkeys, per head ....................................
-Tuberculin test
-Tuberculin testing for cattle, per head ...................................
-Artificial insemination
-For each artificial insemination of animals ........................ Wine For each licence or permit issued under the Wine (Control) 0.12 Regulations ........................................................................
-For any analysis of wine specifying the alcoholic strength, 2.33 the acidity (total and volatile) and the dry extract thereof ....
-Pesticides For the registration of any brand of pesticides under the
-3.49 provision of the Importation, Sale and Use of Pesticides Regulations ........................................................................
-Storage of goods at Luqa Airport Storage of goods:
-(i) up to 6 hours - no charge
-(ii) for more than 6 hours but not more than 24 hours, for every one hundred kilos or part thereof ............................... 0.58
-(iii) for more than 24 hours but not more than 9 days, for every one hundred kilos or part thereof ............................... 2.33 No goods shall be allowed to remain in storage for a period longer than 9 days.
-Fisheries Licence to keep a fishing boat ............................................. 0.12 Licence to use a fishing ground ........................................... 0.12 Licence to lay an irmi[[ ..................................................... 2.33 Licence to act as pitkal for the sale of fish ........................... 0.12 Licence to act as fish-carrier, and renewal of the same licence ................................................................................ 0.29
-Co-operative Societies For the publication of notices of amendment of the registered rules of a co-operative society in the Government Gazette in accordance with article 9(2) of the Co-operative Societies Act (Cap. 278): For 45 lines ........................................................................ 0.95 for every additional line ...................................................... 0.02
-Certificates Miscellaneous certificates ................................................... 0.29 For the affixing of the Seal of Office to containers of agricultural produce intended for export to those countries where this is required by import regulations: For any number of containers up to 60 ................................ 0.29 For each additional container .............................................. 0.005
 MINISTRY FOR GOZO
 Extract from documents, not under Office Seal, per 100 words or under .................................................................... 0.17
-MINISTRY OF HEALTH Vessels in quarantine Vessels anchoring in quarantine shall pay the following fees: Steamers, per day ............................................................... 0.23 Sailing vessels, per day ....................................................... 0.12 Health guards For each health guard on board an infected or suspected ship: In the Grand Harbour or other ports: For the first 12 hours or part thereof .................................... 0.93 For every 6 hours or part thereof, after the first 12 hours ..... 0.35 For each health guard on board a healthy ship: In the Grand Harbour or Marsamxett Harbour: For the first 12 hours or part thereof .................................... 0.47 Elsewhere: For the first 12 hours or part thereof .................................... 0.58 For every 6 hours or part thereof, after the first 12 hours ..... 0.23 For each boat employed to guard a ship, the charge, inclusive of health guards, shall be, per day of 24 hours or portion of such day ............................................................................... 2.33 For each health guard escorting persons or merchandise: For the first two trips, during the same day, per trip ............. 0.23 For more than two trips, during the same day, per trip ......... 0.17 For each heath guard attending merchandise, per day of 12 hours or portion of such day ................................................ 0.26
+MINISTRY OF HEALTH
+Vessels in quarantine Vessels anchoring in quarantine shall pay the following fees: Steamers, per day ............................................................... 0.23 Sailing vessels, per day ....................................................... 0.12 Health guards For each health guard on board an infected or suspected ship: In the Grand Harbour or other ports: For the first 12 hours or part thereof .................................... 0.93 For every 6 hours or part thereof, after the first 12 hours ..... 0.35 For each health guard on board a healthy ship: In the Grand Harbour or Marsamxett Harbour: For the first 12 hours or part thereof .................................... 0.47 Elsewhere: For the first 12 hours or part thereof .................................... 0.58 For every 6 hours or part thereof, after the first 12 hours ..... 0.23 For each boat employed to guard a ship, the charge, inclusive of health guards, shall be, per day of 24 hours or portion of such day ............................................................................... 2.33 For each health guard escorting persons or merchandise: For the first two trips, during the same day, per trip ............. 0.23 For more than two trips, during the same day, per trip ......... 0.17 For each heath guard attending merchandise, per day of 12 hours or portion of such day ................................................ 0.26
 Disinfection of ships, lighters, etc. Steam vessels ..................................................................... 4.66 Sailing vessels .................................................................... 2.33 Lighters .............................................................................. 0.17 Boats .................................................................................. 0.12 When a ship is coaling in quarantine, for each portion of deck disinfected .................................................................. 0.23
 Passengers in quarantine First class passengers, for attendance of health guards and use of furniture, per day ...................................................... 0.23 Second and third class passengers, for attendance of health guards and use of furniture, per day .................................... 0.06 Children under 12 years of age are exempted from the payment of these fees.
 Visitors Visitors at the Lazzaretto shall pay fees for attendance of health guards at the following rates: For half an hour .................................................................. 0.06 For one hour ....................................................................... 0.12 For over one hour ............................................................... 0.23
@@ -227,6 +207,5 @@ Human Rights Directorate Fees levied by the Directorate for Human Rights when th
 Fee chargeable to each student in Foundation Stage of the I Belong programme for the repetition of the Skill kit entitled Digital Skills....................................................................... 72.05 Fee chargeable to each student in Stage I of the I Belong programme for the repetition of any one of the Skill kits...................................................................... 90.82 Fee chargeable to each student in Stage II of the I Belong programme for the repetition of the Skill kit entitled Maltese for Integration ................................................................... 187.20
 Fee chargeable to each student in Stage II of the I Belong programme for the repetition of the Skill kit entitled Cultural Orientation.................................................................. 374.39
 - Substituted by: L.N. 407 of 2007.
-- Amended by: L.N. 73 of 2018; XVI.2018; Fourth Schedule; L.N. 419 of 2018; L.N. 353 of 2018; L.N. 7 of 2020; L.N. 18 of 2023.
+- Amended by: L.N. 73 of 2018; XVI.2018; Fourth Schedule; L.N. 419 of 2018; L.N. 353 of 2018; L.N. 7 of 2020; L.N. 18 of 2023; XXXIV.2023.3.
 - Substituted by: L.N. 98 of 2011.
-- Added by: L.N. 18 of 2023.

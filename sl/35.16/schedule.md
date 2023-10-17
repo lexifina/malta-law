@@ -3,7 +3,7 @@
 (Regulation 2)
 First Column Second
 Column
-€
+L
 1. Spraying
 (a) Spraying of ornamental and fruit trees (citrus,
 stone, soft fruit and trellised vines) per tree ... 2.33
