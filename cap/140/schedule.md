@@ -36,7 +36,7 @@ A benefit of insurance or similar clause shall be deemed to be a clause relievin
 ARTICLE IV
 Rights and Immunities.
 1. Neither the carrier nor the ship shall be liable for loss or damage arising or resulting from unseaworthiness unless caused by want of due diligence on the part of the carrier to make the ship seaworthy, and to secure that the ship is properly manned, equipped and supplied, and to make the holds, refrigerating and cool chambers and all other parts of the ship in which goods are carried fit and safe for their reception, carriage and preservation in accordance with the provisions of paragraph 1 of Article III.
-Whenever loss or damage has resulted from unseaworthiness, the burden of proving the exercise of due diligence shall be on the carrier or other person claiming exemption under this section.
+Whenever loss or damage has resulted from unseaworthiness, the burden of proving the exercise of due diligence shall be on the carrier or other person claiming exemption under this article.
 2. Neither the carrier nor the ship shall be responsible for loss or damage arising or resulting from -
 (a) act, neglect, or default of the master, mariner, pilot or the servants of the carrier in the navigation or in the management of the ship;
 (b) fire, unless caused by the actual fault or privity of the carrier;

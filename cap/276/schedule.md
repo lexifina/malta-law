@@ -1,6 +1,6 @@
 ## SCHEDULE
 # schedule
-[SECTION 5]
+[ARTICLE 5]
 1. Wilful homicide
 2. Involuntary homicide
 3. An offence against the law relating to abortion

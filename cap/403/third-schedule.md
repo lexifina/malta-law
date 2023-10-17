@@ -87,3 +87,4 @@ Property
 6 Liability Classes 10, 11, 12 and 13
 7 Credit and Suretyship Classes 14 and 15
 8 General All classes
+- Amended by: XXXIII. 2015.76.
