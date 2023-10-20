@@ -1,7 +1,6 @@
-[S.L.9.14 1 (EXECUTION IN THE EUROPEAN UNION)
+[S.L.9.14 (EXECUTION IN THE EUROPEAN UNION) 1
 SUBSIDIARY LEGISLATION 9.14
 FINANCIAL PENALTIES (EXECUTION IN THE
 EUROPEAN UNION) REGULATIONS
 16th October, 2009
-LEGAL NOTICE 268 of 2009, as amended by Legal Notice 468 of 2010.
-The title of these regulations is the Financial Penalties 1. (Execution in the European Union) Regulations.
+LEGAL NOTICE 268 of 2009, as amended by Legal Notices 468 of 2010 and 252 of 2023.
