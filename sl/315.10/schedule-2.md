@@ -18,7 +18,7 @@ It-tipjip isoddlok l-arterji
 It-tipjip iżidlek ir-riskju li tgħama
 (8) Smoking damages your teeth and gums
 It-tipjip iħassarlek snienek u l-ħanek
-[S.L.315.10 OF TOBACCO AND RELATED PRODUCTS 29
+[S.L.315.10 OF TOBACCO AND RELATED PRODUCTS 31
 (9) Smoking can kill your unborn child
 It-tipjip jista' joqtol it-tarbija tiegħek qabel it-twelid
 (10) Your smoke harms your children, family and friends
