@@ -16,9 +16,10 @@ PURPOSE, FUNCTIONS AND MEMBERSHIP
 Article 1
 PURPOSE
 In contributing to economic progress and reconstruction, the purpose of the Bank shall be to foster the transition towards open market-oriented economies and to promote private and entrepreneurial initiative in the Central and Eastern European countries committed to and applying the principles of multiparty democracy, pluralism and market economics.
-Subject to the same conditions, the purpose of the Bank may also be carried out in Mongolia and in member countries of the Southern and Eastern Mediterranean as determined by the Bank upon the affirmative vote of not less than two-thirds of the Governors, representing not less than three-fourths of the total voting power of the members. Accordingly, any reference in this Agreement and its annexes to "Central and Eastern European countries", "countries from Central and Eastern Europe", "recipient country (or countries)" or "recipient member country (or countries)" shall refer to
+Subject to the same conditions, the purpose of the Bank may also be carried out in (i) Mongolia; (ii) member countries of the Southern and Eastern Mediterranean; and (iii) a limited number of member countries of sub-Saharan Africa; in each case under (ii) and
+(iii) as determined by the Bank upon the affirmative vote of not less than two-thirds of the Governors, representing not less than three-fourths of the total voting power of the members. Accordingly, any reference in this Agreement and its annexes to "Central and
 FOR RECONSTRUCTION AND DEVELOPMENT
-Mongolia and each of such countries of the Southern and Eastern Mediterranean as well.
+Eastern European countries", "countries from Central and Eastern Europe", "recipient country (or countries)" or "recipient member country (or countries)" shall refer to Mongolia and each of such countries of the Southern and Eastern Mediterranean and sub-Saharan Africa as well.
 Article 2
 FUNCTIONS
 1. To fulfil on a long-term basis its purpose of fostering the transition of Central and Eastern European countries towards open market-oriented economies and the promotion of private and entrepreneurial initiative, the Bank shall assist the recipient member countries to implement structural and sectoral economic reforms, including demonopolization, decentralization and privatization, to help their economies become fully integrated into the international economy by measures:
@@ -31,11 +32,11 @@ FUNCTIONS
 (vii) to promote in the full range of its activities environmentally sound and sustainable development; and
 (viii) to undertake such other activities and provide such other services as may further these functions.
 2. In carrying out the functions referred to in paragraph 1 of this Article, the Bank shall work in close cooperation with all its members and, in such manner as it may deem appropriate within the terms of this Agreement, with the International Monetary Fund, the International Bank for Reconstruction and Development, the International Finance Corporation, the Multilateral Investment Guarantee Agency, and the Organisation for Economic Cooperation and Development, and shall cooperate with the United Nations and its Specialised Agencies and other related bodies, and any entity, whether public or private, concerned with the economic development of, and investment in, Central and Eastern European countries.
+FOR RECONSTRUCTION AND DEVELOPMENT
 Article 3
 MEMBERSHIP
 1. Membership in the Bank shall be open:
-(i) to (1) European countries and (2) non-European countries which are FOR RECONSTRUCTION AND DEVELOPMENT
-members of the International Monetary Fund; and
+(i) to (1) European countries and (2) non-European countries which are members of the International Monetary Fund; and
 (ii) to the European Economic Community and the European Investment Bank.
 2. Countries eligible for membership under paragraph 1 of this Article, which do not become members in accordance with Article 61 of this Agreement, may be admitted, under such terms and conditions as the Bank may determine, to membership in the Bank upon the affirmative vote of not less than two-thirds of the Governors, representing not less than three-fourths of the total voting power of the members.
 CHAPTER II
@@ -48,10 +49,10 @@ AUTHORIZED CAPITAL STOCK
 Article 5
 SUBSCRIPTION OF SHARES
 1. Each member shall subscribe to shares of the capital stock of the Bank, subject to fulfilment of the member's legal requirements. Each subscription to the original authorized capital stock shall be for paid-in shares and callable shares in the proportion of three (3) to seven (7). The initial number of shares available to be subscribed to by Signatories to this Agreement which become members in accordance with Article 61 of this Agreement shall be that set forth in Annex A. No member shall have an initial subscription of less than one hundred (100) shares
-2. The initial number of shares to be subscribed to by countries which are admitted to membership in accordance with paragraph 2 of Article 3 of this Agreement shall be determined by the Board of Governors; provided, however, that no such subscription shall be authorized which would have the effect of reducing the percentage of capital stock held by countries which are members of the European Economic Community, together with the European Economic Community and the European Investment Bank, below the majority of the total subscribed capital stock.
-3. The Board of Governors shall at intervals of not more than five (5) years review the capital stock of the Bank. In case of an increase in the authorized capital stock, each member shall have a reasonable opportunity to subscribe, under such
+2. The initial number of shares to be subscribed to by countries which are admitted to membership in accordance with paragraph 2 of Article 3 of this Agreement shall be determined by the Board of Governors; provided, however, that no such subscription shall be authorized which would have the effect of reducing the
 FOR RECONSTRUCTION AND DEVELOPMENT
-uniform terms and conditions as the Board of Governors shall determine, to a proportion of the increase in stock equivalent to the proportion which its stock subscribed bears to the total subscribed capital stock immediately prior to such increase. No member shall be obliged to subscribe to any part of an increase of capital stock.
+percentage of capital stock held by countries which are members of the European Economic Community, together with the European Economic Community and the European Investment Bank, below the majority of the total subscribed capital stock.
+3. The Board of Governors shall at intervals of not more than five (5) years review the capital stock of the Bank. In case of an increase in the authorized capital stock, each member shall have a reasonable opportunity to subscribe, under such uniform terms and conditions as the Board of Governors shall determine, to a proportion of the increase in stock equivalent to the proportion which its stock subscribed bears to the total subscribed capital stock immediately prior to such increase. No member shall be obliged to subscribe to any part of an increase of capital stock.
 4. Subject to the provisions of paragraph 3 of this Article, the Board of Governors may, at the request of a member, increase the subscription of that member, or allocate shares to that member within the authorized capital stock which are not taken up by other members; provided, however, that such increase shall not have the effect of reducing the percentage of capital stock held by countries which are members of the European Economic Community, together with the European Economic Community and the European Investment Bank, below the majority of the total subscribed capital stock.
 5. Shares of stock initially subscribed to by members shall be issued at par. Other shares shall be issued at par unless the Board of Governors, by a vote of not less than two-thirds of the Governors, representing not less than two-thirds of the total voting power of the members, decides to issue them in special circumstances on other terms.
 6. Shares of stock shall not be pledged or encumbered in any manner whatsoever, and they shall not be transferable except to the Bank in accordance with Chapter VII of this Agreement.
@@ -60,7 +61,9 @@ Article 6
 PAYMENT OF SUBSCRIPTIONS
 1. Payment of the paid-in shares of the amount initially subscribed to by each Signatory to this Agreement, which becomes a member in accordance with Article 61 of this Agreement, shall be made in five (5) instalments of twenty (20) per cent each of such amount. The first instalment shall be paid by each member within sixty
 (60) days after the date of the entry into force of this Agreement, or after the date of deposit of its instrument of ratification, acceptance or approval in accordance with Article 61, if this latter is later than the date of the entry into force. The remaining four (4) instalments shall each become due successively one year from the date on which the preceding instalment became due and shall each, subject to the legislative requirements of each member, be paid.
-2. Fifty (50) per cent of payment of each instalment pursuant to paragraph 1 of this Article, or by a member admitted in accordance with paragraph 2 of Article 3 of this Agreement, may be made in promissory notes or other obligations issued by such member and denominated in ECU, in United States dollars or in Japanese yen, to be drawn down as the Bank needs funds for disbursement as a result of its operations. Such notes or obligations shall be non-negotiable, non-interest-bearing and payable to the Bank at par value upon demand. Demands upon such notes or obligations shall, over reasonable periods of time, be made so that the value of such demands in ECU at the time of demand from each member is proportional to the number of paid-in shares subscribed to and held by each such member depositing such notes or obligations. FOR RECONSTRUCTION AND DEVELOPMENT
+2. Fifty (50) per cent of payment of each instalment pursuant to paragraph 1 of this Article, or by a member admitted in accordance with paragraph 2 of Article 3 of this Agreement, may be made in promissory notes or other obligations issued by such member and denominated in ECU, in United States dollars or in Japanese yen, to be drawn down as the Bank needs funds for disbursement as a result of its
+FOR RECONSTRUCTION AND DEVELOPMENT
+operations. Such notes or obligations shall be non-negotiable, non-interest-bearing and payable to the Bank at par value upon demand. Demands upon such notes or obligations shall, over reasonable periods of time, be made so that the value of such demands in ECU at the time of demand from each member is proportional to the number of paid-in shares subscribed to and held by each such member depositing such notes or obligations.
 3. All payment obligations of a member in respect of subscription to shares in the initial capital stock shall be settled either in ECU, in United States dollars or in Japanese yen on the basis of the average exchange rate of the relevant currency in terms of the ECU for the period from 30 September 1989 to 31 March 1990 inclusive.
 4. Payment of the amount subscribed to the callable capital stock of the Bank shall be subject to call, taking account of Articles 17 and 42 of this Agreement, only as and when required by the Bank to meet its liabilities.
 5. In the event of a call referred to in paragraph 4 of this Article, payment shall be made by the member in ECU, in United States dollars or in Japanese yen. Such calls shall be uniform in ECU value upon each callable share calculated at the time of the call.
@@ -73,9 +76,10 @@ As used in this Agreement, the term "ordinary capital resources" of the Bank sha
 (i) authorized capital stock of the Bank, including both paid-in and callable shares, subscribed to pursuant to Article 5 of this Agreement;
 (ii) funds raised by borrowings of the Bank by virtue of powers conferred by sub-paragraph (i) of Article 20 of this Agreement, to which the commitment to calls provided for in paragraph 4 of Article 6 of this Agreement is applicable;
 (iii) funds received in repayment of loans or guarantees and proceeds from the disposal of equity investment made with the resources indicated in sub-paragraphs (i) and (ii) of this Article;
-(iv) income derived from loans and equity investment, made from the resources indicated in sub-paragraphs (i) and (ii) of this Article, and income derived from guarantees and underwriting not forming part of the special operations of the Bank; and
-(v) any other funds or income received by the Bank which do not form part of its Special Funds resources referred to in Article 19 of this Agreement.
+(iv) income derived from loans and equity investment, made from the resources indicated in sub-paragraphs (i) and (ii) of this Article, and income derived
 FOR RECONSTRUCTION AND DEVELOPMENT
+from guarantees and underwriting not forming part of the special operations of the Bank; and
+(v) any other funds or income received by the Bank which do not form part of its Special Funds resources referred to in Article 19 of this Agreement.
 CHAPTER III
 OPERATIONS
 Article 8
@@ -88,10 +92,10 @@ RECIPIENT COUNTRIES AND USE OF RESOURCES
 (a) the Bank shall provide to such a country, and to enterprises in its territory, upon their request, technical assistance and other types of assistance directed to finance its private sector, to facilitate the transition of state-owned enterprises to private ownership and control, and to help enterprises operating competitively and moving to participation in the market oriented economy, subject to the proportion set forth in paragraph 3 of Article 11 of this Agreement;
 (b) the total amount of any assistance thus provided shall not exceed the total amount of cash disbursed and promissory notes issued by that country for its shares.
 (iii) At the end of this period, the decision to allow such a country access beyond the limits specified in sub-paragraphs (a) and (b) shall be taken by the Board of Governors by a majority of not less than three-fourths of the Governors representing not less than eighty-five (85) per cent of the total voting power of the members.
+FOR RECONSTRUCTION AND DEVELOPMENT
 Article 9
 ORDINARY AND SPECIAL OPERATIONS
-The operations of the Bank shall consist of ordinary operations financed from the ordinary capital resources of the Bank referred to in Article 7 of this Agreement and FOR RECONSTRUCTION AND DEVELOPMENT
-special operations financed from the Special Funds resources referred to in Article 19 of this Agreement. The two types of operations may be combined.
+The operations of the Bank shall consist of ordinary operations financed from the ordinary capital resources of the Bank referred to in Article 7 of this Agreement and special operations financed from the Special Funds resources referred to in Article 19 of this Agreement. The two types of operations may be combined.
 Article 10
 SEPARATION OF OPERATIONS
 1. The ordinary capital resources and the Special Funds resources of the Bank shall at all times and in all respects be held, used, committed, invested or otherwise disposed of entirely separately from each other. The financial statements of the Bank shall show the reserves of the Bank, together with its ordinary operations and, separately, its special operations.
@@ -103,10 +107,10 @@ METHODS OF OPERATION
 (i) by making, or co-financing together with multilateral institutions, commercial banks or other interested sources, or participating in, loans to private sector enterprises, loans to any state-owned enterprise operating competitively and moving to participation in the market oriented economy, and loans to any state-owned enterprise to facilitate its transition to private ownership and control; in particular to facilitate or enhance the participation of private and/or foreign capital in such enterprises;
 (ii) (a) by investment in the equity capital of private sector enterprises;
 (b) by investment in the equity capital of any state-owned enterprise operating competitively and moving to participation in the market oriented economy, and investment in the equity capital of any state-owned enterprise to facilitate its transition to private ownership and control; in particular to facilitate or enhance the participation of private and/or foreign capital in such enterprises; and
-(c) by underwriting, where other means of financing are not appropriate, the equity issue of securities by both private sector enterprises and such state-owned enterprises referred to in (b) above for the ends mentioned in that sub-paragraph;
-(iii) by facilitating access to domestic and international capital markets by private sector enterprises or by other enterprises referred to in sub-paragraph (i) of this paragraph for the ends mentioned in that sub-paragraph, through the provision of
+(c) by underwriting, where other means of financing are not
 FOR RECONSTRUCTION AND DEVELOPMENT
-guarantees, where other means of financing are not appropriate, and through financial advice and other forms of assistance;
+appropriate, the equity issue of securities by both private sector enterprises and such state-owned enterprises referred to in (b) above for the ends mentioned in that sub-paragraph;
+(iii) by facilitating access to domestic and international capital markets by private sector enterprises or by other enterprises referred to in sub-paragraph (i) of this paragraph for the ends mentioned in that sub-paragraph, through the provision of guarantees, where other means of financing are not appropriate, and through financial advice and other forms of assistance;
 (iv) by deploying Special Funds resources in accordance with the agreements determining their use; and
 (v) by making or participating in loans and providing technical assistance for the reconstruction or development of infrastructure, including environmental programmes, necessary for private sector development and the transition to a market-oriented economy.
 For the purposes of this paragraph, a state-owned enterprise shall not be regarded as operating competitively unless it operates autonomously in a competitive market environment and unless it is subject to bankruptcy laws.
@@ -118,10 +122,10 @@ For the purposes of this paragraph, a state-owned enterprise shall not be regard
 (a) the state sector includes national and local governments, their agencies, and enterprises owned or controlled by any of them;
 (b) a loan or guarantee to, or equity investment in, a state-owned enterprise which is implementing a programme to achieve private ownership and control shall not be considered as made to the state sector;
 (c) loans to a financial intermediary for onlending to the private sector shall not be considered as made to the state sector.
+FOR RECONSTRUCTION AND DEVELOPMENT
 Article 12
 LIMITATIONS ON ORDINARY OPERATIONS
-1. The total amount of outstanding loans, equity investments and guarantees made by the Bank in its ordinary operations shall not be increased at any time, if by FOR RECONSTRUCTION AND DEVELOPMENT
-such increase the total amount of its unimpaired subscribed capital, reserves and surpluses included in its ordinary capital resources would be exceeded.
+1. The Board of Directors shall establish and maintain appropriate limits with respect to capital adequacy metrics, in order to protect the financial soundness and sustainability of the Bank.
 2. The amount of any equity investment shall not normally exceed such percentage of the equity capital of the enterprise concerned as shall be determined, by a general rule, to be appropriate by the Board of Directors. The Bank shall not seek to obtain by such an investment a controlling interest in the enterprise concerned and shall not exercise such control or assume direct responsibility for managing any enterprise in which it has an investment, except in the event of actual or threatened default on any of its investments, actual or threatened insolvency of the enterprise in which such investment shall have been made, or other situations which, in the opinion of the Bank, threaten to jeopardize such investment, in which case the Bank may take such action and exercise such rights as it may deem necessary for the protection of its interests.
 3. The amount of the Bank's disbursed equity investments shall not at any time exceed an amount corresponding to its total unimpaired paid-in subscribed capital, surpluses and general reserve.
 4. The Bank shall not issue guarantees for export credits nor undertake insurance activities.
@@ -135,10 +139,10 @@ The Bank shall operate in accordance with the following principles:
 (v) the Bank shall seek to maintain reasonable diversification in all its investments;
 (vi) before a loan, guarantee or equity investment is granted, the applicant shall have submitted an adequate proposal and the President of the Bank shall have presented to the Board of Directors a written report regarding the proposal, together with recommendations, on the basis of a staff study;
 (vii) the Bank shall not undertake any financing, or provide any facilities, when the applicant is able to obtain sufficient financing or facilities elsewhere on terms and conditions that the Bank considers reasonable;
-(viii) in providing or guaranteeing financing, the Bank shall pay due regard to the prospect that the borrower and its guarantor, if any, will be in a position to meet their obligations under the financing contract;
-(ix) in case of a direct loan made by the Bank, the borrower shall be permitted by the Bank to draw its funds only to meet expenditure as it is actually
+(viii) in providing or guaranteeing financing, the Bank shall pay due regard
 FOR RECONSTRUCTION AND DEVELOPMENT
-incurred;
+to the prospect that the borrower and its guarantor, if any, will be in a position to meet their obligations under the financing contract;
+(ix) in case of a direct loan made by the Bank, the borrower shall be permitted by the Bank to draw its funds only to meet expenditure as it is actually incurred;
 (x) the Bank shall seek to revolve its funds by selling its investments to private investors whenever it can appropriately do so on satisfactory terms;
 (xi) in its investments in individual enterprises, the Bank shall undertake its financing on terms and conditions which it considers appropriate, taking into account the requirements of the enterprise, the risks being undertaken by the Bank, and the terms and conditions normally obtained by private investors for similar financing;
 (xii) the Bank shall place no restriction upon the procurement of goods and services from any country from the proceeds of any loan, investment or other financing undertaken in the ordinary or special operations of the Bank, and shall, in all appropriate cases, make its loans and other operations conditional on international invitations to tender being arranged; and
@@ -148,9 +152,10 @@ TERMS AND CONDITIONS FOR LOANS AND GUARANTEES
 1. In the case of loans made, participated in, or guaranteed by the Bank, the contract shall establish the terms and conditions for the loan or the guarantee concerned, including those relating to payment of principal, interest and other fees, charges, maturities and dates of payment in respect of the loan or the guarantee, respectively. In setting such terms and conditions, the Bank shall take fully into account the need to safeguard its income.
 2. Where the recipient of loans or guarantees of loans is not itself a member, but is a state-owned enterprise, the Bank may, when it appears desirable, bearing in mind the different approaches appropriate to public and state-owned enterprises in transition to private ownership and control, require the member or members in whose territory the project concerned is to be carried out, or a public agency or any instrumentality of such member or members acceptable to the Bank, to guarantee the repayment of the principal and the payment of interest and other fees and charges of the loan in accordance with the terms thereof. The Board of Directors shall review annually the Bank's practice in this matter, paying due attention to the Bank's creditworthiness.
 3. The loan or guarantee contract shall expressly state the currency or currencies, or ECU, in which all payments to the Bank thereunder shall be made.
+FOR RECONSTRUCTION AND DEVELOPMENT
 Article 15
 COMMISSION AND FEES
-1. The Bank shall charge, in addition to interest, a commission on loans made or participated in as part of its ordinary operations. The terms and conditions of this commission shall be determined by the Board of Directors. FOR RECONSTRUCTION AND DEVELOPMENT
+1. The Bank shall charge, in addition to interest, a commission on loans made or participated in as part of its ordinary operations. The terms and conditions of this commission shall be determined by the Board of Directors.
 2. In guaranteeing a loan as part of its ordinary operations, or in underwriting the sale of securities, the Bank shall charge fees, payable at rates and times determined by the Board of Directors, to provide suitable compensation for its risks.
 3. The Board of Directors may determine any other charges of the Bank in its ordinary operations and any commission, fees or other charges in its special operations.
 Article 16
@@ -167,10 +172,10 @@ METHODS OF MEETING THE LOSSES OF THE BANK
 (iv) fourth, against its general reserve and surpluses;
 (v) fifth, against the unimpaired paid-in capital; and
 (vi) last, against an appropriate amount of the uncalled subscribed callable capital which shall be called in accordance with the provisions of paragraphs 4 and 5 of Article 6 of this Agreement.
+FOR RECONSTRUCTION AND DEVELOPMENT
 Article 18
 SPECIAL FUNDS
 1. (i) The Bank may accept the administration of Special Funds which are designed to serve the purpose and come within the functions of the Bank in its recipient countries and potential recipient countries. The full cost of administering any such Special Fund shall be charged to that Special Fund.
-FOR RECONSTRUCTION AND DEVELOPMENT
 (ii) For the purposes of subparagraph (i), the Board of Governors may, at the request of a member which is not a recipient country, decide that such member qualifies as a potential recipient country for such limited period and under such terms as may seem advisable. Such decision shall be taken by the affirmative vote of not less than two-thirds of the Governors, representing not less than three-fourths of the total voting power of the members.
 (iii) The decision to allow a member to qualify as a potential recipient country can only be made if such member is able to meet the requirements for becoming a recipient country. Such requirements are those set out in Article 1 of this Agreement, as it reads at the time of such decision or as it will read upon the entry into force of an amendment that has already been approved by the Board of Governors at the time of such decision.
 (iv) If a potential recipient country has not become a recipient country at the end of the period referred to in subparagraph (ii), the Bank shall forthwith cease any special operations in that country, except those incident to the orderly realization, conservation and preservation of the assets of the Special Fund and settlement of obligations that have arisen in connection therewith.
@@ -183,10 +188,11 @@ The term "Special Funds resources" shall refer to the resources of any Special F
 (ii) funds repaid in respect of loans or guarantees, and the proceeds of equity investments, financed from the resources of any Special Fund which, under the rules and regulations governing that Special Fund, are received by such Special Fund; and
 (iii) income derived from investment of Special Funds resources.
 CHAPTER IV
+FOR RECONSTRUCTION AND DEVELOPMENT
 BORROWING AND OTHER MISCELLANEOUS POWERS
 Article 20
 GENERAL POWERS
-1. The Bank shall have, in addition to the powers specified elsewhere in this Agreement, the power to: FOR RECONSTRUCTION AND DEVELOPMENT
+1. The Bank shall have, in addition to the powers specified elsewhere in this Agreement, the power to:
 (i) borrow funds in member countries or elsewhere, provided always that:
 (a) before making a sale of its obligations in the territory of a country, the Bank shall have obtained its approval; and
 (b) where the obligations of the Bank are to be denominated in the currency of a member, the Bank shall have obtained its approval;
@@ -205,11 +211,10 @@ DETERMINATION AND USE OF CURRENCIES
 1. Whenever it shall become necessary under this Agreement to determine whether any currency is fully convertible for the purposes of this Agreement, such determination shall be made by the Bank, taking into account the paramount need to preserve its own financial interests, after consultation, if necessary, with the International Monetary Fund.
 2. Members shall not impose any restrictions on the receipt, holding, use or transfer by the Bank of the following:
 (i) currencies or ECU received by the Bank in payment of subscriptions to its capital stock, in accordance with Article 6 of this Agreement;
+FOR RECONSTRUCTION AND DEVELOPMENT
 (ii) currencies obtained by the Bank by borrowing;
 (iii) currencies and other resources administered by the Bank as contributions to Special Funds; and
-(iv) currencies received by the Bank in payment on account of principal, interest, dividends or other charges in respect of loans or investments, or the proceeds of disposal of such investments made out of any of the funds referred to in sub-paragraphs (i) to (iii) of this paragraph, or in payment of commission, fees or
-FOR RECONSTRUCTION AND DEVELOPMENT
-other charges.
+(iv) currencies received by the Bank in payment on account of principal, interest, dividends or other charges in respect of loans or investments, or the proceeds of disposal of such investments made out of any of the funds referred to in sub-paragraphs (i) to (iii) of this paragraph, or in payment of commission, fees or other charges.
 CHAPTER VI
 ORGANIZATION AND MANAGEMENT
 Article 22
@@ -228,10 +233,11 @@ BOARD OF GOVERNORS: POWERS
 (iii) suspend a member;
 (iv) decide appeals from interpretations or applications of this Agreement given by the Board of Directors;
 (v) authorize the conclusion of general agreements for co-operation with other international organizations;
+FOR RECONSTRUCTION AND DEVELOPMENT
 (vi) elect the Directors and the President of the Bank;
 (vii) determine the remuneration of the Directors and Alternate Directors and the salary and other terms of the contract of service of the President;
 (viii) approve, after reviewing the auditors' report, the general balance sheet and the statement of profit and loss of the Bank;
-(ix) determine the reserves and the allocation and distribution of the net profits of the Bank; FOR RECONSTRUCTION AND DEVELOPMENT
+(ix) determine the reserves and the allocation and distribution of the net profits of the Bank;
 (x) amend this Agreement;
 (xi) decide to terminate the operations of the Bank and to distribute its assets; and
 (xii) exercise such other powers as are expressly assigned to the Board of Governors in this Agreement.
@@ -246,12 +252,11 @@ Article 26
 BOARD OF DIRECTORS: COMPOSITION
 1. The Board of Directors shall be composed of twenty-three (23) members who shall not be members of the Board of Governors, and of whom:
 (i) Eleven (11) shall be elected by the Governors representing Belgium, Denmark, France, the Federal Republic of Germany, Greece, Ireland, Italy, Luxembourg, the Netherlands, Portugal, Spain, the United Kingdom, the European Economic Community and the European Investment Bank; and
+FOR RECONSTRUCTION AND DEVELOPMENT
 (ii) Twelve (12) shall be elected by the Governors representing other members, of whom:
 (a) four (4), by the Governors representing those countries listed in Annex A as Central and Eastern European countries eligible for assistance from the Bank;
 (b) four (4), by the Governors representing those countries listed in Annex A as other European countries;
-(c) four (4), by the Governors representing those countries listed in
-FOR RECONSTRUCTION AND DEVELOPMENT
-Annex A as non-European countries.
+(c) four (4), by the Governors representing those countries listed in Annex A as non-European countries.
 Directors, as well as representing members whose Governors have elected them, may also represent members who assign their votes to them.
 2. Directors shall be persons of high competence in economic and financial matters and shall be elected in accordance with Annex B.
 3. The Board of Governors may increase or decrease the size, or revise the composition, of the Board of Directors, in order to take into account changes in the number of members of the Bank, by an affirmative vote of not less than two-thirds of the Governors, representing not less than three-fourths of the total voting power of the members. Without prejudice to the exercise of these powers for subsequent elections, the number and composition of the second Board of Directors shall be as set out in paragraph 1 of this Article.
@@ -259,9 +264,11 @@ Directors, as well as representing members whose Governors have elected them, ma
 5. Directors shall hold office for a term of three (3) years and may be re-elected; provided that the first Board of Directors shall be elected by the Board of Governors at its inaugural meeting, and shall hold office until the next immediately following annual meeting of the Board of Governors or, if that Board shall so decide at that annual meeting, until its next subsequent annual meeting. They shall continue in office until their successors shall have been chosen and assumed office. If the office of a Director becomes vacant more than one hundred and eighty (180) days before the end of his or her term, a successor shall be chosen in accordance with Annex B, for the remainder of the term, by the Governors who elected the former Director. A majority of the votes cast by such Governors shall be required for such election. If the office of a Director becomes vacant one hundred and eighty (180) days or less before the end of his or her term, a successor may similarly be chosen for the remainder of the term, by the votes cast by such Governors who elected the former Director, in which election a majority of the votes cast by such Governors shall be required. While the office remains vacant, the Alternate of the former Director shall exercise the powers of the latter, except that of appointing an Alternate.
 Article 27
 BOARD OF DIRECTORS: POWERS
-Without prejudice to the powers of the Board of Governors as provided in Article 24 of this Agreement, the Board of Directors shall be responsible for the direction of the general operations of the Bank and, for this purpose, shall, in addition to the powers assigned to it expressly by this Agreement, exercise all the powers delegated to it by the Board of Governors, and in particular:
+Without prejudice to the powers of the Board of Governors as provided in Article 24 of this Agreement, the Board of Directors shall be responsible for the direction of
+FOR RECONSTRUCTION AND DEVELOPMENT
+the general operations of the Bank and, for this purpose, shall, in addition to the powers assigned to it expressly by this Agreement, exercise all the powers delegated to it by the Board of Governors, and in particular:
 (i) prepare the work of the Board of Governors;
-(ii) in conformity with the general directions of the Board of Governors, establish policies and take decisions concerning loans, guarantees, investments in equity capital, borrowing by the Bank, the furnishing of technical assistance, and other operations of the Bank; FOR RECONSTRUCTION AND DEVELOPMENT
+(ii) in conformity with the general directions of the Board of Governors, establish policies and take decisions concerning loans, guarantees, investments in equity capital, borrowing by the Bank, the furnishing of technical assistance, and other operations of the Bank;
 (iii) submit the audited accounts for each financial year for approval of the Board of Governors at each annual meeting; and
 (iv) approve the budget of the Bank.
 Article 28
@@ -273,10 +280,11 @@ Article 29
 VOTING
 1. The voting power of each member shall be equal to the number of its subscribed shares in the capital stock of the Bank. In the event of any member failing to pay any part of the amount due in respect of its obligations in relation to paid-in shares under Article 6 of this Agreement, such member shall be unable for so long as such failure continues to exercise that percentage of its voting power which corresponds to the percentage which the amount due but unpaid bears to the total amount of paid-in shares subscribed to by that member in the capital stock of the Bank.
 2. In voting in the Board of Governors, each Governor shall be entitled to cast the votes of the member he or she represents. Except as otherwise expressly provided in this Agreement, all matters before the Board of Governors shall be decided by a majority of the voting power of the members voting.
-3. In voting in the Board of Directors each Director shall be entitled to cast the number of votes to which the Governors who have elected him or her are entitled and those to which any Governors who have assigned their votes to him or her, pursuant to Section D of Annex B, are entitled. A Director representing more than one member may cast separately the votes of the members he or she represents. Except as otherwise expressly provided in this Agreement, and except for general policy decisions in which cases such policy decisions shall be taken by a majority of not less than two-thirds of the total voting power of the members voting, all matters before the Board of Directors shall be decided by a majority of the voting power of the members voting.
+3. In voting in the Board of Directors each Director shall be entitled to cast the number of votes to which the Governors who have elected him or her are entitled and those to which any Governors who have assigned their votes to him or her, pursuant to Section D of Annex B, are entitled. A Director representing more than one member may cast separately the votes of the members he or she represents. Except as otherwise expressly provided in this Agreement, and except for general policy
+FOR RECONSTRUCTION AND DEVELOPMENT
+decisions in which cases such policy decisions shall be taken by a majority of not less than two-thirds of the total voting power of the members voting, all matters before the Board of Directors shall be decided by a majority of the voting power of the members voting.
 Article 30
 THE PRESIDENT
-FOR RECONSTRUCTION AND DEVELOPMENT
 1. The Board of Governors, by a vote of a majority of the total number of Governors, representing not less than a majority of the total voting power of the members, shall elect a President of the Bank. The President, while holding office, shall not be a Governor or a Director or an Alternate for either.
 2. The term of office of the President shall be four (4) years. He or she may be re-elected. He or she shall, however, cease to hold office when the Board of Governors so decides by an affirmative vote of not less than two-thirds of the Governors, representing not less than two-thirds of the total voting power of the members. If the office of the President for any reason becomes vacant, the Board of Governors, in accordance with the provisions of paragraph 1 of this Article, shall elect a successor for up to four (4) years.
 3. The President shall not vote, except that he or she may cast a deciding vote in case of an equal division. He or she may participate in meetings of the Board of Governors and shall chair the meetings of the Board of Directors.
@@ -288,9 +296,10 @@ VICE PRESIDENT (S)
 1. One or more Vice-Presidents shall be appointed by the Board of Directors on the recommendation of the President. A Vice-President shall hold office for such term, exercise such authority and perform such functions in the administration of the Bank, as may be determined by the Board of Directors. In the absence or incapacity of the President, a Vice-President shall exercise the authority and perform the functions of the President.
 2. A Vice-President may participate in meetings of the Board of Directors but shall have no vote at such meetings, except that he or she may cast the deciding vote when acting in place of the President.
 Article 32
+FOR RECONSTRUCTION AND DEVELOPMENT
 INTERNATIONAL CHARACTER OF THE BANK
 1. The Bank shall not accept Special Funds or other loans or assistance that may in any way prejudice, deflect or otherwise alter its purpose or functions.
-2. The Bank, its President, Vice-President(s), officers and staff shall in their decisions take into account only considerations relevant to the Bank's purpose, functions and operations, as set out in this Agreement. Such considerations shall be weighed impartially in order to achieve and carry out the purpose and functions of the Bank. FOR RECONSTRUCTION AND DEVELOPMENT
+2. The Bank, its President, Vice-President(s), officers and staff shall in their decisions take into account only considerations relevant to the Bank's purpose, functions and operations, as set out in this Agreement. Such considerations shall be weighed impartially in order to achieve and carry out the purpose and functions of the Bank.
 3. The President, Vice-President(s), officers and staff of the Bank, in the discharge of their offices, shall owe their duty entirely to the Bank and to no other authority. Each member of the Bank shall respect the international character of this duty and shall refrain from all attempts to influence any of them in the discharge of their duties.
 Article 33
 LOCATION OF OFFICES
@@ -306,10 +315,9 @@ PUBLICATION OF REPORTS AND PROVISION OF INFORMATION
 2. The Bank shall report annually on the environmental impact of its activities and may publish such other reports as it deems desirable to advance its purpose.
 3. Copies of all reports, statements and publications made under this Article shall be distributed to members.
 Article 36
-ALLOCATION AND DISTRIBUTION OF NET INCOME
-1. The Board of Governors shall determine at least annually what part of the Bank's net income, after making provision for reserves and, if necessary, against possible losses under paragraph 1 of Article 17 of this Agreement, shall be allocated to surplus or other purposes and what part, if any, shall be distributed. Any such decision on the allocation of the Bank's net income to other purposes shall be taken by a majority of not less than two-thirds of the Governors, representing not less than two-thirds of the total voting power of the members. No such allocation, and no
 FOR RECONSTRUCTION AND DEVELOPMENT
-distribution, shall be made until the general reserve amounts to at least ten (10) per cent of the authorized capital stock.
+ALLOCATION AND DISTRIBUTION OF NET INCOME
+1. The Board of Governors shall determine at least annually what part of the Bank's net income, after making provision for reserves and, if necessary, against possible losses under paragraph 1 of Article 17 of this Agreement, shall be allocated to surplus or other purposes and what part, if any, shall be distributed. Any such decision on the allocation of the Bank's net income to other purposes shall be taken by a majority of not less than two-thirds of the Governors, representing not less than two-thirds of the total voting power of the members. No such allocation, and no distribution, shall be made until the general reserve amounts to at least ten (10) per cent of the authorized capital stock.
 2. Any distribution referred to in the preceding paragraph shall be made in proportion to the number of paid-in shares held by each member; provided that in calculating such number account shall be taken only of payments received in cash and promissory notes encashed in respect of such shares on or before the end of the relevant financial year.
 3. Payments to each member shall be made in such manner as the Board of Governors shall determine. Such payments and their use by the receiving country shall be without restriction by any member.
 CHAPTER VII
@@ -323,22 +331,22 @@ Article 38
 SUSPENSION OF MEMBERSHIP
 1. If a member fails to fulfil any of its obligations to the Bank, the Bank may suspend its membership by decision of a majority of not less than two-thirds of the Governors, representing not less than two-thirds of the total voting power of the members. The member so suspended shall automatically cease to be a member one year from the date of its suspension unless a decision is taken by not less than the same majority to restore the member to good standing.
 2. While under suspension, a member shall not be entitled to exercise any rights under this Agreement, except the right of withdrawal, but shall remain subject to all its obligations.
+FOR RECONSTRUCTION AND DEVELOPMENT
 Article 39
 SETTLEMENT OF ACCOUNTS WITH FORMER MEMBERS
-1. After the date on which a member ceases to be a member, such former member shall remain liable for its direct obligations to the Bank and for its contingent liabilities to the Bank so long as any part of the loans, equity investments or guarantees contracted before it ceased to be a member are outstanding; but it shall cease to incur such liabilities with respect to loans, equity investments and FOR RECONSTRUCTION AND DEVELOPMENT
-guarantees entered into thereafter by the Bank and to share either in the income or the expenses of the Bank.
+1. After the date on which a member ceases to be a member, such former member shall remain liable for its direct obligations to the Bank and for its contingent liabilities to the Bank so long as any part of the loans, equity investments or guarantees contracted before it ceased to be a member are outstanding; but it shall cease to incur such liabilities with respect to loans, equity investments and guarantees entered into thereafter by the Bank and to share either in the income or the expenses of the Bank.
 2. At the time a member ceases to be a member, the Bank shall arrange for the repurchase of such former member's shares as a part of the settlement of accounts with such former member in accordance with the provisions of this Article. For this purpose, the repurchase price of the shares shall be the value shown by the books of the Bank on the date of cessation of membership, with the original purchase price of each share being its maximum value.
 3.The payment for shares repurchased by the Bank under this Article shall be governed by the following conditions:
 (i) any amount due to the former member for its shares shall be withheld so long as the former member, its central bank or any of its agencies or instrumentalities remains liable, as borrower or guarantor, to the Bank and such amount may, at the option of the Bank, be applied on any such liability as it matures. No amount shall be withheld on account of the liability of the former member resulting from its subscription for shares in accordance with paragraphs 4, 5 and 7 of Article 6 of this Agreement. In any event, no amount due to a member for its shares shall be paid until six (6) months after the date upon which the member ceases to be a member;
 (ii) payments for shares may be made from time to time, upon their surrender by the former member, to the extent by which the amount due as the repurchase price in accordance with paragraph 2 of this Article exceeds the aggregate amount of liabilities on loans, equity investments and guarantees in sub-paragraph (i) of this paragraph until the former member has received the full repurchase price;
 (iii) payments shall be made on such conditions and in such fully convertible currencies, or ECU, and on such dates, as the Bank determines; and
 (iv) if losses are sustained by the Bank on any guarantees, participations in loans, or loans which were outstanding on the date when the member ceased to be a member, or if a net loss is sustained by the Bank on equity investments held by it on such date, and the amount of such losses exceeds the amount of the reserves provided against losses on the date when the member ceased to be a member, such former member shall repay, upon demand, the amount by which the repurchase price of its shares would have been reduced if the losses had been taken into account when the repurchase price was determined. In addition, the former member shall remain liable on any call for unpaid subscriptions under paragraph 4 of Article 6 of this Agreement, to the extent that it would have been required to respond if the impairment of capital had occurred and the call had been made at the time the repurchase price of its shares was determined.
-4. If the Bank terminates its operations pursuant to Article 41 of this Agreement within six (6) months of the date upon which any member ceases to be a member, all rights of such former member shall be determined in accordance with the provisions of Articles 41 to 43 of this Agreement.
+4. If the Bank terminates its operations pursuant to Article 41 of this Agreement within six (6) months of the date upon which any member ceases to be a member, all rights of such former member shall be determined in accordance with
+FOR RECONSTRUCTION AND DEVELOPMENT
+the provisions of Articles 41 to 43 of this Agreement.
 Article 40
 TEMPORARY SUSPENSION OF OPERATIONS
-In an emergency, the Board of Directors may suspend temporarily operations in respect of new loans, guarantees, underwriting, technical assistance and equity
-FOR RECONSTRUCTION AND DEVELOPMENT
-investments pending an opportunity for further consideration and action by the Board of Governors.
+In an emergency, the Board of Directors may suspend temporarily operations in respect of new loans, guarantees, underwriting, technical assistance and equity investments pending an opportunity for further consideration and action by the Board of Governors.
 Article 41
 TERMINATION OF OPERATIONS
 The Bank may terminate its operations by the affirmative vote of not less than two-thirds of the Governors, representing not less than three-fourths of the total voting power of the members. Upon such termination of operations the Bank shall forthwith cease all activities, except those incident to the orderly realization, conservation and preservation of its assets and settlement of its obligations.
@@ -351,8 +359,10 @@ DISTRIBUTION OF ASSETS
 1. No distribution under this Chapter shall be made to members on account of their subscriptions to the capital stock of the Bank until:
 (i) all liabilities to creditors have been discharged or provided for; and
 (ii) the Board of Governors has decided by a vote of not less than two-thirds of the Governors, representing not less than three-fourths of the total voting power of the members, to make a distribution.
-2. Any distribution of the assets of the Bank to the members shall be in proportion to the capital stock held by each member and shall be effected at such times and under such conditions as the Bank shall deem fair and equitable. The shares of assets distributed need not be uniform as to type of assets. No member shall be entitled to receive its share in such a distribution of assets until it has settled all of its obligations to the Bank.
-3. Any member receiving assets distributed pursuant to this Article shall enjoy the same rights with respect to such assets as the Bank enjoyed prior to their distribution. FOR RECONSTRUCTION AND DEVELOPMENT
+2. Any distribution of the assets of the Bank to the members shall be in
+FOR RECONSTRUCTION AND DEVELOPMENT
+proportion to the capital stock held by each member and shall be effected at such times and under such conditions as the Bank shall deem fair and equitable. The shares of assets distributed need not be uniform as to type of assets. No member shall be entitled to receive its share in such a distribution of assets until it has settled all of its obligations to the Bank.
+3. Any member receiving assets distributed pursuant to this Article shall enjoy the same rights with respect to such assets as the Bank enjoyed prior to their distribution.
 CHAPTER VIII
 STATUS, IMMUNITIES, PRIVILEGES AND EXEMPTIONS
 Article 44
@@ -370,10 +380,10 @@ Actions may be brought against the Bank only in a court of competent jurisdictio
 Article 47
 IMMUNITY OF ASSETS FROM SEIZURE
 Property and assets of the Bank, wheresoever located and by whomsoever held, shall be immune from search, requisition, confiscation, expropriation or any other form of taking or foreclosure by executive or legislative action.
+FOR RECONSTRUCTION AND DEVELOPMENT
 Article 48
 IMMUNITY OF ARCHIVES
 The archives of the Bank, and in general all documents belonging to it or held by it, shall be inviolable.
-FOR RECONSTRUCTION AND DEVELOPMENT
 Article 49
 FREEDOM OF ASSETS FROM RESTRICTIONS
 To the extent necessary to carry out the purpose and functions of the Bank and subject to the provisions of this Agreement, all property and assets of the Bank shall be free from restrictions, regulations, controls and moratoria of any nature.
@@ -388,8 +398,9 @@ PRIVILEGES OF OFFICERS AND EMPLOYEES
 1. All Governors, Directors, Alternates, officers and employees of the Bank and experts of the Bank performing missions for the Bank:
 (i) not being local nationals, shall be accorded the same immunities from immigration restrictions, alien registration requirements and national service obligations, and the same facilities as regards exchange regulations, as are accorded by members to the representatives, officials, and employees of comparable rank of other members; and
 (ii) shall be granted the same treatment in respect of travelling facilities as is accorded by members to representatives, officials and employees of comparable rank of other members.
-2. The spouses and immediate dependants of those Directors, Alternate Directors, officers, employees and experts of the Bank who are resident in the country in which the principal office of the Bank is located shall be accorded opportunity to take employment in that country. The spouses and immediate dependants of those Directors, Alternate Directors, officers, employees and experts of the Bank who are resident in a country in which any agency or branch office of the Bank is located should, wherever possible, in accordance with the national law of that country, be accorded similar opportunity in that country. The Bank shall negotiate specific agreements implementing the provisions of this paragraph with the FOR RECONSTRUCTION AND DEVELOPMENT
-country in which the principal office of the Bank is located and, as appropriate, with the other countries concerned.
+2. The spouses and immediate dependants of those Directors, Alternate
+FOR RECONSTRUCTION AND DEVELOPMENT
+Directors, officers, employees and experts of the Bank who are resident in the country in which the principal office of the Bank is located shall be accorded opportunity to take employment in that country. The spouses and immediate dependants of those Directors, Alternate Directors, officers, employees and experts of the Bank who are resident in a country in which any agency or branch office of the Bank is located should, wherever possible, in accordance with the national law of that country, be accorded similar opportunity in that country. The Bank shall negotiate specific agreements implementing the provisions of this paragraph with the country in which the principal office of the Bank is located and, as appropriate, with the other countries concerned.
 Article 53
 EXEMPTION FROM TAXATION
 1. Within the scope of its official activities the Bank, its assets, property, and income shall be exempt from all direct taxes.
@@ -400,11 +411,10 @@ EXEMPTION FROM TAXATION
 6. Directors, Alternate Directors, officers and employees of the Bank shall be subject to an internal effective tax for the benefit of the Bank on salaries and emoluments paid by the Bank, subject to conditions to be laid down and rules to be adopted by the Board of Governors within a period of one year from the date of entry into force of this Agreement. From the date on which this tax is applied, such salaries and emoluments shall be exempt from national income tax. The members may, however, take into account the salaries and emoluments thus exempt when assessing the amount of tax to be applied to income from other sources.
 7. Notwithstanding the provisions of paragraph 6 of this Article, a member may deposit, with its instrument of ratification, acceptance or approval, a declaration that such member retains for itself, its political subdivisions or its local authorities the right to tax salaries and emoluments paid by the Bank to citizens or nationals of such member. The Bank shall be exempt from any obligation for the payment, withholding or collection of such taxes. The Bank shall not make any reimbursement for such taxes.
 8. Paragraph 6 of this Article shall not apply to pensions and annuities paid by the Bank.
+FOR RECONSTRUCTION AND DEVELOPMENT
 9. No tax of any kind shall be levied on any obligation or security issued by the Bank, including any dividend or interest thereon, by whomsoever held:
 (i) which discriminates against such obligation or security solely because it is issued by the Bank, or
-(ii) if the sole jurisdictional basis for such taxation is the place or currency in which it is issued, made payable or paid, or the location of any office or
-FOR RECONSTRUCTION AND DEVELOPMENT
-place of business maintained by the Bank.
+(ii) if the sole jurisdictional basis for such taxation is the place or currency in which it is issued, made payable or paid, or the location of any office or place of business maintained by the Bank.
 10. No tax of any kind shall be levied on any obligation or security guaranteed by the Bank, including any dividend or interest thereon, by whomsoever held:
 (i) which discriminates against such obligation or security solely because it is guaranteed by the Bank, or
 (ii) if the sole jurisdictional basis for such taxation is the location of any office or place of business maintained by the Bank.
@@ -418,8 +428,10 @@ CHAPTER IX
 AMENDMENTS, INTERPRETATION, ARBITRATION
 Article 56
 AMENDMENTS
-1. Any proposal to amend this Agreement, whether emanating from a member, a Governor or the Board of Directors, shall be communicated to the Chairman of the Board of Governors who shall bring the proposal before that Board. If the proposed amendment is approved by the Board the Bank shall, by any rapid means of communication, ask all members whether they accept the proposed amendment. When not less than three-fourths of the members (including at least two countries from Central and Eastern Europe listed in Annex A), having not less than four-fifths of the total voting power of the members, have accepted the proposed amendment, the Bank shall certify that fact by formal communication addressed to all members.
-2. Notwithstanding paragraph 1 of this Article: FOR RECONSTRUCTION AND DEVELOPMENT
+1. Any proposal to amend this Agreement, whether emanating from a member, a Governor or the Board of Directors, shall be communicated to the Chairman of the Board of Governors who shall bring the proposal before that Board. If the proposed
+FOR RECONSTRUCTION AND DEVELOPMENT
+amendment is approved by the Board the Bank shall, by any rapid means of communication, ask all members whether they accept the proposed amendment. When not less than three-fourths of the members (including at least two countries from Central and Eastern Europe listed in Annex A), having not less than four-fifths of the total voting power of the members, have accepted the proposed amendment, the Bank shall certify that fact by formal communication addressed to all members.
+2. Notwithstanding paragraph 1 of this Article:
 (i) acceptance by all members shall be required in the case of any amendment modifying;
 (a) the right to withdraw from the Bank;
 (b) the rights pertaining to purchase of capital stock provided for in paragraph 3 of Article 5 of this Agreement;
@@ -433,10 +445,9 @@ INTERPRETATION AND APPLICATION
 1. Any question of interpretation or application of the provisions of this Agreement arising between any member and the Bank, or between any members of the Bank, shall be submitted to the Board of Directors for its decision. If there is no Director of its nationality in that Board, a member particularly affected by the question under consideration shall be entitled to direct representation in the meeting of the Board of Directors during such consideration. The representative of such member shall, however, have no vote. Such right of representation shall be regulated by the Board of Governors.
 2. In any case where the Board of Directors has given a decision under paragraph 1 of this Article, any member may require that the question be referred to the Board of Governors, whose decision shall be final. Pending the decision of the Board of Governors, the Bank may, so far as it deems it necessary, act on the basis of the decision of the Board of Directors.
 Article 58
-ARBITRATION
-If a disagreement should arise between the Bank and a member which has ceased to be a member, or between the Bank and any member after adoption of a decision to terminate the operations of the Bank, such disagreement shall be submitted to arbitration by a tribunal of three (3) arbitrators, one appointed by the Bank, another by the member or former member concerned, and the third, unless the parties otherwise agree, by the President of the International Court of Justice or such other
 FOR RECONSTRUCTION AND DEVELOPMENT
-authority as may have been prescribed by regulations adopted by the Board of Governors. A majority vote of the arbitrators shall be sufficient to reach a decision which shall be final and binding upon the parties. The third arbitrator shall have full power to settle all questions of procedure in any case where the parties are in disagreement with respect thereto.
+ARBITRATION
+If a disagreement should arise between the Bank and a member which has ceased to be a member, or between the Bank and any member after adoption of a decision to terminate the operations of the Bank, such disagreement shall be submitted to arbitration by a tribunal of three (3) arbitrators, one appointed by the Bank, another by the member or former member concerned, and the third, unless the parties otherwise agree, by the President of the International Court of Justice or such other authority as may have been prescribed by regulations adopted by the Board of Governors. A majority vote of the arbitrators shall be sufficient to reach a decision which shall be final and binding upon the parties. The third arbitrator shall have full power to settle all questions of procedure in any case where the parties are in disagreement with respect thereto.
 Article 59
 APPROVAL DEEMED GIVEN
 Whenever the approval or the acceptance of any member is required before any act may be done by the Bank, except under Article 56 of this Agreement, approval or acceptance shall be deemed to have been given unless the member presents an objection within such reasonable period as the Bank may fix in notifying the member of the proposed act.
@@ -449,8 +460,10 @@ SIGNATURE AND DEPOSIT
 Article 61
 RATIFICATION, ACCEPTANCE OR APPROVAL
 1. The Agreement shall be subject to ratification, acceptance or approval by the Signatories. Instruments of ratification, acceptance or approval shall, subject to paragraph 2 of this Article, be deposited with the Depository not later than 31 March 1991. The Depository shall duly notify the other Signatories of each deposit and the date thereof.
-2. Any Signatory may become a party to this Agreement by depositing an instrument of ratification, acceptance or approval until one year after the date of its entry into force or, if necessary, until such later date as may be decided by a majority of Governors, representing a majority of the total voting power of the members.
-3. A Signatory whose instrument referred to in paragraph 1 of this Article is deposited before the date on which this Agreement enters into force shall become a member of the Bank on that date. Any other Signatory which complies with the provisions of the preceding paragraph shall become a member of the Bank on the date on which its instrument of ratification, acceptance or approval is deposited. FOR RECONSTRUCTION AND DEVELOPMENT
+2. Any Signatory may become a party to this Agreement by depositing an instrument of ratification, acceptance or approval until one year after the date of its entry into force or, if necessary, until such later date as may be decided by a majority
+FOR RECONSTRUCTION AND DEVELOPMENT
+of Governors, representing a majority of the total voting power of the members.
+3. A Signatory whose instrument referred to in paragraph 1 of this Article is deposited before the date on which this Agreement enters into force shall become a member of the Bank on that date. Any other Signatory which complies with the provisions of the preceding paragraph shall become a member of the Bank on the date on which its instrument of ratification, acceptance or approval is deposited.
 Article 62
 ENTRY INTO FORCE
 1. This Agreement shall enter into force when instruments of ratification, acceptance or approval have been deposited by Signatories whose initial subscriptions represent not less than two thirds of the total subscriptions set forth in Annex A including at least two countries from Central and Eastern Europe listed in Annex A.
@@ -466,4 +479,4 @@ INAUGURAL MEETING AND COMMENCEMENT OF OPERATIONS
 3. The Bank shall notify its members of the date of commencement of its operations.
 Done at Paris on 29 May 1990 in a single original, whose English, French, German and Russian texts are equally authentic, which shall be deposited in the archives of the Depository which shall transmit a duly certified copy to each of the other prospective members whose names are set forth in Annex A.
 FOR RECONSTRUCTION AND DEVELOPMENT
-- Amended by: VIII. 2005.5; L.N. 68 of 2012.
+- Amended by: VIII. 2005.5; L.N. 68 of 2012; L.N. 265 of 2023.

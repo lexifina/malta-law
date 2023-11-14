@@ -8,12 +8,11 @@ REFERRED TO AS SECTION A GOVERNORS).
 3. Each Governor eligible to vote shall cast for one person all of the votes to which the member appointing him or her is entitled under paragraphs 1 and 2 of Article 29 of this Agreement.
 4. Subject to paragraph 10 of this Section, the 11 persons receiving the highest number of votes shall be Directors, except that no person who receives less than 4.5 per cent of the total of the votes which can be cast (eligible votes) in Section A shall be considered elected.
 5. Subject to paragraph 10 of this Section, if 11 persons are not elected on the first ballot, a second ballot shall be held in which, unless there were no more than 11 candidates, the person who received the lowest number of votes in the first ballot shall be ineligible for election and in which there shall vote only:
+FOR RECONSTRUCTION AND DEVELOPMENT
 (a) those Governors who voted in the first ballot for a person not elected; and
 (b) those Governors whose votes for a person elected are deemed under paragraphs 6 and 7 below of this Section to have raised the votes cast
 for that person above 5.5 per cent of the eligible votes.
-6. In determining whether the votes cast by a Governor are deemed to have raised the totalvotes cast for any person above 5.5 per cent of the eligible votes, the
-FOR RECONSTRUCTION AND DEVELOPMENT
-5.5 per cent shall be deemed to include, first, the votes of the Governor casting the largest number of votes for such person, then the votes of the Governor casting the next largest number and so on, until 5.5 per cent is reached.
+6. In determining whether the votes cast by a Governor are deemed to have raised the totalvotes cast for any person above 5.5 per cent of the eligible votes, the 5.5 per cent shall be deemed to include, first, the votes of the Governor casting the largest number of votes for such person, then the votes of the Governor casting the next largest number and so on, until 5.5 per cent is reached.
 7. Any Governor, part of whose votes must be counted in order to raise the total of votes cast for any person above 4.5 per cent shall be considered as casting all of his or her votes for such person, even if the total votes for such person thereby exceed 5.5 per cent and shall not be eligible to vote in a further ballot.
 8. Subject to paragraph 10 of this Section, if, after the second ballot, 11 persons have not been elected, further ballots shall be held in conformity with the principles and procedures laid down in this Section, until 11 persons have been elected, provided that, if at any stage 10 persons are elected, notwithstanding the provisions of paragraph 4 of this Section, the 11th may be elected by a simple majority of the remaining votes cast.
 9. In the case of an increase or decrease in the number of Directors to be elected by Section A Governors, the minimum and maximum percentages specified in paragraphs 4, 5, 6 and 7 of this Section shall be appropriately adjusted by the Board of Governors.
@@ -24,8 +23,9 @@ Section B (i) - Election of Directors by Governors representing those countries 
 1. The provisions set out below in this Section shall apply exclusively to this Section.
 2. Candidates for the office of Director shall be nominated by Section B (i) Governors, provided that a Governor may nominate only one person. The election of Directors shall be by ballot of Section B (i) Governors.
 3. Each Governor eligible to vote shall cast for one person all of the votes to which the member appointing him or her is entitled under paragraphs 1 and 2 of Article 29 of this Agreement.
+FOR RECONSTRUCTION AND DEVELOPMENT
 4. Subject to paragraph 10 of this Section, the 4 persons receiving the highest number of votes shall be Directors, except that no person who receives less than 12 per cent of the total of the votes which can be cast (eligible votes) in Section B (i) shall be considered elected.
-5. Subject to paragraph 10 of this Section, if 4 persons are not elected on the first ballot, a second ballot shall be held in which, unless there were no more than 4 candidates, the person who received the lowest number of votes in the first ballot shall be ineligible for election and in which there shall vote only: FOR RECONSTRUCTION AND DEVELOPMENT
+5. Subject to paragraph 10 of this Section, if 4 persons are not elected on the first ballot, a second ballot shall be held in which, unless there were no more than 4 candidates, the person who received the lowest number of votes in the first ballot shall be ineligible for election and in which there shall vote only:
 (a) those Governors who voted in the first ballot for a person not elected; and
 (b) those Governors whose votes for a person elected are deemed under paragraphs 6 and 7 below of this Section to have raised the votes cast
 for that person above 13 per cent of the eligible votes.
@@ -37,11 +37,11 @@ for that person above 13 per cent of the eligible votes.
 Section B (ii) - Election of Directors by Governors representing those countries listed in Annex A as other European countries (hereinafter referred to as Section B
 (ii) Governors).
 1. The provisions set out below in this Section shall apply exclusively to this Section.
-2. Candidates for the office of Director shall be nominated by Section B (ii) Governors, provided that a Governor may nominate only one person. The election of Directors shall be by ballot of Section B (ii) Governors.
-3. Each Governor eligible to vote shall cast for one person all of the votes to which the member appointing him or her is entitled under paragraphs 1 and 2 of Article 29 of this Agreement.
-4. Subject to paragraph 10 of this Section, the 4 persons receiving the highest number of votes shall be Directors, except that no person who receives less than 20.5 per cent of the votes which can be cast (eligible votes) in Section B (ii) shall be
+2. Candidates for the office of Director shall be nominated by Section B (ii)
 FOR RECONSTRUCTION AND DEVELOPMENT
-considered elected.
+Governors, provided that a Governor may nominate only one person. The election of Directors shall be by ballot of Section B (ii) Governors.
+3. Each Governor eligible to vote shall cast for one person all of the votes to which the member appointing him or her is entitled under paragraphs 1 and 2 of Article 29 of this Agreement.
+4. Subject to paragraph 10 of this Section, the 4 persons receiving the highest number of votes shall be Directors, except that no person who receives less than 20.5 per cent of the votes which can be cast (eligible votes) in Section B (ii) shall be considered elected.
 5. Subject to paragraph 10 of this Section, if 4 persons are not elected on the first ballot, a second ballot shall be held in which, unless there were no more than 4 candidates, the person who received the lowest number of votes in the first ballot shall be ineligible for election and in which there shall vote only:
 (a) those Governors who voted in the first ballot for a person not elected; and
 (b) those Governors whose vote for a person elected are deemed under paragraphs 6 and 7 below of this Section to have raised the votes cast
@@ -51,10 +51,12 @@ for that person above 21.5 per cent of the eligible votes.
 8. Subject to paragraph 10 of this Section, if, after the second ballot, 4 persons have not been elected, further ballots shall be held in conformity with the principles and procedures laid down in this Section, until 4 persons have been elected, provided that, if at any stage 3 persons are elected, notwithstanding the provisions of paragraph 4 of this Section, the 4th may be elected by a simple majority of the remaining votes cast.
 9. In the case of an increase or decrease in the number of Directors to be elected by Section B (ii) Governors, the minimum and maximum percentages specified in paragraphs 4, 5, 6 and 7 of this Section shall be appropriately adjusted by the Board of Governors.
 10. So long as any Signatory, or group of Signatories, whose share of the total amount of capital subscriptions provided in Annex A is more than 2.8 per cent, has not deposited its instrument or their instruments of ratification, approval or acceptance, there shall be no election for one Director in respect of each such Signatory or group of Signatories. The Governor or Governors representing such a Signatory or group of Signatories shall elect a Director in respect of each Signatory or group of Signatories, immediately after the Signatory becomes a member or the group of Signatories become members. Such Director shall be deemed to have been elected by the Board of Governors at its inaugural meeting, in accordance with paragraph 3 of Article 26 of this Agreement, if he or she is elected during the period in which the first Board of Directors shall hold office.
-Section B(iii) - Election of Directors by Governors representing those countries listed in Annex A as Non-European Countries (hereinafter referred to as Section B
+Section B(iii) - Election of Directors by Governors representing those countries
+FOR RECONSTRUCTION AND DEVELOPMENT
+listed in Annex A as Non-European Countries (hereinafter referred to as Section B
 (iii) Governors).
 1. The provisions set out below in this Section shall apply exclusively to this Section.
-2. Candidates for the office of Director shall be nominated by Section B (iii) Governors, provided that a Governor may nominate only one person. The election of Directors shall be by ballot of Section B (iii) Governors. FOR RECONSTRUCTION AND DEVELOPMENT
+2. Candidates for the office of Director shall be nominated by Section B (iii) Governors, provided that a Governor may nominate only one person. The election of Directors shall be by ballot of Section B (iii) Governors.
 3. Each Governor eligible to vote shall cast for one person all of the votes to which the member appointing him or her is entitled under paragraphs 1 and 2 of Article 29 of this Agreement.
 4. Subject to paragraph 10 of this Section, the 4 persons receiving the highest number of votes shall be Directors, except that no person who receives less than 8 per cent of the total of the votes which can be cast (eligible votes) in Section B (iii) shall be considered elected.
 5. Subject to paragraph 10 of this Section, if 4 persons are not elected on the first ballot, a second ballot shall be held in which, unless there were no more than 4 candidates, the person who received the lowest number of votes in the first ballot shall be ineligible for election and in which there shall vote only:
@@ -65,14 +67,16 @@ for that person above 9 per cent of the eligible votes.
 7. Any Governor, part of whose votes must be counted in order to raise the total of votes cast for any person above 8 per cent shall be considered as casting all of his or her votes for such person, even if the total votes for such person thereby exceed 9 per cent and shall not be eligible to vote in a further ballot.
 8. Subject to paragraph 10 of this Section, if, after the second ballot, 4 persons have not been elected, further ballots shall be held in conformity with the principles and procedures laid down in this Section, until 4 persons have been elected, provided that, if at any stage 3 persons are elected, notwithstanding the provisions of paragraph 4 of this Section, the 4th may be elected by a simple majority of the remaining votes cast.
 9. In the case of an increase or decrease in the number of Directors to be elected by Section B (iii) Governors, the minimum and maximum percentages specified in paragraphs 4, 5, 6, and 7 of this Section shall be appropriately adjusted by the Board of Governors.
-10. So long as any Signatory, or group of Signatories, whose share of the total amount of capital subscriptions provided in Annex A is more than 5 per cent, has not deposited its instrument or their instruments of ratification, approval or acceptance, there shall be no election for one Director in respect of each such Signatory or group of Signatories. The Governor or Governors representing such a Signatory or group of Signatories shall elect a Director in respect of each Signatory or group of Signatories, immediately after the Signatory becomes a member or the group of Signatories become members. Such Director shall be deemed to have been elected by the Board of Governors at its inaugural meeting, in accordance with paragraph 3 of Article 26 of this Agreement, if he or she is elected during the period in which the first Board of Directors shall hold office.
+10. So long as any Signatory, or group of Signatories, whose share of the total amount of capital subscriptions provided in Annex A is more than 5 per cent, has not deposited its instrument or their instruments of ratification, approval or acceptance, there shall be no election for one Director in respect of each such Signatory or group of Signatories. The Governor or Governors representing such a Signatory or group of Signatories shall elect a Director in respect of each Signatory or group of
 FOR RECONSTRUCTION AND DEVELOPMENT
+Signatories, immediately after the Signatory becomes a member or the group of Signatories become members. Such Director shall be deemed to have been elected by the Board of Governors at its inaugural meeting, in accordance with paragraph 3 of Article 26 of this Agreement, if he or she is elected during the period in which the first Board of Directors shall hold office.
 SECTION C - ARRANGEMENTS FOR THE ELECTION OF DIRECTORS REP-
 RESENTING COUNTRIES NOT LISTED IN ANNEX A.
 If the Board of Governors decides, in accordance with paragraph 3 of Article 26 of this Agreement, to increase or decrease the size, or revise the composition, of the Board of Directors, in order to take into account changes in the number of members of the Bank, the Board of Governors shall first consider whether any amendments are required to this Annex, and may make any such amendments as it deems necessary as part of such decision.
 SECTION D - ASSIGNMENT OF VOTES.
 Any Governor who does not participate in voting for the election or whose vote does not contribute to the election of a Director under Section A or Section B (i) or Section B (ii) or Section B (iii) of this Annex may assign the votes to which he or she is entitled to an elected Director, provided that such Governor shall first have obtained the agreement of all those Governors who have elected that Director to such assignment.
-A decision by any Governor not to participate in voting for the election of a Director shall not affect the calculation of the eligible votes to be made under Section A, Section B (i), Section B (ii) or Section B (iii) of this Annex. FOR RECONSTRUCTION AND DEVELOPMENT
+A decision by any Governor not to participate in voting for the election of a Director shall not affect the calculation of the eligible votes to be made under Section A, Section B (i), Section B (ii) or Section B (iii) of this Annex.
+FOR RECONSTRUCTION AND DEVELOPMENT
 To the Chairman of the Conference
 on the Establishment of the
 European Bank for
@@ -84,7 +88,7 @@ In this connection, I would like to assure you dear Mr. Chairman, that the inten
 I would like to inform you that my government is prepared to limit its access to the Bank's resources, pursuant to paragraph 4 of Article 8 of the Articles of Agreement of the Bank, for a period of three years starting from the entry into force of the Articles of Agreement of the Bank.
 During that period, the Soviet Union wishes that the Bank will provide technical assistance and other types of assistance directed to finance its private sector, to facilitate the transition of State-owned enterprises to private sector ownership and control and to help enterprises operating competitively and moving to participation in the market-oriented economy, subject to the proportion set forth in paragraph 3 of Article 11 of this Agreement. The total amount of any assistance thus provided by the Bank would not exceed the total amount of the cash disbursed and the promissory notes issued by the Soviet Union for its shares.
 I am confident that continuing economic reforms in the Soviet Union will inevitably promote the expansion of the Bank's activities into the territory of the Soviet Union. However, the USSR, being interested in securing the multilateral character of the Bank, will not choose that at any time in future the Soviet borrowings will exceed an amount consistent with maintaining the necessary diversity in the bank's operations and prudent limits on its exposure.
-Please accept, Mr. Chairman, the assurances of my highest consideration.
+Please accept, Mr. Chairman, the assurances of my highest consideration. FOR RECONSTRUCTION AND DEVELOPMENT
 Head of Soviet Delegation
 Chairman of the Board
 of the State Bank of the U S S R
