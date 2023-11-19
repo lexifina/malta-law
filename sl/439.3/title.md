@@ -2,6 +2,6 @@ SUBSIDIARY LEGISLATION 439.03
 ANIMAL SLAUGHTER OR KILLING
 (PROTECTION) REGULATIONS
 30th September, 2003
-LEGAL NOTICE 260 of 2003, as amended by Legal Notice 426 of 2007.
+LEGAL NOTICE 260 of 2003, as amended by Legal Notices 426 of 2007 and 213 of 2023.
 Chapter I
 General provisions
