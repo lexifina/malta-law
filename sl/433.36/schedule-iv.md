@@ -7,7 +7,6 @@ Barley
 Maize
 Rye
 Wheat
-[S.L. 433.36 PLANT AND VEGETABLE SPECIES 9
 PART B Specific provisions concerning tests for distinctness, uniformity and
 stability (DUS) for organic varieties of agricultural plant species
 suitable for organic production
@@ -21,14 +20,15 @@ stringent way;
 the respective technical protocol is provided for in that item 2, the level of uniformity within the variety shall be similar to the level of uniformity of comparable varieties of common knowledge in the Union.
 2. Derogation from technical protocols
 2.1. Barley
-For the varieties belonging to the species barley (Hordeum vulgare L.), the following DUS characteristics of the CPVO technical protocol CPVO/TP-019/5 of the tested variety may deviate from the following DUS requirements for uniformity:
+For the varieties belonging to the species barley (Hordeum vulgare L.), the following DUS characteristics of the CPVO technical protocol CPVO/TP-019/5 of the tested variety may deviate from the following DUS requirements for uniformity: [S.L. 433.36 10 PLANT AND VEGETABLE SPECIES
 CPVO No 5 - Flag leaf: anthocyanin colouration of auricles
 CPVO No 8 - Flag leaf: glaucosity of sheath
 CPVO No 9 - Awns: anthocyanin colouration of tips
 CPVO No 10 - Ear: glaucosity
-CPVO No 12 - Grain: anthocyanin colouration of nerves of lemma
+CPVO No 12 - Grain: anthocyanin colouration of nerves of
+lemma
 CPVO No 16 - Sterile spikelet: attitude
-CPVO No 17 - Ear: shape [S.L. 433.36 10 PLANT AND VEGETABLE SPECIES
+CPVO No 17 - Ear: shape
 CPVO No 20 - Awn: length
 CPVO No 21 - Rachis: length of first segment
 CPVO No 22 - Rachis: curvature of first segment
@@ -50,13 +50,11 @@ CPVO No 11 - Tassel: curvature of lateral branches
 CPVO No 15 - Stem: anthocyanin colouration of brace roots
 CPVO No 16 - Tassel: density of spikelets
 CPVO No 17 - Leaf: anthocyanin colouration of sheath
-CPVO No 18 - Stem: anthocyanin colouration of internodes
-CPVO No 19 - Tassel: length of main axis above lowest lateral
-branch
-CPVO No 20 - Tassel: length of main axis above highest
-lateral branch
-CPVO No 21 - Tassel: length of lateral branch
 [S.L. 433.36 PLANT AND VEGETABLE SPECIES 11
+CPVO No 18 - Stem: anthocyanin colouration of internodes
+CPVO No 19 - Tassel: length of main axis above lowest lateral branch
+CPVO No 20 - Tassel: length of main axis above highest lateral branch
+CPVO No 21 - Tassel: length of lateral branch
 2.3. Rye
 For the varieties belonging to the species rye (Secale cereale L.), the following DUS characteristics of the CPVO technical protocol CPVO-TP/058/1 of the tested variety may deviate from the following DUS requirements for uniformity:
 CPVO No 3 - Coleoptile: anthocyanin colouration
@@ -72,14 +70,15 @@ CPVO No 13 - Stem: hairiness below ear
 For the varieties belonging to the species wheat (Triticum aestivum L. subsp. aestivum.), the following DUS characteristics of the CPVO technical protocol CPVO-TP/003/5 of the tested variety may deviate from the following DUS requirements for uniformity:
 CPVO No 3 - Coleoptile: anthocyanin colouration
 CPVO No 6 - Flag leaf: anthocyanin colouration of auricles
-CPVO No 8 - Flag leaf: glaucosity of sheath
+CPVO No 8 - Flag leaf: glaucosity of sheath [S.L. 433.36 12 PLANT AND VEGETABLE SPECIES
 CPVO No 9 - Flag leaf: glaucosity of blade
 CPVO No 10 - Ear: glaucosity
 CPVO No 11 - Culm: glaucosity of neck
 CPVO No 20 - Ear: shape in profile
-CPVO No 21 - Apical rachis segment: area of hairiness on convex surface
+CPVO No 21 - Apical rachis segment: area of hairiness on
+convex surface
 CPVO No 22 - Lower glume: shoulder width
-CPVO No 23 - Lower glume: shoulder shape [S.L. 433.36 12 PLANT AND VEGETABLE SPECIES
+CPVO No 23 - Lower glume: shoulder shape
 CPVO No 24 - Lower glume: length of beak
 CPVO No 25 - Lower glume: shape of beak
 CPVO No 26 - Lower glume: area of hairiness on internal

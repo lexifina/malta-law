@@ -10,3 +10,4 @@ of the value for cultivation or use:
 environment;
 4. Quality characteristics.
 The methods used shall be specified when the results are submitted.
+[S.L. 433.36 PLANT AND VEGETABLE SPECIES 9
