@@ -55,3 +55,6 @@ Scheme shall never be less than €698.81.
 licence conditions.
 4. Maximum limit of payment
 Licence holders will be required to contribute to their Investor Compensation Scheme Reserve each year until such time that aggregate fixed contributions paid to the Scheme and accumulated reserves held by licence holders by way of the Variable Contribution amount to €2,329,373.40.
+- Amended by: L.N. 36 of 2006.
+- Substituted by: L.N. 425 of 2007.
+- Amended by: L.N. 62 of 2011.
