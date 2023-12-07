@@ -13,8 +13,7 @@ replace the existing Youth Section by providing youth services on behalf of the
 Government
 Correctional Services To oversee the implementation of Agency national legislation and policy
 concerning Correctional Services, as well as to oversee the policy and strategy for the running of the Correctional Services Court Services Agency to execute the functions and duties in
-relation to the provision of court services in Malta and in Gozo. Governance of The registration of agricultural Agricultural bioresources and to promote Bioresources Agency governance, management and
-utilisation practices that are technically and economically feasible and environmentally sound E n e rg y a n d Wa t e r To execute the functions and duties of Agency the public administration in matters
+relation to the provision of court services in Malta and in Gozo. E n e rg y a n d Wa t e r To execute the functions and duties of Agency the public administration in matters
 relating to the design, implementation and dissemination of water, conventional energy and alternative
 energy policy
 European Union To promote, implement and manage Programmes Agency the Erasmus+ Programme, and other
@@ -58,5 +57,9 @@ Detention Services To be responsible for the confinement Agency of third country
 Malta irregularly or are irregularly present in Malta, and who have been issued with an order prescribing their
 detention
 Project Green To implement and execute
-environmental projects and projects which provide for the embellishment and creation of green spaces
-- Amended by: XXVIII. 2018.42; L.N.121 of 2019; L.N. 192 of 2019; L.N. 197 of 2019; L.N. 2 of 2020; L.N. 194 of 2020; L.N. 344 of 2020; L.N. 418 of 2020; L.N. 436 of 2020; L.N. 445 of 2020; L.N. 453 of 2020; L.N. 7 of 2021; L.N. 124 of 2021; L.N. 399 of 2021; L.N. 412 of 2021; L.N. 254 of 2022; L.N. 367 of 2022; L.N. 31 of 2023; L.N. 117 of 2023.
+environmental projects and projects which provide for the embellishment and creation of green spaces Aquatic Resources Malta To coordinate and implement applied
+research and development projects related to the aquaculture and fisheries
+industries
+Riżorsi Agrikoli Malta To regulate, administer and provide
+services related to agriculture resources
+- Amended by: XXVIII. 2018.42; L.N.121 of 2019; L.N. 192 of 2019; L.N. 197 of 2019; L.N. 2 of 2020; L.N. 194 of 2020; L.N. 344 of 2020; L.N. 418 of 2020; L.N. 436 of 2020; L.N. 445 of 2020; L.N. 453 of 2020; L.N. 7 of 2021; L.N. 124 of 2021; L.N. 399 of 2021; L.N. 412 of 2021; L.N. 254 of 2022; L.N. 367 of 2022; L.N. 31 of 2023; L.N. 117 of 2023; L.N. 283 of 2023; L.N. 284 of 2023.
