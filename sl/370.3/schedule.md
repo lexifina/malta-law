@@ -84,3 +84,11 @@ involved in the provision of tied agent activities.
 (n) Notification by the AIFM on behalf of the Notified AIF:
 - For each Notified AIF 2,000 2,000
 Notified AIF sub-funds 1,000 600 (per sub-fund)
+(o) Notification:
+- For a PIF to be included in the 2,000 2,000
+List of Notified PIFs
+- For a sub-fund of a Notified 1,000 600
+PIF to be included in the List of Notified PIFs
+- Amended by: L.N. 217 of 2016; L.N. 371 of 2016.
+- Substituted by: L.N. 20 of 2022.
+- Amended by: L.N. 291 of 2023.
