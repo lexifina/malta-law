@@ -1,5 +1,5 @@
 SUBSIDIARY LEGISLATION 123.55
 FRINGE BENEFITS RULES
 1st January, 2001
-LEGAL NOTICE 125 of 2001, as amended by Legal Notices 76 and 102 of 2006, 101, 147 and 409 of 2007, 292 and 336 of 2010, and 205 of 2017.
+LEGAL NOTICE 125 of 2001, as amended by Legal Notices 76 and 102 of 2006, 101, 147 and 409 of 2007, 292 and 336 of 2010, 205 of 2017 and 298 of 2023.
 PART A - GENERAL
