@@ -1,9 +1,3 @@
-## FIRST SCHEDULE*
-## (Article 74)
-## Coat of Arms
-## SECOND SCHEDULE*
-## (Article 2)
-## Localities and their Boundaries
 ## THIRD SCHEDULE
 ## Short Title.
 ## Interpretation.
@@ -289,7 +283,7 @@ Assistant Commissioners
 (5) Upon final determination of all objections the Commission shall assign the assistant commissioners to the various polling booths; such distribution shall be made in such manner as to ensure that in each polling booth there is, at least, one assistant commissioner nominated by the Commission and one assistant commissioner nominated by each party contesting the election in that locality:
 Provided that where a political party has not nominated a sufficient number of persons to be appointed assistant commissioners, the Commission shall only be required to assign, in respect of that political party, such assistant commissioners as have been nominated by it and appointed assistant commissioners.
 (6) The Commission shall, within two days of the final determination referred to in the preceding sub-regulation, cause a list to be published in the Gazette showing the name, address, identity card number and occupation of each assistant commissioner appointed, the polling booths to which each has been assigned, and indicating the assistant commissioners who are assigned but held in reserve.
-(7) After the final distribution of all assistant commissioners and up to the end of voting, the Commission alone shall have the right to substitute assistant commissioners and then only for grave and sufficient reasons and in such manner as to ensure that where the assistant commissioner substituted is one nominated by a political party, his substitute shall be a person nominated by the same party, provided a sufficient number of assistant commissioners have been nominated by that party.
+(7) After the final distribution of all assistant commissioners and up to the end of voting, the Commission alone shall have the right to substitute assistant commissioners and then only for grave and sufficient reasons and in such manner as to ensure that where the assistant commissioner substituted is one nominated by a political party, his substitute shall be a person nominated by the same p arty, provide d a sufficient numbe r of assis ta nt commissioners have been nominated by that party.
 PART VI
 Voting
 30. (1) Every political party shall have the right to nominate as its agents such number of persons as is equal to the number of ballot boxes and such persons are in these regulations referred to as "party agents".
@@ -353,7 +347,8 @@ Provided further that a person who is unable to vote independently by reason of 
 (c) The assistant commissioner shall repeat the operation in reference to a third or any subsequent preference until the voter shall declare that he does not desire to express any further choice.
 (d) In order to assist such voters in indicating their preferences, the electoral commissioners shall permit the display in the polling places of photographs of the candidates, if the same are supplied by the candidates themselves or by a political party on their behalf. Each photograph may bear, in addition to the name of the candidate represented, the badge and name of the
 party, if any, to which he belongs.
-Such photographs shall be of such size and description as the electoral commissioners may require and shall be displayed in such manner as they shall direct and in the order in which the candidates' names appear on the ballot paper.
+Such photographs shall be of such size and
+description as the electoral commissioners may require and shall be displayed in such manner as they shall direct and in the order in which the candidates' names appear on the ballot paper.
 (e) At the commencement of these operations and at any subsequent stage the assistant commissioner shall, if desired by the voter, read out in the order in which they appear on the ballot paper, the names of all candidates for whom a choice has not already been expressed by the voter.
 (f) If any such voter, however, shall request the assistant commissioner to read out the names of the candidates of one particular political party only, the assistant commissioner shall do so by reading in alphabetical order the names of the candidates who have supplied an indication of their adhesion to that political party
 and omitting the names of the other candidates.
@@ -598,7 +593,8 @@ may with his consent, be nominated as a candidate for the said vacancy.
 (2) The papers preserved under seal in accordance with these regulations in the parcel of the vacating councillor shall be examined and transferred to the validly nominated candidates first available in order of preference shown upon such papers, and each validly nominated candidate shall be credited with one vote in respect of each paper transferred.
 (3) In any case where there is only one validly nominated candidate, if such candidate is credited with votes in number equal to or exceeding half the number of papers in the parcel of the vacating councillor, he shall be declared elected.
 (4) In any case where there are two or more validly nominated candidates, the Commission shall exclude from the poll the candidate credited with the lowest number of votes and shall transfer his votes according to the next available preferences shown upon the ballot papers for the continuing candidate or candidates. The process of excluding the candidate lowest in the poll and of transferring his votes according to the next available preferences shall be continued until there is only one candidate remaining. If such candidate shall have then been credited with votes in number equal to or exceeding half the number of papers in the parcel of the vacating councillor, that candidate shall be declared elected:
-Provided that if at any time any candidates shall have been credited with votes exceeding the combined total of votes of all other candidates, and at the same time equal to or exceeding half the number of papers in the parcel of the vacating councillor, he shall be
+Provided that if at any time any candidates shall
+have been credited with votes exceeding the combined total of votes of all other candidates, and at the same time equal to or exceeding half the number of papers in the parcel of the vacating councillor, he shall be
 declared elected without further transfer.
 92. (1) If a vacancy occurs in a seat which has been filled in accordance with this Part of these regulations, or in the eventuality mentioned in regulation 24(1), or if on a vacancy occurring no candidate is validly nominated, or if after examination of the ballot papers of the vacating councillor no candidate secures election, the vacancy shall be filled by co-option in accordance with article 8(4) of the Act.
 (2) In filling a vacancy by co-option, regard shall be had to the representation as nearly as may be of the interests and opinions represented and held by the vacating councillor.
