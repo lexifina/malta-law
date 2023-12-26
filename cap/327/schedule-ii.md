@@ -33,8 +33,7 @@ The Faculty of Media and Knowledge Sciences
 The Faculty of Medicine and Surgery
 The Faculty of Science
 The Faculty for Social Wellbeing
-The Faculty of Theology.
-Statute 3 - COURSES OF STUDIES, DEGREES AND DISTINCTIONS
+The Faculty of Theology. Statute 3 - COURSES OF STUDIES, DEGREES AND DISTINCTIONS
 3.1 Courses of Studies, Degrees and Distinctions
 1. The University shall have the power to award degrees, diplomas and certificates to candidates who fulfil the prescribed conditions after following the requisite courses of studies, and this in accordance with regulations and bye-laws made by Senate.
 2. Courses of studies shall start as the Council shall determine.
@@ -120,7 +119,8 @@ In particular, the Director of Finance shall -
 (h) in the absence of the Secretary, carry out all or part of the duties of the Secretary when instructed to do so by the Rector.
 5. Other Appointments: The Auditor
 (as in paragraph 5 of Article 6.2 of Statute 6).
-Statute 7- APPOINTMENTS AND PROMOTIONS OF STAFF WITH FORMAL TEACHING AND/OR RESEARCH DUTIES
+Statute 7- APPOINTMENTS AND PROMOTIONS OF STAFF WITH
+FORMAL TEACHING AND/OR RESEARCH DUTIES
 Citation
 1. The title of this statute is Statute 7 of the University of Malta - Appointments and Conditions of Employment of Academic Staff.
 Appointments and Conditions of Employment of Academic Staff
@@ -193,8 +193,8 @@ Citation and interpretation
 "the Course" means a programme of study leading to a University qualification;
 "the Dean" means the Dean of a faculty or the Director of an institute, centre, or school of the University;
 "the Faculty" means a faculty, institute, centre, or school of the University;
-"the Senate" means the Senate of the University; and "the University" means the University of Malta.
-Applicability
+"the Senate" means the Senate of the University; and
+"the University" means the University of Malta. Applicability
 2. These regulations shall be applicable from September 2016 onwards.
 Courses
 3. The Courses are offered at the following levels:
@@ -230,10 +230,12 @@ Regular Students
 6. Applicants shall be admitted as undergraduate regular students if they:
 (a) satisfy the entry requirements as specified in these regulations and in the respective Course regulations or bye-laws; or
 (b) have qualifications comparable to the entry requirements as specified in regulation 12, provided that relevant experience may be considered together with these qualifications by the Admissions Board; or
-(c) will have reached the age of 23 by the beginning of the first semester of the Course for which they applied, hereinafter referred to as 'Adult Learners', and are judged to be eligible for admission by the Admissions Board on the basis of an assessment to determine whether such applicants are able to achieve the same academic standards as applicants admitted in terms of regulation 12; or
+(c) will have reached the age of 23 by the first semester of the Course for which they applied, hereinafter referred to as "Adult Learners", and are judged to be eligible for admission by the Admissions Board on the basis of an assessment to determine whether such applicants are able to achieve the same academic
+standards as applicants admitted in terms of regulation 12; or
 (d) have satisfied the general entry requirements for admission to the University, as applicable at the time the qualifications were obtained and are judged to be eligible for admission by the Admissions Board; or
 (e) are eligible to follow a preparatory programme, in order to seek admission to an undergraduate degree or diploma Course, as stipulated in the Course bye-laws; or
-(f) are eligible to follow a Foundation Studies Course; or
+(f) are eligible to follow a Foundation Studies Course in order to seek admission
+to an undergraduate course relevant to the same subject area; or
 (g) are eligible to follow a Pre-Tertiary Certificate Course; or
 (h) are accepted by the Admissions Board to follow study-units within the Programme in the Liberal Arts and Sciences offered by the University; or
 (i) possess qualifications which fall short of those required, which shortfall in qualifications at SEC Level, the Admissions Board, on the advice of the Access Disability Support Committee, deems to have been due to a significant disability (including applicants within the Autism Spectrum and with Specific Learning Difficulties) and provided that the missing qualifications will not adversely affect the applicant's studies at University. Each application will be considered on its own merits.
@@ -318,7 +320,8 @@ student may not register concurrently for more than one Course leading to a degr
 (b) Students may be allowed to register for any concurrent courses, if the student's workload does not exceed 75 ECTS credits per academic year in the case of full-time students or if the student's workload does not exceed 45 ECTS credits per academic year in the case of part-time students.
 (3) A student who discontinues a Course or is not permitted by the relevant Course regulations or bye-laws, to continue a Course, shall not be allowed to re-register as a student in any Course before the lapse of one year from the effective date of such discontinuation, unless with the permission of the Admissions Board.
 (4) Exceptionally, and for objective reasons, Course bye-laws may specify a minimum age for admission, as approved by Senate.
-Applications for Admission 17. (1) Applicants wishing to join Courses in terms of these regulations shall apply by the prescribed dates unless, in special circumstances, with the permission of the Admissions Board.
+Applications for Admission
+17. (1) Applicants wishing to join Courses in terms of these regulations shall apply by the prescribed dates unless, in special circumstances, with the permission of the Admissions Board.
 (2) Applicants shall submit all supporting documents, including an original recent Police Good Conduct Certificate, if required, within the deadline stipulated by the Office of the Registrar. Should they fail to do so, applicants shall be considered as no longer interested to pursue the Course/s they applied for.
 (3) (a) For Courses which involve work with vulnerable persons, applicants
 shall submit an original recent Police Good Conduct Certificate. A list of such Courses shall be approved by Senate and shall be published at the time of call for applications.
