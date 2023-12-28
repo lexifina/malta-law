@@ -53,8 +53,8 @@ A copy of the EU declaration of conformity shall be made available to the releva
 6. The manufacturer shall, for a period ending 10 years after the radio equipment has been placed on the market, keep at the disposal of the national authorities:
 (a) the technical documentation referred to in point 3(1);
 (b) the documentation concerning the quality system referred to in point 3(1);
-(c) the change referred to in point 3(5), as approved;
-(d) the decisions and reports of the notified body referred to in points 3(5), 4(3) and 4(4).
+(c) the change referred to in point 3(3)(f), as approved;
+(d) the decisions and reports of the notified body referred to in points 3(3)(f), 4(3) and 4(4).
 7. Each notified body shall inform its notifying authority of quality system approvals issued or withdrawn, and shall, periodically or upon request, make available to its notifying authority the list of quality system approvals refused, suspended or otherwise restricted. Each notified body shall inform the other notified bodies of quality system approvals which it has refused, suspended or withdrawn, and, upon request, of quality system approvals which it has issued.
 8. Authorised representative
-The manufacturer's obligations set out in points 3(1), 3(5), 5 and 6 may be fulfilled by his authorised representative, on his behalf and under his responsibility, provided that they are specified in the mandate.
+The manufacturer's obligations set out in points 3(1), 3(3)(f), 5 and 6 may be fulfilled by his authorised representative, on his behalf and under his responsibility, provided that they are specified in the mandate.
