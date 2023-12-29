@@ -10,4 +10,5 @@ signature date
 The said ..................................................................... has taken the oath before me at ................................................ on this ....................... day of ........................ ..............
 .....................................................
 (signature and authority of person administering oath)
-[S.L.220.03 OF SERVICE OF THE REGULAR FORCE 27
+[S.L.220.03 28 OF SERVICE OF THE REGULAR FORCE
+- Substituted by: L.N. 42 of 1980.

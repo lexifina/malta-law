@@ -18,7 +18,7 @@ c. At the end of 12 years you may be allowed to re-engage for a further 10
 years subject to the quota for re-engagements existing at the time. You may opt to terminate your service without payment at the 15 year point and at any time after 16 years service.
 d. At the end of 22 years service you may be allowed to continue for one
 year at a time up to the age of 55 years or until such subsequent age as the Minister may from time to time determine.
-[S.L.220.03 28 OF SERVICE OF THE REGULAR FORCE
+[S.L.220.03 OF SERVICE OF THE REGULAR FORCE 29
 e. Your reserve liability will be as follows:
 Reckonable Service Reserve Liability
 (1) After initial 3 year engagement NIL
@@ -49,7 +49,7 @@ You will be enlisted on a fourteen month engagement and you will have reserve li
 You will be enlisted on an eighteen month engagement and you have a reserve liability for a period of twenty years from the date of termination of your engagement.
 12. For men enlisted on a twelve month engagement -
 You will be enlisted on a twelve month engagement and you will have a reserve liability for a period of twenty years from the date of termination of your engagement.
-[S.L.220.03 OF SERVICE OF THE REGULAR FORCE 29
+[S.L.220.03 30 OF SERVICE OF THE REGULAR FORCE
 General
 13. You may be enlisted into a corps of your choice if there is a vacancy in that corps and you are duly qualified. While in the corps to which you are appointed you may be posted from one unit or branch to another.
 14. If at any time during the first 6 months of your service you are found unsuitable for the corps for which you are appointed but suitable for service in another corps you will be given the option either of transferring voluntarily to another corps for which you are suitable and in which there is a vacancy, or of being discharged, unless the interests of the Force render necessary your compulsory transfer to another corps. You can only be compulsorily transferred from one corps to another by order of the Commander.
@@ -65,7 +65,7 @@ then be discharged with all convenient speed unless, when you make your claim, a
 21. If when a soldier would otherwise be entitled to be discharged or to be transferred to the reserve, he is liable to be proceeded against by court-martial, or is serving a sentence of imprisonment or detention abroad, his discharge or transfer to the reserve will be postponed. What is said above about entitlement to be discharged or to be transferred to the reserve must be read as subject to this.
 22. a. If, when you would otherwise become entitled to be discharged, you are
 serving with the Force:
-[S.L.220.03 30 OF SERVICE OF THE REGULAR FORCE
+[S.L.220.03 OF SERVICE OF THE REGULAR FORCE 31
 (1) outside Malta, or
 (2) while a state of war exists, or
 (3) while soldiers in the reserve are called out for permanent service,
@@ -93,8 +93,7 @@ Q. 2. What is your address? Q. 3. What is the date of your birth?
 Q. 4. Where were you born? (give Q. 5. What is your nationality now?
 town, country)
 Q. 6. What was the
-nationality at birth of:
-[S.L.220.03 OF SERVICE OF THE REGULAR FORCE 31
+nationality at birth of: [S.L.220.03 32 OF SERVICE OF THE REGULAR FORCE
 (a) yourself? (c) your mother? (e) your wife?
 (b) your father? (d) your paternal grand-
 father and
@@ -116,11 +115,11 @@ Q. 15. Have you received a notice paper setting out the questions to be answered
 attestation and the general conditions of the enlistment to be entered into including reserve liability? ..........................................................................
 Do you understand the contents of the notice paper and wish to be enlisted?
 Q. 16. Are you willing to serve:
+[S.L.220.03 OF SERVICE OF THE REGULAR FORCE 33
 (a) *If under the age of 18 years, the period from the date of attestation up
 to the date on which you attain the age of 18 years, and thereafter for a term of ................... years with the colours and ............... years with the reserve.
 (b) If over the age of 18 years either:
 (1) *A term of ............... years with the colours with the option to be discharged from colour service at the end of ........................ years reckonable service, or
-[S.L.220.03 32 OF SERVICE OF THE REGULAR FORCE
 (2) *A term of ....... years with the colours less reckonable service within the meaning of the Appointments and Conditions of Service of the Regular Force of the Armed Forces of Malta Regulations with the option to be discharged from colour service at the end of
 ............ years inclusive of service reckonable as aforesaid.
 (c) A term of five years with the colours or, if you are over 55 years on date of enlistment, up to the age of 60 years.
@@ -142,11 +141,11 @@ Corps ........... .................... years with the Colours .......... years w
 General Instructions for completing the Attestation Paper
 1. The Recruit will first be given a copy of the Notice Paper.
 2. Any alterations in this Attestation Form will be initialled in ink by the Recruiting Officer. A ball-point type of pen will NOT be used.
-3. The Recruiting Officer will delete all paragraphs referring to types of engagement which are not appropriate.
+3. The Recruiting Officer will delete all paragraphs referring to types of
+[S.L.220.03 34 OF SERVICE OF THE REGULAR FORCE
+engagement which are not appropriate.
 QUESTIONS TO BE PUT TO THE RECRUIT BEFORE ENLISTMENT
-Under the provisions of articles 18 and 66 of the Malta Armed Forces Act, if a person knowingly makes a false answer to any of the questions contained in the Attestation Paper he renders himself liable to punishment.
-[S.L.220.03 OF SERVICE OF THE REGULAR FORCE 33
-Q. 1 What is your full (a) Christian or Fore (b) Surname
+Under the provisions of articles 18 and 66 of the Malta Armed Forces Act, if a person knowingly makes a false answer to any of the questions contained in the Attestation Paper he renders himself liable to punishment. Q. 1 What is your full (a) Christian or Fore (b) Surname
 name? Name(s)
 Q. 2. What is your address? Q. 3. What is the date of your birth?
 Q. 4. Where were you born? (give Q. 5. What is your nationality now?
@@ -165,12 +164,12 @@ Q. 11. Have you ever been charged before any civil court with an offence of whic
 you have not been acquitted (even though you may only have been absolutely or conditionally discharged, or placed on probation)? If so, give full particulars of each charge.
 Q. 12. Have you ever been rejected for service in any armed force of Malta or of a
 Commonwealth Country? If so, on what grounds?
+[S.L.220.03 OF SERVICE OF THE REGULAR FORCE 35
 Q. 13. (a) Are you, or have you ever been an apprentice? ......................................
 (b) If so, when will, or did, the period of your apprenticeship expire? .........
 Q. 14. (a) Into what corps do you wish to enlist? ..................................................
 (b) If you have been informed that there is no vacancy in that corps, into
 what other corps in which there is a vacancy do you wish to enlist? .......
-[S.L.220.03 34 OF SERVICE OF THE REGULAR FORCE
 Q. 15. Have you received a notice paper setting out the questions to be answered on
 attestation and the general conditions of the enlistment to be entered into including reserve liability? ..........................................................................
 Do you understand the contents of the notice paper and wish to be enlisted?
@@ -191,9 +190,9 @@ attestation.
 (*Delete whichever is inapplicable - Answer "Yes" to relevant question)
 SOLEMN DECLARATION
 I, ................................................. do solemnly declare that the above answers made by me to the above questions are true, and that I am willing to fulfil the engagement made.
+[S.L.220.03 36 OF SERVICE OF THE REGULAR FORCE
 ......................................... ......................................... ...................................
 (Date) (Signature of Recruit) (Signature of witness)
-[S.L.220.03 OF SERVICE OF THE REGULAR FORCE 35
 OATH TO BE TAKEN BY RECRUIT ON ATTESTATION
 I, .................................. affirm that I will bear true faith and allegiance to the people and the Republic of Malta and its Constitution, and that I will, as in duty bound, honestly and faithfully defend the Republic of Malta against all enemies, and will observe and obey all orders of the President of Malta, and of the officers set over me.
 (So help me God)
@@ -211,10 +210,9 @@ I am satisfied from the evidence produced or the statements made by the Recruit 
 The said Recruit has made and signed the Declaration and taken the Oath before me at ............... on this ....................... day of .................... ............
 Rank ................................................ Appointment ..............................................
 Signature of Recruiting Officer ............................................................................ Religious denomination .................. .....................
+[S.L.220.03 OF SERVICE OF THE REGULAR FORCE 37
 CERTIFICATE OF MEDICAL EXAMINATION
-I /We have examined this Recruit in accordance P U L H E E M S
-[S.L.220.03 36 OF SERVICE OF THE REGULAR FORCE
-with current instructions and have assessed him as follows:
+I /We have examined this Recruit in accordance P U L H E E M S with current instructions and have assessed him as follows:
 Date ...............................
 Signature(s) of Medical Officer(s) .......................................
 .......................................
@@ -226,5 +224,5 @@ Place ................................ * Here insert the "Corps" for which the r
 NOTES FOR RECRUITING OFFICERS
 1. Insert type of engagement e.g. Regular.
 2. If the recruit has former service he is to be asked particulars of this former service, and will produce, if possible, all certificates issued on discharge. All certificates will be returned to the recruit and in cases of former service with any armed force of Malta certificates will be conspicuously endorsed in red ink as follows:
-(Name) re-enlisted in the (Corps) on the (Date).
-[S.L.220.03 OF SERVICE OF THE REGULAR FORCE 37
+(Name) re-enlisted in the (Corps) on the (Date). [S.L.220.03 38 OF SERVICE OF THE REGULAR FORCE
+- Amended by: L.N. 42 of 1980; L.N. 54 of 1981; L.N. 36 of 1982; L.N. 64 of 1982; L.N. 45 of 1983; L.N. 14 of 1984; L.N. 411 of 2007; L.N. 227 of 2008; XXI of 2020.
