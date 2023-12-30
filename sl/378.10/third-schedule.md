@@ -17,4 +17,5 @@ Minimum Knowledge and Competence Requirements
 (a) professional qualifications, for example diplomas, degrees, training, competency tests; or
 (b) professional experience, which may be defined as a minimum number of years working in areas related to the origination, distribution or intermediation of credit products:
 Provided that after 21 March 2019, the determination of the appropriate level of knowledge and competence shall not be based solely on the methods listed in sub-paragraph (b) of the paragraph 1.
-[S.L.378.10 72 TO RESIDENTIAL IMMOVABLE PROPERTY
+[S.L.378.10 TO RESIDENTIAL IMMOVABLE PROPERTY 73
+- Added by: L.N. 259 of 2016.

@@ -1,7 +1,7 @@
 ## FOURTH SCHEDULE
 # fourth-schedule
 (Regulation 17C)
-Guidelines on the requirements regarding arrears and foreclosure
+Guidelines on the requirements regarding arrears and enforcement
 Guideline 1: Establishment of policies and procedures
 1.1 The creditor should establish, and keep up to date, procedures to detect, as early as possible, consumers going into payment difficulties.
 1.2 The creditor should establish, and keep up to date, policies and procedures for the effective handling of and engagement with consumers in payment difficulties. The consumer engagement policy should include that the creditor provides adequate information, for example, through websites and written materials, and support for consumers in payment difficulties.
@@ -19,7 +19,7 @@ Guideline 3: Provision of information and assistance to the consumer
 (d) the importance of the consumer co-operating with the creditor to
 resolve the situation.
 3.3 In cases where the consumer's payment difficulties persist, the creditor should
-[S.L.378.10 TO RESIDENTIAL IMMOVABLE PROPERTY 73
+[S.L.378.10 74 TO RESIDENTIAL IMMOVABLE PROPERTY
 provide the following information to the consumer:
 (a) information regarding the consequences of missing payments (e.g.
 costs, default interest rate, possible loss of property, etc.); and
@@ -38,4 +38,3 @@ for a period;
 (e) offering a payment holiday.
 Guideline 5: Documentation of dealings with the consumer and retention of records
 5.1 The creditor should document the reasons why the option(s) offered to the consumer are appropriate for his/her individual circumstances and should make and retain adequate records of its dealings with the consumer in payment difficulties for a reasonable period of time.
-- Added by: XLIV.2021.25.
