@@ -46,13 +46,13 @@ an employee;
 "whole-time employee" means an employee who is deemed to be
 a whole-time employee in terms of any recognized conditions of employment.
 2. (1) The minimum wage to be paid to full-time employee of
-a burdnar shall be two hundred and one euro and seventy cents (€201.70) a week of not more than forty hours of work based on five days from Monday to Friday and the minimum wage of a whole - time transport employee shall be two hundred and one euro and seventy cents (€201.70) a week of not more than forty hours a week.
+a burdnar shall be Two hundred and twenty two euro and fifty one cents (€222.51) a week of not more than forty hours of work based on five days from Monday to Friday and the minimum wage of a whole -time transport employee shall be two hundred and twenty two euro and fifty one cents (€222.51) a week of not more than forty hours a week.
 (2) In this paragraph "hours or work" does not include
 intervals for meals and rest in accordance with the provisions of paragraph 6.
 (3) The hours of work and rates of pay of whole-time
 employees of cargo clearance and forwarding agents and of transport employees shall be those determined in accordance with the provisions of sub-paragraph (1). (BURDNARA) EMPLOYEES WAGES COUNCIL
 [S.L.452.41 WAGE REGULATION 3
-3. The minimum remuneration payable to part-time employees shall not be less than five euro and five cents (€5.04) per hour so however that when a part-time employee works for not less than four hours in any one day he shall be entitled to one whole day's pay, namely to one-fifth of the weekly wage due from time to time to whole-time employees:
+3. The minimum remuneration payable to part-time employees shall not be less than five Euro and fifty six cents (€5.56) per hour so however that when a part-time employee works for not less than four hours in any one day he shall be entitled to one whole day's pay, namely to one-fifth of the weekly wage due from time to time to whole-time employees:
 Provided that such minimum hourly remuneration shall be increased to one-fortieth part of any increase granted by the Government to its whole-time employees and applicable to all other whole-time employees in terms of the provisions of the Employment and Industrial Relations Act.
 4. Whole-time employees shall be entitled to the payment of overtime as follows:
 (a) for all time worked on Sundays and customary
@@ -119,9 +119,9 @@ and
 undertaking engaged wholly or mainly in the clearance,
 haulage and transport of furniture and other household
 effects, and other goods or materials.
-- Amended by: L.N. 95 of 1976; L.N.102 of 1977; L.N.65 of 1978; L.N.129 of 1978; L.N. 427 of 2007; L.N. 128 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022.
-- Amended by: L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022.
-- Amended by: L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022.
+- Amended by: L.N. 95 of 1976; L.N.102 of 1977; L.N.65 of 1978; L.N.129 of 1978; L.N. 427 of 2007; L.N. 128 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023.
+- Amended by: L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023.
+- Amended by: L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023.
 - See Cap. 252.
 - See Cap. 203.
 - See Cap. 452.

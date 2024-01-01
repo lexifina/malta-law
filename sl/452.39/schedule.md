@@ -20,8 +20,8 @@
 "half day" means a period of half the number of daily working hours;
 "hours of work" means the time on any day during which the employees are at the disposal of the employer exclusive of intervals for meals and rest;
 "learner" means a person other than an apprentice, who is over the age of fourteen years and under the age of eighteen years and who is receiving training in any calling to which this Schedule applies, and in respect of whom the employer holds a permit issued in terms of the Employment and Training Services Act;
-"normal hours of work" means the hours of work per week agreed to between the employer and the employee subject to the [S.L.452.39 2 COUNCIL WAGE REGULATION
-provisions of paragraph 2;
+"normal hours of work" means the hours of work per week [S.L.452.39 2 COUNCIL WAGE REGULATION
+agreed to between the employer and the employee subject to the provisions of paragraph 2;
 "part-time employee" means an employee whose normal hours of
 work, calculated on a weekly basis or on average over a period of employment of up to one year, are less than the normal hours of work of a comparable whole-time employee and who is not a whole-time employee with reduced hours;
 "period of employment" means the time on any day during which
@@ -42,28 +42,27 @@ day week, in the case of watchmen.
 3. (1) Whole-time employees aged eighteen years or over
 shall not be paid less than the following wages:
 CATEGORY 1
-On engagement ............................................... €192.73
+On engagement ............................................... €213.54
 CATEGORY 2
-On engagement ............................................... €193.31
+On engagement ............................................... €214.12
 CATEGORY 3
 During the first, second and third year
-of employment in the category ........................ €194.48
+of employment in the category ........................ €215.29
 During the fourth and subsequent years
-of employment in the category ........................ €196.81
+of employment in the category ........................ €217.62
 CATEGORY 4
 During the first, second and third year
-of employment in the category ........................ €195.64
+of employment in the category ........................ €216.45
 During the fourth and subsequent years
-of employment in the category ........................ €197.97
-CATEGORY 5
-During the first, second and third year
-of employment in the category ........................ €199.14
+of employment in the category ........................ €218.78
 [S.L.452.39 COUNCIL WAGE REGULATION 3
-During the fourth and subsequent years of employment in the category ........................ €201.47
+CATEGORY 5
+During the first, second and third year of employment in the category ........................ €219.92
+During the fourth and subsequent years of employment in the category ........................ €222.28
 CATEGORY 6
-During the first year of employment in the category ................................................ €203.80
-During the second year of employment in the category ................................................ €208.45
-During the third and subsequent years of employment in the category ........................ €213.21.
+During the first year of employment in the category ................................................ €224.61
+During the second year of employment in the category ................................................ €229.26
+During the third and subsequent years of employment in the category ........................ €234.02.
 (2) (i) The minimum wage of employees aged seventeen shall be ninety per cent of the above wages.
 (ii) The minimum wage of employees aged sixteen shall be eighty-five per cent of the above wages.
 (3) In this paragraph -
@@ -75,7 +74,8 @@ During the third and subsequent years of employment in the category ............
 "Category 6" includes trade unions'/associations' officers with executive powers;
 "quantity surveyor assistant/calculator" is an employee who is wholly or mainly engaged in the preparation of estimates of works under the direction of an architect and civil engineer or any electrical, marine or mechanical engineer or quantity surveyor possessing the necessary qualifications for the exercise of his profession in Malta;
 "chainman" is an employee wholly or mainly engaged in assisting a surveyor. His duties may include the setting of a theodolite and the taking of readings therefrom but do not include plotting;
-"draughtsman" is an employee who is wholly or mainly engaged in the making of original sketches or in the drawing of designs from rough sketches and in the preparation of relevant complete working drawings. A draughtsman may be required to carry out outdoor field survey work and prepare estimates under the direction of an architect and civil engineer or electrical, marine or mechanical engineer or naval architect possessing the necessary qualifications for the exercise of his profession in Malta. [S.L.452.39 4 COUNCIL WAGE REGULATION
+"draughtsman" is an employee who is wholly or mainly engaged in the making of original sketches or in the drawing of designs from rough sketches and in the preparation of relevant complete working drawings. A draughtsman may be required to carry out outdoor field survey work and prepare estimates under the direction of an [S.L.452.39 4 COUNCIL WAGE REGULATION
+architect and civil engineer or electrical, marine or mechanical engineer or naval architect possessing the necessary qualifications for the exercise of his profession in Malta.
 "tracer/drawing office assistant" is an employee who is wholly or
 mainly engaged in copying drawings and parts made by a draughtsman by tracing them in ink or pencil upon transparent paper or cloth, using T-square, compasses, pens and other drawing instruments;
 "law clerk" is a non-graduate who is employed to assist a lawyer,
@@ -101,8 +101,11 @@ without remuneration according to the exigencies of their employment.
 8. Whole-time employees shall be entitled, in every calendar
 year, to -
 (a) all customary holidays with full pay, and
-(b) after three months in employment, vacation leave of such number of working days with full pay as is equivalent to the number of working days as that particular employee should normally attend to work
 [S.L.452.39 COUNCIL WAGE REGULATION 5
+(b) after three months in employment, vacation leave of
+such number of working days with full pay as is
+equivalent to the number of working days as that
+particular employee should normally attend to work
 during a period of four weeks:
 Provided that whole-time employees who have
 been in employment for less than one year shall be
@@ -130,11 +133,8 @@ Social Security Act.
 (2) A whole-time employee shall in every calendar year be entitled to the equivalent in hours of a further period of twenty days sick leave on half pay, less an amount equal to half the sum set for sickness benefit entitlement at the rate established under the Social Security Act, and part time employees shall have a pro rata entitlement to sick leave in hours on half pay, less an amount equal to half the sum set for sickness benefit entitlement at the rate established under the Social Security Act, which amount is also to be calculated on a pro rata basis:
 Provided that -
 (a) the first three days of any claim for sick leave shall be paid at half pay by the employer;
-(b) a medical certificate covering the period of absence is
-produced to the employer on the day of return to work
-or, if such period of absence is longer than seven days,
-within seven days of the onset of sick leave absence;
-[S.L.452.39 6 COUNCIL WAGE REGULATION
+(b) a medical certificate covering the period of absence is [S.L.452.39 6 COUNCIL WAGE REGULATION
+produced to the employer on the day of return to work or, if such period of absence is longer than seven days, within seven days of the onset of sick leave absence;
 (c) employees in receipt of a social security pension in respect of retirement or widowhood in terms of the Social Security Act shall, for the purpose of calculating the sick leave pay due, be deemed to have received an amount equal to half the sum set for sickness benefit entitlement at the rate established
 under the Social Security Act.
 (3) The employer may require a medical certificate by his own
@@ -169,8 +169,8 @@ investment in unit trusts or which run the management
 of unit trusts (except establishments carrying out
 wholly or mainly insurance business).
 The provisions of the above Schedule do not apply to employees whose remuneration for work is regulated by a tariff made by a law.
-- Amended by: L.N. 104 of 1976; L.N. 114 of 1977; L.N. 37 of 1979; L.N. 46 of 1979; L.N. 427 of 2007; L.N. 129 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N.104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022.
-- Amended by: L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N.351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022.
+- Amended by: L.N. 104 of 1976; L.N. 114 of 1977; L.N. 37 of 1979; L.N. 46 of 1979; L.N. 427 of 2007; L.N. 129 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N.104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023.
+- Amended by: L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N.351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023.
 - See Cap. 252.
 - See Cap. 594.
 - See Cap. 318.

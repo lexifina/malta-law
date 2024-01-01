@@ -32,12 +32,12 @@ employees shall be related to a week of not more than -
 (b) fifty-two hours in the case of watchmen.
 3. The minimum weekly wages payable to whole-time
 employees shall be as follows -
-(a) watchmen employed wholly or mainly on indoor duties ..................................................... €192.73
-(b) watchmen employed wholly or mainly on outdoor duties ..................................................... €195.06
+(a) watchmen employed wholly or mainly on indoor duties ..................................................... €213.54
+(b) watchmen employed wholly or mainly on outdoor duties ..................................................... €215.87
 (c) other employees:
-At age 18 years or over ........................... €192.73
-At age 17 years ...................................... €185.95
-At age 16 years ...................................... €183.11.
+At age 18 years or over ........................... €213.54
+At age 17 years ...................................... €206.76
+At age 16 years ...................................... €203.92.
 4. Whole-time employees shall be allowed intervals for meals
 and rest of not less in the aggregate than one hour on any one day.
 5. Whole-time employees shall be entitled to one day of rest
@@ -99,8 +99,8 @@ EXPLANATORY NOTE
 (This note is not part of the Schedule, but is intended to indicate its applicability).
 The above provisions apply to all employees in any undertaking or part of an undertaking the activities of which consist wholly or mainly in any of the following:
 Agriculture, horticulture, floriculture and viticulture, the breeding and rearing of livestock, poultry, rabbits, the keeping of bees and the processing of dairy products and products of a similar nature.
-- Amended by: L.N. 121 of 1978; L.N. 111 of 1990; L.N. 427 of 2007; L.N. 145 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016:; L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022.
-- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N.104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022.
+- Amended by: L.N. 121 of 1978; L.N. 111 of 1990; L.N. 427 of 2007; L.N. 145 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016:; L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023.
+- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N.104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023.
 - See Cap. 252.
 - See Cap. 318.
 - See Cap. 318.

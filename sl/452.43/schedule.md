@@ -39,18 +39,18 @@ employer to an employee;
 week of not more than forty-six hours of work. Where a system of two or more shifts is in force the rates specified in paragraph 3 shall relate to an average of not more than forty-six hours over two or more weeks according to the number of shifts in force.
 3. The weekly minimum remuneration payable to whole-time
 employees shall be that shown hereunder:
-Projectionist.............................................. €197.39
-Assistant Projectionist............................... €195.06
-Staff Manager ........................................... €197.39
-Barman ..................................................... €195.06
-Cashier ..................................................... €195.06
-Usher/Usherette ........................................ €195.06
-Controller ................................................. €195.06
+Projectionist.............................................. €218.20
+Assistant Projectionist............................... €215.87
+Staff Manager ........................................... €215.87
+Barman ..................................................... €215.87
+Cashier ..................................................... €215.87
+Usher/Usherette ........................................ €215.87
+Controller ................................................. €215.87
 Learners -
-at age 16 years ......................................... €192.73
-at age 17 years .......................................... €185.95
-at age 18 years or over ............................. €183.11
-Other employees.......................................... €192.73.
+at age 16 years ......................................... €203.92
+at age 17 years .......................................... €206.76
+at age 18 years or over ............................. €213.54
+Other employees.......................................... €213.54.
 4. Whole-time employees shall be allowed a minimum daily
 period for meals and rest as follows:
 (a) where the period of employment includes the whole
@@ -106,8 +106,8 @@ This note is not part of the order but is intended to indicate its
 applicability.
 The provisions in the above Schedule apply to all employees in
 cinemas and theatres, other than stage performers and musicians.
-- Amended by: L.N. 107 of 1977; L.N. 128 of 1978; L.N. 427 of 2007; L.N. 133 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022.
-- Amended by: L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022.
+- Amended by: L.N. 107 of 1977; L.N. 128 of 1978; L.N. 427 of 2007; L.N. 133 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023.
+- Amended by: L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023.
 - See Cap. 252.
 - See Cap. 594.
 - See Cap. 318.

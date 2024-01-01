@@ -42,12 +42,12 @@ employees, other than watchmen, and
 (b) fifty-two hours of work in the case of watchmen.
 3. (1) The minimum weekly wage payable to whole-time
 employees, both males and females, shall be the following -
-(a) watchmen whose duties are mainly performed indoors ...................................................................... €192.73
-(b) watchmen whose duties are mainly performed out of doors ............................................................. €195.06
+(a) watchmen whose duties are mainly performed indoors ...................................................................... €213.54
+(b) watchmen whose duties are mainly performed out of doors ............................................................. €215.87
 (c) other employees -
-(i) at age 16 years ..................................... €183.11
-(ii) at age 17 years ..................................... €185.95
-(iii) at age 18 years or over ......................... €192.73.
+(i) at age 16 years ..................................... €203.92
+(ii) at age 17 years ..................................... €206.76
+(iii) at age 18 years or over ......................... €213.54.
 (2) In the case of shift workers, unless every weekly night shift
 is followed by two consecutive weekly day shift, such further weekly night shift or shifts shall entitle the employee to extra remuneration amounting to not less than one-fourth of his normal rate of pay.
 4. Part-time employees shall be paid pro rata at an hourly rate
@@ -160,8 +160,8 @@ The provisions of the above Schedule will apply to all employees
 in any undertaking, or in any part of an undertaking, the activities of which consist wholly or mainly in any of the following:
 (a) the manufacture and processing of leather and leather goods including the manufacture of gloves and the manufacture of boots, shoes, sandals, and other footwear, and
 (b) the manufacture of luggage, brief-cases, handbags, shopping bags and other bags of a similar nature.
-- Amended by: L.N. 427 of 2007; L.N. 149 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022.
-- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022.
+- Amended by: L.N. 427 of 2007; L.N. 149 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023.
+- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023.
 - See Cap. 252.
 - See Cap. 318.
 - See Cap. 318.

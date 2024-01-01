@@ -42,9 +42,9 @@ working week as follows:
 to thirty-seven and one half hours.
 3. The minimum weekly remuneration payable to all whole-
 time employees, including learners, shall be the following -
-(a) watchmen ............................................... €193.90
+(a) watchmen ............................................... €214.71
 (b) other whole-time employees:
-at age 16 years ........................................ €184.58 at age 17 years ........................................ €186.91 at age 18 years ........................................ €193.90:
+at age 16 years ........................................ €205.39 at age 17 years ........................................ €207.72 at age 18 years ........................................ €214.71:
 Provided that -
 (a) where an establishment is conditioned to a working week of less than forty hours, the minimum wage laid
 down above shall apply; and
@@ -139,8 +139,8 @@ crushing, breaking up or baling of metals;
 (f) repairs of television sets and radios.
 2. The provisions of this Schedule do not apply to any
 employees engaged in the installation, erection, and fitting of transmission and distribution equipment for electric energy, gas or water, whether inside or outside buildings.
-- Amended by: L.N. 123 of 1978; L.N. 24 of 1979; L.N. 45 of 1990; L.N. 427 of 2007; L.N. 138 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016:; L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022.
-- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022.
+- Amended by: L.N. 123 of 1978; L.N. 24 of 1979; L.N. 45 of 1990; L.N. 427 of 2007; L.N. 138 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016:; L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023.
+- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023.
 - See Cap. 252.
 - See Cap. 318.
 - See Cap. 318.

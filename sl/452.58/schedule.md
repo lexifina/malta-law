@@ -63,18 +63,18 @@ the employer after the prior notification in writing of
 such changes to the Director.
 3. The minimum weekly wages payable to whole-time employees shall be the following:
 (i) industrial employees:
-At age 18 or over ................................ €192.73
-At age 17 ............................................ €188.07
-At age 16 ............................................ €185.74
+At age 18 or over ................................ €213.54
+At age 17 ............................................ €208.88
+At age 16 ............................................ €206.55
 (ii) non-industrial employees:
 During the first year of employment
-in the establishment ............................ €192.73
+in the establishment ............................ €213.54
 During the second year of employment
-in the establishment ............................ €195.06
+in the establishment ............................ €215.87
 During the third year of employment
-in the establishment ............................ €197.39
+in the establishment ............................ €218.20
 During the fourth year of employment
-in the establishment ........................... €202.05.
+in the establishment ........................... €222.86.
 4. The minimum remuneration payable to part-time employees of the categories specified in paragraph 3 hereof shall be pro rata at an hourly rate arrived at by dividing the amount appearing for the category by the number of hours of work per week for the relative category.
 5. All whole-time employees, other than watchmen, shall be allowed intervals for meals and rest of not less, in the aggregate, than one hour every day:
 Provided that the interval for mid-day lunch shall not be longer than two hours.
@@ -150,8 +150,8 @@ EXPLANATORY NOTE
 applicability).
 The provisions of the above Schedule apply to all employees in
 any undertaking or in part of an undertaking the activities of which consist wholly or mainly in the provision of services relating to travel (including freight by sea or air) or insurance or estate agency and for watchmen, telephone operators and other persons employed by shipping agents, travel agents, or contractors on board the ships whilst in the territorial waters of Malta.
-- Amended by: L.N. 34 of 1978; L.N. 117 of 1978; L.N. 427 of 2007; L.N. 146 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022.
-- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022.
+- Amended by: L.N. 34 of 1978; L.N. 117 of 1978; L.N. 427 of 2007; L.N. 146 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023.
+- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023.
 - See Cap. 252.
 - See Cap. 318.
 - See Cap. 318.

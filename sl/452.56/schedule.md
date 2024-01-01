@@ -18,8 +18,8 @@
 "day" means a period of twenty-four consecutive hours commencing from midnight of one day to midnight of the next following day;
 "hours of work" means the time on any day during which the employees are at the disposal of the employer, exclusive of the intervals allowed for meals and rest;
 "part-time employee" means an employee whose normal hours of work, calculated on a weekly basis or on average over a period of employment of up to one year, are less than the normal hours of work of a comparable whole-time employee and who is not a whole-time employee with reduced hours;
-"period of employment" means the time in any day during which the employees are at the disposal of the employer, inclusive of the intervals allowed for meals and rest;
-"time-and-a-half" and "double-time" mean respectively one and a [S.L.452.56 2 WAGES COUNCIL WAGE REGULATION
+"period of employment" means the time in any day during which the employees are at the disposal of the employer, inclusive of the intervals allowed for meals and rest; [S.L.452.56 2 WAGES COUNCIL WAGE REGULATION
+"time-and-a-half" and "double-time" mean respectively one and a
 half times and double the actual time rate applicable to the employee;
 "wages" means remuneration or earnings payable in money by an
 employer to an employee;
@@ -35,18 +35,19 @@ spaced between the times of 7.30 a.m. and 5.30 p.m. on any day of the week from 
 other than watchmen, shall be related to a week of forty hours of work, while that of watchmen shall be related to a week of sixty hours of work.
 3. (1) The minimum weekly wages of whole-time employees,
 other than watchmen, aged eighteen years or over shall be as follows -
-During the first two years of employment in the trade .................................................................. €192.73
-During the third year of employment in the trade .................................................................. €196.81 During the fourth year of employment in the trade ................................................................... €199.14
-During the fifth year of employment in the trade ................................................................... €201.47.
+During the first two years of employment in the trade .................................................................. €213.54
+During the third year of employment in the trade .................................................................. €217.62 During the fourth year of employment in the trade ................................................................... €219.95
+During the fifth year of employment in the trade ................................................................... €222.28.
 (2) The minimum weekly wages of whole-time employees,
 other than watchmen, under eighteen years of age shall be as follows -
-aged 16 years .................................................... €183.11
-aged 17 years .................................................... €185.95.
+aged 16 years .................................................... €203.92
+aged 17 years .................................................... €206.76.
 (3) The minimum weekly wages of whole-time watchmen,
 independently of their age, shall be as follows:
-(a) those whose duties are mainly performed indoors .................................................................. €192.73
-(b) those whose duties are mainly performed out of doors .................................................................. €195.06.
+(a) those whose duties are mainly performed indoors .................................................................. €213.54
+(b) those whose duties are mainly performed out of doors
 [S.L.452.56 WAGES COUNCIL WAGE REGULATION 3
+.................................................................. €215.87.
 4. Whole-time employees, other than watchmen, shall be allowed intervals for meals and rest of not less in the aggregate than one and a half hours on any day of the week from Monday to Friday and of not less than a quarter of an hour on any Saturday.
 5. Subject to the provisions of paragraph 2 hereof -
 (a) whole-time employees, other than watchmen, shall be paid overtime as follows -
@@ -79,11 +80,8 @@ in proportion to the number of months in employment.
 7. (1) After the first six months of service, a whole-time employee shall in every calendar year be entitled to the equivalent in hours of twelve days sick leave on full pay, less an amount equal to the sum set for sickness benefit entitlement at the rate established under the Social Security Act, and part-time employees shall have a pro rata entitlement to sick leave in hours on full pay, less an amount equal to the sum set for sickness benefit entitlement at the rate established under the Social Security Act, which amount is also to be calculated on a pro rata basis:
 Provided that -
 (a) the first three days of any claim for sick leave shall be paid in full by the employer;
-(b) a medical certificate covering the period of absence is
-produced to the employer on the day of return to work
-or, if such period of absence is longer than seven days,
-[S.L.452.56 4 WAGES COUNCIL WAGE REGULATION
-within seven days of the onset of sick leave absence;
+(b) a medical certificate covering the period of absence is [S.L.452.56 4 WAGES COUNCIL WAGE REGULATION
+produced to the employer on the day of return to work or, if such period of absence is longer than seven days, within seven days of the onset of sick leave absence;
 (c) employees in receipt of a social security pension in respect of retirement or widowhood in terms of the Social Security Act shall, for the purpose of calculating the sick leave pay due, be deemed to have received an amount equal to the sum set for sickness benefit entitlement at the rate established under the Social Security Act.
 (2) After the first six months of service, a whole-time
 employee shall in every calendar year be entitled to the equivalent in hours of a further twenty-four days sick leave on half pay, less an amount equal to half the sum set for sickness benefit entitlement at the rate established under the Social Security Act, and part-time employees shall have a pro rata entitlement to sick leave in hours on half pay, less an amount equal to half the sum set for sickness benefit entitlement at the rate established under the Social Security Act, which amount is also to be calculated on a pro rata basis:
@@ -102,9 +100,8 @@ paragraph shall be calculated on the basis provided for annual leave as specifie
 8. A whole-time employee shall be entitled to two days leave
 on full pay on the occasion of the death of the following relatives: the wife or husband, the mother or father (or the person who at that time is acting as the father or mother of the employee), the son or daughter, and the brother or sister.
 9. A whole-time employee shall be allowed three working
-days leave on full pay on the occasion of his marriage and one working day leave on full pay on the occasion of the birth of a child
 [S.L.452.56 WAGES COUNCIL WAGE REGULATION 5
-to his wife.
+days leave on full pay on the occasion of his marriage and one working day leave on full pay on the occasion of the birth of a child to his wife.
 10. A whole-time employee shall, if called upon to serve as juror, be allowed time off as necessary, without any deduction from pay so as to enable him to attend to his duties at the Courts.
 11. A whole-time employee shall be entitled to one year injury leave on full pay, less the full amount of any injury benefit to which such employee may be entitled in terms of the Social Security Act, if he is injured during the actual discharge of his duty and such injury is not due to any contributory negligence on his part or to any contravention by him of safety rules laid down by the management.
 12. An employee is entitled to the payment of the minimum wages applicable to him for all time during which he is present on the premises of his employer or elsewhere unless he is present thereon in any of the following circumstances -
@@ -122,9 +119,9 @@ EXPLANATORY NOTE
 The provisions of the above Schedule apply to employees employed in any undertaking or part of an undertaking, the activities of which consist wholly or mainly in gilding, engraving in gold or silver or in the manufacture of jewellery, clocks and watches.
 In these proposals:
 "manufacture" includes repair; and
-"jewellery" means articles made wholly or mainly of or covered with gold, silver, platinum or other precious metals and includes diamonds or precious stones, articles of rolled gold.
-- Amended by: L.N. 122 of 1978; L.N. 427 of 2007; L.N. 141 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022.
-- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022.
+"jewellery" means articles made wholly or mainly of or covered with gold, silver, platinum or other precious metals and includes diamonds or precious stones, articles of rolled gold. [S.L.452.56 6 WAGES COUNCIL WAGE REGULATION
+- Amended by: L.N. 122 of 1978; L.N. 427 of 2007; L.N. 141 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023.
+- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023.
 - See Cap. 252.
 - See Cap. 318.
 - See Cap. 318.

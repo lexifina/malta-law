@@ -28,7 +28,7 @@
 "weekly day of rest" means a period of twenty-four consecutive hours commencing at the time at which the employee would commence his turn of duty;
 "whole-time employee" means an employee who is deemed to be a whole-time employee in terms of any recognized conditions of employment.
 2. The minimum weekly wage shall be related to a week of not more than forty-eight hours.
-3. The minimum weekly wage payable to whole-time employees shall be one hundred and ninety two euro and seventy three cents (€192.73).
+3. The minimum weekly wage payable to whole-time employees shall be two hundred thirteen euro and fifty-four cents (€213.54).
 4. Bus conductors and bus drivers shall be entitled to an additional allowance of twenty-three cents (0.23) per week to cover the cost of uniforms as laid down in regulation 158 of the Motor Vehicles Regulations, provided that such employees shall wear such uniforms regularly while on duty and shall maintain them in a fit and proper condition.
 5. Part-time employees shall be entitled to a minimum hourly rate calculated pro rata in accordance with the provisions of paragraphs 2 and 3 of this Schedule, provided that for employment of not less than four hours in any one day payment shall in no case be less than the equivalent of a day's work.
 6. All employees shall be entitled to one day of rest in every week.
@@ -64,8 +64,8 @@ The above Order applies to employees employed in the conveyance of passengers by
 4. Ticket sellers.
 5. Ticket booth attendants.
 The rates of wages set out in the Schedule are minimum rates and do not prevent the payment of higher rates.
-- Amended by: L.N. 17 of 1972; L.N. 120 of 1975; L.N. 148 of 1976; L.N. 106 of 1977; L.N. 28 of 1979; L.N. 427 of 2007; L.N. 140 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022.
-- Amended by: L.N. 97 of 2017; L.N. 383 of 2017; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022.
+- Amended by: L.N. 17 of 1972; L.N. 120 of 1975; L.N. 148 of 1976; L.N. 106 of 1977; L.N. 28 of 1979; L.N. 427 of 2007; L.N. 140 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023.
+- Amended by: L.N. 97 of 2017; L.N. 383 of 2017; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023.
 - See Cap. 252.
 - See S.L. 65.11.
 - See Cap. 318.

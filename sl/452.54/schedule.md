@@ -44,49 +44,49 @@ of pay applicable to their grade as shown hereunder:
 CATEGORY A - (Employees who by the nature of their duties
 ordinarily come into direct relationship with the patient)
 Hospital /Clinic Attendant
-€10,021.99 per annum rising by annual increments of €55.90 up
-to a maximum of €10,394.69 annually.
+€11,104.11 per annum rising by annual increments of €55.90 up
+to a maximum of €11,476.81 annually.
 Enrolled Nurse
-€10,285.20 per annum rising by annual increments of €83.86 to
-€11,300.53
+€11,367.32 per annum rising by annual increments of €83.86 to
+€12,382.65
 This salary applies to those employees who by the nature of their
 employment administer medical care to the patient.
 Staff Nurse/State Registered Nurse
-€10,769.72 per annum rising by annual increments of €83.86 to
-€11,119.96 per annum and by annual increments of €111.81 up to a maximum of €11,813.91 per annum:
+€11,851.84 per annum rising by annual increments of €83.86 to
+€12,202.08 per annum and by annual increments of €111.81 up to a maximum of €12,896.03 per annum:
 Provided that those S.R.N.s who besides their normal
 duties perform also the work of a midwife they become entitled to the payment of an increase of €111.81 per annum besides their normal salary.
 [S.L.452.54 COUNCIL WAGE REGULATION 3
 CATEGORY B - (Employees who by the nature of their duties do not ordinarily come into direct relationship with the patient.)
 Hospital Auxiliaries
 (a) Servants and Laundry Employees
-€192.73 per week rising by annual increments of €1.16
-per week up to a maximum of €198.53 per week.
+€213.54 per week rising by annual increments of €1.16
+per week up to a maximum of €219.34 per week.
 (b) Fatiguemen/Fatiguewomen/Labourers/Caretakers/ Gate-keepers
-€195.64 per week rising by annual increments of €1.75
-per week up to a maximum of €200.89 per week.
+€216.45 per week rising by annual increments of €1.75
+per week up to a maximum of €221.70 per week.
 The duties of gate-keeper shall consist only in
 controlling the entrance and exit from the hospital
 grounds.
 Semi-Skilled Workers
-€200.30 per week rising by annual increments of €1.75 per week up to a maximum of €205.55 per week.
+€221.11 per week rising by annual increments of €1.75 per week up to a maximum of €226.36 per week.
 Skilled Workers
-€202.63 per week rising by annual increments of €1.75 per week up to a maximum of €210.78 per week.
+€223.44 per week rising by annual increments of €1.75 per week up to a maximum of €231.59 per week.
 Non-Industrials
 (including appointments clerk, clerk/clerk typist)
-€196.81 per week rising by annual increments of €1.75 per week up to a maximum of €206.71 per week.
+€217.62 per week rising by annual increments of €1.75 per week up to a maximum of €227.52 per week.
 CATEGORY C
 Dental Auxiliaries
-During the first year of employment in the profession an employee under the age of 18 years will receive a minimum wage of €192.73 per week; after the first year of employment in the profession the wages per week shall not be less than €196.22 per week rising by annual increments of €1.28 per week up to a maximum of €202.62 per week.
+During the first year of employment in the profession an employee under the age of 18 years will receive a minimum wage of €213.54 per week; after the first year of employment in the profession the wages per week shall not be less than €217.03 per week rising by annual increments of €1.28 per week up to a maximum of €223.43 per week.
 Dental Laboratory Assistants
-At 16 years ...... €183.11.
-At 17 years ...... €185.98.
-At 18 years and over €195.64 per week rising by annual increments of €1.75 per week up to a maximum of €200.89.
+At 16 years ...... €203.92.
+At 17 years ...... €206.79.
+At 18 years and over €216.45 per week rising by annual increments of €1.75 per week up to a maximum of €221.70 .
 Dental Mechanics
-Where a Dental Mechanic in possession of a qualification recognised by the Advisory and Executive Board performs work on the construction of dentures and other connected work, whether or not he performs also all or any of the following additional duties, namely the construction of obturators, splints for fractures, chrome cobalt prosthesis, precision attachment bridge work and porcelain fused to gold bridge work, he shall receive a salary of €10,769.72 per annum rising by annual increments of €83.86 up to €11,119.96 [S.L.452.54 4 COUNCIL WAGE REGULATION
-per annum and thereafter by annual increments of €111.81 up to a maximum of €11,813.74 per annum.
+Where a Dental Mechanic in possession of a qualification recognised by the Advisory and Executive Board performs work on the construction of dentures and other connected work, whether or not he performs also all or any of the following additional duties, namely the construction of obturators, splints for fractures, chrome cobalt prosthesis, precision attachment bridge work and porcelain fused to gold bridge work, he shall receive a salary of €11,851.84 per annum rising by annual increments of €83.86 up to €12,202.08 [S.L.452.54 4 COUNCIL WAGE REGULATION
+per annum and thereafter by annual increments of €111.81 up to a maximum of €12,895.86 per annum
 In the case of a Dental Mechanic without the qualifications
-referred to in the preceding paragraph the wages should be €202.63 per week rising by annual increments of €1.75 per week up to a maximum of €209.04 per week.
+referred to in the preceding paragraph the wages should be €223.44 per week rising by annual increments of €1.75 per week up to a maximum of €229.85 per week.
 3. Whole-time employees shall be paid overtime at the
 following rates -
 (1) Hospitals
@@ -171,8 +171,8 @@ The provisions of this Schedule apply to all employees in any private hospital, 
 medical laboratories and any other establishment where people go to be medically examined or to receive medical attention but does not include any institution which is not run as a profitable concern.
 This Order shall not apply to employees whose remuneration for
 services is regulated by tariff made by or under any other law.
-- Amended by: L.N. 53 of 1978; L.N. 427 of 2007; L.N. 155 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 464 of 2021; L.N. 335 of 2022.
-- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022.
+- Amended by: L.N. 53 of 1978; L.N. 427 of 2007; L.N. 155 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023.
+- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023.
 - See Cap. 252.
 - See Cap. 318.
 - See Cap. 318.

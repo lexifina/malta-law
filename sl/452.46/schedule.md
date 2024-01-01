@@ -44,10 +44,10 @@ hours shall be taken on an average spread over two or more weeks according to th
 3. The minimum weekly remuneration payable to all
 employees shall be as follows -
 (a) whole-time employees, other than watchmen/security guards:
-(i) 18 years or over .............................. €192.73;
-(ii) 17 years ........................................... €185.95;
-(iii) 16 years ........................................... €183.11;
-(b) watchmen/security guards ........................ €192.73.
+(i) 18 years or over .............................. €213.54;
+(ii) 17 years ........................................... €206.76;
+(iii) 16 years ........................................... €203.92;
+(b) watchmen/security guards ........................ €213.54.
 4. Shift employees, other than watchmen/security guards,
 shall be paid a premium of €3.26 a week.
 5. Whole-time employees, other than watchmen/security
@@ -133,8 +133,8 @@ EXPLANATORY NOTE
 applicability).
 The provisions of the above Schedule apply to all employees in
 any undertaking or part of an undertaking, the activities of which consist wholly or mainly in the manufacture, repair or assembly of electronic or scientific equipment.
-- Amended by: L.N. 94 of 1977; L.N. 68 of 1979; L.N. 427 of 2007; L.N. 130 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022.
-- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022.
+- Amended by: L.N. 94 of 1977; L.N. 68 of 1979; L.N. 427 of 2007; L.N. 130 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023.
+- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023.
 - See Cap. 318.
 - See Cap. 318.
 - See Cap. 318.

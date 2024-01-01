@@ -30,12 +30,12 @@
 (a) forty-two hours of work between April and September and thirty-eight hours of work between October and March in the case of whole-time employees other than watchmen; and
 (b) fifty-four hours of work in the case of watchmen.
 3. The minimum weekly remuneration payable to whole-time employees shall be the following -
-(a) watchmen whose duties are mainly performed indoors ................................................................... €192.73
-(b) watchmen whose duties are mainly performed out of doors ......................................................... €196.81
+(a) watchmen whose duties are mainly performed indoors ................................................................... €213.54
+(b) watchmen whose duties are mainly performed out of doors ......................................................... €217.62
 (c) other whole-time employees, both males and females -
-(i) aged 18 years or over ....................... €192.73
+(i) aged 18 years or over ....................... €213.54
 (ii) under 18 years of age learners -
-17 years ........................................... €186.58 16 years ........................................... €184.00.
+17 years ........................................... €207.39 16 years ........................................... €204.81.
 4. Whole-time employees, other than watchmen, shall be allowed intervals for meals and rest of not less, in the aggregate, than one hour every day.
 5. Whole-time employees shall be allowed a weekly day of rest in every period of seven consecutive days.
 6. (1) Whole-time employees, other than watchmen, shall be paid overtime as follows -
@@ -85,8 +85,8 @@ EXPLANATORY NOTE
 (This note is not part of the Order but it is intended to indicate its applicability).
 The provisions in the above Schedule will apply to all employees in any undertaking or in any part of an undertaking, the activities of which consist wholly or mainly in any of the following:
 The cleaning by wet or dry processes, pressing, dyeing or repairing by hand or machine apparel of any kind, linens and household furnishings, and for all employees in any laundry in a hotel where such laundry is not run exclusively for the use of the hotel and its visitors.
-- Amended by: L.N. 48 of 1978; L.N. 3 of 1979; L.N. 114 of 1991; L.N. 427 of 2007; L.N. 139 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022.
-- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022.
+- Amended by: L.N. 48 of 1978; L.N. 3 of 1979; L.N. 114 of 1991; L.N. 427 of 2007; L.N. 139 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023.
+- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023.
 - See Cap. 252.
 - See Cap. 318.
 - See Cap. 318.

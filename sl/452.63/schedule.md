@@ -36,16 +36,16 @@ age specified in Column 1 of the table immediately following shall be entitled t
 Minimum Remuneration
 WHOLE-TIME EMPLOYEES (OTHER THAN WATCHMEN)
 Column 1 Column 2
-At age 16 years ............................................ €184.00
-17 years ............................................ €186.58 8 years and over ................................ €193.90
+At age 16 years ............................................ €204.81
+17 years ............................................ €207.39 8 years and over ................................ €214.71
 (b) Watchmen employed as whole-time employees performing duties as specified in Column 1 of the table immediately following shall be entitled to the appropriate rate of remuneration set out in Column 2 thereof:
 Minimum Remuneration
 WATCHMEN EMPLOYED AS WHOLE-TIME EMPLOYEES
 Column 1 Column 2
 Watchmen whose duties are mainly performed
-indoors ............................................................ €193.90
+indoors ............................................................ €214.71
 Watchmen whose duties are mainly performed
-outdoors .......................................................... €195.22
+outdoors .......................................................... €217.03
 4. All whole-time employees shall be allowed intervals of not
 less, in the aggregate, than one hour for meals and rest every day.
 5. (1) (Deleted by Legal Notice 5 of 2016).
@@ -145,8 +145,8 @@ EXPLANATORY NOTE
 applicability).
 The provisions of the above Schedule shall apply to all persons
 employed by wholesale merchants, distributors, importers, exporters, commission agents, wholesale and marketing, co-operatives, retailers, lending libraries, hawkers, hairdressers, consumers' co-operatives, photographic studios; but it shall not apply to employees in any shop run directly under the management of a hotel as part of the amenities of the hotel, nor to employees in any shop either run directly by the management of a club as part of the amenities thereof or given out under contract for the purpose of increasing those amenities.
-- Amended by: L.N. 427 of 2007; L.N. 125 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 5 of 2017; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022.
-- Amended by: L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022.
+- Amended by: L.N. 427 of 2007; L.N. 125 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 5 of 2017; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023.
+- Amended by: L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023.
 - See Cap. 252.
 - See Cap. 318.
 - See Cap. 318.

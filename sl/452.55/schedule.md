@@ -22,7 +22,8 @@
 "day" in the case of shift employees, means a period of twenty-four consecutive hours; and, in all other cases, it means a period running from midnight of one day to midnight of the next following day;
 "hours of work" means the time on any day during which employees are at the disposal of the employer exclusive of the intervals allowed for meals and rest;
 "night shift" means any period of employment that includes any hours from 10 p.m. of one day to 6 a.m. of the next following day;
-"part-time employee" means an employee whose normal hours of work, calculated on a weekly basis or on average over a period of employment of up to one year, are less than the normal hours of work of a comparable whole-time employee and who is not a whole-time employee with reduced hours; [S.L.452.55 2 WAGES COUNCIL WAGE REGULATION
+"part-time employee" means an employee whose normal hours of work, calculated on a weekly basis or on average over a period of employment of up to one year, are less than the normal hours of [S.L.452.55 2 WAGES COUNCIL WAGE REGULATION
+work of a comparable whole-time employee and who is not a whole-time employee with reduced hours;
 "part-time watchman" means an employee employed as a
 watchman for not more than thirty-six hours a week;
 "period of employment" means the time in any day during which
@@ -45,15 +46,18 @@ not more than -
 3. The minimum weekly wages payable to whole-time
 employees shall be the following -
 (a) Watchmen -
-(i) whose duties are mainly performed indoors ........................................................... €192.73
-(ii) whose duties are mainly performed out of doors ........................................................... €195.06;
+(i) whose duties are mainly performed indoors ........................................................... €213.54
+(ii) whose duties are mainly performed out of doors ........................................................... €215.87;
 (b) Other whole-time employees -
-At age 18 years or over ............................... €192.73
-At age 17 years ........................................... €185.95
-At age 16 years ........................................... €183.11.
+At age 18 years or over ............................... €213.54
+At age 17 years ........................................... €206.76
+At age 16 years ........................................... €203.92.
 (c) Shift employees:
-(i) In the case of employees called upon to work on a three shift cycle and in consideration of the periods of night work on a three shift, an allowance shall be paid equivalent to one-tenth of the normal rate of basic remuneration. In the case of employees an a two-shift basis a shift allowance shall be paid equivalent to one-twelfth of the normal rate of basic remuneration;
+(i) In the case of employees called upon to work on a three shift cycle and in consideration of the periods of night work on a three shift, an allowance shall be paid equivalent to one-tenth of the normal rate of basic remuneration. In the
 [S.L.452.55 WAGES COUNCIL WAGE REGULATION 3
+case of employees an a two-shift basis a shift
+allowance shall be paid equivalent to one-
+twelfth of the normal rate of basic remuneration;
 (ii) Unless every weekly night shift is followed by
 two consecutive weekly day shifts, such further
 night shift or shifts shall entitle employees to an
@@ -86,11 +90,10 @@ pre-determined day of rest of the week ... double-time;
 addition to the normal hourly wage .........double-time:
 Provided that where a customary holiday falls on a
 Sunday or another day of rest, overtime shall be paid
-only at double-time.
-(2) In the case of watchmen, overtime shall be payable as follows -
-(i) for all time worked in excess of nine hours on
-[S.L.452.55 4 WAGES COUNCIL WAGE REGULATION
-any day ................................. time-and-a-half;
+only at double-time. [S.L.452.55 4 WAGES COUNCIL WAGE REGULATION
+(2) In the case of watchmen, overtime shall be payable as
+follows -
+(i) for all time worked in excess of nine hours on any day ................................. time-and-a-half;
 (ii) for all time worked .in excess of fifty-four hours in any week of six consecutive days .............................................. time-and-a-half;
 (iii) for all time worked on the second or only predetermined day of rest of the week and on a customary holiday ...................... double-time.
 (3) Notwithstanding the provisions of the preceding sub-
@@ -113,9 +116,10 @@ proportion to the number of months in employment.
 (2) For the purposes of this paragraph "vacation leave" means
 leave with pay which may be availed of:
 Provided that:
-(a) one day vacation leave during each of the calendar years 1988 and 1989;
-(b) two days vacation leave during 1990;
+(a) one day vacation leave during each of the calendar
 [S.L.452.55 WAGES COUNCIL WAGE REGULATION 5
+years 1988 and 1989;
+(b) two days vacation leave during 1990;
 (c) three days vacation leave during 1991; and
 (d) four days vacation leave during 1992, and during any calendar year thereafter;
 shall not form part of any shut down and shall be
@@ -143,11 +147,8 @@ Provided that -
 produced to the employer on the day of return to work
 or, if such period of absence is longer than seven days,
 within seven days of the onset of sick leave absence;
-(c) employees in receipt of a social security pension in
-respect of retirement or widowhood in terms of the
-Social Security Act shall, for the purpose of
 [S.L.452.55 6 WAGES COUNCIL WAGE REGULATION
-calculating the sick leave pay due, be deemed to have received an amount equal to half the sum set for sickness benefit entitlement at the rate established
+(c) employees in receipt of a social security pension in respect of retirement or widowhood in terms of the Social Security Act shall, for the purpose of calculating the sick leave pay due, be deemed to have received an amount equal to half the sum set for sickness benefit entitlement at the rate established
 under the Social Security Act.
 (3) The employer may require a medical certificate by his own
 physician to certify incapacity for work during the period of absence.
@@ -171,8 +172,9 @@ employees shall be at such hourly rate arrived at -
 (b) in the case of other employees, by dividing by forty the weekly rate applicable to such other employees at
 age eighteen years or over.
 15. An employee is entitled to the payment of the minimum
-wages applicable to him for all time during which he is present on the premises of his employer or elsewhere unless he is present thereon in any of the following circumstances -
+wages applicable to him for all time during which he is present on the premises of his employer or elsewhere unless he is present
 [S.L.452.55 WAGES COUNCIL WAGE REGULATION 7
+thereon in any of the following circumstances -
 (a) without the employer's consent, expressed or implied;
 (b) for some purpose unconnected with his work and other
 than that of waiting for work to be given to him to
@@ -190,8 +192,8 @@ weaving, knitting, finishing and any other process
 incidental to the foregoing) of natural, artificial or
 man-made fibres and fabrics; and
 (b) the making up of articles from natural, artificial or man-made fibres and fabrics.
-- Amended by: L.N. 60 of 1978; L.N. 23 of 1979; L.N. 24 of 1981; L.N. 74 of 1989; L.N. 46 of 1990; L.N. 427 of 2007; L.N. 143 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 464 of 2021; L.N. 335 of 2022.
-- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022.
+- Amended by: L.N. 60 of 1978; L.N. 23 of 1979; L.N. 24 of 1981; L.N. 74 of 1989; L.N. 46 of 1990; L.N. 427 of 2007; L.N. 143 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023.
+- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023.
 - See Cap. 252.
 - See Cap. 318.
 - See Cap. 318.

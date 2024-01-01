@@ -19,8 +19,8 @@
 2. In this Schedule, unless the context otherwise requires -
 "customary holidays" means the days (other than Sundays) declared for the time being to be public holidays by or under the National Holidays and other Public Holidays Act;
 "hours of work" means the time on any day during which the employees are at the disposal of the employer, exclusive of intervals allowed for meals and rest;
-"part-time employee" means an employee whose normal hours of work, calculated on a weekly basis or on average over a period of employment of up to one year, are less than the normal hours of work of a comparable whole-time employee and who is not a whole-time employee with reduced hours;
-"time-and-a-half" and "double-time" mean respectively one and a [S.L.452.72 2 COUNCIL WAGE REGULATION
+"part-time employee" means an employee whose normal hours of work, calculated on a weekly basis or on average over a period of employment of up to one year, are less than the normal hours of work of a comparable whole-time employee and who is not a whole-time employee with reduced hours; [S.L.452.72 2 COUNCIL WAGE REGULATION
+"time-and-a-half" and "double-time" mean respectively one and a
 half times and double the actual time rates applicable to the employee;
 "wages" means remuneration or earnings payable in money to an
 employee by an employer;
@@ -38,9 +38,9 @@ over a period of six days, so that custodians shall be entitled to one
 day of rest in every period of seven consecutive days.
 4. The minimum weekly wages payable to whole-time
 employees shall be as follows -
-Age 18 and over ............................................. €192.73 per week
-Age 17 to 18 years .......................................... €185.95 per week
-Under 17 years ............................................... €183.11 per week
+Age 18 and over ............................................. €213.54 per week
+Age 17 to 18 years .......................................... €206.76 per week
+Under 17 years ............................................... €203.92 per week
 Part-time employees shall be paid pro rata at an hourly rate
 or part thereof not below the national minimum wage, as determined in accordance with the same paragraph and divided by forty.
 5. Whole-time employees shall be allowed intervals for meals
@@ -52,8 +52,9 @@ overtime at time-and-a-half for any hours worked in excess of sixty hours in eve
 Whole-time custodians shall be entitled to the payment of
 overtime at time-and-a-half for any hours worked in excess of forty hours in every one week, exclusive of one day of rest every week.
 Whole-time employees shall be entitled to the payment of
-overtime at double time for any hours worked on the weekly day of rest.
+overtime at double time for any hours worked on the weekly day of
 [S.L.452.72 COUNCIL WAGE REGULATION 3
+rest.
 8. Vacation Leave entitlement shall be regulated in terms of the Weekly Day of Rest and Annual Vacation Leave National Standard Order, or any other Order substituting the same, that is four working weeks and four days.
 If any employee is required to work on a customary holiday, he shall be entitled to another day off to be availed of in agreement with his employer.
 9. (1) After one year's service, a whole-time employee shall in every calendar year be entitled to the equivalent in hours of twenty days sick leave on full pay, less an amount equal to the sum set for sickness benefit entitlement at the rate established under the Social Security Act, and part time employees shall have a pro rata entitlement to sick leave in hours on full pay, less an amount equal to the sum set for sickness benefit entitlement at the rate established under the Social Security Act, which amount is also to be calculated on a pro rata basis:
@@ -77,12 +78,8 @@ Provided that -
 produced to the employer on the day of return to work
 or, if such period of absence is longer than seven days,
 within seven days of the onset of sick leave absence;
-(c) employees in receipt of a social security pension in
-respect of retirement or widowhood in terms of the
-Social Security Act shall, for the purpose of
-calculating the sick leave pay due, be deemed to have
 [S.L.452.72 4 COUNCIL WAGE REGULATION
-received an amount equal to half the sum set for sickness benefit entitlement at the rate established
+(c) employees in receipt of a social security pension in respect of retirement or widowhood in terms of the Social Security Act shall, for the purpose of calculating the sick leave pay due, be deemed to have received an amount equal to half the sum set for sickness benefit entitlement at the rate established
 under the Social Security Act.
 (3) The employer may require a medical certificate by his own
 physician to certify incapacity for work during the period of absence.
@@ -98,8 +95,8 @@ days leave on full pay on the occasion of their marriage.
 period of one year injury leave on full pay, less the full amount of any injury benefit to which such employee may be entitled in terms of the Social Security Act, if he is injured during the actual discharge of his duty and not due to contributory negligence on his part or to any contravention of safety rules laid down by the employer.
 14. Whole-time employees called for jury service shall be
 allowed all the necessary time off on full pay to attend the Court on such service.
-- Amended by: L.N. 427 of 2007; L.N. 152 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022.
-- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022.
+- Amended by: L.N. 427 of 2007; L.N. 152 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023.
+- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023.
 - See Cap. 252.
 - See S.L. 452.64.
 - See Cap. 318.
