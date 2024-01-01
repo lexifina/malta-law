@@ -28,11 +28,11 @@ Fertile Soil (Preservation) Act Minister responsible for
 (Cap. 236) agriculture
 Business Promotion Act Minister responsible for (Cap. 325) agriculture and fisheries
 in so far as agriculture is concerned
-Water Services Corporation Act Minister responsible for
-(Cap. 355) agriculture
 Consolidated area of Statutory title as set
 Related law
 responsibility out in related law
+Water Services Corporation Act Minister responsible for
+(Cap. 355) agriculture
 Customs and Excise Tax Act Minister responsible for
 (Cap. 395) agriculture
 Malta Crafts Council Act Minister responsible for (Cap. 421) agriculture and fisheries Pesticides Control Act Minister responsible for
@@ -49,8 +49,8 @@ Bioresources Agency Agriculture
 Regulations welfare
 (S.L. 437.101) Animal Welfare Act Minister responsible for veterinary
 (Cap. 439) services
-Aviation Civil Aviation (Air Operators' Minister responsible for aviation
-Certificates) Act (Cap. 218) Civil Aviation Act Minister responsible for transport (Cap. 232) Eurocontrol Act Minister responsible for civil
+Aviation Air Navigation Act Minister responsible for aviation
+(Cap.) 641 Civil Aviation Act Minister responsible for transport (Cap. 232) Eurocontrol Act Minister responsible for civil
 (Cap. 333) aviation
 Airports and Civil Aviation Minister responsible for civil
 (Security) Act aviation
@@ -59,8 +59,8 @@ Related law
 responsibility out in related law
 European Union Greenhouse Gas Minister responsible for aviation Emissions Trading System for Aviation Regulations (S.L. 423.51) Code of Conduct for Computerised Minister responsible for civil
 Reservation Systems Act aviation
-(Cap. 434) Air Navigation Order Minister responsible for civil
-(S.L. 499.09) aviation
+(Cap. 434) Air Navigation Act Minister responsible for civil
+(Cap.) 641 aviation
 Civil Aviation Joint Aviation Minister responsible for aviation Requirements Order (S.L. 499.15) Civil Aviation (Investigation of Air Minister responsible for matters Accidents and Incidents) Regulations relating to civil aviation (S.L. 499.22) Aircraft Registration Act Minister responsible for transport (Cap. 503) National Aerospace Centre Minister responsible for aviation (Establishment as an Agency) Order (S.L. 595.09) Aviation Security Civil Aviation (Security) Act Minister responsible for civil
 (Cap. 353) aviation security
 Airports and Civil Aviation Minister responsible for aviation
@@ -175,7 +175,7 @@ Related law
 responsibility out in related law
 Spirits Ordinance Minister responsible for customs (Cap. 41) Boatmen's Fees Act Minister under whose jurisdiction (Cap. 73) the customs department may, from
 time to time, be
-Methylated Spirits Ordinance Minister responsible for customs (Cap. 89) Cargo Clearance and Transport Act Minister responsible for customs (Cap. 203) Postal Services Act Minister responsible for customs (Cap. 254) Import Duties Act Minister responsible for customs (Cap. 337) Import Duties Act Minister responsible for customs (Cap. 337) Military Equipment (Export Control) Minister responsible for customs Regulations (S.L. 365.13) Excise Duty Act Minister responsible for customs (Cap. 382) Customs and Excise Tax Act Minister responsible for finance (Cap. 395) Intellectual Property Rights Minister responsible for customs (Cross-Border Measures) Act (Cap. 414) Veterinary Services Act Minister responsible for customs (Cap. 437) Air Navigation Order Minister responsible for Customs (S.L. 499.09) Defence Malta Armed Forces Act Minister responsible for defence
+Methylated Spirits Ordinance Minister responsible for customs (Cap. 89) Cargo Clearance and Transport Act Minister responsible for customs (Cap. 203) Postal Services Act Minister responsible for customs (Cap. 254) Import Duties Act Minister responsible for customs (Cap. 337) Import Duties Act Minister responsible for customs (Cap. 337) Military Equipment (Export Control) Minister responsible for customs Regulations (S.L. 365.13) Excise Duty Act Minister responsible for customs (Cap. 382) Customs and Excise Tax Act Minister responsible for finance (Cap. 395) Intellectual Property Rights Minister responsible for customs (Cross-Border Measures) Act (Cap. 414) Veterinary Services Act Minister responsible for customs (Cap. 437) Air Navigation Act Minister responsible for Customs (Cap.) 641 Defence Malta Armed Forces Act Minister responsible for defence
 (Cap. 220) Fisheries Conservation and Minister responsible for the armed
 Management Act forces
 (Cap. 425) Environmental Impact Assessment Minister responsible for national

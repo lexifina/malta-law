@@ -6,11 +6,11 @@ Regulated Profession
 Activity Teacher Minister responsible for Education Act, Cap. 605
 education Instructor Kindergarten Assistant Facilitator Accountant Accountancy Board Accountancy Profession Act, Cap. 281 Auditor Stock broker Recognised Stock Financial Markets Act, Cap. 345
 Exchange/Malta Financial Services Authority Financial Malta Financial Services Financial Markets Act, Cap. 345 intermediaries Authority Investment Service Malta Financial Services Investment Services Act, Cap.370 Providers Authority Insurance Malta Financial Services Insurance Distribution Act, Cap. 487 Intermediaries Authority Weighers Malta Standards Authority Metrology Act, Cap. 454 Engineer Engineering Board Inġiniera Act, Cap. 321 Mason Masons Board Code of Police Laws, Cap. 10 Tourist guide Minister responsible for Malta Travel and Tourism Services Act,
-Tourism Cap. 409 Aircraft pilot Department of Civil Air Navigation Order, (S.L. 499.09) under
-Aviation the
-Civil Aviation Act, Cap. 232 Aircraft flight engineer Aircraft flight navigator Aircraft maintenance engineer Apron controller Air traffic control officer Port worker Port Workers' Board Port Workers Ordinance, Cap. l71 Foreman of port worker Regulated Profession
+Tourism Cap. 409
+Aircraft pilot Department of Civil Air Navigation Act, Cap. 641
+Aviation Aircraft flight engineer Aircraft flight navigator Aircraft maintenance engineer Apron controller Air traffic control officer Port worker Port Workers' Board Port Workers Ordinance, Cap. l71 Foreman of port worker Regulated Profession
 / Professional Designated Authority Legislation
-Activity Scheduled bus Public Transport Directorate Authority for Transport in Malta Act, service driver - Authority for Transport in Cap. 499 Unscheduled service Malta driver (coach)
+Activity Scheduled bus Public Transport Directorate - Authority for Transport in Malta Act, service driver Authority for Transport in Cap. 499 Unscheduled service Malta driver (coach)
 White window mini-van driver Minibus service driver Taxi service driver Motor hearse driver Master Registrar General of Merchant Shipping Act, Cap. 234 Chief Mate Shipping and Seamen Merchant Shipping (Training and Officer in charge of Certification) Regulations (S.L. 234.17) navigational watch Chief engineer officer Second engineer officer Officer in charge of engineering watch Licensed testers Licensing and Testing Motor Vehicle Roadworthiness Test
 Directorate Regulations (S.L. 65.15); and Authority for Transport in Malta Licensed driving Motor Vehicles (Driving Licences) instructor Regulations (S.L. 65.18)
 under the Traffic Regulation Ordinance, Cap. 65 Able bodied seaman Registrar General of Merchant Shipping (A.B. and E.D.H.
@@ -42,4 +42,4 @@ Complementary to Chiropractor Medicine Dental Hygenist Dental Technologist Dieti
 Activity Speech Language Pathologist Pharmacist Pharmacy Council Pharmacy Technicians Nurses Council for Nurses and
 Midwives Midwives
 Medical Practioners Medical Council Dental Surgeons
-- Amended by: XVII. 2003.20; X. 2004.20; L.N. 422 of 2007; XV. 2009.49; L.N. 69 of 2014; XXXIV. 2014.62; XXV. 2015.41; XXIX.2019.71.
+- Amended by: XVII. 2003.20; X. 2004.20; L.N. 422 of 2007; XV. 2009.49; L.N. 69 of 2014; XXXIV. 2014.62; XXV. 2015.41; XXIX.2019.71; Act XL of 2023.

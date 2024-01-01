@@ -1,4 +1,4 @@
 SUBSIDIARY LEGISLATION 123.126
 HIGHLY QUALIFIED PERSONS RULES
 1st January, 2010*
-LEGAL NOTICE 106 of 2011, as amended by Legal Notices 192 and 428 of 2011, 306 of 2012, 152 of 2013, 16 of 2014, 225 of 2015, 7 of 2017, 192 of 2017, 141 of 2018, 209 of 2019 and 29 of 2021.
+LEGAL NOTICE 106 of 2011, as amended by Legal Notices 192 and 428 of 2011, 306 of 2012, 152 of 2013, 16 of 2014, 225 of 2015, 7 of 2017, 192 of 2017, 141 of 2018, 209 of 2019 and 29 of 2021 and Act XL of 2023.
