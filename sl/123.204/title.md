@@ -1,4 +1,4 @@
 SUBSIDIARY LEGISLATION 123.204
 PENSIONS (TAX EXEMPTION) RULES
 4th March 2022
-LEGAL NOTICE 98 of 2022, as amended by Legal Notices 220 of 2022 and 48 of 2023.
+LEGAL NOTICE 98 of 2022, as amended by Legal Notices 220 of 2022, 48 of 2023 and 5 of 2024.
