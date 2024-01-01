@@ -9,7 +9,8 @@ United Kingdom the United Kingdom
 Married person Married person
 who is Any other person who is Any other person
 maintaining a maintaining a
-spouse spouse €145.23 €124.98 €139.50 €122.38
+spouse spouse
+€145.23 €124.98 €139.50 €122.38
 B. Full Rates of Increased Retirement Pension, Invalidity Pension, Increased Invalidity Pension, National Minimum Pension and Increased National Minimum Pension per week, inclusive of any increases under the provisions of article 90A, when the yearly average of contributions paid or credited is 50 or more:
 Type of Pension Married person who is Any other person
 maintaining a spouse
@@ -85,8 +86,7 @@ spouse and who was in
 receipt of a National
 Minimum Pension on or
 before 31 December 2017
-For pensioners whose pension
-€13.16 per week €17.26 per week initial award date is prior to 3rd
+For pensioners whose pension initial award date is prior to 3rd €13.16 per week €17.26 per week
 January 2009
 For pensioners whose pension initial award date falls between €12.74 per week €16.37 per week 3rd January 2009 and 31st
 December 2009
@@ -94,10 +94,10 @@ For pensioners whose pension initial award date falls between €12.17 per week 
 December 2010
 For pensioners whose pension initial award date falls between
 €11.35 per week €13.66 per week 1st January 2011 and 31st
-December 2011 For pensioners whose pension initial award date falls between
-€11.23 per week €13.38 per week 1st January 2012 and 31st
-December 2012
+December 2011
 For pensioners whose pension initial award date falls between
+€11.23 per week €13.38 per week 1st January 2012 and 31st
+December 2012 For pensioners whose pension initial award date falls between
 €10.58 per week €12.11 per week 1st January 2013 and 31st
 December 2013
 For pensioners whose pension initial award date falls between
