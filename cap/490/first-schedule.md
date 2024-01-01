@@ -7,7 +7,7 @@ Part A - Primary Legislation
 Chapter Name of Law Provision Name of Administrative Tribunal Number Number
 3 Marriage Legacies Act 3 Commission 45 Lepers Ordinance 2(8) Board 69 Reletting of Urban Property 16 Rent Regulation Board
 (Regulation) Ordinance
-81 Utilities & Services 4 Refers to the Communications Appeal
+81 Utilities & S er v i ce s 4 Refers to the Communications Appeal
 (Regulation of certain works) Board established by the Malta Act Communications Authority Act
 85 Agricultural Produce 18 Board of Reference (set up under
 (Export) Ordinance subsidiary legislation SL 85.01
@@ -22,7 +22,7 @@ Ordinance Land Valuation
 subsidiary legislation to take cognisance of offences
 125 Housing Act 8(6) and Refers to Rent Regulation Board
 12(1)
-164 Police Act 48 Police Board 171 Port Workers Ordinance 10 and 12 Ports Disputes Board 179 Enemy Property Act 4 Board of Custodians 199 Agricultural Leases 5 Rural Leases Control Board
+164 Police Act 48 Police Board 171 Port Workers Ordinance 10 and 12 Ports Disputes Board 179 Enemy Property Act 4 Board of Custodians 199 Agricultural Le a s e s 5 Rural Leases Control Board
 (Reletting) Act
 204 Central Bank of Malta Act 36A Financial Services Tribunal 210 Disabled Persons 13 Appeal to the 'authority' set up under
 Employment Act subsidiary legislation
@@ -49,9 +49,9 @@ Transfers Act Duty on Documents and Transfers
 370 Investment Services Act 19 Financial Services Tribunal 371 Banking Act 10 Financial Services Tribunal 372 Income Tax Management Act 34 Board of Special Commissioners for
 Income Tax purposes
 376 Financial Institutions Act 21 Financial Services Tribunal 378 Consumer Affairs Act 16 Consumer Claims Tribunal 380 Small Claims Tribunal Act 3 Small Claims Tribunal 383 Controlled Companies 7 Appeals Board
-(Procedures for Liquidations) Act Private Guards a n d 389 11 Commissioner Community Officers Act
-395 Customs and Excise Tax Act 47 Excise Tax Tribunal 399 Electronics Communications 16 Communications Appeals Board
-(Regulation) Act
+(Procedures for Liquidations) Act Private Guards and 389 11 Commissioner Community Officers Act
+395 Customs and Excise Tax Act 47 Excise Tax Tribunal
+Electronics Communications 399 16 Communications Appeals Board (Regulation) Act
 403 Insurance Business Act 35 Financial Services Tribunal 406 Value Added Tax Act 43 Value Added Tax Appeals Board 409 Malta Travel and Tourism 13 Tourism Appeals Board
 Services Act
 420 International Protection Act 5 International Protection Appeals
@@ -71,13 +71,13 @@ Qualifications Act Appeals Board
 Relations Act
 455 Sports Act 47 Sports Appeals Board 458 Medicines Act 21 Appeal to the Medicines Review Board
 from findings of the Medicines Authority
-473 Eco-Contribution Act 26 Eco-Contribution Appeals Board 476 Prevention of Financial 23 Financial Services Tribunal
+473 Eco-Contribution Act 26 Eco-Contribution Appeals Board 476 Prevention o f Financial 23 Financial Services Tribunal
 Markets Abuse Act
 484 Securitisation Act 19(14) Financial Services Tribunal 487 Insurance Intermediaries Act 2 Financial Services Tribunal
 . Repealed by Act XV of 2009.
 Part B - Subsidiary Legislation
 Subsidiary Name of Subsidiary Law Provision Name of Administrative Tribunal Legislation/ Number Legal Notice
-Number GN 430 of 28 Cinema a n d Stage 42 Board of Film and Stage Censors September Regulations
+Number GN 430 of 28 Cinema an d St a g e 42 Board of Film and Stage Censors September Regulations
 1937
 SL 33.04 Civil Explosives Regulations Second This regulation states that provision
 Schedule, must be made for an appeal
@@ -85,10 +85,8 @@ paragraph
 5 of 1.
 Module B
 SL 85.01 Potato Export Regulations 27 Board of Reference SL 128.02 Licences Procedures 6 Police Licences Appeals Tribunal
-Regulations
-SL 174.02 Public Service 15 Public Contracts Appeals Board
-(Procurement) Regulations
-SL 174.04 Public Procurement 34 Public Contracts Review Board
+Regulations Public Service SL 174.02 15 Public Contracts Appeals Board (Procurement) Regulations
+SL 174.04 P u b li c Procurement 34 Public Contracts Review Board
 Regulations
 SL 254.12 Postal Services Appeals - Postal Services Appeals Board
 Board (Rules of Procedures) Regulations
