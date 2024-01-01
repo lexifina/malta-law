@@ -69,8 +69,7 @@ For avoidance of doubt, "scheduled inter-island sea transport of passengers" sha
 (c) special regular services consisting in the carriage of school pupils and students to and from an educational establishment recognised as such by the Commissioner;
 (d) special regular services consisting in the carriage of workers to and from their place of work.
 In paragraphs (c) and (d) the term "special regular services" has the meaning assigned to it in the Passenger Transport Services Regulations or any other regulations replacing those regulations.
-Supplies of goods on board cruise liners
-12. The supply of goods for consumption on board cruise liners where the place of taxation in terms of item 3 of the Third Schedule to the Act is deemed to be in Malta.
+Supplies of goods on board cruise liners 12. The supply of goods for consumption on board cruise liners where the place of taxation in terms of item 3 of the Third Schedule to the Act is deemed to be in Malta.
 Supplies of goods in accordance with sub-item (2) of item 12A of the Second Schedule
 13. The supply of goods to a taxable person who is deemed to have received and supplied those goods in accordance with sub-item (2) of item 12A of the Second Schedule.
 Certain transactions treated as exports
@@ -78,6 +77,8 @@ Certain transactions treated as exports
 Provided that, when the conditions for the exemption cease to apply, the European Commission or the agency or body concerned which received the exempt supply shall inform the Commissioner and the supply of those goods or services shall be subject to tax under the conditions applicable at that time.
 (2) The supply of goods or services within Malta, intended either for the armed forces of other Member States for the use of those forces, or of the civilian staff accompanying them, or for supplying their messes or canteens when such forces take part in a defence effort carried out for the implementation of a European Union activity under the common security and defence policy.
 (3) The supply of goods or services to another Member State, intended for the armed forces of any Member State other than the Member State of destination itself, for the use of those forces, or of the civilian staff accompanying them, or for supplying their messes or canteens when such forces take part in a defence effort carried out for the implementation of a European Union activity under the common security and defence policy.
+Supplies of certain devices and aids to non-profit making organisations
+15. The supply to non-profit making organisations specifically recognised as such by the Commissioner for this purpose, of devices and aids, including related goods, which are essential to compensate or overcome disability in humans.
 Part Two
 Exemptions without credit
 This Part applies to the supplies listed herein subject to the definitions contained in Part Five. Items 2 and 3 are without prejudice to item 5 of Part One.
@@ -171,6 +172,8 @@ Investment gold
 6. The intra-community acquisition of investment gold, saving the option for taxation in terms of Part Six of the Fourteenth Schedule.
 Goods subject to the margin scheme
 7. The intra-community acquisition of goods that are supplied under a transaction subject to a margin scheme on second hand goods, works of art, collectors' items and antiques in the Member State where the transport begins.
+Acquisitions of certain devices and aids by non-profit making organisations
+8. The intra-community acquisition by non-profit making organisations specifically recognised as such by the Commissioner for this purpose, of devices and aids, including related goods, which are essential to compensate or overcome disability in humans.
 Part Four
 Exempt importations
 This Part applies to the importations listed herein subject to the definitions contained in Part Five.
@@ -212,6 +215,8 @@ Provided that, when the conditions for the exemption cease to apply, the Europea
 (b) The importation of goods by the armed forces of other Member States
 for the use of those forces, or of the civilian staff accompanying them, or for supplying their messes or canteens when such forces take part in a defence effort carried out for the implementation of a European Union
 activity under the common security and defence policy.
+Importations of certain devices and aids by non-profit making organisations
+10. The importation by non-profit making organisations specifically recognised as such by the Commissioner for this purpose, of devices and aids, including related goods, which are essential to compensate or overcome disability in humans.
 Part Five
 Definitions
 For the purposes of this Schedule, the following terms shall have the meaning assigned to them in this Part.
@@ -271,4 +276,4 @@ Investment gold
 6. "Investment gold" has the meaning assigned to it in Part Six of the Fourteenth Schedule.
 - Amended by: L.N. 24 of 2001.
 - Substituted by: X. 2003.47.
-- Amended by: L.N. 250 of 2004; L.N. 520 of 2004; L.N. 334 of 2006; L.N. 121 of 2007; L.N. 445 of 2007; L.N. 234 of 2009; L.N. 286 of 2010; L.N. 425 of 2010; L.N. 534 of 2010; L.N. 379 of 2011; L.N. 499 of 2011; L.N. 38 of 2012; L.N. 345 of 2013; L.N. 422 of 2013; L.N. 480 of 2014; L.N. 227 of 2015; L.N. 247 of 2016; L.N. 383 of 2016; L.N.347 of 2017; L.N. 9 of 2018; L.N.155 of 2019; L.N.302 of 2019; L.N.253 of 2019; L.N.222 of 2020; L.N. 4 of 2021; L.N. 358 of 2021; VII.2022.70; L.N. 138 of 2022.
+- Amended by: L.N. 250 of 2004; L.N. 520 of 2004; L.N. 334 of 2006; L.N. 121 of 2007; L.N. 445 of 2007; L.N. 234 of 2009; L.N. 286 of 2010; L.N. 425 of 2010; L.N. 534 of 2010; L.N. 379 of 2011; L.N. 499 of 2011; L.N. 38 of 2012; L.N. 345 of 2013; L.N. 422 of 2013; L.N. 480 of 2014; L.N. 227 of 2015; L.N. 247 of 2016; L.N. 383 of 2016; L.N.347 of 2017; L.N. 9 of 2018; L.N.155 of 2019; L.N.302 of 2019; L.N.253 of 2019; L.N.222 of 2020; L.N. 4 of 2021; L.N. 358 of 2021; VII.2022.70; L.N. 138 of 2022; L.N. 12 of 2024.
