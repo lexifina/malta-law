@@ -1,5 +1,5 @@
 ## and crew, wherever they may be.
-## [S.L.499.18 7 AND OPERATION OF AIRCRAFT)
+## [S.L.499.18 AND OPERATION OF AIRCRAFT) 7
 ## SCHEDULE
 # schedule
 LIST OF AEROPLANES EXEMPTED IN ACCORDANCE WITH ARTICLE 16(1)
@@ -24,7 +24,7 @@ MAURITANIA
 Serial Number Type Registration Operator 11093 F28-4000 5T-CLG Air Mauritanie
 MOROCCO
 Serial Number Type Registration Operator 20471 B727-2B6 CN-CCG Royal Air Maroc 21214 B727-2B6 CN-RMI Royal Air Maroc 21215 B727-2B6 CN-RMJ Royal Air Maroc 21216 B727-2B6 CN-RMK Royal Air Maroc
-[S.L.499.18 9 AND OPERATION OF AIRCRAFT)
+[S.L.499.18 AND OPERATION OF AIRCRAFT) 9
 NIGERIA
 Serial Number Type Registration Operator 18809 B707-338C 5N-ARQ DAS Air Cargo 19664 B707-355C 5N-VRG Air Tours
 PAKISTAN
@@ -38,9 +38,6 @@ Serial Number Type Registration Operator 21203 B727-294 YK-AGA Syrianair 21204 B
 TUNISIA
 Serial Number Type Registration Operator 21179 B727-2H3 TS-JHR Tunis Air 21235 B727-2H3 TS-JHT Tunis Air
 [S.L.499.18 10 AND OPERATION OF AIRCRAFT)
-YEMEN
-Serial Number Type Registration Operator 21296 B737-2N8 70-ACU Yemen Airways
-UGANDA
-Serial Number Type Registration Operator 19821 B707-379C 5X-GLA Air Alexander
-ZIMBABWE
-Serial Number Type Registration Operator 18930 B707-330B Z-WKU Air Zimbabwe 45821 DC8F-55 Z-WMJ Affretair
+YEMEN Serial Number Type Registration Operator 21296 B737-2N8 70-ACU Yemen Airways
+UGANDA Serial Number Type Registration Operator 19821 B707-379C 5X-GLA Air Alexander
+ZIMBABWE Serial Number Type Registration Operator 18930 B707-330B Z-WKU Air Zimbabwe 45821 DC8F-55 Z-WMJ Affretair
