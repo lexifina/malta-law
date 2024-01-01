@@ -17,19 +17,19 @@ GT = LOA x B x Max D.
 Where: Max D = not less than 0.2√LOA x B
 2. The Pilotage dues at the Standard Rate (SR) for pilotage services
 shall be as follows:
-(a) Ships not exceeding 500 tons ....................................... €196
-(b) Ships exceeding 500 tons and not exceeding 1,000 tons €209
-(c) Ships exceeding 1,000 tons and not exceeding 2,000 tons .............................................................................. €221
-(d) Ships exceeding 2,000 tons and not exceeding 3,500 tons............................................................................... €232
-(e) Ships exceeding 3,500 tons and not exceeding 5,000 tons .............................................................................. €245
-(f) Ships exceeding 5,000 tons and not exceeding 7,000 tons .............................................................................. €258
-(g) Ships exceeding 7,000 tons and not exceeding 10,000 tons .............................................................................. €269
-(h) Ships exceeding 10,000 tons and not exceeding 15,000 tons .............................................................................. €281
-(i) Ships exceeding 15,000 tons and not exceeding 20,000 tons .............................................................................. €294
-(j) Ships exceeding 20,000 tons and not exceeding 25,000 tons .............................................................................. €307
-(k) Ships exceeding 25,000 tons and not exceeding 30,000 tons .............................................................................. €318
-(l) Ships exceeding 30,000 tons and not exceeding 40,000 tons .............................................................................. €343
-(m) For every additional 10,000 tons or part thereof in excess of 40,000 tons ................................................... €55
+(a) Ships not exceeding 500 tons............................................................€210
+(b) Ships exceeding 500 tons but not exceeding 1,000 tons..............................................................................................................................€224
+(c) Ships exceeding 1,000 tons but not exceeding 2,000 tons..............................................................................................................................€236
+(d) Ships exceeding 2,000 tons but not exceeding 3,500 tons...............................................................................................................................€248
+(e) Ships exceeding 3,500 tons but not exceeding 5,000 tons................................................................................................................................€262
+(f) Ships exceeding 5,000 tons but not exceeding 7,000 tons...............................................................................................................................€276
+(g) Ships exceeding 7,000 tons but not exceeding 10,000 tons..............................................................................................................................€288
+(h) Ships exceeding 10,000 tons but not exceeding 15,000 tons...............................................................................................................................€301
+(i) Ships exceeding 15,000 tons but not exceeding 20,000 tons...............................................................................................................................€315
+(j) Ships exceeding 20,000 tons but not exceeding 25,000 tons...............................................................................................................................€328
+(k) Ships exceeding 25,000 tons but not exceeding 30,000 tons................................................................................................................................€340
+(l) Ships exceeding 30,000 tons but not exceeding 40,000 tons................................................................................................................................€367
+(m) For every additional 10,000 tons or part thereof in excess of 40,000 tons................................................................................................................................€59
 3. Pilotage dues at the standard rate shall be charged for either:
 (a) entering port; or
 (b) leaving port; or
@@ -93,4 +93,4 @@ Provided that when it is necessary to employ more than one pilot for any ship, a
 - Substituted by: L.N. 425 of 2007; L.N. 19 of 2008.
 - Amended by: L.N. 367 of 2009; XV. 2009.49.
 - Substituted by: L.N. 494 of 2011.
-- Amended by: L.N. 201 of 2015; L.N. 120 of 2016; L.N. 334 of 2019.
+- Amended by: L.N. 201 of 2015; L.N. 120 of 2016; L.N. 334 of 2019; L.N. 274 of 2023.
