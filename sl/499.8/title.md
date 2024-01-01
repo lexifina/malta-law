@@ -1,7 +1,6 @@
-[S.L.499.08 1 (EXEMPTION FROM OPERATOR LICENCE)
+[S.L.499.08 (EXEMPTION FROM OPERATOR LICENCE) 1
 SUBSIDIARY LEGISLATION 499.08
 CIVIL AVIATION (EXEMPTION
 FROM OPERATOR LICENCE) ORDER
 24th December, 1987
-LEGAL NOTICES 79 of 1987 and 72 of 1993, consolidated, as amended by Act VIII of 2010.
-The title of this Order is Civil Aviation (Exemption from 1. Operator Licence) Order.
+LEGAL NOTICES 79 of 1987 and 72 of 1993, consolidated, as amended by Acts VIII of 2010 and XL of 2023.
