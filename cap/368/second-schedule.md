@@ -1,14 +1,5 @@
 ## SECOND SCHEDULE
-## Petrol engined
 ## Latest European Standard minus 3 and older
-## 0g/km up to and including 100g/km
-## More than 100g/ km including 130g/km
-## More than 130g/ km including 140g/km
-## More than 140g/ km including 150g/km
-## More than 150g/ km including 180g/km
-## More than 180g/ km including 220g/km
-## More than 220g/ km including 250g/km
-## More than 250g/ km
 ## CO2 x RV x 0.23%
 ## CO2 x RV x 0.26%
 ## CO2 x RV x 0.30%
@@ -17,22 +8,25 @@
 ## CO2 x RV x 0.40%
 ## CO2 x RV x 0.44%
 ## CO2 x RV x 0.47%
-## CO2 x RV x 0.42%
-## CO2 x RV x 0.53%
-## CO2 x RV x 0.60%
-## CO2 x RV x 0.65%
-## CO2 x RV x 0.70%
-## CO2 x RV x 0.75%
-## Petrol or Diesel Engine
-## CO₂
-## 0g/km - 120g/km
-## 121g/km - 140g/km
-## 141g/km -150g/km
-## 151g/km - 160g/km
-## 161g/km - 190g/km
-## 191g/km - 230g/km
-## 231g/km - 260g/km
-## More than 260g/km
+## Diesel-engined with particulate matter of 0g/km up to and including 0.005g/km
+## 0g/km up to and including 100g/km
+## More than 100g/ km including 130g/km
+## More than 130g/ km including 140g/km
+## More than 140g/ km including 150g/km
+## More than 150g/ km including 180g/km
+## More than 180g/ km including 220g/km
+## More than 220g/ km including 250g/km
+## More than 250g/ km
+## Diesel-engined with particulate matter of over 0.005g/km
+## and older
+## 0g/km including 100g/km
+## More than 100g/km up to and including 130g/ km
+## More than 130g/km up to and including 140g/ km
+## More than 140g/km up to and including 150g/ km
+## More than 150g/km up to and including 180g/ km
+## More than 180g/km up to and including 220g/ km
+## More than 220g/km up to and including 250g/ km
+## More than 250g/km
 # second-schedule
 [Articles 3, 6, 8, 17A, 18]
 Registration tax to be paid on the registration of category
@@ -56,21 +50,41 @@ M 1 pre 2006 2006-2010 2011-2012
 onwards
 Where an importer or dealer or owner of a motor vehicle intends to change the engine of a motor vehicle prior to its registration with the Authority, he shall inform the Authority in writing.
 Where an importer or dealer or owner of a motor vehicle provides a certificate as approved by an accredited technical service, that the engine of that particular vehicle meets lower emissions despite the vehicle's year of manufacture, that vehicle shall on registration be taxed the rate pertaining to its equivalent euro standard.
-Category B: Used category M1 vehicles (including autogas, electric and hybrid electric motor vehicles) and quadricycles imported from third countries in terms of article 6(2):
-Vehicle's age (yrs)* 0 1 2 3 4 5 6 7 CO2 € € € 0g/km up to and including 800 900 1,000 100g/km More than 100g/km up to 1,000 1.100 1,200 and including 130g/km More than 130g/km up to 1,200 1,300 1.400 and including 140g/km More than 140g/km up to 3,500 3,920 4,390 and including 150g/km More than 150g/km up to 4,000 4,480 5,018 and including 180g/km More than 180g/km up to 7,000 7,840 8,781 and including 220g/km More than 220g/km up to 12,000 13,440 15,053 and including 250g/km More than 250g/km 13,500 15,120 16,934 Vehicle's age (yrs)* 8 9 10 11 12 13 14+ CO2 € € € € € € € 0g/km up to and including 2,107 2,360 2,644 2,961 3,316 3,714 4,160 100g/km More than 100g/km up to 2,529 2,832 3,172 3,553 3,979 4,457 4,992 and including 130g/km More than 130g/km up to 2,810 3,147 3,525 3,948 4,421 4,952 5,546 and including 140g/km More than 140g/km up to 4,917 5,507 6,168 6,908 7,737 8,666 9,706 and including 150g/km More than 150g/km up to 5,620 6,294 7,049 7,895 8,843 9,904 11,092 and including 180g/km More than 180g/km up to 9,834 11,015 12,336 13,817 15,475 17,332 19,412 and including 220g/km More than 220g/km up to 16,859 18,882 21,148 23,686 26,528 29,712 33,277 and including 250g/km More than 250g/km 18,967 21,243 23,792 26,647 29,844 33,426 37,437
-* The vehicle's age is the age of a vehicle from year of manufacture.
+Category AAA: M1 motor vehicles registered prior to the 1st January, 2009 in any country other than a third country and then brought into and registered in Malta on or after the 1st January, 2009:
+M1 Motor Vehicles
+Engine Capacity Rate of Tax
+Percentage of RV
+Up to and including 1000cc 50.5%
+More than 1000cc up to and including 1300cc 50.5% More than 1300cc up to and including 1500cc 53% More than 1500cc up to and including 1800cc 60% More than 1800cc up to and including 2000cc 65% More than 2000cc up to and including 2500cc 75%
+More than 2500cc up to and including 3000cc 75%
+More than 3000cc 75%
+Category B: Category B: Used category M1 vehicles (including autogas and hybrid motor vehicles) imported from third countries in terms of article 6(2):
+Vehicle's age (yrs)* 0 1 2 3 4 5 6 7 CO2 € € € 0g/km up to and including 800 900 1,000 100g/km More than 100g/km up to 1,000 1.100 1,200 and including 130g/km More than 130g/km up to 1,200 1,300 1.400 and including 140g/km More than 140g/km up to 3,500 3,920 4,390 and including 150g/km More than 150g/km up to 4,000 4,480 5,018 and including 180g/km More than 180g/km up to 7,000 7,840 8,781 and including 220g/km More than 220g/km up to 12,000 13,440 15,053 and including 250g/km More than 250g/km 13,500 15,120 16,934
+Vehicle's age (yrs)* 8 9 10 11 12 13 14+ CO2 € € € € € € € 0g/km up to and including 2,107 2,360 2,644 2,961 3,316 3,714 4,160 100g/km More than 100g/km up to 2,529 2,832 3,172 3,553 3,979 4,457 4,992 and including 130g/km More than 130g/km up to 2,810 3,147 3,525 3,948 4,421 4,952 5,546 and including 140g/km More than 140g/km up to 4,917 5,507 6,168 6,908 7,737 8,666 9,706 and including 150g/km More than 150g/km up to 5,620 6,294 7,049 7,895 8,843 9,904 11,092 and including 180g/km More than 180g/km up to 9,834 11,015 12,336 13,817 15,475 17,332 19,412 and including 220g/km More than 220g/km up to 16,859 18,882 21,148 23,686 26,528 29,712 33,277 and including 250g/km More than 250g/km 18,967 21,243 23,792 26,647 29,844 33,426 37,437
+* The vehicle's age is the age of a vehicle from date of registration in the other country.
 Category C: Motor cycles, Motor Tricycles and Category L5e
 Motor Cycles and Motor Tricycles
 Engine capacity Not exceeding 250cc 0% Exceeding 250cc but not exceeding 500cc cc x RV x 0.033% Exceeding 500cc but not exceeding 800cc cc x RV x 0.034% Exceeding 800cc cc x RV x 0.035% Battery electric motor cycle 0%
 Category L5e
-Rate Kg x 0.35 + cc x 0.39 x €1
+Rate Kg x 0.35 + cc x 0.39 x €1 Category CC: motorcycles registered prior to the 1st January, 2009 in any country other than a third country brought into and registered in Malta on or after the 1st January, 2009:
+Motorcycles
+Engine Capacity Rate of Tax
+Percentage of RV
+Up to and including 50cc 28.5%
+More than 50cc up to and including 28.5% 125cc More than 125cc up to and including 42% 250cc More than 250cc up to and including 42% 500cc More than 500cc up to and including 42% 800cc More than 800cc 42%
+Category CCC: used motorcycles registered prior to the 1st January, 2009 in any country other than a third country brought into and registered in Malta on or after the 1st January, 2009:
+Motorcycles
+Engine Capacity €
+Up to and including 50cc 5,000
+More than 50cc up to and including 125cc 10,000 More than 125cc up to and including 250cc 12,000 More than 250cc up to and including 500cc 14,000 More than 500cc up to and including 800cc 16,000 More than 800cc 20,000
+* The vehicle's age is the age of a vehicle from the date of registration in the other country
 Category D: Quad bikes to be used on the road
 Engine capacity Not exceeding 250cc cc x RV x 0.085% Exceeding 250cc but not exceeding 500cc cc x RV x 0.090% Exceeding 500cc but not exceeding 800cc cc x RV x 0.095% Exceeding 800cc cc x RV x 0.10% Electric operated quad bikes RV x 1.71%
 Tax rate formula:
 (1) Following the application of the relevant tables under the heading "M1 Motor Vehicles", the total amount of the registration tax shall be equal to the sum total of the CO2 value (g/km - grams per kilometer) multiplied by the registration value (RV) multiplied by the indicated % value, and the total of the length (mm) multiplied by the registration value (RV) multiplied by the indicated % value:
 (CO2 x RV x x% ) + (length (mm) x RV x x%).
 (2) Where the CO2 value has not been provided to the Authority by the motor vehicle owner, the Authority shall apply the rate of 251g/km.
-(3) Where the particulate matter value in respect of M1 diesel-engined vehicles fitted with a Euro 3 or Euro 4 or Euro 5 standard engine is not provided to the Authority by the motor vehicle owner, the Authority shall apply the rate of 0.05g/km in respect of vehicles manufactured between 2001 and 2005 with a Euro 3 engine, the rate of 0.025g/km in respect of vehicles with a Euro 4 engine with a year of manufacture between 2006 and 2010, and the rate of 0.005g/km in respect of vehicles with a Euro 5 engine with a year of manufacture from 2011 and thereafter.
+(3) Where the particulate matter value in respect of M1 diesel-engined vehicles fitted with a Euro 3 or Euro 4 or Euro 5 standard engine is not provided to the Authority by the motor vehicle owner, the Authority shall apply the rate of 0.05g/km in respect of vehicles manufactured between 2001 and 2005 with a Euro 3 engine, the rate of 0.35g/km in respect of vehicles with a Euro 4 engine with a year of manufacture between 2006 and 2010, and the rate of 0.005g/km in respect of vehicles with a Euro 5 engine with a year of manufacture from 2011 and thereafter.
 (4) Where, on the application of paragraph 1 above, the amount of tax on the registration of a used M1 motor vehicle imported from a third country in terms of article 6(2) is less than the minimum applicable to that motor vehicle, the amount of tax due on the registration of that vehicle shall be the minimum applicable to that vehicle as established in the table under Category B.
 (5) For hybrid vehicles the CO2 value shall be the combined level of amount of carbon dioxide (CO2) emissions from a combination of the electric motor and internal combustion engine contained in the relevant EC type-approval certificate or EC certificate of conformity or any other appropriate documentation acceptable to the Authority which confirms compliance with the type approval for the type of vehicle concerned. Otherwise, it shall be the combined level of carbon dioxide (CO2) contained in the relevant EC type-approval certificate or EC certificate of conformity or any other appropriate documentation acceptable to the Authority which confirms compliance with the type approval for the type of vehicle concerned.
 The rate of registration tax and annual circulation licence fee payable on hybrid vehicles shall be based on the tables for M1 motor vehicles but the CO2 value as provided in the certificate of conformity shall be reduced by thirty per cent (30%).
@@ -127,4 +141,4 @@ electric vehicles:
 - Substituted by: XXVI. 1997.2.
 - Amended by: XVI. 1998.3.
 - Substituted by: VI. 1999.2; VI. 2009.30.
-- Amended by: XI. 2010.17; IV. 2011.52; V. 2012.42; L.N. 86 of 2013; III. 2013.51; XII. 2014.57; XV. 2016.24; XVI. 2017.59; VII.2018.51; XVIII.2021.41; VII.2022.55.
+- Amended by: XI. 2010.17; IV. 2011.52; V. 2012.42; L.N. 86 of 2013; III. 2013.51; XII. 2014.57; XV. 2016.24; XVI. 2017.59; VII.2018.51; XVIII.2021.41; VII.2022.55; XII.2023.36.
