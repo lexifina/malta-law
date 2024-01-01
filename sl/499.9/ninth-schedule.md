@@ -1,12 +1,15 @@
 ## NINTH SCHEDULE
+## Level Interaction
+## Expert 6 Interacts with ease in nearly i n all situations. a l l Is sensitive to verbal and non-verbal c u e s , a n d re s po nd s t o t h e m appropriately.
 ## Interaction
-## Expert 6 Interacts with ease in nearly all situations. Is sensitive to verbal and non-verbal c u e s , a n d re s po nd s t o t h e m appropriately.
 ## Responses are immediate, appropriate, a n d informative. a n d Manages the speaker/ t h e listener i s relationship effectively. a
 ## t o
 ## o r
-## Responses are usually immediate, appropriate, a n d informative. Initiates and o r maintains exchanges even when dealing with an unexpected turn of events. D e a l s adequately with apparent a misunder- standings by checking, confirmi ng, or clarifying.
+## Responses are mostly usually immediate, appropriate, a n d informative. Initiates and o r maintains exchanges even when dealing with an unexpected turn of events. D e a l s adequately with apparent a misunder- standings by checking, confirmi ng, or clarifying.
+## require
 ## Interactions
-## P r e - Responses are Operational sometimes 3 immediate, appropriate, a n d informative. Can initiate and maintain exchanges w i t h reasonable e a s e o n familiar topics and in predictable situations. Generally inadequate when dealing w i t h a n unexpected t u r n o f events.
+## Level Interactions
+## P r e - Responses are Operational sometimes 3 immediate, appropriate, a n d informative. Can initiate o r and maintain exchanges w i t h reasonable e a s e o n familiar topics and in predictable situations. Generally inadequate when dealing w i t h a n unexpected t u r n o f events.
 ## Elementary Response 2 time is slow, a n d o f t e n inappropriate. Interaction is limited t o simple routine exchanges.
 ## P r e - Performs at a Elementary le ve l be lo w 1 t h e Elementary level.
 # ninth-schedule
