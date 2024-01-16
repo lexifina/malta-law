@@ -15,4 +15,3 @@ essential requirements;
 (g) results of design calculations made, examinations carried out, and other relevant similar elements;
 (h) test reports;
 (i) an explanation of the compliance with the requirement of regulation 10(2) and of the inclusion or not of information on the packaging in accordance with regulation 10(10).
-- Amended by: L.N. 7 of 2024.

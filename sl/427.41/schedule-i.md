@@ -8,3 +8,4 @@ EQUIPMENT NOT COVERED BY THESE REGULATIONS
 2. Marine equipment falling within the scope of Council Directive 96/98/ EC(*).
 3. Aviation equipment intended exclusively for airborne use falling within the scope of article 138 of Regulation (EU) 2018/1139 of the European Parliament and of the Council (†).
 4. Custom-built evaluation kits destined for professionals to be used solely at research and development facilities for such purposes.
+- Amended by: L.N. 7 of 2024.

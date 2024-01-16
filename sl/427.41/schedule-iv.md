@@ -58,3 +58,4 @@ A copy of the EU declaration of conformity shall be made available to the releva
 7. Each notified body shall inform its notifying authority of quality system approvals issued or withdrawn, and shall, periodically or upon request, make available to its notifying authority the list of quality system approvals refused, suspended or otherwise restricted. Each notified body shall inform the other notified bodies of quality system approvals which it has refused, suspended or withdrawn, and, upon request, of quality system approvals which it has issued.
 8. Authorised representative
 The manufacturer's obligations set out in points 3(1), 3(3)(f), 5 and 6 may be fulfilled by his authorised representative, on his behalf and under his responsibility, provided that they are specified in the mandate.
+- Amended by: L.N. 7 of 2024.

@@ -16,4 +16,3 @@ Other Union harmonisation legislation where applicable.
 Signed for and on behalf of: ............................
 (place and date of issue):
 (name, function) (signature):
-- Amended by: L.N. 7 of 2024.
