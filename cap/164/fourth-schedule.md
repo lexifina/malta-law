@@ -19,7 +19,8 @@ POLICE PENSIONS REGULATIONS, 1990
 General Regulations
 1. The title of these regulations is the Police Pensions Regulations, 1990.
 2. (1) Subject to the provisions of the Malta Police Act, hereinafter called the Act, and of these regulations, every Police officer, who has been in the Force for 10 years or upwards, may be granted a pension at the rate of one four-hundred and fiftieth of his pensionable emoluments for each complete month of pensionable service, subject to the limit described in article 125 of the Act.
-(2) For the purposes of these regulations, the term 'Police officer' shall also include persons who have served in the Armed Forces of Malta and the Malta Correctional Services and before serving in the Police Force and any uninterrupted period of service within the Armed Forces of Malta and the Malta Correctional Services prior to the period of service as a Police officer shall be reckoned as service in a disciplined force and qualifying for a pension under the terms and conditions of the Act.
+(2) For the purposes of these regulations, the term 'Police officer' shall also include persons who have served in the Armed Forces of Malta and the Malta Correctional Services and before serving in the Police Force and any uninterrupted period of service within the Armed Forces of Malta and the Malta Correctional Services prior to the period of service as a Police officer shall be reckoned as service in a disciplined force and qualifying for a pension under the terms and conditions of the Act:
+Provided that any serving police officer shall have the period served during any paid full-time basic induction course or paid full-time cadetship course considered as service in a disciplined force upon successful completion of the said course, for the purposes of pension in accordance with the terms and conditions of the Act.
 3. The service in respect of which a pension may be granted must be unbroken, except in cases where the service has been interrupted by abolition of office or other temporary suspension of employment, and not arising from misconduct or voluntary resignation:
 Provided that any service prior to a break of service may be allowed to count for pension together with any service subsequent to such break:
 (a) if the whole intervening period has been spent in some other employment in the service of the Republic; or
@@ -102,6 +103,7 @@ Provided further that these provisions shall apply to officers who were reinstat
 Provided that for the purposes of this regulation, "partner" shall have the same meaning assigned to it in article 2 of the Civil Unions Act:
 Provided further that the pension shall only be granted if the said officer has served in the Force for a period of at least ten (10) years:
 Provided further that the provisions of this regulation shall apply retroactively in case of officers who were deceased on or after 1st January 2022, but before the coming into force of these regulations.
+- Amended by: L.N. 10 of 2024.
 - Added by: L.N. 312 of 2023.
 - Added by: L.N. 312 of 2023.
 - See Cap. 569.
