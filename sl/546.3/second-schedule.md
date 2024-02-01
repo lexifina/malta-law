@@ -1,7 +1,7 @@
 ## SECOND SCHEDULE
 # second-schedule
 Part I
-CdB person details
+CdB person details [S.L. 546.03 8 DATA SHARING WITHIN THE PUBLIC SECTOR
 The list of data elements is available from the following link:
 https://open.data.gov.mt/search_all.html?id=5962&key=Subordinates
 Part II

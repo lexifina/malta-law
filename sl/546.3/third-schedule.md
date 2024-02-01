@@ -6,12 +6,12 @@ and Second Schedules
 1. Death indicator
 Burial Status
 2. Gender Identity
-[S.L. 546.03 DATA SHARING WITHIN THE PUBLIC SECTOR 9
 3. Marital Status
 4. Sex (physical body characteristics) marker
 Part II
 Person status headings and values of person records
 held only in other official registers
+[S.L. 546.03 DATA SHARING WITHIN THE PUBLIC SECTOR 9
 1. Contracting Status:
 (a) contracting capacity:
 (b) non-contracting state:

@@ -3,4 +3,4 @@
 Core person details
 The list of data elements is available from the following link:
 https://open.data.gov.mt/
-search_all.html?id=13986&key=Subordinates [S.L. 546.03 8 DATA SHARING WITHIN THE PUBLIC SECTOR
+search_all.html?id=13986&key=Subordinates
