@@ -5,4 +5,4 @@ REGULATIONS
 7th December, 2016;
 18th June, 2017;*
 31st October, 2018†
-LEGAL NOTICE 411 of 2016, as amended by Legal Notices 324 and 354 of 2018.
+LEGAL NOTICE 411 of 2016, as amended by Legal Notices 324 and 354 of 2018 and 33 of 2024.
