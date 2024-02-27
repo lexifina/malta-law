@@ -10,8 +10,7 @@ Site technical officer during demolition;
 Site technical officer during excavation;
 Site technical officer during building works
 Contractor and/or sub-contractor responsible for demolition;
-Contractor and/or sub-contractor responsible for excavation;
+Contractor and/or sub-contractor responsible for excavation; [S.L. 623.06 18 THIRD PARTY PROPERTY
 Contractor and/or sub-contractor responsible for building works
 Project supervisor as provided for in Legal Notice 88 of 2018 or subsequent amendments
 Site manager as provided for in Legal Notice 295 of 2007 or subsequent amendments.
-[S.L. 623.06 THIRD PARTY PROPERTY 19
