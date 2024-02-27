@@ -2,7 +2,6 @@
 # fourth-schedule
 (Regulations 7 and 8)
 (Method Statement for Demolition Works)
-[S.L. 623.06 THIRD PARTY PROPERTY 19
 1. The commencement date of the works.
 2. The identification of risks involved.
 3. The proposed methodology, supported by any other documentation as may be required, which should specify:

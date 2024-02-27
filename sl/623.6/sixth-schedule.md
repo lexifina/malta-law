@@ -2,10 +2,9 @@
 # sixth-schedule
 (Regulations 7 and 8)
 (Method Statement for building works)
-1. The commencement date of the works.
-2. Checks showing that any existing floors are capable of sustaining the additional load being imposed by the new
 [S.L. 623.06 THIRD PARTY PROPERTY 23
-construction these should include:
+1. The commencement date of the works.
+2. Checks showing that any existing floors are capable of sustaining the additional load being imposed by the new construction these should include:
 (a) an estimate of existing and proposed loads in
 every floor, and a declaration that the structural
 elements of each individual floor are capable of
@@ -27,8 +26,9 @@ contiguous structures;
 (b) the sequence of works to be undertaken;
 (c) measures to safeguard the stability of the works
 being undertaken, the stability of contiguous
+[S.L. 623.06 24 THIRD PARTY PROPERTY
 structures or terrain as the case may be;
-(d) the type of machinery equipment that is allowed to be used; [S.L. 623.06 24 THIRD PARTY PROPERTY
+(d) the type of machinery equipment that is allowed to be used;
 (e) the type of machinery equipment that is not
 allowed to be used;
 (f) any specific interventions required during the

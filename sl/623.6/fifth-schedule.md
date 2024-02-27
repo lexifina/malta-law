@@ -1,8 +1,9 @@
 ## FIFTH SCHEDULE
 # fifth-schedule
+[S.L. 623.06 20 THIRD PARTY PROPERTY
 (Regulations 7 and 8)
 (Method Statement for Excavation Works)
-1. The commencement date of the works. [S.L. 623.06 20 THIRD PARTY PROPERTY
+1. The commencement date of the works.
 2. A description of the affected zone of the excavation,
 explained schematically in inclusive of a dimensioned
 plan that includes the following:
@@ -19,8 +20,11 @@ condition reports as per Seventh Schedule.
 the following:
 (a) identification of ground materials through the geological map of the Maltese Islands;
 (b) information from any ground investigation reports that fall within the immediate surroundings, specifically within the affected zone;
-(c) information from other periti who have built or supervised excavation in the immediate surroundings, after having obtained the necessary consent to use this information;
 [S.L. 623.06 THIRD PARTY PROPERTY 21
+(c) information from other periti who have built or
+supervised excavation in the immediate
+surroundings, after having obtained the necessary
+consent to use this information;
 (d) if information requested in items (b) or (c) is not
 available, information from a ground
 investigation that would need to be commissioned
@@ -47,10 +51,10 @@ other documentation as may be required, which should specify:
 (a) where the excavation is to be started from;
 (b) any phasing required to achieve the required rock buttressing;
 (c) the levels that should be attained in each stage of the excavation;
-(d) the type of machinery equipment that is allowed to be used;
-(e) the type of machinery equipment that is not allowed to be used;
-(f) if applicable, the type of crane to be used, the [S.L. 623.06 22 THIRD PARTY PROPERTY
-location where this is to be set-up, the methodology for setting up the crane, the relevant ground conditions below the crane, and other information relating to the crane that may be relevant, supported by certification by a warranted engineer;
+(d) the type of machinery equipment that is allowed to be used; [S.L. 623.06 22 THIRD PARTY PROPERTY
+(e) the type of machinery equipment that is not
+allowed to be used;
+(f) if applicable, the type of crane to be used, the location where this is to be set-up, the methodology for setting up the crane, the relevant ground conditions below the crane, and other information relating to the crane that may be relevant, supported by certification by a warranted engineer;
 (g) the precautions and safeguards to be adopted:
 (i) against instability of structures falling within the affected zone;
 (ii) for the safety of persons.

@@ -13,4 +13,6 @@ In the case of excavation:
 Engineering
 In the case of building works:
 - Perit
-- A person who is in possession of a Bachelors degree in Engineering
+- A person who is in possession of a Bachelors degree in
+Engineering
+[S.L. 623.06 THIRD PARTY PROPERTY 19
