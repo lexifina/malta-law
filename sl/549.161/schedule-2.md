@@ -7,10 +7,11 @@ In cases where the developer fails to meet the targets, the applicable administr
 (a) for targets specified in paragraphs (a) and (b) of
 regulation 9(1):
 A = total material or waste generated, in tonnes
-B = % target [S.L. 549.161 8 FRAMEWORK
+B = % target
 C = actual material re-used or waste prepared for
 re-use or recycled, in tonnes
 D = five euro (€5) in case of high-density residential
+[S.L. 549.161 8 FRAMEWORK
 developments serving sixteen (16) or more units, three
 euro (€3) for major developments
 ((A x B) - C) x D = applicable penalty in euro
