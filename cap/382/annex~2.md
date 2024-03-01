@@ -76,6 +76,7 @@ PART VI
 (b) those declared on the invoice or other document
 relating to the sale or delivery of the beer,
 (c) those found by analytical means by the Commissioner.
+(7) All the ingredients of the beer, including those added after the completion of fermentation, shall be taken into account for the purposes of measuring the degree Plato.
 PART VII
 12. The brewer shall keep records and accounts containing the details specified in Schedule I to these regulations and shall be bound to preserve such records for six years or such shorter period as the Commissioner may allow.
 13. The brewer shall produce to the Commissioner -
@@ -93,3 +94,4 @@ II to these regulations.
 (e) other quantity, if any, of beer recorded as having been mixed with non-alcoholic beverage from the quantity of beer the worts were considered to yield as described in regulation 11(1) in respect to the same period.
 (2) In the event, of a discrepancy which may result after comparing the quantities of beer produced with that issued from the brewery whereby a quantity of beer is found to be unaccounted for in terms of sub-regulation (1), the Commissioner may, without any prejudice to any other action which may be taken against the brewer or any other person in view of the provisions of the Act or any other law, allow the brewer to pay such sum of money as is equivalent to the duty due on such discrepancy.
 - Added by: XVIII.2021.55.
+- Amended by: L.N. 43 of 2024.

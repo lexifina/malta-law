@@ -34,11 +34,12 @@ The term 'ethyl alcohol' covers: - all products with an actual alcoholic strengt
 - products of Customs Tariff Heading Nos. 2204, 2205 and 2206 which have an actual alcoholic strength by volume exceeding 22% vol.,
 - potable spirits containing products, whether in solution or not.
 EXEMPTIONS The products described in this Schedule are exempt from the payment of excise duty under such conditions which the Minister may prescribe for the purpose of ensuring the correct and straightforward application of such exemptions and of preventing any evasion, avoidance or abuse:
-1. a. when distributed in the form of alcohol which has been completely denatured to the satisfaction of the Commissioner;
+1. a. when distributed in the form of alcohol which has been completely denatured in accordance with the requirements of the Member State where it has been released for consumption, where such requirements were duly notified in writing and authorised. The Commissioner shall apply Chapter V of Council Directive (EU) 2020/262 of 19 December 2019 laying down the general arrangements for excise duty (recast);
 b. when used as part of the manufacturing process of any product not for human consumption, provided the alcohol has been denatured in accordance with the requirements of any Member State for the given use.
 This exemption shall apply when such denatured alcohol:
 - has been incorporated into the product not for human consumption; or
 - is used for maintenance and cleaning of the manufacturing equipment used for this particular manufacturing process;
+- The Commissioner shall apply Chapter IV of Council Directive (EU) 2020/262 of 19 December 2019 laying down the general arrangements for excise duty (recast) to movements of denatured alcohol that has not yet been incorporated into a product that is not for human consumption;
 c. when used for the production of vinegar falling within Customs Tariff Heading No. 2209;
 d. when used in the production of medicines referred to in Directives 2001/82/EC and 2001/83/ EC;
 e. when used for the production of flavours for the preparation of foodstuffs and non-alcoholic beverages with an alcohol strength not exceeding 1.2% vol.;
@@ -64,10 +65,9 @@ pharmaceutical industry):
 10 ppm denatonium benzoate irrespective of the alcoholic strength of the alcohol to be denatured
 (ii) when for surgical or pharmaceutical use
 Either:
-- 90% vol ethanol - 10% vol isopropyl alcohol
-(This type of denatured alcohol is normally
-used in pharmaceutical industrial plants)
-or:
+- 90% vol ethanol
+- 10% vol isopropyl alcohol
+(This type of denatured alcohol is normally used in pharmaceutical industrial plants) or:
 - 95% vol ethanol - 5% vol wood naphta
 To each 100 litres of which is added
 - 0.5% vol methyl salicylate - 2.0% vol diethyl phthalate - 2.5% castor oil
@@ -76,4 +76,4 @@ To each 100 litres of which is added
 - Substituted by: VII. 1997.2; XXV. 1997.5; IV. 1998.2; IX. 2001.9; II. 2002.26; II. 2004.57.
 - Amended by: L.N. 118 of 2006.
 - Substituted by: L.N. 425 of 2007.
-- Amended by: II. 2009.33; IV. 2011.68; XXII. 2011.5; XII. 2014.71; XIII. 2015.136; XV. 2016.35; XVIII.2021.53; L.N. 177 of 2022.
+- Amended by: II. 2009.33; IV. 2011.68; XXII. 2011.5; XII. 2014.71; XIII. 2015.136; XV. 2016.35; XVIII.2021.53; L.N. 177 of 2022; L.N. 43 of 2024.
