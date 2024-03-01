@@ -210,12 +210,40 @@ Provided that a person who shows that he purchased water-pipe tobacco from a reg
 PART D
 Mineral Oils Regulations
 1. The title of these regulations is Mineral Oils Regulations.
-2. These regulations shall apply to petroleum oils and gases specified as excisable goods by the Excise Duty Act.
-3. In these regulations, unless the context otherwise requires -
-"the Act" means the Excise Duty Act;
-''heating'' and ''heating purposes'' mean heat generated from gas oils classified within HS Code 2710.19.43 and 2710.19.48, or within 2710.20.11 and 2710.20.19 with a sulphur content of not more than 0.1% sulphur by weight, when these gas oils are used to heat buildings, pools, commercial ovens, incinerators and for industrial purposes;
-"observed temperature" means the temperature of the product to be measured, which had not been recently lowered or raised in order to facilitate passage through pipelines or for any other purposes;
-and all other terms shall have the meaning assigned to them by the Act.
+2. (a) Each of the following substances shall constitute a fiscal marker:
+(i) for gas oils, excluding gas oils
+intended to be used for heating purposes:
+(aa) ACCUTRACE™ PLUS
+(butoxybenzene); and
+(bb) all red dye;
+(ii) for gas oils intended to be used for
+heating purposes by state and private hospitals, state senior citizens' homes, Corradino Correctional Facility, sports, philanthropic and religious entities so authorised by the Minister, bakeries up to the maximum amount of litres per month required by the bakery as certified by a mechanical engineer, and other entities authorised
+by the Minister, and for kerosene:
+(aa) ACCUTRACE™ PLUS
+(butoxybenzene); and
+(bb) all green dye.
+(b) The markers shall be added in the following
+proportions:
+(i) for gas oils, excluding gas oils
+intended to be used for heating purposes by state and private hospitals, state senior citizens' homes, Corradino Correctional Facility, sports, philanthropic and religious entities so authorised by the Minister, bakeries up to the maximum amount of litres per month required by the bakery as certified by a mechanical engineer, and other
+entities authorised by the Minister:
+(aa) not less than 12.5 milligram
+per litre and not more than 18.75 milligram of ACCUTRACE™ PLUS per litre of mineral oil, corresponding to a marking level of not less than 9.5 milligram of butoxybenzene per litre and not more than 14.25 milligram of butoxybenzene per litre
+of energy product; and
+(bb) not less than such quantity of
+a red dye which yields a colour absorbance ranging from 0.2 to 0.5 as measured in a spectrophotometer at 500-540 nanometres
+when introduced in mineral oil;
+(ii) for gas oils intended to be used for
+heating purposes by state and private hospitals, state senior citizens' homes, Corradino Correctional Facility, sports, philanthropic and religious entities so authorised by the Minister, bakeries up to the maximum amount of litres per month required by the bakery as certified by a mechanical engineer, and other entities authorised
+by the Minister, and for kerosene:
+(aa) not less than 12.5 milligram
+per litre and not more than 18.75 milligram of ACCUTRACE™ PLUS per litre of mineral oil, corresponding to a marking level of not less than 9.5 milligram of butoxybenzene per litre and not more than
+14.25 milligram of butoxybenzene per litre
+of energy product; and
+(bb) not less than such quantity of
+a green dye which yields a colour absorbance ranging from 0.15 to 0.4 as measured in a spectrophotometer at 630 nanometres for the blue component of the dye and a colour absorbance ranging from 0.15 to 0.4 as measured in a spectrophotometer at 400-450 nanometres for the yellow component of the dye when introduced in mineral oil.
+3. (a) With effect from the 19th January 2024 the common fiscal marker as provided in Council Directive 95/60/EC of 27 November 1995 on fiscal marking of gas oils and kerosene, for the marking of all gas oils falling within CN codes 2710 19 43, 2710 19 46, 2710 19 47, 2710 19 48, 2710 20 11, 2710 20 16 and 2710 20 19, as well as of kerosene falling within CN code 2710 19 25, shall be ACCUTRACE™ PLUS.
+(b) The marking level of ACCUTRACE™ PLUS shall be at least 12.5 milligram per litre and not more than 18.75 milligram per litre of energy product, which corresponds to a marking level of at least 9.5 milligram of butoxybenzene per litre and not more than 14.25 milligram of butoxybenzene per litre of energy product.
 4. (1) Excise duty on petroleum oils of a density below 0.900 at a temperature of 15°C shall be calculated per 1000 litres of product at a temperature of 15°C.
 (2) Excise duty on gases shall be calculated on the net weight in kilograms.
 5. Petroleum oil and gas storage installations shall for the purpose of these regulations be deemed to be authorised tax warehouses if so approved by the Commissioner, and storage installation keeper shall likewise be deemed to be an authorised tax warehouse keeper.
@@ -278,15 +306,16 @@ purposes by:
 state and private hospitals,
 state senior citizens' homes,
 Corradino Correctional Facility,
-sports, philanthropic and religious entities so authorised by the Minister,
-bakeries up to the maximum amount of litres per month required by the bakery as certified by a mechanical engineer, and
+sports, philanthropic and religious entities so
+authorised by the Minister,
+bakeries up to the maximum amount of litres per month required by the bakery as certified by a
+mechanical engineer, and
 other entities authorised by the Minister
 and kerosene -
 (aa) N-Ethyl-N-[2-(1-isobutoxyethoxy)ethyl] 4-(phenylazo)aniline defined in the Colour Index as Solvent Yellow 124, and
 (bb) any blue anthraquinone dye.
 (b) The markers shall be added in the following proportions:
-(i) for gas oils, excluding gas oils intended to
-be used for heating purposes by:
+(i) for gas oils, excluding gas oils intended to be used for heating purposes by:
 state and private hospitals,
 state senior citizens' homes,
 Corradino Correctional Facility,
@@ -294,20 +323,17 @@ sports, philanthropic and religious entities so authorised by the Minister,
 bakeries up to the maximum amount of litres per month required by the bakery as certified by a mechanical engineer, and
 other entities authorised by the Minister;
 (aa) not less than 6 milligrams but not more than 9 milligrams of N-Ethyl-N-[2-(1-isobutoxy-ethoxy) ethyl] - 4 - (phenylazo) aniline per litre of mineral oil, and
-(bb) not less than such quantity of a red dye as gives a colour intensity, as measured in a spectrophotometer at 500 - 540 namometres, corresponding to 5 milligrams of 1-[4(phenylazo) phenylazo]2-[ethylamino]naphtalene per
-litre of mineral oil;
-(ii) for gas oils intended to be used for heating
-purposes by:
+(bb) not less than such quantity of a red dye as gives a colour intensity, as measured in a spectrophotometer at 500 - 540 namometres, corresponding to 5 milligrams of 1-[4(phenylazo) phenylazo]2-[ethylamino]naphtalene per litre of mineral oil;
+(ii) for gas oils intended to be used for heating purposes by:
 state and private hospitals,
 state senior citizens' homes,
 Corradino Correctional Facility,
-sports, philanthropic and religious entities so
-authorised by the Minister,
-bakeries up to the maximum amount of litres per month required by the bakery as certified by a
-mechanical engineer, and
+sports, philanthropic and religious entities so authorised by the Minister,
+bakeries up to the maximum amount of litres per month required by the bakery as certified by a mechanical engineer, and
 other entities authorised by the Minister
 and kerosene -
-(aa) not less than 6 milligrams but not more than 9 milligrams of N-Ethyl-N-[2-(1-isobutoxy-ethoxy) ethyl] - 4 - (phenylazo) aniline per litre of mineral
+(aa) not less than 6 milligrams but not more than 9 milligrams of N-Ethyl-N-[2-(1-isobutoxy-ethoxy) ethyl] - 4 -
+(phenylazo) aniline per litre of mineral
 oil, and
 (bb) not less than such quantity of a blue anthraquinone dye as gives a colour intensity, as measured in a spectrophotometer at 630 nanometres, corresponding to 5 milligrams of C.I. Solvent Blue 79, as defined in the Colour Index, per litre of mineral oil.
 (3)(a) With effect from the 19th January 2024 the common fiscal marker provided for by Council Directive 95/60/EC of 27 November 1995 on fiscal marking of gas oils and kerosene, for the marking of all gas oils falling within CN codes 2710 19 43, 2710 19 46, 2710 19 47, 2710 19 48, 2710 20 11, 2710 20 16 and 2710 20 19, as well as of kerosene falling within CN code 2710 19 25, shall be ACCUTRACE™ PLUS.
@@ -400,8 +426,9 @@ product which is being offered for sale.
 - Amended by: VII.2019.59.
 - Added by: VII.2019.59.
 - Substituted by: XVIII.2021.55.
-- Amended by: XVI. 2017.79; VII.2018.80; VII.2019.59; VIII.2020.66; XVIII.2021.55; VII.2022.66; XII.2023.56.
+- Amended by: XVI. 2017.79; VII.2018.80; VII.2019.59; VIII.2020.66; XVIII.2021.55; VII.2022.66; XII.2023.56; A.L. 42 of 2024.
 - Amended by: XVI. 2017.79.
+- Substituted by: L.N. 42 of 2024.
 - Substituted by: XVI. 2017.79.
 - Added by: VIII.2020.66.
 - Amended by: XVIII.2021.55; VII.2022.66.
