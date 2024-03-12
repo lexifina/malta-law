@@ -9,7 +9,8 @@ and of the Council of 18 April 2018 on cross-border parcel delivery services;
 (iv) Regulation (EU) 2018/302 of the European Parliament
 and of the Council of 28 February 2018 on addressing unjustified geo-blocking and other forms of discrimination based on customers' nationality, place of residence or place of establishment within the internal market and amending Regulations (EC) No 2006/2004
 and (EU) 2017/2394 and Directive 2009/22/EC;
-(v) Regulation (EU) 2017/1128 of the European Parliament
-and of the Council of 14 June 2017 on cross border portability of online content services in the internal market.
+(v) Regulation (EU) 2017/1128 of the European Parliament and of the Council of 14 June 2017 on cross border portability of online content services in the internal market.
+(vi) Regulation (EU) 2022/2065 of the European Parliament
+and of the Council of 19 October 2022 on a Single Market for Digital Services and amending Directive 2000/31/EC (Digital Services Act).
 - Added by: XVIII. 2016.20.
-- Amended by: L.N. 416 of 2018; L.N. 39 of 2019; L.N. 169 of 2019; L.N. 191 of 2022.
+- Amended by: L.N. 416 of 2018; L.N. 39 of 2019; L.N. 169 of 2019; L.N. 191 of 2022; L.N. 66 of 2024.
