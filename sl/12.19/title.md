@@ -3,4 +3,4 @@ SUBSIDIARY LEGISLATION 12.19
 CIVIL COURTS (ESTABLISHMENT OF SECTIONS)
 ORDER
 16th December, 2003
-LEGAL NOTICE 396 of 2003, as amended by Legal Notice 8 of 2004 , Act I of 2018 and XVI of 2019, V of 2021 and XVII of 2023.
+LEGAL NOTICE 396 of 2003, as amended by Legal Notice 8 of 2004 , Act I of 2018 and XVI of 2019, V of 2021, XXIII of 2022 and XVII of 2023.
