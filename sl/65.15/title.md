@@ -3,6 +3,6 @@ MOTOR VEHICLE ROADWORTHINESS TEST
 REGULATIONS
 8th May, 1998;
 1st October, 1999
-LEGAL NOTICE 126 of 1998, as amended by Legal Notices 157 of 1999, 314 of 2001, 159 of 2003, 41 and 69 of 2006, 408 of 2007 and 43 of 2008; Act XV of 2009; and Legal Notices 90 of 2010, 49 and 87 of 2012, 149 of 2014, 58 of 2016, 124 of 2017, 330 of 2019 and 298 of 2022.
+LEGAL NOTICE 126 of 1998, as amended by Legal Notices 157 of 1999, 314 of 2001, 159 of 2003, 41 and 69 of 2006, 408 of 2007 and 43 of 2008; Act XV of 2009; and Legal Notices 90 of 2010, 49 and 87 of 2012, 149 of 2014, 58 of 2016, 124 of 2017, 330 of 2019, 298 of 2022 and 74 of 2024.
 PART I
 Preliminary
