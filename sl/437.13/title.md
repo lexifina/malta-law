@@ -1,7 +1,5 @@
 SUBSIDIARY LEGISLATION 437.13
 PURE-BRED BREEDING SHEEP AND GOATS
-REGULATIONS
+REGULATIONS*
 4th May, 2010
 LEGAL NOTICE 261 of 2010.
-(1) The title of these regulations is the Pure-Bred Breeding 1. Sheep and Goats Regulations.
-(2) The scope of these regulations is to implement the provisions found under European Union Council Directive 89/361/ EEC concerning pure-bred breeding sheep and goats. These regulations cover zootechnical problems which may arise in trade with Member States in pure-bred breeding sheep and goats and the semen, ova and embryos thereof.
