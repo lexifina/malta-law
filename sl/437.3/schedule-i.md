@@ -4,7 +4,7 @@
 ## EEC".
 ## [S.L.437.03 4 THEIR SEMEN, OVA AND EMBRYOS
 ## SCHEDULE I
-## European Union Commission Decision 89/506/EEC.
+## (*) European Union Commission Decision 89/506/EEC.
 # schedule-i
 SPECIMEN CERTIFICATE
 For hybrid breeding pigs
