@@ -1,4 +1,4 @@
 SUBSIDIARY LEGISLATION 463.33
 RENT SUBSIDY REGULATIONS
 1st February, 2020
-LEGAL NOTICE 187 of 2020, as amended by Legal Notice 375 of 2022.
+LEGAL NOTICE 187 of 2020, as amended by Legal Notices 375 of 2022 and 80 of 2024.
