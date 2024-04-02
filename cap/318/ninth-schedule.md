@@ -15,13 +15,12 @@ household;
 €42.52 a leper;
 (ii) in respect of any other member of the
 household who is a leper and not gainfully occupied:
-(a) if under sixteen (16) years of age;
 €28.20
+(a) if under sixteen (16) years of age;
+€42.52
 (b) if sixteen (16) years of age or over;
 (iii) in respect of any other member of the
-household who is not gainfully occupied.
-€42.52
-€28.20 4. Tuberculosis Assistance:
+€28.20 household who is not gainfully occupied. 4. Tuberculosis Assistance:
 (i) basic amount of tuberculosis assistance
 €35.18 payable in respect of a household, one member of which is affected by tuberculosis;
 (ii) allowance payable in respect of each

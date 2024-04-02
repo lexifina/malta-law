@@ -1,6 +1,6 @@
 ## FOURTEENTH SCHEDULE
 # fourteenth-schedule
-[Articles 30, 70, 72, 73, 76, 76A, 77, 80]
+(Articles 30, 70, 72, 73, 76, 76A, 77, 80, 84)
 Rates of several kinds of Allowances, Maternity
 Benefit and Marriage Grant
 PART I
@@ -67,8 +67,23 @@ Rate per week per child of Disabled Child Allowance in accordance with article 7
 PART VIII
 Rate per week per child of Care Allowance paid in accordance with article 76A
 €110.00
-An allowance payable under this Part shall continue to be payable when the child is over sixteen (16) years but under twenty-one (21) years.
+An allowance payable under this Part shall continue to be payable when the child is over sixteen (16) years but under twenty-one (21) years..
+PART IX
+Mechanism establishing the Additional Benefit to counter the Cost of Living
+The rules which regulate this benefit shall be the following:
+(1) the additional cost of living increase accumulated as from the year 2023 onwards shall be calculated in accordance with the cost of expenses of persons over the age of 65 years in accordance with the table in this Part;
+(2) the benefit shall be awarded to families whose disposable equivalised income, in accordance with the number of members in the family, is below the national median as defined by Eurostat and as established by the National Statistics Office every year;
+(3) the highest disposable income considered for the purposes of this benefit shall not exceed €50,000;
+(4) the payment shall be dependant on the disposable equivalised income of the family when compared with the level of 60% of the national median equivalised income (the risk of poverty level) and the number of family members; and
+(5) for the year 2024, the payment of the benefit for the full year shall be between the minimum of €100 and maximum of €1,500.
+Year Cost of Living Increase Cost of Living Difference*
+for Persons of 65 years Increase
+or over COLA Mechanism
+€
+€ €
+2023 10.48 9.90 0.58 2024 15.14 12.81 2.33
+* The benefit is calculated on the accumulated difference up to the basis payment year. If the difference from one year to another is less, the amount accumulated is retained.
 - Added by: XXI. 1996.68.
 - Substituted by: XXII. 1997.14; L.N. 56 of 1999; L.N. 84 of 1999; L.N. 10 of 2000; L.N. 21 of 2001; L.N. 4 of 2002; II. 2002.78; L.N. 422 of 2002; L.N. 436 of 2003.
 - Amended by: II. 2004.34.
-- Substituted by: L.N. 100 of 2006; L.N. 101 of 2006; L.N. 318 of 2007; L.N. 424 of 2007; L.N. 149 of 2008; L.N. 143 of 2009; L.N. 437 of 2010; L.N. 330 of 2011; L.N. 342 of 2012; L.N. 355 of 2013; L.N. 62 of 2014; L.N. 123 of 2015; L.N. 309 of 2016; L.N. 6 of 2018; L.N.195 of 2018; L.N.94 of 2019; L.N.251 of 2020; XXIX.2019.71; L.N. 331 of 2021; L.N. 232 of 2023; L.N. 257 of 2023; L.N. 10 of 2025.
+- Substituted by: L.N. 100 of 2006; L.N. 101 of 2006; L.N. 318 of 2007; L.N. 424 of 2007; L.N. 149 of 2008; L.N. 143 of 2009; L.N. 437 of 2010; L.N. 330 of 2011; L.N. 342 of 2012; L.N. 355 of 2013; L.N. 62 of 2014; L.N. 123 of 2015; L.N. 309 of 2016; L.N. 6 of 2018; L.N.195 of 2018; L.N.94 of 2019; L.N.251 of 2020; XXIX.2019.71; L.N. 331 of 2021; L.N. 232 of 2023; L.N. 257 of 2023; XIII.2024.28; L.N. 10 of 2025.

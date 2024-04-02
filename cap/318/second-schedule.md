@@ -29,8 +29,14 @@ put to profitable use, together exceed:
 (i) €14,000 in the case of a household consisting of one member only or of a number of members headed by a single person or a single parent; or
 (ii) €23,300 in the case of a household consisting of at least the head of household and the spouse of
 such head of household,
-the person claiming Sickness Assistance shall not be
-deemed to be entitled to such assistance; and
+the person claiming Sickness Assistance shall not be deemed to be entitled to such assistance:
+Provided further that, with effect from 1st January 2024, in the case of a person who has been in receipt of Sickness Assistance in accordance with the provisions of article 20 for a period of five (5) years or more and who comes into possession of other property or assets through inheritance, in lieu of the limits laid down in the first proviso, shall instead be taken in the calculation of the capital means the amount of thirty thousand euro (€30,000) in the case of a single or widowed person, or the amount of fifty thousand euro (€50,000) in the case of a married person. So however that, when calculating the capital means in such cases, no account shall be taken of:
+(a) a donation of a property by the beneficiary
+of the Sickness Assistance to a son or daughter, provided that such property is being donated to the son or daughter in order for the son or daughter to form his or her future house of residence;
+(b) a donation of part of the house of residence
+of the Sickness Assistance beneficiary to the son or daughter including the space above such property, provided that such donation is being made in order for the son or daughter to form his or her future house of residence; and
+(c) a donation of up to a maximum of twenty
+thousand euro (€20,000) to the son or daughter by the beneficiary of the Sickness Assistance, provided such donation is made in accordance with the provisions of the laws of Malta; and
 (b) save as provided for in paragraph 4 of this Part, of any income or privilege which is, or could be received or enjoyed by any member of the household including any entitlement of such member to benefit under a trust or in whose favour a discretion to distribute property, including income or privilege, held in trust may be exercised who is neither an employed person nor a self-employed or self-occupied person in terms of this Act:
 Provided that any such property or income that has to be taken into account for the purposes of this Part, in accordance with the foregoing provisions of this paragraph, shall include any property or income which any member of the household as aforesaid in this Part had directly or indirectly deprived himself of in order to become entitled to Sickness Assistance or to
 become so entitled at a more advantageous rate:
@@ -45,10 +51,12 @@ income equivalent to 5.5% of its capital value.
 (b) one-half of the value of any other such property shall be disregarded unless such property had been transferred or donated to him by the head of household or the spouse of such head of household within the twelve months immediately preceding the claim for Sickness Assistance.
 4. In calculating the income or privilege which is, or could be received or enjoyed by any member of the household as aforesaid in this Part no account shall be taken of:
 (a) the first €95 arising out of the use of property;
-(b) any Social Assistance, Leprosy Assistance,
-Tuberculosis Assistance, Milk Grant, Carer's Allowance, Increased Carer's Allowance and Sickness Assistance payable under this Act and any pension or pensions (whether paid under this Act or not) up to a maximum aggregate amount equivalent to the aggregate of the highest rate of the National Minimum Pension, inclusive of the Additional Allowance payable according to the claimant's marital status as specified in the Twelfth Schedule;
-(c) any Increased Severe Disability Assistance, Severe Disability Assistance, Assistance for the Visually Impaired and Disability Assistance being paid to one (1) of the spouses, provided that such spouse is neither in insurable employment nor self-occupied;
-(d) any Supplementary Allowance, Children's Allowance, Care Allowance, Disabled Child Allowance or Maternity Benefit payable under this Act;
+(b) any Social Assistance, Leprosy Assistance, Tuberculosis Assistance, Milk Grant, Carer's Allowance, Increased Carer's Allowance and Sickness Assistance payable under this Act and any pension or pensions (whether paid under this Act or not) up to a maximum aggregate amount equivalent to the aggregate of the highest rate of the National Minimum Pension, inclusive of the Additional Allowance payable according to the claimant's marital status as
+specified in the Twelfth Schedule;
+(c) any Increased Severe Disability Assistance, Severe Disability Assistance, Assistance for the Visually Impaired and Disability Assistance being paid to one (1) of the spouses, provided that such spouse is neither in
+insurable employment nor self-occupied;
+(d) any Supplementary Allowance, Children's Allowance, Care Allowance, Disabled Child Allowance or
+Maternity Benefit payable under this Act;
 (e) 84.3% of the total net income or of any privilege, benefit or allowance or of any excess pension which is being, or could be received or enjoyed by such member of the household, other than the head of household or the spouse of such head of household, and for this purpose the total net income, privilege, benefit, allowance or excess pension shall be reduced by any income tax payments made by the person concerned in accordance with the Income Tax Act, and the term "excess pension" shall mean any pension over the National Minimum Pension as indicated in sub-paragraph (b);
 (f) any amounts as are referred to in paragraphs 3(b) and
 (c) of Part I of this Schedule;
@@ -81,17 +89,19 @@ equivalent to 5.5% of its capital value.
 (b) one-half of the value of any other such property shall be disregarded unless such property had been transferred or donated to such member of the household by the head of household or the spouse of such head of household within the twelve months immediately preceding the claim for Free Medical Aid.
 4. In calculating the income or privilege which is, or could be, received or enjoyed by any member of the household, no account shall be taken of:
 (a) the first €95 arising out of the use of property;
-(b) any Social Assistance, Leprosy Assistance, Tuberculosis Assistance, Milk Grant and Sickness
-Assistance payable under this Act and any pension or pensions (whether paid under this Act or not) up to a maximum aggregate amount equivalent to the aggregate of the highest rate of the National Minimum Pension, inclusive of the Additional Allowance payable according to the claimant's marital status as is specified in the Twelfth Schedule to this Act;
+(b) any Social Assistance, Leprosy Assistance, Tuberculosis Assistance, Milk Grant and Sickness Assistance payable under this Act and any pension or pensions (whether paid under this Act or not) up to a maximum aggregate amount equivalent to the aggregate of the highest rate of the National Minimum Pension, inclusive of the Additional Allowance payable according to the claimant's marital status as is
+specified in the Twelfth Schedule to this Act;
 (c) any Supplementary Allowance, Children's Allowance, Disabled Child Allowance or Maternity Benefit payable under this Act;
 (d) 84.3% of the total net income, or of any wage or salary or of any privilege, benefit or allowance or of any excess pension which is being, or could be received or enjoyed by any member of the household, other than the head of household or the spouse of such head of household, and for this purpose the total net income, wage, salary or pension shall be taken as the total gross income, wage, salary or pension less any payment made by the person concerned by way of:
 (i) income tax under the Income Tax Act;
 (ii) expenses incurred for travelling by public transport or by any other form of transport as may be provided by the employer of the person concerned, to and from the place of work; and
-(iii) any expenses incurred by the person concerned in generating that income,
+(iii) any expenses incurred by the person concerned
+in generating that income,
 and the term "excess pension" shall mean any pension over the National Minimum Pension as indicated in sub-paragraph (b);
 (e) any amounts as referred to in paragraph 3(b) and (c) of Part I of this Schedule;
 (f) any weekly allowance payable by any employer in terms of the Weekly Allowance National Standard Order;
-(g) any benefit, income, privilege or grant accruing to any member of the household under and in accordance with the provisions of any of the Manpower Incentive Schemes announced by the Government of Malta, for the first twelve weeks of entitlement;
+(g) any benefit, income, privilege or grant accruing to any member of the household under and in accordance with the provisions of any of the Manpower Incentive Schemes announced by the Government of Malta, for
+the first twelve weeks of entitlement;
 (h) any stipend received by any member of the household, other than the head of household or the spouse of such head of household during a full-time course of studies or instruction under any scheme which is run by the Government of Malta, whether involving or not distinct work and study periods; and for this purpose "stipend" shall not include any wage or other remuneration which may be payable to the person concerned during any work phase which may form part of such a scheme;
 (i) contributions payable under this Act; and
 (j) the first €470 by way of earnings derived by any person from the carrying out of hand knitting, lace making, crochet and embroidery activities at home and the manufacture of which does not involve any mechanical processes.
@@ -182,7 +192,7 @@ Provided further that in the case of a person who is in receipt of a pension (wh
 - Substituted by: L.N. 330 of 2011.
 - Amended by: V. 2012.31; L.N. 218 of 2012.
 - Substituted by: L.N. 342 of 2012.
-- Amended by: IX. 2013.8; XII. 2014.38; XIII. 2015.90; XV. 2016.6; XVI. 2017.38; VII.2018.44; VII.2019.37; VIII.2020.33; VII.2022.41.
+- Amended by: IX. 2013.8; XII. 2014.38; XIII. 2015.90; XV. 2016.6; XVI. 2017.38; VII.2018.44; VII.2019.37; VIII.2020.33; VII.2022.41; XIII.2024.26.
 - See Cap. 207.
 - See Cap. 452.
 - See Cap. 123.
