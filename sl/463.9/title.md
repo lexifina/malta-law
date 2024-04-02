@@ -1,4 +1,4 @@
 SUBSIDIARY LEGISLATION 463.09
 MICRO INVESTMENT REGULATIONS
 3rd June, 2014
-LEGAL NOTICE 187 of 2014, as amended by Legal Notice 36 of 2016, and 140 of 2017, 121 of 2018, 444 of 2020 and 211 of 2021.
+LEGAL NOTICE 187 of 2014, as amended by Legal Notice 36 of 2016, and 140 of 2017, 121 of 2018, 444 of 2020, 211 of 2021 and 81 of 2024.
