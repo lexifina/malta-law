@@ -2,6 +2,6 @@ SUBSIDIARY LEGISLATION 420.06
 RECEPTION OF ASYLUM SEEKERS
 REGULATIONS
 22nd November, 2005*
-LEGAL NOTICE 320 of 2005, as amended by Legal Notices 417 of 2015 487 of 2021 and 2 of 2023.
+LEGAL NOTICE 320 of 2005, as amended by Legal Notices 417 of 2015 487 of 2021 and 2 of 2023 and 87 of 2024.
 PART I
 Purpose, Definitions and Scope
