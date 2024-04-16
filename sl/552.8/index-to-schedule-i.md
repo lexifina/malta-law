@@ -37,6 +37,7 @@ Class 5 Development related to public utility services
 (vi) Storm water culverts
 (vii) Infrastructural service ducts
 (viii) Feeder or service pillars
+(ix) Development related to the electrical distribution system
 Class 6 Development related to public transport
 (i) Signs for operation of route buses
 (ii) Passenger shelters and barriers
@@ -175,8 +176,8 @@ treatment plant, or of an ancillary reservoir; or
 The land surface must be immediately and completely returned to its original condition once the works have been completed.
 (iii) The installation of service lines to individual customers from a service
 line, including any excavations for such purpose, provided that the land is immediately and completely returned to its original condition once the works have been completed.
-(iv) The installation, in a public infrastructural network, of a booster station,
-valve house, meter house or switchgear house, unless it involves any development above ground level in an UCA or ODZ.
+(iv) The installation, in a public water distribution or sewage infrastructural
+network, of a booster station, valve house, meter house or switchgear house, unless it involves any development above ground level in an UCA or ODZ.
 (v) The construction, provision or improvement of sewage inspection chambers above ground level unless such chamber exceeds:
 (a) one square metre in area measured externally; or
 (b) one metre in height measured externally above ground level. If
@@ -200,14 +201,31 @@ wiring on the site or its surroundings; and
 currently above ground are relocated underground;
 (d) within Valletta, Floriana, Cottonera and areas scheduled for their
 archaeological importance, excavation works shall be carried out under the supervision of an archaeologist appointed by the Superintendent of Cultural Heritage.
-Development under this Class, when it is located in a UCA, ODZ and in scheduled property or within thirty metres from a scheduled property or in a designated area, shall be subject to the notification procedure established in article 5(1) and (3).
+(ix) Development required by the electrical distribution system operator in
+connection with:
+(a) the construction, alteration, maintenance or repair of an electric
+power distribution centres provided that the building does not exceed the height of ten (10) meters above highest road level;
+(b) the construction, alteration, maintenance or repair of electricity
+power sub-stations provided that the building shall not exceed the footprint of fifty (50) square metres and does not exceed the
+height of four (4) meters above highest road level;
+(c) the temporary installation of any equipment and any associated structure, required for emergency generation of electrical power that is installed as ancillary to existing infrastructure use provided that the equipment and the associated structure may be retained for a period not exceeding five (5) years, subject to the approval
+of the Environment and Resources Authority:
+Provided that:
+(a) the site has adequate access from the road network;
+(b) ancillary infrastructure including but not limited to cabling, pipes
+and, or channel services shall be located under existing roads;
+(c) aboveground level wiring, poles and off-street trenching shall be avoided; and
+(d) the design shall be in congruence with the surrounding
+environment and landscape.
+Development under this Class, when it is located in a UCA, ODZ and in scheduled property or within thirty metres from a scheduled property or in a designated area, shall be subject to the notification procedure established in article 5(1) and (3) and developments falling under this class which are located in ODZ or in protected or scheduled areas for environmental reasons shall be subject to prior approval by the Environment and Resources Authority.
 CLASS 6 - Development related to public transport
 (i) The installation of signs which do not exceed fifty square centimetres in
 area, in connection with the operation of route buses.
 (ii) The construction or replacement of existing passenger shelters
 including advertisement as part of the passenger shelter, or barriers for the control of people waiting to enter a route bus, except where the development involves any road widening or any encroachment onto land that is not a road carriageway, pavement or similar paved area.
 CLASS 7 - Development related to telecommunications
-(i) The installation, maintenance or alteration of any telecommunications apparatus unless such development is located ODZ or on scheduled property.
+(i) The installation, maintenance or alteration of any telecommunications apparatus unless such development is located ODZ or on scheduled
+property.
 Provided that the development does not involve:
 (a) the erection or alteration of buildings; or
 (b) the introduction of poles and masts to support overhead wiring
@@ -249,8 +267,7 @@ out within ten days from the last permitted period.
 (ii) The reversible use of land by Government entities, Local Councils and
 other public entities appointed thereby, for the temporary use of land for cultural and social purposes, and for the temporary placing and use of a caravan or a camp, as well as any temporary structures required for such use for not more than four calendar months in one (1) calendar year only, provided that the land used is fully restored to its pristine condition and any structures are removed within ten days from the expiry of such
 period, except for sites located in scheduled property:
-Provided that the use of land is not permitted if such use is for off-road vehicle, motor car and motorcycle racing or rallying, or for practising for these events and activities:
-Provided further that the development described shall only be permitted if:
+Provided that the use of land is not permitted if such use is for off-road vehicle, motor car and motorcycle racing or rallying, or for practising for these events and activities: Provided further that the development described shall only be permitted if:
 (a) any temporary structure required for such use would not impair
 visibility at a road junction or otherwise pose a threat to the safety of pedestrians or vehicular traffic;
 (b) such use does not entail direct or indirect damage to existing
