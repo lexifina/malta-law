@@ -32,20 +32,31 @@ The persons responsible for the whitepaper
 6. Names, functions and declarations by the persons responsible for the whitepaper that to the best of their knowledge the information contained in the whitepaper is in accordance with the facts and that the whitepaper makes no omission likely to affect its import.
 The offer to the public
 7. At least, and to the extent it is applicable, the following information on the offer shall be provided in the whitepaper:
-(a) description of the reason behind the initial virtual financial asset offering;
-(b) detailed technical description of the protocol, platform and, or application, as the case may be, and the associated benefits;
-(c) detailed description of the sustainability and scalability of the proposed project;
-(d) associated challenges and risks as well as mitigating measures thereof;
-(e) detailed description of the characteristics and functionality of the virtual financial assets being offered;
-(f) detailed description of the issuer, VFA agent, development team, advisors and any other service providers that may be deployed for the realisation of the project;
+(a) description of the reason behind the initial
+virtual financial asset offering;
+(b) detailed technical description of the protocol,
+platform and, or application, as the case may be, and the associated benefits;
+(c) detailed description of the sustainability and
+scalability of the proposed project;
+(d) associated challenges and risks as well as
+mitigating measures thereof;
+(e) detailed description of the characteristics and
+functionality of the virtual financial assets being offered;
+(f) detailed description of the issuer, development
+team, advisors and any other service providers that may be deployed for the realisation of the project;
 (g) detailed description of the issuer's wallet/s used;
-(h) description of the security safeguards against cyber threats to the underlying protocol, to any off-chain activities and to any wallets used by the issuer;
-(i) detailed description of the life cycle of the initial virtual financial asset offering and the proposed project;
-(j) detailed description of the past and future milestones and project financing;
+(h) description of the security safeguards against
+cyber threats to the underlying protocol, to any off-chain activities and to any wallets used by the issuer;
+(i) detailed description of the life cycle of the initial
+virtual financial asset offering and the proposed project;
+(j) detailed description of the past and future
+milestones and project financing;
 (k) detailed description of the targeted investor base;
 (l) exchange rate of the virtual financial assets;
-(m) description of the underlying protocol's interoperability with other protocols;
-(n) description of the manner funds raised through the initial virtual financial asset offering will be allocated;
+(m) description of the underlying protocol's
+interoperability with other protocols;
+(n) description of the manner funds raised through
+the initial virtual financial asset offering will be allocated;
 (o) the amount and purpose of the issue;
 (p) the total number of virtual financial assets to be issued and their features;
 (q) the distribution of virtual financial assets;
@@ -63,9 +74,12 @@ The offer to the public
 (ac) the procedure for the exercise of any right of pre-emption;
 (ad) detailed description of the smart contract/s, if any, deployed including inter alia the adopted standards, its/ their underlying protocol/s, functionality/-ies and associated operational costs;
 (ae) if any smart contract/s is/are deployed by the issuer, details of the auditor who performed an audit on it/ them;
-(af) description of any restrictions embedded in the smart contract/s deployed, if any, including inter alia any investment and/or geographical restrictions;
-(ag) the programme agents used to obtain data and verify occurrences from smart contracts (also known as 'oracles') used and detailed description of their characteristics and functionality thereof;
-(ah) bonuses applicable to early investors including inter alia discounted purchase price for virtual financial assets;
+(af) description of any restrictions embedded in the smart contract/s deployed, if any, including inter alia any
+investment and/or geographical restrictions;
+(ag) the programme agents used to obtain data and
+verify occurrences from smart contracts (also known as 'oracles') used and detailed description of their characteristics and functionality thereof;
+(ah) bonuses applicable to early investors including
+inter alia discounted purchase price for virtual financial assets;
 (ai) the period during which voluntary withdrawals
 are permitted by the smart contract, if any;
 (aj) description of the issuer's adopted white-listing
@@ -97,7 +111,8 @@ Issuer's financial track record
 Validity of a whitepaper, arrangements for approval and publication of a whitepaper.
 13. A whitepaper shall be valid for 6 months after its approval by the competent authority for offers to the public.
 14. (1) The competent authority shall not register a whitepaper unless it is satisfied that the whitepaper has been drawn up in accordance with the provisions of this Act, this Schedule and any regulations, rules or guidance made or issued thereunder.
-(2) The competent authority shall notify the issuer or the VFA agent, as the case may be, of its decision regarding the approval or otherwise of the whitepaper.
+(2) The competent authority shall notify the issuer as the case may be, of its decision regarding the approval or otherwise of the whitepaper.
 Significant new factors, material mistakes or inaccuracies
 15. (1) Every significant new factor, material mistake or inaccuracy relating to the information included in the whitepaper which is capable of affecting the assessment of the virtual financial assets and which arises or is noted between the time when the whitepaper is approved and the final closing of the offer to the public, whichever occurs later, shall be mentioned in a supplement appended to the whitepaper. Such a supplement shall be approved in the same way and published in accordance with at least the same arrangements as were applied when the original whitepaper was published. The summary, and any translations thereof, shall also be supplemented, if necessary, to take into account the new information included in the supplement.
 (2) Investors who have already agreed to purchase or subscribe for the virtual financial assets before the supplement is published shall have the right to withdraw their acceptance within two working days after the publication of the supplement, provided that the new factor, mistake or inaccuracy referred to in paragraph (1) arose before the final closing of the offer to the public and the delivery of the virtual financial assets. That period may be extended by the issuer in which case the smart contract, if any, shall be updated accordingly. The final date of the right of withdrawal shall be stated in the supplement.
+- Amended by: XIV.2024.19.
