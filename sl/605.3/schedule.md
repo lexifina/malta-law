@@ -1,8 +1,21 @@
 ## SCHEDULE
 # schedule
-Evening Tuition Courses
-First Column Second Column Third Column Fourth Column
-Course Duration € € Basic Courses in Maltese, 14 weeks Exempt Exempt English, Maths and Science. Sign Language Lip Reading 14 weeks Exempt Exempt Short Courses 14 weeks Exempt Exempt (Except IT related subjects) 14 weeks or less 18.63 37.26 General Courses - 32 weeks 34.94 69.88 including subjects leading up to MQF/VET Level 3. Specialized Courses - 32 weeks 46.59 93.18 including academic subjects leading to Intermediate and MATSEC levels, and IT related subjects. ECDL Advanced 10 weeks 46.59 93.18 AutoCAD 32 weeks 58.23 116.46 Morning Courses held at the - 11.65 23.30 Lifelong Learning Center, Msida.
-- Substituted by: L.N. 102 of 1997; L.N. 424 of 2007.
-- Amended by: L.N. 374 of 2009.
-- Substituted by: L.N. 396 of 2010; L.N. 217 of 2013.
+Tuition Courses
+First Column* Second
+Column
+Basic Skills Courses: Exempt Basic Courses in Maltese, English, Maths, Science, Basic IT, Sign Language Digital Skills: Learn to use your smartphone and, or tablet Digital Skills: Learn to use the internet and email Media Literacy: Understanding how media affects us Personal finance: Managing your money General Courses: up to 100 hours including Asynchronous Courses up €34.94 to MQF/VET Level 3
+Specialised Courses: up to 100 hours including Intermediate, Level €46.59 Rated and IT subjects
+Revision Classes: up to 100 hours including MATSEC Level and €34.94 ICDL Courses Language Conversation Classes up to 25 hours €18.63
+Morning Courses: held at the Msida Lifelong Learning Hub €11.65
+Courses up to 42 hours, not being any of the above indicated courses €18.63
+*It shall be at the discretion of the Directorate for Research, Lifelong Learning and Employability to:
+(a) amend the non-exhaustive list of Basic Skills Courses essential for
+independent living, and functioning in society;
+(b) update the other categories of the list of other courses to reflect
+popular demand for such other courses;
+(c) distribute the duration in hours of each course into a number of
+hours per lesson;
+(d) establish the frequency of delivery of each lesson in completion of
+the course;
+(e) establish the location and mode from where each course is
+delivered.
