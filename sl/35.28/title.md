@@ -1,4 +1,4 @@
 SUBSIDIARY LEGISLATION 35.28
 HEALTHCARE (FEES) REGULATIONS
 1st May, 2004
-LEGAL NOTICE 201 of 2004, as amended by Legal Notice 407 of 2007.
+LEGAL NOTICE 201 of 2004, as amended by Legal Notices 407 of 2007 and 105 of 2024.
