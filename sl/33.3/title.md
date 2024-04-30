@@ -3,4 +3,4 @@ CONTROL OF FIREWORKS AND OTHER
 EXPLOSIVES REGULATIONS
 1st January, 1999; 1st March, 1999; 30th April, 1999;
 31st December, 1999
-LEGAL NOTICE 243 of 1998 as amended by Legal Notices 266 of 1998, 122 and 125 of 1999, 118 and 164 of 2001, 23 of 2008, 177 and 315 of 2010, 47 of 2011, 77 of 2012, 205 of 2014, 297 of 2015, 264 of 2019 476 of 2020 and 160 of 2022.
+LEGAL NOTICE 243 of 1998 as amended by Legal Notices 266 of 1998, 122 and 125 of 1999, 118 and 164 of 2001, 23 of 2008, 177 and 315 of 2010, 47 of 2011, 77 of 2012, 205 of 2014, 297 of 2015, 264 of 2019 476 of 2020, 160 of 2022 and 106 of 2024.
