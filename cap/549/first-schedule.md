@@ -43,3 +43,4 @@ or the physical environment, as may be prescribed;
 (ii) trade in genetically modified organisms;
 (iii) manage or otherwise have in his possession genetically modified organisms;
 (e) any other activity as may be prescribed by regulations.
+- Renumbered by: XXX.2023.9.

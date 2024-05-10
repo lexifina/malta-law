@@ -31,3 +31,4 @@ Provided further that in case the Board of the Authority conducts its meeting th
 Provided further that meetings of the Board of the Authority held through electronic or other viable means of communication in accordance with this paragraph shall have the same effect at law as if the said meetings were held physically.
 10. Minutes of meetings held in public shall be made available to the public on the Authority's website.
 11. Meetings of the Board of the Authority where the Directorates are providing information to the Board of the Authority do not need to be held in public but votes may not be taken.
+- Added by: XXX.2023.10.
