@@ -1,17 +1,15 @@
 ## SCHEDULE IX
 ## (7) (8)
-## EQS (4) Biota (12) Other
+## MAC-EQS EQS (4) Biota (12) Other surface waters
 ## 0,7
 ## 0,1
 ## 2,0
 ## 50
 ## 0,014 0,0085
-## 2), 0,6
-## 0,9
-## 1,5
-## not
-## 1,4
-## 0,3
+## ≤ 0,45 (Class 1), 0,45 (Class 2), 0,6 (Class 3), 0,9 (Class 4), 1,5 (Class 5)
+## not applicable
+## (7)
+## (8)
 ## (9)
 ## (9a)
 ## (9b)
@@ -33,20 +31,28 @@
 ## (25)
 ## (26)
 ## (27)
-## (28)
-## 5
-## See footnote 11
+## 0,027 5
+## 0,017 See footnote 11
+## 0,017 See footnote 11 8,2 x 10-4 See footnote 11
+## not See applicable footnote 11
 ## 4
-## not 33
+## not (29a) applicable
+## (29b) not applicable
+## 0,0015
+## not 33 applicable (10)
 ## 7,2 9,1
 ## 0,54
-## not Sum of PCDD+PC DF+PCB- DL 0,0065 μg,kg-1 TEQ (14)
+## not Sum of applicable PCDD+PC DF+PCB- DL 0,0065 μg,kg-1 TEQ (14)
 ## 0,012
 ## 0,004
-## 0,016
+## 0,016 6 x 10-5
+## 7 x 10-5
 ## 0,005 167
-## 6,7 x 10-3
+## 3 x 10-4 6,7 x 10-3
 ## 0,034
+## (4)
+## (5)
+## (6)
 # schedule-ix
 EMISSION LIMIT VALUES AND ENVIRONMENTAL QUALITY STANDARDS
 The 'limit values' established under the regulations following the Pollution caused by Certain Dangerous Substances discharged into the Aquatic Environment Regulations (S.L. 549.10) shall be considered emission limit values for the purposes of these regulations. They are established in the following regulations:
@@ -121,5 +127,4 @@ However in accordance with Section 1.3.4. of Schedule V to the Water Policy Fram
 3. The water EQS laid down in the Schedule are expressed as total concentrations in the whole water sample. By way of derogation from the first subparagraph, in the case of cadmium, lead, mercury and nickel (hereinafter "metals"), the water EQS refer to the dissolved concentration, i.e. the dissolved phase of a water sample obtained by filtration through a 0,45μm filter or any equivalent pre-treatment, or, where specifically indicated, to the bioavailable concentration.
 The competent authority may, when assessing the monitoring results against the relevant EQS, take into account:
 (a) natural background concentrations for metals and their compounds where such concentrations prevent compliance with the relevant EQS;
-(b) hardness, pH, dissolved organic carbon or other water quality
-parameters that affect the bioavailability of metals, the bioavailable concentrations being determined using appropriate bioavailability modelling.
+(b) hardness, pH, dissolved organic carbon or other water quality parameters that affect the bioavailability of metals, the bioavailable concentrations being determined using appropriate bioavailability modelling.

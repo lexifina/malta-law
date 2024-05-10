@@ -33,9 +33,9 @@ Transport Authority Act
 Certificate) Act
 254 Post Office Act 28 Communications Appeals Board 262 Mental Health Act 38 Mental Health Review Tribunal 288 Building (Price Control) Act 9 Building Price Control Tribunal 291 Commissioners for Justice 3 Commissioners for Justice
 Act
-308 Partition of Inheritances Act 4 Partition of Inheritances Tribunal 318 Social Security Act 107 and Umpire
+308 Partition of Inheritances Act 4 Partition of Inheritances Tribunal Chapter Name of Law Provision Name of Administrative Tribunal Number Number
+318 Social Security Act 107 and Umpire
 128
-Chapter Name of Law Provision Name of Administrative Tribunal Number Number
 325 Business Promotion Act 28 Appeals Board 327 Education Act 42 Scholastic Tribunal 330 Malta Financial Services 21 Financial Services Tribunal
 Authority Act
 331 Trusts and Trustees Act 55 Financial Services Tribunal 332 Malta Transport Authority 30 Public Transport Labour Board
@@ -56,8 +56,6 @@ Electronics Communications 399 16 Communications Appeals Board (Regulation) Act
 Services Act
 420 International Protection Act 5 International Protection Appeals
 Tribunal
-423 Malta Resources Authority 32 Resources Appeals Board
-Act
 424 Occupational Health and 21 Occupational Health and Safety Appeals
 Safety Authority Act Board
 435 Environment Protection Act 16 Appeal to the Planning Appeals Board
@@ -100,4 +98,4 @@ Diagnostic Laboratories 5(2) of the Licensing of Private Regulations Medical Cli
 Subsidiary Name of Subsidiary Law Provision Name of Administrative Tribunal Legislation/ Number Legal Notice
 Number SL 499.32 Placing of Billboards and 9A Authority for Transport in Malta
 Advertising on the Road Regulations
-- Amended by: |; VI. 2011.167; L.N. 326 of 2011.
+- Amended by: |; VI. 2011.167; L.N. 326 of 2011; XVII.2024.15.

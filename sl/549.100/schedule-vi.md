@@ -1,7 +1,7 @@
 ## SCHEDULE VI
 # schedule-vi
-LISTS OF MEASURES TO BE INCLUDED WITHIN THE PROGRAMMES
-OF MEASURES
+LISTS OF MEASURES TO BE INCLUDED WITHIN THE
+PROGRAMMES OF MEASURES
 PART A
 Measures required under the following regulations:
 the Management of Bathing Water Quality Regulations (S.L. 465.09);
@@ -18,7 +18,7 @@ the Industrial Emissions (Framework) Regulations (S.L. 549.76);
 the Industrial Emissions (Integrated Pollution Prevention and Control Recast) Directive (96/61/EC)).
 PART B
 The following is a non-exclusive list of supplementary measures which the competent authority within each water catchment district may choose to adopt as part of the programme of measures required under regulation 11(4):
-(i) provisions established through the Malta Resources Authority Act and the Environment Protection Act
+(i) provisions established through the Regulator for Energy and Water Services Act and the Environment Protection Act
 (ii) administrative instruments
 (iii) economic or fiscal instruments
 (iv) negotiated environmental agreements

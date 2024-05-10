@@ -19,10 +19,10 @@ time employment
 14. Heritage Malta.
 15. Water Services Corporation.
 16. Directorate for Quality and Standards in Education.
-17. Malta Resources Authority.
+17. Repealed by Act XVII of 2024.
 18. Colleges of State Schools.
 19. WasteServ Malta Limited.
 20. Housing Authority.
 21. Regulator for Energy and Water Services.
 22. Identity Malta Agency.
-- Amended by: XV. 2009.49; XXV. 2015.41.
+- Amended by: XV. 2009.49; XXV. 2015.41; XVII.2024.30.

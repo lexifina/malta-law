@@ -136,9 +136,7 @@ Act communications
 Processing of Personal Data Minister responsible for
 (Electronic Communications Sector) communications
 Regulations (S.L. 586.01) Competition Policy Consumer Affairs Act Minister responsible for consumer and Consumer (Cap. 378) affairs Protection Competition Act Minister responsible for
-(Cap. 379) competition matters Malta Resources Authority Act Minister responsible for
-(Cap. 423) Competition
-Product Safety Act Minister responsible for consumer
+(Cap. 379) competition matters Product Safety Act Minister responsible for consumer
 (Cap. 427) affairs
 Method for Designating Conformity Minister of finance and
 Assessment Bodies Regulations economic affairs
@@ -152,10 +150,11 @@ Services Act competition
 Packaging Waste) Regulations Product Safety Act
 (S.L. 549.43) Arbiter for Financial Services Act Minister responsible for
 (Cap. 555) Consumer Affairs
-Consolidated area of Statutory title as set
+Co-operatives Co-operative Societies Act Minister responsible for matters
+(Cap. 442) relating to co-operative societies Consolidated area of Statutory title as set
 Related law
-responsibility out in related law Co-operatives Co-operative Societies Act Minister responsible for matters
-(Cap. 442) relating to co-operative societies Central Co-operative Fund Minister responsible for co-
+responsibility out in related law
+Central Co-operative Fund Minister responsible for co-
 Regulations operatives
 (S.L. 442.03) Correctional Services Criminal Code Minister responsible for the
 (Cap. 9) prisons
@@ -170,10 +169,10 @@ Prisons Culture and the Arts National Museums and Monuments Minister responsible
 National Museums, Sites and Minister responsible for museums, Collections (Admission Fees) sites and collections Regulations (S.L. 445.05) Mutual Recognition of Qualifications Minister responsible for cultural
 Act heritage
 (Cap. 451) Malta Film Commission Act Minister responsible for culture (Cap. 478) Council for Maltese Living Abroad Minister responsible for culture Act (Cap. 515) Arts Council Malta Act Minister responsible for culture (Cap. 542) Customs and Excise Customs Ordinance Minister responsible for customs
-(Cap. 37) Consolidated area of Statutory title as set
+(Cap. 37) Spirits Ordinance Minister responsible for customs (Cap. 41) Consolidated area of Statutory title as set
 Related law
 responsibility out in related law
-Spirits Ordinance Minister responsible for customs (Cap. 41) Boatmen's Fees Act Minister under whose jurisdiction (Cap. 73) the customs department may, from
+Boatmen's Fees Act Minister under whose jurisdiction (Cap. 73) the customs department may, from
 time to time, be
 Methylated Spirits Ordinance Minister responsible for customs (Cap. 89) Cargo Clearance and Transport Act Minister responsible for customs (Cap. 203) Postal Services Act Minister responsible for customs (Cap. 254) Import Duties Act Minister responsible for customs (Cap. 337) Import Duties Act Minister responsible for customs (Cap. 337) Military Equipment (Export Control) Minister responsible for customs Regulations (S.L. 365.13) Excise Duty Act Minister responsible for customs (Cap. 382) Customs and Excise Tax Act Minister responsible for finance (Cap. 395) Intellectual Property Rights Minister responsible for customs (Cross-Border Measures) Act (Cap. 414) Veterinary Services Act Minister responsible for customs (Cap. 437) Air Navigation Act Minister responsible for Customs (Cap.) 641 Defence Malta Armed Forces Act Minister responsible for defence
 (Cap. 220) Fisheries Conservation and Minister responsible for the armed
@@ -185,9 +184,9 @@ Regulations defence
 Academy for Disciplined Forces Act Minister responsible for Home
 (Cap. 559) Affairs
 Development Malta Development Bank Act Minister responsible for the Bank Finance (Cap. 574) Minister responsible for the Malta
-Development Bank Consolidated area of Statutory title as set
+Development Bank Development Development Planning Act Minister responsible for Planning (Cap. 356) development planning Consolidated area of Statutory title as set
 Related law
-responsibility out in related law Development Development Planning Act Minister responsible for Planning (Cap. 356) development planning Economic Inflation of Prices (Prevention) Minister responsible for industrial Policy Ordinance development
+responsibility out in related law Economic Inflation of Prices (Prevention) Minister responsible for industrial Policy Ordinance development
 (Cap. 98) Commissioner of Land Ordinance Minister responsible for economic
 (Cap. 169) affairs
 Business Promotion Regulations Minister responsible for economic
@@ -290,7 +289,7 @@ Related law
 responsibility out in related law
 Value Added Tax Act Minister responsible for finance (Cap. 406) Malta Travel and Tourism Services Minister responsible for finance Act (Cap. 409) Civil Protection Act Minister responsible for finance (Cap. 411) Equal Opportunities (Persons with Minister responsible for Finance Disability) Act Minister of Finance (Cap. 413)
 Minister for Finance
-Malta Communications Authority Minister responsible for finance Act (Cap. 418) Malta Standards Authority Minister responsible for finance (Cap. 419) Malta Statistics Authority Act Minister of finance (Cap. 422) Malta Resources Authority Act Minister responsible for finance (Cap. 423) European Union Greenhouse Gas Minister responsible for finance Emissions Trading System for Aviation Regulations (S.L. 423.51) Occupational Health and Safety Minister responsible for finance Authority Act (Cap. 424) Malta Council for Economic and Minister of finance Social Development Act (Cap. 431) Malta Council for Economic and Minister responsible for finance Social Development Act (Cap. 431) Veterinary Service Act Minister responsible for finance (Cap. 437) Co-operative Societies Act Minister responsible for finance (Cap. 442) Cultural Heritage Act Minister responsible for finance (Cap. 445) Dwejra Opportunity Fund Minister for Finance Regulations (S.L. 445.06) Mutual Recognition of Qualifications Minister responsible for finance Act (Cap. 451) Consolidated area of Statutory title as set
+Malta Communications Authority Minister responsible for finance Act (Cap. 418) Malta Standards Authority Minister responsible for finance (Cap. 419) Malta Statistics Authority Act Minister of finance (Cap. 422) European Union Greenhouse Gas Minister responsible for finance Emissions Trading System for Aviation Regulations (S.L. 423.51) Occupational Health and Safety Minister responsible for finance Authority Act (Cap. 424) Malta Council for Economic and Minister of finance Social Development Act (Cap. 431) Malta Council for Economic and Minister responsible for finance Social Development Act (Cap. 431) Veterinary Service Act Minister responsible for finance (Cap. 437) Co-operative Societies Act Minister responsible for finance (Cap. 442) Cultural Heritage Act Minister responsible for finance (Cap. 445) Dwejra Opportunity Fund Minister for Finance Regulations (S.L. 445.06) Mutual Recognition of Qualifications Minister responsible for finance Act (Cap. 451) Consolidated area of Statutory title as set
 Related law
 responsibility out in related law
 Employment and Industrial Relations Minister of finance Act (Cap. 452) Sports Act Minister responsible for finance (Cap. 455) Equality for Men and Women Act Minister responsible for finance (Cap. 456) Medicines Act Minister responsible for finance (Cap. 458) Medicines Act Minister of finance (Cap. 458) European Union Act Minister responsible for finance (Cap. 460) Malta Enterprise Corporation Act Minister responsible for finance (Cap. 463) Malta Enterprise Corporation Act Minister of finance (Cap. 463) Maltese Language Act Minister responsible for finance (Cap. 470) Eco-Contribution Act Minister responsible for finance (Cap. 473) Eco-Contribution Act Minister of finance (Cap. 473) Mediation Act Minister responsible for finance (Cap. 474) National Archives Act Minister responsible for finance (Cap. 477) Malta Film Commission Act Minister responsible for finance (Cap. 478) Licensing of Private Maritime Minister responsible for finance Security Companies Regulations (S.L. 480.05) Euro Adoption Act Minister responsible for finance (Cap. 485) Administrative Justice Act Minister responsible for finance (Cap. 490) Voluntary Organisations Act Minister responsible for finance (Cap. 492) Authority for Transport in Malta Act Minister responsible for finance (Cap. 499) Government Borrowing and Minister responsible for finance Granting of Loans to the Hellenic Republic Act (Cap. 502) Consolidated area of Statutory title as set
@@ -629,9 +628,8 @@ Companies) Regulations partnerships
 (S.L. 234.42)
 Companies Act Minister responsible for the (Cap. 386) registration of commercial
 partnerships
-Resources Malta Resources Authority Act Minister responsible for
-(Cap. 423) resources
-Environment and Planning Review Minister responsible for the Tribunal Act Environment and Resources
+Resources Environment and Planning Review Minister responsible for the
+Tribunal Act Environment and Resources
 (Cap. 551) Authority
 Rights of Persons Equal Opportunities Minister responsible for with Disability (Persons with Disability) Act disability and the development
 (Cap. 413) of this sector
@@ -642,10 +640,9 @@ Spectrum (Empowerment) Act with disability
 (Cap. 557)
 Road Transport Code of Police Laws Minister responsible for
 (Cap. 10) transport
-Consolidated area of Statutory title as set
+Code of Police Laws Minister responsible for the (Cap. 10) Malta Transport Authority Consolidated area of Statutory title as set
 Related law
 responsibility out in related law
-Code of Police Laws Minister responsible for the (Cap. 10) Malta Transport Authority
 Traffic Regulation Ordinance Minister responsible for
 (Cap. 65) transport
 Motor Vehicles Insurance (Third Minister responsible for
@@ -676,12 +673,12 @@ Act transport
 New Roads and Road Works Minister responsible for the
 Regulations roads
 (Cap. 499.57)
-Building Regulation Act Minister responsible for roads (Cap. 513) Consolidated area of Statutory title as set
-Related law
-responsibility out in related law
+Building Regulation Act Minister responsible for roads (Cap. 513)
 Security Service Official Secrets Act Minister from time to time
 (Cap. 50) designated by the Prime
-Minister as being responsible for the security services
+Minister as being responsible for the security services Consolidated area of Statutory title as set
+Related law
+responsibility out in related law
 Security Service Act Minister from time to time (Cap. 391) designated as being responsible
 for the security service
 Licensing of Private Maritime Minister responsible for the Security Companies Regulations Security Services (S.L. 480.05)
@@ -701,15 +698,15 @@ Social Policy Code of Police Laws Minister responsible for social
 (Cap. 10) policy
 Civil Code Minister responsible for social
 (Cap. 16) policy
-Donated Supplies (Prohibition of Minister responsible for the Sale) Act Department of Social Services (Cap. 145) Consolidated area of Statutory title as set
-Related law
-responsibility out in related law
+Donated Supplies (Prohibition of Minister responsible for the Sale) Act Department of Social Services (Cap. 145)
 Children and Young Persons Minister responsible for social
 (Care Orders) Regulations policy
 (S.L. 285.01)
 Malta Council for Economic and Minister responsible for social
 Social Development Act policy
-(Cap. 431)
+(Cap. 431) Consolidated area of Statutory title as set
+Related law
+responsibility out in related law
 Mutual Recognition of Minister responsible for social
 Qualifications Act policy
 (Cap. 451)
@@ -736,12 +733,12 @@ Act responsible for the Department (Cap. 58) of Social Security
 Pensions Ordinance Minister from time to time (Cap. 93) responsible for the Department
 of Social Security
 Malta Armed Forces Act Minister from time to time (Cap. 220) responsible for the Department
-of Social Security Consolidated area of Statutory title as set
-Related law
-responsibility out in related law
+of Social Security
 Prisons Act Minister from time to time (Cap. 260) responsible for the Department
 of Social Security
-Members of Parliament Pensions Minister from time to time Act responsible for the Department (Cap. 280) of Social Security
+Members of Parliament Pensions Minister from time to time Act responsible for the Department (Cap. 280) of Social Security Consolidated area of Statutory title as set
+Related law
+responsibility out in related law
 Port Workers Ordinance Minister responsible for social
 (Cap. 171) security
 Social Security Act Minister from time to time in (Cap. 318) charge of the Department of
@@ -762,11 +759,11 @@ Trusts and Trustees (Tourism Minister responsible for
 Environmental Trust) Regulations Tourism
 (S.L. 331.09)
 Business Promotion Act Minister responsible for tourism (Cap. 325)
-National Minimum Conditions Minister responsible for tourism (Schools Teaching English as a Foreign Language) Regulations (S.L. 327.65) Consolidated area of Statutory title as set
+National Minimum Conditions Minister responsible for tourism (Schools Teaching English as a Foreign Language) Regulations (S.L. 327.65)
+Malta Travel and Tourism Services Minister responsible for tourism Act (Cap. 409)
+Malta Crafts Council Act Minister responsible for tourism (Cap. 421) Consolidated area of Statutory title as set
 Related law
 responsibility out in related law
-Malta Travel and Tourism Services Minister responsible for tourism Act (Cap. 409)
-Malta Crafts Council Act Minister responsible for tourism (Cap. 421)
 Cultural Heritage Act Minister responsible for tourism (Cap. 445)
 Mutual Recognition of Minister responsible for tourism Qualifications Act (Cap. 451)
 Environmental Management Minister responsible for tourism Construction Site Regulations (S.L. 552.09)
@@ -782,12 +779,12 @@ Cattle Breeding Ordinance Minister responsible for
 (Cap. 97) agriculture
 Veterinary Services Act Minister responsible for (Cap. 437) veterinary services
 Acceptance of Pure-Bred Breeding Minister responsible for Animals of the Bovine Species for veterinary affairs Breeding Purposes Regulations (S.L. 437.05)
-Food Safety Act Minister responsible for (Cap. 449) veterinary services Consolidated area of Statutory title as set
-Related law
-responsibility out in related law
+Food Safety Act Minister responsible for (Cap. 449) veterinary services
 Waste Management Eco-Contribution Act Minister responsible for waste
 (Cap. 473) management
-Welfare of Victims Victims of Crime Act Minister responsible for the of Crime (Cap. 539) welfare of victims of crime
+Welfare of Victims Victims of Crime Act Minister responsible for the of Crime (Cap. 539) welfare of victims of crime Consolidated area of Statutory title as set
+Related law
+responsibility out in related law
 Youth Youth Work Profession Act Minister responsible for youth
 (Cap. 533)
 Aġenzija Żgħażagħ (Establishment Minister responsible for as an Agency) Order Aġenzija Żgħażagħ (S.L. 595.02)

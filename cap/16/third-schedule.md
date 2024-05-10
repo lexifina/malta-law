@@ -280,7 +280,7 @@ Provided that any criminal punishments that may be established by regulations ma
 (i) the Malta-Libya Continental Shelf Delimitation (Ratification) Act;
 (j) the Continental Shelf Act;
 (k) the Territorial Waters and Contiguous Zone Act;
-(l) the Malta Resources Authority Act;
+(l) Repealed by Act XVII.2024.11.
 (m) the Fisheries Conservation and Management Act;
 (n) any regulations made, or guidelines or notices issued, under any of the above Acts;
 and other special laws which may be designated by the Minister responsible for Lands by notice in the Gazette, and such Minister may, from time to time, in consultation with the Minister designated in such laws, if different, make regulations to establish the operation of any of the provisions of such special laws in the light of the provisions of this Schedule so as to ensure the achievement of the aims of this Schedule and such laws and the compatible application thereof.
@@ -293,6 +293,7 @@ The amendments introduced by this Act shall apply to all the land in the public 
 - Added by: X.2009.37.
 - Amended by: L.N. 426 of 2012.
 - Added by: XXV.2016.5.
+- Amended by: XVII.2024.11.
 - See Cap. 158.
 - See Cap. 158.
 - See Cap. 16.
@@ -320,7 +321,6 @@ The amendments introduced by this Act shall apply to all the land in the public 
 - See Cap. 316.
 - See Cap. 535.
 - See Cap. 226.
-- See Cap. 423.
 - See Cap. 425.
 - See Cap. 56.
 - See Cap. 296.

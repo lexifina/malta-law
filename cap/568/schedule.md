@@ -13,7 +13,6 @@ Jobsplus
 Lands Authority
 Malta Competition and Consumer Affairs Authority
 INDIS Malta Ltd
-Malta Resources Authority
 Malta Tourism Authority
 Medicines Authority
 Occupational Health and Safety Authority
@@ -26,3 +25,4 @@ Water Services Corporation
 - Substituted by: L.N. 74 of 2018.
 - Amended by: L.N. 341 of 2018; L.N. 412 of 2020.
 - Substituted by: L.N. 269 of 2021.
+- Amended by: XVII.2024.28.
