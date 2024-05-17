@@ -29,8 +29,7 @@ provision of the service of legal aid in all areas where this is required Local 
 law, regulation or bye-law, the enforcement of which has been delegated to regional committees, local councils or to such other local or regional authorities as are designated by the Local Councils Act Community Malta To carry out functions and duties of Agency public administration relating to the
 process of application for citizenship for exceptional services in terms of the Maltese Citizenship Act and to cooperate with other Government agencies in all matters relating to
 citizenship
-Malta Council for To support the Government in the Science and Technology commercialisation of activities Agency relating to science, technology,
-research and innovation matters Malta Food Agency To deliver public services in relation
+Malta Food Agency To deliver public services in relation
 to food from farming and fisheries Malta International To be responsible for strengthening and Contemporary Art Space ensuring the achievement of the highest Agency quality in contemporary art National Agency for the To promote performing arts, provide Performing Arts national platforms for performing arts in
 Malta and serve as the organizational and administrative framework for the Żfin Malta Unit, the Teatru Malta Unit and the Kor Malta Unit, nurture regular audiences and establish new ones, and cultivate a sense of artistic culture
 among the people
@@ -61,5 +60,7 @@ environmental projects and projects which provide for the embellishment and crea
 research and development projects related to the aquaculture and fisheries
 industries
 Riżorsi Agrikoli Malta To regulate, administer and provide
-services related to agriculture resources
-- Amended by: XXVIII. 2018.42; L.N.121 of 2019; L.N. 192 of 2019; L.N. 197 of 2019; L.N. 2 of 2020; L.N. 194 of 2020; L.N. 344 of 2020; L.N. 418 of 2020; L.N. 436 of 2020; L.N. 445 of 2020; L.N. 453 of 2020; L.N. 7 of 2021; L.N. 124 of 2021; L.N. 399 of 2021; L.N. 412 of 2021; L.N. 254 of 2022; L.N. 367 of 2022; L.N. 31 of 2023; L.N. 117 of 2023; L.N. 283 of 2023; L.N. 284 of 2023.
+services related to agriculture resources Science Malta To support the Government in matters
+relating to science, technology, research
+and innovation.
+- Amended by: XXVIII. 2018.42; L.N.121 of 2019; L.N. 192 of 2019; L.N. 197 of 2019; L.N. 2 of 2020; L.N. 194 of 2020; L.N. 344 of 2020; L.N. 418 of 2020; L.N. 436 of 2020; L.N. 445 of 2020; L.N. 453 of 2020; L.N. 7 of 2021; L.N. 124 of 2021; L.N. 399 of 2021; L.N. 412 of 2021; L.N. 254 of 2022; L.N. 367 of 2022; L.N. 31 of 2023; L.N. 117 of 2023; L.N. 283 of 2023; L.N. 284 of 2023; L.N. 112 of 2024.
