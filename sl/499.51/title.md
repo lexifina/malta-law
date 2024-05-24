@@ -2,4 +2,4 @@ SUBSIDIARY LEGISLATION 499.51
 TRANSPORT ENFORCEMENT OFFICERS
 REGULATIONS
 1st September, 2008
-LEGAL NOTICE 40 of 2008, as amended by Legal Notice 156 of 2009; Act XV of 2009; and Legal Notices 258 of 2011, 93 of 2014, 333 of 2017, 159 and 319 of 2022.
+LEGAL NOTICE 40 of 2008, as amended by Legal Notice 156 of 2009; Act XV of 2009; and Legal Notices 258 of 2011, 93 of 2014, 333 of 2017, 159 and 319 of 2022 and 115 of 2024.
