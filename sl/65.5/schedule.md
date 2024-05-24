@@ -130,10 +130,11 @@ NO PARKING NO WAITING NO STOPPING
 (d) The first sign prohibits the use of acoustic signals by all motor vehicles, except in an emergency. Unless the sign is attached to the name plate of a built-up area (in which case the prohibition applies to the whole built-up area) the distance over which the prohibition extends may be indicated by means of a plate, of the type shown as No.(4) or (5) under paragraph G of this Part of the Schedule, appended to the sign. The second sign cancels the first one.
 (8) (9)
 NO HORN BLOWING END OF NO HORN BLOWING
-The sign indicating a TOW ZONE at No. (10) indicates that an encumbering object is parked or left unattended in a zone where it is liable to be towed away. The variable Police Station and telephone number thereof indicate, as the case may be, the procedures to be followed for the retrieval of the said object.
+(e) The sign indicating a TOW ZONE at No. (10) indicates that an encumbering object is parked or left unattended in a zone where it is liable to be towed away. A notice indicating the procedures to be followed for the retrieval of the said object shall be clearly indicated in the said notice.
 The sign indicating a CLAMPING ZONE at No. (11) indicates that a motor vehicle is parked or left unattended in a zone where it is liable to be clamped. A ticket indicating the procedures to be followed for the removal of the clamp will be affixed to the windscreen of the motor vehicles.
 In both cases, the zone is always indicated as a NO STOPPING area.
-(10) (11)
+(10)
+(11)
 (f) (12)
 SPEED ZONE
 (13)
@@ -152,13 +153,15 @@ NO WAITING EXCEPT FOR SCHOOL TRANSPORT
 (18)
 NO WAITING EXCEPT FOR LOADING AND UNLOADING
 MONDAY TO SATURDAY
-(FREEDOM ON SUNDAYS AND PUBLIC HOLIDAYS)
-(TIME VARIABLE) ONLY FOR COMMERCIAL VEHICLES
+(FREEDOM ON SUNDAYS AND PUBLIC HOLIDAYS) (TIME VARIABLE) ONLY FOR COMMERCIAL VEHICLES
 (19)
 NO WAITING BETWEEN 7.00 A.M. AND NOON
 (20)
 ALTERNATIVE "NO WAITING" SIGNS FOR ENVIRONMENTAL
 SENSITIVE AREAS
+(g) This sign No. (21), which shall be affixed near the electric vehicle charging stations, indicates that between 7.00am and 10.00pm only electric vehicles may be parked thereon for the purpose of charging, and for a maximum of thirty (30) minutes after the vehicle is fully charged, whereas any electric vehicle may be parked thereon without restrictions during the remaining hours:
+Provided that for the purposes of this provision, the term "electric vehicle" shall mean a Category M1 or N1 vehicle which is powered solely and exclusively by one or more electric motors, using electrical energy stored in batteries, which batteries are charged with an external electricity source, including Plugin hybrid vehicles and excluding electric motorcycles.
+(21)
 E. Mandatory - Operation
 These signs (or similar signs with a different symbol, words or figures) impose certain obligations on vehicles or other road users, as specified by the particular sign. They are placed slightly in advance, or at the point of commencement, of the obligation.
 (a) These signs impose an obligation on every vehicle on a minor road before entering the major road, to stop at the single transverse line and not to pass the single transverse line in such a manner or at such time as is likely to cause danger to any other vehicle on the major road or as to necessitate that such vehicle changes its speed or course in order to avoid a collision
@@ -259,7 +262,8 @@ ALL WEEK PLATE
 (j) This plate indicates that, during the time specified thereon, no stopping of vehicles is allowed on a road on which otherwise only the parking or waiting of vehicles is prohibited.
 (13)
 PEAK HOUR CLEARWAY
-(k) This plate signifies the category of vehicles affected by the provision of a sign conveying a definite instruction when such provisions are not absolute.
+(k) This plate signifies
+the category of vehicles affected by the provision of a sign conveying a definite instruction when such provisions are not absolute.
 (14)
 CATEGORY PLATE
 (l) This plate indicates the category of vehicles excluded from the provisions of a sign conveying a definite instruction.
@@ -309,7 +313,7 @@ TO THE LEFT TO THE RIGHT
 TAXI STAND ELECTRIC MINI CAB STAND
 (6A)
 KARROZZINI STAND
-(d) This sign conveys the information that the place is reserved for the parking of vehicles which have the Blue Badge displayed as provided for by the Parking Concessions for Persons with Disability Act (Cap. 560).
+(d) This sign conveys the information that the place is reserved for the parking of vehicles which have the Blue Badge displayed as provided for by the Parking Concessions for Persons with Disability Act (Cap. 560), and that vehicles which are parked in this place illegally shall be towed away without prior notice.
 (7)
 PARKING PLACE RESERVED FOR
 BLUE BADGE HOLDERS ONLY
@@ -464,4 +468,4 @@ PART V - INTERPRETATION
 For the purpose of this Schedule -
 "minor road" means a road at a road junction on which road there is placed a STOP sign or a GIVE WAY sign;
 "major road" means the road at a road junction into which road there emerges vehicular traffic from a minor road.
-- Amended by: L.N. 106 of 1970; L.N. 99 of 1974; L.N. 25 of 1978; L.N. 53 of 1979; L.N. 129 of 1990; L.N. 101 of 1997; L.N. 126 of 1999; L.N. 207 of 2000; L.N. 151 of 2009; L.N. 114 of 2011; L.N. 253 of 2011; L.N. 173 of 2018; L.N. 120 of 2019.
+- Amended by: L.N. 106 of 1970; L.N. 99 of 1974; L.N. 25 of 1978; L.N. 53 of 1979; L.N. 129 of 1990; L.N. 101 of 1997; L.N. 126 of 1999; L.N. 207 of 2000; L.N. 151 of 2009; L.N. 114 of 2011; L.N. 253 of 2011; L.N. 173 of 2018; L.N. 120 of 2019; L.N. 264 of 2022; L.N. 318 of 2022; L.N. 24 of 2023; L.N. 116 of 2024.
