@@ -37,10 +37,27 @@ vehicle for hire or reward and, or an N2 or N3 category motor vehicle or any oth
 similar device in the ear which is closest to the window whilst stationary in traffic and, or driving an M1, M2 or M3 category motor vehicle for 6-9 hire or reward and, or an N2 or N3 category motor vehicle or any other
 mechanically-propelled machinery for the carriage of goods;
 MS-9 Wearing or making use of an in-ear or over ear hands-free device or any
-similar device in both ears whilst stationary in traffic and, or driving any 6-9 motorcycle and or any e-kickscooter for hire or reward. Public Highway Offences PH-1 Exceeding speed limits signs or regulations for classification of road
+similar device in both ears whilst stationary in traffic and, or driving any 6-9 motorcycle and or any e-kickscooter for hire or reward. MS-10 Using or is found to be in possession of a Blue Badge which has expired
+3
+by more than twelve (12) months; MS-11 Using or is found to be in possession of a Blue Badge belonging to a
+3
+deceased holder; MS-12 Using a Blue Badge which is not for the immediate use of the holder
+3
+with or without the holder's knowledge or permission; MS-13 Using or allowing a Blue Badge to be used which has been reported
+3
+destroyed, lost or stolen; MS-14 Using or is found to be in possession of a tampered, copied, forged or
+3
+altered Blue Badge; MS-15 Displaying a Blue Badge on a vehicle of a person who is not entitled to
+3
+a Blue Badge; MS-16 Parking or leaving a vehicle unattended in a designated parking space
+3
+without displaying a valid Blue Badge. Public Highway Offences PH-1 Exceeding speed limits signs or regulations for classification of road
 3-6
 and type of vehicle PH-2 Contravention of pedestrian crossing regulations by a moving
 3-5
-vehicle Traffic Direction and Signs TS-1 Failure to comply with traffic light signals 3-5 TS-2 Failure to comply with double white lines 3-5 TS-3 Failure to comply with a traffic prohibitory direction sign 3-5 TS-4 Failure to comply with a sign which prohibits entry of vehicle into a
+vehicle Traffic Direction and Signs
+TS-1 Failure to comply with traffic light signals 3-5 TS-2 Failure to comply with double white lines 3-5 TS-3 Failure to comply with a traffic prohibitory direction sign 3-5 TS-4 Failure to comply with a sign which prohibits entry of vehicle into a
 3
-road or pedestrian zone TS-5 Failure to comply with a sign prohibiting vehicle overtaking 3-5 TS-6 Failure to comply with a 'Stop' sign 3-5 TS-7 Failure to comply with a traffic mandatory direction sign 3
+road or pedestrian zone
+TS-5 Failure to comply with a sign prohibiting vehicle overtaking 3-5 TS-6 Failure to comply with a 'Stop' sign 3-5 TS-7 Failure to comply with a traffic mandatory direction sign 3
+- Amended by: L.N. 25 of 2007; L.N.331 of 2017; L.N. 109 of; 2023; L.N. 114 of; 2024.

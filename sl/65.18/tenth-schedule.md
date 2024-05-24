@@ -12,3 +12,4 @@ Conduct by drivers leading to driving disqualifications
 - of a duration of six months or more,
 - of a duration of less than six months where that has been agreed
 bilaterally between the States concerned.
+- Substituted by: L.N. 25 of 2007.

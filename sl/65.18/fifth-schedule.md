@@ -135,3 +135,4 @@ posing a safety hazard, and have them remedied in an appropriate fashion;
 fatigue, poor eyesight, etc.) so as to retain full use of the faculties needed to drive safely;
 - Help ensure the safety of all road users, and in particular of the weakest
 and most exposed by showing due respect for others.
+- Amended by: L.N. 25 of 2009; L.N. 171 of 2011; L.N. 14 of 2014; L.N. 234 of 2015; L.N. 56 of 2016; L.N. 449 of 2020.
