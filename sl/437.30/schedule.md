@@ -1,10 +1,12 @@
 ## SCHEDULE
 ## Cachet de l'organisation, association ou service officiel et signature
 ## Organisation, association or official agency stamp and signature
-## Veterinary surgeon applying and/ or prescribing medicinal treatment Date of last treatment with a medicinal product containing substances not included in Annex I, II, III or IV of Regulation (EEC) No 2377/ 90
-## (1) (2) (3) or IV to Regulation (EEC) No 2377/ 90 and other substances. Recording of medicinal treatment in Part III - B is optional. The animal shall never be slaughtered for human consumption. (4) to Regulation (EEC) No 2377/ 90 and other substances excluding those listed in Annex IV to that Regulation. The animal can only be slaughtered for human consumption after the completion of the general withdrawal period of six months following the date of the last treatment, certified obligatory in Part III - B, with medicinal products containing substances other than those listed in Annex I, II or III to Regulation (EEC) No 2377/ 90. (5)
-## (6) period, if the specified substance is included in Annex I, II or III to Regulation (EEC) No 2377/ 90 after it was administered. The minimum withdrawal times would then be those established in Article 4 (4) of Directive 81/ 851/ EEC. (7) (8)
-## (9)
+## (1) Ce document doit être signé dans les 48 heures précédant le déplacement international de l'équidé
+## (1) This document must be signed within 48 hours prior to international transport of the equid.
+## Veterinary surgeon applying and/ Signature or prescribing medicinal treatment Date of last treatment with a medicinal product containing substances not included in Annex I, II, III or IV of Regulation (EEC) No 2377/ 90
+## (1) Identification number as indicated in Section II (1) of the identification document. (2) Delete what is not applicable. (3) The animal may be treated with medicinal products containing substances listed in Annex I, II, III or IV to Regulation (EEC) No 2377/ 90 and other substances. Recording of medicinal treatment in Part III - B is optional. The animal shall never be slaughtered for human consumption. (4) The animal may be treated with medicinal products containing substances listed in Annex I, II or III to Regulation (EEC) No 2377/ 90 and other substances excluding those listed in Annex IV to that Regulation. The animal can only be slaughtered for human consumption after the completion of the general withdrawal period of six months following the date of the last treatment, certified obligatory in Part III - B, with medicinal products containing substances other than those listed in Annex I, II or III to Regulation (EEC) No 2377/ 90. (5) Verify through published Annexes to Regulation (EEC) No 2377/ 90.
+## (6) This information is optional. However, this information may allow the reduction of the withdrawal period, if the specified substance is included in Annex I, II or III to Regulation (EEC) No 2377/ 90 after it was administered. The minimum withdrawal times would then be those established in Article 4 (4) of Directive 81/ 851/ EEC. (7) Name, address, postcode and place in printed letters. (8) Telephone number including country code and regional code.
+## (9) Not required where this Section is issued together with the identification document.
 # schedule
 Identification document for registered equidae
 PASSPORT
