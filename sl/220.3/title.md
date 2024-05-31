@@ -4,4 +4,4 @@ APPOINTMENTS AND CONDITIONS OF
 SERVICE OF THE REGULAR FORCE
 REGULATIONS
 29th September, 1970
-LEGAL NOTICE 91 of 1970, as amended by Legal Notices 37 of 1973, 20 and 98 of 1975, 42 of 1980, 54 of 1981, 36 and 64 of 1982, 45 of 1983, 10 and 14 of 1984, 47 of 1990, 139 of 1991, 130 of 1998, 13 of 1999, 227 of 2004, 411 of 2007, 58 and 227 of 2008, 127 of 2012, 66 of 2013, 61 of 2015 and 168 of 2016; and Act XLI of 2016 and Legal Notice 287 of 2018 and 272 of 2019, Act XXI of 2020 and Legal Notice 315 of 2023.
+LEGAL NOTICE 91 of 1970, as amended by Legal Notices 37 of 1973, 20 and 98 of 1975, 42 of 1980, 54 of 1981, 36 and 64 of 1982, 45 of 1983, 10 and 14 of 1984, 47 of 1990, 139 of 1991, 130 of 1998, 13 of 1999, 227 of 2004, 411 of 2007, 58 and 227 of 2008, 127 of 2012, 66 of 2013, 61 of 2015 and 168 of 2016; and Act XLI of 2016 and Legal Notice 287 of 2018 and 272 of 2019, Act XXI of 2020 and Legal Notices 315 of 2023 and 126 of 2024.

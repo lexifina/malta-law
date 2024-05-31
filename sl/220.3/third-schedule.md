@@ -42,7 +42,7 @@ pension granted in respect of injury shall not be taken into account; but where 
 (ii) personal allowance,
 (iii) one working trade allowance
 but does not include duty allowance, entertainment allowance, house allowance, the estimated annual rental value of free quarters,
-[S.L.220.03 OF SERVICE OF THE REGULAR FORCE 39
+[S.L.220.03 OF SERVICE OF THE REGULAR FORCE 41
 value of rations, extra remuneration, any fees paid out of the Treasury by way of salary or other emoluments whatsoever;
 "personal allowance" means a special addition granted personally to the holder for the time being of the office, but does not include such an addition if it is granted subject to the condition that it shall not be pensionable;
 "officer" and "man" mean an officer commissioned or a man enlisted in the force on or after 15 January, 1979;
@@ -63,7 +63,7 @@ Articles; and
 (b) any remuneration or income referred to in sub-article
 (1)(a), (b), or (c), or both such remuneration and
 income; and
-by subtracting therefrom the yearly sum of one hundred and sixteen euros and forty-seven cents (116.47). [S.L.220.03 40 OF SERVICE OF THE REGULAR FORCE
+by subtracting therefrom the yearly sum of one hundred and sixteen euros and forty-seven cents (116.47). [S.L.220.03 42 OF SERVICE OF THE REGULAR FORCE
 (3) Any reduction in the pension under sub-article (1) shall be
 calculated on the basis of the pension, the remuneration or other income, and the salary, receivable during a period of twelve months ending on 31st December of the year in which the reduction is due to be made, but, subject to any adjustments that may be or become necessary for any reason whatsoever, and in so far as practicable, shall be made from the monthly or other periodical payments of the pension.
 (4) Any officer or man to whom sub-article (1) applies shall
@@ -83,7 +83,7 @@ pension of an officer or man who has had a period of not less than three years' 
 (a) in the case of an officer or man who has held the same office for a period of three years immediately preceding the date of his retirement, the full annual pensionable emoluments enjoyed by him at that date in
 respect of that office shall be taken;
 (b) in the case of an officer or man who at any time during such period of three years has been posted from one
-[S.L.220.03 OF SERVICE OF THE REGULAR FORCE 41
+[S.L.220.03 OF SERVICE OF THE REGULAR FORCE 43
 office to another, but whose pensionable emoluments
 have not been changed by reason of such posting or
 postings otherwise than by the grant of any scale
@@ -126,7 +126,7 @@ payable throughout such period of three years.
 increase due to a revision of salaries in the pensionable
 emoluments of any office held by him as if such
 increase had been payable throughout such period; and
-(d) any periods during which he has been absent from duty [S.L.220.03 42 OF SERVICE OF THE REGULAR FORCE
+(d) any periods during which he has been absent from duty [S.L.220.03 44 OF SERVICE OF THE REGULAR FORCE
 on leave without salary, granted on grounds of public policy with the approval of the President, and during which he has not qualified for pension in respect of other public service.
 (4) In no circumstances shall the pensionable emoluments to
 be taken exceed the full annual pensionable emoluments enjoyed by the officer or man at the date of his retirement in respect of the office then held by him.
@@ -149,7 +149,7 @@ term "dismissal" shall be deemed to include termination of service in terms of r
 6. Where an officer or man has performed acting service in a
 pensionable office in the force, the period of such service may be taken into account as pensionable service under the Articles:
 Provided that -
-[S.L.220.03 OF SERVICE OF THE REGULAR FORCE 43
+[S.L.220.03 OF SERVICE OF THE REGULAR FORCE 45
 (a) the period of such acting service was not part of the
 pensionable service of the previous holder of the office
 and does not fall to be reckoned as part of the officer's
@@ -179,7 +179,7 @@ Articles.
 (d) has been duly certified by an Injuries Board composed
 of medical and other professionals and appointed by
 the Minister responsible for defence and including the
-Force's Principal medical officer, [S.L.220.03 44 OF SERVICE OF THE REGULAR FORCE
+Force's Principal medical officer, [S.L.220.03 46 OF SERVICE OF THE REGULAR FORCE
 such officer or man shall be entitled to pensionable emoluments as if he had completed the twenty-five years service.
 10. (1) Where an officer or man, without his own default, dies
 as a direct and immediate consequence of him having carried out the duties of his office, his pensionable emoluments shall be granted to:
@@ -197,7 +197,7 @@ short of the first degree of merit the computation may be made at lower rates.
 shall also be payable to the person of the force entitled thereto in other Member States of t]e European Comrnunity net of any taxes and transaction charges in accordance with Article 5 of Council Directive 98149/EC of the 29th June, 1998 on safeguarding the supplementary pension rights of employed and self-employed persons moving within the Community.
 13. Where any person of the force is posted in another Member
 State of the European Community, such person shall be entitled to receive adequate information as to the relative rights under rule 12.
-[S.L.220.03 OF SERVICE OF THE REGULAR FORCE 45
+[S.L.220.03 OF SERVICE OF THE REGULAR FORCE 47
 - Added by: L.N. 47 of 1990.
 - Amended by: L.N. 227 of 2004; L.N. 411 of 2007; L.N. 66 of 2013; L.N. 168 of 2016; XLI. 2016.39.
 - See S.L. 220.03.
