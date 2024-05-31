@@ -1,4 +1,4 @@
 SUBSIDIARY LEGISLATION 260.04
 PRISONS PENSIONS REGULATIONS
 20th April, 2001
-LEGAL NOTICE 88 of 2001, as amended by Legal Notices 423 of 2007, 5 of 2008 and 169 of 2016 and Act XLI of 2016 and Legal Notice 313 of 2023.
+LEGAL NOTICE 88 of 2001, as amended by Legal Notices 423 of 2007, 5 of 2008 and 169 of 2016 and Act XLI of 2016 and Legal Notices 313 of 2023 and 125 of 2024.
