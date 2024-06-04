@@ -87,4 +87,3 @@ When assessing the resolvability of a group, references to an institution shall 
 (26) the extent to which the resolution of the institution could have a significant direct or indirect adverse effect on the financial system, market confidence or the economy;
 (27) the extent to which contagion to other institutions or to the financial markets could be contained through the application of the resolution tools and powers;
 (28) the extent to which the resolution of the institution could have a significant effect on the operation of payment and settlement systems.
-- Amended by: L.N. 6 of 2021.
