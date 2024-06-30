@@ -1,6 +1,6 @@
 SUBSIDIARY LEGISLATION 590.01
 VIRTUAL FINANCIAL ASSETS REGULATIONS
 1st November, 2018
-LEGAL NOTICE 357 of 2018, as amended by Legal Notice 25 and 332 of 2022 and 134 of 2024.
+LEGAL NOTICE 357 of 2018, as amended by Legal Notice 25 and 332 of 2022 and 134 and 296 of 2024.
 Part I
 Preliminary
