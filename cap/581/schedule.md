@@ -14,7 +14,7 @@ Having regard to the Rome Statute of the International Criminal Court (2002);
 Recalling the basic principles of international humanitarian law, and especially the Geneva Convention (IV) relative to the Protection of Civilian Persons in Time of War (1949) and the Additional Protocols I and II (1977) thereto;
 Condemning all forms of violence against women and domestic violence;
 Recognising that the realisation of de jure and de facto equality between women and men is a key element in the prevention of violence against women;
-DOMESTIC VIOLENCE [CAP. 581. 14
+[CAP. 581. DOMESTIC VIOLENCE 15
 Recognising that violence against women is a manifestation of historically unequal power relations between women and men, which have led to domination over, and discrimination against, women by men and to the prevention of the full advancement of women;
 Recognising the structural nature of violence against women as gender-based violence, and that violence against women is one of the crucial social mechanisms by which women are forced into a subordinate position compared with men;
 Recognising, with grave concern, that women and girls are often exposed to serious forms of violence such as domestic violence, sexual harassment, rape, forced marriage, crimes committed in the name of so-called "honour" and genital mutilation, which constitute a serious violation of the human rights of women and girls and a major obstacle to the achievement of equality between women and men;
@@ -34,7 +34,7 @@ b contribute to the elimination of all forms of discrimination against
 women and promote substantive equality between women and men, including by empowering women;
 c design a comprehensive framework, policies and measures for the
 protection of and assistance to all victims of violence against women and domestic violence;
-[CAP. 581. DOMESTIC VIOLENCE 15
+DOMESTIC VIOLENCE [CAP. 581. 16
 d promote international co-operation with a view to eliminating
 violence against women and domestic violence;
 e provide support and assistance to organisations and law
@@ -57,7 +57,7 @@ directed against a woman because she is a woman or that affects women disproport
 e "victim" shall mean any natural person who is subject to the
 conduct specified in points a and b;
 f "women" includes girls under the age of 18.
-DOMESTIC VIOLENCE [CAP. 581. 16
+[CAP. 581. DOMESTIC VIOLENCE 17
 Article 4 - Fundamental rights, equality and non-discrimination
 1. Parties shall take the necessary legislative and other measures to promote and protect the right for everyone, particularly women, to live free from violence in both the public and the private sphere.
 2. Parties condemn all forms of discrimination against women and take, without delay, the necessary legislative and other measures to prevent it, in particular by:
@@ -73,7 +73,7 @@ Article 5 - State obligations and due diligence
 2. Parties shall take the necessary legislative and other measures to exercise due diligence to prevent, investigate, punish and provide reparation for acts of violence covered by the scope of this Convention that are perpetrated by non-State actors.
 Article 6 - Gender-sensitive policies
 Parties shall undertake to include a gender perspective in the implementation and evaluation of the impact of the provisions of this Convention and to promote and effectively implement policies of equality between women and men and the empowerment of women.
-[CAP. 581. DOMESTIC VIOLENCE 17
+DOMESTIC VIOLENCE [CAP. 581. 18
 Chapter II - Integrated policies and data collection
 Article 7 - Comprehensive and co-ordinated policies
 1. Parties shall take the necessary legislative and other measures to adopt and implement State-wide effective, comprehensive and co-ordinated policies encompassing all relevant measures to prevent and combat all forms of violence covered by the scope of this Convention and offer a holistic response to violence against women.
@@ -89,7 +89,7 @@ Article 10 - Co-ordinating body
 3. Parties shall ensure that the bodies designated or established pursuant to this Article shall have the capacity to communicate directly and foster relations with their counterparts in other Parties.
 Article 11 - Data collection and research
 1. For the purpose of the implementation of this Convention, Parties shall
-DOMESTIC VIOLENCE [CAP. 581. 18
+[CAP. 581. DOMESTIC VIOLENCE 19
 undertake to:
 a collect disaggregated relevant statistical data at regular intervals
 on cases of all forms of violence covered by the scope of this Convention;
@@ -106,7 +106,7 @@ Article 12 - General obligations
 4. Parties shall take the necessary measures to encourage all members of society, especially men and boys, to contribute actively to preventing all forms of violence covered by the scope of this Convention.
 5. Parties shall ensure that culture, custom, religion, tradition or so-called "honour" shall not be considered as justification for any acts of violence covered by the scope of this Convention.
 6. Parties shall take the necessary measures to promote programmes and activities for the empowerment of women.
-[CAP. 581. DOMESTIC VIOLENCE 19
+DOMESTIC VIOLENCE [CAP. 581. 20
 Article 13 - Awareness-raising
 1. Parties shall promote or conduct, on a regular basis and at all levels, awareness-raising campaigns or programmes, including in co-operation with national human rights institutions and equality bodies, civil society and non-governmental organisations, especially women's organisations, where appropriate, to increase awareness and understanding among the general public of the different manifestations of all forms of violence covered by the scope of this Convention, their consequences on children and the need to prevent such violence.
 2. Parties shall ensure the wide dissemination among the general public of information on measures available to prevent acts of violence covered by the scope of this Convention.
@@ -119,7 +119,7 @@ Article 15 - Training of professionals
 Article 16 - Preventive intervention and treatment programmes
 1. Parties shall take the necessary legislative or other measures to set up or support programmes aimed at teaching perpetrators of domestic violence to adopt non-violent behaviour in interpersonal relationships with a view to preventing further violence and changing violent behavioural patterns.
 2. Parties shall take the necessary legislative or other measures to set up or support treatment programmes aimed at preventing perpetrators, in particular sex offenders, from re-offending.
-DOMESTIC VIOLENCE [CAP. 581. 20
+[CAP. 581. DOMESTIC VIOLENCE 21
 3. In taking the measures referred to in paragraphs 1 and 2, Parties shall ensure that the safety of, support for and the human rights of victims are of primary concern and that, where appropriate, these programmes are set up and implemented in close co-ordination with specialist support services for victims.
 Article 17 - Participation of the private sector and the media
 1. Parties shall encourage the private sector, the information and communication technology sector and the media, with due respect for freedom of expression and their independence, to participate in the elaboration and implementation of policies and to set guidelines and self-regulatory standards to prevent violence against women and to enhance respect for their dignity.
@@ -137,7 +137,7 @@ relationship between victims, perpetrators, children and their wider social envi
 - aim at the empowerment and economic independence of women
 victims of violence;
 - allow, where appropriate, for a range of protection and support
-[CAP. 581. DOMESTIC VIOLENCE 21
+DOMESTIC VIOLENCE [CAP. 581. 22
 services to be located on the same premises;
 - address the specific needs of vulnerable persons, including child
 victims, and be made available to them.
@@ -155,7 +155,7 @@ Article 22 - Specialist support services
 2. Parties shall provide or arrange for specialist women's support services to all women victims of violence and their children.
 Article 23 - Shelters
 Parties shall take the necessary legislative or other measures to provide for the
-DOMESTIC VIOLENCE [CAP. 581. 22
+[CAP. 581. DOMESTIC VIOLENCE 23
 setting-up of appropriate, easily accessible shelters in sufficient numbers to provide safe accommodation for and to reach out pro-actively to victims, especially women and their children.
 Article 24 - Telephone helplines
 Parties shall take the necessary legislative or other measures to set up state-wide round-the-clock (24/7) telephone helplines free of charge to provide advice to callers, confidentially or with due regard for their anonymity, in relation to all forms of violence covered by the scope of this Convention.
@@ -171,7 +171,7 @@ Parties shall take the necessary measures to ensure that the confidentiality rul
 Chapter V - Substantive law
 Article 29 - Civil lawsuits and remedies
 1. Parties shall take the necessary legislative or other measures to provide victims with adequate civil remedies against the perpetrator.
-[CAP. 581. DOMESTIC VIOLENCE 23
+DOMESTIC VIOLENCE [CAP. 581. 24
 2. Parties shall take the necessary legislative or other measures to provide victims, in accordance with the general principles of international law, with adequate civil remedies against State authorities that have failed in their duty to take the necessary preventive or protective measures within the scope of their powers.
 Article 30 - Compensation
 1. Parties shall take the necessary legislative or other measures to ensure that victims have the right to claim compensation from perpetrators for any of the offences established in accordance with this Convention.
@@ -186,7 +186,7 @@ Article 33 - Psychological violence
 Parties shall take the necessary legislative or other measures to ensure that the intentional conduct of seriously impairing a person's psychological integrity through coercion or threats is criminalised.
 Article 34 - Stalking
 Parties shall take the necessary legislative or other measures to ensure that the intentional conduct of repeatedly engaging in threatening conduct directed at another person, causing her or him to fear for her or his safety, is criminalised.
-DOMESTIC VIOLENCE [CAP. 581. 24
+[CAP. 581. DOMESTIC VIOLENCE 25
 Article 35 - Physical violence
 Parties shall take the necessary legislative or other measures to ensure that the intentional conduct of committing acts of physical violence against another person is criminalised.
 Article 36 - Sexual violence, including rape
@@ -210,7 +210,7 @@ b coercing or procuring a woman to undergo any of the acts listed in
 point a;
 c inciting, coercing or procuring a girl to undergo any of the acts
 listed in point a.
-[CAP. 581. DOMESTIC VIOLENCE 25
+DOMESTIC VIOLENCE [CAP. 581. 26
 Article 39 - Forced abortion and forced sterilisation
 Parties shall take the necessary legislative or other measures to ensure that the following intentional conducts are criminalised:
 a performing an abortion on a woman without her prior and
@@ -228,7 +228,7 @@ name of so-called "honour"
 2. Parties shall take the necessary legislative or other measures to ensure that incitement by any person of a child to commit any of the acts referred to in paragraph 1 shall not diminish the criminal liability of that person for the acts committed.
 Article 43 - Application of criminal offences
 The offences established in accordance with this Convention shall apply irrespective of the nature of the relationship between victim and perpetrator.
-DOMESTIC VIOLENCE [CAP. 581. 26
+[CAP. 581. DOMESTIC VIOLENCE 27
 Article 44 - Jurisdiction
 1. Parties shall take the necessary legislative or other measures to establish jurisdiction over any offence established in accordance with this Convention, when the offence is committed:
 a in their territory; or
@@ -242,7 +242,7 @@ e by a person who has her or his habitual residence in their territory.
 5. Parties shall take the necessary legislative or other measures to establish jurisdiction over the offences established in accordance with this Convention, in cases where an alleged perpetrator is present on their territory and they do not extradite her or him to another Party, solely on the basis of her or his nationality.
 6. When more than one Party claims jurisdiction over an alleged offence established in accordance with this Convention, the Parties involved shall, where appropriate, consult each other with a view to determining the most appropriate jurisdiction for prosecution.
 7. Without prejudice to the general rules of international law, this Convention does not exclude any criminal jurisdiction exercised by a Party in accordance with its internal law.
-[CAP. 581. DOMESTIC VIOLENCE 27
+DOMESTIC VIOLENCE [CAP. 581. 28
 Article 45 - Sanctions and measures
 1. Parties shall take the necessary legislative or other measures to ensure that the offences established in accordance with this Convention are punishable by effective, proportionate and dissuasive sanctions, taking into account their seriousness. These sanctions shall include, where appropriate, sentences involving the deprivation of liberty which can give rise to extradition.
 2. Parties may adopt other measures in relation to perpetrators, such as:
@@ -265,7 +265,7 @@ h the offence resulted in severe physical or psychological harm for
 the victim;
 i the perpetrator had previously been convicted of offences of a
 similar nature.
-DOMESTIC VIOLENCE [CAP. 581. 28
+[CAP. 581. DOMESTIC VIOLENCE 29
 Article 47 - Sentences passed by another Party
 Parties shall take the necessary legislative or other measures to provide for the possibility of taking into account final sentences passed by another Party in relation to the offences established in accordance with this Convention when determining the sentence.
 Article 48 -Prohibition of mandatory alternative dispute resolution processes or
@@ -279,7 +279,7 @@ Article 49 - General obligations
 Article 50 - Immediate response, prevention and protection
 1. Parties shall take the necessary legislative or other measures to ensure that the responsible law enforcement agencies respond to all forms of violence covered by the scope of this Convention promptly and appropriately by offering adequate and immediate protection to victims.
 2. Parties shall take the necessary legislative or other measures to ensure that the responsible law enforcement agencies engage promptly and appropriately in the prevention and protection against all forms of violence covered by the scope of this Convention, including the employment of preventive operational measures and the collection of evidence.
-[CAP. 581. DOMESTIC VIOLENCE 29
+DOMESTIC VIOLENCE [CAP. 581. 30
 Article 51 - Risk assessment and risk management
 1. Parties shall take the necessary legislative or other measures to ensure that an assessment of the lethality risk, the seriousness of the situation and the risk of repeated violence is carried out by all relevant authorities in order to manage the risk and if necessary to provide co-ordinated safety and support.
 2. Parties shall take the necessary legislative or other measures to ensure that the assessment referred to in paragraph 1 duly takes into account, at all stages of the investigation and application of protective measures, the fact that perpetrators of acts of violence covered by the scope of this Convention possess or have access to firearms.
@@ -298,7 +298,7 @@ effect;
 3. Parties shall take the necessary legislative or other measures to ensure that breaches of restraining or protection orders issued pursuant to paragraph 1 shall be subject to effective, proportionate and dissuasive criminal or other legal sanctions.
 Article 54 - Investigations and evidence
 Parties shall take the necessary legislative or other measures to ensure that, in any civil or criminal proceedings, evidence relating to the sexual history and conduct of the victim shall be permitted only when it is relevant and necessary.
-DOMESTIC VIOLENCE [CAP. 581. 30
+[CAP. 581. DOMESTIC VIOLENCE 31
 Article 55 - Ex parte and ex officio proceedings
 1. Parties shall ensure that investigations into or prosecution of offences established in accordance with Articles 35, 36, 37, 38 and 39 of this Convention shall not be wholly dependant upon a report or complaint filed by a victim if the offence was committed in whole or in part on its territory, and that the proceedings may continue even if the victim withdraws her or his statement or complaint.
 2. Parties shall take the necessary legislative or other measures to ensure, in accordance with the conditions provided for by their internal law, the possibility for governmental and non-governmental organisations and domestic violence counsellors to assist and/or support victims, at their request, during investigations and judicial proceedings concerning the offences established in accordance with this Convention.
@@ -322,7 +322,7 @@ h providing victims with independent and competent interpreters
 when victims are parties to proceedings or when they are supplying evidence;
 i enabling victims to testify, according to the rules provided by their
 internal law, in the courtroom without being present or at least without the
-[CAP. 581. DOMESTIC VIOLENCE 31
+DOMESTIC VIOLENCE [CAP. 581. 32
 presence of the alleged perpetrator, notably through the use of appropriate communication technologies, where available.
 2. A child victim and child witness of violence against women and domestic violence shall be afforded, where appropriate, special protection measures taking into account the best interests of the child.
 Article 57 - Legal aid
@@ -339,7 +339,7 @@ necessary owing to their personal situation;
 b where the competent authority considers that their stay is
 necessary for the purpose of their co-operation with the competent authorities in investigation or criminal proceedings.
 4. Parties shall take the necessary legislative or other measures to ensure that victims of forced marriage brought into another country for the purpose of the marriage
-DOMESTIC VIOLENCE [CAP. 581. 32
+[CAP. 581. DOMESTIC VIOLENCE 33
 and who, as a result, have lost their residence status in the country where they habitually reside, may regain this status.
 Article 60 - Gender-based asylum claims
 1. Parties shall take the necessary legislative or other measures to ensure that gender-based violence against women may be recognised as a form of persecution within the meaning of Article 1, A (2), of the 1951 Convention relating to the Status of Refugees and as a form of serious harm giving rise to complementary/subsidiary protection.
@@ -356,7 +356,7 @@ covered by the scope of this Convention;
 b protecting and providing assistance to victims;
 c investigations or proceedings concerning the offences established
 in accordance with this Convention;
-[CAP. 581. DOMESTIC VIOLENCE 33
+DOMESTIC VIOLENCE [CAP. 581. 34
 d enforcing relevant civil and criminal judgments issued by the
 judicial authorities of Parties, including protection orders.
 2. Parties shall take the necessary legislative or other measures to ensure that victims of an offence established in accordance with this Convention and committed in the territory of a Party other than the one where they reside may make a complaint before the competent authorities of their State of residence.
@@ -368,7 +368,7 @@ Article 64 - Information
 1. The requested Party shall promptly inform the requesting Party of the final result of the action taken under this chapter. The requested Party shall also promptly inform the requesting Party of any circumstances which render impossible the carrying out of the action sought or are likely to delay it significantly.
 2. A Party may, within the limits of its internal law, without prior request, forward to another Party information obtained within the framework of its own investigations when it considers that the disclosure of such information might assist the receiving Party in preventing criminal offences established in accordance with this Convention or in initiating or carrying out investigations or proceedings concerning such criminal offences or that it might lead to a request for co-operation by that Party under this chapter.
 3. A Party receiving any information in accordance with paragraph 2 shall submit such information to its competent authorities in order that proceedings may be taken if they are considered appropriate, or that this information may be taken into
-DOMESTIC VIOLENCE [CAP. 581. 34
+[CAP. 581. DOMESTIC VIOLENCE 35
 account in relevant civil and criminal proceedings.
 Article 65 - Data Protection
 Personal data shall be stored and used pursuant to the obligations undertaken by the Parties under the Convention for the Protection of Individuals with regard to Automatic Processing of Personal Data (ETS No. 108).
@@ -388,7 +388,7 @@ violence against women and domestic violence;
 e they shall sit in their individual capacity and shall be independent
 and impartial in the exercise of their functions, and shall be available to carry out their duties in an effective manner.
 5. The election procedure of the members of GREVIO shall be determined by the Committee of Ministers of the Council of Europe, after consulting with and obtaining the unanimous consent of the Parties, within a period of six months following the entry into force of this Convention.
-[CAP. 581. DOMESTIC VIOLENCE 35
+DOMESTIC VIOLENCE [CAP. 581. 36
 6. GREVIO shall adopt its own rules of procedure.
 7. Members of GREVIO, and other members of delegations carrying out the country visits as set forth in Article 68, paragraphs 9 and 14, shall enjoy the privileges and immunities established in the appendix to this Convention.
 Article 67 - Committee of the Parties
@@ -403,7 +403,7 @@ Article 68 - Procedure
 5. GREVIO may receive information on the implementation of the Convention from non-governmental organisations and civil society, as well as from national institutions for the protection of human rights.
 6. GREVIO shall take due consideration of the existing information available from other regional and international instruments and bodies in areas falling within the scope of this Convention.
 7. When adopting a questionnaire for each evaluation round, GREVIO shall take due consideration of the existing data collection and research in the Parties as
-DOMESTIC VIOLENCE [CAP. 581. 36
+[CAP. 581. DOMESTIC VIOLENCE 37
 referred to in Article 11 of this Convention.
 8. GREVIO may receive information on the implementation of the Convention from the Council of Europe Commissioner for Human Rights, the Parliamentary Assembly and relevant specialised bodies of the Council of Europe, as well as those established under other international instruments. Complaints presented to these bodies and their outcome will be made available to GREVIO.
 9. GREVIO may subsidiarily organise, in co-operation with the national authorities and with the assistance of independent national experts, country visits, if the information gained is insufficient or in cases provided for in paragraph 14. During these visits, GREVIO may be assisted by specialists in specific fields.
@@ -413,7 +413,7 @@ referred to in Article 11 of this Convention.
 13. If GREVIO receives reliable information indicating a situation where problems require immediate attention to prevent or limit the scale or number of serious violations of the Convention, it may request the urgent submission of a special report concerning measures taken to prevent a serious, massive or persistent pattern of violence against women.
 14. Taking into account the information submitted by the Party concerned, as well as any other reliable information available to it, GREVIO may designate one or more of its members to conduct an inquiry and to report urgently to GREVIO. Where warranted and with the consent of the Party, the inquiry may include a visit to its territory.
 15. After examining the findings of the inquiry referred to in paragraph 14, GREVIO shall transmit these findings to the Party concerned and, where appropriate, to the Committee of the Parties and the Committee of Ministers of the Council of Europe together with any comments and recommendations.
-[CAP. 581. DOMESTIC VIOLENCE 37
+DOMESTIC VIOLENCE [CAP. 581. 38
 Article 69 - General recommendations
 GREVIO may adopt, where appropriate, general recommendations on the implementation of this Convention.
 Article 70 - Parliamentary involvement in monitoring
@@ -430,7 +430,7 @@ Article 72 - Amendments
 2. The Committee of Ministers of the Council of Europe shall consider the proposed amendment and, after having consulted the Parties to this Convention that are not members of the Council of Europe, may adopt the amendment by the majority provided for in Article 20.d of the Statute of the Council of Europe.
 3. The text of any amendment adopted by the Committee of Ministers in accordance with paragraph 2 shall be forwarded to the Parties for acceptance.
 4. Any amendment adopted in accordance with paragraph 2 shall enter into force on the first day of the month following the expiration of a period of one month after the date on which all Parties have informed the Secretary General of their acceptance.
-DOMESTIC VIOLENCE [CAP. 581. 38
+[CAP. 581. DOMESTIC VIOLENCE 39
 Chapter XII - Final clauses
 Article 73 - Effects of this Convention
 The provisions of this Convention shall not prejudice the provisions of internal law and binding international instruments which are already in force or may come into force, under which more favourable rights are or would be accorded to persons in preventing and combating violence against women and domestic violence.
@@ -444,7 +444,7 @@ Article 75 - Signature and entry into force
 4. In respect of any State referred to in paragraph 1 or the European Union, which subsequently expresses its consent to be bound by it, the Convention shall enter into force on the first day of the month following the expiration of a period of three months after the date of the deposit of its instrument of ratification, acceptance or approval.
 Article 76 - Accession to the Convention
 1. After the entry into force of this Convention, the Committee of Ministers of the Council of Europe may, after consultation of the Parties to this Convention and obtaining their unanimous consent, invite any non-member State of the Council of Europe, which has not participated in the elaboration of the Convention, to accede to this Convention by a decision taken by the majority provided for in Article 20.d of the Statute of the Council of Europe, and by unanimous vote of the representatives of the
-[CAP. 581. DOMESTIC VIOLENCE 39
+DOMESTIC VIOLENCE [CAP. 581. 40
 Parties entitled to sit on the Committee of Ministers.
 2. In respect of any acceding State, the Convention shall enter into force on the first day of the month following the expiration of a period of three months after the date of deposit of the instrument of accession with the Secretary General of the Council of Europe.
 Article 77 - Territorial application
@@ -460,7 +460,7 @@ Article 55, paragraph 1 in respect of Article 35 regarding minor offences;
 Article 58 in respect of Articles 37, 38 and 39;
 Article 59.
 3. Any State or the European Union may, at the time of signature or when
-DOMESTIC VIOLENCE [CAP. 581. 40
+[CAP. 581. DOMESTIC VIOLENCE 41
 depositing its instrument of ratification, acceptance, approval or accession, by a declaration addressed to the Secretary General of the Council of Europe, declare that it reserves the right to provide for non-criminal sanctions, instead of criminal sanctions, for the behaviours referred to in Articles 33 and 34.
 4. Any Party may wholly or partly withdraw a reservation by means of a declaration addressed to the Secretary General of the Council of Europe. This declaration shall become effective as from its date of receipt by the Secretary General.
 Article 79 - Validity and review of reservations
@@ -475,7 +475,7 @@ The Secretary General of the Council of Europe shall notify the member States of
 a any signature;
 b the deposit of any instrument of ratification, acceptance, approval
 or accession;
-[CAP. 581. DOMESTIC VIOLENCE 41
+DOMESTIC VIOLENCE [CAP. 581. 42
 c any date of entry into force of this Convention in accordance with
 Articles 75 and 76;
 d any amendment adopted in accordance with Article 72 and the date
