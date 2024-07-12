@@ -1,4 +1,4 @@
 SUBSIDIARY LEGISLATION 296.01
 LAND REGISTRATION RULES
 1st March, 1982
-LEGAL NOTICE 15 of 1982, as amended by Legal Notices 55 of 1982, 7 of 1985, 212 of 1990, 12 and 83 of 1995, 105 of 2008 and 88 of 2015 and 257 of 2019.
+LEGAL NOTICE 15 of 1982, as amended by Legal Notices 55 of 1982, 7 of 1985, 212 of 1990, 12 and 83 of 1995, 105 of 2008 and 88 of 2015 and 257 of 2019 and 156 of 2024.
