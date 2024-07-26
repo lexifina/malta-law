@@ -7,6 +7,6 @@ CHAPTER 542
 ARTS COUNCIL MALTA ACT
 To provide for the establishment of a Council to be known as Arts Council Malta to encourage and promote the culture and creative sectors within a wide perspective of socio-economic activity, and to make provision with respect to matters ancillary thereto or connected therewith.
 29th May, 2015*
-ACT XV of 2015, as amended by Legal Notices 75 of 2017 and 138 of 2019, 286 of 2022 and 118 of 2023.
+ACT XV of 2015, as amended by Legal Notices 75 of 2017 and 138 of 2019, 286 of 2022 and 118 of 2023 and 170 of 2024.
 PART I
 Preliminary
