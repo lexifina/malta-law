@@ -47,7 +47,7 @@ The theoretical instruction must be weighted and coordinated with the clinical i
 Part 2
 Study programme for dental practitioners
 The programme of studies leading to evidence of formal qualifications in dentistry shall include at least the following subjects.
-[S.L.451.04 10 (HEALTH CARE PROFESSIONS)
+[S.L.451.04 (HEALTH CARE PROFESSIONS) 11
 One or more of these subjects may be taught in the context of the other disciplines or in conjunction therewith.
 A. Basic subjects B. Medico-biological c. Subjects directly
 subjects and general related to dentistry
@@ -82,16 +82,20 @@ The training programme for obtaining evidence of formal qualifications in midwif
 A. Theoretical and technical instruction
 a. General subjects b. Subjects specific to the activities
 of midwives
-[S.L.451.04 (HEALTH CARE PROFESSIONS) 11
 - Basic anatomy and physiology - Anatomy and physiology
 - Basic pathology - Embryology and development of
-the foetus - Basic bacteriology, virology and
+the foetus
+- Basic bacteriology, virology and
 parasitology - Pregnancy, childbirth and
-puerperium - Basic biophysics, biochemistry and
+puerperium
+- Basic biophysics, biochemistry and
 radiology - Gynaecological and obstetrical
-pathology - Paediatrics, with particular
+pathology
+- Paediatrics, with particular
 reference to new-born infant - Preparation for childbirth and
-parenthood, including psychological aspects - Hygiene, health education, - Preparation for delivery
+parenthood, including psychological aspects
+[S.L.451.04 12 (HEALTH CARE PROFESSIONS)
+- Hygiene, health education, - Preparation for delivery
 preventive medicine, early (including knowledge and use of diagnosis of diseases technical equipment in obstetrics)
 - Nutrition and dietetics, with - Analgesia, anaesthesia and
 particular reference to women, resuscitation new-born and young babies
@@ -119,7 +123,6 @@ because of lack of breech deliveries, practice may be in a simulated situation.
 - Performance of episiotomy and initiation into suturing. Initiation shall
 include theoretical instruction and clinical practice.
 The practice of suturing includes suturing of the wound following an episiotomy and a simple perineal laceration. This may be in a simulated situation if absolutely necessary.
-[S.L.451.04 12 (HEALTH CARE PROFESSIONS)
 - Supervision and care of 40 women at risk in pregnancy, or labour or
 post-natal period.
 - Supervision and care (including examination) of at least 100 post-natal
@@ -129,6 +132,7 @@ those born pre-term, post-term, underweight or ill.
 - Care of women with pathological conditions in the fields of
 gynaecology and obstetrics.
 - Initiation into care in the field of medicine and surgery. Initiation shall
+[S.L.451.04 (HEALTH CARE PROFESSIONS) 13
 include theoretical instruction and clinical practice.
 The theoretical and technical training (Part A of the training programme) shall be balanced and coordinated with the clinical training (Part B of the same programme) in such a way that the knowledge and experience listed in this Schedule may be acquired in an adequate manner.
 Clinical instruction shall take the form of supervised in-service training in hospital departments or other health services approved by the competent authorities or bodies. As part of this training, student midwives shall participate in the activities of the departments concerned insofar as those activities contribute to their training. They shall be taught the responsibilities involved in the activities of midwives.
