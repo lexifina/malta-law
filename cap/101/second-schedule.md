@@ -1,5 +1,5 @@
 ## SECOND SCHEDULE
-## §Strike out words not applicable. * Strike out words not applicable.
+## *Strike out words not applicable. † Strike out words not applicable.
 ## *Insert name and full postal address of importer. †Insert name and full postal address of exporter.
 ## Signature and stamp of Comptroller of Customs
 # second-schedule
@@ -18,7 +18,7 @@ subject to the conditions that -
 (ii) the consignment shall be imported in one consignment; and
 (iii) if the importation of all the drugs specified above is not effected before the date specified in condition No. (i) this authorization shall be surrendered forthwith to the Chief Government Medical Officer
 and that I am satisfied that the consignment proposed to be imported is required -
-§for legitimate purposes (in the case of raw opium or (1) the coca leaf).
+*for legitimate purposes (in the case of raw opium or (1) the coca leaf).
 §solely for medicinal or scientific purposes (in the (2) case of dangerous drugs other than raw opium and coca leaf).
 (Date).............................
 (Signature and stamp of the
@@ -35,7 +35,7 @@ EXPORT AUTHORIZATION
 In pursuance of the Dangerous Drugs Ordinance (Chapter 101), the Chief Government Medical Officer hereby authorizes
 (hereinafter called "the exporter")
 to export from -
-(1) * the port of by s. s.
+(1) † the port of by s. s.
 (2) * Malta by Parcel Post in parcels from the to in virtue of import Certificate No. dated issued by the following drugs, namely:
 This authorization is issued subject to the following conditions:
 1. This authorization is not a licence to obtain or to be in possession of the drugs named herein.
