@@ -1,4 +1,5 @@
 ## SCHEDULE I
+## * To facilitate the identification of the person as much information as possible is to be provided.
 # schedule-i
 [Regulations 5(4) and 8(1) and (2)]
 Request for information extracted from the criminal record
@@ -13,9 +14,10 @@ E-mail address:
 Correspondence address:
 File reference, if known:
 (b) Information on the identity of the person concerned by
-the request (*): INFORMATION FROM THE CRIMINAL RECORD
-[S.L.77.01 BETWEEN MALTA AND OTHER MEMBER STATES 9
+the request (*):
 Full name (forenames and all surnames):
+INFORMATION FROM THE CRIMINAL RECORD
+[S.L.77.01 BETWEEN MALTA AND OTHER MEMBER STATES 9
 Previous names:
 Pseudonym and, or alias, if any:
 M  F 
@@ -56,6 +58,6 @@ the person concerned does not consent for this information to be divulged (if th
 Contact person for any further information needed:
 Name:
 Telephone:
-E-mail address:
 INFORMATION FROM THE CRIMINAL RECORD [S.L.77.01 10 BETWEEN MALTA AND OTHER MEMBER STATES
+E-mail address:
 Other information (e.g. urgency of the request):

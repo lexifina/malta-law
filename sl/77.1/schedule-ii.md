@@ -27,7 +27,6 @@ Done at:
 On
 Signature and official stamp (if appropriate):
 Name and position/organisation:
-If appropriate, please attach a list of convictions and send the complete package to the requesting Member State. It is not
 INFORMATION FROM THE CRIMINAL RECORD
 [S.L.77.01 BETWEEN MALTA AND OTHER MEMBER STATES 11
-necessary to translate the form or the list into the language of the requesting Member State.
+If appropriate, please attach a list of convictions and send the complete package to the requesting Member State. It is not necessary to translate the form or the list into the language of the requesting Member State.
