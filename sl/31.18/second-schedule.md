@@ -55,7 +55,12 @@ ADB-BUTINACA N-[1-(aminocarbonyl)-2,2-dimethylpropyl]-1-
 butyl-1H-indazole-3-carboxamide)
 Alpha-PiHP, α-PiHP 4-methyl-1-phenyl-2-(pyrrolidin-1-yl)pentan-1-
 one)
+BROMAZOLAM 8-bromo-1-methyl-6-phenyl-4H-
+[1,2,4]triazolo[4,3-a][1,4]benzodiazepine
+DIPENTYLONE 1-(1,3-benzodioxol-5-yl)-2-
+(dimethylamino)pentan-1-one
+2-FLUORODESCHLOROKETAMINE (2- 2-(2-fluorophenyl)-2-methylamino- FDCK) cyclohexanone
 And any salts or esters of the above.
 - Amended by: L.N. 26 of 1987.
 - Substituted by: L.N. 70 of 1988.
-- Amended by: L.N. 103 of 1989; L.N. 78 of 1998; L.N. 183 of 1999; L.N. 173 of 2010; L.N. 413 of 2012; L.N. 112 of 2021; L.N. 294 of 2021; L.N. 295 of 2021; L.N. 164 of 2022; L.N. 251 of 2022; L.N. 157 of 2023.
+- Amended by: L.N. 103 of 1989; L.N. 78 of 1998; L.N. 183 of 1999; L.N. 173 of 2010; L.N. 413 of 2012; L.N. 112 of 2021; L.N. 294 of 2021; L.N. 295 of 2021; L.N. 164 of 2022; L.N. 251 of 2022; L.N. 157 of 2023; L.N. 180 of 2024.
