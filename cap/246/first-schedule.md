@@ -2,7 +2,7 @@
 # first-schedule
 List of scheduled zones in terms of article 2
 1. FORT CHAMBRAY
-Fort Chambray in the limits of Għajnsielem in the Island of Gozo, shown outlined in red in a plan marked as Document X enrolled in the records of Notary Public in the Lands Department Dr. Vincent Miceli by Deed No. 121 dated 13th April, 1993.
+Fort Chambray in the limits of Għajnsielem in the Island of Gozo, consisting of immovable property which is defined as the "Emphyteutical Land" in the deed in the records of Notary Public Dr. Vincent Miceli dated 24th January 2005, as delineated in red on a plan indicated as "Property Division number two hundred and fifty-four underscore two thousand and four" attached as document marked "X" to the said deed.
 2. PORTOMASO DEVELOPMENT
 Portomaso Development situated on a plot of land at Spinola, St. Julians, Malta, shown outlined in blue in a plan marked as Document B annexed to a deed in the records of the Assistant Notary to Government, Doctor Anthony Attard, by Deed No. 83 dated 19th May, 1964.
 3. COTTONERA DEVELOPMENT
@@ -31,4 +31,4 @@ Tas-Sellum Residence (Mellie]a Project) consisting of the immovable property as 
 23. Tarġa Square
 24. The ORA Residences
 - Added by: IX. 2003.44.
-- Amended by: L.N. 156 of 2005; L.N. 335 of 2006; L.N. 109 of 2007; L.N. 159 of 2007; L.N. 181 of 2007; L.N. 210 of 2007; L.N. 131 of 2008; L.N. 132 of 2008; L.N. 133 of 2008; L.N. 359 of 2009; L.N. 314 of 2012; L.N. 349 of 2017; L.N. 181 of 2018; L.N. 226 of 2019; L.N. 459 of 2021; L.N. 175 of 2022; L.N. 195 of 2022; L.N. 260 of 2022; L.N. 39 of 2023; L.N. 285 of 2023.
+- Amended by: L.N. 156 of 2005; L.N. 335 of 2006; L.N. 109 of 2007; L.N. 159 of 2007; L.N. 181 of 2007; L.N. 210 of 2007; L.N. 131 of 2008; L.N. 132 of 2008; L.N. 133 of 2008; L.N. 359 of 2009; L.N. 314 of 2012; L.N. 349 of 2017; L.N. 181 of 2018; L.N. 226 of 2019; L.N. 459 of 2021; L.N. 175 of 2022; L.N. 195 of 2022; L.N. 260 of 2022; L.N. 39 of 2023; L.N. 285 of 2023; L.N. 204 of 2024.
