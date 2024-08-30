@@ -1,6 +1,6 @@
 ## TENTH SCHEDULE
-## At least nine years but less than ten years before the date of such application
-## (€) (€)
+## Number of At least passengers nine years which can be but less than carried as per ten years manufacturer's before the certificate of date of such the particular application
+## (€)
 # tenth-schedule
 FEES
 Part 1
@@ -108,3 +108,4 @@ Application fee for a motor route bus licence €25
 Part 6
 Application fee for a special vintage bus services €10.
 ELEVENTH SCHEDULE - SCHOOL CHILDREN SIGN
+- Amended by: L.N. 272 of 2010; L.N. 251 of 2011; L.N. 432 of 2012; L.N. 177 of 2014; L.N. 238 of 2016; L.N. 158 of 2023.
