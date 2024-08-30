@@ -1,5 +1,4 @@
 ## FIFTH SCHEDULE
-## (2)
 # fifth-schedule
 (Regulation 83)
 AUTHORISATIONS FOR REGULAR AND SPECIAL REGULAR SERVICES
@@ -42,3 +41,4 @@ Important notice
 1. This authorisation is valid for the entire journey. It may not be used except by a party whose name is indicated thereon.
 2. The authorisation or a true copy certified by the issuing authority shall be kept on the vehicle for the duration of the journey and shall be presented to enforcement officials on request.
 3. A true certified copy of the Community Licence shall be kept on board the vehicle.
+- Amended by: XV. 2009.49.

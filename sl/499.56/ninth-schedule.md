@@ -67,7 +67,7 @@ this Schedule for breaches of the specific regulations stipulated in regulation 
 per day
 68O(7) €500
 68O(10), (11) €100 or €200 where the sale €100 or €200 where the sale of a service is made within of a service is made within five metres of a bus stop five metres of a bus stop 68P(1)(a) The penalty prescribed in The penalty prescribed in
-this Schedule for breaches this Schedule for breaches of the specific regulations of the specific regulations stipulated in regulation stipulated in regulation 68P(1)(a) according to the 68P(1)(a) according to the specific regulation s p e ci f i c regulation breached. breached.
+this Schedule for breaches this Schedule for breaches of the specific regulations of the specific regulations stipulated in regulation stipulated in regulation 68P(1)(a) according to the 68P(1)(a) according to the specific regulation s p ec i f i c regulation breached. breached.
 68P(1)(d), 68P(2), 68P(4) €500
 68Q(1) The penalty prescribed in
 this Schedule for breaches
@@ -101,3 +101,6 @@ per day
 72,73,74,75,76,77,78 €350 €350
 107(6) €150 for a first breach and €150 for a first breach and
 €1,000 for a subsequent €1,000 for a subsequent breach breach
+- Amended by: L.N. 319 of 2009; L.N. 272 of 2010; L.N. 251 of 2011; L.N. 396 of 2011; L.N. 432 of 2012.
+- Substituted by: L.N. 116 of 2014.
+- Amended by: L.N. 238 of 2016:; L.N. 96 of 2017.

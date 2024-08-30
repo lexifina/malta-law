@@ -58,3 +58,6 @@ Validity Period
 8. The maximum fares for tickets issued by the bus operator which have a validity period other than those provided in Tables 1, 2 and 3, shall be subject to approval by the Authority.
 9. The bus operator shall establish and implement identification procedures to ensure the non-transferability of the public transport ticket and the public transport card.
 10. The bus operator shall publish the terms and conditions applicable from time to time to the personalised public transport card and the non-personalised public transport card, as approved by the Authority.
+- Added by: L.N. 251 of 2011.
+- Amended by: L.N. 426 of 2012; L.N. 92 of 2014.
+- Substituted by: L.N. 80 of 2017.
