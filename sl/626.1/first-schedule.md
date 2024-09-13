@@ -11,17 +11,17 @@ MAIN OBJECTS:
 SPORTS ACTIVITIES / DISCIPLINES:
 DATE OF CONSTITUTION / SETTING UP: NATURE OF ORGANISATION:
 (ATTACH ALL AVAILABLE DOCUMENTATION ENDORSED BY LEGAL REPRESENTATIVE OF APPLICANT)
-1. List of members: Yes/No (mark as Annex A)
-2. Letter stipulating recognition (affiliation) by a National Association/National Federation: Yes/ No (mark as Annex B) 3. Letter stipulating recognition (affiliation) by an International Sport Body: Yes/No (mark as Annex Ċ)
-4. Letter stipulating affiliation with Malta Olympic Committee: Yes/No (mark as Annex D)
-5. Statute/Memorandum and Articles: Yes/No (mark as Annex E)
+List of members: Yes/No 1. (mark as Annex A)
+2. Letter stipulating recognition (affiliation) by a National Association/National Federation: Yes/ No (mark as Annex B) Letter stipulating recognition (affiliation) by an International Sport Body: Yes/No 3. (mark as Annex Ċ)
+Letter stipulating affiliation with Malta Olympic Committee: Yes/No 4. (mark as Annex D)
+Statute/Memorandum and Articles: Yes/No 5. (mark as Annex E)
 6. Declaration in the Statute relating to the commitment against doping and corruption in sport: Yes/No (mark as Annex F)
-7. Regulations and bye-laws: Yes/No (mark as Annex G)
-8. Latest Annual Report and Annual General Meeting minutes: Yes/No (mark as Annex H)
-9. Latest Financial Report: Yes/No (mark as Annex I)
+Regulations and bye-laws: Yes/No 7. (mark as Annex G)
+Latest Annual Report and Annual General Meeting minutes: Yes/No 8. (mark as Annex H)
+Latest Financial Report: Yes/No 9. (mark as Annex I)
 10. Auditor's Report: Yes/No
 (mark as Annex J)
-11. List of Coaches: Yes/No (mark as Annex K)
+List of Coaches: Yes/No 11. (mark as Annex K)
 12. Coaches' Qualifications: Yes/No
 (mark as Annex L)
 13. Coaches' Curriculum Vitae: Yes/No
@@ -114,19 +114,19 @@ If there are other members in whom representation is vested, list and give detai
 2. Land privately owned: Yes/No
 3. Land Government Owned: Yes/No
 4. Term of title (if of a temporary nature): ..............................................
-5. Specify what the premises consists of: .............................................................. ......................................................................................................................... .........................................................................................................................
-6. Required development/works/maintenance: Yes/No (attach the Report and BOQ and mark as Annex S)
-7. Any valid trading licenses for premises: Yes/No (mark as Annex T)
-8. Planning permit applications or already issued development permits: Yes/No (mark as Annex U)
+Specify what the premises consists of: .............................................................. 5. ......................................................................................................................... .........................................................................................................................
+Required development/works/maintenance: Yes/No 6. (attach the Report and BOQ and mark as Annex S)
+Any valid trading licenses for premises: Yes/No 7. (mark as Annex T)
+Planning permit applications or already issued development permits: Yes/No 8. (mark as Annex U)
 9. Kindly attach five (5) photos of the premises, a google satellite view (marked in yellow) and a Land Registry site plan marked in red and signed by a Perit (mark as Annex V) DETAILS ABOUT THE OPERATING PREMISES / SPORTS FACILITIES: (if different from the official premises)
 1. Legal Title held: .............................................................................................
 2. Land privately owned: Yes/No
 3. Land Government Owned: Yes/No
 4. Term of title (if of a temporary nature): ..............................................
-5. Specify what the premises consists of: .............................................................. ......................................................................................................................... .........................................................................................................................
-6. Required development/works/maintenance: Yes/No (attach report and BOQ and mark as Annex W)
-7. Any valid trading licenses for premises: Yes/No (mark as Annex X)
-8. Planning permit applications or already issued development permits: Yes/No (mark as Annex Y)
+Specify what the premises consists of: .............................................................. 5. ......................................................................................................................... .........................................................................................................................
+Required development/works/maintenance: Yes/No 6. (attach report and BOQ and mark as Annex W)
+Any valid trading licenses for premises: Yes/No 7. (mark as Annex X)
+Planning permit applications or already issued development permits: Yes/No 8. (mark as Annex Y)
 9. Kindly attach five (5) photos of the premises, a google satellite view (marked in yellow) and a Land Registry site plan marked in red and signed by a Perit (mark as Annex Z)
 DETAILS OF PROJECTS OF A CAPITAL NATURE FOR THE NEXT TWO (2) YEARS: (attach the signed detailed declaration and mark as Annex AA)
 DETAILS OF UPCOMING EVENTS/COMPETITIONS FOR THE NEXT TWO (2) YEARS: (attach the signed detailed report and mark as Annex AB)
@@ -136,10 +136,10 @@ Organisations: Yes/No
 The number of individuals and, or organisations that have a right to vote in the applicant organisation (resident in Malta holding a valid identity card issued by the Commissioner of Police or other government competent authority and, or registered legal person in Malta with the competent authority, respectively):
 Organisations Individuals
 CURRENT REGISTRATIONS / LICENCES ISSUED BY MALTESE AUTHORITIES:
-1. Malta Business Registry: Yes/No (mark as Annex AD)
-2. Commissioner for Voluntary Organisation: Yes/No (mark as Annex AE)
-3. Commissioner of Police: Yes/No (mark as Annex AF)
-4. Other Authority / Government Entity: Yes/No (mark as Annex AG)
+Malta Business Registry: Yes/No 1. (mark as Annex AD)
+Commissioner for Voluntary Organisation: Yes/No 2. (mark as Annex AE)
+Commissioner of Police: Yes/No 3. (mark as Annex AF)
+Other Authority / Government Entity: Yes/No 4. (mark as Annex AG)
 I, the undersigned, being the person in whom the legal representation of the applicant is vested, do hereby apply for/request renewal of registration of the applicant in the Register of Sports Persons kept by the Authority.
 I also declare that the contents and information given in this application are true and correct and that the documents submitted together with this application are true and correct copies of the originals updated to the date of this application.
 I also declare that the applicant is aware of its obligations towards the Authority and the requirement for request of renewal for registration on a yearly basis and that on default of such, the applicant shall be suspended from the Register, whereby all benefits of such registration shall cease to apply with immediate effect.
