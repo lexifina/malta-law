@@ -12,7 +12,8 @@ Exports and like transactions
 International goods traffic
 2. (1) The supply of goods intended to be placed or while they are placed under a customs duty suspension regime.
 (2) The supply of services other than those exempted by item 6, consisting in work on movable goods that are intended to be placed or while they are placed under a customs duty suspension regime.
-Intra-community supplies 3. (1) The intra-community supply of goods to a person who is identified on the relative invoice as a person identified for value added tax purposes by a valid and active value added tax identification number in a Member State other than Malta, excluding:
+Intra-community supplies
+3. (1) The intra-community supply of goods to a person who is identified on the relative invoice as a person identified for value added tax purposes by a valid and active value added tax identification number in a Member State other than Malta, excluding:
 (a) a supply made by a person registered under article 11;
 (b) a supply that is subject to the special scheme of the profit margin in terms of Part Two of the Fourteenth Schedule:
 Provided that, the exemption provided for under this sub-item shall not apply where the supplier has not complied with the obligation to submit a recapitulative statement in terms of article 30(3) or the recapitulative statement submitted by him does not set out the correct information concerning the supply as required in terms of the said article 30(3), unless the supplier can duly justify his shortcoming to the satisfaction of the Commissioner.
@@ -69,7 +70,8 @@ For avoidance of doubt, "scheduled inter-island sea transport of passengers" sha
 (c) special regular services consisting in the carriage of school pupils and students to and from an educational establishment recognised as such by the Commissioner;
 (d) special regular services consisting in the carriage of workers to and from their place of work.
 In paragraphs (c) and (d) the term "special regular services" has the meaning assigned to it in the Passenger Transport Services Regulations or any other regulations replacing those regulations.
-Supplies of goods on board cruise liners 12. The supply of goods for consumption on board cruise liners where the place of taxation in terms of item 3 of the Third Schedule to the Act is deemed to be in Malta.
+Supplies of goods on board cruise liners
+12. The supply of goods for consumption on board cruise liners where the place of taxation in terms of item 3 of the Third Schedule to the Act is deemed to be in Malta.
 Supplies of goods in accordance with sub-item (2) of item 12A of the Second Schedule
 13. The supply of goods to a taxable person who is deemed to have received and supplied those goods in accordance with sub-item (2) of item 12A of the Second Schedule.
 Certain transactions treated as exports
@@ -132,12 +134,13 @@ Lotteries
 Postal Services
 10. The supply of public postal services, other than passenger transport and telecommunication services, and of goods, including postage stamps, incidental thereto.
 Health and Welfare
-11. (1) The supply of medical care by a person in the exercise of any profession regulated by the Health Care Professions Act (Cap. 464) or the Psychology Profession Act (Cap. 471) or any Act which may be substituted therefor.
-(2) The provision of care or medical or surgical treatment in any government hospital or institution or in any other hospital or institution approved by the Minister for the purposes of this paragraph.
-(3) The supply of human organs, blood and milk.
+11. (1) The provision of medical care by a person in the exercise of any profession regulated by the Health Care Professions Act (Cap. 464), the Psychology Profession Act (Cap. 471), the Counselling Profession Act (Cap. 538), the Psychotherapy Profession Act (Cap. 587), or any Act which may substitute them.
+(2) The provision of hospital and medical care undertaken by any government hospital or institution, or by any other hospital, institution or centre for medical treatment or diagnosis approved by the Minister for the purposes of this sub-item.
+(3) The supply of services by dental technicians in their professional capacity and the supply of dental prostheses by dentists and dental technicians.
 (4) The supply of welfare services, including services supplied by homes for the elderly, and services for the protection and care of children and young people, supplied by any government institution or by any institution or organisation recognised by the Commissioner as a non-profit making institution or approved by the Minister for the purpose of this paragraph as any institution whose activities fall within the social and welfare policy of the government.
 (5) The supply of transport services for sick, injured or disabled persons in vehicles specially designed for that purpose.
-(6) The supply of goods where the said supply is connected with and essential for the supply of services referred to in paragraphs (2) and (4) of this item by the hospital, institution or home, as the case may be, supplying the said services.
+(6) The supply of human organs, blood and milk.
+(7) The supply of goods and services by the same hospital, institution, centre or home, as the case may be, supplying the services referred to in sub-items (2) and (4), and which are connected with, and essential for the supply of those services, provided that this exemption is not likely to cause distortion of competition.
 Education
 12. (1) The provision of education or educational research, vocational training or retraining, including distance learning, by a government school or institution, by the University of Malta, by a school or institution registered under the Education Act, or by any educational establishment recognized as such by the Commissioner, or by any establishment recognized for this purpose by the Minister responsible for education.
 (2) The provision of education or educational research, including distance learning, of a kind provided by a school or university, or of religious instruction, by a non-profit making institution recognised as such by the Commissioner.
@@ -230,8 +233,7 @@ Food
 (e) Chapters 7 to 12 inclusive, but excluding items falling under subheadings 1207.30.90; 1207.99.91.00; 1209.30.00.00; 1209.99.10;
 1209.99.91.00; 1209.99.99.00; 1211.90.30 in Chapter 12.
 (f) Chapter 13 excluding items falling under subheadings 1301.10.00.00; 1302.11.00; 1302.14.00; 1302.19.05; 1302.19.30; 1302.19.91; 1302.19.98; 1302.20.10; 1302.20.90.
-(g) Chapters 15 to 20 inclusive, but excluding items falling under subheadings 1501.00.11.00; 1502.00.10.00; 1503.00.11.00; 1503.00.19; 1503.00.30.00; 1505.00.10.00; 1505.00.90.00; 1507.10.10.00; 1507.90.10.00; 1508.10.10.00; 1508.90.10.00; 1511.10.10.00; 1511.90.91.00; 1512.11.10.00; 1512.19.10.00; 1512.21.10.00; 1512.29.10.00; 1513.11.10.00; 1513.19.30.00; 1513.21.11.00; 1513.21.19.00; 1513.29.30.00; 1514.11.10.00; 1514.19.10.00; 1514.91.10.00; 1514.99.10.00; 1515.11.00.00; 1515.19.10.00; 1515.21.10.00; 1515.29.10.00; 1515.30.10.00; 1515.30.90.00; 1515.40.00.00; 1515.50.11.00; 1515.50.91.00; 1515.90.15.00; 1515.90.15.90; 1515.90.21.00; 1515.90.31.00; 1515.90.40.00; 1515.90.60.00; 1516.20.10.00; 1517.90.93; 1518.00.10.00; 1518.00.31.00; 1518.00.39.00; 1518.00.91.00; 1518.00.95.00; 1518.00.99.00; 1520.00.00; 1521.10.00.10; 1521.10.00.90; 1521.90.10.00; 1522.00.10; 1522.00.31.00; 1522.00.39.00; 1522.00.91.00; in Chapter 15 and 1702.90.10; 1704.10.11.00; 1704.10.19; 1704.10.91; 1704.10.99; 1704.90.10; 1704.90.55; 1704.90.61; 1704.90.65; 1704.90.71; 1704.90.75 and 1704.90.81 in
-Chapter 17 and 2006.00.10 and heading 2009 in Chapter 20.
+(g) Chapters 15 to 20 inclusive, but excluding items falling under subheadings 1501.00.11.00; 1502.00.10.00; 1503.00.11.00; 1503.00.19; 1503.00.30.00; 1505.00.10.00; 1505.00.90.00; 1507.10.10.00; 1507.90.10.00; 1508.10.10.00; 1508.90.10.00; 1511.10.10.00; 1511.90.91.00; 1512.11.10.00; 1512.19.10.00; 1512.21.10.00; 1512.29.10.00; 1513.11.10.00; 1513.19.30.00; 1513.21.11.00; 1513.21.19.00; 1513.29.30.00; 1514.11.10.00; 1514.19.10.00; 1514.91.10.00; 1514.99.10.00; 1515.11.00.00; 1515.19.10.00; 1515.21.10.00; 1515.29.10.00; 1515.30.10.00; 1515.30.90.00; 1515.40.00.00; 1515.50.11.00; 1515.50.91.00; 1515.90.15.00; 1515.90.15.90; 1515.90.21.00; 1515.90.31.00; 1515.90.40.00; 1515.90.60.00; 1516.20.10.00; 1517.90.93; 1518.00.10.00; 1518.00.31.00; 1518.00.39.00; 1518.00.91.00; 1518.00.95.00; 1518.00.99.00; 1520.00.00; 1521.10.00.10; 1521.10.00.90; 1521.90.10.00; 1522.00.10; 1522.00.31.00; 1522.00.39.00; 1522.00.91.00; in Chapter 15 and 1702.90.10; 1704.10.11.00; 1704.10.19; 1704.10.91; 1704.10.99; 1704.90.10; 1704.90.55; 1704.90.61; 1704.90.65; 1704.90.71; 1704.90.75 and 1704.90.81 in Chapter 17 and 2006.00.10 and heading 2009 in Chapter 20.
 (h) Chapter 21 but excluding items falling under heading 2105.00 and subheadings 2106.90.20.00; 2106.90.98.33; 2106.90.98.37 and 2106.90.98.39.
 (i) Subheadings 2202.90.10.10; 2202.90.91.00; 2202.90.95.00; 2202.90.99.00; 2209.00.11.00; 2209.00.19.00; 2209.00.91.00; 2209.00.99.00 in Chapter 22.
 (j) Chapter 23 but excluding items falling under subheading 2307.00.
@@ -276,4 +278,4 @@ Investment gold
 6. "Investment gold" has the meaning assigned to it in Part Six of the Fourteenth Schedule.
 - Amended by: L.N. 24 of 2001.
 - Substituted by: X. 2003.47.
-- Amended by: L.N. 250 of 2004; L.N. 520 of 2004; L.N. 334 of 2006; L.N. 121 of 2007; L.N. 445 of 2007; L.N. 234 of 2009; L.N. 286 of 2010; L.N. 425 of 2010; L.N. 534 of 2010; L.N. 379 of 2011; L.N. 499 of 2011; L.N. 38 of 2012; L.N. 345 of 2013; L.N. 422 of 2013; L.N. 480 of 2014; L.N. 227 of 2015; L.N. 247 of 2016; L.N. 383 of 2016; L.N.347 of 2017; L.N. 9 of 2018; L.N.155 of 2019; L.N.302 of 2019; L.N.253 of 2019; L.N.222 of 2020; L.N. 4 of 2021; L.N. 358 of 2021; VII.2022.70; L.N. 138 of 2022; L.N. 12 of 2024.
+- Amended by: L.N. 250 of 2004; L.N. 520 of 2004; L.N. 334 of 2006; L.N. 121 of 2007; L.N. 445 of 2007; L.N. 234 of 2009; L.N. 286 of 2010; L.N. 425 of 2010; L.N. 534 of 2010; L.N. 379 of 2011; L.N. 499 of 2011; L.N. 38 of 2012; L.N. 345 of 2013; L.N. 422 of 2013; L.N. 480 of 2014; L.N. 227 of 2015; L.N. 247 of 2016; L.N. 383 of 2016; L.N.347 of 2017; L.N. 9 of 2018; L.N.155 of 2019; L.N.302 of 2019; L.N.253 of 2019; L.N.222 of 2020; L.N. 4 of 2021; L.N. 358 of 2021; VII.2022.70; L.N. 138 of 2022; L.N. 12 of 2024; L.N. 228 of 2024.
