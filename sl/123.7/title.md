@@ -1,4 +1,4 @@
 SUBSIDIARY LEGISLATION 123.07
 INCOME TAX (DEDUCTIONS) RULES
 1st January, 2001
-LEGAL NOTICE 322 of 2001, as amended by Legal Notices 100 and 409 of 2007 and 369 of 2009.
+LEGAL NOTICE 322 of 2001, as amended by Legal Notices 100 and 409 of 2007, 369 of 2009 and 229 of 2024
