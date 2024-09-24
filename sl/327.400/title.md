@@ -1,7 +1,7 @@
 [S.L.327.400 FOR TOURISM, TRAVEL AND CULTURE 1
 SUBSIDIARY LEGISLATION 327.400
 STATUTE FOR THE INSTITUTE
-FOR TOURISM, TRAVEL AND CULTURE
+FOR TOURISM, TRAVEL AND CULTURE*
 21st December, 2010
 LEGAL NOTICE 552 of 2010, as amended by Legal Notices 145 of 2012, 157 of 2015, and 190 of 2017.
 The title of this statute is the Statute for the Institute Tourism, Travel and Culture.
