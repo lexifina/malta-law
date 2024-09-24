@@ -1,7 +1,7 @@
 [S.L.327.74 INSTITUTE FOR BAROQUE STUDIES 1
 SUBSIDIARY LEGISLATION 327.74
 STATUTE FOR THE INTERNATIONAL INSTITUTE
-FOR BAROQUE STUDIES STATUTE
+FOR BAROQUE STUDIES STATUTE*
 3rd November, 2009
 LEGAL NOTICE 320 of 2009, as amended by Legal Notice 146 of 2012.
 The title of this statute is the Statute for the International Institute for Baroque Studies.
