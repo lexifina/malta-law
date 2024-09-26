@@ -1,3 +1,4 @@
+## specified in the third column of the said Schedule.
 ## SCHEDULE
 # schedule
 (Article 40(2))
