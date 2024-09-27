@@ -1,5 +1,4 @@
 ## EIGHTH SCHEDULE
-## A.R. Card to be attached.
 # eighth-schedule
 (Regulation 7)
 REQUEST FOR PRESCRIPTION FORMS FOR NARCOTIC AND

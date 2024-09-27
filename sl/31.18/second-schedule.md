@@ -17,9 +17,9 @@ cannabinol and its stereochemical trimethyl-3-penatyl-6H-dibenzo [b,d] pyran-1-v
 FENETYLLINE dl-3,7-dihydro-1, 3 dimethyl-7-(2-[(l-methyl2-
 phenylethyl) amino] ethyl)-1H-purine-2, 6-
 dione
-N- ethyl-- methyl-m(trifluoromethyl) FENFLURAMINE phenethylamine FENPROPOREX dl-3-[(a-methylphenethyl)amino] propionitrile GLUTETHIMIDE 2-ethyl-2-phenylglutarimide KETAMINE (±)-2-(2-Chlorophenyl)-2-
+N-ethyl- -methyl-m(trifluoromethyl) FENFLURAMINE phenethylamine FENPROPOREX dl-3-[(a-methylphenethyl)amino] propionitrile GLUTETHIMIDE 2-ethyl-2-phenylglutarimide KETAMINE (±)-2-(2-Chlorophenyl)-2-
 methylaminocyclohezanone LEVAMPHETAMINE 1-a-methylphenethylamine LEVOMETHAMPHETAMINE l-N, a-dimethylphenethylamine MAZINDOL 5-(p-chlorophenyl)-2, 5-dihydro-3H-imidazo
-[2, 1-a] isoindol-5-ol MECLOQUALONE 3 -( o- c h l or op h e ny l ) -2 -m e t h yl - 4 (3 H )-
+[2, 1-a] isoindol-5-ol MECLOQUALONE 3 -( o -ch l o ro ph e n yl ) - 2- m e t h yl -4 ( 3H ) -
 quinazolinone MEFENOREX dl-N-(3-chloropropyl)-a-
 methylphenethylamine N--trimethylphenethylamine MEPHENTERMINE MEPROBAMATE 2-methyl-2-propyl-1, 3-propanediol
 dicarbamate 3-(-methylphenethyl)-N-phenylcarbamoyl) MESOCARB sydnone imine METHAMPHETAMINE (+)-2-methylamino-l-phenylpropane METHAMPHETAMINE RACEMATE 2-methyl-3-o-tolyl-4(3H)-quinazolinone METHAQUALONE METHYLPHENIDATE 2-phenyl-2 (2-piperidyl) acetic acid, methyl
@@ -61,6 +61,3 @@ DIPENTYLONE 1-(1,3-benzodioxol-5-yl)-2-
 (dimethylamino)pentan-1-one
 2-FLUORODESCHLOROKETAMINE (2- 2-(2-fluorophenyl)-2-methylamino- FDCK) cyclohexanone
 And any salts or esters of the above.
-- Amended by: L.N. 26 of 1987.
-- Substituted by: L.N. 70 of 1988.
-- Amended by: L.N. 103 of 1989; L.N. 78 of 1998; L.N. 183 of 1999; L.N. 173 of 2010; L.N. 413 of 2012; L.N. 112 of 2021; L.N. 294 of 2021; L.N. 295 of 2021; L.N. 164 of 2022; L.N. 251 of 2022; L.N. 157 of 2023; L.N. 180 of 2024.
