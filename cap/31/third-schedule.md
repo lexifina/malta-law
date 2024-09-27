@@ -80,6 +80,52 @@ ADB-FUBINACA N-(1-amino-3,3-dimethyl-1-oxobutan-
 [(4-fluorophenyl)methyl]indazole-3-carbonyl]amino}-3-methylbutanoate N-ethylnorpentylone 1-(2H-1,3-benzodioxol-5-yl)-2-
 (ethylamino)pentan-1-one) DOC 1-(4-chloro-2,5-
 dimethoxyphenyl)propan-2-amine
+HHC, hexahydrocannabinol 6,6,9-Trimethyl-3-pentyl-6a,7,8,9,10,10a-
+hexahydro-6H-benzo[c]chromen-1-ol
+HHC-O acetate, HHCO, (6,6,9-trimethyl-3-pentyl-6a,7,8,9,10,10a-
+HHCOA, hexahydrobenzo[c]chromen-1-yl) acetate; hexahydrocannabinol O-Acetate 6,6,9-trimethyl-3-pentyl-6a,7,8,9,10,10a-
+hexahydro-6H-benzo[c]chromen-1-yl
+acetate
+HHC-P,hexahydrocannabiphorol 3-Heptyl-6a,7,8,9,10,10a-hexahydro-6,6,9-
+trimethyl-6H-dibenzo[b,d]pyran-1-ol;
+3-heptyl-6,6,9-trimethyl-6a,7,8,9,10,10a-
+hexahydro-6H-benzo[c]chromen-1-ol
+H4- 2-(2-Isopropyl-5-methylcyclohexyl)-5-
+CBD, tetrahydrocannabidiol, pentylbenzene-1,3-diol Hydrogenated CBD, THD,
+cyclohexyl CBD
+THC-P, 3-Heptyl-6a,7,8,10a-tetrahydro-6,6,9-tetrahydrocannabiphorol, Delta- trimethyl-6H-dibenzo[b,d]pyran-1-ol;
+9-THCP 3-Heptyl-6,6,9-trimethyl-6a,7,8,10a-
+tetrahydrobenzo[c]chromen-1-ol HHCH, hexahydrocannabihexol, 3-Hexyl-6,6,9-trimethyl-6a,7,8,9,10,10a-
+HHC-H hexahydrobenzo[c]chromen-1-ol;
+3-hexyl-6a,7,8,9,10,10a-hexahydro-6,6,9-
+trimethyl-6H-dibenzo[b,d]pyran-1-ol
+Delta-8-THCP, delta-8- 3-heptyl-6aR,7,10,10aR-tetrahydro-6,6,9- Tetrahydrocannabiphorol, JWH trimethyl-6H-dibenzo[b,d]pyran-1-ol;
+091, THC-heptyl 3-heptyl-6,6,9-trimethyl-6a,7,10,10a-
+tetrahydrobenzo[c]chromen-1-ol
+THCB, 3-butyl-6,6,9-trimethyl-6a,7,8,10a- Tetrahydrocannabutol, Delta-9- tetrahydro-6H-dibenzo[b,d]pyran-1-ol;
+THCB, Delta-9-THC-C4, 3-butyl-6,6,9-trimethyl-6a,7,8,10a-
+Delta-9-THC-butyl tetrahydrobenzo[c]chromen-1-ol
+9-OH-HHC, 9- 6,6,9-trimethyl-3-pentyl-6a,7,8,9,10,10a- Hydroxyhexahydrocannabinol, hexahydro-6H-benzo[c]chromene-1,9-diol;
+9-hydroxy-HHC 6a,7,8,9,10,10a-hexahydro-6,6,9-trimethyl-
+3-pentyl-6H-dibenzo[b,d]pyran-1,9-diol
+delta-8-THC acetate, 6aR,7,10,10aR-tetrahydro-6,6,9-trimethyl-
+Δ8-Tetrahydrocannabinol 3-pentyl-6H-dibenzo[b,d]pyran-1-ol, 1-
+Acetate acetate
+Δ8-THC-O-Acetate
+Delta-8-THC methylether, 6aR,7,10,10aR-tetrahydro-1-methoxy-
+1-methyl-Δ8-THC; 6,6,9-trimethyl-3-pentyl-6H-
+Δ8-Tetrahydrocannabinol dibenzo[b,d]pyran
+methylether
+Delta-9-THCP acetate, 3-heptyl-6aR,7,8,10aR-tetrahydro-6,6,9-
+Δ9-Tetrahydrocannabiphorol trimethyl-6H-dibenzo[b,d]pyran-1-ol, 1- Acetate; delta-9-THC-C7- acetate
+Acetate
+delta-9-THCH, (6aR,10aR)-3-hexyl-6a,7,8,10a-tetrahydro-delta-9-Tetrahydrocannabihexol, 6,6,9-trimethyl-6H-dibenzo[b,d]pyran-1-ol
+delta-9-THC-C6
+HHC-P-O-acetate, (6aR,10aR)-6,6,9-trimethyl-3-heptyl-
+hexahydrocannabiphorol 6a,7,8,9,10,10a-
+acetate hexahydrobenzo[c]chromen-1-yl acetate
+Delta-8-THCH, (6aR,10aR)-3-hexyl-6a,7,10,10a-delta-8-tetrahydrocannabihexol terahydro-6,6,9-trimethyl-6H-
+delta-8-THC-C6 dibenzo[b,d]pyran-1-ol".
 And any derivatives, salts, or esters of the above.
 PART B
 International or other nonproprietary
@@ -162,4 +208,4 @@ And any salts or esters of the above.
 - Added by: V.1985.15.
 - Amended by: XVII.1986.5; L.N. 34 of 1986.
 - Substituted by: L.N. 48 of 1990.
-- Amended by: L.N. 31 of 1997; L.N. 79 of 1998; International or other nonproprietary; L.N. 285 of 2001; L.N. 38 of 2002; name or other trivial name; L.N. 209 of 2002; L.N. 222 of 2002; L.N. 212 of 2003; L.N. 374 of 2003; L.N. 135 of 2006; L.N. 260 of 2006; L.N. 127 of 2007; L.N. 404 of 2007; L.N. 174 of 2010; L.N. 423 of 2010; L.N. 149 of 2012; L.N. 412 of 2012; L.N. 362 of 2013; L.N. 364 of 2013; L.N. 404 of 2013; L.N. 48 of 2016; L.N. 357 of 2017; L.N.358 of 2017; L.N. 231 of 2018; L.N. 268 of 2018; L.N. 190 of 2019; L.N. 111 of 2021; L.N. 292 of 2021; L.N. 293 of 2021; L.N. 166 of 2022; L.N. 252 of 2022; L.N. 155 of 2023; L.N. 178 of 2024.
+- Amended by: L.N. 31 of 1997; L.N. 79 of 1998; International or other nonproprietary; L.N. 285 of 2001; L.N. 38 of 2002; name or other trivial name; L.N. 209 of 2002; L.N. 222 of 2002; L.N. 212 of 2003; L.N. 374 of 2003; L.N. 135 of 2006; L.N. 260 of 2006; L.N. 127 of 2007; L.N. 404 of 2007; L.N. 174 of 2010; L.N. 423 of 2010; L.N. 149 of 2012; L.N. 412 of 2012; L.N. 362 of 2013; L.N. 364 of 2013; L.N. 404 of 2013; L.N. 48 of 2016; L.N. 357 of 2017; L.N.358 of 2017; L.N. 231 of 2018; L.N. 268 of 2018; L.N. 190 of 2019; L.N. 111 of 2021; L.N. 292 of 2021; L.N. 293 of 2021; L.N. 166 of 2022; L.N. 252 of 2022; L.N. 155 of 2023; L.N. 178 of 2024; L.N. 237 of 2024.
