@@ -82,21 +82,30 @@ Powers) Act;
 Management Act;
 (h) attempts or conspiracy to commit or complicity in
 the offences mentioned in paragraphs (a), (b), (c), (d), (e), (f) and (g) above.
+1D. The Attorney General shall have the power to decide whether a prosecution is or is not to be instituted in the following categories of offences when the charges are to be filed in the Court of Magistrates as a court of criminal judicature or in the Court of Magistrates as a Court of criminal inquiry on or after the 1st October 2024:
+(a) offences against the Medical and Kindred
+Professions Ordinance, where the Attorney General
+directed that the offences may be prosecuted before
+the Criminal Court or the Court of Magistrates as a
+court of criminal judicature, provided that the
+offence shall not fall within the original jurisdiction
+of the Court of Magistrates as a court of criminal
+judicature;
+(b) offences against the Dangerous Drugs Ordinance
+where the Attorney General directed that the
+offences may be prosecuted before the Criminal
+[S.L. 603.01 6 (TRANSITORY PROVISIONS)
+Court or the Court of Magistrates as a court of criminal judicature, provided that the offence shall not fall within the original jurisdiction of the Court of Magistrates as a court of criminal judicature;
+(c) offences of money laundering as provided for in article 3 of the Prevention of Money Laundering Act including where such offences are prosecuted together with offences against the Dangerous Drugs Ordinance or the Medical and Kindred Professions Ordinance;
+(d) attempts, conspiracy to commit or complicity in the offences provided for in paragraphs (a), (b) and (c).
 2. Nothing in this Schedule shall be interpreted:
 (a) as excluding the Commissioner of Police or any
 other public authority having prosecution powers under any other law from exercising or from continuing to exercise the said powers after the coming into force of this Schedule; or
 (b) as giving rise to any defect in the proceedings:
 (i) in cases where such powers are exercised
-after the coming into force of this Schedule or where
-proceedings commenced before the coming into force of
-this Schedule are continued in the name of the
-Commissioner of Police or of any other public authority
-having prosecution powers after the said coming into
-force; or
+after the coming into force of this Schedule or where proceedings commenced before the coming into force of this Schedule are continued in the name of the Commissioner of Police or of any other public authority having prosecution powers after the said coming into force; or
 (ii) where it results that the amount of financial
-loss or evasion of any tax or duty does not reach or
-[S.L. 603.01 6 (TRANSITORY PROVISIONS)
-exceeds the minimum threshold established under
+loss or evasion of any tax or duty does not reach or exceeds the minimum threshold established under
 paragraphs (g) or (h) of item 1.
 3. (1) Without prejudice to the provisions of item 2, the
 Executive Police shall not on or after the 1st October 2020 institute or pursue any prosecution for the crimes listed in item 1 in the absence of a decision to prosecute having been taken by the Attorney General.
@@ -104,11 +113,11 @@ Executive Police shall not on or after the 1st October 2020 institute or pursue 
 Executive Police shall not on or after the 1st October 2021 institute or pursue any prosecution for the crimes listed in item 1A in the absence of a decision to prosecute having been taken by the Attorney General.
 (3) Without prejudice to the provisions of item 2, the
 Executive Police shall not on or after the 1st October 2022 institute or pursue any prosecution for the crimes listed in item 1B in the absence of a decision to prosecute having been taken by the Attorney General.
-(4) Without prejudice to the provisions of item 2, the
-Executive Police shall not on or after the 1st October 2023 institute or pursue any prosecution for the crimes listed in item 1C in the absence of a decision to prosecute having been taken by the Attorney General.
-4. In this Schedule any reference to an offence provided in
-the Criminal Code or in any other law shall, unless the context otherwise requires, be read and construed as an indication of that offence through a reference to the marginal note of the article which prescribes it and any discrepancy between the marginal note and the content of the article shall have no effect on the inclusion in this Schedule of the offence as described in the actual text of the relative article.
-- Amended by: L.N. 367 of 2021; L.N. 241 of 2022; L.N. 225 of 2023.
+[S.L. 603.01 (TRANSITORY PROVISIONS) 7
+(4) Without prejudice to the provisions of item 2, the Executive Police shall not on or after the 1st October 2023 institute or pursue any prosecution for the crimes listed in item 1C in the absence of a decision to prosecute having been taken by the Attorney General.
+(5) Without prejudice to the provisions of item 2, the Executive Police shall not on or after the 1st October 2024 institute or pursue any prosecution for the offences listed in item 1D in the absence of a decision to prosecute having been taken by the Attorney General.
+4. In this Schedule any reference to an offence provided in the Criminal Code or in any other law shall, unless the context otherwise requires, be read and construed as an indication of that offence through a reference to the marginal note of the article which prescribes it and any discrepancy between the marginal note and the content of the article shall have no effect on the inclusion in this Schedule of the offence as described in the actual text of the relative article.
+- Amended by: L.N. 367 of 2021; L.N. 241 of 2022; L.N. 225 of 2023; L.N. 192 of 2024.
 - See Cap. 9.
 - See Cap. 9.
 - See Cap. 9.
@@ -131,4 +140,9 @@ the Criminal Code or in any other law shall, unless the context otherwise requir
 - See Cap. 9.
 - See Cap. 365.
 - See Cap. 425.
+- See Cap. 31.
+- See Cap. 101.
+- See Cap. 373.
+- See Cap. 101.
+- See Cap. 31.
 - See Cap. 9.
