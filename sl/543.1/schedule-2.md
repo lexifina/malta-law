@@ -25,8 +25,9 @@ and for those individual source categories in which significant methodological a
 been involved in the inventory development, preferably an independent third party, before the submission of the inventory, in accordance with
 the planned QA procedures referred to in paragraph 1(g);
 (c) provide for a more extensive review of the inventory for key source
-categories, as well as source categories where significant changes in methods or data have been made; ANTHROPOGENIC GREENHOUSE GAS EMISSIONS
-[S.L.543.01 BY SOURCES AND REMOVALS BY SINKS 7
+categories, as well as source categories where significant changes in methods or data have been made;
+ANTHROPOGENIC GREENHOUSE GAS EMISSIONS
+[S.L. 543.01 8 BY SOURCES AND REMOVALS BY SINKS
 (d) based on the reviews described in sub-paragraph (c) and periodic
 internal evaluations of the inventory preparation process, re-evaluate the inventory planning process in order to meet the established quality objectives referred to in paragraph 1(g).
 Inventory management

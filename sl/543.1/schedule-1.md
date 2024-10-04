@@ -17,6 +17,5 @@ are systematically neither over nor under true emissions or removals, as far as 
 3. The national greenhouse gas inventory system shall be operated to enable compliance with commitments relating to the estimation of anthropogenic greenhouse gas emissions by sources and removals by sinks.
 4. The national greenhouse gas inventory system shall be operated to enable Malta to consistently estimate anthropogenic emissions by all sources and removals by all sinks of all greenhouse gases, as covered by the relevant IPCC guidelines for national greenhouse gas inventories and IPCC good practice guidance, in accordance with relevant decisions of the COP and, or, the COP/MOP.
 5. The national greenhouse gas inventory system shall ensure that sufficient capacity is available for timely performance of the functions relevant to inventory preparation and management.
-6. The national greenhouse gas inventory systems shall ensure the competency of persons involved in the inventory development process.
-ANTHROPOGENIC GREENHOUSE GAS EMISSIONS
-[S.L. 543.01 6 BY SOURCES AND REMOVALS BY SINKS
+6. The national greenhouse gas inventory systems shall ensure the competency of persons involved in the inventory development process. ANTHROPOGENIC GREENHOUSE GAS EMISSIONS
+[S.L.543.01 BY SOURCES AND REMOVALS BY SINKS 7
