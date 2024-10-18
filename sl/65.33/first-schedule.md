@@ -1,3 +1,4 @@
+## comply with the provisions mentioned in this regulation.
 ## FIRST SCHEDULE
 # first-schedule
 (Regulations 5(4), 42(b), 44(5), 44(6), 65(4))

@@ -1,3 +1,4 @@
+## comply with the provisions mentioned in this regulation.
 ## FIRST SCHEDULE
 # first-schedule
 (Regulations 5(4), 42(b), 44(5), 44(6), 65(4))
@@ -28,6 +29,6 @@ Application fee for a Passenger Transport Vehicle
 Licence (under Part VIII €25
 Application fee for Intermediary Booking Platform
 Service (under Part IX) €100
+[S.L. 499.68 VEHICLE HIRE SERVICES 45
 Renewal Fee (under Part IX
 €100
-[S.L. 499.68 VEHICLE HIRE SERVICES 45

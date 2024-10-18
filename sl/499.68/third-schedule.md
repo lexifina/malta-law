@@ -7,9 +7,10 @@ List of subjects to be covered in the training course to obtain a driver's permi
 a. Knowledge of the characteristics of the
 transmission (gear) systems enabling a driver to make the best possible use of them;
 b. Knowledge of the technical characteristics and
-operation of the safety controls in order to control the vehicle (compliance with safety and security procedures), minimise wear and tear and prevent vehicle malfunction; and
+operation of the safety controls in order to control the vehicle (compliance with safety and security procedures), minimise [S.L. 499.68 46 VEHICLE HIRE SERVICES
+wear and tear and prevent vehicle malfunction; and
 c. Ability to optimise fuel consumption and ECO
-driving skills. [S.L. 499.68 46 VEHICLE HIRE SERVICES
+driving skills.
 2. Safety of driver, passengers and other road users
 including:
 a. Ability to ensure passenger comfort and safety
@@ -40,10 +41,10 @@ g. Awareness of the risks on the road and accidents at
 work.
 3. Routes and destinations
 a. Thorough knowledge of routes, including the
+[S.L. 499.68 VEHICLE HIRE SERVICES 47
 ability to provide shortest route and alternate routes; and
 b. Basic knowledge of prime tourist and commercial
 locations across Malta and Gozo
-[S.L. 499.68 VEHICLE HIRE SERVICES 47
 4. Interpersonal skills including:
 a. Customer Care
 b. Politeness

@@ -3,7 +3,7 @@ SUBSIDIARY LEGISLATION 65.33
 LIGHT PASSENGER TRANSPORT SERVICES AND
 VEHICLE HIRE SERVICES REGULATIONS
 4th September, 2020
-LEGAL NOTICE 366 of 2020, as amended by Legal Notices 344 of 2021, 336 of 2022 and 111, 186 and 246 of 2023.
+LEGAL NOTICE 366 of 2020, as amended by Legal Notices 344 of 2021, 336 of 2022 and 111, 186 and 246 of 2023 and 269 of 2024.
 Regulations Part I Preliminary 2 - 4 Part II Operator's Licence for Light Passenger Transport
 5 - 14
 Services Part III Light Passenger Transport Services: Obligations
