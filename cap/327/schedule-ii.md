@@ -207,8 +207,7 @@ Students of the University 4.* Applicants to Courses shall be accepted as:
 (2) probationary students in an undergraduate course if they:
 have reached the age of 18 by the 31st December of the year during (a)
 which the course for which they apply commences; and
-(b) are in possession of the required Secondary Education Certificate (SEC) passes at grade 5 or better in English, Maltese and Mathematics as
-indicated in regulation 12 (1) (b) of these regulations; and
+(b) are in possession of the required Secondary Education Certificate (SEC) Examination passes at grade 5 or better or at SEC level 3 in English Language, Maltese and Mathematics as indicated in regulation 12(1)(b) of these regulations; and
 (c) have sat all six subjects as specified in regulation 5 (2) (a) as indicated
 in the Matriculation Certificate Regulations, 2013; and
 (d) have attempted to improve their Matriculation Certificate by sitting for the required subject or subjects at the MATSEC Second Session of examinations (normally held in September) of the year during which the course for which they apply commences; and
@@ -256,9 +255,10 @@ Auditing students
 9. (1) The University may allow individuals with particular interests to widen their knowledge by attending study-units as auditing students.
 (2) Auditing students may be admitted to follow study-units provided the lecturer concerned poses no objection thereto and is satisfied that the individual has the necessary academic background to follow the study-units with profit.
 (3) Auditing students shall be entitled to the rights and privileges accorded to regular students, but may not sit for any assessments of the University. The University may withdraw permission previously granted by it to any auditing students to follow study-units at any time. Auditing students may be charged an administrative service fee.
+(4) Auditing students are only entitled to a Certificate of Attendance upon attending the majority of the lectures.
 Junior Students of the University 10.* Applicants may be admitted to the University as Junior Students at the Junior College of the University if they:
-either (a) are in possession of six passes in the Secondary Education
-Certificate (SEC) examination at grade 5 or better, provided that one of the subjects must be Maltese, English Language or Mathematics. Students missing one or two subjects from Maltese, English Language or Mathematics must attend preparatory classes at the Junior College in order to satisfy the General Entry Requirements as specified in Regulation 12 of these regulations;
+either (a) are in possession of six passes in the Secondary Education Certificate
+(SEC) Examination at grade 5 or better or at SEC level 3, provided that one of the subjects must be Maltese, English Language or Mathematics. Students missing one or two subjects from Maltese, English Language or Mathematics shall be required to attend preparatory classes at the Junior College in order to satisfy the General Entry Requirements as specified in Regulation 12 of these regulations;
 or (b) possess SEC qualifications which fall short of those required, which
 shortfall the Admissions Board, on the advice of the Access Disability Support Committee, deems to have been due to a significant disability (including applicants within the Autism Spectrum and with Specific Learning Difficulties) and provided that the missing qualifications will not adversely affect the applicant's studies at the Junior College. Each application shall be considered on its own merits.
 The Admissions Board
@@ -282,7 +282,7 @@ Entry Requirements for Undergraduate Courses
 General Entry Requirements. Subject to any other provision of these regulations, the general entry requirements are the following:
 (a) the Matriculation Certificate, which is awarded to candidates who pass examinations in a range of subjects that includes a language, a humanistic, and a science subject, and Systems of Knowledge, as
 specified in the Matriculation Examination Regulations; and
-(b) passes in the Secondary Education Certificate at grade 5 or better in Maltese, English Language and Mathematics, provided that if a pass in Maltese, and, or English Language, and, or Mathematics is obtained at Advanced or Intermediate Matriculation Level, a pass in such subjects in the Secondary Education Certificate Examination is not required.
+(b) passes in the Secondary Education Certificate (SEC) Examination at grade 5 or better or at SEC level 3 in Maltese, English Language and Mathematics, provided that if a pass in Maltese, and/or English Language, and/or Mathematics is obtained at Advanced or Intermediate Matriculation Level, a pass in such subjects in the Secondary Education Certificate Examination is not required.
 (2) In the case of applicants who pursued their secondary education outside Malta, the University may consider and accept qualifications comparable to the qualifications stipulated in sub-regulation (1)(a) and (b), provided that the mix of subjects and levels of the qualifications presented are comparable to the subjects and levels required for the award of the Secondary Education Certificate and Matriculation Certificate.
 (3) The Admissions Board may consider the acceptance of passes obtained in other examinations at corresponding levels and grades to the Matriculation Examination and the Secondary Education Certificate for the purpose of admittance.
 (4) (a) Special Course Requirements. Regulations or bye-laws for a
