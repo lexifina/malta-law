@@ -179,7 +179,8 @@ union or not, in a cohabitation registered under the Cohabitation Act or enrolle
 the deceased;
 (e) Name and surname of parents including their surname at birth
 of the deceased, and whether they are living or dead;
-(f) The place and cause of death, and place of burial;
+(f) The place and cause of death, and place of burial or
+cremation;
 (g) All the particulars of the witnesses, if any.
 ACT OF CIVIL UNION
 (a) Date of the Act;
@@ -196,7 +197,7 @@ parties in the civil union;
 - Substituted by: L.N. 212 of 1997.
 - Amended by: L.N. 355 of 2004; VIII.2007.27.
 - Substituted by: L.N. 407 of 2007.
-- Amended by: XIII.2007.13; XXIV.2011.99; XV.2012.27; XIX.2012.16; L.N. 311 of 2012; XXV.2014.5; L.N. 92 of 2015; XII.2015.6; LXV.2020.28; L.N. 40 of 2021.
+- Amended by: XIII.2007.13; XXIV.2011.99; XV.2012.27; XIX.2012.16; L.N. 311 of 2012; XXV.2014.5; L.N. 92 of 2015; XII.2015.6; XVII.2019.41; LXV.2020.28; L.N. 40 of 2021.
 - Amended by: L.N. 148 of 1975; XXX.1995.5; IX.2004.14.
 - Amended by: L.N. 148 of 1975; XXII.2005.83.
 - Added by: VII.1985.4.
@@ -209,6 +210,7 @@ parties in the civil union;
 - Substituted by: L.N. 339 of 2019.
 - Substituted by: L.N. 339 of 2019.
 - Amended by: XXVII.2020.40.
+- Substituted by: L.N. 38 of 2021.
 - Added by: Ord XXI.1962.19.
 - Substituted by: XXIII.2017.90; L.N. 339 of 2019; LXV.2020.29.
 - Substituted by: XXI.1993.85.
