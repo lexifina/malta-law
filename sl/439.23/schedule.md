@@ -17,10 +17,11 @@
 ## A person who infringes any of the provisions arising from the Staging regulation, shall, on points conviction be liable to a fine (multa) of not less than €11,646.87 and not exceeding €34,940.60
 ## On first conviction - fine of not less than €2,000 and not more than €65,000 or to a term of Non- imprisonment of three (3) compliance years or to both such fine and imprisonment.  with legal requirement On second or subsequent s for the conviction - fine of not transport of less than €6,000 and not animals more than €80,000 or to a term of imprisonment of three (3) years or to both such fine and imprisonment.
 ## Animals On first conviction - fine kept for of not less than €2,000 scientific and not more than purposes €65,000 or to a term of imprisonment of three (3) years or to both such fine and imprisonment.
+## Animal  Sanctuaries On second or subsequent conviction - fine of not less than €6,000 and not more than €80,000 or to a term of imprisonment of three (3) years or to both such fine and imprisonment.
 ## Circuses On first conviction - fine of not less than €2,000 and not more than €65,000 or to a term of imprisonment of three (3) years or to both such fine and imprisonment. 
 ## Karozzini On second or subsequent conviction - fine of not less than €6,000 and not more than €80,000 or to a term of imprisonment of three (3) years or to both such fine and imprisonment.
 ## On first conviction, a person shall be liable to a fine (multa) of not less than €2,000, but not exceeding €65,000.
-## Standards On second or subsequent conviction, a person shall be liable to a fine (multa) Operating of not less than €5,000, Pet but not exceeding Grooming €100,000. Establish- ments
+## On second or subsequent conviction, a person shall be liable to a fine (multa) of not less than €5,000, but not exceeding €100,000.
 ## On first conviction a person shall be liable to a fine (multa) of not less than €2,000, but not exceeding €65,000 or to a term of imprisonment not exceeding three (3) years or to both such fine and imprisonment.
 ## On second or subsequent conviction a person shall be liable to a fine (multa) of not less than €6,000 but not exceeding €80,000 or to a term of imprisonment not exceeding three (3) years or to both such fine and imprisonment.
 ## On first conviction a person shall be liable to a fine (multa) of not less than €2,000, but not exceeding €65,000.
@@ -79,23 +80,25 @@ article 47 of the Animal Welfare Act
 ꞏAnimals kept in an unsuitable
 ꞏAnimals made to suffer more than
 [S.L. 439.23 COMMITTED AGAINST THE ANIMAL WELFARE ACT 9
-ꞏOperating without a zoo licence
+ꞏA person managing, organising,
 ꞏKeeping of dangerous animals in
 ꞏKeeping of unregistered
 ꞏInadequate enclosure and micro-
-ꞏUnauthorized keeping of animals
-ꞏOperating without a licence
+ꞏKeeping or introducing dangerous
 ꞏOperating without a licence [S.L. 439.23 10 COMMITTED AGAINST THE ANIMAL WELFARE ACT
+ꞏOperating without a licence
 ꞏUse of animals in breach of Article
 ꞏNon-compliance and, or acts and
+[S.L. 439.23 COMMITTED AGAINST THE ANIMAL WELFARE ACT 11
 ꞏOperating or managing a pet
 ꞏOperating a pet grooming
 ꞏ
 ꞏFailure to keep adequate records
 ꞏInadequate enclosures
 ꞏInadequate administration of
-[S.L. 439.23 COMMITTED AGAINST THE ANIMAL WELFARE ACT 11
 ꞏOperating without a licence
 ꞏOperating or managing a pet
-Any person who breaches any other provision of the Animal Welfare Act or regulations made thereunder, and which may give rise to the imposition of an administrative penalty not otherwise specifically provided for in this Schedule, shall be liable to a penalty of not less than €2,000 and not more than €50,000.
-- Amended by: L.N. 148 of; 2024; L.N. 149 of 2024.
+Any person who breaches any other provision of the Animal Welfare Act or regulations made thereunder, and which may give rise to the imposition of an administrative penalty not otherwise specifically provided for in this Schedule, shall be
+[S.L. 439.23 12 COMMITTED AGAINST THE ANIMAL WELFARE ACT
+liable to a penalty of not less than €2,000 and not more than €50,000.
+- Amended by: L.N. 148 of 2024; L.N. 149 of 2024; L.N. 199 of 2024.

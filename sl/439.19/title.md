@@ -3,4 +3,4 @@ OWNING AND KEEPING OF DANGEROUS
 ANIMALS REGULATIONS
 5th February, 2016;
 5th May, 2016*
-LEGAL NOTICE 46 of 2016, as amended by Legal Notice 115 of 2023.
+LEGAL NOTICE 46 of 2016, as amended by Legal Notices 115 of 2023 and 199 of 2024.

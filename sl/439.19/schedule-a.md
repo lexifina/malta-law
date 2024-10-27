@@ -16,171 +16,154 @@ Application for Registration as Keeper
 Schedule B
 (Regulation 3)
 List of Dangerous Animals
-Scientific name of kind Common name or names MAMMALS Marsupials Family Dasyuridae: The Tasmanian devil.
-The species Sarcophilus laniarius. Family Macropodidae: The western and eastern grey kangaroos,
-the wallaroo and the red kangaroo. The species Macropus fuliginosus, Macropus giganteus, Macropus robustus and Macropus rufus. Primates Scientific name of kind Common name or names Family Cebidae: New-world monkeys (including
-capuchin, howler, saki, uacari, spider All species except those of the genera and woolly monkeys). Aotus, Callicebus and Saimiri.
-Night monkeys (also known as owl monkeys), titi monkeys and squirrel monkeys are excepted. Family Cercopithecidae: Old-world monkeys (including baboons,
-the drill, colobus monkeys, the gelada, All species. guenons, langurs, leaf monkeys,
-macaques, the mandrill, mangabeys, the patas and proboscis monkeys and the talapoin). Family Hominidae: Anthropoid apes; chimpanzees,
-bonobos, orang-utans and gorillas. All species except those of the genus Homo. Family Hylobatidae: Gibbons and Siamangs.
-All species. Family Indriidae: Leaping lemurs (including the indri and
-sifakas). The woolly lemur is excepted. All species of the genera Propithecus and Indri (Avahi lanigeris excepted). Family Lemuridae: Large lemurs.
-All species except those of the genus Bamboo or gentle lemurs are excepted. Hapalemur. Edentates Family Dasypodidae: The giant armadillo.
+Scientific name Common name or names MAMMALS Marsupials Family Dasyuridae: The Tasmanian devil.
+The species Sarcophilus laniarius. Family Macropodidae: The western and eastern grey
+kangaroos, the wallaroo and the red
+The species Macropus kangaroo. fuliginosus, Macropus giganteus, Macropus robustus and Macropus rufus.
+Primates Scientific name Common name or names Family Cebidae: New-world monkeys (including
+capuchin, howler, saki, uacari, spider
+All species except those of the and woolly monkeys). genera Aotus, Callicebus and Saimiri.
+Night monkeys (also known
+as owl monkeys), titi monkeys and squirrel monkeys are exempt.
+Family Cercopithecidae: Old-world monkeys (including
+baboons, the drill, colobus monkeys, the
+All species. gelada, guenons, langurs, leaf
+monkeys, macaques, the mandrill, mangabeys, the patas and proboscis monkeys and the talapoin).
+Family Hominidae: Anthropoid apes;
+chimpanzees, bonobos, orangutans and
+All species except those of the gorillas. genus Homo.
+Family Hylobatidae: Gibbons and Siamangs.
+All species. Family Indriidae: Leaping lemurs (including the
+indri and sifakas). The woolly lemur is
+All species of the genera exempt. Propithecus and Indri (Avahi lanigeris excepted).
+Family Lemuridae: Large lemurs.
+All species except those of the Bamboo or gentle lemurs are genus Hapalemur. exempt.
+Edentates Family Dasypodidae: The giant armadillo.
 The species Priodontes maximus. Family Myrmecophagidae: The giant anteater.
-The species Myrmecophaga tridactyla. Carnivores Family Canidae: Wild dogs, wolves, jackals, the maned
-wolf, the bush dog, dhole, foxes, All species except those of the genera raccoon dogs, dingo. Alopex, Cerdocyon, Dusicyon, Otocyon, Pseudolopex, Urocyon, Vulpes and Nyctereutes. Scientific name of kind Common name or names Family Felidae: All cats including the bobcat, caracal,
-cheetah, jaguar, leopard, lion, lynx, All except - ocelot, puma, serval and tiger.
-(a) the species Felis silvestris, The following are excepted:
-Otocolobus manul, Leopardus tigrinus, Oncifelis geoffroyi, (i) the wild cat, the pallas cat, the
-Oncifelis guigna, Catopuma badia, little spotted cat, the Geoffroy's Felis margarita, Felis nigripes, cat, the kodkod, the bay cat, the Prionailurus rubiginosus and Felis sand cat, the black-footed cat, the silvestris catus; rusty-spotted cat and the domestic
-cat;
-(b) a hybrid which is descended
-exclusively from any one or more (ii) a hybrid cat which is descended
-species within paragraph (a); exclusively from any one or more
-species within paragraph (a);
-(c) a hybrid of which -
-(iii) a hybrid cat having as one parent a
-(i) one parent is Felis silvestris domestic cat and as the other catus, and parent a first generation hybrid of
-a domestic cat and any cat not
-(ii) the other parent is a first
-within paragraph (a);
-generation hybrid of Felis silvestris catus and any cat not within paragraph (a);
-(d) any cat which is descended (iv) any cat which is descended
-exclusively from any one or more exclusively from any one or more hybrids within paragraph (c) hybrids within paragraph (c);
-(ignoring, for the purpose of
-(v) any cat which is descended determining exclusivity of descent, exclusively from a domestic cat the parents and remoter ancestors of and any one or more hybrids any hybrid within paragraph (c)); within paragraph (c).
-(e) any cat which is descended
-exclusively from Felis silvestris catus and any one or more hybrids within paragraph (c) (ignoring, for the purpose of determining exclusivity of descent, the parents and remoter ancestors of any hybrid within paragraph (c)). Family Hyaenidae: Hyænas. The aardwolf is excepted.
-All except the species Proteles cristatus. Scientific name of kind Common name or names Family Mustelidae: Badgers (except the Eurasian badger),
-otters (except the European otter) and All species of the genera Amblonyx, the tayra, wolverine, fisher and ratel Arctonyx, Aonyx, Enhydra, Lontra, (otherwise known as the honey badger). Melogale, Mydaus, Pteronura and Taxidea.
+The species Myrmecophaga tridactyla.
+Carnivores Scientific Name Common name or names Family Canidae: All species including wild dogs,
+wolves, jackals, the maned wolf, the
+All species except those of the bush dog, dhole, foxes, raccoon genera Alopex, Cerdocyon, Dusicyon, dogs, dingo. Otocyon, Pseudolopex, Urocyon, Vulpes and Nyctereutes. The domestic dog is exempt.
+The species Canis familiaris and Canis lupus familiaris, except for the subspecies canis familiaris dingo, are also exempt.
+Scientific name Common name or names Family Felidae: All cats including the bobcat,
+caracal, cheetah, jaguar, leopard, lion,
+All except: lynx, ocelot, puma, savannah, serval and
+tiger.
+(a) the species Felis silvestris, Otocolobus manul, Leopardus tigrinus, The following are exempt: Oncifelis geoffroyi, Oncifelis guigna, Catopuma badia, Felis margarita, Felis (i) the wild cat, the pallas nigripes, Prionailurus rubiginosus and cat, the little spotted cat, the Felis silvestris catus; Geoffroy's cat, the kodkod, the
+bay cat, the sand cat, the black-
+(b) a hybrid which is footed cat, the rusty-spotted cat and descended exclusively from any one or the domestic cat; more species within paragraph (a);
+(ii) a hybrid cat which is
+(ċ) a hybrid of which: descended exclusively from any
+one or more species within
+(i) one parent is Felis
+paragraph (a);
+silvestris catus, and
+(iii) a hybrid cat having as
+(ii) the other parent is a
+one parent a domestic cat and as
+first generation hybrid of Felis
+the other parent a first generation
+silvestris catus and any cat not
+hybrid of a domestic cat and any
+found in paragraph (a);
+cat not found in paragraph (a);
+(d) any cat which is
+(iv) any cat which is descended exclusively from any one or
+descended exclusively from any more hybrids found in paragraph (c)
+one or more hybrids found in (ignoring, for the purpose of
+paragraph (c); determining exclusivity of descent, the parents and remoter ancestors of any (v) any cat which is hybrid within paragraph (c)); descended exclusively from a
+domestic cat and any one or
+(e) any cat which is
+more hybrids found in paragraph descended exclusively from Felis
+(c). silvestris catus and any one or more hybrids found in paragraph (c) (ignoring, for the purpose of determining exclusivity of descent, the parents and remoter ancestors of any hybrid within paragraph (c)).
+Hyænas. The aardwolf is exempt. Family Hyaenidae:
+All except the species Proteles cristatus.
+Common name or names Scientific name
+Family Mustelidae: Badgers (except the Eurasian
+badger), otters (except the European
+All species of the genera otter) and the tayra, wolverine, fisher Amblonyx, Arctonyx, Aonyx, Enhydra, and ratel (otherwise known as the honey Lontra, Melogale, Mydaus, Pteronura badger). and Taxidea.
 The genus Lutra except the species Lutra lutra.
-The species Eira barbara, Gulo gulo, Martes pennanti and Mellivora capensis. Family Ursidae: All bears including the giant panda and
-the red panda. All species including the species Ailuropoda melanoleuca and Ailurus fulgens. Family Viverridae: The African, large-spotted, Malay and
-Indian civets and the fossa. All of the genus Civettictis.
+The species Eira barbara, Gulo gulo, Martes pennanti and Mellivora capensis.
+Family Ursidae: All bears including the giant
+panda and the red panda.
+All species including the species Ailuropoda melanoleuca and Ailurus fulgens.
+Family Viverridae: The African, large-spotted, Malay
+and Indian civets and the fossa.
+All of the genus Civettictis.
 All of the genus Viverra.
 The species Cryptoprocta ferox. Pinnipedes Family Odobenidae: The walrus.
 All species. Family Otariidae: Eared seals.
 All species. Family Phocidae: True or earless seals.
-All species except Phoca vitulina and The common seal (or harbour seal) and Halichoerus grypus. grey seal are excepted. Elephants Family Elephantidae: Elephants.
-All species. Aardvark Family Orycteropodidae: The aardvark.
+All species except Phoca vitulina The common seal (or harbour and Halichoerus grypus. seal) and grey seal are exempt.
+Elephants Family Elephantidae: Elephants.
+All species. Aardvark Family Orycteropodidae: Aardvark.
 The species Orycteropus afer. Odd-toed ungulates Family Rhinocerotidae: Rhinoceroses.
-All species. Scientific name of kind Common name or names Family Tapiridae: Tapirs.
+All species. Scientific name Common name or names Family Tapiridae: Tapirs.
 All species. Even-toed ungulates Family Antilocapridae: The pronghorn.
-The species Antilocapra americana. Family Bovidae: Antelopes, bison, buffalo, gazelles, goats
-and sheep. All species except any domestic form of the genera Bos, Bubalus, Capra and Domestic cattle, buffalo, goats and sheep Ovis. are excepted. Family Cervidae: The moose or elk and the caribou or
-reindeer. All species of the genera Alces and Rangifer, except any domestic form of The domestic moose or elk and the these species. caribou or reindeer are excepted. Family Giraffidae: The giraffe and the okapi.
-All species. Family Hippopotamidae: The hippopotamus and the pygmy
-hippopotamus. All species. Family Suidae: Old-world pigs (including the wild boar
-and the wart hog). All species except any domestic form of the species Sus scrofa. The domestic pig is excepted. Family Tayassuidae: New-world pigs (otherwise known as
-peccaries). All species. Hybrids Any hybrid of a kind of animal specified Any mammalian hybrids with at least (other than by way of exception) in the one parent of a specified kind, and any foregoing provisions of this column animal of which at least one parent is where at least one parent is of a kind so such a hybrid. specified, and any animal of which at
-This does not apply to excepted cat least one parent is such a hybrid. hybrids. This does not include an excepted hybrid of the Family Felidae. REPTILES Crocodilians Family Alligatoridae: Alligators and caimans.
+The species Antilocapra americana.
+Family Bovidae: Antelopes, bison, buffalo, gazelles,
+goats and sheep.
+All species except any domestic form of the genera Bos, Bubalus, Domestic cattle, buffalo, goats and Capra and Ovis. sheep are exempt.
+Family Cervidae: The moose or elk and the caribou
+or reindeer.
+All species of the genera Alces and Rangifer, except any domestic The domestic moose or elk form of these species. and the caribou or reindeer are exempt.
+Family Giraffidae: The giraffe and the okapi.
+All species. Family Hippopotamidae: The hippopotamus and the
+pygmy hippopotamus.
+All species. Family Suidae: Old-world pigs (including the wild
+boar and the wart hog).
+All species except any domestic form of the species Sus scrofa. The domestic pig is exempt.
+Family Tayassuidae: New-world pigs (otherwise known
+as peccaries).
+All species.
+Hybrids Any mammalian hybrids with at
+least one parent of a specified kind, and
+Any hybrid of a kind of animal any animal of which at least one parent is specified (other than by way of exception) such a hybrid. in the foregoing provisions of this column where at least one parent is of a This does not apply to kind so specified, and any animal of exempt cat hybrids. which at least one parent is such a hybrid.
+This does not include an excepted hybrid of the Family Felidae.
+REPTILES Crocodilians
+Family Alligatoridae: Alligators and caimans.
 All species. Family Crocodylidae: Crocodiles and the false gharial.
-All species. Scientific name of kind Common name or names Family Gavialidae: The gharial (otherwise known as the
-gavial). All species. Lizards and snakes Family Atractaspididae: Burrowing asps, also known as mole or
-burrowing vipers and stiletto snakes. All species of the genus Atractaspis. Family Colubridae: Certain rear-fanged venomous snakes,
-Montpellier snakes and African vine All species of the genera Malpolon and snakes (otherwise known as African Thelotornis. twig or bird snakes).
+All species. Scientific name Common name or names Family Gavialidae: The gharial (otherwise known
+as the gavial).
+All species. Lizards and snakes Family Atractaspididae: Burrowing asps, also known as
+mole or burrowing vipers and stiletto
+All species of the genus snakes. Atractaspis.
+Family Colubridae: Certain rear-fanged venomous
+snakes, Montpellier snakes and African
+All species of the genera Malpolon vine snakes (otherwise known as and Thelotornis. African twig or bird snakes).
 The species Dispholidus typus, The boomslang, the red-necked Rhabdophis subminiatus, Rhabdophis keelback, the yamakagashi (otherwise tigrinus, Elapomorphus lemniscatus, known as the Japanese tiger-snake), the Philodryas olfersii, Tachymenis Argentine black-headed snake, the South peruviana and Xenodon severus. American green racer, the Peruvian racer
-and the Amazon false viper. Family Elapidae: Certain front-fanged venomous snakes
-including cobras, coral snakes, kraits, All species. mambas, whipsnakes and all Australian
-poisonous snakes (including the death adders). Family Hydrophiidae: Sea snakes.
-All species. Family Helodermatidae: The gila monster and the (Mexican)
-beaded lizard. All species. Family Viperidae: Certain front-fanged venomous snakes
-(including adders, the barba amarilla, the All species. bushmaster, the fer-de-lance, moccasins,
-rattlesnakes and vipers). INVERTEBRATES Spiders Family Ctenidae: Wandering spiders, and other species
-that might cause physical harm to The genus Phoneutria. humans and the eco-system.
-Family Hexathelidae: The Sydney funnel-web spider and its
-close relatives, and other species that The genus Atrax. might cause physical harm to humans
-and the eco-system. Family Sicariidae: Brown recluse spiders (otherwise known
-as violin spiders), and other species that The genus Loxosceles. might cause physical harm to humans
-and the eco-system. Scientific name of kind Common name or names Family Theridiidae: The widow spiders and close relatives,
-and other species that might cause The genus Latrodectus. physical harm to humans and the eco-
-system.
-Scorpions Family Buthidae: Buthid scorpions and other species that
-might cause physical harm to humans All species. and the eco-system.
-Family Hemioscorpiidae: Middle-Eastern thin-tailed scorpion and
-other species that might cause physical The species Hemiscorpius lepturus. harm to humans and the eco-system.
-Scientific name of kind Common name or names MAMMALS Marsupials Family Dasyuridae: The Tasmanian devil.
-The species Sarcophilus laniarius. Family Macropodidae: The western and eastern grey kangaroos,
-the wallaroo and the red kangaroo. The species Macropus fuliginosus, Macropus giganteus, Macropus robustus and Macropus rufus. Primates Family Cebidae: New-world monkeys (including capuchin,
-howler, saki, uacari, spider and woolly All species except those of the genera monkeys). Aotus, Callicebus and Saimiri.
-Night monkeys (also known as owl monkeys), titi monkeys and squirrel monkeys are excepted. Family Cercopithecidae: Old-world monkeys (including baboons,
-the drill, colobus monkeys, the gelada, All species. guenons, langurs, leaf monkeys,
-macaques, the mandrill, mangabeys, the patas and proboscis monkeys and the talapoin). Family Hominidae: Anthropoid apes; chimpanzees, bonobos,
-orang-utans and gorillas. All species except those of the genus Homo. Family Hylobatidae: Gibbons and Siamangs.
-All species. Scientific name of kind Common name or names Family Indriidae: Leaping lemurs (including the indri and
-sifakas). The woolly lemur is excepted. All species of the genera Propithecus and Indri (Avahi lanigeris excepted). Family Lemuridae: Large lemurs.
-All species except those of the genus Bamboo or gentle lemurs are excepted. Hapalemur. Edentates Family Dasypodidae: The giant armadillo.
-The species Priodontes maximus. Family Myrmecophagidae: The giant anteater.
-The species Myrmecophaga tridactyla. Carnivores Family Canidae: Wild dogs, wolves, jackals, the maned
-wolf, the bush dog, dhole, foxes, raccoon All species except those of the genera dogs, dingo. Alopex, Cerdocyon, Dusicyon, Otocyon, Pseudolopex, Urocyon, Vulpes and Nyctereutes. Family Felidae: All cats including the bobcat, caracal,
-cheetah, jaguar, leopard, lion, lynx, ocelot, All except - puma, serval and tiger.
-(a) the species Felis silvestris, Otocolobus The following are excepted:
-manul, Leopardus tigrinus, Oncifelis geoffroyi, Oncifelis guigna, Catopuma (i) the wild cat, the pallas cat, the little
-badia, Felis margarita, Felis nigripes, spotted cat, the Geoffroy's cat, the Prionailurus rubiginosus and Felis kodkod, the bay cat, the sand cat, the silvestris catus; black-footed cat, the rusty-spotted
-cat and the domestic cat;
-(b) a hybrid which is descended
-exclusively from any one or more (ii) a hybrid cat which is descended
-species within paragraph (a); exclusively from any one or more
-species within paragraph (a);
-(c) a hybrid of which -
-(iii) a hybrid cat having as one parent a
-(i) one parent is Felis silvestris domestic cat and as the other parent catus, and a first generation hybrid of a
-domestic cat and any cat not within
-(ii) the other parent is a first
-paragraph (a);
-generation hybrid of Felis silvestris catus and any cat not within paragraph (a); Scientific name of kind Common name or names
-(d) any cat which is descended exclusively (iv) any cat which is descended
-from any one or more hybrids within exclusively from any one or more paragraph (c) (ignoring, for the hybrids within paragraph (c);
-purpose of determining exclusivity of
-(v) any cat which is descended descent, the parents and remoter exclusively from a domestic cat and ancestors of any hybrid within any one or more hybrids within paragraph (c)); paragraph (c).
-(e) any cat which is descended exclusively
-from Felis silvestris catus and any one or more hybrids within paragraph (c) (ignoring, for the purpose of determining exclusivity of descent, the parents and remoter ancestors of any hybrid within paragraph (c)). Family Hyaenidae: Hyænas. The aardwolf is excepted.
-All except the species Proteles cristatus. Family Mustelidae: Badgers (except the Eurasian badger),
-otters (except the European otter) and the All species of the genera Amblonyx, tayra, wolverine, fisher and ratel Arctonyx, Aonyx, Enhydra, Lontra, (otherwise known as the honey badger). Melogale, Mydaus, Pteronura and Taxidea.
-The genus Lutra except the species Lutra lutra.
-The species Eira barbara, Gulo gulo, Martes pennanti and Mellivora capensis. Family Ursidae: All bears including the giant panda and the
-red panda. All species including the species Ailuropoda melanoleuca and Ailurus fulgens. Family Viverridae: The African, large-spotted, Malay and
-Indian civets and the fossa. All of the genus Civettictis.
-All of the genus Viverra.
-The species Cryptoprocta ferox. Pinnipedes Family Odobenidae: The walrus.
-All species. Family Otariidae: Eared seals.
-All species. Scientific name of kind Common name or names Family Phocidae: True or earless seals.
-All species except Phoca vitulina and The common seal (or harbour seal) and Halichoerus grypus. grey seal are excepted. Elephants Family Elephantidae: Elephants.
-All species. Aardvark Family Orycteropodidae: The aardvark.
-The species Orycteropus afer. Odd-toed ungulates Family Rhinocerotidae: Rhinoceroses.
-All species. Family Tapiridae: Tapirs.
-All species. Even-toed ungulates Family Antilocapridae: The pronghorn.
-The species Antilocapra americana. Family Bovidae: Antelopes, bison, buffalo, gazelles, goats
-and sheep. All species except any domestic form of the genera Bos, Bubalus, Capra and Ovis. Domestic cattle, buffalo, goats and sheep
-are excepted. Family Cervidae: The moose or elk and the caribou or
-reindeer. All species of the genera Alces and Rangifer, except any domestic form of The domestic moose or elk and the caribou these species. or reindeer are excepted. Family Giraffidae: The giraffe and the okapi.
-All species. Family Hippopotamidae: The hippopotamus and the pygmy
-hippopotamus. All species. Family Suidae: Old-world pigs (including the wild boar
-and the wart hog). All species except any domestic form of the species Sus scrofa. The domestic pig is excepted. Family Tayassuidae: New-world pigs (otherwise known as
-peccaries). All species. Hybrids Scientific name of kind Common name or names Any hybrid of a kind of animal specified Any mammalian hybrids with at least one (other than by way of exception) in the parent of a specified kind, and any animal foregoing provisions of this column where of which at least one parent is such a at least one parent is of a kind so specified, hybrid. and any animal of which at least one parent
-This does not apply to excepted cat is such a hybrid. hybrids. This does not include an excepted hybrid of the Family Felidae. REPTILES Crocodilians Family Alligatoridae: Alligators and caimans.
-All species. Family Crocodylidae: Crocodiles and the false gharial.
-All species. Family Gavialidae: The gharial (otherwise known as the
-gavial). All species. Lizards and snakes Family Atractaspididae: Burrowing asps, also known as mole or
-burrowing vipers and stiletto snakes. All species of the genus Atractaspis. Family Colubridae: Certain rear-fanged venomous snakes,
-Montpellier snakes and African vine All species of the genera Malpolon and snakes (otherwise known as African twig Thelotornis. or bird snakes).
-The species Dispholidus typus, The boomslang, the red-necked keelback, Rhabdophis subminiatus, Rhabdophis the yamakagashi (otherwise known as the tigrinus, Elapomorphus lemniscatus, Japanese tiger-snake), the Argentine Philodryas olfersii, Tachymenis peruviana black-headed snake, the South American and Xenodon severus. green racer, the Peruvian racer and the
-Amazon false viper. Family Elapidae: Certain front-fanged venomous snakes
-including cobras, coral snakes, kraits, All species. mambas, whipsnakes and all Australian
-poisonous snakes (including the death adders). Family Hydrophiidae: Sea snakes.
-All species. Family Helodermatidae: The gila monster and the (Mexican)
-beaded lizard. All species. Scientific name of kind Common name or names Family Viperidae: Certain front-fanged venomous snakes
-(including adders, the barba amarilla, the All species. bushmaster, the fer-de-lance, moccasins,
-rattlesnakes and vipers). INVERTEBRATES Spiders Family Ctenidae: Wandering spiders, and other species that
-might cause physical harm to humans and The genus Phoneutria. the eco-system.
-Family Hexathelidae: The Sydney funnel-web spider and its
-close relatives, and other species that The genus Atrax. might cause physical harm to humans and
-the eco-system. Family Sicariidae: Brown recluse spiders (otherwise known
-as violin spiders), and other species that The genus Loxosceles. might cause physical harm to humans and
-the eco-system. Family Theridiidae: The widow spiders and close relatives, and
-other species that might cause physical The genus Latrodectus. harm to humans and the eco-system.
-Scorpions Family Buthidae: Buthid scorpions and other species that
-might cause physical harm to humans and All species. the eco-system.
-Family Hemioscorpiidae: Middle-Eastern thin-tailed scorpion and
-other species that might cause physical The species Hemiscorpius lepturus. harm to humans and the eco-system.
+and the Amazon false viper.
+Family Elapidae: Certain front-fanged venomous
+snakes including cobras, coral snakes,
+All species. kraits, mambas, whipsnakes and all
+Australian poisonous snakes (including the death adders).
+Family Hydrophiidae: Sea snakes.
+All species. Family Helodermatidae: The gila monster and the
+(Mexican) beaded lizard.
+All species. Family Viperidae: Certain front-fanged venomous
+snakes (including adders, the barba
+All species. amarilla, the bushmaster, the fer-de-
+lance, moccasins, rattlesnakes and vipers).
+INVERTEBRATES Spiders Family Ctenidae: Wandering spiders, and other
+species that might cause physical
+The genus Phoneutria. harm to humans and, or the eco-system.
+Family Hexathelidae: The Sydney funnel-web spider
+and its close relatives, and other species
+The genus Atrax. that might cause physical harm to
+humans and, or the eco-system.
+Family Sicariidae: Brown recluse spiders (otherwise
+known as violin spiders), and other
+The genus Loxosceles. species that might cause physical harm
+to humans and or the eco-system.
+Scientific name Common name or names Family Theridiidae: The widow spiders and close
+relatives, and other species that
+The genus Latrodectus. might cause physical harm to humans
+and, or the eco-system.
+Scorpions
+Family Buthidae: Buthid scorpions and other species
+that might cause physical harm to
+All species. humans and, or the eco-system.
+Family Hemioscorpiidae: Middle-Eastern thin-tailed
+scorpion and or other species that might
+The species Hemiscorpius cause physical harm to humans and the lepturus. eco-system
+- Substituted by: L.N. 199 of 2024.
