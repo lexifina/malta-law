@@ -5,4 +5,4 @@ COUNSELLING - M. Couns. - UNDER THE
 AUSPICES OF THE FACULTY FOR
 SOCIAL WELLBEING
 12th November, 2010
-LEGAL NOTICE 482 of 2010, as amended by Legal Notices 394 of 2012, 377 of 2014, 187 of 2016 54 of 2017 and 10 of 2020.
+LEGAL NOTICE 482 of 2010, as amended by Legal Notices 394 of 2012, 377 of 2014, 187 of 2016 54 of 2017, 10 of 2020 and 288 of 2024.
