@@ -3,6 +3,8 @@
 ## Department of Active Ageing and Community Care
 ## Cabinet Office
 ## Department of Civil Protection
+## Customs Department
+## Economic Policy Department
 ## Fisheries and Aquaculture Department
 ## Department for Health Regulation
 ## Department for Healthcare Services
@@ -23,4 +25,4 @@ Part I
 Departments other than those not subject to ministerial control
 Part II
 Departments not subject to ministerial control
-- Amended by: L.N. 301 of 2024.
+- Amended by: L.N. 301 of 2024; L.N. 308 of 2024.
