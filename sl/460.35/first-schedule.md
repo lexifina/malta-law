@@ -24,10 +24,10 @@ where they wish to do so, in local, international cooperation networks or both.
 (a) CSIRTMalta tasks shall include at least the
 following:
 (i) monitoring incidents at a national level;
+[S.L. 460.35 OF NETWORK AND INFORMATION SYSTEMS 21
 (ii) providing early warning, alerts,
 announcements and dissemination of information to relevant stakeholders about risks and incidents;
 (iii) Coordinating and responding to incidents
-[S.L. 460.35 OF NETWORK AND INFORMATION SYSTEMS 21
 providing the necessary support and advice to constituents;
 (iv) providing dynamic risk and incident
 analysis and situational awareness;
