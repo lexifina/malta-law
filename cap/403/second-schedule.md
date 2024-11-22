@@ -28,4 +28,3 @@ VIII Collective Contracts of a kind referred to in Article
 insurance 2(3)(b)(v) of the Solvency II Directive.
 IX Social insurance Contracts of a kind referred to in Article
 2(3)(c) of the Solvency II Directive.
-- Amended by: XII. 2006.120; XXXIII. 2015.75.
