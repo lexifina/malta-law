@@ -1,5 +1,4 @@
 SUBSIDIARY LEGISLATION 424.13
-WORK PLACE (FIRST AID) REGULATIONS
+WORK PLACE (FIRST AID) REGULATIONS*
 22nd January, 2002
-LEGAL NOTICE 11 of 2002, as amended by Legal Notice 348 of 2011.
-The title of these regulations is the Work Place (First Aid) 1. Regulations.
+LEGAL NOTICE 11 of 2002, as amended by Legal Notice 348 of 2011 and Act XXXIII of 2024.
