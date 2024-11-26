@@ -10,4 +10,3 @@ exposure to a concentration of lead in air is greater than 0,075 mg/m3, -calcula
 - a blood-lead level greater than 40 lg Pb/100 ml blood is measured in
 individual workers.
 1.3 Practical guidelines for biological monitoring and medical surveillance must be developed in accordance with regulation 13. These must include recommendations of biological indicators (e.g. ALAU, ZPP, AI.AD) and biological monitoring strategies.
-[S.L.424.24 13 FROM THE RISKS RELATED TO CHEMICAL AGENTS AT WORK

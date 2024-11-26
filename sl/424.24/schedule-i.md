@@ -1,10 +1,11 @@
 ## SCHEDULE I
 # schedule-i
 LIST OF BINDING OCCUPATIONAL EXPOSURE LIMIT VALUES
-Name of agent EINECS No (1) CAS No (2) Occupational Occupational Exposure limit Exposure limit value 8 h (3) value Short-term (4)
+EINECS No (1) CAS No (2) Name of agent Occupational Occupational
+Exposure limit Exposure limit value value 8 h (3) Short-term (4)
 Mg/m3 Mg/m3 ppm ppm
 (5) (6)
-I n o rg a n i c 0,15 lead and its compounds
+Inorganic lead 0,15 a n d i t s compounds
 (1) EINECS: European Inventory of Existing Commercial Chemical Substances.
 (2) CAS: Chemical Abstracts Service.
 (3) Measured or calculated in relation to a reference period of eight hours, time-weighted average.
