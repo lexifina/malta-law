@@ -1,0 +1,5 @@
+SUBSIDIARY LEGISLATION 646.03
+WORK PLACES (HEALTH, SAFETY AND WELFARE)
+REGULATIONS
+9th February, 1987
+LEGAL NOTICE 52 of 1986, as amended by Legal Notices 22 and 71 of 1996; Act XXVII of 2000; and Legal Notices 44 of 2002, 35, 36 and 121 of 2003, and 293 of 2016 and Act XXXIII of 2024.
