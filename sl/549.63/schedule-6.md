@@ -6,7 +6,8 @@ Measures that can affect the framework conditions related to the generation of w
 1. The use of planning measures, or other economic instruments promoting the efficient use of resources.
 2. The promotion of research and development into the area of achieving cleaner and less wasteful products and technologies and the dissemination and use of the results of such research and development.
 3. The development of effective and meaningful indicators of the environmental pressures associated with the generation of waste aimed at contributing to the prevention of waste generation at all levels, from product comparisons at Community level through action by local authorities to national measures.
-Measures that can affect the design and production and distribution phase 4. The promotion of eco-design (the systematic integration of environmental aspects into product design with the aim to improve the environmental performance of the product throughout its whole life cycle).
+Measures that can affect the design and production and distribution phase
+4. The promotion of eco-design (the systematic integration of environmental aspects into product design with the aim to improve the environmental performance of the product throughout its whole life cycle).
 5. The provision of information on waste prevention techniques with a view to facilitating the implementation of best available techniques by industry.
 6. Organise training of competent authorities as regards the insertion of waste prevention requirements in permits under these regulations and the Integrated Pollution Prevention and Control Regulations.
 7. The inclusion of measures to prevent waste production at installations not falling under the Integrated Pollution Prevention and Control Regulations. Where appropriate, such measures could include waste prevention assessments or plans.
@@ -20,3 +21,4 @@ Measures that can affect the consumption and use phase
 14. Agreements with industry, such as the use of product panels such as those being carried out within the framework of Integrated Product Policies or with retailers on the availability of waste prevention information and products with a lower environmental impact.
 15. In the context of public and corporate procurement, the integration of environmental and waste prevention criteria into calls for tenders and contracts, in line with the Handbook on environmental public procurement published by the Commission on 29 October 2004.
 16. The promotion of the reuse and/or repair of appropriate discarded products or of their components, notably through the use of educational, economic, logistic or other measures such as support to or establishment of accredited repair and reuse-centres and networks especially in densely populated regions.
+- Amended by: L.N. 441 of 2011.

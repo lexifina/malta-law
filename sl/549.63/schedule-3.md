@@ -1,4 +1,5 @@
 ## SCHEDULE 3
+## † This includes preparing for re-use, gasification and pyrolysis using the components as chemicals and recovery of organic materials in the form of backfilling ‡ This includes preparing for re-use § This includes preparing for re-use, recycling of inorganic construction materials, recovery of inorganic materials in the form of backfilling, and soil cleaning resulting in recovery of the soil **If there is no other R code appropriate, this can include preliminary operations prior to recovery including preprocessing such as, inter alia, dismantling, sorting, crushing, compacting, pelletising, drying, shredding, conditioning, repackaging, separating, blending or mixing prior to submission to any of the operations numbered R1 to R11. ††Temporary storage means preliminary storage according to regulation 4.
 # schedule-3
 PROPERTIES OF WASTE WHICH RENDER IT HAZARDOUS
 HP 1 "Explosive": waste which is capable by chemical reaction of producing gas at such a temperature and pressure and at such a speed as to cause damage to the surroundings. Pyrotechnic waste, explosive organic peroxide waste and explosive self-reactive waste is included.
@@ -55,9 +56,9 @@ When a waste contains one or more substances classified by one or more of the fo
 When a waste contains one or more substances classified as Asp. Tox. 1 and the sum of those substances exceeds or equals the concentration limit, the waste shall be classified as hazardous by HP 5 only where the overall kinematic viscosity (at 40 °C) does not exceed 20.5 mm2/s.*
 Table 4: Hazard Class and Category Code(s) and Hazard statement Code(s) for waste constituents and the corresponding concentration limits for the classification of wastes as hazardous by HP 5:
 Hazard Class and Hazard statement Code(s) Concentration Category Code(s) limit
-STOT SE 1 H370 1% STOT SE 2 H371 10% STOT SE 3 H335 20% STOT RE 1 H372 1% STOT RE 2 H373 10%
+STOT SE 1 H370 1% STOT SE 2 H371 10% STOT SE 3 H335 20% STOT RE 1 H372 1%
 *
-Asp. Tox. 1 H304 10%
+STOT RE 2 H373 10% Asp. Tox. 1 H304 10%
 HP 6 "Acute Toxicity": waste which can cause acute toxic effects following oral or dermal administration, or inhalation exposure.
 If the sum of the concentrations of all substances contained in a waste, classified with an acute toxic hazard class and category code and hazard statement code given in Table 5, exceeds or equals the threshold given in that table, the waste shall be classified as hazardous by HP 6. When more than one substance classified as acute toxic is present in a waste, the sum of the concentrations is required only for substances within the same hazard category.
 The following cut-off values shall apply for consideration in an assessment:
@@ -70,8 +71,7 @@ Code(s) Code(s) limit
 Acute Tox.1 (Oral) H300 0,1% Acute Tox. 2 (Oral) H300 0,25% Acute Tox. 3 (Oral) H301 5% Acute Tox. 4 (Oral) H302 25% Acute Tox.1 (Dermal) H310 0,25% Acute Tox. 2 (Dermal) H310 2,5% Acute Tox. 3 (Dermal) H311 15% Acute Tox. 4 (Dermal) H312 55% Acute Tox. 1 (Inhal.) H330 0,1% Acute Tox. 2 (Inhal.) H330 0,5% Acute Tox. 3 (Inhal.) H331 3,5% Acute Tox. 4 (Inhal.) H332 22,5%
 HP 7 "Carcinogenic": waste which induces cancer or increases its incidence.
 When a waste contains a substance classified by one of the following hazard class and category codes and hazard statement codes and exceeds or equals one of the following concentration limits shown in Table 6, the waste shall be classified as hazardous by HP 7. When more than one substance classified as carcinogenic is present in a waste, an individual substance has to be present at or above the concentration limit for the waste to be classified as hazardous by HP 7.
-Table 6: Hazard Class and Category Code(s) and Hazard statement Code(s) for waste constituents and the corresponding concentration limits for the classification of wastes as hazardous by HP 7:
-Hazard Class and Category Hazard statement Concentration
+Table 6: Hazard Class and Category Code(s) and Hazard statement Code(s) for waste constituents and the corresponding concentration limits for the classification of wastes as hazardous by HP 7: Hazard Class and Category Hazard statement Concentration
 Code(s) Code(s) limit
 Carc. 1A H350 0,1%
 Carc. 1B
@@ -90,8 +90,7 @@ Repr. 1B
 Repr. 2 H361 3,0%
 HP 11 "Mutagenic": waste which may cause a mutation, that is a permanent change in the amount or structure of the genetic material in a cell.
 When a waste contains a substance classified by one of the following hazard class and category codes and hazard statement codes and exceeds or equals one of the following concentration limits shown in Table 8, the waste shall be classified as hazardous according to HP 11. When more than one substance classified as mutagenic is present in a waste, an individual substance has to be present at or above the concentration limit for the waste to be classified as hazardous by HP 11.
-Table 8: Hazard Class and Category Code(s) and Hazard statement Code(s) for waste constituents and the corresponding concentration limits for the classification of wastes as hazardous by HP 11:
-Hazard Class and Category Hazard statement Concentration
+Table 8: Hazard Class and Category Code(s) and Hazard statement Code(s) for waste constituents and the corresponding concentration limits for the classification of wastes as hazardous by HP 11: Hazard Class and Category Hazard statement Concentration
 Code(s) Code(s) limit
 Muta. 1A H340 0,1%
 Muta. 1B
@@ -101,6 +100,16 @@ When a waste contains a substance assigned to one of the following supplemental 
 HP 13 "Sensitising": waste which contains one or more substances known to cause sensitising effects to the skin or the respiratory organs.
 When a waste contains a substance classified as sensitising and is assigned to one of the hazard statement codes H317 or H334 and one individual substance equals or exceeds the concentration limit of 10%, the waste shall be classified as hazardous by HP 13.
 HP 14 "Ecotoxic": waste which presents or may present immediate or delayed risks for one or more sectors of the environment.
+Waste which fulfils any of the following conditions shall be classified as hazardous by HP 14:
+- Waste which contains a substance classified as ozone depleting assigned the hazard statement code H420 in accordance with Regulation (EC) No 1272/2008 of the European Parliament and of the Council and the concentration of such a substance equals or exceeds the concentration limit of 0,1%.
+- [c(H420) ≥ 0,1%]
+- Waste which contains one or more substances classified as aquatic acute assigned the hazard statement code H400 in accordance with Regulation (EC) No 1272/2008 and the sum of the concentrations of those substances equals or exceeds the concentration limit of 25%. A cut-off value of 0,1% shall apply to such substances.
+- [Σ c (H400) ≥ 25%]
+Waste which contains one or more substances classified as aquatic chronic 1, 2 or 3 assigned to the hazard statement code(s) H410, H411 or H412 in accordance with Regulation (EC) No 1272/2008, and the sum of the concentrations of all substances classified as aquatic chronic 1 (H410) multiplied by 100 added to the sum of the concentrations of all substances classified as aquatic chronic 2 (H411) multiplied by 10 added to the sum of the concentrations of all substances classified as aquatic chronic 3 (H412) equals or exceeds the concentration limit of 25%. A cut-off value of 0,1% applies to substances classified as H410 and a cut-off value of 1% applies to substances classified as H411 or H412.
+- [100 × Σc (H410) + 10 × Σc (H411) + Σc (H412) ≥ 25%]
+- Waste which contains one or more substances classified as aquatic chronic 1, 2, 3 or 4 assigned the hazard statement code(s) H410, H411, H412 or H413 in accordance with Regulation (EC) No 1272/2008, and the sum of the concentrations of all substances classified as aquatic chronic equals or exceeds the concentration limit of 25%. A cut-off value of 0,1% applies to substances classified as H410 and a cut-off value of 1% applies to substances classified as H411, H412 or H413.
+- [Σ c H410 + Σ c H411 + Σ c H412 + Σ c H413 ≥ 25%]
+- Where: Σ = sum and c = concentrations of the substances.
 HP 15 "Waste capable of exhibiting a hazardous property listed above not directly displayed by the original waste"
 When a waste contains one or more substances assigned to one of the hazard statements or supplemental hazards shown in Table 9, the waste shall be classified as hazardous by HP 15, unless the waste is in such a form that it will not under any circumstance exhibit explosive or potentially explosive properties.
 Table 9: Hazard statements and supplemental hazards for waste constituents for the classification of wastes as hazardous by HP 15:
@@ -114,4 +123,3 @@ Note
 Attribution of the hazardous property HP 14 is made on the basis of the criteria laid down
 Regulation (EC) No 1272/2008 on the classification, labelling and packaging of substances and mixtures*.
 Test Methods The methods to be used are described in Council Regulation (EC) No 440/2008† and in other relevant CEN notes or other internationally recognised test methods and guidelines.
-*
