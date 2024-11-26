@@ -2,6 +2,7 @@
 ## G.N. 497 of 1953.
 ## L.N. 44 of 1960.
 ## L.N. 73 of 1968.
+## *These regulations have been transferred to Cap. 646. Vide S.L. 646.01 and Act XXXIII of 2024.
 ## L.N. 95 of 1968.
 ## L.N. 33 of 1976.
 ## L.N. 49 of 1982.
