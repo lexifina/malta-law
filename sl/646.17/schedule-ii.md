@@ -1,0 +1,6 @@
+## SCHEDULE II
+# schedule-ii
+BIOHAZARD SIGN
+(Regulation 6)
+Biological risk
+[S.L.646.17 14 EXPOSURE TO BIOLOGICAL AGENTS AT WORK
