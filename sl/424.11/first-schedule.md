@@ -22,11 +22,12 @@ category for effects on or via lactation (H360, H360D, H360FD,
 H360Fd, H360Df, H361, H361d, H361fd, H362);
 - specific target organ toxicity after single exposure, category 1 or
 2 (H370, H371);
-(b) chemical agents in Schedule I to the Protection of Workers from the Risks related to Exposures to Carcinogens or Mutagens at Work Regulations (S.L.424.22);
+(b) chemical agents in Schedule I to the Protection of Workers from Risks related to Exposure to Biological Agents at Work Regulations (S.L. 646.17);
 (c) mercury and mercury derivatives;
 (d) antimitotic drugs;
 (e) carbon monoxide;
 (f) chemical agents of known and dangerous percutaneous absorption.
 B. Processes
-Industrial processes listed in Schedule I to the Protection of Workers from the Risks related to Exposures to Carcinogens or Mutagens at Work Regulations (S.L.424.22).
+Industrial processes listed in Schedule I to the Protection of Workers from the Risks related to Exposures to Carcinogens or Mutagens at Work Regulations (S.L. 646.14).
 - Substituted by: L.N. 195 of 2015.
+- Amended by: XXXIII.2024; First Schedule.

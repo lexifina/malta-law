@@ -8,10 +8,9 @@ falls, engulfment in swampland or falling from a height,
 where the risk is particularly aggravated by the nature of
 the work or processes used or by the environment at the
 place of work or site.
-2. Work which puts workers at risk from chemical or
-biological substances constituting a particular danger to
-the health and safety of workers or involving a legal
-requirement for health monitoring. [S.L. 424.36 10 REQUIREMENTS FOR WORK AT CONSTRUCTION SITES)
+2. Work which puts workers at risk from chemical or [S.L. 424.36 10 REQUIREMENTS FOR WORK AT CONSTRUCTION SITES)
+biological substances constituting a particular danger to the health and safety of workers or involving a legal
+requirement for health monitoring.
 3. Work with ionizing radiation requiring the designation of
 controlled or supervised areas.
 (a) Controlled area means an area subject to special rules for the purposes of protection against ionizing radiation and to which access is controlled.

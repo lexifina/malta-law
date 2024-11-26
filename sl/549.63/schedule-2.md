@@ -15,3 +15,4 @@ R 10 Land treatment resulting in benefit to agriculture or ecological improvemen
 R 11 Use of waste obtained from any of the operations numbered R 1 to R 10
 R 12 Exchange of waste for submission to any of the operations numbered R 1 to R 11 (**)
 R 13 Storage of waste pending any of the operations numbered R 1 to R 12 (excluding temporary storage, pending collection, on the site where the waste is produced) (††)
+- Amended by: L.N. 382 of 2015; L.N. 146 of 2021.

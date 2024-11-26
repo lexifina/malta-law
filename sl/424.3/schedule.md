@@ -10,7 +10,8 @@ The proof load shall be applied either (a) by hoisting movable weights or (b) by
 Safe working load Proof load Up to 20 tons 25 per centum in excess 20 - 50 tons 5 tons in excess Over 50 tons 10 per centum in excess
 The said proof load shall be hoisted and swung as far as possible in both directions. In the case of a jib-crane, if the jib has a variable radius, it shall be tested with a proof load as defined above at the maximum and minimum radii of the jib. In the case of hydraulic cranes or hoists, where, owing to the limitation of pressure, it is impossible to hoist a load 25 per centum in excess of the safe working load, it shall be sufficient to hoist the greatest possible load.
 (c) Every article of loose gear (whether it is accessory to a machine or not) shall be tested with a proof load at least equal to that shown against the article in the following table:
-} Article of Gear Proof load
+Article of Gear Proof load
+}
 Chain Ring Hook Twice the safe working load Shackle Swivel
 Pulley Blocks Single sheave block Four times the safe working load Multiple sheave block with Twice the safe working load safe working load up to and including 20 tons Multiple sheave block with 20 tons in excess of the safe working safe working load over 20 tons load up to and including 40 tons Multiple sheave block with One and a half times the safe working safe working load over 40 tons load
 Provided that where the Authority for Transport in Malta is of opinion that, owing to the size, design, construction, material or use of any such loose gear or class of such gear, any of the above requirements are not necessary for the protection of persons employed, it may by certificate in writing (which it may in its discretion revoke) exempt such gear or class of gear from such requirement, subject to such conditions as may be stated in the certificate.

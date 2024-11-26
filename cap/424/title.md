@@ -1,6 +1,6 @@
 CHAPTER 424
 OCCUPATIONAL HEALTH AND SAFETY
-AUTHORITY ACT
+AUTHORITY ACT*
 AN ACT to provide for the establishment of an Authority to be known as the Occupational Health and Safety Authority, an Occupational Health and Safety Appeals Board, and for the exercise by or on behalf of that Authority of regulatory functions regarding resources relating to Occupational Health and Safety and to make provision with respect to matters connected therewith or ancillary thereto.
 3rd May, 2001
 29th January, 2002

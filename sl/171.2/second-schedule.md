@@ -1,10 +1,11 @@
 ## SECOND SCHEDULE
+## Total payable by employers of port workers in respect of whole operation
+## Per ton
 ## Total payable by employers of port
 ## whole operation
-## Per ton
 ## Handling on quay
 ## Rate per ton
-## trucks
+## Receiving at tail board of truck and stacking on trucks
 # second-schedule
 (Regulations 25 and 26)
 Tariff of Fees Payable to Port Workers

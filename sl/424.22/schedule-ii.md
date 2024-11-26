@@ -10,5 +10,4 @@ Practical recommendations for the health surveillance of workers
 and reversible effects.
 Further tests may be decided upon for each worker when he is the subject of health monitoring, in the light of the most recent knowledge available to occupational medicine.
 TO EXPOSURE TO CARCINOGENS, MUTAGENS OR
-[S.L.424.22 REPROTOXIC SUBSTANCES AT WORK 13
-- Amended by: L.N. 102 of 2024.
+[S.L.424.22 14 REPROTOXIC SUBSTANCES AT WORK

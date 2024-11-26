@@ -50,15 +50,18 @@ make slow movements away from the
 body
 RIGHT the right arm is extended more or less
 horizontally with the palm facing
-to the signalman's
+t o t h e
 downwards and slowly makes small
+signalman's
 movements to the left
 LEFT the left arm is extended more or less
 horizontally with the palm facing
-to the signalman's
+t o t h e
 downwards and makes small
+signalman's
 movements to the right
 HORIZONTAL the hands indicate the relevant distance DISTANCE
 D. Danger DANGER both arms point upwards with the
-palms facing forwards Emergency stop
+palms facing forwards
+Emergency stop
 QUICK all movements faster SLOW all movements slower

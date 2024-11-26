@@ -26,15 +26,15 @@ reckonable income Maximum Maximum that can be taken for allowance amount of annu
 (So however any payable reckonable income below €8,360 shall be
 deemed to be equivalent to
 €8,360)
-Married person who is maintaining a spouse and is not €13,819 - €15,748 €418.60 Equivalent to 3% entitled to an of the difference allowance under obtaining between article 76 or €27,776 and actual single parent reckonable who is not income per year entitled to an allowance under article 76
-Married person who is maintaining a
+Married person who is maintaining a spouse and is not €13,819 - €15,748 €418.60 Equivalent to 3% entitled to an of the difference allowance under obtaining between article 76 or €27,776 and actual single parent reckonable who is not income per year entitled to an allowance under article 76 Married person who is maintaining a
 Equivalent to spouse and is not €13,819 €1,099.28
 5.90% of the entitled to an
 difference allowance under
 obtaining between article 76 or
 €27,776 and actual single parent
 reckonable who is not
-income per year entitled to an allowance under article 76 Single pensioner Equivalent to who receives a 4.28% of the National € 11,651 €598.00 difference Minimum obtaining between Pension or €23,116 and actual equivalent rate reckonable
+income per year entitled to an allowance under article 76
+Single pensioner Equivalent to who receives a 4.28% of the National € 11,651 €598.00 difference Minimum obtaining between Pension or €23,116 and actual equivalent rate reckonable
 income per year
 Single person Equivalent to forming a 4.28% of the household on his €11,651 €598.00 difference own obtaining between
 €23,116actual reckonable income per year up to a maximum rate of €11.50 per week
@@ -56,7 +56,8 @@ Over sixteen (16) years but under twenty-one (21) years and are registered as un
 2. An allowance payable to a household under Table A above, whose annual income from employment does not exceed the National Minimum Wage, may in no case be less than the maximum rate in this Part.
 B. Where the maximum annual reckonable income is more than € 27,006.12
 Fixed Children's Allowance
-Children in household under sixteen (16) €8.66 per week for each such child years of age C. Where students continue to attend full-time post-secondary education
+Children in household under sixteen (16) €8.66 per week for each such child years of age
+C. Where students continue to attend full-time post-secondary education
 Rate of benefit
 Children over the age of sixteen (16) but €500 per year for three (3) years of under the age of twenty-one (21) and still the study course they are attending (if attending a full-time post-secondary course they are in the first year) of study or teaching at an educational institution recognised by the Maltese Authority for Further and Higher Education.
 Children over the age of sixteen (16) but €500 per year for two (2) years of the under the age of twenty-one (21) and still study course they are attending (if attending a full-time post-secondary course they are in the second year) of study or teaching at an educational institution recognised by the Maltese Authority for Further and Higher Education.
@@ -67,7 +68,7 @@ Rate per week per child of Disabled Child Allowance in accordance with article 7
 PART VIII
 Rate per week per child of Care Allowance paid in accordance with article 76A
 €110.00
-An allowance payable under this Part shall continue to be payable when the child is over sixteen (16) years but under twenty-one (21) years..
+An allowance payable under this Part shall continue to be payable when the child is over sixteen (16) years but under twenty-one (21) years.
 PART IX
 Mechanism establishing the Additional Benefit to counter the Cost of Living
 The rules which regulate this benefit shall be the following:

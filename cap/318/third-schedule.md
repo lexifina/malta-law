@@ -2,10 +2,6 @@
 # third-schedule
 (Articles 18, 28, 29, 30, 69)
 PART I
-Rates of Sickness, Unemployment, Special
-Unemployment, and Injury Benefits; Injury Grant
-and Injury Pension
-PART I
 Rates of Sickness, Unemployment, Special Unemployment and Injury Benefits, Injury
 Grant and Injury Pension
 Daily Rate of Benefit

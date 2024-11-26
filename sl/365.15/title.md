@@ -2,4 +2,4 @@ SUBSIDIARY LEGISLATION 365.15
 NUCLEAR SAFETY AND RADIATION PROTECTION
 REGULATIONS
 19th May, 2003
-LEGAL NOTICE 44 of 2003, as amended by Legal Notices 173 of 2004 and 425 of 2007; Act XV of 2009; Legal Notices 426 of 2012 and 210 of 2018.
+LEGAL NOTICE 44 of 2003, as amended by Legal Notices 173 of 2004 and 425 of 2007; Act XV of 2009; Legal Notices 426 of 2012 and 210 of 2018 and Act XXXIII of 2024.

@@ -1,4 +1,5 @@
 ## SCHEDULE 3
+## † This includes preparing for re-use, gasification and pyrolysis using the components as chemicals and recovery of organic materials in the form of backfilling ‡ This includes preparing for re-use § This includes preparing for re-use, recycling of inorganic construction materials, recovery of inorganic materials in the form of backfilling, and soil cleaning resulting in recovery of the soil **If there is no other R code appropriate, this can include preliminary operations prior to recovery including preprocessing such as, inter alia, dismantling, sorting, crushing, compacting, pelletising, drying, shredding, conditioning, repackaging, separating, blending or mixing prior to submission to any of the operations numbered R1 to R11. ††Temporary storage means preliminary storage according to regulation 4.
 # schedule-3
 PROPERTIES OF WASTE WHICH RENDER IT HAZARDOUS
 HP 1 "Explosive": waste which is capable by chemical reaction of producing gas at such a temperature and pressure and at such a speed as to cause damage to the surroundings. Pyrotechnic waste, explosive organic peroxide waste and explosive self-reactive waste is included.

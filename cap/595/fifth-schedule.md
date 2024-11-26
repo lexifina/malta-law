@@ -29,6 +29,7 @@ The Commissioner for the Rights of Persons with Disability
 The Chairperson of the Social Care Standards Authority
 The Chairperson of EquestriMalta
 The Chairperson of the Older Persons Standards Authority
+The Chairperson of the Board of the Occupational Health and Safety Authority
 The Chairperson of the Climate Action Authority
 The list of offices established above shall be deemed to include any other office in which all the legal functions of the offices above-mentioned shall be vested from time to time both if in the same entity and if in another entity, except for a Government Department, which may be established from time to time to fulfil the said legal functions.
 THIRD PART
@@ -38,4 +39,4 @@ Standing Committee on Public Appointments
 The Standing Committee on Public Appointments has organized a pre-appointment hearing in respect of the proposed appointment of ................................................................................................... as ........................................................ of ................................................ and after having considered the results of the pre-appointment hearing has decided to advise in favour/against the proposed appointment.
 Chairperson
 Standing Committee on Public Appointments".
-- Amended by: L.N. 19 of 2020; L.N. 337 of 2022; L.N. 287 of 2023; XXXVIII.2023.50; XVI.2024.47.
+- Amended by: L.N. 19 of 2020; L.N. 337 of 2022; L.N. 287 of 2023; XXXVIII.2023.50; XVI.2024.47; XXXIII.2024.48.

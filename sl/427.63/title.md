@@ -1,4 +1,4 @@
 SUBSIDIARY LEGISLATION 427.63
 INSPECTION OF LIFTS REGULATIONS
 17th August, 2007; 1st January, 2008; 1st January, 2009
-LEGAL NOTICE 231 of 2007, as amended by Legal Notice 103 of 2019.
+LEGAL NOTICE 231 of 2007, as amended by Legal Notice 103 of 2019 and Act XXXIII of 2024.

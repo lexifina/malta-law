@@ -2,8 +2,8 @@
 # third-schedule
 SPECALISED UNITS
 (Article 9)
-Specialised The functions of the The Administrato Minister Legal
-Unit Unit defined r of the Unit responsible for Personality
+Specialised The functions of the The Administrator Minister Legal
+Unit Unit defined of the Unit responsible for Personality
 period the Unit
 Ta' (a) to Three (3) Head Minister No Qali National preserve and promote years responsible for Park Unit the Park as a public works
 recreational and open public space;
@@ -18,10 +18,10 @@ coordinate the maintenance and up-keeping in good condition of the Park;
 (f) to
 draw up and adopt health and safety procedures and protocols in the Park and ensure that the same are accessible to the public;
 (g) to
-draw up and adopt emergency procedures and protocols in the Park and ensure that the same are accessible to the public. National To carry out Six (6) Head being a Minister Yes Drugs and monitoring and to years Non- responsible for Addictions draw up reports, Executive Social Policy
-Unit statistics and surveys Chairperson
-on the subject of assisted by drugs and other other public addictions, to officers of
-coordinate the work defined grade
+draw up and adopt emergency procedures and protocols in the Park and ensure that the same are accessible to the public. National To carry out Six (6) Head being a Minister Yes Drugs and monitoring and to years Non-Executive responsible for Addictions draw up reports, Chairperson Social Policy
+Unit statistics and surveys assisted by
+on the subject of other public drugs and other officers of addictions, to defined grade
+coordinate the work
 of Government
 departments in the field and to act as national focal point
 for local and international
@@ -29,7 +29,7 @@ collaboration on
 drugs and addictions.
 Joint (a) to fully Five (5) Head Minister Yes Office Unit assume the existence years (appointed by responsible for
 of the Joint Office as agreement lands
-established by article between the 4 of the Ecclesiastical Holy See and Entities (Properties) the Act and by article 16 Government of the Agreement of Malta in between the Holy See accordance and the Republic of with article Malta contained in the 16(2)(c) of the Schedule to the said Agreement Act; between the
+established by article between the 4 of the Ecclesiastical Holy See and Entities (Properties) the Act and by article 16 Government of of the Agreement Malta in between the Holy See accordance and the Republic of with article Malta contained in the 16(2)(c) of the Schedule to the said Agreement Act; between the
 Holy See and the Republic of Malta contained in the Schedule to the Ecclesiastical Entities (Properties) Act, and who shall fully assume the existence of the post of Director of the Joint Office.)
 (b) to assume
 and perform all the functions so assigned to the Joint Office according to the laws of Malta;

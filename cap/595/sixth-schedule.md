@@ -15,10 +15,10 @@ Identity Malta
 Senior Managers responsible for decision-making and authorisation on applications for visas, Maltese citizenship, residence and issue of passports and travel documents
 Senior Administrative Officer responsible for approval of passport applications and custody of passport booklet stock
 Administrative Officer (Back Office)
-Administrative Officer (Front Office)
-Jobsplus
+Administrative Officer (Front Office) Jobsplus
 Unit Manager (Employment Licences)
-Senior Executive Officer (ELU) Executive Officer (ELU)
+Senior Executive Officer (ELU)
+Executive Officer (ELU)
 Malta Communications Authority
 Chief, Spectrum Management and Technology
 Senior Manager, Spectrum Planning and Authorisation
@@ -34,11 +34,11 @@ Malta Financial Services Authority
 Members of decision-making and other bodies
 Malta Individual Investor Programme Agency
 Chief Officer, Risk and Compliance
-Administrative Officers who deal with applications for residence and citizenship
-Medicines Authority
+Administrative Officers who deal with applications for residence and citizenship Medicines Authority
 Director (Licensing Directorate)
 Director (Post-Licensing Directorate)
-Director (Strategy, Operations and Regulatory Affairs Directorate) Director (Advanced Scientific Initiatives Directorate)
+Director (Strategy, Operations and Regulatory Affairs Directorate)
+Director (Advanced Scientific Initiatives Directorate)
 Senior Quality Assessor (Licensing Directorate)
 Medical Assessor (Post-Licensing Directorate)
 Clinical Assessor (Licensing Directorate)
@@ -53,13 +53,13 @@ Malta Tourism Authority
 Director, Licensing
 Manager, Licensing
 Assistant Manager, Licensing
-Executive, Licensing
-Ministry for Health
+Executive, Licensing Ministry for Health
 Clerical staff at Burials (Environment Health Directorate)
 Social Care Standards Authority
 Head of Licensing and Legal Office
 Manager, Licensing and Legal Office
-Manager, Regulation and Standards Office Assessors
+Manager, Regulation and Standards Office
+Assessors
 Finance, procurement and resource management
 All government organisations
 Chief Officers responsible for finance
@@ -72,15 +72,15 @@ Ministries and departments of government
 Directors responsible for financial administration
 Assistant Directors (Procurement)
 Grand Harbour Regeneration Corporation
-Manager, Quantity Surveyor
-Heritage Malta
+Manager, Quantity Surveyor Heritage Malta
 Manager
 Senior Executive Officer
 Executive Officer
 Identity Malta
 Senior Manager responsible for revenue collection
 Administrative Officer responsible for tenders and procurement
-Advisor - tenders advice regarding tenders and procurement Institute of Tourism Studies
+Advisor - tenders advice regarding tenders and procurement
+Institute of Tourism Studies
 Manager, Finance
 Assistant Manager, Procurement
 Jobsplus
@@ -90,8 +90,7 @@ Unit Manager (Procurement)
 Senior Executive Officers (Procurement)
 Executive Officers (Payments)
 Malta College of Arts, Science and Technology
-Director, Capital Projects
-Malta Communications Authority
+Director, Capital Projects Malta Communications Authority
 Senior Manager, Finance, HR and Administration
 Malta Competition and Consumer Affairs Authority
 Senior Professional Officer - Finance
@@ -99,7 +98,8 @@ Administrative Officer - Procurement
 Malta Council for Science and Technology
 Deputy Director, Finance
 Deputy Director - EU Framework Programmes
-Executive Officer (Erasmus Funds Project Administrator) Senior Procurement Manager
+Executive Officer (Erasmus Funds Project Administrator)
+Senior Procurement Manager
 Malta Film Commission
 Manager, Finance
 Malta Freeport Authority
@@ -110,15 +110,15 @@ Senior Medicines Inspector
 Medicines Inspector
 Enforcement Inspector
 Junior Inspector
-Enforcement Officer
-Malta Residency and Visa Agency
+Enforcement Officer Malta Residency and Visa Agency
 Administration Officer collecting payments with applications for the residency by investment programme
 Procurement Administrators
 Ministry for Education and Employment
 Senior Manager, Finance and Administration (European Union Programmes Agency)
 Quantity Surveyors (Foundation for Tomorrow's Schools)
 Head of Finance (Institute for Education)
-Senior Manager, Administration and Finance (Institute for Education) Ministry for Finance
+Senior Manager, Administration and Finance (Institute for Education)
+Ministry for Finance
 Officers in charge of handling revenue and officers authorised to cancel dues by debtors (Commissioner for Revenue, Customs Department)
 Accountants (Commissioner for Revenue)
 All public procurement officials (Contracts Department)
@@ -129,14 +129,14 @@ Principal (Procurement Unit)
 Ministry for Health
 Head, Revenue Collection (Mater Dei Hospital)
 Manager, Revenue Collection (Mater Dei Hospital)
-Manager, Contractual Services (Mater Dei Hospital)
-Procurement and Administrative Officer (CPSU)
+Manager, Contractual Services (Mater Dei Hospital) Procurement and Administrative Officer (CPSU)
 Chief Projects Officer (Foundation for Medical Services)
 Procurement Coordinator (Foundation for Medical Services)
 Ministry for Justice, Culture and Local Government
 Assistant Director, Finance and Administration (Corporate Services Directorate)
 Ministry for Foreign Affairs and Trade Promotion
-Officer in charge of EU funds and projects (Office of the Permanent Secretary) Ministry for the Environment, Sustainable Development and Climate Change
+Officer in charge of EU funds and projects (Office of the Permanent Secretary)
+Ministry for the Environment, Sustainable Development and Climate Change
 Officer i/c Revenue (Finance and Administration Directorate)
 Ministry for the Family, Children's Rights and Social Solidarity
 Senior Procurement Officer (Corporate Services Directorate)
@@ -148,8 +148,7 @@ Assistant Director, Budgeting and Planning (Financial Governance and Planning Di
 Assistant Director, Finance (Gozo Overpayments Section)
 Senior Principals (Gozo Overpayments Section)
 Senior Procurement Officer (Ministerial Procurement Unit)
-Senior Manager, Procurement (Social Care Standards Authority)
-Ministry for Transport, Infrastructure and Capital Projects
+Senior Manager, Procurement (Social Care Standards Authority) Ministry for Transport, Infrastructure and Capital Projects
 Senior Manager, Finance (Office of the Permanent Secretary)
 Manager, Compliance (Office of the Permanent Secretary)
 Head, Quantity Surveying Unit
@@ -169,13 +168,13 @@ Enforcement Officers
 Third Party Rights Officers
 Energy Performance of Buildings Officers
 Bureau of Air Accidents Investigation
-Chief Investigator
-Department for Industrial and Employment Relations
+Chief Investigator Department for Industrial and Employment Relations
 EIRA Inspectors
 Department of Probation and Parole
 Probation Officers
 Housing Authority
-Manager, Estate Management Inspectorate Jobsplus
+Manager, Estate Management Inspectorate
+Jobsplus
 Senior Executive Officer (Compliance)
 Senior Inspectors
 Senior Executive Officer (Monitoring)
@@ -188,13 +187,13 @@ Regional Enforcement Officers
 Malta Gaming Authority
 Officers (AML, Enforcement, Due Diligence, Investigations, Compliance, Authorisations, Player Support)
 Gaming Inspectors
-INDIS Malta Ltd
-Inspectors
+INDIS Malta Ltd Inspectors
 Malta Competition and Consumer Affairs Authority
 Director, Inspectorate and Cartel Investigations
 Inspector - Customer Enforcement
 Market Surveillance Officer
-Officer - Customer Enforcement Inspector - Market Surveillance
+Officer - Customer Enforcement
+Inspector - Market Surveillance
 Administrative Officer - Metrology
 Senior Quality Manager
 Technical Officer - Metrology
@@ -209,14 +208,14 @@ VAT Inspectors
 Revenue Officers (Commissioner for Revenue)
 Enforcement Officers (Commissioner for Revenue)
 Inspectorate Officers (Commissioner for Revenue)
-Inspectors of Customs
-Ministry for Gozo
+Inspectors of Customs Ministry for Gozo
 Principal (Licensing and Testing)
 Assistant Principals (Licensing and Testing)
 Principal (Trade)
 Assistant Principal (Trade)
 Senior Environmental Health Practitioner (Health Inspectorate)
-Senior Environmental Health Officers (Health Inspectorate) Ministry for Health
+Senior Environmental Health Officers (Health Inspectorate)
+Ministry for Health
 Licensing Inspector (Health Standards Directorate)
 Standards Licensing Officer (Health Standards Directorate)
 All Environmental Health Officers in all grades
@@ -225,17 +224,17 @@ Director, Benefit Compliance
 Assistant Director, Investigations (Benefit Compliance Directorate)
 Inspectors (Benefit Compliance Directorate)
 Occupational Health and Safety Authority
-Occupational Health and Safety Officers
+Health and safety at work officers
 Planning Authority
-Assistant Director of Compliance and Enforcement
-Social Care Standards Authority
+Assistant Director of Compliance and Enforcement Social Care Standards Authority
 Head of Inspectorate Office
 Manager (Inspectorate Office)
 Transport Malta
 Airworthiness Inspectors
 Flight Operations Inspectors
 Inspecting officers for flight operations, approvals and licensing, ANS and aerodromes, air transport navigation, personnel licensing and general aviation
-Senior Marine Safety Investigators Marine Safety Investigators
+Senior Marine Safety Investigators
+Marine Safety Investigators
 Junior Marine Safety Investigators
 Vessel Traffic Services Supervisor
 Flag and Port Inspector

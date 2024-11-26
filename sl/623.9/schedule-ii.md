@@ -11,8 +11,8 @@ elements;
 (e) shoring techniques;
 (f) adequate knowledge of basic requirements
 stipulated in the Act and in the Construction Management Site Regulations;
-(g) adequate knowledge of the Occupational Health
-and Safety Authority Act and of the regulations made thereunder.
+(g) adequate knowledge of the Health and Safety at
+Work Act and of the regulations made thereunder.
 2. In the event that the applicant is a natural person, he shall be eligible to apply as a Demolition Contractor subject to the following requirements being satisfied:
 (a) the applicant shall be in possession or show
 evidence of:
@@ -52,12 +52,12 @@ B. Criteria for the Licensing of Excavation and Piling Contractors
 structural supports;
 (c) correct loading on trucks;
 (d) shoring techniques;
-(e) dumping of construction waste at authorised
-waste management facilities;
+(e) dumping of construction waste at authorised waste
+management facilities;
 (f) adequate knowledge of basic requirements
 stipulated in the Act and in the Construction Management Site Regulations;
-(g) adequate knowledge of the Occupational Health
-and Safety Authority Act and of the regulations made thereunder.
+(g) adequate knowledge of the Health and Safety at
+Work Act and of the regulations made thereunder.
 If the applicant intends to include piling works under this service activity, the applicant shall be required to manifest competence in the shifting of piling equipment, boring or boring of piles, casting of piles, and pile cap construction.
 2. In the event that the applicant is a natural person, he shall be eligible to apply for a licence of an Excavations Contractor subject to the following requirements being satisfied:
 (a) the applicant shall be in possession or show
@@ -96,8 +96,8 @@ commencement of any works, including hoarding, existing and
 proposed temporary infrastructural requirements;
 (f) adequate knowledge of basic requirements
 stipulated in the Act and in the Construction Management Site Regulations;
-(g) adequate knowledge of the Occupational Health
-and Safety Authority Act and of the regulations made thereunder.
+(g) adequate knowledge of the Health and Safety at
+Work Act and of the regulations made thereunder.
 2. In the event that the applicant is a natural person, he shall be eligible to apply as a construction contractor if he is in possession of:
 (a) a mason's licence and have at least three (3) years
 experience in construction work;
@@ -112,8 +112,7 @@ years experience in construction work; or
 (ii) a minimum of three (3) years experience in
 construction management supported by references of at least two (2) building projects;
 (b) the applicant employs at least one (1) full-time
-employee who is a licensed mason or is in possession of an equivalent National Occupational Standards certification in
-masonry works, unless the applicant is so certified;
+employee who is a licensed mason or is in possession of an equivalent National Occupational Standards certification in masonry works, unless the applicant is so certified;
 (c) the applicant provides a list of all certified
 equipment to be utilised;
 (d) the applicant has the capacity to ensure that all
@@ -122,8 +121,8 @@ construction works on a site are duly supervised by a licensed mason or by a per
 5. As from 1st January 2025, the licensed contractor shall ensure that all workers who are in any manner engaged, entrusted or employed with the licensed contractor to execute construction works are licensed masons or hold a Level 3 certification in block layering issued in accordance with the National Occupational Standards, or hold any other qualifications or experience which the Committee considers to be equivalent or a suitable alternative to this qualification:
 Provided that any construction workers who are not licensed masons or do not hold a Level 3 certification in block layering issued in accordance with the National Occupational Standards or do not hold any other qualifications or experience which the Committee considers to be equivalent or a suitable alternative to this qualification may continue to carry out construction works under the constant supervision of a licensed mason or by a person who holds a Level 3 certification in block layering issued in accordance with the National Occupational Standards or holds any other qualifications or experience which the Committee considers to be equivalent or a suitable alternative to this qualification in accordance with the service activity criteria as listed above.
 - See S.L. 623.08.
-- See Cap. 424.
+- See Cap. 646.
 - See S.L. 623.08.
-- See Cap. 424.
+- See Cap. 646.
 - See S.L. 623.08.
-- See Cap. 424.
+- See Cap. 646.

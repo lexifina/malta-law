@@ -24,7 +24,7 @@ The symbols on the keys shall be adequately contrasted and legible from the desi
 (d) Work desk or work surface
 The work desk or work surface shall have a sufficiently large, low-reflectance surface and allow a flexible arrangement of the screen, keyboard, documents and related equipment.
 The document holder shall be stable and adjustable and shall be positioned so as to minimise the need for uncomfortable head and eye movements.
-[S.L.424.14 FOR WORK WITH DISPLAY SCREEN EQUIPMENT 5
+[S.L.424.14 6 FOR WORK WITH DISPLAY SCREEN EQUIPMENT
 There shall be adequate space for workers to find a comfortable position.
 (e) Work chair
 The work chair shall be stable and allow the operator easy freedom of movement and a comfortable position.
@@ -45,13 +45,12 @@ Noise emitted by equipment belonging to any workstation shall be taken into acco
 (e) Heat
 Equipment belonging to any workstation shall not produce excess heat which could cause discomfort to workers.
 (f) Radiation
-All radiation with the exception of the visible part of the electromagnetic spectrum shall be reduced to negligible levels from the
-point of view of the protection of workers' health and safety.
+All radiation with the exception of the visible part of the electromagnetic spectrum shall be reduced to negligible levels from the point of view of the protection of workers' health and safety.
 (g) Humidity
 An adequate level of humidity shall be established and maintained.
 3. Interface between computer and worker
 In designing, selecting, commissioning and modifying software, and in designing tasks using display screen equipment, the employer shall take into account
-[S.L.424.14 6 FOR WORK WITH DISPLAY SCREEN EQUIPMENT
+[S.L.424.14 FOR WORK WITH DISPLAY SCREEN EQUIPMENT 7
 the following principles:
 (a) software must be suitable for the task;
 (b) software must be easy to use and, where appropriate, adaptable to the level of knowledge or experience of the worker; no quantitative or qualitative checking facility may be used without the knowledge of the workers;

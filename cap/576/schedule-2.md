@@ -73,7 +73,7 @@ Employment and Industrial Relations Act, the Young Persons (Employment) Regulati
 (b) work-based learning hours;
 (c) overtime;
 (d) cost of living increases;
-(e) occupational health and safety;
+(e) health and safety at work;
 (f) vacation leave and sick leave;
 (g) maternity leave, parental leave and leave for
 urgent family reasons;
@@ -193,6 +193,7 @@ responsible for the apprentice.
 (5) Where the learner is a young person, such learner shall still be regulated in terms of the Young Persons (Employment) Regulations throughout the training period.
 (6) During the VET providers' Christmas, Easter and summer breaks, learners may attend the work-based learning component of the training programme as agreed with the sponsor in the training programme plan.
 (7) Learners on a training programme for interns, whether paid or unpaid, continue to receive any social benefits due to them in the form of, but not limited to, disability and single parent benefits.
+- Amended by: XXXIII.2024; First Schedule.
 - See S.L. 452.92.
 - See Cap. 452.
 - See S.L. 452.92.

@@ -4,4 +4,4 @@ INDUSTRIAL EMISSIONS (INTEGRATED
 POLLUTION PREVENTION AND CONTROL)
 REGULATIONS
 7th January, 2013*
-LEGAL NOTICE 10 of 2013, as amended by Act XXV of 2015; and Legal Notice 45 of 2017 and 110 of 2017.
+LEGAL NOTICE 10 of 2013, as amended by Act XXV of 2015; and Legal Notice 45 of 2017 and 110 of 2017 and Act XXXIII of 2024.

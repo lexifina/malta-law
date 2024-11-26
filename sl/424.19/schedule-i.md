@@ -1,6 +1,7 @@
 ## fifteen days of the date of such intimation.
 ## SCHEDULE I
 ## *More guidance on waiving of the test can be found in the A.14 method description, see Commission Regu- lation (EC) No 440/2008 of 30 May 2008 laying down test methods pursuant to Regulation (EC) No 1907/ 2006 of the European Parliament and of the Council on the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH) (OJ L 142, 31.5.2008, p. 1). † 15.75% nitrogen content by weight as a result of ammonium nitrate corresponds to 45% ammonium nitrate. ‡ 24.5% nitrogen content by weight as a result of ammonium nitrate corresponds to 70% ammonium nitrate.
+## * 28% nitrogen content by weight as a result of ammonium nitrate corresponds to 80% ammonium nitrate.
 # schedule-i
 DANGEROUS SUBSTANCES TO WHICH
 THE REGULATIONS APPLY
