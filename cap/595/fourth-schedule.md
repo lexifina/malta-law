@@ -23,8 +23,8 @@ Identity Malta Agency To execute the functions and duties of
 the public administration in matters relating to passports, identity documents, work and residence permits for expatriates, registration of public deeds, acts of civil status and individual investment programmes Institute for Education To serve as a platform to ascertain,
 implement and support Government policy where it concerns the formation, quality and standards that promote and develop training and the building of skills within the grades of educators and professionals in the education sector and within European and international dimensions and to reach all those who are and, or may become involved in the education sectors and within a socio-economic
 context
-Land Registry Agency To execute the functions and duties of
-the public administration in matters relating to land registration and condominium registration Legal Aid Agency To be responsible for and to administer
+L a n d Registration To execute the functions and duties of Agency the public administration in matters
+relating to land registration and condominium registration Legal Aid Agency To be responsible for and to administer
 provision of the service of legal aid in all areas where this is required Local Enforcement To carry out the functions and duties System Agency relating to the enforcement of any
 law, regulation or bye-law, the enforcement of which has been delegated to regional committees, local councils or to such other local or regional authorities as are designated by the Local Councils Act Community Malta To carry out functions and duties of Agency public administration relating to the
 process of application for citizenship for exceptional services in terms of the Maltese Citizenship Act and to cooperate with other Government agencies in all matters relating to
@@ -63,4 +63,4 @@ Riżorsi Agrikoli Malta To regulate, administer and provide
 services related to agriculture resources Science Malta To support the Government in matters
 relating to science, technology, research
 and innovation.
-- Amended by: XXVIII. 2018.42; L.N.121 of 2019; L.N. 192 of 2019; L.N. 197 of 2019; L.N. 2 of 2020; L.N. 194 of 2020; L.N. 344 of 2020; L.N. 418 of 2020; L.N. 436 of 2020; L.N. 445 of 2020; L.N. 453 of 2020; L.N. 7 of 2021; L.N. 124 of 2021; L.N. 399 of 2021; L.N. 412 of 2021; L.N. 254 of 2022; L.N. 367 of 2022; L.N. 31 of 2023; L.N. 117 of 2023; L.N. 283 of 2023; L.N. 284 of 2023; L.N. 112 of 2024.
+- Amended by: XXVIII. 2018.42; L.N.121 of 2019; L.N. 192 of 2019; L.N. 197 of 2019; L.N. 2 of 2020; L.N. 194 of 2020; L.N. 344 of 2020; L.N. 418 of 2020; L.N. 436 of 2020; L.N. 445 of 2020; L.N. 453 of 2020; L.N. 7 of 2021; L.N. 124 of 2021; L.N. 399 of 2021; L.N. 412 of 2021; L.N. 254 of 2022; L.N. 367 of 2022; L.N. 31 of 2023; L.N. 117 of 2023; L.N. 283 of 2023; L.N. 284 of 2023; L.N. 112 of 2024; L.N. 327 of 2024.
