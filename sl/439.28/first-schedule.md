@@ -6,7 +6,9 @@ General impression Large dog with a muscular body and a blocky
 head, suggesting great strength and power for its size. Powerfully built. Overall the dog should have
 an athletic appearance.
 Height Adult dog from 12 inches (30 cm) at the withers.
-Adult bitch from 11 inches (28 cm) at the withers. Height to weight ratio should be in proportion. Head Heavy, large and broad. The length from the tip of
+Adult bitch from 11 inches (28 cm) at the withers. Height to weight ratio should be in proportion.
+[S.L. 439.28 6 PEDIGREE BULLY TYPE DOG
+Head Heavy, large and broad. The length from the tip of
 the nose to a well-defined point (indentation between muzzle and the head) is equal to around one-third of the length from the tip of the nose to the back of the head. Muzzle blocky or slightly squared to droop below the eyes. The dog should have a good depth from the top of head to the bot tom of the jaw and a straight box-like muzzle. Eyes should be small and deep-set, triangular when viewed from the side and elliptical from front. Topline of muzzle straight. Prominent cheek mus cles with strong, well-defined jaws and lips semi-close. Often having prominent wrinkles on face. Nose is large with well opened nostrils. The dis tance from the back of the head to between the eyes should be about equal to the distance from between the eyes to the tip of its nose. Head should appear to be wedge shaped when viewed from the side and top but rounded when viewed from the front. The head should be around 2/3 width of shoulders and 1/4 wider at cheeks than at the base of the skull (this is due to the cheek muscles). Teeth Level or scissor bite Neck Heavy, muscular, slightly arched, tapering from the
 shoulders to the base of the skull.
 Medium in length.
