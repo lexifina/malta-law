@@ -9,7 +9,7 @@ transmission (gear) systems enabling a driver to make the best possible use of t
 b. Knowledge of the technical characteristics and
 operation of the safety controls in order to control the vehicle (compliance with safety and security procedures), minimise wear and tear and prevent vehicle malfunction; and
 c. Ability to optimise fuel consumption and ECO
-[S.L. 65.33 46 VEHICLE HIRE SERVICES
+[S.L. 65.33 48 VEHICLE HIRE SERVICES
 driving skills.
 2. Safety of driver, passengers and other road users
 including:
@@ -43,7 +43,7 @@ work.
 a. Thorough knowledge of routes, including the
 ability to provide shortest route and alternate routes; and
 b. Basic knowledge of prime tourist and commercial
-[S.L. 65.33 VEHICLE HIRE SERVICES 47
+[S.L. 65.33 VEHICLE HIRE SERVICES 49
 locations across Malta and Gozo
 4. Interpersonal skills including:
 a. Customer Care

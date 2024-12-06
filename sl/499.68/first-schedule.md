@@ -29,6 +29,6 @@ Application fee for a Passenger Transport Vehicle
 Licence (under Part VIII €25
 Application fee for Intermediary Booking Platform
 Service (under Part IX) €100
-[S.L. 499.68 VEHICLE HIRE SERVICES 45
+[S.L. 499.68 VEHICLE HIRE SERVICES 47
 Renewal Fee (under Part IX
 €100
