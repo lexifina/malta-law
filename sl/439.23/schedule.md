@@ -1,10 +1,10 @@
 ## SCHEDULE
 ## Category Court penalties when found guilty
 ## On first conviction - fine of not less than €2,000 and not more than €65,000 or to a term of imprisonment of three (3) years or to both such fine and imprisonment. 
-## On second or subsequent conviction - fine of not less than €6,000 and not more than €80,000 or to a term of imprisonment of three (3) years or to both such fine and imprisonment
-## Animal Care
+## On second or subsequent conviction - fine of not less than €6,000 and not more than €80,000 or to a term of imprisonment of three (3) years or to both such fine and imprisonment Animal Care
 ## A person who infringes any of the provisions arising from these regulations, shall, on conviction be liable to a fine (multa) of not less than €4,658.75 and not exceeding €13,976.24
 ## On first conviction - fine of not less than €2,000 and not more than €65,000 or to a term of imprisonment of three (3) years or to both such fine and imprisonment.
+## On second or subsequent conviction - fine of not less than €6,000 and not more than €80,000 or to a term of imprisonment of three (3) years or to both such fine and imprisonment
 ## A person who infringes any of the provisions arising from the regulation, shall, on conviction be liable to a fine (multa) of not less than €4,658.75 and not exceeding €13,976.24
 ## On first conviction - fine of not less than €2,000 and not more than €65,000 or to a term of imprisonment of three (3) years or to both such fine and imprisonment. On second or subsequent conviction - fine of not less than €6,000 and not more than €80,000 or to a term of imprisonment of three (3) years or to both such fine and imprisonment
 ## On first conviction - fine of not less than €2,000 and not more than €65,000 or to a term of imprisonment of three (3) years or to both such fine and imprisonment. Tethering of domestic On second or subsequent animals conviction - fine of not less than €6,000 and not more than €80,000 or to a term of imprisonment of three (3) years or to both such fine and imprisonment.
@@ -20,12 +20,11 @@
 ## Animal  Sanctuaries On second or subsequent conviction - fine of not less than €6,000 and not more than €80,000 or to a term of imprisonment of three (3) years or to both such fine and imprisonment.
 ## Circuses On first conviction - fine of not less than €2,000 and not more than €65,000 or to a term of imprisonment of three (3) years or to both such fine and imprisonment. 
 ## Karozzini On second or subsequent conviction - fine of not less than €6,000 and not more than €80,000 or to a term of imprisonment of three (3) years or to both such fine and imprisonment.
+## On first conviction a person, shall be liable to a fine (multa) of not less than €2,000, but not exceeding €65,000 or to a term of imprisonment of three (3) years, or to both such fine and imprisonment.
+## On second or subsequent conviction, a person shall be liable to a fine (multa) of not less than €6,000, but not exceeding €80,000, or to a term of imprisonment of three (3) years, or to both such fine and imprisonment.
 ## On first conviction, a person shall be liable to a fine (multa) of not less than €2,000, but not exceeding €65,000.
 ## On second or subsequent conviction, a person shall be liable to a fine (multa) of not less than €5,000, but not exceeding €100,000.
-## On first conviction a person shall be liable to a fine (multa) of not less than €2,000, but not exceeding €65,000 or to a term of imprisonment not exceeding three (3) years or to both such fine and imprisonment.
-## On second or subsequent conviction a person shall be liable to a fine (multa) of not less than €6,000 but not exceeding €80,000 or to a term of imprisonment not exceeding three (3) years or to both such fine and imprisonment.
-## On first conviction a person shall be liable to a fine (multa) of not less than €2,000, but not exceeding €65,000.
-## On second or subsequent conviction a person shall be liable to a fine (multa) of not less than €5,000, but not exceeding €100,000.
+## On first conviction a person shall be liable to a fine (multa) of not less than €2,000, but not exceeding €65,000 or to a term of imprisonment not Pet exceeding three (3) years boarding or to both such fine and accommoda imprisonment. tion On second or subsequent establish- conviction a person shall ments for be liable to a fine (multa) cats and of not less than €6,000 dogs but not exceeding €80,000 or to a term of imprisonment not exceeding three (3) years or to both such fine and imprisonment. On first conviction a person shall be liable to a fine (multa) of not less than €2,000, but not exceeding €65,000. Pet sitting accommo- On second or subsequent dations conviction a person shall be liable to a fine (multa) of not less than €5,000, but not exceeding €100,000.
 # schedule
 Administrative Penalties by Category
 Administrative penalties to be imposed on individuals who admit an offence in terms of
@@ -90,15 +89,15 @@ article 47 of the Animal Welfare Act
 ꞏUse of animals in breach of Article
 ꞏNon-compliance and, or acts and
 [S.L. 439.23 COMMITTED AGAINST THE ANIMAL WELFARE ACT 11
+ꞏ Keeping, sale or advertisement of
 ꞏOperating or managing a pet
 ꞏOperating a pet grooming
 ꞏ
 ꞏFailure to keep adequate records
 ꞏInadequate enclosures
 ꞏInadequate administration of
+[S.L. 439.23 12 COMMITTED AGAINST THE ANIMAL WELFARE ACT
 ꞏOperating without a licence
 ꞏOperating or managing a pet
-Any person who breaches any other provision of the Animal Welfare Act or regulations made thereunder, and which may give rise to the imposition of an administrative penalty not otherwise specifically provided for in this Schedule, shall be
-[S.L. 439.23 12 COMMITTED AGAINST THE ANIMAL WELFARE ACT
-liable to a penalty of not less than €2,000 and not more than €50,000.
-- Amended by: L.N. 148 of 2024; L.N. 149 of 2024; L.N. 199 of 2024.
+Any person who breaches any other provision of the Animal Welfare Act or regulations made thereunder, and which may give rise to the imposition of an administrative penalty not otherwise specifically provided for in this Schedule, shall be liable to a penalty of not less than €2,000 and not more than €50,000.
+- Amended by: L.N. 148 of 2024; L.N. 149 of 2024; L.N. 199 of 2024; L.N. 183 of 2024.
