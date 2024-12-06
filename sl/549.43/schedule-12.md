@@ -12,3 +12,5 @@ certificate; and
 - Certification by the approved person as to whether the relevant producer
 has complied with his Extended Producer Responsibility Obligations. With respect to producers placing on the market transport packaging and, or refillable gas cylinders, certification as to whether the relevant producer has complied with his recovery and recycling obligations.
 [S.L.549.43 (PACKAGING AND PACKAGING WASTE) 49
+- Added by: L.N.226 of 2017.
+- Amended by: L.N. 369 of; 2022.

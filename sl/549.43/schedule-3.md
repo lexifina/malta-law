@@ -37,3 +37,5 @@ regarding the following specific materials contained in packaging waste:
 (iv) 60% of aluminium;
 (v) 75% of glass;
 (vi) 85% of paper and cardboard.
+- Substituted by: L.N.226 of 2017; L.N.152 of 2021.
+- Amended by: L.N. 369 of; 2022.

@@ -21,13 +21,14 @@ and "C" is between 10 to 25 percentage points, both inclusive; and
 - fifty-five euro (€55) per tonne if the difference between "B" and
 "C" is less than 10 percentage points;
 (b) In the case of a self-compliant producer:
-- three hundred and twenty euro (€320) per tonne if the difference
-between "B" and "C" is more than 25 percentage points;
-- two hundred and fifty euro (€250) per tonne if "B" is less than 50%
-but greater than or equal to 25%; and
-- one hundred and eighty euro (€180) per tonne if "B" is less than
-55% but greater than or equal to 50%.
+- three hundred and twenty euro (€320) per tonne if the
+difference between "B" and "C" is more than twenty-five (25) percentage points;
+- two hundred and fifty euro (€250) per tonne if the difference
+between "B" and "C" is between ten (10) to twenty-five (25) percentage points, both inclusive; and
+- one hundred and eighty euro (€180) per tonne if the
+difference between "B" and "C" is less than ten (10) percentage points.
 "AP" is the administrative penalty for a Regional Council, or a self-compliant producer or an authorised packaging waste recovery organisation acting on behalf of producers placing on the market transport packaging and, or refillable gas cylinders, that fails to achieve the minimum overall recycling target applicable for that operational (calendar) year:
 Provided that the Authority may waive the administrative fine in case where the party notified with the Authority's intention to issue an administrative fine provides evidence to the satisfaction of the Authority that the non-attainment of target is due to exceptional reasons beyond his control:
 Provided further that any pending additional fees at the entry into force of this Legal Notice shall no longer be due.
 - Added by: L.N. 369 of 2022.
+- Amended by: L.N. 331 of 2024.
