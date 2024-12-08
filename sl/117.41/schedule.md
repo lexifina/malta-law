@@ -18,9 +18,8 @@ and
 (iii) is ready to be consumed without any
 further preparation, such as cooking, boiling or heating, including food containers used for fast food or other meal ready for immediate consumption, except beverage containers, plates and packets and wrappers containing food;
 (h) beverage containers made of expanded polystyrene, including their caps and lids;
-(i) cups for beverages made of expanded polystyrene, [S.L. 117.41 4 SINGLE-USE PLASTIC PRODUCTS
-including their covers and lids.
-Part B
+(i) cups for beverages made of expanded polystyrene, including their covers and lids.
+Part B [S.L. 117.41 4 SINGLE-USE PLASTIC PRODUCTS
 (a) pizza lid supports;
 (b) sticks to be attached to and to support lollipops
 that are placed on the market on their own;
