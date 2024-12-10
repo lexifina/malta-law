@@ -1,4 +1,5 @@
 ## SECOND SCHEDULE
+## (1) Delete if not applicable
 # second-schedule
 (regulation 4)
 TEMPLATE FOR THE INFORMATION LETTER
