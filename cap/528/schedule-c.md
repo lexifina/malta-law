@@ -14,4 +14,3 @@
 (j) a representative of the Central Procurement and Supplies Unit within the Ministry for Health; and;
 (k) an officer appointed by the Minister to act as secretary.
 (2) The members referred to in paragraph (1)(d),(e), (f), (g), (h), (i) (j) and (k) shall be appointed by the Minister for such term as the Minister shall, from time to time, decide.
-- Amended by: L.N. 102 of 2018.
