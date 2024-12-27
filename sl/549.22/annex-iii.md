@@ -1,4 +1,5 @@
 ## ANNEX III
+## that all waste water can be treated dming situations such as unusually heavy rainfall. Member States shall decide on measures to limit pollution from storm water overflows. Such measures could be based on dilution rates or capacity in relation to dry weather flow, or could specify a certain acceptable number of overflows per year.
 # annex-iii
 INDUSTRIAL SECTORS
 1. Milk-processing
