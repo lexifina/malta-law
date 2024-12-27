@@ -52,8 +52,8 @@ B. Criteria for the Licensing of Excavation and Piling Contractors
 structural supports;
 (c) correct loading on trucks;
 (d) shoring techniques;
-(e) dumping of construction waste at authorised waste
-management facilities;
+(e) dumping of construction waste at authorised
+waste management facilities;
 (f) adequate knowledge of basic requirements
 stipulated in the Act and in the Construction Management Site Regulations;
 (g) adequate knowledge of the Health and Safety at
@@ -98,21 +98,23 @@ proposed temporary infrastructural requirements;
 stipulated in the Act and in the Construction Management Site Regulations;
 (g) adequate knowledge of the Health and Safety at
 Work Act and of the regulations made thereunder.
-2. In the event that the applicant is a natural person, he shall be eligible to apply as a construction contractor if he is in possession of:
-(a) a mason's licence and have at least three (3) years
-experience in construction work;
-(b) a list of all certified equipment to be utilised;
-(c) capacity to ensure that all construction works on a
-site are duly supervised by a licensed mason or by a person who is in possession of an equivalent National Occupational Standards Certification in masonry works, or any other qualifications or experience which the Committee considers to be equivalent or a suitable alternative to this qualification.
+2. (1) In the case that the applicant is a natural person, he shall be eligible to apply as a construction contractor if he is in possession of:
+(a) a mason's licence;
+(b) a list of all certified equipment to be utilised:
+Provided that the applicant shall have the capacity
+to ensure that all construction works on a site are duly supervised by a licensed mason or by a person who is in possession of an equivalent National Occupational Standards Certification in masonry works and, or any other qualifications or experience which the Committee considers to be equivalent or a suitable alternative to this qualification.
+(2) If the applicant does not satisfy the criteria in sub-paragraph 1(a), he shall provide the Authority with a contract of works with a licensed mason or an employment agreement of a licensed mason, which contract or agreement shall be for the period of validity of the contractor's licence issued in accordance with these regulations:
+Provided that if the application is made on one's own behalf, such licence shall be valid for a period of one (1) year:
+Provided further that if the application is made for a commercial purpose, on the expiry of a period of one (1) year, the applicant shall re-apply to the Authority for such licence to be issued under a commercial entity recognised by law, which entity shall be formed by the said applicant.
 3. In the event that an applicant is an entity, it shall be eligible to apply as a construction contractor subject to the following requirements being satisfied:
-(a) the licensed administrator shall be in possession
-or brings proof of:
+(a) the licensed administrator shall be in possession or
+brings proof of:
 (i) a mason's licence with at least three (3)
 years experience in construction work; or
 (ii) a minimum of three (3) years experience in
 construction management supported by references of at least two (2) building projects;
-(b) the applicant employs at least one (1) full-time
-employee who is a licensed mason or is in possession of an equivalent National Occupational Standards certification in masonry works, unless the applicant is so certified;
+(b) the applicant employs at least one (1) employee
+who is a licensed mason or is in possession of an equivalent National Occupational Standards certification in masonry works, unless the applicant is so certified;
 (c) the applicant provides a list of all certified
 equipment to be utilised;
 (d) the applicant has the capacity to ensure that all
