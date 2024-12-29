@@ -1,4 +1,4 @@
 SUBSIDIARY LEGISLATION 545.24
 ELECTRICAL INSTALLATIONS REGULATIONS
 16th April, 2010
-LEGAL NOTICE 225 of 2010, as amended by Legal Notice 426 of 2012; Acts XXXIV of 2014 and XXV of 2015; and Legal Notices 270 of 2016 and 45 of 2021 and Act XXIX of 2019.
+LEGAL NOTICE 225 of 2010, as amended by Legal Notice 426 of 2012; Acts XXXIV of 2014 and XXV of 2015 and XXIX of 2019 and Legal Notices 270 of 2016, 45 of 2021 and 283 of 2024.
