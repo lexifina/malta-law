@@ -20,6 +20,8 @@ of deposit, and similar instruments);
 10. Safekeeping and administration of securities;
 11. Credit reference services;
 12. Safe custody services;
-13. Issuing electronic money.
+13. Issuing electronic money including electronic money tokens as defined in point (7) of Article 3(1) of the MiCA Regulation;
+14. Issuing of asset-referenced tokens as defined in point (6) of Article 3(1) of the MiCA Regulation;
+15. Crypto-asset services as defined in point (16) of Article 3 of the MiCA Regulation.
 - Added by: XVII. 2002.192.
-- Amended by: II. 2010.6; II. 2011.35; X. 2015.52; LXXI.2021.64.
+- Amended by: II. 2010.6; II. 2011.35; X. 2015.52; LXXI.2021.64; XXXVI.2024.61.
