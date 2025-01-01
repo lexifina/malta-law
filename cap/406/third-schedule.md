@@ -20,7 +20,8 @@ supplier within the chain other than the first supplier in the chain who dispatc
 Provided further that where a taxable person is deemed to
 have received and supplied goods in accordance with item 12A of the Second Schedule, the dispatch or transport of the goods shall
 be ascribed to the supply made by that taxable person;
-(c) when the transport of goods begins outside the Community and ends in a Member State the supply of those goods by the importer and any subsequent supply up to the acquisition of those goods takes place in the Member State where they are imported.
+(c) when the transport of goods begins outside the Community and ends in a Member State the supply of those goods by the importer and any
+subsequent supply up to the acquisition of those goods takes place in the Member State where they are imported.
 Goods installed or assembled
 2. A supply of goods that are installed or assembled, with or without a trial run, by or on behalf of the supplier takes place where the goods are installed or assembled.
 Goods supplied on board ships, aircraft or trains
@@ -85,11 +86,13 @@ For the purpose of this paragraph:
 (a) "Intra-Community transport of goods" shall mean any transport of goods in respect of which the place of departure and the place of arrival are situated within the territories of two different Member States.
 (b) "Place of departure" shall mean the place where transport of the goods actually begins, irrespective of distances covered in order to reach the place where the goods are located and "place of arrival" shall mean the place where transport of the goods actually ends.
 Supply of cultural, artistic, sporting, scientific, educational, entertainment and similar services, ancillary transport services and valuations of and work on movable property
-6. (1) The place of supply of services in respect of admission to cultural, artistic, sporting, scientific, educational, entertainment or similar events, such as fairs and exhibitions, and of ancillary services related to the admissions, supplied to a taxable person, shall be the place where those events actually take place.
-(2) (a) The place of supply of services and ancillary services, relating to
-cultural, artistic, sporting, scientific, educational, entertainment or similar activities, such as fairs and exhibitions, including the supply of services of the organisers of such activities, supplied to a non-taxable person shall be the place where those activities actually take place.
+6. (1) The place of supply of services in respect of admission to cultural, artistic, sporting, scientific, educational, entertainment or similar events, such as fairs and exhibitions, and of ancillary services related to the admission, supplied to a taxable person, shall be the place where those events actually take place:
+Provided that the provisions of this sub-item shall not apply to admission to the events referred to in this sub-item where the attendance is virtual.
+(2)(a) The place of supply of services and ancillary services, relating to cultural, artistic, sporting, scientific, educational, entertainment or similar activities, such as fairs and exhibitions, including the supply of services of the organisers of such activities, supplied to a non-taxable person shall be the place where those activities actually take place:
+Provided that where the services and ancillary services relate to activities which are streamed or otherwise made virtually available, the place of supply shall, however, be the place where the non-taxable person is established, has his permanent address or usually resides.
 (b) The place of supply of the following services to a non-taxable person shall be the place where the services are physically carried out:
-(i) ancillary transport activities such as loading, unloading, handling and similar activities;
+(i) ancillary transport activities such as loading, unloading, handling
+and similar activities; and
 (ii) valuations of and work on movable tangible property.
 Supply of restaurant and catering services
 7. The place of supply of restaurant and catering services other than those physically carried out on board ships, aircraft or trains during the section of a passenger transport operation effected within the Community, shall be the place where the services are physically carried out.
@@ -128,7 +131,7 @@ Supply of services to non-taxable persons outside the Community
 (g) the hiring out of movable tangible property, with the exception of all means of transport;
 (h) the provision of access to a natural gas system situated within the territory of the Community or to any network connected to such a system, to the electricity system or to heating or cooling networks, or the transmission or distribution through these systems or networks, and the provision of other services directly linked thereto.
 Prevention of double taxation or non-taxation
-12. In order to prevent double taxation, non-taxation or distortion of competition, the Commissioner may, with regard to services the place of supply of which is governed by Items 2, 8, 10 and 11 of this Part:
+12. In order to prevent double taxation, non-taxation or distortion of competition, the Commissioner may, with regard to services the place of supply of which is governed by item 2, the proviso to item 6(2)(a), item 8, item 10 and item 11 of this Part:
 (a) consider the place of supply of any or all of those services, if situated within Malta, as being situated outside the Community if the effective use and enjoyment of the services takes place outside the Community;
 (b) consider the place of supply of any or all of those services, if situated outside the Community, as being situated within Malta if the effective
 use and enjoyment of the services takes place within Malta.
@@ -142,7 +145,15 @@ Place of intra-community acquisition under an identification number assigned und
 (a) it is made for the purpose of a subsequent supply of those goods in that other Member State;
 (b) the subsequent supply is made to a taxable person or a non-taxable legal person identified for value added tax purposes in the Member State of destination;
 (c) the person to whom the subsequent supply is made is designated by the supplier as the person liable for the payment of the tax on that supply;
-(d) the taxable person registered under article 10 reports the subsequent supply in the recapitulative statement required in terms of article 30(3).
+(d) the taxable person registered under article 10 reports the subsequent supply in the recapitulative statement required in accordance with article 30(2).
+The Acquisitions Threshold
+3. The Acquisitions Threshold is the equivalent of ten thousand euro (€10,000) using the latest conversion rate before 1st January of the year in respect of which that threshold is relevant, as published by the Central Bank of Malta if such year is the year 2008 or prior, and by the European Central Bank if such year is the year 2009 or subsequent.
+The value of intra-community acquisitions
+4. For the purpose of determining whether the value of intra-community acquisitions in any particular case exceeds the Acquisitions Threshold or otherwise, the value of the intra-community acquisitions in question shall be taken to be the taxable value that would be determined in accordance with the relevant provisions of the Seventh Schedule if they were taxable intra-community acquisitions, provided that no account shall be taken of the value of:
+(a) intra-community acquisitions of new means of transport and of
+excise goods; and
+(b) value added tax paid or due in a Member State other than Malta on
+the intra-community supply of the goods in question.
 Part Four
 Place of Importations
 Importations
@@ -150,4 +161,4 @@ Importations
 - Substituted by: X. 2003.47.
 - Amended by: L.N. 124 of 2007; L.N. 444 of 2007.
 - Substituted by: L.N. 133 of 2009.
-- Amended by: L.N. 533 of 2010; L.N. 297 of 2018; L.N. 250 of 2019; L.N. 220 of 2020.
+- Amended by: L.N. 533 of 2010; L.N. 297 of 2018; L.N. 250 of 2019; L.N. 220 of 2020; L.N. 344 of 2024.
