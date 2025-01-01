@@ -35,19 +35,19 @@ spaced between the times of 7.30 a.m. and 5.30 p.m. on any day of the week from 
 other than watchmen, shall be related to a week of forty hours of work, while that of watchmen shall be related to a week of sixty hours of work.
 3. (1) The minimum weekly wages of whole-time employees,
 other than watchmen, aged eighteen years or over shall be as follows -
-During the first two years of employment in the trade .................................................................. €213.54
-During the third year of employment in the trade .................................................................. €217.62 During the fourth year of employment in the trade ................................................................... €219.95
-During the fifth year of employment in the trade ................................................................... €222.28.
+During the first two years of employment in the trade .................................................................. €221.78
+During the third year of employment in the trade .................................................................. €225.86 During the fourth year of employment in the trade ................................................................... €228.19
+During the fifth year of employment in the trade ................................................................... €230.52.
 (2) The minimum weekly wages of whole-time employees,
 other than watchmen, under eighteen years of age shall be as follows -
-aged 16 years .................................................... €203.92
-aged 17 years .................................................... €206.76.
+aged 16 years .................................................... €212.16
+aged 17 years .................................................... €215.00.
 (3) The minimum weekly wages of whole-time watchmen,
 independently of their age, shall be as follows:
-(a) those whose duties are mainly performed indoors .................................................................. €213.54
+(a) those whose duties are mainly performed indoors .................................................................. €221.78
 (b) those whose duties are mainly performed out of doors
 [S.L.452.56 WAGES COUNCIL WAGE REGULATION 3
-.................................................................. €215.87.
+.................................................................. €224.11.
 4. Whole-time employees, other than watchmen, shall be allowed intervals for meals and rest of not less in the aggregate than one and a half hours on any day of the week from Monday to Friday and of not less than a quarter of an hour on any Saturday.
 5. Subject to the provisions of paragraph 2 hereof -
 (a) whole-time employees, other than watchmen, shall be paid overtime as follows -
@@ -120,8 +120,8 @@ The provisions of the above Schedule apply to employees employed in any undertak
 In these proposals:
 "manufacture" includes repair; and
 "jewellery" means articles made wholly or mainly of or covered with gold, silver, platinum or other precious metals and includes diamonds or precious stones, articles of rolled gold. [S.L.452.56 6 WAGES COUNCIL WAGE REGULATION
-- Amended by: L.N. 122 of 1978; L.N. 427 of 2007; L.N. 141 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023.
-- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023.
+- Amended by: L.N. 122 of 1978; L.N. 427 of 2007; L.N. 141 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023; L.N. 341 of 2024.
+- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023; L.N. 341 of 2024.
 - See Cap. 252.
 - See Cap. 318.
 - See Cap. 318.

@@ -19,7 +19,8 @@
 "whole-time employee" means an employee who is deemed to be a whole-time employee in terms of any recognized conditions of employment;
 "assistant projectionist" means a person over nineteen years of age who is employed to assist a projectionist;
 "cashier" means an employee engaged wholly or mainly in receiving cash and bookings for admission into a cinema or theatre;
-"staff manager" means an employee who is responsible to the employer for the control of the staff; [S.L.452.43 2 WAGE REGULATION
+"staff manager" means an employee who is responsible to the [S.L.452.43 2 WAGE REGULATION
+employer for the control of the staff;
 "half-day" means a period of twelve hours ending or beginning at
 1.00 p.m.;
 "hours of work" means the time on any day during which
@@ -39,25 +40,24 @@ employer to an employee;
 week of not more than forty-six hours of work. Where a system of two or more shifts is in force the rates specified in paragraph 3 shall relate to an average of not more than forty-six hours over two or more weeks according to the number of shifts in force.
 3. The weekly minimum remuneration payable to whole-time
 employees shall be that shown hereunder:
-Projectionist.............................................. €218.20
-Assistant Projectionist............................... €215.87
-Staff Manager ........................................... €215.87
-Barman ..................................................... €215.87
-Cashier ..................................................... €215.87
-Usher/Usherette ........................................ €215.87
-Controller ................................................. €215.87
+Projectionist.............................................. €226.44
+Assistant Projectionist............................... €224.11
+Staff Manager ........................................... €226.44
+Barman ..................................................... €224.11
+Cashier ..................................................... €224.11
+Usher/Usherette ........................................ €224.11
+Controller ................................................. €224.11
 Learners -
-at age 16 years ......................................... €203.92
-at age 17 years .......................................... €206.76
-at age 18 years or over ............................. €213.54
-Other employees.......................................... €213.54.
+at age 16 years ......................................... €212.16
+at age 17 years .......................................... €215.00
+at age 18 years or over ............................. €221.78
+Other employees.......................................... €221.78.
 4. Whole-time employees shall be allowed a minimum daily
 period for meals and rest as follows:
 (a) where the period of employment includes the whole
-day, an aggregate of one hour;
-(b) where the period of employment is in the afternoon
 [S.L.452.43 WAGE REGULATION 3
-only, an aggregate of half-an-hour.
+day, an aggregate of one hour;
+(b) where the period of employment is in the afternoon only, an aggregate of half-an-hour.
 5. Whole-time employees shall be allowed in every calendar week a rest of one whole day, or two half days.
 6. Overtime shall be payable to whole-time employees as follows:
 For all time worked in excess of forty-six hours in a week - time-and-a-half:
@@ -84,7 +84,8 @@ calculating the sick leave pay due, be deemed to have
 received an amount equal to the sum set for sickness
 benefit entitlement at the rate established under the
 Social Security Act.
-(2) The employer may require a medical certificate by his own physician to certify incapacity for work during the period of absence. [S.L.452.43 4 WAGE REGULATION
+(2) The employer may require a medical certificate by his own [S.L.452.43 4 WAGE REGULATION
+physician to certify incapacity for work during the period of absence.
 (3) The sick leave entitlement granted by virtue of this
 paragraph shall be calculated on the basis provided for annual leave as specified in regulation 8(1) of the Organisation of Working Time Regulations.
 9. The minimum remuneration payable to part-time
@@ -106,8 +107,8 @@ This note is not part of the order but is intended to indicate its
 applicability.
 The provisions in the above Schedule apply to all employees in
 cinemas and theatres, other than stage performers and musicians.
-- Amended by: L.N. 107 of 1977; L.N. 128 of 1978; L.N. 427 of 2007; L.N. 133 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023.
-- Amended by: L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023.
+- Amended by: L.N. 107 of 1977; L.N. 128 of 1978; L.N. 427 of 2007; L.N. 133 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023; L.N. 341 of 2024.
+- Amended by: L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023; L.N. 341 of 2024.
 - See Cap. 252.
 - See Cap. 594.
 - See Cap. 318.

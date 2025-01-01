@@ -22,8 +22,8 @@
 "day" in the case of shift employees, means a period of twenty-four consecutive hours; and, in all other cases, it means a period running from midnight of one day to midnight of the next following day;
 "hours of work" means the time on any day during which employees are at the disposal of the employer exclusive of the intervals allowed for meals and rest;
 "night shift" means any period of employment that includes any hours from 10 p.m. of one day to 6 a.m. of the next following day;
-"part-time employee" means an employee whose normal hours of work, calculated on a weekly basis or on average over a period of employment of up to one year, are less than the normal hours of [S.L.452.55 2 WAGES COUNCIL WAGE REGULATION
-work of a comparable whole-time employee and who is not a whole-time employee with reduced hours;
+"part-time employee" means an employee whose normal hours of work, calculated on a weekly basis or on average over a period of [S.L.452.55 2 WAGES COUNCIL WAGE REGULATION
+employment of up to one year, are less than the normal hours of work of a comparable whole-time employee and who is not a whole-time employee with reduced hours;
 "part-time watchman" means an employee employed as a
 watchman for not more than thirty-six hours a week;
 "period of employment" means the time in any day during which
@@ -46,15 +46,16 @@ not more than -
 3. The minimum weekly wages payable to whole-time
 employees shall be the following -
 (a) Watchmen -
-(i) whose duties are mainly performed indoors ........................................................... €213.54
-(ii) whose duties are mainly performed out of doors ........................................................... €215.87;
+(i) whose duties are mainly performed indoors ........................................................... €221.78
+(ii) whose duties are mainly performed out of doors ........................................................... €224.11;
 (b) Other whole-time employees -
-At age 18 years or over ............................... €213.54
-At age 17 years ........................................... €206.76
-At age 16 years ........................................... €203.92.
+At age 18 years or over ............................... €221.78
+At age 17 years ........................................... €215.00
+At age 16 years ........................................... €212.16.
 (c) Shift employees:
-(i) In the case of employees called upon to work on a three shift cycle and in consideration of the periods of night work on a three shift, an allowance shall be paid equivalent to one-tenth of the normal rate of basic remuneration. In the
+(i) In the case of employees called upon to work on a three shift cycle and in consideration of the periods of night work on a three shift, an allowance shall be paid equivalent to one-tenth
 [S.L.452.55 WAGES COUNCIL WAGE REGULATION 3
+of the normal rate of basic remuneration. In the
 case of employees an a two-shift basis a shift
 allowance shall be paid equivalent to one-
 twelfth of the normal rate of basic remuneration;
@@ -90,7 +91,8 @@ pre-determined day of rest of the week ... double-time;
 addition to the normal hourly wage .........double-time:
 Provided that where a customary holiday falls on a
 Sunday or another day of rest, overtime shall be paid
-only at double-time. [S.L.452.55 4 WAGES COUNCIL WAGE REGULATION
+[S.L.452.55 4 WAGES COUNCIL WAGE REGULATION
+only at double-time.
 (2) In the case of watchmen, overtime shall be payable as
 follows -
 (i) for all time worked in excess of nine hours on any day ................................. time-and-a-half;
@@ -116,9 +118,8 @@ proportion to the number of months in employment.
 (2) For the purposes of this paragraph "vacation leave" means
 leave with pay which may be availed of:
 Provided that:
-(a) one day vacation leave during each of the calendar
 [S.L.452.55 WAGES COUNCIL WAGE REGULATION 5
-years 1988 and 1989;
+(a) one day vacation leave during each of the calendar years 1988 and 1989;
 (b) two days vacation leave during 1990;
 (c) three days vacation leave during 1991; and
 (d) four days vacation leave during 1992, and during any calendar year thereafter;
@@ -192,8 +193,8 @@ weaving, knitting, finishing and any other process
 incidental to the foregoing) of natural, artificial or
 man-made fibres and fabrics; and
 (b) the making up of articles from natural, artificial or man-made fibres and fabrics.
-- Amended by: L.N. 60 of 1978; L.N. 23 of 1979; L.N. 24 of 1981; L.N. 74 of 1989; L.N. 46 of 1990; L.N. 427 of 2007; L.N. 143 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023.
-- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023.
+- Amended by: L.N. 60 of 1978; L.N. 23 of 1979; L.N. 24 of 1981; L.N. 74 of 1989; L.N. 46 of 1990; L.N. 427 of 2007; L.N. 143 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023; L.N. 341 of 2024.
+- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023; L.N. 341 of 2024.
 - See Cap. 252.
 - See Cap. 318.
 - See Cap. 318.

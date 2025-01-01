@@ -19,8 +19,8 @@
 "customary holidays" means the days, other than Sundays, declared to be public holidays by or under the National Holidays and other Public Holidays Act;
 "half day" means a period of half the number of daily working hours;
 "hours of work" means the time on any day during which the employees are at the disposal of the employer exclusive of intervals for meals and rest;
-"learner" means a person other than an apprentice, who is over the age of fourteen years and under the age of eighteen years and who is receiving training in any calling to which this Schedule applies, and in respect of whom the employer holds a permit issued in terms of the Employment and Training Services Act;
-"normal hours of work" means the hours of work per week [S.L.452.39 2 COUNCIL WAGE REGULATION
+"learner" means a person other than an apprentice, who is over the age of fourteen years and under the age of eighteen years and who is receiving training in any calling to which this Schedule applies, and in respect of whom the employer holds a permit issued in terms of the Employment and Training Services Act; [S.L.452.39 2 COUNCIL WAGE REGULATION
+"normal hours of work" means the hours of work per week
 agreed to between the employer and the employee subject to the provisions of paragraph 2;
 "part-time employee" means an employee whose normal hours of
 work, calculated on a weekly basis or on average over a period of employment of up to one year, are less than the normal hours of work of a comparable whole-time employee and who is not a whole-time employee with reduced hours;
@@ -42,27 +42,27 @@ day week, in the case of watchmen.
 3. (1) Whole-time employees aged eighteen years or over
 shall not be paid less than the following wages:
 CATEGORY 1
-On engagement ............................................... €213.54
+On engagement ............................................... €221.78
 CATEGORY 2
-On engagement ............................................... €214.12
+On engagement ............................................... €222.36
 CATEGORY 3
 During the first, second and third year
-of employment in the category ........................ €215.29
+of employment in the category ........................ €223.53
 During the fourth and subsequent years
-of employment in the category ........................ €217.62
+of employment in the category ........................ €225.86
 CATEGORY 4
 During the first, second and third year
-of employment in the category ........................ €216.45
+of employment in the category ........................ €224.69
 During the fourth and subsequent years
-of employment in the category ........................ €218.78
+of employment in the category ........................ €227.02
 [S.L.452.39 COUNCIL WAGE REGULATION 3
 CATEGORY 5
-During the first, second and third year of employment in the category ........................ €219.92
-During the fourth and subsequent years of employment in the category ........................ €222.28
+During the first, second and third year of employment in the category ........................ €228.19
+During the fourth and subsequent years of employment in the category ........................ €230.52
 CATEGORY 6
-During the first year of employment in the category ................................................ €224.61
-During the second year of employment in the category ................................................ €229.26
-During the third and subsequent years of employment in the category ........................ €234.02.
+During the first year of employment in the category ................................................ €232.85
+During the second year of employment in the category ................................................ €237.50
+During the third and subsequent years of employment in the category ........................ €242.26.
 (2) (i) The minimum wage of employees aged seventeen shall be ninety per cent of the above wages.
 (ii) The minimum wage of employees aged sixteen shall be eighty-five per cent of the above wages.
 (3) In this paragraph -
@@ -169,8 +169,8 @@ investment in unit trusts or which run the management
 of unit trusts (except establishments carrying out
 wholly or mainly insurance business).
 The provisions of the above Schedule do not apply to employees whose remuneration for work is regulated by a tariff made by a law.
-- Amended by: L.N. 104 of 1976; L.N. 114 of 1977; L.N. 37 of 1979; L.N. 46 of 1979; L.N. 427 of 2007; L.N. 129 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N.104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023.
-- Amended by: L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N.351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023.
+- Amended by: L.N. 104 of 1976; L.N. 114 of 1977; L.N. 37 of 1979; L.N. 46 of 1979; L.N. 427 of 2007; L.N. 129 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N.104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023; L.N. 341 of 2024.
+- Amended by: L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N.351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023; L.N. 341 of 2024.
 - See Cap. 252.
 - See Cap. 594.
 - See Cap. 318.

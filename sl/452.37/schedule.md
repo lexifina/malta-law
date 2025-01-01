@@ -53,14 +53,14 @@ other than watchmen; and
 [S.L.452.37 WAGES COUNCIL WAGE REGLATION 3
 3. (1) Whole-time skilled employees shall not be paid in any week less than the following wages:
 (a) during the first year of employment in the trade
-..................................................................... €215.87;
+..................................................................... €224.11;
 (b) during the second and subsequent years of
-employment in the trade ................................ €217.62
+employment in the trade ................................ €225.86
 (2) Whole-time employees, other than skilled employees and watchmen, shall not be paid in any week less than the following wages:
-at age 18 years or over ............................ €213.54
-at age 17 years .........................................€206.76
-at age 16 years .........................................€203.92.
-(3) Watchmen shall not be paid less than €217.62 in any week.
+at age 18 years or over ............................ €221.78
+at age 17 years .........................................€215.00
+at age 16 years .........................................€212.16.
+(3) Watchmen shall not be paid less than €225.86 in any week.
 4. Without prejudice to the payment of any overtime to which such employees are entitled in accordance with paragraph 8, and where no other allowance exists for morning and/or afternoon shifts, whole-time employees working on night shift duty shall, in addition to the weekly wage applicable to them, be entitled to a night shift allowance equivalent to four euro and sixty-six cents (4.66) per week.
 5. Part-time employees shall be entitled to a minimum hourly rate calculated pro rata in accordance with the provisions of paragraphs 2 and 3 of this Schedule.
 6. All whole-time employees shall be allowed intervals for meals and rest of not less in the aggregate than one hour in every day to be availed of as agreed upon between the employer and the employee.
@@ -137,8 +137,8 @@ insulation material, but excluding -
 ''chemicals'' includes basic industrial chemicals, gases, fertilizers, natural or synthetic rubber, and petroleum but excludes gases for domestic use;
 ''chemical products'' includes matches, paints, varnishes, lacquers, candles, soaps, synthetic detergents, bitumen, bituminous emulsions and other articles made wholly or mainly of natural or synthetic rubber, but excludes textiles made from natural or man-made fibres, and the manufacture, repair or rebuilding and retreading of tyres;
 ''plastics'' means any material including sythetic resins that contains as an essential ingredient an organic substance of large molecular weight, is solid in its finished state and at some stage in its manufacture or in its processing into finished articles can be shaped by flow.
-- Amended by: L.N. 47 of 1974; L.N. 109 of 1975; L.N. 133 of 1975; L.N. 99 of 1976; L.N. 89 of 1977; L.N. 131 of 1978; L.N. 18 of 1981; L.N. 427 of 2007; L.N. 136 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023.
-- Amended by: L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023.
+- Amended by: L.N. 47 of 1974; L.N. 109 of 1975; L.N. 133 of 1975; L.N. 99 of 1976; L.N. 89 of 1977; L.N. 131 of 1978; L.N. 18 of 1981; L.N. 427 of 2007; L.N. 136 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023; L.N. 341 of 2024.
+- Amended by: L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023; L.N. 341 of 2024.
 - See Cap. 252.
 - See Cap. 594.
 - See Cap. 318.

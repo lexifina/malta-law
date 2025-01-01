@@ -33,12 +33,12 @@ calendar year does not exceed an average of forty hours per week.
 exceed fifty-four in any one week of six days.
 3. (1) The minimum weekly wage payable to whole-time
 employees, both male and female, other than watchmen shall be the following:
-At age 18 years or over ..................... €213.54
-At age 17 years ................................. €206.76
-At age 16 years ................................. €203.92.
+At age 18 years or over ..................... €221.78
+At age 17 years ................................. €215.00
+At age 16 years ................................. €212.16.
 (2) The minimum wage for watchmen shall be:
-€213.54 - for watchmen whose duty is mainly performed indoors
-€215.87 - for watchmen whose duty is mainly performed out of doors.
+€221.78 - for watchmen whose duty is mainly performed indoors
+€224.11 - for watchmen whose duty is mainly performed out of doors.
 4. The minimum remuneration payable to part-time
 employees of the categories specified in paragraph 3 hereof shall not be less than the proportionate rate of the minimum remuneration payable to a whole-time employee of the same category, calculated on the basis of a fifty-four hour week in the case of watchmen and a forty hour week in the case of other employees.
 5. The minimum earnings by an employee engaged on piece-
@@ -130,8 +130,8 @@ EXPLANATORY NOTE
 its applicability).
 The provisions of the above Schedule apply to all employees in
 any undertaking or in any part of an undertaking, the activities of which consist wholly or mainly in the manufacture of cigars, cigarettes, cheroots or pipe or other tobacco and any form of processing of tobacco, whether by hand or by machine.
-- Amended by: L.N. 427 of 2007; L.N. 151 of 2010; L.N. 529 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023.
-- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023.
+- Amended by: L.N. 427 of 2007; L.N. 151 of 2010; L.N. 529 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023; L.N. 341 of 2024.
+- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023; L.N. 341 of 2024.
 - Amended by: L.N. 529 of 2010.
 - See Cap. 252.
 - See Cap. 318.

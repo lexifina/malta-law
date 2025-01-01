@@ -38,9 +38,9 @@ over a period of six days, so that custodians shall be entitled to one
 day of rest in every period of seven consecutive days.
 4. The minimum weekly wages payable to whole-time
 employees shall be as follows -
-Age 18 and over ............................................. €213.54 per week
-Age 17 to 18 years .......................................... €206.76 per week
-Under 17 years ............................................... €203.92 per week
+Age 18 and over ............................................. €221.78 per week
+Age 17 to 18 years .......................................... €215.00 per week
+Under 17 years ............................................... €212.16 per week
 Part-time employees shall be paid pro rata at an hourly rate
 or part thereof not below the national minimum wage, as determined in accordance with the same paragraph and divided by forty.
 5. Whole-time employees shall be allowed intervals for meals
@@ -95,8 +95,8 @@ days leave on full pay on the occasion of their marriage.
 period of one year injury leave on full pay, less the full amount of any injury benefit to which such employee may be entitled in terms of the Social Security Act, if he is injured during the actual discharge of his duty and not due to contributory negligence on his part or to any contravention of safety rules laid down by the employer.
 14. Whole-time employees called for jury service shall be
 allowed all the necessary time off on full pay to attend the Court on such service.
-- Amended by: L.N. 427 of 2007; L.N. 152 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023.
-- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023.
+- Amended by: L.N. 427 of 2007; L.N. 152 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023; L.N. 341 of 2024.
+- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023; L.N. 341 of 2024.
 - See Cap. 252.
 - See S.L. 452.64.
 - See Cap. 318.

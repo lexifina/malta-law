@@ -21,7 +21,8 @@
 "day" means a period running from midnight of one day to midnight of the next following day;
 "half-day" means a period running from midnight to noon, or from noon to midnight;
 "hours of work" means the time on any day during which employees are at the disposal of the employer, exclusive of the intervals allowed for meals and rest;
-"part-time employee" means an employee whose normal hours of work, calculated on a weekly basis or on average over a period of employment of up to one year, are less than the normal hours of work of a comparable whole-time employee and who is not a whole-time employee with reduced hours; [S.L.452.46 2 WAGE REGULATION
+"part-time employee" means an employee whose normal hours of work, calculated on a weekly basis or on average over a period of employment of up to one year, are less than the normal hours of work of a comparable whole-time employee and who is not a [S.L.452.46 2 WAGE REGULATION
+whole-time employee with reduced hours;
 "shift employee" means an employee who regularly works on a
 shift cycle basis;
 "time-and-a-half" and "double-time" mean respectively one and a
@@ -44,17 +45,18 @@ hours shall be taken on an average spread over two or more weeks according to th
 3. The minimum weekly remuneration payable to all
 employees shall be as follows -
 (a) whole-time employees, other than watchmen/security guards:
-(i) 18 years or over .............................. €213.54;
-(ii) 17 years ........................................... €206.76;
-(iii) 16 years ........................................... €203.92;
-(b) watchmen/security guards ........................ €213.54.
+(i) 18 years or over .............................. €221.78;
+(ii) 17 years ........................................... €215.00;
+(iii) 16 years ........................................... €212.16;
+(b) watchmen/security guards ........................ €221.78.
 4. Shift employees, other than watchmen/security guards,
 shall be paid a premium of €3.26 a week.
 5. Whole-time employees, other than watchmen/security
 guards, shall be allowed intervals for meals and rest of not less, in the aggregate, than one hour on every day:
 Provided that -
-(a) subject to the provisions of paragraph (b) of this proviso, the interval or intervals shall be allowed after the first or before the last hour of the period of employment, and
+(a) subject to the provisions of paragraph (b) of this proviso, the interval or intervals shall be allowed after the first or before the last hour of the period of
 [S.L.452.46 WAGE REGULATION 3
+employment, and
 (b) where the last half hour of the period of employment is
 allowed as a half hour of rest, the employee shall be
 entitled to leave the place of work as soon as that half
@@ -91,8 +93,8 @@ during a period of four weeks:
 Provided that whole-time employees who have
 been in employment for less than one year shall be
 entitled to such part of the said vacation leave as is in
-proportion to the number of months in employment.
 [S.L.452.46 4 WAGE REGULATION
+proportion to the number of months in employment.
 9. (1) After completing six months in employment, a whole-
 time employee shall in every calendar year be entitled to the equivalent in hours of twelve days sick leave on full pay, less an amount equal to the sum set for sickness benefit entitlement at the rate established under the Social Security Act, and part-time employees shall have a pro rata entitlement to sick leave in hours on full pay, less an amount equal to the sum set for sickness benefit entitlement at the rate established under the Social Security Act, which amount is also to be calculated on a pro rata basis:
 Provided that -
@@ -109,8 +111,9 @@ shall be paid at half pay by the employer;
 (c) employees in receipt of a social security pension in respect of retirement or widowhood in terms of the Social Security Act shall, for the purpose of calculating the sick leave pay due, be deemed to have received an amount equal to half the sum set for sickness benefit entitlement at the rate established
 under the Social Security Act.
 (3) The employer may require a medical certificate by his own
-physician to certify incapacity for work during the period of absence.
+physician to certify incapacity for work during the period of
 [S.L.452.46 WAGE REGULATION 5
+absence.
 (4) Notwithstanding the provisions of sub-paragraphs (1) and
 (2), employees shall not be entitled to the payment of any wages for the first day of each period of sick leave:
 Provided that the number of unpaid days of sick leave shall not be deducted from the entitlement of paid sick leave as provided in sub-paragraphs (1) and (2).
@@ -122,8 +125,8 @@ Provided that the number of unpaid days of sick leave shall not be deducted from
 14. A whole-time employee shall be entitled to one year injury leave on full pay less the full amount of any injury benefit to which such employee may be entitled in terms of the Social Security Act, if he is injured during the actual discharge of his duty and not due to contributory negligence on his part or contravention of safety rules laid down by the management.
 15. Part-time employees shall be entitled to a minimum hourly rate calculated pro rata in accordance with the provisions of paragraphs 2 and 3 of this Schedule.
 16. In cases where the retiring age of a male employee is expected at the age of sixty years, such employee shall be given the opportunity by the employer to retain his employment beyond this age at least until the age of sixty-one years, provided that the employee in question shall still be allowed, if he so wishes, to retire at the age of sixty years.
-17. An employee is entitled to the payment of the minimum remuneration applicable to him for all time during which he is present on the premises of this employer or any other place in connection with his employment unless he is present thereon in any of the following circumstances -
-(a) without the employer's consent, expressed or implied; [S.L.452.46 6 WAGE REGULATION
+17. An employee is entitled to the payment of the minimum remuneration applicable to him for all time during which he is present on the premises of this employer or any other place in connection with his employment unless he is present thereon in any of the following circumstances - [S.L.452.46 6 WAGE REGULATION
+(a) without the employer's consent, expressed or implied;
 (b) for some purpose unconnected with his work and other than that of waiting for work to be given to him to perform;
 (c) by reason only of the fact that he is resident thereon;
 (d) during normal meal times, and he is not waiting for
@@ -133,8 +136,8 @@ EXPLANATORY NOTE
 applicability).
 The provisions of the above Schedule apply to all employees in
 any undertaking or part of an undertaking, the activities of which consist wholly or mainly in the manufacture, repair or assembly of electronic or scientific equipment.
-- Amended by: L.N. 94 of 1977; L.N. 68 of 1979; L.N. 427 of 2007; L.N. 130 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023.
-- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023.
+- Amended by: L.N. 94 of 1977; L.N. 68 of 1979; L.N. 427 of 2007; L.N. 130 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023; L.N. 341 of 2024.
+- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023; L.N. 341 of 2024.
 - See Cap. 318.
 - See Cap. 318.
 - See Cap. 318.
