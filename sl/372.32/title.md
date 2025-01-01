@@ -1,4 +1,4 @@
 SUBSIDIARY LEGISLATION 372.32
 SALE OF AGRICULTURAL PRODUCE RULES
 18th February, 2005
-LEGAL NOTICE 49 of 2005, as amended by Legal Notices 409 of 2007 and 316 of 2012.
+LEGAL NOTICE 49 of 2005, as amended by Legal Notices 409 of 2007, 316 of 2012 and 33 of 2025.
