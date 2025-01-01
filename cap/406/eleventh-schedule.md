@@ -27,7 +27,8 @@ services supplied;
 (k) (i) a register of goods transferred under the call-off stock arrangements referred to in item 17A of the Second Schedule that permits the Commissioner to verify the correct application of the rules in terms of the provisions of the said item 17A of the Second Schedule; and
 (ii) a register of those goods supplied to him under the call-off stock arrangements referred to in item 17A of the Second Schedule.
 (2) Invoices shall be stored in the original form in which they were sent or made available, whether paper or electronic. Additionally, in the case of invoices stored by electronic means, the Commissioner may require that the data guaranteeing the authenticity of the origin of the invoices and the integrity of their content as provided for in the Twelfth Schedule shall also be stored by electronic means.
-(3) Where a taxable person stores by electronic means invoices which he issues or receives, guaranteeing online access to the data concerned to the Commissioner, and where the tax is due in another Member State, the competent authorities of that Member State shall, for control purposes, have the right to access, download and use those invoices.
+(3) Where a taxable person stores by electronic means invoices or fiscal receipts which he issues or receives, such person shall ensure the possibility for online access, download and use of the data concerned to the Commissioner:
+Provided that where any invoices relate to VAT due in another Member State, the competent authorities of such Member State shall, for control purposes, have the right to access, download and use those invoices.
 Matters to be included in the accounts
 2. The accounts of the economic activity of every person registered under article 10 shall be kept in such a way as to enable the following matters to be readily ascertained:
 (a) the total value, exclusive of tax, of the supplies made by him during each tax period;
@@ -70,6 +71,24 @@ Records pursuant to tax payable as per article 20(2).
 (a) a description of the services and/or goods and the consideration paid;
 (b) the relative invoices;
 (c) all other supporting documents.
+Records to be kept by persons registered under articles 11 and 11A
+10. (1) Every person registered under articles 11 and 11A shall keep the following records and documents:
+(a) proper accounts and records of his economic activity;
+(b) copies of all fiscal receipts issued by him in terms of the Thirteenth
+Schedule;
+(c) all fiscal receipts and tax invoices received by him;
+(d) all credit notes, debit notes and other documents issued by him or
+received by him which evidence an increase or a decrease in the consideration for any supplies, intra-community acquisitions or importations; and
+(e) any other documentation issued to customers in relation to supplies
+made by him.
+(2) Invoices and fiscal receipts shall be stored in the original form in which they were sent or made available, whether paper or electronic. Additionally, in the case of invoices stored by electronic means, the Commissioner may require that the data guaranteeing the authenticity of the origin of the invoices and the integrity of their content as provided for in the Act shall also be stored by electronic means.
+(3) Where a taxable person stores by electronic means invoices or fiscal receipts which he issues or receives, such person shall ensure the possibility for online access, download and use of the data concerned to the Commissioner:
+Provided that where any invoices relate to VAT due in another Member State, the competent authorities of such Member State shall, for control purposes, have the right to access, download and use those invoices.
+(4) The accounts and records of the economic activity of every person registered under articles 11 and 11A shall be kept in such a mannar as to enable the following matters to be readily ascertained:
+(a) the total value, exclusive of tax, of the supplies made to, and by him
+during each tax period; and
+(b) the output tax and any other tax payable by such person for each tax
+period, as may be applicable.
 - Amended by: L.N. 60 of 1999; L.N. 200 of 1999; L.N. 217 of 1999; L.N. 272 of 2000; L.N. 93 of 2001; L.N. 235 of 2001; L.N. 389 of 2002.
 - Substituted by: X. 2003.47.
-- Amended by: L.N. 72 of 2010; L.N. 422 of 2012; L.N. 252 of 2019; L.N. 224 of 2020.
+- Amended by: L.N. 72 of 2010; L.N. 422 of 2012; L.N. 252 of 2019; L.N. 224 of 2020; L.N. 347 of 2024.
