@@ -14,8 +14,9 @@ Non-alcoholic beverages to the extent as shown in the Schedule Five E relevant s
 Plastic sacks and bags to the extent as shown in the relevant Schedule Five F schedule to this Act
 Toiletries and washing preparations to the extent as shown in Schedule Five G the relevant schedule to this Act
 Construction components and other fixtures to the extent as Schedule Five H shown in the relevant schedule to this Act
+Electronic cigarettes and refill containers Schedule Five I
 - Amended by: VII.1996.3.
 - Substituted by: XXV. 1997.5.
 - Amended by: XIV. 1998.4.
 - Substituted by: IX. 2001.9; II. 2004.57; II. 2005.38.
-- Amended by: IV. 2011.67; XIII. 2015.135; XV. 2016.34; XVI. 2017.68; VII.2018.75.
+- Amended by: IV. 2011.67; XIII. 2015.135; XV. 2016.34; XVI. 2017.68; VII.2018.75; IX.2025.55.

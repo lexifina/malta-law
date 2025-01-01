@@ -69,14 +69,14 @@ PART VI
 11. (1) Subject to the provision of sub-regulation (2) the quantity of beer produced which is chargeable with duty shall be that which the worts made were intended to yield as finished beer after making allowance for wastage. This allowance shall be 10% of the liquid volume of the wort after it is brought to the level of the original gravity of the intended beer.
 (2) Duty on the quantity of beer released for consumption in a specified period shall be assessed, according to article 3 of the Act, on the volume in hectolitres of beer as determined at time of release for consumption, even if such quantity exceeds the quantity of beer calculated in terms of sub-regulation (1) to have been produced in relation to the same period.
 (3) Monthly payments of excise duty on beer shall be entered on the proper duty form and remitted to the Commissioner within five days following the last Sunday of each calendar month in settlement of all duty due up to that Sunday, on the quantity of beer released for consumption during that period.
-(4) For duty purposes the original gravity of beer shall be expressed in degrees Plato. When assessing duty on beer produced in Malta the original gravity of the beer shall be determined by using the wort conversion tables, and in terms of the definitions found, in Schedule III to these regulations.
+(4) For the purpose of excise duty, the alcoholic content of the final product shall be expressed as a percentage of the actual alcoholic strength by volume.
 (5) No beer shall be released for consumption or for free circulation unless the original gravity and, or, alcohol by volume and the volume of the beer are denoted on the immediate package.
-(6) For the purpose of payment of duty on beer in accordance with this Act, the volume and original gravity in degrees Plato of the beer released for consumption or for free circulation, shall be the highest of:
-(a) those declared on the label of the container,
+(6) For the purpose of payment of duty on beer in accordance with this Act, the volume and the actual alcoholic strength by volume expressed as a percentage of the beer released for consumption or for free circulation, shall be the highest of:
+(a) those declared on the label of the container;
 (b) those declared on the invoice or other document
-relating to the sale or delivery of the beer,
+relating to the sale or delivery of the beer;
 (c) those found by analytical means by the Commissioner.
-(7) All the ingredients of the beer, including those added after the completion of fermentation, shall be taken into account for the purposes of measuring the degree Plato.
+(7) Deleted by Act IX.2025.60.
 PART VII
 12. The brewer shall keep records and accounts containing the details specified in Schedule I to these regulations and shall be bound to preserve such records for six years or such shorter period as the Commissioner may allow.
 13. The brewer shall produce to the Commissioner -
@@ -93,5 +93,7 @@ II to these regulations.
 (d) the net quantity of beer kept in stock at the brewery in respect to that period; and
 (e) other quantity, if any, of beer recorded as having been mixed with non-alcoholic beverage from the quantity of beer the worts were considered to yield as described in regulation 11(1) in respect to the same period.
 (2) In the event, of a discrepancy which may result after comparing the quantities of beer produced with that issued from the brewery whereby a quantity of beer is found to be unaccounted for in terms of sub-regulation (1), the Commissioner may, without any prejudice to any other action which may be taken against the brewer or any other person in view of the provisions of the Act or any other law, allow the brewer to pay such sum of money as is equivalent to the duty due on such discrepancy.
+- Amended by: IX.2025.61.
+- Amended by: IX.2025.60.
 - Added by: XVIII.2021.55.
-- Amended by: L.N. 43 of 2024.
+- Amended by: L.N. 43 of 2024; IX.2025.60.

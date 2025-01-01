@@ -110,7 +110,7 @@ Provided that if the extra goods which are found in the authorised tax warehouse
 Provided that such functions, powers and duties as are by law reserved to officers holding the rank not below that of inspector of Police shall only be exercisable by officials not below the rank of customs officer.
 - Amended by: XXV. 1997.6; XIV. 1998.5, 7; L.N. 227 of 1999; IX. 2001.11.
 - Substituted by: L.N. 243 of 2002.
-- Amended by: IX. 2003.80; L.N. 11 of 2004; L.N. 450 of 2004; L.N. 481 of 2004; II. 2005.39, 41; L.N. 416 of 2005; L.N. 118 of 2006; L.N. 425 of 2007; L.N. 96 of 2010; L.N. 284 of 2010; XXII. 2011.5; L.N. 207 of 2012; L.N. 437 of 2013; XIII. 2015.143; 144; XVI. 2017.76; L.N. 270 of 2017; VII.2018.80; VII.2019.59; VIII.2020.66; XVIII.2021.55; VII.2022.66; L.N. 50 of 2023; XII.2023.56.
+- Amended by: IX. 2003.80; L.N. 11 of 2004; L.N. 450 of 2004; L.N. 481 of 2004; II. 2005.39, 41; L.N. 416 of 2005; L.N. 118 of 2006; L.N. 425 of 2007; L.N. 96 of 2010; L.N. 284 of 2010; XXII. 2011.5; L.N. 207 of 2012; L.N. 437 of 2013; XIII. 2015.143; 144; XVI. 2017.76; L.N. 270 of 2017; VII.2018.80; VII.2019.59; VIII.2020.66; XVIII.2021.55; VII.2022.66; L.N. 50 of 2023; XII.2023.56; IX.2025.60.
 - Amended by: XVI. 2017.76; VIII.2020.66; XVIII.2021.55; VII.2022.66.
 - Amended by: XVIII.2021.55; VII.2022.66.
 - Amended by: VII.2019.59.

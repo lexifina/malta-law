@@ -1,27 +1,4 @@
 ## SCHEDULE III
-## Sp. Gr Sucrose
-## % w/w
-## 1.063 15.439
-## 1.064 15.671
-## 1.065 15.903
-## 1.066 16.134
-## 1.067 16.365
-## 1.068 16.595
-## 1.069 16.825
-## 1.070 17.055
-## 1.071 17.284
-## 1.072 17.513
-## 1.073 17.741
-## 1.074 17.970
-## 1.075 18.197
-## 1.013 18.425
-## 1.014 18.652
-## 1.015 18.878
-## 1.016 19.105
-## 1.017 19.331
-## 1.018 19.556
-## 1.019 19.782
-## 1.020 20.007
 ## Title.
 ## Scope.
 ## Definition.
@@ -56,16 +33,7 @@
 ## Simplified procedures.
 # schedule-iii
 (Regulation 11(4))
-In this Schedule:
-(a) Degrees Plato shall -
-(i) be determined by converting the specific gravity of the wort by using the Wort Conversion Tables or the equations published by regulations made under this Act; and
-(ii) be taken to refer to the specific gravity of the wort
-expressed in terms of the Plato Scale;
-(b) "the specific gravity of the wort" is to be taken to mean the ratio of the mass of a given volume of wort at a temperature of 20°C; and
-(c) "original gravity" shall be taken to refer to the specific gravity of the wort from which a particular beer would be produced after water, if any, had been added during the process.
-WORT CONVERSION TABLES
-SPECIFIC GRAVITY, 20°/20°, IN AIR, TO% w/w
-SUCROSE, IN VACUO (°BALLING, ºBRIX OR °PLATO)
+Deleted by Act IX.2025.60.
 PART F
 Wine Regulations
 1. The title of these regulations is Wine Regulations.

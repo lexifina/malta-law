@@ -2,19 +2,20 @@
 # second-schedule
 ALCOHOL AND ALCOHOLIC BEVERAGES
 Description of excisable goods Rate of Excise Duty
-BEER €1.93 per hectolitre
-per degree Plato
-If produced by small and independent breweries with an €0.965 per hectolitre annual production not exceeding 200,000 hectolitres of per degree Plato beer.
-Products containing a mixture of beer with non- €0.45 per hectolitre alcoholic drinks. per degree Plato
-The term 'beer' covers any product falling within Customs Tariff Heading No. 2203 or any product containing a mixture of beer with non-alcoholic drinks falling within Customs Tariff Heading No. 2206, in either case with an actual alcoholic strength by volume exceeding 0.5% vol.
-WINE OF FRESH GRAPES €205 per 1000 litres 1. If produced by independent small wine producers the rate established by an which produce on average less than twenty-thousand act of parliament or by (20,000) hl of wine per year. regulations as applicable,
-that shall have effect as of 1st January 2022 or after
-2. The term 'still wine' covers all products falling within Customs Tariff Heading Nos. 2204, 2205 and 2206 except sparkling wine as defined in paragraph 2 below:
-- which have an actual alcoholic strength by volume exceeding 1.2% vol., but not exceeding 15% vol., provided that the alcohol contained in the finished product is entirely of fermented origin, or
+BEER €4.60 per hectolitre
+by the actual alcoholic strength by volume expressed as percentage
+If produced by small and independent breweries with an €2.30 per hectolitre annual production not exceeding two-hundred thousand by the actual alcoholic (200,000) hL of beer. strength by volume
+expressed as percentage
+Products containing a mixture of beer with non- €0.54 per hectolitre alcoholic drinks and beers not exceeding 3.5% of the actual by the alcoholic strength alcoholic strength by volume. by volume expressed as
+percentage
+The term "beer" covers any product falling within Customs Tariff Heading No. 2203 or any product containing a mixture of beer with non-alcoholic drinks fallingwithinCustomsTariffHeadingNo.2206,in either case with an actual alcoholic strength by volume exceeding 0.5% vol.
+WINE OF FRESH GRAPES €0.205 per litre 1. If produced by independent small wine producers €0.1025 per litre which produce on average less than twenty-thousand (20,000) hL of wine per year
+2. The term "still wine" covers all products falling within Customs Tariff Heading Nos. 2204, 2205 and 2206 except sparkling wine as defined in paragraph 2 below:
+- which have an actual alcoholic strength by volume exceeding 1.2% vol., but not exceeding 15% vol., provided that the alcohol contained in the finished product is entirely of fermented origin;
 - which have an actual alcoholic strength by volume exceeding 15% vol., and not exceeding 18% vol., provided they have been produced without any enrichment and that the alcohol contained in the finished product is entirely of fermented origin.
 3. The term "sparkling wine" covers all products falling within CN codes 2204 10, 2204 21 06, 2204 21 07, 2204 21 08, 2204 21 09, 2204 29 10 and 2205 which:
 - are contained in bottles with "mushroom stoppers" held in place by ties or fastenings, or they have an excess pressure due to carbon dioxide in solution of three (3) bar or more;
-- have an actual alcoholic strength by volume exceeding one point two per cent (1.2%) vol., but not exceeding fifteen per cent (15%) vol., provided that the alcohol contained in the finished product is entirely of fermented origin.
+- have an actual alcoholic strength by volume exceeding one point two per cent (1.2%) vol., but not exceeding fifteen per cent (15%) vol., provided that the alcohol contained in the finished product is entirely of fermented origin.".
 FERMENTED BEVERAGES €20 per 1000 litres 1. The term 'still fermented beverages' covers all products falling within Customs Tariff Heading Nos. 2204 and 2205 but not falling under Wine of Fresh Grapes above, and products falling within Customs Tariff Heading No. 2206, except other sparkling fermented beverages as defined in paragraph 2 below and any product covered under Beer above:
 - having an actual alcoholic strength by volume exceeding 1.2% vol., but not exceeding 10% vol.,
 - having an actual alcoholic strength by volume exceeding 10% but not exceeding 15% vol., provided that the alcohol contained in the product is entirely of fermented origin.
@@ -64,16 +65,12 @@ To each 1,000 litres of which is added:
 pharmaceutical industry):
 10 ppm denatonium benzoate irrespective of the alcoholic strength of the alcohol to be denatured
 (ii) when for surgical or pharmaceutical use
-Either:
-- 90% vol ethanol
-- 10% vol isopropyl alcohol
-(This type of denatured alcohol is normally used in pharmaceutical industrial plants) or:
-- 95% vol ethanol - 5% vol wood naphta
-To each 100 litres of which is added
-- 0.5% vol methyl salicylate - 2.0% vol diethyl phthalate - 2.5% castor oil
+Either: - 90% vol ethanol - 10% vol isopropyl alcohol
+(This type of denatured alcohol is normally used in pharmaceutical industrial plants) or: - 95% vol ethanol - 5% vol wood naphta
+To each 100 litres of which is added - 0.5% vol methyl salicylate - 2.0% vol diethyl phthalate - 2.5% castor oil
 (This type of denatured alcohol is commercially referred to as Surgical Spirit)
 - Amended by: VII. 1996.4.
 - Substituted by: VII. 1997.2; XXV. 1997.5; IV. 1998.2; IX. 2001.9; II. 2002.26; II. 2004.57.
 - Amended by: L.N. 118 of 2006.
 - Substituted by: L.N. 425 of 2007.
-- Amended by: II. 2009.33; IV. 2011.68; XXII. 2011.5; XII. 2014.71; XIII. 2015.136; XV. 2016.35; XVIII.2021.53; L.N. 177 of 2022; L.N. 43 of 2024.
+- Amended by: II. 2009.33; IV. 2011.68; XXII. 2011.5; XII. 2014.71; XIII. 2015.136; XV. 2016.35; XVIII.2021.53; L.N. 177 of 2022; L.N. 43 of 2024; IX.2025.56.

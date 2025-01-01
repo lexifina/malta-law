@@ -5,7 +5,8 @@ Description of excisable goods Rate of
 Excise Duty
 Part A Leaded petrol falling within CN Codes 2710.12.31, 2710.12.50.11, 2710.12.50.19, 2710.12.50.90, 2710.12.51 and €678.18 per 1000 2710.12.59 litres
 Unleaded petrol falling within CN Codes 2710.12.41, €359 per 1000 2710.12.45 and 2710.12.49 litres
-Gas Oil falling within CN Codes 2710.19.43 to 2710.19.48 or €330 per 1000 2710.20.11 to 2710.20.19 litres
+Gas Oil falling within CN Codes 2710.19.42 to 2710.19.48 or €330 per 1000
+2710.20.11 to 2710.20.19 litres
 Gas Oil falling within CN Codes 2710.19.31, 2710.19.35, and 2710.19.55 and blends of the foregoing with Biodiesel, excluding Gas Oil or Gas Oil blended with Biodiesel, with a sulphur content €413.078 per not exceeding 0.1% sulphur by weight if used for heating purposes 1000 litres
 If used in the following maritime commercial activities: €112.09 per 1000
 litres
@@ -78,7 +79,8 @@ use as heating fuel or motor fuel;
 (e) products falling within CN Code 3403;
 (f) products falling within CN Code 3811;
 (g) products falling within CN Code 3817;
-(h) products falling within CN Code 3824.90.96 if these are intended for use as heating or motor fuel;
+(h) products falling within CN Code 3824.90.96 if these
+are intended for use as heating or motor fuel;
 (i) electricity falling within CN Code 2716;
 (j) products falling within CN Code 3826.
 Energy products other than those for which a level of duty is specified above shall be subject to excise duty if intended for use, offered for sale or used as heating or motor fuel. The rate of duty to be charged shall be fixed at the rate for the equivalent motor fuel.
@@ -92,4 +94,4 @@ Part E EXEMPTIONS All products in this schedule are exempt from duty when used b
 - Amended by: II. 2006.17; Substituted:; VIII. 2006.2.
 - Amended by: IV. 2007.33.
 - Substituted by: L.N. 425 of 2007.
-- Amended by: XXXII. 2007.80; L.N. 105 of 2008; II. 2009.35; I. 2010.65; IV. 2011.70; V. 2012.53; III. 2013.66; XII. 2014.73; XIII. 2015.138; XV. 2016.37; XVI. 2017.70; VII.2018.76; VII.2019.58; VIII.2020.65; L.N. 250 of 2020; XVIII.2021.54; L.N. 429 of 2021; L.N. 177 of 2022.
+- Amended by: XXXII. 2007.80; L.N. 105 of 2008; II. 2009.35; I. 2010.65; IV. 2011.70; V. 2012.53; III. 2013.66; XII. 2014.73; XIII. 2015.138; XV. 2016.37; XVI. 2017.70; VII.2018.76; VII.2019.58; VIII.2020.65; L.N. 250 of 2020; XVIII.2021.54; L.N. 429 of 2021; L.N. 177 of 2022; IX.2025.58.
