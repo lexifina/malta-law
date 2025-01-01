@@ -2,4 +2,4 @@ SUBSIDIARY LEGISLATION 123.149
 DEDUCTION
 (INCOME FROM EMPLOYMENT) RULES
 9th July, 2013
-LEGAL NOTICE 176 of 2013, as amended by Legal Notices 144 and 474 of 2014, 126 of 2016, 43 of 2017, 188 of 2017, 53 of 2018, 22 and 462 of 2020, 28 of 2022, 4 of 2023 and 1 of 2024.
+LEGAL NOTICE 176 of 2013, as amended by Legal Notices 144 and 474 of 2014, 126 of 2016, 43 of 2017, 188 of 2017, 53 of 2018, 22 and 462 of 2020, 28 of 2022, 4 of 2023 and 1 and 358 of 2024.
