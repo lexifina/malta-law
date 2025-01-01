@@ -4,49 +4,39 @@
 [Article 57]
 Special cases
 Part One
-Professional Services
+Cash Accounting
 Interpretation
-1. In this Part -
-"professional services" means:
-(a) services performed by a person holding a warrant issued under any law in force in Malta to practise a profession acting in an independent capacity in the exercise of that profession;
-(b) services of a group of persons holding a warrant issued under any law in force in Malta to practise a profession whether associated in a partnership or not but excluding a company;
-(c) services performed by an arbitrator pursuant to a submission for
-arbitration made in conformity with the Arbitration Act;
-(d) services performed by a judicial referee or an expert appointed by a court or by a tribunal set up by law.
+1. In this Part:
+"qualifying supplies" means:
+(a) services performed by a person holding a warrant issued under any law in force in Malta to practise a profession acting in an independent capacity in the exercise of such profession;
+(b) services performed by a group of persons holding a warrant issued under any law in force in Malta to practise a profession whether associated in a partnership or otherwise, but excluding a company;
+(c) services performed by a company, which if performed by a physical person would require a warrant issued under any law in force in Malta to perform such services in the exercise of a profession, and which is registered in accordance with any law in force in Malta to practice such profession;
+(d) services performed by an arbitrator pursuant to a submission for arbitration made in conformity with the Arbitration Act;
+(e) services performed by a judicial referee, or an expert appointed by a court or a tribunal set up by law;
+(f) services performed by civil, mechanical and electrical engineering contractors in their professional capacity; and
+(g) supplies made by retailers.
 Cash accounting option
-2. (1) Subject to the other provisions of this Part, a person who supplies professional services and whose annual turn-over does not exceed €2,000,000, exclusive of the tax, may opt that the tax becomes chargeable on the earlier of:
-(a) the date when a tax invoice or a fiscal receipt, as the case may be, is issued for the supply, to the extent covered by that invoice or receipt;
-(b) the date when a payment is made for that supply, to the extent covered by that payment:
-Provided that the right of deduction of input tax of that person shall be postponed until the tax on any goods or services supplied to him has been paid to his supplier.
-(2) The provisions of paragraph (1) shall not apply to supplies of services in respect of which the tax is payable by the customer and to supplies or transfers of goods referred to in item 4 of the Fourth Schedule.
-Date when certain professional services are performed
-3. When, for any purpose of the Act, it is necessary to determine the date when the services referred to in this item are performed, the following provisions shall apply:
-(a) the services of an advocate or of a legal procurator in assisting any party to judicial proceedings shall be treated as performed on the date when a final decree or judgment in those proceedings is delivered by the court in which the proceedings have been instituted (services relating to proceedings instituted in different courts being treated as supplied separately) or, when the advocate or legal procurator abandons or is abandoned by his client at an earlier date, on such earlier date;
-(b) the services of a judicial referee or of an expert appointed by a court or by a tribunal set up by law shall be treated as performed on the date on which the report is filed in or made to the court or tribunal or, when the appointment is terminated on an earlier date, on such earlier date;
-(c) the services of an arbitrator shall be treated as performed on the date of the award or, when the appointment is terminated on an earlier date, on such earlier date.
-Invoices and receipts for professional services
-4. (1) Where a tax invoice is required to be issued for a supply of professional services made in terms of item 2, it shall be issued by not later than the fifteenth day of the month following that in which the payment for the said supply of services is made, to the extent covered by that payment.
-(2) Where a fiscal receipt is required to be issued for a supply of professional services made in terms of item 2 it shall, unless it has been issued before the payment has been made, be issued and delivered to the person who effects the payment or to whom the services have been supplied, immediately after payment has been effected, to the extent covered by that payment.
-Tax on certain professional services where tariffs of fees are established by law
-5. (1) The tax chargeable on a supply of professional services shall be an amount over and above the amount resulting to be chargeable for those services in terms of any tariff of fees established under any law in force in Malta.
-(2) Nothing in this item shall be construed as requiring any person required by law to assess or declare the fees payable in accordance with any such tariff to declare or assess also the said tax.
-(3) In any action for the enforcement of the executive title referred to in article 253(c) of the Code of Organization and Civil Procedure, the amount for which payment may be enforced shall be the amount shown in the taxed bill of costs in question increased by any tax chargeable on the supply of professional services to which the taxed bill of costs refers as evidenced by a tax invoice or a fiscal receipt or a certified copy thereof attached to the said bill.
-(4) The provisions of paragraph (3) of this item shall be without prejudice to the right of the debtor to request the delivery of the original tax invoice or the fiscal receipt in accordance with item 6 of this Part.
-Tax claimed from third parties
-6. The provisions of this item shall apply with respect to any action for the payment of fees for professional services brought against any person other than the person to whom the services were supplied:
-(a) the person against whom the action is brought shall not be bound to pay the amount relating to the tax, if any, chargeable on the supply of the said services unless the original tax invoice or fiscal receipt for those services complying with the provisions of paragraph (b) of this item is delivered to him, or, where the action is brought against a number of persons jointly, to any one of them;
-(b) a tax invoice or fiscal receipt delivered as aforesaid shall, in addition to
-the information required by the Act, contain -
-(i) the following declaration signed by the person to whom the said services were rendered: "I declare that no credit for input tax has been or will be claimed by me in respect of the professional services referred to in this tax invoice/fiscal receipt.";
-(ii) where the person against whom the action or claim is brought is a person registered under article 10, or, where the action is brought against a number of persons jointly, when any one of them is a person registered under article 10, the name and Value Added Tax
-identification number of the said registered person;
-(c) when a tax invoice or fiscal receipt for fees for professional services complying with the provisions of paragraph (b) of this item is delivered to a taxable person who is bound at law to pay or reimburse the said fees it shall for the purposes of this Act be treated as if it were a tax invoice for professional services supplied to him.
+2. (1) Subject to the other provisions of this Part, a taxable person registered under article 10 who carries out qualifying supplies and whose annual turnover, calculated in accordance with item 3 of the Definitions in the Sixth Schedule, does not exceed €2,000,000, excluding tax, may opt for such tax to become chargeable on the earlier of:
+(a) the date when a tax invoice or fiscal receipt, as the case may be, is
+issued for the supply, to the extent covered by such tax invoice or fiscal receipt; or
+(b) the date when a payment is made for such supply, to the extent
+covered by that payment:
+Provided that the right of deduction of input tax of such person shall be postponed until the tax on any goods or services supplied to him has been paid to his supplier.
+(2) The provisions of sub-item (1) shall not apply to supplies of services in respect of which the tax is payable by the customer and to supplies or transfers of goods referred to in item 4 of the Fourth Schedule.
+Invoices and receipts for qualifying supplies
+3. (1) Where a tax invoice is required to be issued for a qualifying supply made in terms of item 2, it shall be issued by not later than the fifteenth (15) day of the month following the month in which the payment for the said supply is made, to the extent covered by such payment.
+(2) Where a fiscal receipt is required to be issued for a qualifying supply made in terms of item 2, unless it has been issued before the payment has been made, it shall be issued and delivered to the person who effects the payment or to whom the supply is made, immediately after payment has been effected, to the extent covered by such payment.
+Transfers of debts arising from supplies subject to cash accounting
+4. Notwithstanding the other provisions of this Part, where a person transfers any debts owed to him arising as a result of a supply made in terms of item 2, the tax on such a supply shall become chargeable on the date of such transfer.
+Cancellation of a registration under article 10
+5. Notwithstanding the other provisions of this Part, where the registration of a person registered under article 10 is, for any reason cancelled, the tax on a supply made in terms of item 2 shall become chargeable, at the latest, on the last day of his last tax period.
 Part Two
 Second-hand goods, works of art, collectors' items and antiques
 Interpretation
 1. In this Part unless the context otherwise requires:
 (1) "works of art" means -
-(a) pictures, collages and similar decorative plaques, paintings and drawings executed by hand by the artist, other than plans and drawings for architectural, engineering, industrial, commercial, topographical or similar purposes, hand-decorated manufactured articles, theatrical scenery, studio back cloths or the like of painted canvasses;
+(a) pictures, collages and similar decorative plaques, paintings and drawings executed by hand by the artist, other than plans and drawings for architectural, engineering, industrial, commercial, topographical or similar purposes, hand-decorated manufactured articles, theatrical
+scenery, studio back cloths or the like of painted canvasses;
 (b) original engravings, prints and lithographs, being impressions produced in limited numbers directly in black and white or in colour of one or of several plates executed entirely by hand by the artist, irrespective of the process or of the material employed by him, but not including any mechanical or photomechanical process;
 (c) original sculptures and statuary, in any material, provided that they are executed entirely by the artist sculpture casts the production of which is limited to eight copies and supervised by the artist or his successor in title;
 (d) tapestries and wall textiles made by hand from original designs provided by artists, provided that there are not more than eight copies of each;
@@ -69,8 +59,8 @@ Second-hand goods dealer
 Supplies
 3. The supplies of goods referred to in item 2 of this Part shall be supplies of second-hand goods, works of art, collectors' items and antiques, made by a second-hand goods dealer, which had been supplied to him within the Community -
 (a) by a non-taxable person; or
-(b) by another taxable person, in so far as the supply of goods by that other person is an exempt without credit supply; or
-(c) by another taxable person who is registered under article 11, in so far as the supplies involve capital assets; or
+(b) by another taxable person not being a taxable person covered by the exemption for small enterprises provided for in Article 284 of Council Directive 2006/112/EC, in so far as the supply of goods by such other person is an exempt without credit supply;
+(c) by another taxable person, in so far as the supply of goods by such other taxable person is covered by the exemption for small enterprises provided for in Article 284 of Council Directive 2006/112/EC and involves capital goods.
 (d) by another second-hand goods dealer, in so far as the supply of goods by that other second-hand goods dealer was subject to value added tax in accordance with the other provisions of this Part.
 Taxable Value
 4. (1) The taxable value of the supplies of goods referred to in item 3 of this Part shall be the profit margin made by the second-hand goods dealer less the amount of value added tax relating to the profit margin. That profit margin shall be equal to the difference between the selling price charged by the second-hand goods dealer for the goods and the purchase price.
@@ -78,11 +68,12 @@ Taxable Value
 (a) "selling price" means everything which constitutes the consideration which has been, or is to be, charged by the second-hand goods dealer to the purchaser, including subsidies directly linked to that transaction, taxes, duties, levies and charges and incidental expenses such as commission, packaging, transport and insurance costs charged by the second-hand goods dealer to the purchaser but excluding discounts and repayment for expenses paid out in the name and for the account of the purchaser;
 (b) "purchase price" means everything which constitutes the consideration as defined in subparagraph (a) of this paragraph, paid, or to be paid, by the second-hand goods dealer to his supplier.
 Applicable option
-5. (1) Second-hand goods dealers shall have the option to apply the provisions of this Part, after having obtained the approval in writing of the Commissioner, in respect of supplies of -
-(a) works of art, collectors' items or antiques which they have imported themselves;
-(b) works of art supplied to them by their creators or their successors in title.
-(2) Where a second-hand goods dealer exercises the option available under paragraph (1) of this item, such option shall cover, at least, two calendar years.
-(3) Where a second-hand goods dealer exercises the option available under paragraph (1) of this item, the taxable value shall be determined in accordance with item 4 of this Part. Where the supplies refer to supplies to which subparagraph (a) of paragraph (1) of this item refers, the purchase price to be taken into account in calculating the profit margin shall be equal to the taxable value on importation, plus the value added tax due or paid on importation.
+5. (1) Second-hand goods dealers shall have the option to apply the provisions of this Part, after having obtained the approval of the Commissioner in writing, in respect of supplies of:
+(a) works of art supplied to them by their creators or their successors in title; and
+(b) works of art supplied to them by a taxable person other than a taxable dealer.
+(2) Where a second-hand goods dealer exercises the option available under sub-item (1), such option shall cover, a minimum of, two (2) calendar years.
+(3) Where a second-hand goods dealer exercises the option available under sub-item
+(1), the taxable value shall be determined in accordance with item 4 of this Part.
 Input Tax
 6. (1) Taxable persons shall not be entitled to deduct the value added tax due or paid in respect of goods which have been, or are to be, supplied to them by second-hand goods dealers, where the supply of those goods has been subject to the provisions of this Part.
 (2) Where the second-hand goods dealer accounts for value added tax in terms of the provisions of this Part, he shall not be entitled to claim back -
@@ -125,7 +116,7 @@ Sales by public auction
 (a) a non-taxable person; or
 (b) another taxable person in so far as the supply of goods by that other registered person is made pursuant to a contract under which commission is payable on purchase or sale and is an exempt supply in
 terms of Part Two of the Fifth Schedule to the Act; or
-(c) another taxable person who is registered under article 11 in so far as the supply of goods by that other person involves capital assets and is made pursuant to a contract under which commission is payable on purchase or sale; or
+(c) another taxable person, in so far as the supply of goods, carried out by such taxable person in accordance with a contract under which commission is payable on sale, is covered by the exemption for small enterprises provided for in Article 284 of Council Directive 2006/112/EC and involves capital goods; or
 (d) another second-hand goods dealer, in so far as the supply of goods by that other second-hand goods dealer is made pursuant to a contract under which commission is payable on purchase or sale and is subject to
 value added tax in terms of the other provisions of this Part,
 the taxable value of each supply of goods shall be that specified in the other paragraphs of this item.
@@ -171,17 +162,38 @@ Repossessed goods
 (c) by a mortgagee in terms of his rights under a mortgage over a ship or aircraft,
 and supplied by the person who repossessed them in the same condition as they were in at the time they were repossessed, the said supply by that person shall be treated as neither a supply of goods nor as a supply of services.
 Part Three
-Supplies by Retailers and by Civil, Mechanical and
-Electrical Engineering Contractors
-Applicability
-1. This Part applies to retailers, civil, mechanical and electrical engineering contractors whose annual turn-over does not exceed €2,000,000, exclusive of the tax.
-Cash accounting option
-2.(1) (a) Subject to the other provisions of this Part, any person referred to in
-item 1 of this Part may opt that the tax on supplies made by him becomes chargeable on the date when a payment is made for that supply, to the extent covered by that payment.
-Provided that the right of deduction of input tax of that person shall be postponed until the tax on the goods or services supplied to him has been paid to his supplier.
-(b) Where a tax invoice issued in terms of the Twelfth Schedule by a person
-who has made an option in terms of sub-paragraph (a) does not mention the words "cash accounting" the option shall not apply and the tax on that supply shall become chargeable in terms of the other provisions of the Act.
-(2) The provisions of paragraph (1) shall not apply to supplies of goods or services in respect of which the tax is payable by the customer and to supplies or transfers of goods referred to in item 4 of the Fourth Schedule.
+Professional Services
+Definition of professional services
+1. For the purpose of this Part, "professional services" shall mean the qualifying services referred to in Part One of this Schedule."
+Date when certain services are performed
+2. When, for any purpose of this Act, it is necessary to determine the date when professional services referred to in this Part are performed, the following provisions shall apply:
+(a) the services of an advocate or of a legal procurator in assisting any
+party to judicial proceedings shall be treated as performed on the date when a final decree or judgment in those proceedings is delivered by the court in which the proceedings have been instituted, or, when the advocate or legal procurator abandons or is abandoned by his client at an earlier date, on such earlier date:
+Provided that services relating to proceedings instituted in different
+courts are to be treated as supplied separately;
+(b) the services of a judicial referee or of an expert appointed by a court
+or a tribunal set up by law shall be treated as performed on the date on which the report is filed or made to the court or tribunal or, when the appointment is terminated on an earlier date, on such earlier date; and
+(c) the services of an arbitrator shall be treated as performed on the date
+of the award or, when the appointment is terminated on an earlier date, on such earlier date.
+Tax on certain professional services where tariffs of fees are established by law
+3. (1) The tax chargeable on a supply of professional services shall be an amount over and above the amount resulting to be chargeable for those services in terms of any tariff of fees established under any law in force in Malta.
+(2) Nothing in this item shall be construed as requiring any person required by law to assess or declare the fees payable in accordance with any such tariff to declare or assess also the said tax.
+(3) In any action for the enforcement of the executive title referred to in article 253(c) of the Code of Organization and Civil Procedure, the amount for which payment may be enforced shall be the amount indicated in the taxed bill of costs concerned increased by any tax chargeable on the supply of professional services to which the taxed bill of costs refers as evidenced by a tax invoice or a fiscal receipt or a certified copy thereof attached to the said bill.
+(4) The provisions of sub-item (3) shall be without prejudice to the right of the debtor to request the delivery of the original tax invoice or the fiscal receipt in accordance with item 4 of this Part.
+Tax claimed from third parties
+4. The provisions of this item shall apply with respect to any action for the payment of fees for professional services brought against any person other than the person to whom the services were supplied:
+(a) the person against whom the action is brought shall not be bound to
+pay the amount relating to the tax, if any, chargeable on the supply of the said services unless the original tax invoice or fiscal receipt for those services complying with the provisions of paragraph (b) is delivered to him or, where the action is brought against a number of persons jointly, to any one of them;
+(b) a tax invoice delivered as aforesaid shall, in addition to the
+information required by this Act, contain:
+(i) the following declaration signed by the person to whom the
+said services were rendered:
+"I declare that no credit for input tax has been or shall be
+claimed by me in respect of the professional services referred to in this tax invoice;
+(ii) where the person against whom the action or claim is brought
+is a person registered under article 10 or, where the action is brought against a number of persons jointly, when any one of them is a person registered under article 10, the name and value added tax identification number of the said registered person; and
+(c) when a tax invoice or fiscal receipt for fees for professional services, complying with the provisions of paragraph (b) if applicable, is delivered to a taxable person who is bound at law to pay or reimburse the said fees it shall for the purposes of this Act be deemed as if it were
+a tax invoice for professional services supplied to him.
 Part Four
 Travel Agents
 Interpretation
@@ -206,9 +218,9 @@ Records
 9. A travel agent shall keep, in addition to the records required to be kept in terms of the other provisions of this Act, such other records as may be necessary to readily ascertain the amount of tax chargeable under this Part.
 Part Five
 Tax in Danger
-1. Where, in any particular contract of supply, and in order to secure the regular payment of the tax in terms of the Act, the Commissioner may, by a notice in writing to the parties to the contract direct that the person to whom the supply is made shall be deemed to have made that supply to himself in the course or furtherance of his economic activity and the provisions of the Act, including the obligation to account for and to pay the tax, shall be read and construed accordingly.
+1. Where, in any particular contract of supply, and in order to secure the regular payment of the tax in terms of this Act, the Commissioner may, by notice in writing to the parties to the contract direct that the payment of the tax on a taxable supply made to a person established in Malta and registered under articles 10 or 12 shall be a liability of the person to whom the supply is made.
 2. When a direction to which item 1 of this Part refers has been given by the Commissioner, the person to whom the supply is made shall keep, in addition to the records required to be kept in terms of the other provisions of the Act, such other records as may be necessary to ascertain the amount of tax payable under this Part.
-3. When a direction has been given by the Commissioner in terms of item 1 of this Part, the tax invoice which is required to be issued in terms of the Act by the person who makes the supply shall, in lieu of the information required by item 2(1)(j) of the Twelfth Schedule to the Act, indicate the words "direction in terms of the Fourteenth Schedule to the Act".
+3. When a direction has been given by the Commissioner in terms of item 1 of this Part, the tax invoice which is required to be issued in terms of this Act by the person who makes the supply shall, instead of the information required by item 3(i) of the Twelfth Schedule, indicate the words "Direction for customer to self-charge VAT in terms of Part Five of the Fourteenth Schedule to the VAT Act.
 4. When a direction has been given by the Commissioner in terms of item 1 of this Part, such direction shall not in any way limit the right to claim any input tax to which any of the persons to whom the direction has been given, may still be entitled to claim in accordance with the other provisions of the Act.
 Part Six
 Investment Gold
@@ -315,7 +327,8 @@ Notification to the Commissioner
 VAT identification number
 4. A taxable person making use of this special scheme shall, for the taxable transactions carried out under this scheme, be identified for VAT purposes in Malta only. For that purpose the Commissioner shall use the individual VAT identification number already allocated to the taxable person in respect of his obligations under the internal system.
 On the basis of the information used for that identification, Member States of consumption may have recourse to their own identification systems.
-Exclusion from the special scheme 5. The Commissioner shall exclude a taxable person from the special scheme in any one (1) of the following cases:
+Exclusion from the special scheme
+5. The Commissioner shall exclude a taxable person from the special scheme in any one (1) of the following cases:
 (a) if he notifies that he no longer carries out supplies of goods and services
 covered by this special scheme;
 (b) if it may otherwise be assumed that his taxable activities covered by this
@@ -324,8 +337,7 @@ special scheme have ceased;
 scheme;
 (d) if he persistently fails to comply with the rules relating to this special
 scheme.
-Submission of VAT return
-6. The taxable person making use of this special scheme shall submit by electronic means to the Commissioner a VAT return for each calendar quarter, whether or not supplies of goods and services covered by this special scheme have been carried out. The VAT return shall be submitted by the end of the month following the end of the tax period covered by the return.
+Submission of VAT return 6. The taxable person making use of this special scheme shall submit by electronic means to the Commissioner a VAT return for each calendar quarter, whether or not supplies of goods and services covered by this special scheme have been carried out. The VAT return shall be submitted by the end of the month following the end of the tax period covered by the return.
 Details and adjustments that shall be included in VAT return
 7. (1) The VAT return shall show the VAT identification number referred to in item 4 and, for each Member State of consumption in which VAT is due, the total value exclusive of VAT, the applicable rates of VAT, the total amount per rate of the corresponding VAT and the total VAT due in respect of the following supplies covered by this special scheme carried out during the tax period:
 (a) intra-Community distance sales of goods;
@@ -489,5 +501,7 @@ Multi-purpose voucher
 (2) Where a transfer of a multi-purpose voucher is made by a taxable person other than the taxable person carrying out the transaction subject to VAT pursuant to paragraph (1) of this item, any supply of services that can be identified, such as distribution or promotion services, shall be subject to VAT.
 Taxable value
 4. Without prejudice to item 1 of the Seventh Schedule to the Value Added Tax Act, the taxable amount of the supply of goods or services provided in respect of a multi-purpose voucher shall be equal to the consideration paid for the voucher or, in the absence of information on that consideration, the monetary value indicated on the multi-purpose voucher itself or in the related documentation, less the amount of VAT relating to the goods or services supplied.
-- Substituted by: L.N. 226 of 2020.
+- Amended by: L.N. 21 of 1999; L.N. 201 of 1999; L.N. 94 of 2001.
+- Substituted by: X. 2003.47.
+- Amended by: L.N. 426 of 2007; L.N. 132 of 2009; L.N. 73 of 2010; L.N. 424 of 2012; L.N. 425 of 2012; L.N. 142 of 2013; L.N. 348 of 2017; L.N. 299 of 2018; L.N. 350 of 2024.
 - Substituted by: L.N. 226 of 2020.
