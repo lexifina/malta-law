@@ -1,55 +1,110 @@
 ## SIXTH SCHEDULE
 # sixth-schedule
-Thresholds
+Small Enterprises
+Definitions
+For the purposes of this Schedule, the following terms shall have the meaning assigned to them in this Part.
+Calendar quarter
+1. "calendar quarter" means a period of three (3) calendar months ending on the 31st March, 30th June, 30th September and 31st December, as the case may be.
+Calendar year
+2. "calendar year" means a period of twelve (12) months commencing on 1st January and ending on 31st December.
+Turnover
+3. (1) "turnover" means the turnover consisting of the following amounts, exclusive of VAT:
+(a) the value of supplies of goods and services, in so far as they would be taxed were they supplied by a person registered under article 10;
+(b) the value of transactions which are exempt with credit in terms of items
+1, 3, 5, 6, 7, and 8(1) of Part One of the Fifth Schedule;
+(c) the value of immovable property transactions, financial transactions referred to in item 3 of Part Two of the Fifth Schedule, and insurance and reinsurance services, unless those transactions are ancillary transactions.
+(2) Disposals of the tangible or intangible capital assets of a taxable person shall not be taken into account for the purposes of calculating the turnover referred to in sub-item (1).
+(3) For the purposes of calculating the turnover referred to in sub-item (1) of persons, other than physical persons, registered or applying to register under article 11, account shall be taken of the turnover of related persons in accordance with the provisions of item 4 of Part One.
+(4) The turnover shall be denominated in euro (€).
+Domestic annual turnover
+4. "Domestic annual turnover" means the total annual turnover from supplies of goods and services, exclusive of VAT, made by a taxable person taking place within Malta during a calendar year.
+Domestic threshold
+5. "Domestic threshold" means the threshold fixed in Malta in accordance with Article 284(1) of Council Directive 2006/112/EC which shall be an amount equivalent to thirty-five thousand euro (€35,000).
+Union annual turnover
+6. "Union annual turnover" means the total annual turnover from supplies of goods and services, exclusive of VAT, made by a taxable person taking place within the territory of the Community during a calendar year.
+Union Threshold
+7. "Union Threshold" means an amount equivalent to one hundred thousand euro (€100,000).
+Member State annual turnover
+8. "Member State annual turnover" means the total annual turnover in a Member State from supplies of goods and services, exclusive of VAT, made by a taxable person within such Member State during a calendar year.
 Part One
 [Article 11]
-Small undertakings
+Special scheme for small enterprises for supplies made within Malta by persons
+established in Malta
 Threshold at the time of application
-1. (1) Subject to paragraph (2), the economic activity of a person who applies for registration under article 11 qualifies as a small undertaking at the time of the application if his turnover for the relevant period is less than the Entry Threshold.
-(2) When a taxable person applies for registration under article 11 at the commencement of his economic activity or within thirty days therefrom his economic activity qualifies as a small undertaking at the time of the application and continues to qualify as a small undertaking up to the end of the calendar quarter following that during which he commenced his economic activity if the Commissioner is satisfied that the turnover of that person for the period of twelve months commencing on the date of the commencement of that economic activity will not exceed the Entry Threshold.
+1. A taxable person who applies for registration under article 11 qualifies as a small enterprise at the time of the application where his Domestic annual turnover during the preceding calendar year, if any, is not more than the Domestic threshold.
 Persons registered under article 10
-2. (1) Notwithstanding the provisions of item 1, the economic activity of a person registered under article 10 does not qualify as a small undertaking at any time during the first full twenty four calendar months from the date of the said registration:
-Provided that a person who is treated as registered under article 10 in virtue of sub-article (6) of the said article of this Act shall be treated for the purpose of this item as having been registered under that article on the date on which he was first registered under this Act.
-(2) Without prejudice to the provisions of paragraph (1) of this item, the economic activity of a person registered under article 10 does not qualify as a small undertaking if the turnover of that person for the relevant period exceeds the Exit Threshold.
-(3) Notwithstanding the provisions of sub-item (1) of this item, where a person who registers under article 10 makes a request to the Commissioner within six months from the date of that registration or before the due date of the first VAT return, whichever is the latest, to convert to a registration under article 11, the Commissioner may accept the request if he is satisfied that the person qualifies as a small undertaking and subject to such other conditions and limitations as may be determined at the time the request is made.
+2. (1) Notwithstanding the provisions of item 1, a person registered under article 10 who applies for registration under article 11 shall not qualify as a small enterprise at any time during the first whole twelve (12) calendar months from the date of the said registration:
+Provided that a person who is deemed to be registered under article 10 by virtue of sub-article (6) of the said article shall be deemed for the purpose of this item as having been registered under the said article on the date on which he was first registered under this Act.
+(2) Notwithstanding the provisions of sub-item (1), where a person who registers under article 10 makes a request to the Commissioner to convert to a registration under article 11, the Commissioner may accept the request where:
+(a) the Commissioner is satisfied that the person qualifies as a small enterprise; and
+(b) such person has not claimed any input tax credits during the period in which he was so registered under article 10.
 Threshold of persons registered under article 11
-3. The economic activity of a person registered under article 11 continues to qualify as a small undertaking as long as the turnover of that person for the relevant period does not exceed the Entry Threshold.
-Turnover
-4. (1) Subject to the other provisions of this item, the turnover of a person for the purposes of this Part is the total taxable value of all supplies made by that person in the course or furtherance of his economic activity during the relevant period, excluding:
-(a) exempt without credit supplies;
-(b) a transfer of a business as a going concern;
-(c) transactions which are treated under this Act as supplies made by a person to himself;
-(d) the sale or disposal of fixed assets.
-(2) Without prejudice to paragraph (1) of this item, where a person registered under article 11 provides both goods and services, the applicable threshold shall be determined in accordance with the principal nature of the supply, taking account of the total value of all the supplies.
-(3) When it appears to the Commissioner that the turnover for the relevant period has been negatively affected by specific extraordinary circumstances, including the temporary suspension of the economic activity, the turnover will be the amount obtained after such adjustment as the Commissioner might deem appropriate in the circumstances.
-(4) In the case of a company established in Malta that forms part of a group of companies the turnover shall be deemed to be the total of the amounts of the turnover of all companies established in Malta that form part of that group. In this paragraph "group of companies" means two or more companies which are controlled by the same person, and for the purpose of this definition a person shall be deemed to control a company if he owns, directly or indirectly, more than 50% of the shares or the voting rights of that company or of another company which controls, within the said meaning, that company.
-(5) For the purpose of computing the turnover for a period that commenced before the 1 January 1999 the taxable value and the description of supplies made before that date and all other terms relevant for that purpose shall be construed according to their meaning under this Act as if those supplies were made after that date.
-Relevant period
-5. (1) For the purposes of this Part, and subject to paragraph (2), the relevant period on any particular date is a period of twelve months ending on the last day of the calendar quarter preceding that in which that particular date falls.
-(2) Where the first day of the twelve-month period referred to in paragraph (1) determined on a particular date precedes the date of the commencement of the economic activity, the relevant period on that particular date is a period commencing on the first day of the calendar quarter following that during which the economic activity was commenced and ending on the last day of the calendar quarter preceding that in which that particular date falls.
-Calendar quarter
-6. For the purposes of this Part, "calendar quarter" is a period of three calendar months ending on the 31 March, the 30 June, the 30 September and the 31 December, as the case may be.
-Entry Threshold and Exit Threshold
-7. For the purposes of this Part the Entry Threshold or the Exit Threshold is the amount in the Second or Third Column respectively in the Table in this Part that corresponds to the category in the First Column of that Table within which the economic activity of that person has been classified by the Commissioner:
-Provided that the Entry or the Exit Threshold for a relevant period of less than twelve months determined in accordance with paragraph (2) of item 5 is a proportion of the relative threshold calculated by dividing that threshold by four and multiplying the result by the number of calendar quarters included in the relevant period so determined.
-Information to be given to the Commissioner
-8. A person who applies for registration under article 11 shall give all information that the Commissioner may reasonably request for the purpose of applying the provisions of this Part.
-TABLE
-First Column Second Column Third Column
-Category Entry Threshold Exit Threshold
-€ €
-A Economic activities consisting principally
-in the supply of goods 35,000 28,000
-B Other economic activities 30,000 24,000
+3. A person registered under article 11 shall continue to qualify as a small enterprise where his turnover during a calendar year does not exceed the Domestic threshold:
+Provided that such person shall no longer qualify as a small enterprise on the date the Domestic threshold is exceeded within a calendar year.
+Turnover of related persons
+4. For the purpose of this Part, the turnover of a person, other than a physical person, registered or applying to register under article 11 shall include the proportionate turnover of any other person, including a physical person, who is related to the person registered or applying to be registered under article 11. In this item, a person shall be deemed to be related to a person registered or applying to be registered under article 11 where the latter person is owned or controlled, directly or indirectly, as to more than ten percent (10%) by the former person, or as may be prescribed by the Commissioner.
+Declaration to be submitted to the Commissioner
+5. (1) The declaration which is required to be submitted to the Commissioner by a person registered under article 11 in terms of article 30(1) shall be submitted to the Commissioner electronically through the web portal designated by the Commissioner for this purpose and including any information requested therein:
+Provided that the Commissioner may otherwise direct any person or class of persons to submit the said declaration by other means.
+(2) The declaration referred to in sub-item (1) shall be submitted for a period of twelve (12) months, or as may be directed by the Commissioner:
+Provided that persons registered under article 11 may opt for a shorter period.
+(3) The period of twelve (12) months referred to in sub-item (2) shall commence on the 1st January and end on the 31st December of the same calendar year:
+Provided that where the effective date of registration of a person under article 11 is a date other than 1st January, the first period of such person shall commence on such effective date and shall end on the 31st December of the same calendar year.
+(4) Where a person ceases to be registered under article 11, the last period of such person shall end on the date when that registration is cancelled by the Commissioner in accordance with the provisions of articles 11(6), (7) and (8).
+(5) A declaration which is required to be furnished for a period to the Commissioner in terms of this Part shall be so furnished by not later than the fifteenth (15th) day of the second (2) month following the month during which such period ends.
+Other information to be given to the Commissioner
+6. A person who applies for registration under article 11 shall submit all information that the Commissioner may reasonably request for the purpose of applying the provisions of this Part.
 Part Two
-[Article 12]
-Acquisitions Threshold
-The acquisitions threshold
-1. The Acquisitions Threshold is the equivalent of Eur 10,000 using the latest conversion rate before 1 January of the year in respect of which that threshold is relevant, last published by the Central Bank of Malta if that year is the year 2008 or previous, and by the European Central Bank if that year is the year 2009 or after.
-The value of intra-community acquisitions
-2. For the purpose of determining whether the value of intra-community acquisitions in any particular case exceeds the Acquisitions Threshold or not the value of the intra-community acquisitions in question shall be taken to be the taxable value that would be determined in accordance with the relevant provisions of the Seventh Schedule if they were taxable intra-community acquisitions, provided that no account shall be taken of the value of:
-(a) intra-community acquisitions of new means of transport and of excise goods;
-(b) value added tax paid or due in a Member State other than Malta on the intra-community supply of the goods in question.
+[Article 11A]
+Special scheme for small enterprises for supplies made in other Member States by
+persons established in Malta
+Threshold at the time of application
+1. (1)A taxable person who applies for registration under article 11A qualifies as a small enterprise at the time of the application where the following conditions are satisfied:
+(a) his Union annual turnover during the preceding calendar year is less than the Union threshold;
+(b) he makes supplies in at least one (1) Member State in which he is not established, where he is eligible to avail himself of the exemption in terms of the special scheme for small enterprises applicable in the respective Member State in accordance with Chapter 1 of Title XII of Council Directive 2006/112/EC; and
+(c) the value of the supplies made in the Member State referred to in paragraph (b) during the preceding calendar year does not exceed the threshold applicable in that Member State for granting the exemption in accordance with Chapter 1 of Title XII of Council Directive 2006/112/ EC:
+Provided that the period referred to in paragraph (c) may be extended to two (2) calendar years where required by the respective Member State in accordance with Article 288a(1) of Council Directive 2006/112/EC.
+Prior notification
+2. An application for a registration under article 11A shall be submitted electronically directly through the established web portal designated by the Commissioner for such purpose, and shall contain the following information:
+(a) the name, activity, legal form and address of the taxable person;
+(b) the Member State or Member States in which the taxable person intends
+to avail himself of the special scheme for small enterprises;
+(c) the turnover from supplies of goods and, or services carried out in Malta and in each of the other Member States during the previous calendar year;
+(d) the turnover from supplies of goods and, or services carried out in Malta and in each of the other Member States during the current calendar year prior to the application for a registration under article 11A; and
+(e) any other information requested therein.
+Update to a prior notification
+3. (1) A taxable person registered under article 11A shall inform in advance the Commissioner electronically directly through the established web portal designated by the Commissioner for such purpose of any changes to the information previously provided in the prior notification referred to in item 2, including:
+(a) the intention to avail himself of the exemption in a Member State or Member States other than the ones indicated in such prior notification; and
+(b) the decision to cease applying the special scheme for small enterprises in a Member State or Member States in which such taxable person is not established.
+(2) The exemption in any Member State referred to in sub-item (1)(a) shall be effective as from the date the Commissioner notifies the taxable person that he may start to avail himself of the exemption in the respective Member State.
+(3) The cessation referred to in sub-item (1)(b) shall be effective as of the first
+(1) day of the next calendar quarter following the receipt of the information from the taxable person or, where such information is received during the last month of a calendar quarter, as of the first (1) day of the second (2) month of the next calendar quarter.
+Declaration to be submitted to the Commissioner 4. (1) The declaration which is required to be submitted to the Commissioner by a person registered under article 11A in terms of article 30(1) shall be submitted to the Commissioner electronically through the web portal designated by the Commissioner for this purpose and including the following information:
+(a) the turnover from supplies carried out during the calendar quarter in Malta or "0" if no supplies have been made;
+(b) the turnover from supplies carried out during the calendar quarter in each of the Member States other than Malta or "0" if no supplies have been made;
+(c) where the Member State in which the special scheme for small enterprises is availed of applies varying thresholds as referred to in the second sub-paragraph of Article 284(1) of Council Directive 2006/112/ EC, the taxable person shall be obliged in respect of such Member State to report separately the total value of supplies of goods and, or services
+as regards each threshold that may be applicable; and
+(d) any other information requested therein.
+(2) The values referred to in sub-item (1) shall be denominated in euro (€):
+Provided that where the Member State in which the special scheme for small enterprises is availed of has not adopted the euro (€), the Commissioner may require such values to be expressed in the national currencies of those Member States. If the supplies have been made in other currencies, the taxable person shall use the exchange rate which applies on the first (1) day of the calendar year. The conversion shall be made by applying the exchange rate published by the European Central Bank for that day or, if there is no publication on such day, on the next day of publication.
+(3) The declaration referred to in sub-item (1) shall be furnished for each calendar quarter.
+(4) Where the effective date of registration of a person under article 11A is a date other than the first (1) day of a calendar quarter, the first (1) period of such person shall commence on such effective date and shall end on the last day of the said calendar quarter.
+(5) Where a person ceases to be registered under article 11A, the last period of such person shall end on the date when the said registration is cancelled by the Commissioner in accordance with article 11A(5).
+(6) A declaration which is required to be submitted to the Commissioner in terms of this Part shall be so submitted by not later than the last day of the month following the end of the respective calendar quarter:
+Provided that, in accordance with article 11A(4)(c), the taxable person shall inform the Commissioner within fifteen (15) working days from the date when the Union annual turnover threshold is exceeded. At the same time, the taxable person shall submit to the Commissioner a further declaration electronically through the web portal designated by the Commissioner for this purpose, indicating the value of the supplies referred to in sub-item (1) that have been made from the beginning of the current calendar quarter up until the date the Union annual turnover threshold was exceeded.
+Exceeding the Union Threshold
+5. Notwithstanding the provisions of article 11A(5), where the Union annual turnover of a person registered under the said article during a calendar year exceeds the Union threshold, the exemption provided for in article 284(1) granted in the Member States in which such person is not established shall cease to apply as from the date the Union threshold is exceeded.
+Part Three
+[Article 11B]
+Special scheme for small enterprises for supplies made within Malta by persons
+established in other Member States
+1. A taxable person established in another Member State deemed to have made a registration under article 11B may be approved by the Commissioner where he qualifies as a small enterprise at the time of the application by satisfying the following conditions:
+(a) his Union annual turnover during the preceding calendar year is less than the Union threshold; and
+(b) the Domestic annual turnover during the preceding calendar year does not exceed the Domestic turnover threshold.
+Exceeding the Domestic threshold
+2. Notwithstanding the provisions of article 11B(3), where the Domestic annual turnover of a person registered under the said article during a calendar year exceeds the Domestic threshold, the exemption provided for in item 16(3) of Part Two of the Fifth Schedule shall cease to apply as from the date the Domestic threshold is exceeded.
+Exceeding the Union Threshold
+3. Notwithstanding the provisions of article 11B(3), where the Union annual turnover of a person registered under the said article during a calendar year exceeds the Union threshold, the exemption provided for in item 16(3) of Part Two of the Fifth Schedule shall cease to apply as from the date the Union threshold is exceeded.
 - Amended by: L.N. 29 of 1999.
 - Substituted by: X. 2003.47.
-- Amended by: L.N. 122 of 2007; L.N. 426 of 2007; L.N. 105 of 2008; L.N. 137 of 2009; L.N. 163 of 2018; L.N. 223 of 2020; L.N. 463 of 2020.
+- Amended by: L.N. 122 of 2007; L.N. 426 of 2007; L.N. 105 of 2008; L.N. 137 of 2009; L.N. 163 of 2018; L.N. 223 of 2020; L.N. 463 of 2020; L.N. 346 of 2024.
