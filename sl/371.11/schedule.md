@@ -5,7 +5,7 @@ LIST OF ACTIVITIES SUBJECT TO MUTUAL RECOGNITION
 1. Taking deposits and other repayable funds;
 2. Lending including, inter alia: consumer credit, credit agreements relating to immovable property, factoring, with or without recourse, financing of commercial transactions (including forfeiting);
 3. Financial Leasing;
-4. Payment services as defined in Article 4(3) of Directive 2007/64/EC of the European Parliament and of the Council of 13 November 2007 on payment services in the internal market amending Directives 97/7/EC, 2002/65/EC, 2005/60/EC and 2006/48/EC and repealing Directive 97/5/EC;
+4. Payment services as defined in Article 4(3) of Directive (EU) 2015/2366;
 5. Issuing and administering other means of payment (e.g. travellers cheques and bankers' drafts) in so far as this activity is not covered by activity 4 above;
 6. Guarantees and commitments;
 7. Trading for own account or for account of customers in:
