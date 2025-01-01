@@ -8,8 +8,9 @@ Interpretation
 "fiscal receipt" means a receipt or invoice issued on a form supplied or approved in writing by the Commissioner or issued in a manner as may be approved by the Commissioner and containing all the information and details required to be specified thereon, or a receipt issued by means of a fiscal cash register, or by a fiscal taxi meter;
 "fiscal taxi meter" means a meter which conforms with the requirements specified in item 14 of this Schedule.
 Obligation to issue receipt
-2. Subject to the other provisions of this Schedule, every person who makes a supply, other than an exempt without credit supply shall, except where he is required to issue a tax invoice in respect of that supply, issue a fiscal receipt in accordance with this Schedule for the consideration paid to him for that supply and such fiscal receipt shall, unless issued before the payment is made, be issued and delivered to the person who effects the payment or to the person to whom the supply is made immediately after payment has been effected, to the extent covered by that payment:
-Provided that in respect of a supply for which no consideration is paid but which is deemed to have been made for a consideration in accordance with the Second Schedule to this Act, the fiscal receipt shall be issued on the date of that supply.
+2. Subject to the other provisions of this Schedule, every person who makes a supply shall, except where he is required to issue a tax invoice in respect of such supply, issue a fiscal receipt in accordance with this Schedule for the consideration paid to him for that supply and such fiscal receipt shall, unless issued before the payment is made, be issued and delivered to the person who effects the payment or to the person to whom the supply is made immediately after payment has been effected, to the extent covered by such payment:
+Provided that in respect of a supply for which no consideration is paid but which is deemed to have been made for a consideration in accordance with the Second Schedule, the fiscal receipt shall be issued on the date of that supply:
+Provided further that the provisions of this item shall not apply to supplies which are exempt without credit in accordance with Part Two of the Fifth Schedule other than supplies referred to under item 16(1) of Part Two of the said Schedule.
 Supplies under the One Stop Shop and the Import One Stop Shop
 2A. Persons supplying goods or services under the One Stop Shop or the Import One Stop Shop, in terms of Chapter 6 of Title XII of Council Directive 2006/112/EC entering into force as from 1st July 2021, shall not be required to issue fiscal receipts in terms of this Schedule for such supplies of goods and services.
 Supplies taking place outside Malta
@@ -62,8 +63,7 @@ Exemption from obligation to issue fiscal receipt
 (2) The Commissioner may at any time by means of a notice in writing or by means of a notice published in the Gazette, as the case may be, revoke any exemption given in terms of this item.
 Obligation to retain and produce receipt
 12. Every person to whom a fiscal receipt is issued shall retain the receipt in his possession for a period of twenty-four hours and shall, upon a request made during the said time by the Commissioner or any officer authorised by the Commissioner, produce the said receipt to the Commissioner or such authorised officer.
-Fiscal cash register
-13. (1) A fiscal cash register shall -
+Fiscal cash register 13. (1) A fiscal cash register shall -
 (a) cater for the functions listed in paragraph (2) of this item; and
 (b) be of a type specifically approved by the Commissioner by means of a notice published in the Gazette or approved for the purposes of and in accordance with the Customs and Excise Tax Act or the Value Added Tax Act.
 (2) The functions for which a fiscal cash register must cater for the purpose of subparagraph (a) of paragraph (1) of this item are:
@@ -97,4 +97,4 @@ Fiscal taxi meter
 (ix) and/or such other details as the Commissioner may require;
 (b) storing of predefined data in an inaccessible and unalterable memory.
 - Substituted by: X. 2003.47.
-- Amended by: L.N. 234 of 2011; L.N. 65 of 2015; L.N. 241 of 2021.
+- Amended by: L.N. 234 of 2011; L.N. 65 of 2015; L.N. 241 of 2021; L.N. 349 of 2024.
