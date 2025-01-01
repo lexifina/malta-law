@@ -14,13 +14,13 @@ International goods traffic
 (2) The supply of services other than those exempted by item 6, consisting in work on movable goods that are intended to be placed or while they are placed under a customs duty suspension regime.
 Intra-community supplies
 3. (1) The intra-community supply of goods to a person who is identified on the relative invoice as a person identified for value added tax purposes by a valid and active value added tax identification number in a Member State other than Malta, excluding:
-(a) a supply made by a person registered under article 11;
+(a) a supply made by a person registered under articles 11 and 11B.
 (b) a supply that is subject to the special scheme of the profit margin in terms of Part Two of the Fourteenth Schedule:
 Provided that, the exemption provided for under this sub-item shall not apply where the supplier has not complied with the obligation to submit a recapitulative statement in terms of article 30(3) or the recapitulative statement submitted by him does not set out the correct information concerning the supply as required in terms of the said article 30(3), unless the supplier can duly justify his shortcoming to the satisfaction of the Commissioner.
 (2) The intra-community supply of new means of transport to a person who is not identified for the purpose of that supply by a value added tax identification number.
 (3) The intra-community supply of excise goods to a person who is not identified for the purpose of that supply by a value added tax identification number where the transport of the goods is carried out in accordance with Article 7 (4) and
 (5), or Article 16 of Directive 92/12/EEC, excluding:
-(a) a supply made by a person registered under article 11;
+(a) a supply made by a person registered under articles 11 and 11B.
 (b) a supply that is subject to the special scheme of the profit margin in terms of Part Two of the Fourteenth Schedule.
 (4) The intra-community supply of goods referred to in item 17(1) of the Second Schedule which would benefit from the exemption referred to in paragraph (1) of this item if it were made on behalf of another taxable person, excluding a supply that is subject to the special scheme of the profit margin in terms of Part Two of the Fourteenth Schedule.
 International transport and ancillary services
@@ -81,6 +81,16 @@ Provided that, when the conditions for the exemption cease to apply, the Europea
 (3) The supply of goods or services to another Member State, intended for the armed forces of any Member State other than the Member State of destination itself, for the use of those forces, or of the civilian staff accompanying them, or for supplying their messes or canteens when such forces take part in a defence effort carried out for the implementation of a European Union activity under the common security and defence policy.
 Supplies of certain devices and aids to non-profit making organisations
 15. The supply to non-profit making organisations specifically recognised as such by the Commissioner for this purpose, of devices and aids, including related goods, which are essential to compensate or overcome disability in humans.
+Products used for female sanitary protection
+16. The supply of products used for female sanitary protection.
+Medical items essential to compensate and overcome cancer in humans
+17. The supply of:
+(a) mastectomy undergarments;
+(b) urinary incontinence management devices;
+(c) vacuum constriction devices;
+(d) scalp cooling systems;
+(e) absorbent incontinence care products; and
+(f) supportive medical undergarments.
 Part Two
 Exemptions without credit
 This Part applies to the supplies listed herein subject to the definitions contained in Part Five. Items 2 and 3 are without prejudice to item 5 of Part One.
@@ -151,8 +161,11 @@ Supplies of goods in respect of which the supplier had not qualified for input t
 13. The supply of goods which were acquired by that person or which were manufactured or produced from components acquired by that person under a supply in respect of which that person did not qualify for any input tax credit.
 Broadcasting
 14. The activities of public radio and television bodies other than those of a commercial nature.
-Water
-15. The supply of water services by a public authority.
+Water 15. The supply of water services by a public authority.
+Exemption for small enterprises
+16. (1) The supply by a person registered under article 11 and entitled to be so registered, of goods and services in accordance with the provisions of Part One of the Sixth Schedule.
+(2) The supply by a person registered under article 11A and entitled to be so registered, of goods and services in accordance with the provisions of Part Two of the Sixth Schedule.
+(3) The supply by a person registered under article 11B and entitled to be so registered, of goods and services in accordance with the provisions of Part Three of the Sixth Schedule.
 Part Three
 Exempt intra-community acquisitions
 This Part applies to the intra-community acquisitions listed herein subject to the definitions contained in Part Five.
@@ -171,8 +184,7 @@ Duty suspension regime
 4. The intra-community acquisition of goods intended to be placed under a customs duty suspension regime.
 Food
 5. The intra-Community acquisition of food.
-Investment gold
-6. The intra-community acquisition of investment gold, saving the option for taxation in terms of Part Six of the Fourteenth Schedule.
+Investment gold 6. The intra-community acquisition of investment gold, saving the option for taxation in terms of Part Six of the Fourteenth Schedule.
 Goods subject to the margin scheme
 7. The intra-community acquisition of goods that are supplied under a transaction subject to a margin scheme on second hand goods, works of art, collectors' items and antiques in the Member State where the transport begins.
 Acquisitions of certain devices and aids by non-profit making organisations
@@ -233,7 +245,8 @@ Food
 (e) Chapters 7 to 12 inclusive, but excluding items falling under subheadings 1207.30.90; 1207.99.91.00; 1209.30.00.00; 1209.99.10;
 1209.99.91.00; 1209.99.99.00; 1211.90.30 in Chapter 12.
 (f) Chapter 13 excluding items falling under subheadings 1301.10.00.00; 1302.11.00; 1302.14.00; 1302.19.05; 1302.19.30; 1302.19.91; 1302.19.98; 1302.20.10; 1302.20.90.
-(g) Chapters 15 to 20 inclusive, but excluding items falling under subheadings 1501.00.11.00; 1502.00.10.00; 1503.00.11.00; 1503.00.19; 1503.00.30.00; 1505.00.10.00; 1505.00.90.00; 1507.10.10.00; 1507.90.10.00; 1508.10.10.00; 1508.90.10.00; 1511.10.10.00; 1511.90.91.00; 1512.11.10.00; 1512.19.10.00; 1512.21.10.00; 1512.29.10.00; 1513.11.10.00; 1513.19.30.00; 1513.21.11.00; 1513.21.19.00; 1513.29.30.00; 1514.11.10.00; 1514.19.10.00; 1514.91.10.00; 1514.99.10.00; 1515.11.00.00; 1515.19.10.00; 1515.21.10.00; 1515.29.10.00; 1515.30.10.00; 1515.30.90.00; 1515.40.00.00; 1515.50.11.00; 1515.50.91.00; 1515.90.15.00; 1515.90.15.90; 1515.90.21.00; 1515.90.31.00; 1515.90.40.00; 1515.90.60.00; 1516.20.10.00; 1517.90.93; 1518.00.10.00; 1518.00.31.00; 1518.00.39.00; 1518.00.91.00; 1518.00.95.00; 1518.00.99.00; 1520.00.00; 1521.10.00.10; 1521.10.00.90; 1521.90.10.00; 1522.00.10; 1522.00.31.00; 1522.00.39.00; 1522.00.91.00; in Chapter 15 and 1702.90.10; 1704.10.11.00; 1704.10.19; 1704.10.91; 1704.10.99; 1704.90.10; 1704.90.55; 1704.90.61; 1704.90.65; 1704.90.71; 1704.90.75 and 1704.90.81 in Chapter 17 and 2006.00.10 and heading 2009 in Chapter 20.
+(g) Chapters 15 to 20 inclusive, but excluding items falling under subheadings 1501.00.11.00; 1502.00.10.00; 1503.00.11.00; 1503.00.19; 1503.00.30.00; 1505.00.10.00; 1505.00.90.00; 1507.10.10.00; 1507.90.10.00; 1508.10.10.00; 1508.90.10.00; 1511.10.10.00; 1511.90.91.00; 1512.11.10.00; 1512.19.10.00; 1512.21.10.00; 1512.29.10.00; 1513.11.10.00; 1513.19.30.00; 1513.21.11.00; 1513.21.19.00; 1513.29.30.00; 1514.11.10.00; 1514.19.10.00; 1514.91.10.00; 1514.99.10.00; 1515.11.00.00; 1515.19.10.00; 1515.21.10.00; 1515.29.10.00; 1515.30.10.00; 1515.30.90.00; 1515.40.00.00; 1515.50.11.00; 1515.50.91.00; 1515.90.15.00; 1515.90.15.90; 1515.90.21.00; 1515.90.31.00; 1515.90.40.00; 1515.90.60.00; 1516.20.10.00; 1517.90.93; 1518.00.10.00; 1518.00.31.00; 1518.00.39.00; 1518.00.91.00; 1518.00.95.00; 1518.00.99.00; 1520.00.00; 1521.10.00.10; 1521.10.00.90; 1521.90.10.00; 1522.00.10; 1522.00.31.00; 1522.00.39.00; 1522.00.91.00; in Chapter 15 and 1702.90.10; 1704.10.11.00; 1704.10.19; 1704.10.91; 1704.10.99; 1704.90.10; 1704.90.55; 1704.90.61; 1704.90.65; 1704.90.71; 1704.90.75 and 1704.90.81 in
+Chapter 17 and 2006.00.10 and heading 2009 in Chapter 20.
 (h) Chapter 21 but excluding items falling under heading 2105.00 and subheadings 2106.90.20.00; 2106.90.98.33; 2106.90.98.37 and 2106.90.98.39.
 (i) Subheadings 2202.90.10.10; 2202.90.91.00; 2202.90.95.00; 2202.90.99.00; 2209.00.11.00; 2209.00.19.00; 2209.00.91.00; 2209.00.99.00 in Chapter 22.
 (j) Chapter 23 but excluding items falling under subheading 2307.00.
@@ -252,8 +265,7 @@ Food supplied in the course of catering
 (iii) biscuits, cakes, confectionery and similar items but excluding those sealed in a package by the manufacturer and supplied in that original sealed package and those items which individually weigh 500 grams or more;
 (b) "family pack" means ice creams consisting of one component of not less than 350 grams in weight;
 (c) food supplied in terms of item 9 of Part One of this Schedule, where such food is served for consumption by any person in the same establishment, shall be considered as food supplied in the course of catering.
-Pharmaceutical goods
-3. "Pharmaceutical goods" means the goods specified in the Customs Tariff contained in the First Schedule to the Import Duties Act under:
+Pharmaceutical goods 3. "Pharmaceutical goods" means the goods specified in the Customs Tariff contained in the First Schedule to the Import Duties Act under:
 (a) Chapter 30 except for items falling under sub-headings 3001 and 3002 where the use of items under these sub-headings is not for therapeutic or prophylactic purposes; 3005 and 3006.
 (b) Subheading 3301.90.30.00 in Chapter 33.
 (c) Subheading 3507.10.00.00 in Chapter 35.
@@ -278,4 +290,4 @@ Investment gold
 6. "Investment gold" has the meaning assigned to it in Part Six of the Fourteenth Schedule.
 - Amended by: L.N. 24 of 2001.
 - Substituted by: X. 2003.47.
-- Amended by: L.N. 250 of 2004; L.N. 520 of 2004; L.N. 334 of 2006; L.N. 121 of 2007; L.N. 445 of 2007; L.N. 234 of 2009; L.N. 286 of 2010; L.N. 425 of 2010; L.N. 534 of 2010; L.N. 379 of 2011; L.N. 499 of 2011; L.N. 38 of 2012; L.N. 345 of 2013; L.N. 422 of 2013; L.N. 480 of 2014; L.N. 227 of 2015; L.N. 247 of 2016; L.N. 383 of 2016; L.N.347 of 2017; L.N. 9 of 2018; L.N.155 of 2019; L.N.302 of 2019; L.N.253 of 2019; L.N.222 of 2020; L.N. 4 of 2021; L.N. 358 of 2021; VII.2022.70; L.N. 138 of 2022; L.N. 12 of 2024; L.N. 228 of 2024.
+- Amended by: L.N. 250 of 2004; L.N. 520 of 2004; L.N. 334 of 2006; L.N. 121 of 2007; L.N. 445 of 2007; L.N. 234 of 2009; L.N. 286 of 2010; L.N. 425 of 2010; L.N. 534 of 2010; L.N. 379 of 2011; L.N. 499 of 2011; L.N. 38 of 2012; L.N. 345 of 2013; L.N. 422 of 2013; L.N. 480 of 2014; L.N. 227 of 2015; L.N. 247 of 2016; L.N. 383 of 2016; L.N.347 of 2017; L.N. 9 of 2018; L.N.155 of 2019; L.N.302 of 2019; L.N.253 of 2019; L.N.222 of 2020; L.N. 4 of 2021; L.N. 358 of 2021; VII.2022.70; L.N. 138 of 2022; L.N. 12 of 2024; L.N. 228 of 2024; L.N. 345 of 2024; L.N. 355 of 2024.
