@@ -7,11 +7,14 @@ Form of tax invoice
 (i) all the particulars required by this Schedule are properly and fully stated; or
 (ii) the invoicing requirements set out in Directive 2006/112/EC are fully complied with.
 (2) Any document or message that amends and refers specifically and unambiguously to the initial invoice shall be treated as an invoice.
-(3) A simplified invoice shall be considered as a tax invoice where:
-(a) the amount of the invoice inclusive of the tax, is not higher than €100;
-(b) the invoice issued is a document or message treated as an invoice;
-(c) the invoice contains all the information referred to in item 5.
-However, the provisions of this paragraph shall not apply where invoices are required to be issued in case of cross-border supplies or where the taxable supply of goods or services is carried out by a taxable person who is not established in the Member State in which the tax is due or whose establishment in that Member State does not intervene in the supply within the meaning of the proviso in article 20(2) of the Act, and the person liable for the payment of the tax is the person to whom the goods or services are supplied.
+(3) A simplified invoice shall be considered as a tax invoice in any of the following cases:
+(a) where the amount of the invoice inclusive of the tax is not higher
+than one hundred euro (€100);
+(b) where the invoice issued is a document or message treated as an
+invoice pursuant to sub-item (2);
+(c) where the taxable person is benefitting from the exemption for small
+enterprises provided for under item 16 of Part Two of the Fifth Schedule:
+Provided that the provisions of this sub-item shall not apply where invoices are required to be issued in case of cross-border supplies or where the taxable supply of goods or services is carried out by a taxable person who is not established in the Member State in which the tax is due or whose establishment in such Member State does not intervene in the supply within the meaning of the proviso to article 20(2), and the person liable for the payment of the tax is the person to whom the goods or services are supplied.
 (4) For the purposes of this Schedule:
 "electronic invoice" means an invoice that contains the information required in this Schedule, and which has been issued and received in any electronic format.
 Issuance of tax invoice
@@ -35,14 +38,14 @@ Contents of a tax invoice
 (b) a sequential number, based on one or more series, which uniquely identifies the invoice;
 (c) the name and address of the supplier and the Value Added Tax
 identification number under which he made the supply;
-(d) the name and address of the person to whom the supply is made and the Value Added Tax identification number under which the customer
-acquired the goods or services supplied to him;
+(d) the name and address of the person to whom the supply is made and the Value Added Tax identification number under which the customer acquired the goods or services supplied to him;
 (e) the quantity and nature of the goods supplied or the extent and nature of the services rendered;
 (f) the date on which the supply was made or completed or the date on which a payment on account of the supply was made insofar as that date can be determined and differs from the date of issue of the invoice;
 (g) the taxable value per rate or exemption, the unit price exclusive of tax and any discounts or rebates if they are not included in the unit price;
 (h) the VAT rate applied;
 (i) the VAT amount payable, except where a special arrangement is applied under which, in accordance with this Act, such a detail is excluded;
-(j) where the person liable for payment of VAT is a tax representative in another Member State, the VAT identification number of that tax representative, together with his full name and address;
+(j) where the person liable for payment of VAT is a tax representative in another Member State, the VAT identification number of that tax
+representative, together with his full name and address;
 (k) where the VAT becomes chargeable at the time when the payment is received in accordance with Parts One and Three of the Fourteenth Schedule, the mention "Cash accounting";
 (l) where the customer receiving a supply issues the invoice instead of the supplier, the mention "Selfbilling";
 (m) where a tax invoice refers to supplies on which no tax is chargeable, it
@@ -92,4 +95,4 @@ Currency
 Translation of invoices
 8. For control purposes, and as regards invoices in respect of supplies of goods or services supplied in Malta and invoices received by taxable persons established in Malta, the Commissioner may, for certain taxable persons or certain cases, require translation into Maltese or English.
 - Substituted by: X. 2003.47.
-- Amended by: L.N. 171 of 2006; L.N. 426 of 2007; L.N. 448 of 2007; L.N. 444 of 2010; L.N. 423 of 2012; L.N. 141 of 2013; L.N. 298 of 2018; L.N. 225 of 2020.
+- Amended by: L.N. 171 of 2006; L.N. 426 of 2007; L.N. 448 of 2007; L.N. 444 of 2010; L.N. 423 of 2012; L.N. 141 of 2013; L.N. 298 of 2018; L.N. 225 of 2020; L.N. 348 of 2024.
