@@ -27,7 +27,7 @@ sub-headings is for therapeutic or prophylactic purposes;
 (c) 3306 and solutions for contact lenses falling under CN code 3307.90.00;
 (d) 3407.00.00;
 (e) 3822.00.00; 3824.90.61 and 3824.90.62;
-(f) 9619 00 31 and 9619 00 39;
+(f) Deleted by Legal Notice 354 of 2024;
 (g) 7015.10.00;
 (h) 9001.30.00; 9001.40.41; 9001.40.49; 9001.40.80;
 9001.50.41; 9001.50.49; 9001.50.80; 9004.90.10;
@@ -56,8 +56,7 @@ books and similar printed matter referred to in paragraphs
 publications wholly or predominantly devoted to
 advertising and excluding also publications wholly or
 predominantly consisting of video content or audible
-music.
-6. Items for the exclusive use of the disabled: 5%
+music. 6. Items for the exclusive use of the disabled: 5%
 (a) raised toilet seats for use by disabled persons falling under CN code 3924.90.90;
 (b) pressure relief cushions for use by disabled persons
 falling under CN codes 4014.90; 8714.20.00 and
@@ -103,4 +102,4 @@ and 9401.30.90;
 15. Services consisting of the care of the human body required to 12% be delivered by a person in the exercise of any profession regulated by the Health Care Professions Act (Cap. 464), including services supplied in the course of a health studio business or similar business, but not including exempt supplies referred to in item 11 of Part Two of the Fifth Schedule.
 - Amended by: L.N. 273 of 2000; L.N. 25 of 2001; L.N. 388 of 2002; L.N. 375 of 2003; L.N. 384 of 2003; L.N. 149 of 2004.
 - Substituted by: X. 2003.47.
-- Amended by: L.N. 251 of 2004; L.N. 376 of 2004; L.N. 436 of 2004; L.N. 123 of 2007; L.N. 446 of 2007; L.N. 235 of 2009; L.N. 499 of 2010; L.N. 523 of 2010; L.N. 381 of 2011; L.N. 500 of 2011; L.N. 39 of 2012; L.N. 64 of 2015; L.N. 43 of 2016; L.N. 434 of 2018; L.N. 186 of 2020; L.N. 5 of 2021; L.N. 231 of 2023.
+- Amended by: L.N. 251 of 2004; L.N. 376 of 2004; L.N. 436 of 2004; L.N. 123 of 2007; L.N. 446 of 2007; L.N. 235 of 2009; L.N. 499 of 2010; L.N. 523 of 2010; L.N. 381 of 2011; L.N. 500 of 2011; L.N. 39 of 2012; L.N. 64 of 2015; L.N. 43 of 2016; L.N. 434 of 2018; L.N. 186 of 2020; L.N. 5 of 2021; L.N. 231 of 2023; L.N. 354 of 2024.
