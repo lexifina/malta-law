@@ -3,4 +3,4 @@ SUBSIDIARY LEGISLATION 545.27
 FEED-IN TARIFFS SCHEME (ELECTRICITY GENERATED FROM SOLAR PHOTOVOLTAIC
 INSTALLATIONS) REGULATIONS
 1st July, 2013*
-LEGAL NOTICE 253 of 2013, as amended by Legal Notices 271 of 2013, and 7, 155 and 416 of 2014; Act XXXIV of 2014; Legal Notices 171, 264, 365 and 415 of 2015; Act XXV of 2015; and Legal Notices 31, 237, 346, 369 of 2016, 32, 104, 120, 200, 338,381 of 2017, 149 of 2018, 159 of 2018 160 of 2018 and 2 and 171 of 2019 and 94, 234, 417 of 2020 and 36, 61, 298 of 2021, 69 and 88 of 2022, 43 of 2023 and 35 of 2024.
+LEGAL NOTICE 253 of 2013, as amended by Legal Notices 271 of 2013, and 7, 155 and 416 of 2014; Act XXXIV of 2014; Legal Notices 171, 264, 365 and 415 of 2015; Act XXV of 2015; and Legal Notices 31, 237, 346, 369 of 2016, 32, 104, 120, 200, 338,381 of 2017, 149 of 2018, 159 of 2018 160 of 2018 and 2 and 171 of 2019 and 94, 234, 417 of 2020 and 36, 61, 298 of 2021, 69 and 88 of 2022, 43 of 2023, 35 of 2024 and 48 of 2025.
