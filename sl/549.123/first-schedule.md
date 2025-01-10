@@ -46,7 +46,7 @@ Hawthorn Crataegus x l-Għanżalor Selvaġġ Hybrid Hawthorn ruscinonensis Cupre
 Juniper; Prickly Cedar; Sharp Cedar Juniperus phoenicea s.l., Il-Ġnibru; Il-Ġniepru; Phoenician Juniper including Juniperus L-Għargħar turbinata Laurus nobilis Ir-Randa Bay Laurel; Sweet Bay Malus pumila s.l.* Is-Siġar tat-Tuffieħ; Apple Tree* [= Malus domestica s.l.; Il-Pumiċella; Pyrus malus s.l.] It-Tuffieħa
 tal-Billudja*
 Malus sylvestris* It-Tuffieħ Selvaġġ* European Crab Apple;
-Wild Apple* Morus alba* Is-Siġar taċ-Ċawsli* White Mulberry* Morus nigra* Is-Siġar tat-Tut* Black Mulberry* Myrtus communis Ir-Riħan Myrtle Nerium oleander x Id-Difla; Siġret Oleander x
+Wild Apple* Morus alba* Is-Siġar taċ-Ċawsli* White Mulberry* Morus nigra* Is-Siġar tat-Tut* Black Mulberry* Myrtus communis Ir-Riħan Myrtle Nerium oleander x Oleander x Id-Difla; Siġret
 il-Ġarab; Siġret
 il-Bass; Is-Siġar
 tal-Wirdien;
@@ -79,11 +79,18 @@ Il-Viburnu
 Ziziphus zizyphus Iż-Żinżel Jujube [= Ziziphus jujuba]
 Part B
 Without prejudice to the Table 1 and Table 2 the following are hereby protected:
-(i) all trees that are visible on the 1967 aerial photos or are more than fifty (50) years of age, are protected if located within protected areas, ODZ, within an Urban Conservation Area (UCA) or in an urban public open space;
-(ii) trees, woodlands and sites of historic or antiquarian importance as listed in the List of Historical Trees Having an Antiquarian Importance Order;
-(iii) trees, woodlands and sites or their biological diversity protected under regulation 7, as directed by the relevant notice issued under that regulation or any other protected area;
-(iv) trees, woodlands and sites protected by a Tree Preservation Order or by an approved management plan for a protected area, as directed by such Order or Plan; and
-(v) the Indian fig or Ficus (Ficus microcarpa s.l., = Ficus retusa; Ficus nitida) trees are protected in urban public open spaces:
-Provided that in the competent authority's opinion these are not causing any damage or adverse effect to the environment or to structures or features of natural or cultural heritage value:
-Provided further that unless otherwise specified in the relevant notice, Order or Plan, the protection provided by points (iii) and (iv) shall not apply to trees listed in the Second Schedule.
+(i) all trees that are visible on the 1967 aerial photos
+or are more than fifty (50) years of age, are protected if located within protected areas, ODZ, within an Urban Conservation Area (UCA) or in an urban public open space;
+(ii) trees, woodlands and sites of historic or
+antiquarian importance as listed in the List of Historical Trees Having an Antiquarian Importance Order;
+(iii) trees, woodlands and sites or their biological
+diversity protected under regulation 7, as directed by the relevant notice issued under that regulation or any other protected area;
+(iv) trees, woodlands and sites protected by a Tree
+Preservation Order or by an approved management plan for a protected area, as directed by such Order or Plan; and
+(v) the Indian fig or Ficus (Ficus microcarpa s.l., =
+Ficus retusa; Ficus nitida) trees are protected in urban public open spaces:
+Provided that in the competent authority's opinion
+these are not causing any damage or adverse effect to the environment or to structures or features of natural or cultural heritage value:
+Provided further that unless otherwise specified in
+the relevant notice, Order or Plan, the protection provided by points (iii) and (iv) shall not apply to trees listed in the Second Schedule.
 - See S.L. 445.02.
