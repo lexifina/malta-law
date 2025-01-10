@@ -6,4 +6,4 @@ SCIENCE IN DIGITAL GAMES - UNDER THE
 AUSPICES OF THE INSTITUTE
 OF DIGITAL GAMES
 16th September, 2014
-LEGAL NOTICE 329 of 2014, as amended by Legal Notices 333 of 2016 and 91 of 2023.
+LEGAL NOTICE 329 of 2014, as amended by Legal Notices 333 of 2016, 91 of 2023 and 7 of 2025.
