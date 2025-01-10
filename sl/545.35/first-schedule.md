@@ -1,4 +1,6 @@
 ## FIRST SCHEDULE
+## m)
+## orm)
 # first-schedule
 (regulation 9)
 Normalisation Rule for Accounting for Electricity Generated from Hydropower and Wind Power
