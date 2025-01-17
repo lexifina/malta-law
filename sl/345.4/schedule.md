@@ -42,11 +42,11 @@ Organisational requirements
 3. (1) The regulated market shall have arrangements to identify clearly and manage those potential adverse consequences, for the operation of the regulated market or for its participants, of any conflict of interest between the interest of the regulated market, its owners or its operator and the sound functioning of the regulated market, and in particular where such conflicts of interest might prove prejudicial to the accomplishment of any functions delegated to the regulated market by the competent authority.
 (2) The regulated market must ensure that:
 (a) it has available on an ongoing basis, sufficient financial resources to facilitate its orderly functioning, having regard to the nature and extent of the transactions concluded on the market and the range and degree of the risks to which it is exposed;
-(b) it is adequately equipped to manage the risks to which it is exposed;
-(c) it has appropriate arrangements and systems to identify all significant
+(b) it is adequately equipped to manage the risks to which it is exposed , including to manage ICT risk in accordance with Chapter II of the DORA
 [S.L.345.04 (AUTHORISATION REQUIREMENTS) 7
-risks to its operations and it has effective measures to mitigate those risks;
-(d) it has proper arrangements for the sound management of the technical operations of its systems, including the establishment of effective contingency arrangements to cope with risks of disruptions to these systems;
+Regulation;
+(c) it has appropriate arrangements and systems to identify all significant risks to its operations and it has effective measures to mitigate those risks;
+(d) Repealed by Legal Notice 249 of 2024;
 (e) it has effective arrangements to facilitate the efficient and timely
 finalisation of the transactions executed under its systems.
 (3) The regulated market shall have transparent and non-discretionary bye-laws and procedures that provide for fair and orderly trading and establish objective criteria for the execution of orders.
@@ -67,8 +67,9 @@ their members or participants with their bye-laws; and
 system disruptions in relation to a financial instrument.
 (2) A market operator of a regulated market shall:
 (a) immediately inform the competent authority of significant infringements of its rules or disorderly trading conditions or conduct that may indicate behaviour that is prohibited under Regulation (EU) No. 596/2014 or system disruptions in relation to a financial instrument:
+Provided that the competent authority shall communicate this
 [S.L.345.04 8 (AUTHORISATION REQUIREMENTS)
-Provided that the competent authority shall communicate this information to ESMA and to the competent authorities of the other Member States or EEA States;
+information to ESMA and to the competent authorities of the other Member States or EEA States;
 Provided further that in relation to conduct that may indicate behaviour that is prohibited under Regulation (EU) No. 596/2014, the competent authority shall be convinced that such behaviour is being or has been carried out before it notifies the competent authorities of the other Member States or EEA States and ESMA;
 (b) supply the relevant information without undue delay to the authority competent for the investigation and prosecution of market abuse on the regulated market and to provide full assistance to the latter in investigating and prosecuting market abuse occurring on or through the systems of the regulated market.
 Promotion and maintenance of standards
@@ -88,4 +89,4 @@ Default bye-laws in respect of market contracts
 8. (1) The regulated market must have default bye-laws which, in the event of a member of the regulated market being or appearing to be unable to meet his obligations in respect of one or more market contracts, enable action to be taken in respect of unsettled market contracts to which he is a party.
 (2) The bye-laws may authorise the taking of the same or similar action in relation to a member who appears to be likely to become unable to meet his obligations in respect of one or more market contracts.
 (3) The regulated market must have adequate arrangements for ensuring that parties to the contract are notified as soon as reasonably practicable of the default, the identity of the other parties to the contract and of any decision taken under the bye-laws in relation to contracts to which they are a party.
-- Amended by: L.N. 385 of 2017.
+- Amended by: L.N. 385 of 2017; L.N. 249 of 2024.
