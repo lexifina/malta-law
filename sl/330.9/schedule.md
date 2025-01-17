@@ -18,7 +18,7 @@ The recovery plan shall include the following information:
 (13) arrangements and measures to restructure liabilities;
 (14) arrangements and measures to restructure business lines;
 (15) arrangements and measures necessary to maintain continuous access to financial markets infrastructures;
-(16) arrangements and measures necessary to maintain the continuous functioning of the institution's operational processes, including infrastructure and IT services;
+(16) arrangements and measures necessary to maintain the continuous functioning of the institution's operational processes, including network and information systems that are set up and managed in accordance with the DORA Regulation;
 (17) preparatory arrangements to facilitate the sale of assets or business lines in a time-frame appropriate for the restoration of financial soundness;
 (18) other management actions or strategies to restore financial soundness and the anticipated financial effect of those actions or strategies;
 (19) preparatory measures that the institution has taken or plans to take in order to facilitate the implementation of the recovery plan, including those necessary to enable the timely recapitalisation of the institution;
@@ -40,7 +40,8 @@ The Resolution Committee may request institutions to provide for the purposes of
 (11) each system on which the institution conducts a material number or value amount of trades, including a mapping to the institution's legal persons, critical operations and core business lines;
 (12) each payment, clearing or settlement system of which the institution is directly or indirectly a member, including a mapping to the institution's legal persons, critical operations and core business lines;
 (13) a detailed inventory and description of the key management information systems, including those for risk management, accounting and financial and regulatory reporting used by the institution including a mapping to the institution's legal persons, critical operations and core business lines;
-(14) an identification of the owners of the systems identified in point (13), service level agreements related thereto, and any software and systems or licences, including a mapping to their legal entities, critical operations and core business lines;
+(14) an identification of the owners of the systems identified in item (13), services level agreements related thereto, and any software and systems or licences, including a mapping to their legal entities, critical operations and core business lines, as well as an identification of critical ICT third-party services providers as defined in paragraph (23) of Article 3 of the DORA Regulation;
+(14A) the results of institutions' digital operational resilience testing under the DORA Regulation;
 (15) an identification and mapping of the legal persons and the interconnections and interdependencies among the different legal persons such as:
 (i) common or shared personnel, facilities and systems;
 (ii) capital, funding or liquidity arrangements;
@@ -62,7 +63,8 @@ When assessing the resolvability of a group, references to an institution shall 
 (1) the extent to which the institution is able to map core business lines and critical operations to legal persons;
 (2) the extent to which legal and corporate structures are aligned with core business lines and critical operations;
 (3) the extent to which there are arrangements in place to provide for essential staff, infrastructure, funding, liquidity and capital to support and maintain the core business lines and the critical operations;
-(4) the extent to which the service agreements that the institution maintains are fully enforceable in the event of resolution of the institution;
+(4) the extent to which the service agreements, including contractual arrangements on the use of ICT services, that the institution maintains are robust and fully enforceable in the event of resolution of the institution;
+(4A) the digital operational resilience of the network and information systems supporting critical functions and core business lines of the institution, taking into account major ICT-related incident reports and the results of digital operational resilience testing under the DORA Regulation;
 (5) the extent to which the governance structure of the institution is adequate for managing and ensuring compliance with the institution's internal policies with respect to its service level agreements;
 (6) the extent to which the institution has a process for transitioning the services provided under service level agreements to third parties in the event of the separation of critical functions or of core business lines;
 (7) the extent to which there are contingency plans and measures in place to ensure continuity in access to payment and settlement systems;
