@@ -100,8 +100,9 @@ Provided further that these provisions shall apply to officers who were reinstat
 (29) years in the service in accordance with sub-regulation (2), he shall be entitled to an additional sum equivalent to six (6) months' basic salary for each additional year of service, which additional period of service for the purposes of the said payment shall not exceed a maximum of four (4) years of service.
 (4) Without prejudice to sub-regulation (3), the officer shall be granted a gratuity on a pro rata basis if a full year or years of additional service have not been completed due to illness or if the officer has reached retirement age as defined in the Social Security Act.
 (5) Gratuities in accordance with these regulations shall be payable on retirement of the officer or on completion of thirty-three
-(33) years of service.
-"(6) Where an officer who has completed twenty-five (25) years of service with the Force, has also satisfied the conditions set out in regulation 11 and opts to continue to serve with the Force thereafter, the said officer shall be entitled to the pension payable upon the completion of twenty-five (25) years of service, notwithstanding any event which may occur during the period subsequent to the completion of the said twenty-five (25) years of service and which may give rise to the applicability of the provisions of regulation 11 of this Schedule and of the provisions of regulation 35 of the Public Service Commission Disciplinary Regulations:
+(33) years of service:
+Provided that upon the request of the beneficiary, gratuities shall be paid at the end of each of the four (4) years covered by this provision.
+(6) Where an officer who has completed twenty-five (25) years of service with the Force, has also satisfied the conditions set out in regulation 11 and opts to continue to serve with the Force thereafter, the said officer shall be entitled to the pension payable upon the completion of twenty-five (25) years of service, notwithstanding any event which may occur during the period subsequent to the completion of the said twenty-five (25) years of service and which may give rise to the applicability of the provisions of regulation 11 of this Schedule and of the provisions of regulation 35 of the Public Service Commission Disciplinary Regulations:
 Provided that this shall be without prejudice to the possibility of accruing additional pension benefits:
 Provided further that the provisions of regulation 11(2) shall apply to the pension payable to the officers referred to in this regulation for the period subsequent to the completion of the said twenty-five (25) years of service.
 15. Where an officer dies before reaching his pension age as defined in the Social Security Act, whether he is still in service as well as if he already retired and is receiving a pension under this Act, the surviving spouse or partner shall be paid a widows pension for a period not exceeding five (5) years from the death of the said officer, or until the date when the officer would have reached the said pension age, whichever comes first. The widows pension shall be equivalent to the proportion indicated in the Twelfth Schedule to the Social Security Act, equivalent to two-thirds of the basic salary of the officer on his death or on his retirement, as applicable:
@@ -110,7 +111,7 @@ Provided further that the pension shall only be granted if the said officer has 
 Provided further that the provisions of this regulation shall apply retroactively in case of officers who were deceased on or after 1st January 2022, but before the coming into force of these regulations.
 - Amended by: L.N. 10 of 2024; L.N. 281 of 2024.
 - Added by: L.N. 312 of 2023.
-- Amended by: L.N. 124 of 2024; L.N. 271 of 2024.
+- Amended by: L.N. 124 of 2024; L.N. 271 of 2024; L.N. 14 of 2025.
 - Added by: L.N. 312 of 2023.
 - See Cap. 569.
 - See Cap. 318.
