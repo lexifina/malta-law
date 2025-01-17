@@ -59,3 +59,4 @@ directly involved in the performance of the specific task;
 secrecy requirements at least equivalent to those referred to in Article 26(1) of the Investment Services Act.
 (3) Where the request is made by any of the entities referred to in sub-paragraph 1, the competent authority may only transmit aggregate or anonymised information and may only share other information at the premises of the competent authority.
 (4) To the extent that the disclosure of information involves processing of personal data, any processing of personal data by the requesting body shall comply with the requirements laid down in Regulation (EU) 2016/679 of the European Parliament and of the Council.
+- Amended by: L.N. 30 of 2022.
