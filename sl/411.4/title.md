@@ -1,4 +1,4 @@
 SUBSIDIARY LEGISLATION 411.04
 CIVIL PROTECTION PENSIONS REGULATIONS
 10th May, 2016
-LEGAL NOTICE 167 of 2016, as amended by Act XVI of 2022 and Legal Notices 314 of 2023 and 123 of 2024.
+LEGAL NOTICE 167 of 2016, as amended by Act XVI of 2022 and Legal Notices 314 of 2023, 123 of 2024 and 13 of 2025.
