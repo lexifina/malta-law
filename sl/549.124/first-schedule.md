@@ -1,6 +1,5 @@
 ## FIRST SCHEDULE
 # first-schedule
-[S.L. 549.124 CERTAIN ATMOSPHERIC POLLUTANTS 11
 (Regulation 6)
 Monitoring and Reporting of Atmospheric Emissions
 Table A. Reporting of annual emissions pursuant to sub-regulation (1) of regulation 6
@@ -120,9 +119,9 @@ SO2, NOx, Biennial, covering
 Projected projections years NMVOC, CO, NH3,
 emissions by 2020, 2025, 2030
 PM10, PM2,5 15 March
-aggregated and where available,
+NFR source and where available,
 BC (if available)
-NFR 2040 and 2050 as
+category 2040 and 2050 as
 from 2017
 (1) re-submissions due to errors shall be provided within our weeks and include a clear explanation of the changes made. [S.L. 549.124 14 CERTAIN ATMOSPHERIC POLLUTANTS
 Table C. Reporting requirements on informative inventory report pursuant to sub-regulation (4) of regulation 6

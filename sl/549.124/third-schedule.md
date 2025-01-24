@@ -21,18 +21,18 @@ policies and measures included in the projections;
 (c) a description of methodologies, models,
 underlying assumptions and key input and output
 parameters.
-2. Projections of emissions shall be estimated and aggregated to relevant source sectors. Emissions projections report shall include a 'with measures' (adopted measures) projection and, where relevant, a 'with additional measures' (planned measures) projection for each pollutant in accordance with the guidance established in the EMEP/EEA Guidebook.
+2. Projections of emissions shall be estimated and reported by NFR source category. Where not possible due to lack of sufficiently detailed data, a justification for reporting at a more aggregated level shall be included in the Informative Inventory Report. Emissions projections report shall include a 'with measures' (adopted measures) projection and, where relevant, a 'with additional measures' (planned measures) projection for each pollutant in accordance with the guidance established in the EMEP/EEA Guidebook.
 3. Emission projections shall be consistent with the annual atmospheric emission inventory for the year x-3 and with projections reported under Regulation (EU) No 525/2013 of the European Parliament and of the Council of 21 May 2013 on a mechanism for monitoring and reporting greenhouse gas emissions and for reporting other information at national and Union level relevant to climate change and repealing Decision No 280/2004/EC.
 Part 3. Informative Inventory Report
 The informative inventory reports shall be prepared in accordance with the EMEP Reporting Guidelines and reported using the template for inventory reports as specified therein. The inventory report shall include, as a minimum, the following information:
 (a) descriptions, references and sources of
 information of the specific methodologies,
 assumptions, emission factors and activity data, as
+[S.L. 549.124 22 CERTAIN ATMOSPHERIC POLLUTANTS
 well as the rationale for their selection;
-(b) a description of the national key categories of [S.L. 549.124 22 CERTAIN ATMOSPHERIC POLLUTANTS
+(b) a description of the national key categories of
 emission sources;
-(c) information on uncertainties, quality assurance and
-verification;
+(c) information on uncertainties, quality assurance and verification;
 (d) a description of the institutional arrangements for
 inventory preparation;
 (e) recalculations and planned improvements;
@@ -40,4 +40,4 @@ inventory preparation;
 (3) and (4) of Directive (EU) 2016/2284;
 (g) if relevant, information on the reasons for deviating from the reduction trajectory determined in accordance with sub-regulation 3 of regulation 4, as well as the measures to converge back on the trajectory;
 (h) an executive summary.
-- Amended by: L.N. 114 of 2021.
+- Amended by: L.N. 114 of 2021; L.N. 21 of 2025.
