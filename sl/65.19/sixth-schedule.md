@@ -98,8 +98,7 @@ Minimum technical and safety requirements
 9. Vehicles must have anti-lock brakes (in accordance with ECE Regulation R.13/09 or the Motor Vehicle (EC Type Approval) Regulations L.N. 95/02 published under the Product Safety Act (Cap 427)).
 10. Vehicles that are registered in Malta must have an on-board weighing
 equipment in accordance with Motor Vehicles (Weights, Dimensions and Equipment) Regulations, S.L. 65.21.
-11. The aerodynamic devices referred to in the Motor Vehicles (Weights,
-Dimensions and Equipment) S.L. 65.21 shall fulfil the following operational conditions:
+11. The aerodynamic devices referred to in the Motor Vehicles (Weights, Dimensions and Equipment) S.L. 65.21 shall fulfil the following operational conditions:
 a. in circumstances where the safety of other road users or of the
 driver is at risk, they shall be folded, retracted or removed by the driver;
 b. their use on urban and inter urban road infrastructures shall take
