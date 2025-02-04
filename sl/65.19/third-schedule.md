@@ -39,3 +39,4 @@ carriage of dangerous goods
 3. Experience of driving goods vehicles
 3.1. Practical experience of driving and manoeuvring vehicles of more than
 7.5 metric tons and using a coupling device
+- Amended by: L.N. 134 of 2006.

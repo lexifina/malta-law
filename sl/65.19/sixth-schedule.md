@@ -1,5 +1,7 @@
 ## SIXTH SCHEDULE
 ## *KDV - Kraftfahrgesetz-Durchfuhrungsverordnung HGV Act implementing regulations (Austria). †In the case of engines of 85 kW or less, a coefficient of 1.7 is applied to the limit value for particles emissions.
+## *KDV = kraftiahrgesetz-Durdlfuhrungsvuerordnung = HGV Act implementing regulations (Austria)
+## *KDV - Krattfahrgesetz-Durchfiihrungsverordnung = HGV Act implementing regulations (Austria). †As soon as the amendment including the provisions of Directive 1999/96/EC is implemented. ‡For engines having each cylinder under a 0.75 dm3 and nominal regime above 3000 min
 ## *Only for natural gas engines and according to the provisions set up for ETC tests (cf. Annex III, Appendix 2. point 3.9 Directive 1999/96/EC).
 # sixth-schedule
 (Regulations 43 and 49)
@@ -129,3 +131,4 @@ manufacturer in the country of registration, or
 of registration and the vehicle manufacturer, or the authorised representative of the manufacturer in the country of registration, when all the equipment is not fitted by the vehicle manufacturer.
 In any event, should an on-the-spot check show that the emission values and safety requirements given on the certificate are not fulfilled, it is considered that the technical specifications have not been met. In such a case, the certificate is deemed to be invalid.
 To facilitate and speed up frontier crossing, it is strongly recommended that EURO3 safe lorries should display at the front of the vehicle a "magnetic" badge or sticker modelled on that reproduced in Annex 10 of the ECMT Agreement. The badge should be green (background) and white (border) and bear the inscription "3" in white (3 = EUR 03).
+- Amended by: L.N. 134 of 2006; L.N. 423 of 2016.

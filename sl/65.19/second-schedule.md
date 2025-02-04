@@ -95,3 +95,4 @@ The minimum duration of each test is two hours.
 2. Where the Authority also organises an oral examination, they must provide, in respect of each of the three tests, for a weighting of marks of a minimum of 25% and a maximum of 40% of the total number of marks to be given.
 Where the Authority organises only a written examination it shall provide, in respect of each test, for a weighting of marks of a minimum of 40% and a maximum of 60% of the total number of marks to be given.
 3. With regard to all the tests, applicants must obtain an average of at least 60% of the total number of marks to be given, achieving in any given test not less than 50% of the total number of marks possible. In one test only, the Authority may reduce that mark from 50% to 40%.
+- Amended by: L.N. 134 of 2006; L.N. 225 of 2007; XV. 2009.49.
