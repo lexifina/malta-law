@@ -3,106 +3,189 @@
 (Regulation 102)
 GUIDELINES ON INFRINGEMENTS AGAINST
 REGULATION (EC) NO. 561/2006
-Guidelines on a common range of infringements against Regulation (EC) No 561/ 2006 of the European Parliament and of the Council dated 15 March, 2006 on the harmonisation of certain social legislation relating to road transport and Council Regulation (EEC) No 3821/85 of the 20 December 1985 on recording equipment in road transport, as amended, divided into categories according to their gravity.
-1. Groups of infringements against Regulation (EC) No 561/2006
-No. Legal basis Type of infringement Level of
-seriousness*
-VSI SI MI
-A Crew A1 Art. 5.1 Not respecting minimum age for drivers X B Driving periods B1 Art. 6.1 Exceed daily driving time 9h<…<10 h X
-of 9 hours if possibilities to
-B2 10h<…<11 h X
-extend to 10 h not allowed
-B3 11 h<… X B4 Exceed extended daily 10h<…<11 h X
-driving time of 10 hours if
-B5 11h<…<12 h X
-extension not allowed
-B6 12 h<… X B7 Art. 6.2 Exceed weekly driving 56 h<…<60 h X
-time
-B8 60 h<…<70 h X B9 70 h<… X B10 Art. 6.3 E x c ee d a c cu mu la t e d 90 h<…<100 h X
-driving time during 2 B11 100 h<…<112 h 30 X
-consecutive weeks B12 112 h 30<… X C Breaks C1 Art. 7 Exceed uninterrupted 4 h 30<...<5 h X
-driving time
-C2 5 h<...<6 h X C3 6 h<... X D Rest periods D1 Art. 8.2 Insufficient daily r est 10 h<…<11 h X
-period of less than 11 hours
-D2 8 h 30<...<10 h X
-if reduced daily rest period
-D3 ...8 h 30 X not allowed D4 Insufficient reduced daily 8 h <…<9 h X
-rest period of less than 9
-D5 7 h<...<8 h X
-hours if reduced daily rest
-D6 …<7 h X period allowed D7 Insufficient split daily rest 3 h + (8 h<…<9 h) X
-period of less than 3 hours
-D8 3 h + (7 h<…<8 h) X
-+ 9 hours
-D9 3 h + (…<7 h) X No. Legal basis Type of infringement Level of
-seriousness*
-VSI SI MI D10 Art. 8.5 Insufficient daily rest 8 h<…<9 h X
-period of less than 9 hours D11 7 h<...<8 h X
-for multi-manning D12 …<7 h X D13 Art. 8.6 Insufficient reduced weekly 22 h<…<24 h
-resting period of less than D14 20 h<…<22 h
-24 hours D15 …<20 h D16 Insufficient weekly resting 42 h<…<45 h X
-period of less than 45 hours D17 36 h<…<42 h X
-if reduced weekly resting D18 …<36 h X period not allowed E Types of payment E1 Art. 10.1 Link between wage and distance travelled or X
-amount of goods carried (*) VSI = Very Serious Infringement SI = Serious Infringement MI = Minor Infringement
-2. Groups of infringements against Regulation (EEC) No 3821/85
-No. Legal basis Type of infringement Level of
-seriousness*
-VSI SI MI
-F Installation of recording equipment F1 Art. 3.1 No type approved recording equipment installed X
-and used
-G Use of recording equipment, driver card or record sheet G1 Art. 13 Recording equipment not correctly functioning X
-(for example: recording equipment not properly
-inspected, calibrated and sealed) G2 Recording equipment improperly used (not X
-using a valid driver card, voluntary abuse, etc)
-G3 Art. 14.1 Not carrying a sufficient number of record X
-sheets G4 Model of record sheet not approved X G5 Not carrying enough paper for printouts X G6 Art. 14.2 Undertaking not keeping record sheets, X
-printouts and downloaded data G7 Art. 14.4 Driver holding more than one valid driver card X G8 Art. 14.4 Use of driver card which is not the driver's own X
-valid card G9 Art. 14.4 Use of defective or expired driver card X G10 Art. 14.5 Recorded and stored data not available for at X
-least 365 days G11 Art. 15.1 Use of dirty or damaged sheets or driver cards X
-and data legible G12 Use of dirty or damaged sheets or driver cards X
-and data not legible G13 Failure to apply for replacement of damaged, X
-malfunctioning, lost or stolen driver card within
-7 calendar days No. Legal basis Type of infringement Level of
-seriousness*
-VSI SI MI G14 Art. 15.2 Incorrect use of record sheets/driver card X G15 Unauthorised withdrawal of sheets or driver X
-card which has an impact on the record of
-relevant data G16 Unauthorised withdrawal of sheets or driver X
-card without any impact on data recorded
-G17 Record sheet or driver card used to cover a X
-period longer than that for which it is intended
-but no data is lost G18 Record sheet or driver card used to cover a X
-period longer than that for which it is intended
-and data is lost G19 Not using manual input when required to do so X G20 Not using correct sheet or driver card not in the X
-correct slot (multi-manning) G21 Art. 15.3 Time recorded on the sheet does not agree with X
-official time of country of registration of the
-vehicle G22 Incorrect use of switch mechanism X H Fill in information H1 Art. 15.5 Surname missing on record sheet X H2 First name missing on record sheet X H3 Date of begin or end of use of the sheet missing X H4 Place of begin or end of use of the sheet missing X H5 Registration number missing on record sheet X H6 Odometer reading (start) missing on record X
-sheet H7 Odometer reading (end) missing on record sheet X H8 Time of change of vehicle missing on record X
-sheet H9 Art. 15.5a Symbol of country not entered in recording X
-equipment
-I Producing information I1 Art. 15.7 Refuse to be checked X I2 Unable to produce records of current day X I3 Unable to produce records of previous 28 days X I4 Unable to produce records of the driver card if X
-the driver holds one I5 Unable to produce manual records and printouts X
-made during the current day and the previous 28
-days I6 Unable to produce driver card X I7 Unable to produce printouts made during the X
-current day and the previous 28 days
-J Fraud No. Legal basis Type of infringement Level of
-seriousness*
-VSI SI MI J1 Art. 15.8 Falsify, suppress, destroy data recorded on X
-record sheets, stored in the recording equipment
-or on the driver card or print-outs from the
-recording equipment J2 Manipulation of recording equipment, record X
-sheet or driver card which may result in data
-and/or printouts information being falsified
-J3 Manipulation device that could be used to X
-falsify data and/or printouts information present
-on vehicle (switch/wire …)
-K Breakdown K1 Art. 16.1 Not repaired by an approved fitter or workshop X K2 Not repaired en route X L Manual input on printouts L1 Art. 16.2 Driver not marking all information for the X
-periods of time which are no longer recorded
-while recording equipment is unserviceable or
-malfunctioning L2 Driver card number and/or name and/or driving X
-licence number missing on temporary sheet
-L3 Signature missing on temporary sheet X L4 Art. 16.3 Loss or theft of driver card not formally X
-declared to the competent authorities of the
-Member State where the theft occurred
-(*) VSI = Very Serious Infringement SI = Serious Infringement MI = Minor Infringement
+Guidelines on a common range of infringements against Regulation (EC) No 561/ 2006, as amended, divided into categories according to their gravity.
+1. Groups of infringements against Regulation of the European Parliament and of
+the Council (EC) No 561/2006
+(Driving and resting time)
+No LEGAL TYPE OF INFRINGEMENT LEVEL OF
+BASIS SERIOUSNESS*
+MSI VSI SI MI
+A Crew
+A1 Article 5.1 Not respecting minimum ages for drivers X
+B Driving periods
+B1 Article 6.1 Exceed daily driving time of 9 hours if 9h < … < X
+the possibility to extend to 10 hours is 10h
+B2 not allowed 10h ≤ … X
+< 11h
+B3 11h ≤ … X
+B4 Exceed daily driving time of 9 hours by 13h30 ≤ X
+50% or more …
+B5 Exceed extended daily driving time of 10h < … X
+10 hours if extension allowed < 11h
+B6 11h ≤ … X
+< 12h
+B7 12h ≤ … X
+B8 Exceed daily driving time of 10 hours 15h ≤ … X
+by 50% or more
+B9 Article 6.2 Exceed weekly driving time 56h < … X
+< 60h
+B10 60h ≤ … X
+< 65h
+B11 65h ≤ … X
+< 70h
+B12 Exceed weekly driving time by 25% or 70h ≤ … X
+more B13 Article 6.3 Exceed maximum total driving time 90h < … X
+during two (2) consecutive weeks < 100h
+B14 100h ≤ … X
+< 105h
+B15 105h ≤ … X
+< 112h30
+B16 Exceed maximum total driving time 112h30 ≤ X
+during two (2) consecutive weeks by …
+25% or more
+C Breaks
+C1 Article 7 Exceed uninterrupted driving time of 4h30 < … X
+4.5 hours before taking the break < 5h
+C2 5h ≤ … X
+< 6h
+C3 6h ≤ … X
+D Rest Periods
+D1 Article 8.2 Insufficient daily rest period of less than 10h ≤ … X
+11 hours if reduced daily rest period not < 11h
+D2 allowed 8h30 ≤ … X
+< 10h
+D3 … < 8h30 X
+D4 Insufficient reduced daily rest period of 8h ≤ … X
+less than 9 hours if reduce allowed < 9h
+D5 7h ≤ … X
+< 8h
+D6 … < 7h X
+D7 Insufficient split daily rest period of less 3h + [8h ≤ X
+than 3 hours + 9 hours … < 9h]
+D8 3h + [7h ≤ X
+… < 8h]
+D9 3h + [… X
+< 7h]
+D10 Article 8.5 Insufficient daily rest period of less than 8h ≤ … X
+9h for a multi-manning vehicle < 9h
+D11 7h ≤ … X
+< 8h
+D12 … < 7h X D13 Article 8.6 Insufficient reduced weekly resting 22h ≤ … X
+period of less than 24 hours < 24h
+D14 20h ≤ … X
+< 22h
+D15 … < 20h X
+D16 Insufficient weekly resting period of 42h ≤ … X
+less than 45 hours if reduced weekly < 45h
+D17 resting period not allowed 36h ≤ … X
+< 42h
+D18 … < 36h X
+D19 Article 8.6 Exceeding 6 consecutive 24-hour … < 3h X
+D20 periods following the previous weekly 3h ≤ … < X
+rest period 12h
+D21 12h ≤ … X
+D22 Article 8.6b No compensation for two (2) X
+consecutive reduced weekly rest
+periods
+D23 Article 8.8 Regular weekly rest period or any X
+weekly rest period of more than 45
+hours taken in a vehicle
+D24 Article 8.8 The employer not covering any costs X
+for accommodation outside the vehicle
+E 12-day rule derogation
+E1 Article 8.6a Exceeding 12 consecutive 24-hour … < 3h X
+E2 periods following a previous regular 3h ≤ … < X
+weekly rest 12h
+E3 12h ≤ … X
+E4 Article 8.6a Weekly rest period taken following 67h X
+(b)(ii) 12 consecutive 24-hour periods <…<69h
+E5 65h < … X
+≤ 67h
+E6 … ≤ 65h X
+E7 Article 8.6a Driving period, between 22:00 3h < … < X
+(d) and 6:00, of more than 3 hours before 4,5 h
+E8 the break, if the vehicle is not multi- 4,5 h ≤ … X
+manned
+F Work organisation F1 Article 8.8a Transport undertaking not organising X
+the work of drivers in such a way that
+the drivers are able to return to the
+employer's operational centre, or to
+return to the drivers' place of residence
+F2 Article 10.1 Link between wage or payment and X
+distance travelled, speed of delivery
+and, or amount of goods carried
+F3 Article 10.2 No or improper organisation of driver's X
+work, no or improper instructions given
+to driver enabling him to comply with
+the law
+* In the above table, "MSI" means "Most Serious Infringement"; "VSI" means "Very Serious
+Infringement"; "SI" means "Serious Infringement"; and "MI" means "Minor Infringement"
+2. Groups of infringements against
+Regulation (EU) No 165/2014 (Tachograph)
+No LEGAL BASIS TYPE OF INFRINGEMENT LEVEL OF
+SERIOUSNESS
+MSI VSI SI
+G Installation of tachograph
+G1 Articles 3(1), (4), Not having type-approved tachograph installed and used X
+(4a) and 22
+H Use of tachograph, driver card or record sheet
+H1 Article 23(1) Using a tachograph not inspected by an approved X
+workshop
+H2 Article 27 Driver holding and, or using more than one own driver X
+card
+H3 Driving with a driver card that has been falsified X
+(considered as driving without driver card)
+H4 Driving with a driver card of which the driver is not the X
+holder (considered as driving without driver card)
+H5 Driving with a driver card which has been obtained on the X
+basis of false declarations and, or forged documents
+(considered as driving without driver card)
+H6 Article 32(1) Tachograph not correctly functioning (e.g. tachograph X
+not properly inspected, calibrated and sealed)
+H7 Articles 32(1) Tachograph improperly used (e.g. deliberate, voluntary or X
+and 33(1) imposed misuse, lack of instructions on correct use, etc.) H8 Article 32(3) Having in the vehicle and, or using a fraudulent device X
+able to modify the records of the tachograph
+H9 Falsifying, concealing, supressing or destroying data X
+recorded on the record sheets or stored and downloaded
+from the tachograph and, or the driver card
+H10 Article 33(2) Undertaking not keeping record sheets, printouts and X
+downloaded data
+H11 Recorded and stored data not available for at least a year X
+H12 Article 34(1) Incorrect use of record sheets or driver card X
+H13 Unauthorised withdrawal of record sheets or driver card X
+which has an impact on the record of relevant data
+H14 Record sheet or driver card used to cover a period longer X
+than that for which it is intended and data is lost
+H15. Article 34(2) Use dirty or damaged record sheets or driver card and X
+data not legible
+H16 Article 34(3) Not using manual input when required to do so X
+H17. Article 34(4) Not using correct record sheet or driver card not in the X
+correct slot (multi-manning)
+H18 Article 34(5) Incorrect use of switch mechanism X
+I Producing information
+I1. Article 34(5), point Incorrect use or non-use of the ferry or train sign X
+(b)(v)
+I2 Article 34(6) Required information not entered on the record sheet X
+I3. Article 34(7) Records not showing the symbols of the countries whose X
+borders were crossed by the driver during the daily
+working period
+I4 Article 34(7) Records not showing the symbols of the countries where X
+the driver's daily working period started and finished
+I5. Article 36 Refusing to be checked X
+I6 Article 36 Unable to produce manual records and printouts made X
+during the current day and the previous 28 days (until
+30 December 2024)
+Unable to produce manual records and printouts made
+during the current day and the previous 56 days (as of
+31 December 2024)
+I7 Article 36 Unable to produce a driver card, if the driver holds one X
+J Malfunctioning
+J1. Article 37(1) and Tachograph not repaired by an approved fitter or X
+Article 22(1) workshop J2 Article 37(2) Driver not marking all required information for the X
+periods of time, which are no longer recorded while
+tachograph is unserviceable or malfunctioning
+* In the above table, "MSI" means "Most Serious Infringement"; "VSI" means "Very Serious Infringement"; and
+"SI" means "Serious Infringement"
 - Added by: L.N. 75 of 2010.
 - Amended by: L.N. 251 of 2011.
+- Substituted by: L.N. 24 of 2025.
