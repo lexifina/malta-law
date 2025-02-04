@@ -2,7 +2,7 @@ SUBSIDIARY LEGISLATION 499.56
 PASSENGER TRANSPORT SERVICES REGULATIONS
 19th May, 2009;
 19th November, 2009
-LEGAL NOTICE 149 of 2009, as amended by Legal Notice 319 of 2009; Act XV of 2009; and Legal Notices 75 and 272 of 2010, 194, 251 and 396 of 2011, 426, 432 and 458 of 2012, 92, 190 and 431 of 2013, 92, 116 and 177 of 2014, 358 of 2015, 238, 365 of 2016, 80, 95, and 96 of 2017, 50, 140 of 2019, 216 of 2021, 346 of 2021 and 301 of 2022, 158 and 188 of 2023 and 203 of 2024.
+LEGAL NOTICE 149 of 2009, as amended by Legal Notice 319 of 2009; Act XV of 2009; and Legal Notices 75 and 272 of 2010, 194, 251 and 396 of 2011, 426, 432 and 458 of 2012, 92, 190 and 431 of 2013, 92, 116 and 177 of 2014, 358 of 2015, 238, 365 of 2016, 80, 95, and 96 of 2017, 50, 140 of 2019, 216 of 2021, 346 of 2021 and 301 of 2022, 158 and 188 of 2023, 203 of 2024 and 24 and 27 of 2025.
 Regulations
 1 Part I Preliminary 2 - 4 Part II Admission to the Occupation of Road Passenger 5 - 16
 Transport Operator Part III Driver's Permit 17 - 23 Part IV The Road Passenger Transport Register 24 - 25 Part V Passenger Transport Vehicles 26 - 38 Part VI Motor Route Buses 38A - 38F Part VII Passenger Transport Services in Malta 39 - 68 Part VIII Public Passenger Transport Services 68A - 68N Part IX Trackless Train Routes and Special Trackless Train 68O
