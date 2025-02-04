@@ -80,15 +80,15 @@ performing the duties of ships' officers where no private sitting room or day ro
 10. Other Facilities
 10.1. All ships shall be provided with separate offices or a common ship's office for use by deck and engine departments; ships of less than 3,000 gross tonnage may be exempted by the competent authority from this requirement after consultation with the shipowners' and the bona fide seafarers' organizations concerned.
 10.2. Ships regularly trading to mosquito-infested ports shall be fitted with appropriate devices as required by the competent authority.
-10.3. Appropriate seafarers' recreational facilities, amenities and services, as adapted to meet the special needs of seafarers who must live and work on ships, shall be provided on board for the benefit of all seafarers, taking into account the associated provisions on health and safety protection and accident prevention.
+10.3. Appropriate seafarers' recreational facilities, amenities and services, including social connectivity, as adapted to meet the special needs of seafarers who are required to live and work on ships, shall be provided on board for the benefit of all seafarers, taking into account the related provisions on health and safety protection and accident prevention.
 Appendix I
 DESIGN AND CONSTRUCTION
 1. External bulkheads of sleeping rooms and mess rooms should be adequately insulated. All machinery casings and all boundary bulkheads of galleys and other spaces in which heat is produced should be adequately insulated where there is a possibility of resulting heat effects in adjoining accommodation or passageways. Measures should be taken to provide protection from heat effects of steam or hot-water service pipes or both.
 2. Sleeping rooms, mess rooms, recreation rooms and alleyways in the accommodation space should be adequately insulated to prevent condensation or overheating.
 3. The bulkhead surfaces and deckheads should be of material with a surface easily kept clean. No form of construction likely to harbour vermin should be used.
-4. The bulkhead surfaces and deckheads in sleeping rooms and mess rooms should be capable of being easily kept clean and light in colour with a durable, non-
+4. The bulkhead surfaces and deckheads in sleeping rooms and mess rooms
 [S.L.234.51 (MARITIME LABOUR CONVENTION) 75
-toxic finish.
+should be capable of being easily kept clean and light in colour with a durable, non-toxic finish.
 5. The decks in all seafarer accommodation should be of approved material and construction and should provide a non-slip surface impervious to damp and easily kept clean.
 6. Where the floorings are made of composite materials, the joints with the sides should be profiled to avoid crevices.
 Appendix II
@@ -106,8 +106,8 @@ HEATING
 Appendix IV
 LIGHTING
 1. In all ships, electric light should be provided in the seafarer accommodation. If there are not two independent sources of electricity for lighting, additional lighting should be provided by properly constructed lamps or lighting apparatus for emergency use.
-2. In sleeping rooms an electric reading lamp should be installed at the head of each berth.
-[S.L.234.51 76 (MARITIME LABOUR CONVENTION)
+2. In sleeping rooms an electric reading lamp should be installed at the head of [S.L.234.51 76 (MARITIME LABOUR CONVENTION)
+each berth.
 Appendix V
 SLEEPING ROOMS
 1. There should be adequate berth arrangements on board, making it as comfortable as possible for the seafarer and any partner who may accompany the seafarer.
@@ -179,8 +179,9 @@ RECREATIONAL FACILITIES, MAIL AND SHIP VISIT ARRANGEMENTS
 (h) electronic equipment such as a radio, television, video recorders, DVD/ CD player, personal computer and software and cassette recorder/ player;
 (i) where appropriate, the provision of bars on board for seafarers unless these are contrary to national, religious or social customs; and
 [S.L.234.51 (MARITIME LABOUR CONVENTION) 79
-(j) reasonable access to ship-to-shore telephone communications, and email and Internet facilities, where available, with any charges for the use of these services being reasonable in amount.
+(j) reasonable access to ship-to-shore telephone communications, where available, with any charges for the use of these services being reasonable in amount.
 4. Every effort shall be given to ensuring that the forwarding of seafarers' mail is as reliable and expeditious as possible.
+5. Shipowners shall, so far as is reasonably practicable, provide seafarers onboard their ships with internet access, with charges, if any, being reasonable in amount.
 Appendix XI
 PREVENTION OF NOISE AND VIBRATION
 1. Accommodation and recreational and catering facilities should be located, as far as practicable, from the engines, steering gear rooms, deck winches, ventilation, heating and air-conditioning equipment and other noisy machinery and apparatus.

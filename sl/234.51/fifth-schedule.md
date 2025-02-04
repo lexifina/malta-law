@@ -1,5 +1,8 @@
 ## FIFTH SCHEDULE
+## Categories of vessels
 ## 8. Compounds promoting rehydration, caloric intake and plasma expansion
+## (a) Skin medicines
+## (b) Eye medicines
 # fifth-schedule
 (Rules 97, 98, 99, 100, 101 and 103)
 [S.L.234.51 (MARITIME LABOUR CONVENTION) 81
