@@ -10,6 +10,6 @@ Non-material changes
 5. Amendments strictly reflecting changes in International Financial Reporting Standards.
 6. Changes made in satisfaction of any obligations arising in terms of Exchange of Information (United States of America) (FATCA) Order.
 7. Appointment of parties not subject to any prior approval by the MFSA, including the appointment of bankers, brokers, other than prime brokers, of advisors to the manager and legal advisors.
-8. Correction of typographical errors in the Prospectus or offering document.
+8. Correction of typographical errors in the Prospectus or offering document. [S.L.370.04 COLLECTIVE INVESTMENT SCHEMES) 9
 - Added by: L.N. 75 of 2018.
 - See S.L. 123.156.
