@@ -1,5 +1,4 @@
 ## SCHEDULE
-## *Not yet in force.
 # schedule
 (regulation 3)
 Service Validity €
