@@ -44,11 +44,11 @@ The silver cyanide is separated by filtration and the excess silver nitrate is t
 3.1. A suspension of sweet almonds: crush twenty blanched sweet almonds in 100 ml of water at 37 to 40ºC. Check that there is no hydrocyanic acid in 10 ml of the suspension using sodium picrote paper or by carrying out a blank test as described in the last paragraph of 5.
 3.2. 10% solution (w/v) of sodium acetate, neutral to phenolphthalein.
 3.3. Anti-foaming emulsion (e.g. silicone).
-3.4. Nitric acid, d: 1·40.
-3.5. Silver nitrate solution: 0·02 N.
-3.6. Ammonium thiocyanate solution: 0·02 N.
+3.4. Nitric acid, d: 1ꞏ40.
+3.5. Silver nitrate solution: 0ꞏ02 N.
+3.6. Ammonium thiocyanate solution: 0ꞏ02 N.
 3.7. Saturated solution of ammonium ferric sulphate.
-3.8. Ammonia, d: 0·958.
+3.8. Ammonia, d: 0ꞏ958.
 4. APPARATUS
 4.1. Oven with thermostat set at 38ºC.
 4.2. Apparatus for distillation by entrainment in steam fitted with a condenser with a curved extension piece.
@@ -59,14 +59,14 @@ The silver cyanide is separated by filtration and the excess silver nitrate is t
 Weigh 20 g of the sample to the nearest 5 mg, place in 1 litre flat-bottomed flask and add 50 ml of water and 10 ml of sweet almond suspension (3.1.). Stopper the flask and transfer to the oven for sixteen hours at 38ºC. Next, cool to room temperature and add 80 ml of water, 10 ml of sodium acetate solution (3.2) and a drop of anti-foaming emulsion (3.3).
 Connect the flask to the steam distillation apparatus and place in an oil bath which
 [S.L.437.69 THE OFFICIAL CONTROL OF FEEDING-STUFFS 5
-has first been brought to a temperature slightly above 100ºC. Distil 200 to 300 ml of liquid by passing a powerful current of steam through the flask and gently heating the oil-bath. Collect the distillate in an Erlenmeyer flask protected from the light and containing exactly 50 ml of silver nitrate solution 0·02 N (3.5) and 1 ml of nitric acid (3.4). Make sure that the condenser's extension piece is immersed in the silver nitrate solution.
-Transfer the contents of the Erlenmeyer flask to a 500 ml volumetric flask, make up to volume with water, stir and filter. Remove 250 ml of the filtrate, add approximately 1 ml solution of ammonium ferric sulphate (3.7) and back-titrate the excess silver nitrate with the solution of ammonium thiocyanate 0·02 N (3.6) taken from the burette graduated in 1/20 ml.
+has first been brought to a temperature slightly above 100ºC. Distil 200 to 300 ml of liquid by passing a powerful current of steam through the flask and gently heating the oil-bath. Collect the distillate in an Erlenmeyer flask protected from the light and containing exactly 50 ml of silver nitrate solution 0ꞏ02 N (3.5) and 1 ml of nitric acid (3.4). Make sure that the condenser's extension piece is immersed in the silver nitrate solution.
+Transfer the contents of the Erlenmeyer flask to a 500 ml volumetric flask, make up to volume with water, stir and filter. Remove 250 ml of the filtrate, add approximately 1 ml solution of ammonium ferric sulphate (3.7) and back-titrate the excess silver nitrate with the solution of ammonium thiocyanate 0ꞏ02 N (3.6) taken from the burette graduated in 1/20 ml.
 A blank test may, if required, be carried out by applying the same procedure to 10 ml of sweet almond suspension (3.1), omitting the sample to be analysed.
 6. CALCULATION OF RESULTS
-If the blank test indicates that silver nitrate solution 0.02 N has been consumed, subtract the value of this from the volume consumed by the distillate of the sample. 1 ml of AgNO3 0·02 N corresponds to 0·54 mg of HCN. Express the result as a percentage of the sample.
+If the blank test indicates that silver nitrate solution 0.02 N has been consumed, subtract the value of this from the volume consumed by the distillate of the sample. 1 ml of AgNO3 0ꞏ02 N corresponds to 0ꞏ54 mg of HCN. Express the result as a percentage of the sample.
 7. OBSERVATIONS
-If the sample contains a large quantity of sulphides (e.g. beans), a black precipitate of silver sulphide is formed which is filtered together with the silver cyanide deposit. The formation of this precipitate causes a loss of silver nitrate solution 0·02 N, the volume of which must be subtracted from the volume used to calculate the HCN content. To do this, proceed as follows:
-Treat the deposit left on the filter with 50 ml of ammonia (3.8) in order to dissolve the silver cyanide. Wash the residue in dilute ammonia and then determine its silver content. Convert the value obtained into ml of silver nitrate solution 0·02 N.
+If the sample contains a large quantity of sulphides (e.g. beans), a black precipitate of silver sulphide is formed which is filtered together with the silver cyanide deposit. The formation of this precipitate causes a loss of silver nitrate solution 0ꞏ02 N, the volume of which must be subtracted from the volume used to calculate the HCN content. To do this, proceed as follows:
+Treat the deposit left on the filter with 50 ml of ammonia (3.8) in order to dissolve the silver cyanide. Wash the residue in dilute ammonia and then determine its silver content. Convert the value obtained into ml of silver nitrate solution 0ꞏ02 N.
 The sample's HCN content may also be determined by titrating the acidified ammoniacal filtrate with nitric acid.
 3. DETERMINATION OF CALCIUM
 1. PURPOSE AND SCOPE
@@ -74,16 +74,16 @@ The method makes it possible to determine the total calcium content of feeding-s
 2. PRINCIPLE
 The calcium is ashed, the ash treated with hydrochloric acid and the calcium precipitated as calcium oxalate. Dissolve the precipitate in sulphuric acid and titrate the oxalic acid which forms with a solution of potassium permangante.
 3. REAGENTS
-3.6. Hydrochloric acid A.R., d: 1·14
-3.2. Nitric acid A.R., d: 1·40
-3.3. Sulphuric acid A.R., d: 1·13
-3.4. Ammonia A.R., d: 0·98
+3.6. Hydrochloric acid A.R., d: 1ꞏ14
+3.2. Nitric acid A.R., d: 1ꞏ40
+3.3. Sulphuric acid A.R., d: 1ꞏ13
+3.4. Ammonia A.R., d: 0ꞏ98
 3.5. Cold saturated solution of ammonium oxalate A.R.
 3.6. 30% solution (w/v) of citric acid A.R.
 3.7. 5% solution (w/v) of ammonium chloride A.R.
 [S.L.437.69 6 THE OFFICIAL CONTROL OF FEEDING-STUFFS
-3.8. 0·04% solution (w/v) of bromo-cresol green
-3.9. Solution of potassium permanganate 0·1 N
+3.8. 0ꞏ04% solution (w/v) of bromo-cresol green
+3.9. Solution of potassium permanganate 0ꞏ1 N
 4. APPARATUS
 4.1. Electric muffle-furnace with air circulation and thermostat.
 4.2. Platinum, silica or porcelain crucibles for ashing.
@@ -98,9 +98,9 @@ Place the beaker in a boiling water bath and keep there for thirty minutes to al
 Wash the beaker and the crucible with water until the excess ammonium oxalate is completely removed (the absence of chloride in the washing water indicates that they have been sufficiently washed).
 Dissolve the precipitate on the filter in 50 ml of warm sulphuric acid (3.3). Rinse the crucible with warm water and make the filtrate up to approximately 100 ml. Bring the temperature up to 70 - 80ºC and titrate drop by drop with a solution of potassium permanganate (3.9) until a pink colour is obtained which lasts for one minute.
 6. CALCULATION OF RESULTS
-1 ml of potassium permanganate 0·1 N corresponds to 2·004 mg of calcium. Express the result obtained as a percentage of the sample.
+1 ml of potassium permanganate 0ꞏ1 N corresponds to 2ꞏ004 mg of calcium. Express the result obtained as a percentage of the sample.
 7. OBSERVATIONS
-7.1. For very low contents of calcium proceed as follows{ filter the calcium oxalate precipitate through an ash-free filter paper. After washing, dry the filter and ash at 550ºC in a platinum crucible. Redissolve the residue in a few drops of sulphuric acid (3.3), evaporate until dry, calcine again at 550ºC and weigh. If W is the weight of the calcium sulphate obtained, the calcium content of the aliquot amount taken as a sample = W × 0·2944.
+7.1. For very low contents of calcium proceed as follows{ filter the calcium oxalate precipitate through an ash-free filter paper. After washing, dry the filter and ash at 550ºC in a platinum crucible. Redissolve the residue in a few drops of sulphuric acid (3.3), evaporate until dry, calcine again at 550ºC and weigh. If W is the weight of the calcium sulphate obtained, the calcium content of the aliquot amount taken as a sample = W × 0ꞏ2944.
 7.2. If the sample consists solely of mineral substances, dissolve in hydrochloric acid without ashing it first. In the case of products such as calcium-aluminium
 [S.L.437.69 THE OFFICIAL CONTROL OF FEEDING-STUFFS 7
 phosphate which are difficult to dissolve in acid, melt as follows by an alkaline process before dissolving: mix the sample to be analysed thoroughly in a platinum crucible with a mixture five times its weight, consisting of equal amounts of potassium carbonate and sodium carbonate. Heat carefully until the mixture is completely melted. Cool, and dissolve in hydrochloric acid.
@@ -112,14 +112,14 @@ However in certain cases (for example, with iron carbonate) a special method mus
 2. PRINCIPLE
 The carbonates are decomposed in hydrochloric acid[ the carbon dioxide released is collected in a graduated tube, and its volume compared with that released under the same conditions by a known quantity of calcium carbonate A.R.
 3. REAGENTS
-3.1. Hydrochloric acid, d: 1·10.
+3.1. Hydrochloric acid, d: 1ꞏ10.
 3.2. Calcium carbonate, A.R.
-3.3. Sulphuric acid, approximately 0·1 N, coloured with methyl red.
+3.3. Sulphuric acid, approximately 0ꞏ1 N, coloured with methyl red.
 4. APPARATUS
 Scheibler-Dietrich apparatus (see diagram) or equivalent apparatus.
 5. PROCEDURE
 According to the sample's carbonate content, weigh a portion of the sample as shown below:
-0·5 g for products containing from 50 to 100% of carbonates, expressed as
+0ꞏ5 g for products containing from 50 to 100% of carbonates, expressed as
 calcium carbonate;
 1 g for products containing from 40 to 50% of carbonates, expressed as
 calcium carbonate;
@@ -127,14 +127,14 @@ calcium carbonate;
 Place the portion of the sample in the special flask (4) of the apparatus, fitted with a small tube of unbreakable material containing 10 ml of hydrochloric acid (3.1), and connect the flask to the apparatus. Turn the three-way cock (5) so that the tube (1) connects with the outside. Using the mobile tube (2), which is filled with coloured sulphuric acid (3.3) and connected to the graduated tube (1), bring the level of the liquid up to the zero mark. Turn the cock (5) in order to connect up tubes (1) and (3) and check that the level is at zero.
 Run the hydrochloric acid (3.1) slowly over the portion of the sample, tilting the flask (4). Make the pressure equal by lowering the tube (2). Shake the flask (4) until the release of carbon dioxide has stopped completely.
 Restore pressure by bringing the liquid back to the same level in tubes (1) and (2). After a few minutes, when the volume of gas has become constant, take the reading.
-Carry out a control test in the same conditions on 0·5 g of calcium carbonate (3.2).
+Carry out a control test in the same conditions on 0ꞏ5 g of calcium carbonate (3.2).
 [S.L.437.69 8 THE OFFICIAL CONTROL OF FEEDING-STUFFS
 6. CALCULATION OF RESULTS
 The content in grammes of carbonates, expressed as calcium carbonate, as a percentage of the sample, is calculated by using the formula:
 V x 100 T x 2W
 where:
 V = ml of CO2 released by the portion of the sample.
-T = ml of CO2 released by 0·5 g of CaCO3 A.R.
+T = ml of CO2 released by 0ꞏ5 g of CaCO3 A.R.
 W = weight, in grammes, of the portion of the sample.
 7. OBSERVATIONS
 7.1. When the portion of the sample weighs more than 2 g, first place 15 ml of distilled water in the flask (4) and mix before beginning the test. Use the same volume of water for the control test.
@@ -152,7 +152,7 @@ The sample is ashed at 550ºC; the residue is weighed.
 4.2. Electric muffle-furnace with thermostat.
 4.3. Crucibles for ashing made of platinum or an alloy of platinum and gold (10% Pt, 90 Au), either rectangular (60 × 40 × 25 mm) or circular (diameter: 60 to 75 mm, height: 20 to 25 mm).
 5. PROCEDURE
-Weigh out to the nearest mg approximately 5 g of the sample (2·5 in the case of products which have a tendency to swell) and place in a crucible for ashing which has first been calcined and tared. Place the crucible on the hot-plate and heat gradually until the substance carbonises. Put the crucible into the muffle-furnace set at 550ºC ± 5ºC. Keep at this temperature until white, light grey or reddish ash is obtained which appears to be free from carbonaceous particles. Place the crucible in a desiccator, leave to cool and weigh immediately.
+Weigh out to the nearest mg approximately 5 g of the sample (2ꞏ5 in the case of products which have a tendency to swell) and place in a crucible for ashing which has first been calcined and tared. Place the crucible on the hot-plate and heat gradually until the substance carbonises. Put the crucible into the muffle-furnace set at 550ºC ± 5ºC. Keep at this temperature until white, light grey or reddish ash is obtained which appears to be free from carbonaceous particles. Place the crucible in a desiccator, leave to cool and weigh immediately.
 6. CALCULATION OF RESULTS
 Calculate the weight of the residue by deducting the tare.
 Express the result as a percentage of the sample.
@@ -200,9 +200,9 @@ The chlorides are dissolved in water. If the product contains organic matter it 
 3.4. Nitric acid, d: 1.38.
 3.5. Diethyl ether A.R.
 3.6. Acetone A.R.
-3.7. Carrez I solution: dissolve in water 21.9 g of zinc acetate, Zn (CH3 COO)2· 2H2O and 3 g of glacial acetic acid. Make up to 100 ml with water.
-3.8. Carrez II solution{ dissolve in water 10·6 g of potassium ferrocynaide K4 Fe
-(CN)63 · 3H2O. Make up to 100 ml with water.
+3.7. Carrez I solution: dissolve in water 21.9 g of zinc acetate, Zn (CH3 COO)2ꞏ 2H2O and 3 g of glacial acetic acid. Make up to 100 ml with water.
+3.8. Carrez II solution{ dissolve in water 10ꞏ6 g of potassium ferrocynaide K4 Fe
+(CN)63 ꞏ 3H2O. Make up to 100 ml with water.
 3.9. Active carbon A.R., free from chlorides and not absorbing them.
 4. APPARATUS
 Mixer (tumbler): approximately 35 to 40 rpm.
@@ -227,65 +227,65 @@ Using a pipette, transfer to an Erlenmayer flask from 25 ml to 100 ml of the fil
 Titrate the excess silver nitrate with the ammonium thiocyanate solution (3.1) until the reddish-brown tint has lasted for one minute.
 6. CALCULATION OF RESULTS
 The amount of chlorine (w), expressed as sodium chloride, present in the volume of filtrate taken for titration is calculated by using the following formula:
-W = 5·845 (V1 - V2) mg
+W = 5ꞏ845 (V1 - V2) mg
 where:
-V1 = ml of silver nitrate solution C·1 N added
-V2 = ml of ammonium thiocyanate solution 0·1 N used for titration.
-If the blank test indicates that silver nitrate solution 0·1 N has been consumed deduct this value from the volume (V1 - V2).
+V1 = ml of silver nitrate solution Cꞏ1 N added
+V2 = ml of ammonium thiocyanate solution 0ꞏ1 N used for titration.
+If the blank test indicates that silver nitrate solution 0ꞏ1 N has been consumed deduct this value from the volume (V1 - V2).
 7. OBSERVATIONS
 7.1. Titration may also be carried out by potentiometry;
 7.2. In the case of products which are very rich in oils and fats, first de-fat with diethyl ether or light petroleum;
 7.3. In the case of fish-meal, titration may be carried out by Mohr's method.
 9. DETERMINATION OF LACTOSE
 1. PURPOSE AND SCOPE
-This method makes it possible to determine the level of lactose in feedingstuffs containing more than 0·5% of lactose.
+This method makes it possible to determine the level of lactose in feedingstuffs containing more than 0ꞏ5% of lactose.
 2. PRINCIPLE
 The sugars are dissolved in water. The solution is subjected to fermentation by the yeast Saccharomyces cerevisiae which leaves the lactose intact. After clarification
 [S.L.437.69 THE OFFICIAL CONTROL OF FEEDING-STUFFS 13
 and filtration the lactose content of the filtrate is determined by the Luff-Schoorl method.
 3. REAGENTS
 3.1. Suspension of Saccharomyces cerevisiae{ suspend 25 g of fresh yeast in 100 ml of water. The suspension will keep for a maximum period of one week in a refrigerator.
-3.2. Carrez solution I: dissolve in water 21·9 g of zinc acetate Zn (CH3 COO)2 · 2H2O and 3 g of glacial acetic acid. Make up to 100 ml with water.
-3.3. Carrez solution II: dissolve in water 10·6 g of potassium ferrocyanide K4 Fe
-(CN)6 · 3H2O. Make up to 100 ml with water.
+3.2. Carrez solution I: dissolve in water 21ꞏ9 g of zinc acetate Zn (CH3 COO)2 ꞏ 2H2O and 3 g of glacial acetic acid. Make up to 100 ml with water.
+3.3. Carrez solution II: dissolve in water 10ꞏ6 g of potassium ferrocyanide K4 Fe
+(CN)6 ꞏ 3H2O. Make up to 100 ml with water.
 3.4. Luff-Schoorl reagent:
-Stirring carefully, pour the citric acid solution (3.4.2) into the sodium carbonate solution (3.4.2). Add the copper sulphate solution (3.4.1) and make up to 1 litre with water. Leave to settle overnight and filter. Check the normality of the reagent thus obtained (Cu 0·1 N; Na2 CO3 2N).
-The solution's pH should be approximately 9·4.
+Stirring carefully, pour the citric acid solution (3.4.2) into the sodium carbonate solution (3.4.2). Add the copper sulphate solution (3.4.1) and make up to 1 litre with water. Leave to settle overnight and filter. Check the normality of the reagent thus obtained (Cu 0ꞏ1 N; Na2 CO3 2N).
+The solution's pH should be approximately 9ꞏ4.
 3.4.1. Copper sulphate solution: dissolve 25 g of copper sulphate A.R. Cu
 SO4 5H2O, free from iron, in 100 ml of water.
-3.4.2. Citric acid solution: dissolve 50 g of citric acid A.R. C6H8O7 · H2O in
+3.4.2. Citric acid solution: dissolve 50 g of citric acid A.R. C6H8O7 ꞏ H2O in
 50 ml of water.
-3.4.3. Sodium carbonate solution: dissolve 143·8 g of anhydrous sodium
+3.4.3. Sodium carbonate solution: dissolve 143ꞏ8 g of anhydrous sodium
 carbonate A.R. in approximately 300 ml of warm water. Leave to cool.
 3.5. Granulated pumice stone boiled in hydrochloric acid, washed in water and dried.
 3.6. 30% solution (w/v) of sodium iodide.
 3.7. Sulphuric acid 6 N.
-3.8. Solution of sodium thiosulphate 0·1 N.
+3.8. Solution of sodium thiosulphate 0ꞏ1 N.
 3.9. Starch solution{ add a mixture of 5 g of soluble starch in 30 ml of water to 1 litre of boiling water. Boil for three minutes, leave to cool, and if necessary add 10 mg of mercuric iodide as a preservative.
 4. APPARATUS
 Water bath with thermostat set at 38-40ºC.
 5. PROCEDURE
-Weigh 1 g of the sample to the nearest mg and place this portion of the sample in a 100 ml volumetric flask. Add 25 to 30 ml of water. Place the flask in a boiling water bath for thirty minutes and then cool to approximately 35ºC. Add 5 ml of yeast suspension (3·1) and homogenise. Leave the flask to stand for two hours in a water bath, at a temperature of 38-40ºC. Cool to approximately 20ºC.
-Add 2·5 ml of Carrez solution I (3.2) and stir for thirty seconds, then add 2·5 ml of Carrez solution II (3.3) and again stir for thirty seconds. Make up to 100 ml with water, mix and filter. Using a pipette, remove an amount of filtrate which does not exceed 25 ml and which preferably contains from 40 to 80 mg of lactose and transfer it to a 300 ml Erlenmeyer flask. If necessary, make up to 25 ml with water.
+Weigh 1 g of the sample to the nearest mg and place this portion of the sample in a 100 ml volumetric flask. Add 25 to 30 ml of water. Place the flask in a boiling water bath for thirty minutes and then cool to approximately 35ºC. Add 5 ml of yeast suspension (3ꞏ1) and homogenise. Leave the flask to stand for two hours in a water bath, at a temperature of 38-40ºC. Cool to approximately 20ºC.
+Add 2ꞏ5 ml of Carrez solution I (3.2) and stir for thirty seconds, then add 2ꞏ5 ml of Carrez solution II (3.3) and again stir for thirty seconds. Make up to 100 ml with water, mix and filter. Using a pipette, remove an amount of filtrate which does not exceed 25 ml and which preferably contains from 40 to 80 mg of lactose and transfer it to a 300 ml Erlenmeyer flask. If necessary, make up to 25 ml with water.
 Carry out a blank test in the same way with 5 ml of yeast suspension (3.1).
 [S.L.437.69 14 THE OFFICIAL CONTROL OF FEEDING-STUFFS
 Determine the lactose content according to Luff-Schoorl, as follows: add exactly 25 ml of Luff-Schoorl reagent (3.4) and two granules of pumice stone (3.5). Stir by hand-while heating over a free flame of medium height and bring the liquid to the boil in approximately two minutes. Place the Erlenmeyer immediately on an asbestos-coated wire gauze with a hole approximately 6 cm in diameter under which a flame has been lit. The flame shall be regulated in such a way that only the base of the Erlenmeyer is heated. Fit a reflux condenser to the Erlenmeyer flask. Boil for exactly ten minutes. Cool immediately in cold water and after approximately five minutes titrate as follows:
-Add 10 ml of potassium iodide solution (3.6) and immediately afterwards (carefully, because of the risk of abundant foaming) add 25 ml of sulphuric acid 6 N (3.7). Titrate with sodium thiosulphate solution 0·1 N (3.8) until a dull yellow colour appears, add the starch indicator (3.9) and complete titration.
+Add 10 ml of potassium iodide solution (3.6) and immediately afterwards (carefully, because of the risk of abundant foaming) add 25 ml of sulphuric acid 6 N (3.7). Titrate with sodium thiosulphate solution 0ꞏ1 N (3.8) until a dull yellow colour appears, add the starch indicator (3.9) and complete titration.
 Carry out the same titration on an accurately measured mixture of 25 ml of Luff- Schoorl reagent (3.4) and 25 ml of water, after adding 10 ml of potassium iodide solution (3.6) and 25 ml of sulphuric acid 6 N (3.7) without boiling.
 6. CALCULATION OF RESULTS
-Using the attached table, establish the amount of lactose in mg which corresponds to the difference between the results of the two titrations, expressed in ml of sodium thiosulphate 0·1 N.
+Using the attached table, establish the amount of lactose in mg which corresponds to the difference between the results of the two titrations, expressed in ml of sodium thiosulphate 0ꞏ1 N.
 Express the result as parts of anhydrous lactose as a percentage of the sample.
 7. OBSERVATION
 For products containing more than 40% of fermentable sugar, use more than 5 ml of yeast suspension (3.1).
 Table of values for 25 ml of Luff-Schoorl reagent
-ml of Na2 S2 O3 0·1 N, two minutes' heating, ten minutes' boiling
-Na2 S2 O3 0·1 Glucose, fructose Lactose Maltose Na2 S2 O3
-N invert sugars G12 H22 O11 C12 H22 O11 0·1 N
+ml of Na2 S2 O3 0ꞏ1 N, two minutes' heating, ten minutes' boiling
+Na2 S2 O3 0ꞏ1 Glucose, fructose Lactose Maltose Na2 S2 O3
+N invert sugars G12 H22 O11 C12 H22 O11 0ꞏ1 N
 C6 H12 O6
 ml mg difference mg difference mg difference ml 1 2.4 2.4 3.6 3.7 3.9 3.9 1 2 4.8 2.4 7.3 3.7 7.8 3.9 2 3 7.2 2.5 11.0 3.7 11.7 3.9 3 4 9.7 2.5 14.7 3.7 15.6 4.0 4 5 12.2 2.5 18.4 3.7 19.6 3.9 5 6 14.7 2.5 22.1 3.7 23.5 4.0 6 7 17.2 2.6 25.8 3.7 27.5 4.0 7 8 19.8 2.6 29.5 3.7 31.5 4.0 8 9 22.4 2.6 33.2 3.8 35.5 4.0 9 10 25.0 2.6 37.0 3.8 39.5 4.0 10 11 25.0 2.4 37.0 3.8 39.5 4.0 11 12 30.3 2.7 44.6 3.8 47.5 4.1 12 13 33.0 2.7 48.4 3.8 51.6 4.1 13 14 35.7 2.8 52.2 3.8 55.7 4.1 14 15 38.5 2.8 56.0 3.9 59.8 4.1 15 16 41.3 2.9 59.9 3.9 63.9 4.1 16
 [S.L.437.69 THE OFFICIAL CONTROL OF FEEDING-STUFFS 15
-Na2 S2 O3 0·1 Glucose, fructose Lactose Maltose Na2 S2 O3
-N invert sugars G12 H22 O11 C12 H22 O11 0·1 N
+Na2 S2 O3 0ꞏ1 Glucose, fructose Lactose Maltose Na2 S2 O3
+N invert sugars G12 H22 O11 C12 H22 O11 0ꞏ1 N
 C6 H12 O6
 ml mg difference mg difference mg difference ml 17 44.2 2.9 63.8 3.9 68.0 4.2 17 18 47.1 2.9 67.7 4.0 72.2 4.3 18 19 50.0 3.0 71.7 4.0 76.5 4.4 19 20 53.0 3.0 75.7 4.1 80.9 4.5 20 21 56.0 3.1 79.8 4.1 85.4 4.6 21 22 59.1 3.1 83.9 4.1 90.0 4.6 22 23 62.2 88.0 94.6 23
 10. DETERMINATION OF POTASSIUM
@@ -296,10 +296,10 @@ The sample is ashed and the ash dissolved in hydrochloric acid. The potassium co
 3. REAGENTS
 3.1. Hydrochloric acid A.R., d: 1.12.
 3.2. Caesium chloride A.R.
-3.3. Aluminium nitrate Al (NO3)3 · 9 H2O, general purpose reagent.
+3.3. Aluminium nitrate Al (NO3)3 ꞏ 9 H2O, general purpose reagent.
 3.4. Potassium chloride A.R., anhydrous.
 3.5. Loading agent{ dissolve in water 50 g of caesium chloride (3.2) and 250 g of aluminium nitrate (3.3), make up to 1 litre with water and homogenise. Store in plastic bottles.
-3.6. Standard solution of potassium: dissolve in water 1·907 g of potassium chloride (3.4), add 5 ml of hydrochloric acid (3.1), make up to 1 litre with water and homogenise. Store in plastic bottles. 1 ml of this solution contains 1·00 mg of potassium
+3.6. Standard solution of potassium: dissolve in water 1ꞏ907 g of potassium chloride (3.4), add 5 ml of hydrochloric acid (3.1), make up to 1 litre with water and homogenise. Store in plastic bottles. 1 ml of this solution contains 1ꞏ00 mg of potassium
 4. APPARATUS
 4.1. Platinum, silica or porcelain crucibles for ashing, provided if necessary with lids.
 4.2. Electric muffle-furnace with thermostat.
@@ -308,17 +308,17 @@ The sample is ashed and the ash dissolved in hydrochloric acid. The potassium co
 5.1. Analysis of sample
 As a general rule, weigh out 10 g of the sample to the nearest 10 mg, place in a crucible and ash at 450ºC for three hours. After cooling transfer the ash quantitatively to a 500 ml graduated flask, using 250 to 300 ml of water and then 50 ml of hydrochloric acid (3.1). When all release of carbon dioxide has ceased, heat the solution and keep at a temperature of about 90ºC for two hours, stirring
 [S.L.437.69 16 THE OFFICIAL CONTROL OF FEEDING-STUFFS
-occasionally. After cooling to room temperature, make up to the mark with water, shake and filter. Transfer to a 100 ml graduated flask an aliquot part of the filtrate containing a maximum of 1·0 mg of potassium, add 10·0 ml of loading agent (3.5), make up to the mark with water and homogenise. In the case of higher levels of potassium dilute the solution to be analysed in suitable proportions before adding the loading agent.
+occasionally. After cooling to room temperature, make up to the mark with water, shake and filter. Transfer to a 100 ml graduated flask an aliquot part of the filtrate containing a maximum of 1ꞏ0 mg of potassium, add 10ꞏ0 ml of loading agent (3.5), make up to the mark with water and homogenise. In the case of higher levels of potassium dilute the solution to be analysed in suitable proportions before adding the loading agent.
 The table below is given as a guide for a sample of about 10 g.
 Assumed potassium content Dilution factor Aliquot part in ml of the
 of the sample (% K) solution
-up to 0·1 - 50
-0·1 to 0·5 - 10
-0·5 to 1·0 - 5
-1·0 to 5·0 1: 10 10 5·0 to 10·0 1: 10 5 10·0 to 20·0 1: 20 5
+up to 0ꞏ1 - 50
+0ꞏ1 to 0ꞏ5 - 10
+0ꞏ5 to 1ꞏ0 - 5
+1ꞏ0 to 5ꞏ0 1: 10 10 5ꞏ0 to 10ꞏ0 1: 10 5 10ꞏ0 to 20ꞏ0 1: 20 5
 Measure by flame photometry at a wavelength of 768 nm. Calculate the result by means of a calibration curve.
 5.2. Calibration curve
-Place exactly 10 ml of the standard solution (3.6) in a 250 ml graduated flask, make up to the mark with water and homogenise. Place in 100 ml graduated flasks exactly 5, 10, 15, 20 and 25 ml of this solution, corresponding respectively to amounts of potassium of 0·2, 0·4, 0·6, 0·8 and 1·0 mg. Complete the series with a blank flask containing no standard solution. Add 10 ml of loading agent (3.5) to each flask, make up to the mark with water and homogenise. Carry out the measurements as indicated in 5.1. The calibration curve is generally linear up to a potassium concentration of 1 mg in 100 ml of solution.
+Place exactly 10 ml of the standard solution (3.6) in a 250 ml graduated flask, make up to the mark with water and homogenise. Place in 100 ml graduated flasks exactly 5, 10, 15, 20 and 25 ml of this solution, corresponding respectively to amounts of potassium of 0ꞏ2, 0ꞏ4, 0ꞏ6, 0ꞏ8 and 1ꞏ0 mg. Complete the series with a blank flask containing no standard solution. Add 10 ml of loading agent (3.5) to each flask, make up to the mark with water and homogenise. Carry out the measurements as indicated in 5.1. The calibration curve is generally linear up to a potassium concentration of 1 mg in 100 ml of solution.
 6. CALCULATION OF RESULTS
 Express the result as a percentage of the sample.
 7. OBSERVATIONS
@@ -331,28 +331,28 @@ The sample is ashed and the ash dissolved in hydrochloric acid. The sodium conte
 3. REAGENTS
 3.1. Hydrochloric acid A.R., d: 1.12.
 3.2. Caesium chloride A.R.
-3.3. Aluminium nitrate Al (NO3)3 · 9 H2O, general purpose reagent
+3.3. Aluminium nitrate Al (NO3)3 ꞏ 9 H2O, general purpose reagent
 [S.L.437.69 THE OFFICIAL CONTROL OF FEEDING-STUFFS 17
 3.4. Sodium chloride A.R., anhydrous.
 3.5. Loading agent: dissolve in water 50 g of caesium chloride (3.2) and 250 g of aluminium nitrate (3.3), make up to 1 litre with water and homogenise. Store in plastic bottles.
-3.6. Standard solution of sodium: dissolve in water 2·542 g of sodium chloride (3.4), add 5 ml of hydrochloric acid (3.1), make up to 1 litre with water and homogenise Store in plastic bottles, 1 ml of this solution contains 1·00 mg of sodium.
+3.6. Standard solution of sodium: dissolve in water 2ꞏ542 g of sodium chloride (3.4), add 5 ml of hydrochloric acid (3.1), make up to 1 litre with water and homogenise Store in plastic bottles, 1 ml of this solution contains 1ꞏ00 mg of sodium.
 4. APPARATUS
 4.1. Platinum, silica or porcelain crucibles for ashing, provided if necessary with lids.
 4.2. Electric muffle-furnace with thermostat.
 4.3. Flame photometer.
 5. PROCEDURE
 5.1. Analysis of sample
-As a general rule, weigh out 10 g of the sample to the nearest 10 mg, place in a crucible (4.2) and ash at 450ºC for three hours. Avoid overheating (ignition). After cooling transfer the ash quantitatively to a 500 ml graduated flask, using 250 to 300 ml of water and then 50 ml of hydrochloric acid (3.1). When all release of carbon dioxide has ceased, heat the solution and keep at a temperature of about 90ºC for two hours, stirring occasionally. After cooling to room temperature, make up to the mark with water, shake and filter. Transfer to a 100 ml graduated flask an aliquot part of the filtrate containing a maximum of 1·0 mg of sodium, add 10·0 ml of loading agent (3.5), make up to the mark with water and homogenise. In the case of higher levels of sodium, dilute the solution to be analysed in suitable proportions before adding the loading agent.
+As a general rule, weigh out 10 g of the sample to the nearest 10 mg, place in a crucible (4.2) and ash at 450ºC for three hours. Avoid overheating (ignition). After cooling transfer the ash quantitatively to a 500 ml graduated flask, using 250 to 300 ml of water and then 50 ml of hydrochloric acid (3.1). When all release of carbon dioxide has ceased, heat the solution and keep at a temperature of about 90ºC for two hours, stirring occasionally. After cooling to room temperature, make up to the mark with water, shake and filter. Transfer to a 100 ml graduated flask an aliquot part of the filtrate containing a maximum of 1ꞏ0 mg of sodium, add 10ꞏ0 ml of loading agent (3.5), make up to the mark with water and homogenise. In the case of higher levels of sodium, dilute the solution to be analysed in suitable proportions before adding the loading agent.
 The table below is given as a guide for a sample of about 10 g.
 Assumed sodium content of Dilution factor Aliquot part in ml of the
 the sample (% K) solution
-up to 0·1 - 50
-0·1 to 0·5 - 10
-0·5 to 1·0 - 5
-1·0 to 5·0 1: 10 10 5·0 to 10·0 1: 10 5 10·0 to 20·0 1: 20 5
+up to 0ꞏ1 - 50
+0ꞏ1 to 0ꞏ5 - 10
+0ꞏ5 to 1ꞏ0 - 5
+1ꞏ0 to 5ꞏ0 1: 10 10 5ꞏ0 to 10ꞏ0 1: 10 5 10ꞏ0 to 20ꞏ0 1: 20 5
 Measure by flame photometry at a wavelength of 589 nm. Calculate the result by means of a calibration curve.
 5.2. Calibration curve
-Place exactly 10 ml of the standard solution (3.6) in a 250 ml graduated flask, make up to the mark with water and homogenise. Place in 100 ml graduated flasks exactly 5, 10, 15, 20 and 25 ml of this solution, corresponding respectively to amounts of sodium of 0·2, 0·4, 0·6, 0·8 and 1·0 mg. Complete the series with a blank flask containing no standard solution. Add 10 ml of loading agent (3.5) to each flask, make up to the mark with water and homogenise. Carry out the measurements as indicated in 5.1. The calibration curve is generally linear up to a sodium concentration of 1 mg in 100 ml of solution.
+Place exactly 10 ml of the standard solution (3.6) in a 250 ml graduated flask, make up to the mark with water and homogenise. Place in 100 ml graduated flasks exactly 5, 10, 15, 20 and 25 ml of this solution, corresponding respectively to amounts of sodium of 0ꞏ2, 0ꞏ4, 0ꞏ6, 0ꞏ8 and 1ꞏ0 mg. Complete the series with a blank flask containing no standard solution. Add 10 ml of loading agent (3.5) to each flask, make up to the mark with water and homogenise. Carry out the measurements as indicated in 5.1. The calibration curve is generally linear up to a sodium concentration of 1 mg in 100 ml of solution.
 [S.L.437.69 18 THE OFFICIAL CONTROL OF FEEDING-STUFFS
 6. CALCULATION OF RESULTS
 Express the result as a percentage of the sample.
@@ -361,29 +361,29 @@ Express the result as a percentage of the sample.
 7.2. If the sample consists solely of mineral substances, dissolve without prior ashing.
 12. DETERMINATION OF SUGAR
 1. PURPOSE AND SCOPE
-This method makes it possible to determine the amount of reducing sugars and total sugars after inversion, expressed as glucose or where appropriate as sucrose, converting by the factor 0·95. It is applicable to compound feeding-stuffs. Special methods are provided for other feeding-stuffs. Where necessary, lactose should be measured separately and taken into account when calculating the results.
+This method makes it possible to determine the amount of reducing sugars and total sugars after inversion, expressed as glucose or where appropriate as sucrose, converting by the factor 0ꞏ95. It is applicable to compound feeding-stuffs. Special methods are provided for other feeding-stuffs. Where necessary, lactose should be measured separately and taken into account when calculating the results.
 2. PRINCIPLE
 The sugars are extracted in dilute ethanol[ the solution is clarified with Carrez solutions I and II. After eliminating the ethanol, the quantities before and after inversion are determined by the Luff-Schoorl method.
 3. REAGENTS
-3.1. 40% ethanol (v/v) d: 0·948 at 20ºC, neutralised to phenolphthalein.
-3.2. Carrez solution I: dissolve in water 21·9 g of zinc acetate Zn (CH3COO)2 · 2H2O and 3 g of glacial acetic acid. Make up to 100 ml with water.
-3.3. Carrez solution II: dissolve in water 10·6 g of potassium ferrocyanide K42Fe
-(CN)6 · 3H2O. Make up to 100 ml with water.
-3.4.'0·1% solution (w/v) of methyl orange.
+3.1. 40% ethanol (v/v) d: 0ꞏ948 at 20ºC, neutralised to phenolphthalein.
+3.2. Carrez solution I: dissolve in water 21ꞏ9 g of zinc acetate Zn (CH3COO)2 ꞏ 2H2O and 3 g of glacial acetic acid. Make up to 100 ml with water.
+3.3. Carrez solution II: dissolve in water 10ꞏ6 g of potassium ferrocyanide K42Fe
+(CN)6 ꞏ 3H2O. Make up to 100 ml with water.
+3.4.'0ꞏ1% solution (w/v) of methyl orange.
 3.5. Hydrochloric acid 4 N.
-3.6. Hydrochloric acid 0·1 N.
-3.7. Sodium hydroxide solution 0·1 N.
+3.6. Hydrochloric acid 0ꞏ1 N.
+3.7. Sodium hydroxide solution 0ꞏ1 N.
 3.8. Luff-Schoorl reagent:
-Stirring carefully, pour the citric acid solution (3.8.2) into the sodium carbonate solution (3.8.3). Add the copper sulphate solution (3.8.1) and make up to 1 litre with water. Leave to settle overnight and filter. Check the normality of the reagent thus obtained (Cu 0·1 N; Na2 CO3 2 N).
-The solution's pH should be approximately 9·4.
+Stirring carefully, pour the citric acid solution (3.8.2) into the sodium carbonate solution (3.8.3). Add the copper sulphate solution (3.8.1) and make up to 1 litre with water. Leave to settle overnight and filter. Check the normality of the reagent thus obtained (Cu 0ꞏ1 N; Na2 CO3 2 N).
+The solution's pH should be approximately 9ꞏ4.
 3.8.1. Copper sulphate solution: dissolve 25 g of copper sulphate A.R., Cu
-SO4 · 5H2O, free from iron, in 100 ml of water.
+SO4 ꞏ 5H2O, free from iron, in 100 ml of water.
 3.8.2. Citric acid solution: dissolve 50 g of citric acid A.R., C6H8O7 H2O in
 50 ml of water.
-3.8.3. Sodium carbonate solution: dissolve 143·8 g of anhydrous sodium
+3.8.3. Sodium carbonate solution: dissolve 143ꞏ8 g of anhydrous sodium
 carbonate A.R. in approximately 300 ml of warm water. Leave to cool.
 [S.L.437.69 THE OFFICIAL CONTROL OF FEEDING-STUFFS 19
-3.9. Sodium thiosulphate solution 0·1 N
+3.9. Sodium thiosulphate solution 0ꞏ1 N
 3.10. Starch solution: add a mixture of 5 g of soluble starch in 30 ml of water to 1 litre of boiling water. Boil for three minutes, leave to cool and if necessary add 10 mg of mercuric iodide as a preservative.
 3.11. Sulphuric acid 6 N.
 3.12. 30% solution (w/v) of potassium iodide.
@@ -397,15 +397,15 @@ Weigh 2.5 g of the sample to the nearest mg and place in a 250 ml volumetric fla
 5.2. Determination of reducing sugars
 Using a pipette, remove not more than 25 ml of the solution containing less than 60 mg of reducing sugars expressed as glucose. If necessary, make up to 25 ml with distilled water and determine the content of reducing sugars by the Luff-Schoorl method. The result is expressed as the percentage content of glucose in the sample.
 5.3. Determination of total sugars after inversion
-Using a pipette take 50 ml of the solution and transfer to a 100 ml volumetric flask. Add a few drops of methyl orange solution (3.4) then, carefully and stirring continuously, add hydrochloric acid 4 N (3.5) until the liquid turns a definite red. Add 15 ml of hydrochloric acid 0·1 N (3.6), immerse the flask in a fast boiling water bath and keep there for thirty minutes. Cool rapidly to approximately 20ºC and add 15 ml of sodium hydroxide solution 0·1 N (3.7). Make up to 100 ml with water and homogenise. Remove not more than 25 ml containing less than 60 mg of reducing sugars expressed as glucose. If necessary, make up to 25 ml with distilled water and determine the content of reducing sugars by the Luff-Schoorl method. The result is expressed as the percentage of glucose or, where appropriate, sucrose, by multiplying by the factor 0·95.
+Using a pipette take 50 ml of the solution and transfer to a 100 ml volumetric flask. Add a few drops of methyl orange solution (3.4) then, carefully and stirring continuously, add hydrochloric acid 4 N (3.5) until the liquid turns a definite red. Add 15 ml of hydrochloric acid 0ꞏ1 N (3.6), immerse the flask in a fast boiling water bath and keep there for thirty minutes. Cool rapidly to approximately 20ºC and add 15 ml of sodium hydroxide solution 0ꞏ1 N (3.7). Make up to 100 ml with water and homogenise. Remove not more than 25 ml containing less than 60 mg of reducing sugars expressed as glucose. If necessary, make up to 25 ml with distilled water and determine the content of reducing sugars by the Luff-Schoorl method. The result is expressed as the percentage of glucose or, where appropriate, sucrose, by multiplying by the factor 0ꞏ95.
 5.4. Titration by the Luff-Schoorl method
 Using a pipette, take 25 ml of Luff-Schoorl reagent (3.8) and transfer to a 300 ml Erlenmeyer flask; add exactly 25 ml of the clarified sugar solution. Add 2 granules of pumice stone (3.13), heat, stirring by hand, over a free flame of medium height and bring the liquid to the boil in approximately two minutes. Place the Erlenmeyer immediately on an asbestos-coated wire gauze with a hole approximately 6 cm in diameter under which a flame has been lit. The flame shall be regulated in such a way that only the base of the Erlenmeyer is heated. Fit a reflux condenser to the
 [S.L.437.69 20 THE OFFICIAL CONTROL OF FEEDING-STUFFS
 Erlenmeyer flask, Boil for exactly ten minutes. Cool immediately in cold water and after approximately five minutes titrate as follows:
-Add 10 ml of potassium iodide solution (3.12) and immediately afterwards (carefully, because of the risk of abundant foaming), add 25 ml of sulphuric acid 6 N (3.11). Titrate with sodium thiosulphate solution 0·1 N (3.9) until a dull yellow colour appears, add the starch indicator (3.10) and complete titration.
+Add 10 ml of potassium iodide solution (3.12) and immediately afterwards (carefully, because of the risk of abundant foaming), add 25 ml of sulphuric acid 6 N (3.11). Titrate with sodium thiosulphate solution 0ꞏ1 N (3.9) until a dull yellow colour appears, add the starch indicator (3.10) and complete titration.
 Carry out the same titration on an accurately measured mixture of 25 ml of Luff- Schoorl reagent (3.8) and 25 ml of water, after adding 10 ml of potassium iodide solution (3.12) and 25 ml of sulphuric acid 6 N (3.11) without boiling.
 6. CALCULATION OF RESULTS
-Using the table establish the amount of glucose in mg which corresponds to the difference between the values of the two titrations, expressed in mg of sodium thiosulphate 0·1 N.
+Using the table establish the amount of glucose in mg which corresponds to the difference between the values of the two titrations, expressed in mg of sodium thiosulphate 0ꞏ1 N.
 Express the result as a percentage of the sample.
 7. SPECIAL PROCEDURES
 7.1. In the case of feeding-stuffs which are rich in molasses and other feeding-stuffs which are not particularly homogeneous, weigh out 20 g and place with 500 ml of water in a 1 litre volumetric flask. Mix for one hour in the tumbler. Clarify using Carrez 1 (3.2) and II (3.3) reagents as described under 5.1, this time however using four times the quantities of each reagent. Bring up to volume with 80% ethanol (v/v).
@@ -413,9 +413,9 @@ Homogenise and filter. Eliminate the ethanol as described under 5.1. If there is
 7.2. In the case of molasses and straight feeding-stuffs which are rich in sugar and almost starch-free (carobs, dried beetroot cossettes etc.), weigh out 5 g, place in a 250 ml volumetric flask, add 200 ml of distilled water and mix in the tumbler for one hour, or more if necessary. Clarify using Carrez I (3.2) and II (3.3) reagents as described under 5.1. Bring up to volume with cold water, homogenise and filter. In order to determine the amount of total sugars, continue as described under 5.3.
 8. OBSERVATIONS
 8.1. In order to prevent foaming it is advisable to add (irrespective of the volume) approximately 1 ml of 3-methylbutan-l-ol (3.14) before boiling with Luff- Schoorl reagent.
-8.2. The difference between the content of total sugars after inversion, expressed as glucose, and the content of reducing sugars, expressed as glucose, multiplied by 0·95, gives the percentage content of sucrose.
+8.2. The difference between the content of total sugars after inversion, expressed as glucose, and the content of reducing sugars, expressed as glucose, multiplied by 0ꞏ95, gives the percentage content of sucrose.
 8.3. In order to determine the content of reducing sugars, excluding lactose, two methods may be adopted:
-8.3.1. for an approximate calculation, multiply by 0·675 the lactose content
+8.3.1. for an approximate calculation, multiply by 0ꞏ675 the lactose content
 established by a different method of analysis and subtract the result
 obtained from the content of reducing sugars.
 8.3.2. For an accurate calculation of reducing sugars, excluding lactose, the
@@ -425,15 +425,15 @@ In both cases the amount of sugar present is determined by the Luff-Schoorl
 method and calculated in mg of glucose. One of the values is subtracted from the other and the difference is expressed as a percentage of the sample.
 Example
 The two volumes taken correspond, for each determination, to a sample of 250 mg.
-In the first case 17 ml of sodium thiosulphate solution 0·1 N corresponding to 44·2 mg of glucose is consumed; in the second, 11 ml, corresponding to 27·6 mg of glucose.
-The difference is 16·6 mg of glucose.
+In the first case 17 ml of sodium thiosulphate solution 0ꞏ1 N corresponding to 44ꞏ2 mg of glucose is consumed; in the second, 11 ml, corresponding to 27ꞏ6 mg of glucose.
+The difference is 16ꞏ6 mg of glucose.
 The content of reducing sugars (excluding lactose), calculated as glucose, is therefore:
 4 x 16 x 6
 = 6.64%
 10
 Table of values for 25 ml of Luff Schoorl reagent
-Na2 S2 O3 0·1 Glucose, fructose Lactose Maltose Na2 S2 O3
-N invert sugars G12 H22 O11 C12 H22 O11 0·1 N
+Na2 S2 O3 0ꞏ1 Glucose, fructose Lactose Maltose Na2 S2 O3
+N invert sugars G12 H22 O11 C12 H22 O11 0ꞏ1 N
 C6 H12 O6
 ml mg difference mg difference mg difference ml 1 2.4 2.4 3.6 3.7 3.9 3.9 1 2 4.8 2.4 7.3 3.7 7.8 3.9 2 3 7.2 2.5 11.0 3.7 11.7 3.9 3 4 9.7 2.5 14.7 3.7 15.6 4.0 4 5 12.2 2.5 18.4 3.7 19.6 3.9 5 6 14.7 2.5 22.1 3.7 23.5 4.0 6 7 17.2 2.6 25.8 3.7 27.5 4.0 7 8 19.8 2.6 29.5 3.7 31.5 4.0 8 9 22.4 2.6 33.2 3.8 35.5 4.0 9 10 25.0 2.6 37.0 3.8 39.5 4.0 10 11 27.6 2.7 40.8 3.8 43.5 4.0 11 12 30.3 2.7 44.6 3.8 47.5 4.1 12 13 33.0 2.7 48.4 3.8 51.6 4.1 13 14 35.7 2.8 52.2 3.8 55.7 4.1 14 15 38.5 2.8 56.0 3.9 59.8 4.1 15 16 41.3 2.9 59.9 3.9 63.9 4.1 16 17 44.2 2.9 63.8 3.9 68.0 4.2 17 18 47.1 2.9 67.7 4.0 72.2 4.3 18 19 50.0 3.0 71.7 4.0 76.5 4.4 19 20 53.0 3.0 75.7 4.1 80.9 4.5 20 21 56.0 3.1 79.8 4.1 85.4 4.6 21 22 59.1 3.1 83.9 4.1 90.0 4.6 22 23 62.2 88.0 94.6 23
 14. DETERMINATION OF UREA
@@ -443,13 +443,12 @@ This method makes it possible to determine the level of urea in feedingstuffs.
 2. PRINCIPLE
 The sample is suspended in water with a clarifying agent. The suspension is filtered. The urea content of the filtrate is determined after the addition of 4-dimethylaminobenzaldehyde (4-DMAB) by measuring the optical density at a wavelength of 420 nm.
 3. REAGENTS
-3.1. Solution of 4-dimethylaminobenzaldehyde{ dissolve 1·6 g of 4-DMAB A.R. in 100 ml of 96% ethanol and add 10 ml of hydrochloric acid A.R. (d: 1·19). This reagent keeps for a maximum period of two weeks.
-3.2. Carrez solution I: dissolve in water 21·9 g of zinc acetate Zn (CH3COO)2 · 2H2O and 3 g of glacial acetic acid. Make up to 100 ml with water.
-3.3. Carrez solution II: dissolve in water. 10·6 g of potassium ferrocyanide, K4 Fe
-(CN)6 · 3H2O.
+3.1. Solution of 4-dimethylaminobenzaldehyde{ dissolve 1ꞏ6 g of 4-DMAB A.R. in 100 ml of 96% ethanol and add 10 ml of hydrochloric acid A.R. (d: 1ꞏ19). This reagent keeps for a maximum period of two weeks.
+3.2. Carrez solution I: dissolve in water 21ꞏ9 g of zinc acetate Zn (CH3COO)2 ꞏ 2H2O and 3 g of glacial acetic acid. Make up to 100 ml with water.
+3.3. Carrez solution II: dissolve in water. 10ꞏ6 g of potassium ferrocyanide, K4 Fe (CN)6 ꞏ 3H2O.
 Make up to 100 ml with water.
 3.4. Active carbon A.R. which does not absorb urea (to be checked).
-3.5. 0·1% solution (w/v) of urea A.R.
+3.5. 0ꞏ1% solution (w/v) of urea A.R.
 4. APPARATUS
 4.1. Mixer (tumbler): approximately 35 to 40 rpm.
 4.2. Test tubes: 160 × 16 mm with ground-glass stoppers.
@@ -475,19 +474,19 @@ This test makes it possible estimate the urease activity of products derived fro
 2. PRINCIPLE
 Urease activity is estimated by the amount of ammoniacal nitrogen liberated per 1 g of product per minute at 30ºC from a solution of urea.
 3. REAGENTS
-3.1. Hydrochloric acid 0·1 N
-3.2. Solution of sodium hydroxide 0·1 N.
-3.3. Loading agent of phosphate 0·05 M, containing, per 1000 ml, 4·45 g of disodium phosphate (Na2HPO4 · 2H2O) and 3·40 g of monopotassium phosphate (KH2 PO4).
-3.4. Freshly-prepared urea loading agent containing 30·0 g of urea per 1000 ml of loading agent (3.3); pH 6·9-7·0.
+3.1. Hydrochloric acid 0ꞏ1 N
+3.2. Solution of sodium hydroxide 0ꞏ1 N.
+3.3. Loading agent of phosphate 0ꞏ05 M, containing, per 1000 ml, 4ꞏ45 g of disodium phosphate (Na2HPO4 ꞏ 2H2O) and 3ꞏ40 g of monopotassium phosphate (KH2 PO4).
+3.4. Freshly-prepared urea loading agent containing 30ꞏ0 g of urea per 1000 ml of loading agent (3.3); pH 6ꞏ9-7ꞏ0.
 4. APPARATUS
-4.1. Potentiometric titration apparatus or high sensitivity pH-meter (0·02 pH) with magnetic stirrer.
+4.1. Potentiometric titration apparatus or high sensitivity pH-meter (0ꞏ02 pH) with magnetic stirrer.
 4.2. Water bath fitted with thermostat set at 30ºC exactly.
 4.3. Test-tubes with ground-glass stoppers, 150 × 18 mm.
 5. PROCEDURE
-Crush about 10 g of the sample (for example in a coffee mill) so that it passes through a sieve with a mesh of 0·2 mm. Weigh out 0·2 g of the crushed sample to the nearest mg, place in a test tube with a ground-glass stopper and add 10 ml of urea loading agent (3.4). Stopper immediately and shake vigorously. Place the tube in a water bath set at 30ºC exactly and keep there for exactly thirty minutes.
-Immediately add 10 ml of 0·1 N hydrochloric acid (3.1), cool rapidly to 20ºC and transfer the contents of the tube quantitatively to a titration vessel, rinsing twice with 5 ml of water. Using a glass electrode (4.1) titrate immediately and rapidly to pH 4·7 with the 0·1 N sodium hydroxide solution (3.2) by electrometry.
+Crush about 10 g of the sample (for example in a coffee mill) so that it passes through a sieve with a mesh of 0ꞏ2 mm. Weigh out 0ꞏ2 g of the crushed sample to the nearest mg, place in a test tube with a ground-glass stopper and add 10 ml of urea loading agent (3.4). Stopper immediately and shake vigorously. Place the tube in a water bath set at 30ºC exactly and keep there for exactly thirty minutes.
+Immediately add 10 ml of 0ꞏ1 N hydrochloric acid (3.1), cool rapidly to 20ºC and transfer the contents of the tube quantitatively to a titration vessel, rinsing twice with 5 ml of water. Using a glass electrode (4.1) titrate immediately and rapidly to pH 4ꞏ7 with the 0ꞏ1 N sodium hydroxide solution (3.2) by electrometry.
 Carry out a blank test as follows:
-Quickly place a sample of 0·2 g weighed to the nearest mg in a test tube with a ground-glass stopper, add 10 ml of 0·1 N hydrochloric acid (3.1) and then 10 ml of urea loading agent (3.4). Cool the tube immediately in ice-water and leave there for thirty minutes. Under the conditions indicated above, transfer the contents of the tube to the titration vessel using the 0·1 N sodium hydroxide solution (3.2) up to pH 4·7.
+Quickly place a sample of 0ꞏ2 g weighed to the nearest mg in a test tube with a ground-glass stopper, add 10 ml of 0ꞏ1 N hydrochloric acid (3.1) and then 10 ml of urea loading agent (3.4). Cool the tube immediately in ice-water and leave there for thirty minutes. Under the conditions indicated above, transfer the contents of the tube to the titration vessel using the 0ꞏ1 N sodium hydroxide solution (3.2) up to pH 4ꞏ7.
 [S.L.437.69 24 THE OFFICIAL CONTROL OF FEEDING-STUFFS
 6. CALCULATION
 The urease activity is calculated by using the formula:
@@ -495,8 +494,8 @@ mg N .4 (b - a)
 AT 30°C =
 g min 30 . E
 where:
-a = ml of 0·1N sodium hydroxide solution consumed by the sample,
-b = ml of 0·1N sodium hydroxide solution consumed in the blank test,
+a = ml of 0ꞏ1N sodium hydroxide solution consumed by the sample,
+b = ml of 0ꞏ1N sodium hydroxide solution consumed in the blank test,
 E = weight of sample in g.
 7. OBSERVATION
 7.1. This method is suitable for a urease activity of up to 1 mg of N`g`min at 30ºC. For more active products, the size of the sample can be reduced to 50 mg.
