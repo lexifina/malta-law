@@ -29,23 +29,23 @@ Mo = mass, in grammes, of the test sample;
 [S.L.437.76 AND OFFICIAL CONTROL OF FEEDINGSTUFFS 3
 M1 = mass, in grammes, of the dish with its contents before heating;
 M2 = mass, in grammes, of the dish with its contents after heating.
-Results lower than 0·05% must be recorded as 'lower than 0·05%'.
+Results lower than 0ꞏ05% must be recorded as 'lower than 0ꞏ05%'.
 Repeatability
-The difference in moisture between the results of two parallel determinations carried out on the same sample must not exceed 0·05%, in absolute value.
+The difference in moisture between the results of two parallel determinations carried out on the same sample must not exceed 0ꞏ05%, in absolute value.
 Chapter II
 Determination of Magnesium
 - by atomic absorption spectrophotometry -
 1. Purpose and Scope
 This method makes it possible to determine the quantity of magnesium in feeding stuffs. It is particularly appropriate for determining magnesium contents lower than 5%.
 2. Principle
-The sample is ashed and dissolved in dilute hydrochloric acid. If it contains no organic substances, it is dissolved directly in dilute hydrochloric acid. The solution is diluted and the magnesium content determined by atomic absorption spectrophotometry at 285·2 nm, by comparison with standard solutions.
+The sample is ashed and dissolved in dilute hydrochloric acid. If it contains no organic substances, it is dissolved directly in dilute hydrochloric acid. The solution is diluted and the magnesium content determined by atomic absorption spectrophotometry at 285ꞏ2 nm, by comparison with standard solutions.
 3. Reagents
-3.1. Hydrochloric acid a.p. d: 1·16.
-3.2. Concentrated hydrochloric acid a.p. d: 1·19.
+3.1. Hydrochloric acid a.p. d: 1ꞏ16.
+3.2. Concentrated hydrochloric acid a.p. d: 1ꞏ19.
 3.3. Magnesium ribbon or wire, or magnesium sulphate heptahydrate, dried at room temperature.
-3.4. Strontium salt solution (chloride or nitrate) at 2·5 % (w/v) strontium
-(= 76·08 g SrC12 · 6H2O a.p., or 60·38 g Sr (NO3)2 a.p.).
-3.5. Standard magnesium solution: weigh out to the nearest mg 1 g magnesium (3.3) which has previously had its oxide coating carefully removed, or the corresponding quantity (10·143 g) of magnesium sulphate heptahydrate (3.3). Place ina 1 000 ml graduated flask, add 80 ml hydrochloric acid (3.1), leave to dissolve and make up to 1 000 ml with water. 1 ml of this solution contains 1·000 mg magnesium.
+3.4. Strontium salt solution (chloride or nitrate) at 2ꞏ5 % (w/v) strontium
+(= 76ꞏ08 g SrC12 ꞏ 6H2O a.p., or 60ꞏ38 g Sr (NO3)2 a.p.).
+3.5. Standard magnesium solution: weigh out to the nearest mg 1 g magnesium (3.3) which has previously had its oxide coating carefully removed, or the corresponding quantity (10ꞏ143 g) of magnesium sulphate heptahydrate (3.3). Place ina 1 000 ml graduated flask, add 80 ml hydrochloric acid (3.1), leave to dissolve and make up to 1 000 ml with water. 1 ml of this solution contains 1ꞏ000 mg magnesium.
 4. Apparatus
 4.1. Platinum, silica or porcelain ashing crucibles.
 4.2. Thermostatically controlled electric muffle furnace.
@@ -61,7 +61,7 @@ Weigh out to the nearest mg 5 g of the sample into a crucible and ash at 550ºC 
 5.1.3. Feedingstuffs composed predominantly of organic substances
 Weigh out to the nearest mg 5 g of the sample into a crucible and ash at 550ºC in the muffle furnace until an ash which is free from carbonaceous particles is obtained. Treat the ash with 5 ml hydrochloric acid (3.2), evaporate to dryness on a water bath and then dry for one hour in the oven at 105ºC in order to render the silica insoluble. Treat the ash with 5 ml hydrochloric acid (3.1), transfer to a 250 ml graduated flask using warm water, bring to the boil, leave to cool and make up to volume with water. Mix and filter into a dry beaker through a dry pleated filter. Discard the first 30 ml of the filtrate.
 5.2. Measurement by atomic absorption
-By diluting the standard solution (3.5) with water, prepare at least 5 reference solutions of increasing concentration, corresponding to the optimal measuring range of the spectrophotometer. Add to each solution 10 ml strontium salt solution (3.4) and then make up the volume to 100 ml with water. Dilute with water one aliquot part of the filtrate obtained from 5.1.1, 5.1.2 or 5.1.3, so as to obtain a magnesium concentration which is within the limits of concentration of the reference solutions. The hydrochloric acid concentration of this solution must not exceed 0·4 N. Add 10 ml strontium salt solution (3.4) and then make up the volume to 100 ml with water. Measure the absorption of the solution to be determined and of the reference solutions at 285·2 nm.
+By diluting the standard solution (3.5) with water, prepare at least 5 reference solutions of increasing concentration, corresponding to the optimal measuring range of the spectrophotometer. Add to each solution 10 ml strontium salt solution (3.4) and then make up the volume to 100 ml with water. Dilute with water one aliquot part of the filtrate obtained from 5.1.1, 5.1.2 or 5.1.3, so as to obtain a magnesium concentration which is within the limits of concentration of the reference solutions. The hydrochloric acid concentration of this solution must not exceed 0ꞏ4 N. Add 10 ml strontium salt solution (3.4) and then make up the volume to 100 ml with water. Measure the absorption of the solution to be determined and of the reference solutions at 285ꞏ2 nm.
 6. Calculation of results
 Calculate the quantity of magnesium in the sample by relation to the reference solutions. Express the result as a percentage of the sample.
 Repeatability
