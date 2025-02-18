@@ -1,4 +1,6 @@
 ## SCHEDULE II
+## *Any commercial culture medium of similar composition and giving the same results may be used
+## *1mg virginiamycin is equivalent to 1000 UK units †Other methods may be used provided that it has been established that they give similar bacterial suspensions. ‡Any commercial culture medium of similar composition and giving the same results may be used.
 # schedule-ii
 4. DETERMINATION OF TYLOSIN
 - by diffusion on agar -
@@ -8,9 +10,9 @@ This method makes it possible to determine the tylosin content of feedingstuffs,
 The sample is treated with a pH 8 phosphate buffer solution, previously heated to 80ºC, and then extracted with methanol. After centrifuging, the extract is diluted and its antibiotic activity determined by measuring the diffusion of the tylosin on an agar medium seeded with Sarcina lutea. The diffusion is made evident by the formation of inhibition zones in the presence of the micro-organism. The diameter of these zones is directly proportional to the logarithm of the antibiotic concentration.
 3. Micro-organism: Sarcina lutea ATCC No. 9341
 3.1 Maintenance of the parent strain
-Inoculate with Sarcina lutea a tube of sloped agar taken from the culture medium (4.1), adjust to pH 7·0. Incubate overnight at approximately 35ºC. Keep the culture in a refrigerator and re-inoculate sloped agar with it every month.
+Inoculate with Sarcina lutea a tube of sloped agar taken from the culture medium (4.1), adjust to pH 7ꞏ0. Incubate overnight at approximately 35ºC. Keep the culture in a refrigerator and re-inoculate sloped agar with it every month.
 3.2 Preparation of the bacteria suspension
-Collect the bacteria from a recently prepared tube of sloped agar (3.1) using 2 to 3 ml of physiological saline (4.4). With this suspension seed a Roux flask containing 250 ml of the culture medium (4.1), adjusted to pH 7·0. Incubate for 24 hours at 35ºC, then collect the bacteria in 25 ml of physiological saline (4.4). Homogenize, and dilute this suspension to obtain approximately 75% light transmission at 650 nm.
+Collect the bacteria from a recently prepared tube of sloped agar (3.1) using 2 to 3 ml of physiological saline (4.4). With this suspension seed a Roux flask containing 250 ml of the culture medium (4.1), adjusted to pH 7ꞏ0. Incubate for 24 hours at 35ºC, then collect the bacteria in 25 ml of physiological saline (4.4). Homogenize, and dilute this suspension to obtain approximately 75% light transmission at 650 nm.
 If kept in a refrigerator this suspension may be used for one week.
 By preliminary tests on plates with the basic medium for the determination (4.1), establish the quantity of inoculum which, for the different concentrations of tylosin
 [S.L.437.63 IN THE OFFICIAL CONTROL OF FEEDINGSTUFFS 15
@@ -18,18 +20,18 @@ used, will give the largest possible inhibition zones that are still clear. The 
 4. Culture media and reagents Basic medium for the determination)* 4.1
 Glucose 1 g
 Tryptic peptone 10 g
-Meat extract 1·5 g
+Meat extract 1ꞏ5 g
 Yeast extract 3 g
 Agar, according to quality 10 to 20 g
 Distilled water to 1000 ml
-Adjust immediately before use to pH 7.0 for maintenance of the parent strain and preparation of the bacteria suspension, and to pH 8·0 for the determination.
+Adjust immediately before use to pH 7.0 for maintenance of the parent strain and preparation of the bacteria suspension, and to pH 8ꞏ0 for the determination.
 4.2 Phosphate buffer solution, pH 8
-Potassium dihydrogen phosphate KH2 PO4 A.R. 0·523 g
-diPotassium hydrogen phosphate K2 HPO4 A.R. 16·730 g
+Potassium dihydrogen phosphate KH2 PO4 A.R. 0ꞏ523 g
+diPotassium hydrogen phosphate K2 HPO4 A.R. 16ꞏ730 g
 Distilled water to 1000 ml
 4.3 Phosphate buffer solution, pH 7
-Potassium dihydrogen phosphate KH2 PO4 A.R. 5·5 g
-di Potassium hydrogen phosphate K2 HPO4 A.R. 13·6 g
+Potassium dihydrogen phosphate KH2 PO4 A.R. 5ꞏ5 g
+di Potassium hydrogen phosphate K2 HPO4 A.R. 13ꞏ6 g
 Distilled water to 1000 ml
 4.4 Sterile physiological saline.
 4.5 Pure methanol.
@@ -41,8 +43,8 @@ Dry the standard substance (4.8) for 3 hours at 60ºC in a vacuum oven (5 mm of 
 Prepare a standard working solution S8 containing 2 µg per ml of tylosin base from this stock solution by diluting with the mixture (4.7).
 Then prepare by successive dilutions (1 + 1), using the mixture (4.7), the following concentrations:
 S4 1 µg/ml
-S2 0·5 µg/ml
-S1 0·25 µg/ml
+S2 0ꞏ5 µg/ml
+S1 0ꞏ25 µg/ml
 6. Extraction
 [S.L.437.63 16 IN THE OFFICIAL CONTROL OF FEEDINGSTUFFS
 For concentrates, take a 10 g test sample[ for premixes and feedingstuffs, a 20 g test sample. Add 60 ml of phosphate buffer solution, pH 8 (4.2), previously heated to 80ºC, and homogenize for 2 minutes (domestic mixer, Ultra-turrax, etc.).
@@ -50,11 +52,11 @@ Leave to stand for 10 minutes, add 40 ml of methanol (4.5) and homogenize for 5 
 For contents of less than 10 ppm, evaporate the extract until dry in a rotary evaporator at 35ºC and dissolve the residue in 40 % methanol (4.6).
 7. Determination method
 7.1 Inoculation of the culture medium
-Inoculate at 48 to 50ºC the basic medium for the determination (4.1), adjust to pH 8·0, with the bacteria suspension (3.2).
+Inoculate at 48 to 50ºC the basic medium for the determination (4.1), adjust to pH 8ꞏ0, with the bacteria suspension (3.2).
 7.2 Preparation of the trays
 Diffusion on agar is carried out in trays using 4 concentrations of the standard solution (S8, S4, S2, S1) and 4 concentrations of the extract (U8, U4, U2, U1). The 4 concentrations of standard solution and of extract must be placed in each tray.
 Choose trays, therefore, which are large enough to allow at least 8 holes 10 to 13 mm in diameter to be made in the agar medium. Calculate the quantity of inoculated culture medium (7.1) needed to provide a uniform covering approximately 2 mm thick. The test should preferably be carried out on flat trays consisting of glass plates filled with a perfectly level aluminium or plastic ring, 200 mm in diameter and 20 mm high.
-Pipette into the holes accurately measured quantities of between 0·10 and 0·15 ml of antibiotic solution, depending on the diameter of the holes.
+Pipette into the holes accurately measured quantities of between 0ꞏ10 and 0ꞏ15 ml of antibiotic solution, depending on the diameter of the holes.
 For each sample repeat the diffusion at least 4 times with each concentration so that each determination comprises an evaluation of 32 inhibition zones.
 7.3 Incubation
 Incubate the trays overnight at 35 to 37ºC.
@@ -62,7 +64,7 @@ Incubate the trays overnight at 35 to 37ºC.
 Measure the diameter of the inhibition zones, preferably by projection.
 Record the measurements on semi-logarithmic paper, plotting the logarithm of the concentrations against the diameter of the inhibition zones. Trace the lines of the standard solution and of the extract. Provided there is no interference the two lines will be parallel.
 The logarithm of the relative activity is calculated by using the following formula:
-(U1 + U2 + U4 + U8 - S1 - S2 - S4 - S8) ·0·602
+(U1 + U2 + U4 + U8 - S1 - S2 - S4 - S8) ꞏ0ꞏ602
 U4 + U8 + S4 + S8 - U1 - U2 - S1 - S2
 Real activity = presumed activity × relative activity.
 9. Repeatability
@@ -143,15 +145,15 @@ If the lines are found to be non-parallel either u1 and s1 or u8 and s8 may be d
 and similarly for UL and UH. The same criteria of parallelism should be satisfied. The fact that the result has been calculated from three levels should be noted on the final report.
 When the lines are considered as being parallel, calculate the logarithm of the relative activity (log A) by means of one of the following formulae, depending upon whether three or four levels have been used for the assessment of parallelism.
 For four levels
-(U1 + U2 + U4 + U8 - S1 - S2 - S4 - S8) ·0·602
+(U1 + U2 + U4 + U8 - S1 - S2 - S4 - S8) ꞏ0ꞏ602
 (c) Log A =
 U4 + U8 + S4 + S8 - U1 - U2 - S1 - S2
 For three levels
-(U1 + U2 + U4 - S1 - S2 - S4 - S8) × 0·401
+(U1 + U2 + U4 - S1 - S2 - S4 - S8) × 0ꞏ401
 (d) Log A =
 U4 + S4 - U1 - S1
 or
-(U2 + U4 + U8 - S2 - S4 - S8) × 0·401
+(U2 + U4 + U8 - S2 - S4 - S8) × 0ꞏ401
 (d') Log A =
 U8+ S8 - U2 - S2
 Activity of sample extract = activity of relevant standard × A

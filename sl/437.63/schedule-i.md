@@ -1,4 +1,5 @@
 ## SCHEDULE I
+## *Determine the nitrogen content by the semi-micro Kjehdahl method (theoretical content:17.7 % of nitrogen).
 # schedule-i
 1. DETERMINATION OF STARCH
 POLARIMETRIC METHOD
@@ -85,7 +86,7 @@ This method makes it possible to determine the crude protein content of feedings
 The sample is digested by sulfuric acid in the presence of a catalyst. The acid solution is made alkaline with sodium hydroxide solution. The ammonia is distilled and collected in a measured quantity of sulfuric acid, the excess of which is titrated with a standard solution of sodium hydroxide.
 3. Reagents
 3.1 Potassium sulfate.
-3.2 Catalyst: copper (II) oxide CuO or copper (II) sulfate pentahydrate, CuSO4 · 5H2O
+3.2 Catalyst: copper (II) oxide CuO or copper (II) sulfate pentahydrate, CuSO4 ꞏ 5H2O
 3.3 Granulated zinc.
 Sulfuric acid, ρ20 = 1,84 g/ml. 3.4.
 3.5 Sulfuric acid c(½H2SO4) = 0,5 mol/l.
@@ -144,10 +145,10 @@ This method makes it possible to determine the fraction of crude protein dissolv
 The sample is heated for 48 hours at 40ºC in a solution of pepsin hydrochloride.
 The suspension is filtered and the nitrogen content of the filtrate determined according to the method for the determination of crude protein.
 3. Reagents
-3.1 Hydrochloric acid, d: 1·125.
-3.2 Hydrochloric acid 0·075 N.
-3.3 2·0 U/mg pepsin; pepsin activity is defined in the method described in Part 4 of this Annex and must be established according to that method.
-3.4 About 0·2% (w/v) freshly prepared solution of pepsin in hydrochloric acid (3.2); activity: 400 U/l.
+3.1 Hydrochloric acid, d: 1ꞏ125.
+3.2 Hydrochloric acid 0ꞏ075 N.
+3.3 2ꞏ0 U/mg pepsin; pepsin activity is defined in the method described in Part 4 of this Annex and must be established according to that method.
+3.4 About 0ꞏ2% (w/v) freshly prepared solution of pepsin in hydrochloric acid (3.2); activity: 400 U/l.
 3.5 Anti-foaming emulsion (eg. silicone).
 3.6 All the reagents listed under 3 in the method for the determination of crude protein.
 4. Apparatus
@@ -155,7 +156,7 @@ The suspension is filtered and the nitrogen content of the filtrate determined a
 4.2 Kjeldahl digestion and distillation apparatus.
 5. Procedure
 5.1 Preparation of solution (see observation 7.2)
-Weigh 2 g of the sample to the mearest mg and place in a 500 ml graduated flask. Add 450 ml of pepsin hydrochloride solution (3.4) previously heated to 40ºC and shake to prevent the formation of agglomerates. Check that the pH of the suspension is less than 1·7. Place the flask in the water bath or incubator (4.1) and leave there for 48 hours. Shake after 8, 24 and 32 hours. After 48 hours, add 15 ml of hydrochloric acid (3.1), cool to 20ºC, make up to volume with water and filter.
+Weigh 2 g of the sample to the mearest mg and place in a 500 ml graduated flask. Add 450 ml of pepsin hydrochloride solution (3.4) previously heated to 40ºC and shake to prevent the formation of agglomerates. Check that the pH of the suspension is less than 1ꞏ7. Place the flask in the water bath or incubator (4.1) and leave there for 48 hours. Shake after 8, 24 and 32 hours. After 48 hours, add 15 ml of hydrochloric acid (3.1), cool to 20ºC, make up to volume with water and filter.
 5.2 Digestion
 Take 250 ml of the filtrate and place in the flask of the distillation apparatus (4.2). Add the reagents necessary for digestion indicated in the second sentence of 5.1 of the method for the determination of crude protein. Homogenize and bring to the boil. If any foam should form, add a few drops of anti-foaming emulsion (3.5). Continue
 [S.L.437.63 8 IN THE OFFICIAL CONTROL OF FEEDINGSTUFFS
@@ -166,14 +167,14 @@ Proceed as indicated in 5.2 and 5.3 of the method for the determination of crude
 5.4 Blank test
 Carry out a blank test applying the same procedure but omitting the sample to be analyzed.
 6. Calculation of results
-Subtract the volume of sulphuric acid consumed in the blank test from that consumed by the test sample. 1 ml of sulphuric acid 0·1 N corresponds to 1·4 mg of nitrogen.
-Multiply the quantity of nitrogen by the factor 6·25. Express the result as a percentage of the sample.
+Subtract the volume of sulphuric acid consumed in the blank test from that consumed by the test sample. 1 ml of sulphuric acid 0ꞏ1 N corresponds to 1ꞏ4 mg of nitrogen.
+Multiply the quantity of nitrogen by the factor 6ꞏ25. Express the result as a percentage of the sample.
 Repeatability
 The difference between the results of two parallel determinations carried out on the same sample must not exceed:
-- 0·4, in absolute value, for contents of less than 20%;
-- 2·0%, in relative value, for contents of not less than 20% and not more
+- 0ꞏ4, in absolute value, for contents of less than 20%;
+- 2ꞏ0%, in relative value, for contents of not less than 20% and not more
 than 40%;
-- 0·8, in absolute value, for contents of more than 40%.
+- 0ꞏ8, in absolute value, for contents of more than 40%.
 7. Observations
 7.1 The values obtained by this method have no direct connection with digestibility in vivo.
 7.2 Products with an oil or fat content exceeding 10% must first be defatted by extraction with petroleum ether (B.P. 40 to 60ºC).
@@ -185,48 +186,48 @@ Haemoglobin is treated with pepsin in a hydrochloric acid medium under defined c
 Definition: The unit of pepsin is defined as being the quantity of that enzyme which, under the conditions of the method, liberates per minute, a quantity of hydroxyaryl groups which, when stained with the Folin-Ciocalteu reagent, has an optical density corresponding to that of one µmole of tyrosine stained in the same manner.
 [S.L.437.63 IN THE OFFICIAL CONTROL OF FEEDINGSTUFFS 9
 3. Reagents
-3.1 Hydrochloric acid 0·2 N.
-3.2 Hydrochloric acid 0·06 N.
-3.3 Hydrochloric acid 0·025 N.
+3.1 Hydrochloric acid 0ꞏ2 N.
+3.2 Hydrochloric acid 0ꞏ06 N.
+3.3 Hydrochloric acid 0ꞏ025 N.
 3.4 5% solution (w/v) of trichloroacetic acid.
-3.5 Sodium hydroxide solution 0·5 N.
-3.6 Folin-Ciocalteu reagent. Place 100 g of sodium tungstate (Na2 WO4 . 2H2O), 25 g of sodium molybdate (Na2 MoO4 . 2H2O) and 700 ml of water in a 2 litre round-bottomed flask fitted with a standard ground-glass joint. Add 50 ml of phosphoric acid (d: 1·71) and 100 ml of concentrated hydrochloric acid (d: 1·19), connect a reflux condenser to the flask, bring to the boil and keep the solution gently boiling for 10 hours. Leave to cool, detach the reflux condenser, add 175 g of lithium sulphate (Li2 SO4 . 2H2O), 50 ml of water and 1 ml of bromine. Boil for 15 minutes to eliminate excess bromine.
+3.5 Sodium hydroxide solution 0ꞏ5 N.
+3.6 Folin-Ciocalteu reagent. Place 100 g of sodium tungstate (Na2 WO4 . 2H2O), 25 g of sodium molybdate (Na2 MoO4 . 2H2O) and 700 ml of water in a 2 litre round-bottomed flask fitted with a standard ground-glass joint. Add 50 ml of phosphoric acid (d: 1ꞏ71) and 100 ml of concentrated hydrochloric acid (d: 1ꞏ19), connect a reflux condenser to the flask, bring to the boil and keep the solution gently boiling for 10 hours. Leave to cool, detach the reflux condenser, add 175 g of lithium sulphate (Li2 SO4 . 2H2O), 50 ml of water and 1 ml of bromine. Boil for 15 minutes to eliminate excess bromine.
 Leave to cool, transfer the solution to a 1 litre graduated flask, make up to volume with water, homogenize and filter. No greenish coloration must remain. Before use, dilute 1 volume of the reagent with 2 volumes of water.
 3.7 Haemoglobin solution: Weigh a quantity of haemoglobin (approx. 2 g of protein substratum determined according to Anson) corresponding to 354 mg of nitrogen* and place in a 200 ml flask fitted with a standard ground-glass joint. Add a few ml of hydrochloric acid (3.2), connect the flask to the vacuum pump and shake until the haemoglobin has completely dissolved. Release the vacuum and, while shaking, add hydrochloric acid (3.2) to make up to 100 ml. Prepare immediately before use.
-3.8 Standard tyrosine solution: Dissolve 181·2 mg of tyrosine in the hydrochloric acid (3.1) and make up to 1 litre with the same acid (stick solution). Take 20·0 ml and dilute to 100 ml with hydrochloric acid (3.1). 1 ml of this solution contain 0·2 µmole of tyrosine.
+3.8 Standard tyrosine solution: Dissolve 181ꞏ2 mg of tyrosine in the hydrochloric acid (3.1) and make up to 1 litre with the same acid (stick solution). Take 20ꞏ0 ml and dilute to 100 ml with hydrochloric acid (3.1). 1 ml of this solution contain 0ꞏ2 µmole of tyrosine.
 4. Apparatus
-4.1 Water bath set at 25ºC ± 0·1ºC by ultrathermostat.
+4.1 Water bath set at 25ºC ± 0ꞏ1ºC by ultrathermostat.
 4.2 Spectrophotometer.
 4.3 Chronometer, accuracy: 1 second.
 4.4 pH-meter.
 5. Procedure
 5.1 Preparation of the solution (see observation 7.1)
-Dissolve 150 mg of pepsin in 100 ml of hydrochloric acid (3.2). Pipette 2 ml of the solution into a 50 ml graduated flask and make up to volume with hydrochloric acid (3.3). The pH, checked with the pH-meter, must be 1·6 ± 0·1. Immerse the flask in the water bath (4.1).
+Dissolve 150 mg of pepsin in 100 ml of hydrochloric acid (3.2). Pipette 2 ml of the solution into a 50 ml graduated flask and make up to volume with hydrochloric acid (3.3). The pH, checked with the pH-meter, must be 1ꞏ6 ± 0ꞏ1. Immerse the flask in the water bath (4.1).
 5.2 Hydrolysis
-Pipette 5·0 ml of haemoglobin solution (3.7) into a test tube, heat to 25ºC in the water bath (4.1), add 1·0 ml of the pepsin solution obtained in 5·1 and mix with a glass rod thickened at one end, with about 10 back-and-forth movements. Leave the
+Pipette 5ꞏ0 ml of haemoglobin solution (3.7) into a test tube, heat to 25ºC in the water bath (4.1), add 1ꞏ0 ml of the pepsin solution obtained in 5ꞏ1 and mix with a glass rod thickened at one end, with about 10 back-and-forth movements. Leave the
 [S.L.437.63 10 IN THE OFFICIAL CONTROL OF FEEDINGSTUFFS
-test tube in the water bath at 25ºC for exactly 10 minutes, timed from the addition of the pepsin solution (duration and temperature must be strictly observed). Then add 10·0 ml of trichloroacetic acid solution (3.4) previously heated to 25ºC, homogenize and filter through a dry filter.
+test tube in the water bath at 25ºC for exactly 10 minutes, timed from the addition of the pepsin solution (duration and temperature must be strictly observed). Then add 10ꞏ0 ml of trichloroacetic acid solution (3.4) previously heated to 25ºC, homogenize and filter through a dry filter.
 5.3 Development of coloration and measurement of optical density
-Pipette 5·0 ml of the filtrate into a 50 ml Erlenmeyer flask, add 10·0 ml of sodium hydroxide solution (3.5) and, shaking constantly, 3·0 ml of dilute Folin-Ciocalteu reagent (3.6). After 5 to 10 minutes, determine the optical density of the solution with the spectrophotometer at 750 nm in cells 1 cm thick against water.
+Pipette 5ꞏ0 ml of the filtrate into a 50 ml Erlenmeyer flask, add 10ꞏ0 ml of sodium hydroxide solution (3.5) and, shaking constantly, 3ꞏ0 ml of dilute Folin-Ciocalteu reagent (3.6). After 5 to 10 minutes, determine the optical density of the solution with the spectrophotometer at 750 nm in cells 1 cm thick against water.
 5.4 Blank test
 For each determination, carry out a blank test as follows:
-Pipette 5·0 ml of haemoglobin solution (3.7) into a test tube, heat to 25ºC in the water bath (4.1), add 10·0 ml of trichloroacetic acid solution (3.4) previously heated to 25ºC, homogenize, then add 1.0 ml of the pepsin solution obtained in 5.1. Mix with a glass rod and leave the test tube in the water bath (4.1) at 25ºC for exactly 10 minutes. Homogenize and filter through a dry filter. Follow the procedure indicated in 5.3.
+Pipette 5ꞏ0 ml of haemoglobin solution (3.7) into a test tube, heat to 25ºC in the water bath (4.1), add 10ꞏ0 ml of trichloroacetic acid solution (3.4) previously heated to 25ºC, homogenize, then add 1.0 ml of the pepsin solution obtained in 5.1. Mix with a glass rod and leave the test tube in the water bath (4.1) at 25ºC for exactly 10 minutes. Homogenize and filter through a dry filter. Follow the procedure indicated in 5.3.
 5.5 Calibration curve
-Place 1·0, 2·0, 3·0, 4·0 and 5·0 ml aliquots of standard tyrosine solution (3.8), corresponding to 0·2, 0·4, 0·6, 0·8 and 1·0 µmoles of tyrosine respectively in 50 ml Erlenmeyer flasks. Complete the series with a reference solution free from tyrosine. Make up the volumes to 5·0 ml with hydrochloric acid (3.1). Add 10·0 ml of sodium hydroxide solution (3.5) and, shaking constantly, 3·0 ml of dilute Folin-Ciocalteu reagent (3.6). Measure the optical density as indicated in the last sentence of 5.3. Trace the calibration curve by plotting the optical densities against the quantities of tyrosine.
+Place 1ꞏ0, 2ꞏ0, 3ꞏ0, 4ꞏ0 and 5ꞏ0 ml aliquots of standard tyrosine solution (3.8), corresponding to 0ꞏ2, 0ꞏ4, 0ꞏ6, 0ꞏ8 and 1ꞏ0 µmoles of tyrosine respectively in 50 ml Erlenmeyer flasks. Complete the series with a reference solution free from tyrosine. Make up the volumes to 5ꞏ0 ml with hydrochloric acid (3.1). Add 10ꞏ0 ml of sodium hydroxide solution (3.5) and, shaking constantly, 3ꞏ0 ml of dilute Folin-Ciocalteu reagent (3.6). Measure the optical density as indicated in the last sentence of 5.3. Trace the calibration curve by plotting the optical densities against the quantities of tyrosine.
 6. Calculation of results
 From the calibration curve read the quantity of tyrosine, in µmoles, corresponding to the optical density of the coloured solution, corrected on the basis of the blank value.
 The pepsin activity, in µmoles, of tyrosine at 25ºC, per mg and per minute, is calculated by using the formula:
-0·32a
+0ꞏ32a
 Units per mg (U/mg) =
 P
 Where:
 a = quantity of tyrosine, in µmoles, read from the calibration curve;
 p = weight in mg of the quantity of pepsin added in 5.2.
 7. Observations
-7.1 The quantity of pepsin to be dissolved must be such that, on final photometric measurement, an optical density of 0·35 ± 0·035 is obtained.
+7.1 The quantity of pepsin to be dissolved must be such that, on final photometric measurement, an optical density of 0ꞏ35 ± 0ꞏ035 is obtained.
 7.2 Two units per mg obtained by this method correspond to:
-3·64 Anson milliunits/mg (µmoles of tyrosine/mg · min at 35·5ºC) or
-36 400 commercial units/g (µmoles of tyrosine/g in 10 min at 35·5ºC).
+3ꞏ64 Anson milliunits/mg (µmoles of tyrosine/mg ꞏ min at 35ꞏ5ºC) or
+36 400 commercial units/g (µmoles of tyrosine/g in 10 min at 35ꞏ5ºC).
 5. DETERMINATION OF FREE AND TOTAL GOSSYPOL
 [S.L.437.63 IN THE OFFICIAL CONTROL OF FEEDINGSTUFFS 11
 1. Purpose and scope
@@ -237,15 +238,15 @@ The gossypol is extracted in the presence of 3-aminopropan-1-ol, either with a m
 3.1 Propan-2-ol-hexane mixture: mix 60 parts by volume of propan-2-ol A.R. with 40 parts by volume of n-hexane.
 3.2 Solvent A: Place in a 1 litre graduated flask approximately 500 ml of propan-2-ol-hexane mixture (3.1), 2 ml of 3-aminopropan-1-ol, 8 ml of glacial acetic acid and 50 ml of water. Make up to volume with the propan-2-ol-hexane mixture (3.1). This reagent is stable for one week.
 3.3 Solvent B: Pipette 2 ml of 3-aminopropan-1-ol and 10 ml of glacial acetic acid into a 100 ml graduated flask. Cool to room temperature and make up to volume with N, Ndimethylformamide. This reagent is stable for one week.
-3.4 Aniline A.R.: If the optical density in the blank test exceeds 0·022, distil the aniline over zinc dust, discarding the first and last 10 % fractions of the distillate. Refrigerated and stored in a brown, stoppered glass flask, this reagent will keep for several months.
-3.5 Standard gossypol solution A: Place 27·9 mg of gossypol acetate in a 250 ml graduated flask. Dissolve and make up to volume with solvent A (3.2). Pipette 50 ml of this solution into a 250 ml graduated flask and make up to volume with solvent A. The gossypol concentration of this solution is 0·02 mg per ml. Leave to stand for one hour at room temperature before use.
-3.6 Standard gossypol solution B: Place 27·9 mg of gossypol acetate in a 50 ml graduated flask, Dissolve and make up to volume with solvent B (3.3). The gossypol concentration of this solution is 0·5 mg per ml. Standard gossypol solutions A and B will remain stable for 24 hours if protected from the light.
+3.4 Aniline A.R.: If the optical density in the blank test exceeds 0ꞏ022, distil the aniline over zinc dust, discarding the first and last 10 % fractions of the distillate. Refrigerated and stored in a brown, stoppered glass flask, this reagent will keep for several months.
+3.5 Standard gossypol solution A: Place 27ꞏ9 mg of gossypol acetate in a 250 ml graduated flask. Dissolve and make up to volume with solvent A (3.2). Pipette 50 ml of this solution into a 250 ml graduated flask and make up to volume with solvent A. The gossypol concentration of this solution is 0ꞏ02 mg per ml. Leave to stand for one hour at room temperature before use.
+3.6 Standard gossypol solution B: Place 27ꞏ9 mg of gossypol acetate in a 50 ml graduated flask, Dissolve and make up to volume with solvent B (3.3). The gossypol concentration of this solution is 0ꞏ5 mg per ml. Standard gossypol solutions A and B will remain stable for 24 hours if protected from the light.
 4. Apparatus
 4.1 Mixer (tumbler): approximately 35 rpm.
 4.2 Spectrophotometer.
 5. Procedure
 5.1 Test sample
-The amount of test sample used depends on the presumed gossypol content of the sample. It is preferable to work with a small test sample and a relatively large aliquot part of the filtrate, so as to obtain sufficient gossypol for precise photometric measurement to be possible. For the determination of free gossypol in cottonseed, cottonseed meal and cottonseed cake, the test sample should not exceed 1 g; for compound feedingstuffs, it may be as much as 5 g. A 10 ml aliquot part of filtrate is suitable in most cases; it should contain 50 to 100 µg of gossypol. For the determination of total gossypol, the test sample should be between 0·5 and 5 g, that a
+The amount of test sample used depends on the presumed gossypol content of the sample. It is preferable to work with a small test sample and a relatively large aliquot part of the filtrate, so as to obtain sufficient gossypol for precise photometric measurement to be possible. For the determination of free gossypol in cottonseed, cottonseed meal and cottonseed cake, the test sample should not exceed 1 g; for compound feedingstuffs, it may be as much as 5 g. A 10 ml aliquot part of filtrate is suitable in most cases; it should contain 50 to 100 µg of gossypol. For the determination of total gossypol, the test sample should be between 0ꞏ5 and 5 g, that a
 [S.L.437.63 12 IN THE OFFICIAL CONTROL OF FEEDINGSTUFFS
 2 ml aliquot part of filtrate will contain 40 to 200 µg of gossypol.
 The analysis should be carried out at a room temperature of about 20ºC.
@@ -272,21 +273,20 @@ free gossypol: E = 625
 1%
 total gossypol: E = 600
 1cm
-E·1250
-% gossypol = E 1%
-· p · a
-1cm
+Eꞏ1250
+% gossypol = E 1% ꞏ p ꞏ
+a 1cm
 where:
 E = corrected optical density, determined as indicated in 5.2;
 p= test sample in g;
 a = aliquot part of the filtrate in ml.
 6.2 From a calibration curve
 6.2.1 Free gossypol
-Prepare 2 series of five 25 ml graduated flasks. Pipette aliquots of 2·0, 4·0, 6·0, 8·0 and 10·0 ml of standard gossypol solution A (3.5) into each series of flasks. Make up the volumes to 10 ml with solvent A (3.2). Complete each series with a 25 ml graduated flask containing only 10 ml of solvent A (3.2) (blank test). Make the volume of the flasks in the first series (including the flask for the blank test) up to 25 ml with the propan-2-ol-hexane mixture (3.1) (reference series).
+Prepare 2 series of five 25 ml graduated flasks. Pipette aliquots of 2ꞏ0, 4ꞏ0, 6ꞏ0, 8ꞏ0 and 10ꞏ0 ml of standard gossypol solution A (3.5) into each series of flasks. Make up the volumes to 10 ml with solvent A (3.2). Complete each series with a 25 ml graduated flask containing only 10 ml of solvent A (3.2) (blank test). Make the volume of the flasks in the first series (including the flask for the blank test) up to 25 ml with the propan-2-ol-hexane mixture (3.1) (reference series).
 Add 2 ml of aniline (3.4) to each flask in the second series (including the flask for the blank test). Heat for 30 minutes over a boiling water bath to develop the colour. Cool to room temperature, make up to volume with the propan-2-ol-hexane mixture (3.1), homogenize and leave to stand for one hour (standard series).
 Determine as indicated in 5.2 the optical density of the solutions in the standard series by comparison with the corresponding solutions in the reference series. Trace the calibration curve by plotting the optical densities against the quantities of gossypol (in µg).
 6.2.2 Total gossypol
-Prepare six 50 ml graduated flasks. In the first flask place 10 ml of solvent B (3.3), and in the others 2·0, 4·0, 6·0, 8·0 and 10·0 ml of standard gossypol solution B (3.6) respectively. Make the contents of each flask up to 10 ml with solvent B (3.3). Heat for 30 minutes over a boiling water bath. Cool to room temperature, make up to volume with the propan-2-ol-hexane mixture (3.1) and homogenize. Place 2.0 ml of these solutions in each of two series of six 25 ml graduated flasks. Make the contents of the flasks in the first series up to 25 ml with the propan-2-ol-hexane mixture (3.1) (reference series).
+Prepare six 50 ml graduated flasks. In the first flask place 10 ml of solvent B (3.3), and in the others 2ꞏ0, 4ꞏ0, 6ꞏ0, 8ꞏ0 and 10ꞏ0 ml of standard gossypol solution B (3.6) respectively. Make the contents of each flask up to 10 ml with solvent B (3.3). Heat for 30 minutes over a boiling water bath. Cool to room temperature, make up to volume with the propan-2-ol-hexane mixture (3.1) and homogenize. Place 2.0 ml of these solutions in each of two series of six 25 ml graduated flasks. Make the contents of the flasks in the first series up to 25 ml with the propan-2-ol-hexane mixture (3.1) (reference series).
 Add 2 ml of aniline (3.4) to each flask in the second series. Heat for 30 minutes
 [S.L.437.63 14 IN THE OFFICIAL CONTROL OF FEEDINGSTUFFS
 over a boiling water bath. Cool to room temperature, make up to volume with the propan-2-ol-hexane mixture (3.1), homogenize and leave to stand for one hour (standard series).
