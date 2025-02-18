@@ -1,54 +1,61 @@
 ## SCHEDULE
-## Other nutritional purpose provisions
+## Particular Other nutritional purpose provisions
 ## 6
-## Support of Renal Function in case of chronic and renal insufficiency
-## a
-## b e
-## Dissolution struvite stones (4)
-## Reduction struvite recurrence (4)
+## Support of Renal Indicate on the Function in case of package, chronic and renal container or insufficiency label: "It is recommended t h a t a veterinarian's opinion b e sought before extending the period of use"
+## Indicate in the instructions for u s e : " Wa t e r should b e available at all times."
+## Dissolution Indicate in the struvite stones (4) instructions for u s e : " Wa t e r should b e available at all times."
+## Indicate on the package, container or label: "It is recommended t h a t a veterinarian's opinion b e sought before use."
+## Reduction Indicate on the struvite package, recurrence (4) container or label: "It is recommended t h a t a veterinarian's opinion b e sought before use."
 ## Other provisions
-## 6 Indicate on the package, container or label: "It is recommended t h a t a veterinarian's opinion b e sought before use."
+## t o 6 Indicate on the package, container or label: "It is recommended t h a t a veterinarian's opinion b e sought before use."
 ## Indicate on the package, container or label: "It is recommended t h a t a veterinarian's opinion b e sought before use or before extending the period of use."
 ## 8
 ## o f
+## u s e d
 ## package, container or label:
 ## - "During periods of and recovery from a c u t e diarrhoea."
 ## - "It is recommended t h a t a veterinarian's opinion b e sought before use."
-## Compensation for maldigestion (6)
-## Support of heart function in case of chronic cardiac insufficiency
-## Regulation glucose supply (Diabetes mellitus)
-## Supp ort of liver function in case of chronic insufficiency
+## Compensation for Indicate on the maldigestion (6) package, container or label: "It is recommended t h a t a veterinarian's opinion b e sought before use."
+## Support of heart Indicate on the function in case of package, chronic cardiac container or insufficiency label: "It is recommended t h a t a veterinarian's opinion b e sought before use or before extending the period of use."
+## Regulation Indicate on the glucose supply package, (Diabetes mellitus) container or label: "It is recommended t h a t a veterinarian's opinion b e sought before use or before extending the period of use."
+## Supp ort of liver Indicate on the function in case of package, chronic container or insufficiency label: "It is recommended t h a t a veterinarian's opinion b e sought before use or before extending the period of use."
 ## Indicate in the instruction for u s e : " Wa t e r should b e available at all times"
 ## I n t h e instructions for u s e a n appropriate daily intake m u s t b e recommended
 ## In the case of feedingstuffs specially presented to be given v i a tubing, indicate on the package, container or l a b e l "Administra- t i o n u n d e r veterinary supervision"
-## Reduction of the risk of milk fever " St o p
+## Other Particular nutritional purpose provisions
+## Reduction of the Indicate in the risk of milk fever instructions for u s e : " St o p feeding after calving."
 ## riskofketosis(7)(8)Ingredients Reduction of the
-## Reduction of the t h e r i s k (hypomagnesaemia) b e
-## d a i l y
-## a n d
-## ovines
+## Reduction of the I n t h e r i s k instructions for (hypomagnesaemia) use guidance shall b e provided on the balance of t h e d a i l y ration, with regard to the inclusion of fibre a n d easily available e n e rg y sources.
+## In case of feedingstuffs f o r ovines indicate on the package, container or label: "Especially for lactating ewes."
 ## I n t h e instructions for use guidance shall b e provided on the balance of t h e d a i l y ration, with regard to the inclusion of fibre a n d easily fermentable carbohydrate sources.
 ## In case of feedingstuffs for dairy cows indicate on the package, container or label: "Especially for high yielding cows."
 ## In case of feedingstuffs for ruminants for fattening indicate on the package, container or label: "Especially for intensively fed..."(12)
 ## Indicate on the package, f e d container or label: "In case of risk of, during periods of, or recovery from digestive disturbance (diarrhoea). - I t i s recommended t h a t a veterinarian's opinion b e sought before use."
-## Reduction of the risk of urinary calcull
-## Reduction of stress reactions
-## Stabilisation of physiological digestion
+## Reduction of the Indicate on the risk of urinary package, calcull container or label: "Especially for intensively fed y o u n g animals"
+## Reduction of stress Guidance shall reactions be provided on the situation in which the use of this feed is appropriate.
+## Stabilisation of physiological package, digestion container or label: "In case of risk of, during periods of, or recovery from, digestive disturbance."
 ## Reduction of the risk of constipation
-## Guidance s i x should b e provided on the situations in which the use of the feed is appropriate and the manner in which it should be fed including many small meals per day.
+## Guidance s i x should b e provided on the situations in which the use of the feed is appropriate and the manner i n wh i c h i t should be fed including many small meals per day.
 ## Indicate on the package, container or label: "It is recommended t h a t a veterinarian's opinion b e sought before use or before extending the period of use"
-## Compensation for chronic digestive b e disorders of large intestine
-## Reduction of stress reactions precise
-## Compensation of electrolyte loss in cases of heavy sweating
+## Compensation for Guidance chronic digestive should b e disorders of large provided on intestine the situations in which the use of the feed is appropriate and the manner in which the feed should be fed
+## Indicate on the package, container or label: "It is recommended t h a t a veterinarian''s opinion b e sought before use or before extending the period of use"
+## Reduction of stress Guidance shall reactions be provided on t h e precise situations in which the use of the feed is appropriate
+## Compensation of Guidance shall electrolyte loss in be provided on cases of heavy the situations sweating in which the use of the feed is appropriate
+## When the feed corresponds to a significant part of the daily ration, guidance should b e provided to prevent the risk of abrupt changes in the nature of the feed
+## Indicate on the instructions for u s e : " Wa t e r should b e available at all times"
 ## Guidance shall be provided on the situations in which the use of the feed is appropriate
 ## In the case of feedingstuffs specially presented to be given v i a tubing, indicate on the package, container or label: "Administra- t i o n u n d e r veterinary supervision"
 ## Guidance s i x should b e provided on the manner in which the feed should be fed including many small meals per day
 ## Indicate on the s i x package, container or label: "It is recommended t h a t a veterinarian's opinion b e sought before use or before extending the period of use."
-## Indicate in the instructions for u s e : " Wa t e r should b e available at all times."
-## use shall be two to four weeks.
-## - F.U.S." may complete the particular nutritional purpose.
-## "ingredient and nutrient".
-## pancreatic insufficiency".
+## use shall be two to four weeks. (4) In case of feedingstuffs for cats, "feline lower urinary tract disease" or "feline urological syndrome
+## - F.U.S." may complete the particular nutritional purpose. (5) In case of feedingstuffs for a particular intolerance reference to the specific intolerance can replace
+## "ingredient and nutrient". (6) The manufacturer may complete the particular nutritional purpose with the reference: "exocrine
+## pancreatic insufficiency". (7) The term "ketosis" may be replaced by "acetonaemia".
+## (8) The manufacturers may also recommend the use for ketosis recuperation.
+## (9) In the case of feedingtuffs for dairy cows.
+## (10) In the case of feedingstuffs for ewes.
+## (11) In case of feedingstuffs for dairy cows: "maximum two months from the start of lactation".
+## (12) Indicate the category of ruminants concerned.
 # schedule
 PART A
 General provisions
