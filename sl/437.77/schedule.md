@@ -11,13 +11,13 @@ The sample is subjected to extraction with chloroform. The extract is filtered, 
 3. Reagents
 NB: All the reagents must be of 'analytical reagent' quality unless otherwise stated.
 3.1. Acetone.
-3.2. Chloroform, stabilized with 0·5 to 1·0% of 96% ethanol (v/v).
+3.2. Chloroform, stabilized with 0ꞏ5 to 1ꞏ0% of 96% ethanol (v/v).
 3.3. N-hexane.
 3.4. Methanol.
 3.5. Anhydrous diethyl ether, free from peroxides.
 3.6. Mixture of benzene and acetonitrile: 98/2 (v/v).
 3.7. Mixture of chloroform (3.2) and methanol (3.4): 97/3 (v/v).
-3.8. Silica gel, for column chromatography, particle size 0·05 to 0·20 mm.
+3.8. Silica gel, for column chromatography, particle size 0ꞏ05 to 0ꞏ20 mm.
 3.9. Absorbent cotton wool, previously defatted with chloroform, or glass wool.
 3.10. Sodium sulphate, anhydrous, granular.
 3.11. Inert gas, e.g. nitrogen.
@@ -25,13 +25,13 @@ NB: All the reagents must be of 'analytical reagent' quality unless otherwise st
 3.13. 50% (v/v) sulphuric acid.
 3.14. Kieselguhr (hyflosupercel), washed in acid.
 3.15. Silica gel G-HR or equivalent, for TLC.
-3.16. Standard solution with about 0·1 µg of aflatoxin B1 per ml in chloroform (3.2) or the benzene/acetonitrile mixture (3.6), prepared and checked as indicated in Section 7.
-[S.L.427.77 OFFICIAL CONTROL OF FEEDINGSTUFFS 3
-3.17. Standard solution for qualitative testing purposes containing about 0·1 µg of aflatoxin B1 and B2 per ml in chloroform (3.2) or the benzene/acetonitrile mixture (3.6). These concentrations are given as a guide. They must be adjusted so as to obtain the same intensity of fluorescence for both aflatoxins.
+3.16. Standard solution with about 0ꞏ1 µg of aflatoxin B1 per ml in chloroform (3.2) or the benzene/acetonitrile mixture (3.6), prepared and checked as indicated in Section 7.
+[S.L.437.77 OFFICIAL CONTROL OF FEEDINGSTUFFS 3
+3.17. Standard solution for qualitative testing purposes containing about 0ꞏ1 µg of aflatoxin B1 and B2 per ml in chloroform (3.2) or the benzene/acetonitrile mixture (3.6). These concentrations are given as a guide. They must be adjusted so as to obtain the same intensity of fluorescence for both aflatoxins.
 3.18. Developing solvents:
 3.18.1. Chloroform (3.2)/acetone (3.1): 9/1 (v/v), unsaturated tank;
 3.18.2. Diethyl ether (3.5)/methanol (3.4)/water: 96/3/1 (v/v/v), unsaturated tank;
-3.18.3. Diethyl ether (3.5)/methanol (3.4)/water: 94/4·5/1·5 (v/v/v), saturated tank;
+3.18.3. Diethyl ether (3.5)/methanol (3.4)/water: 94/4ꞏ5/1ꞏ5 (v/v/v), saturated tank;
 3.18.4. Chloroform (3.2)/methanol (3.4): 94/6 (v/v), saturated tank;
 3.18.5. Chloroform (3.2)/methanol (3.4): 97/3 (v/v), saturated tank.
 4. Apparatus
@@ -42,7 +42,7 @@ NB: All the reagents must be of 'analytical reagent' quality unless otherwise st
 4.5. Rotary vacuum evaporator, with a 500-ml round-bottom flask.
 4.6. 500-ml conical flasks, with ground-glass stoppers.
 4.7. TLC apparatus.
-4.8. Glass plates for TLC, 200 × 200 mm, prepared as follows (the quantities indicated are sufficient to cover five plates). Put 30 g of silica gel G-HR (3.15) into a conical flask. Add 60 ml water, stopper and shake for a minute. Spread the suspension on the plates so as to obtain a uniform layer 0·25 mm thick. Leave to dry in the air and then store in a desiccator containing silica gel. At the time of use, activate the plates by keeping them in the oven at 110ºC for one hour.
+4.8. Glass plates for TLC, 200 × 200 mm, prepared as follows (the quantities indicated are sufficient to cover five plates). Put 30 g of silica gel G-HR (3.15) into a conical flask. Add 60 ml water, stopper and shake for a minute. Spread the suspension on the plates so as to obtain a uniform layer 0ꞏ25 mm thick. Leave to dry in the air and then store in a desiccator containing silica gel. At the time of use, activate the plates by keeping them in the oven at 110ºC for one hour.
 Ready-to-use plates are suitable if they give results similar to those obtained with the plates prepared as indicated above.
 4.9. Long-wavelength (360 nm) UV lamp. The intensity of irradiation must make it possible for a spot of 1 ng of aflatoxin B1 to be still clearly distinguished on a TLC plate at a distance of 10 cm from the lamp.
 4.10. 10 ml graduated tubes with polyethylene stoppers.
@@ -70,7 +70,7 @@ Develop the chromatogram in the dark with one of the developing solvents (3.18).
 Determine either visually or by fluorodensitometry as indicated below.
 5.5.1. Visual measurements
 Determine the quantity of aflatoxin B1 in the extract by matching the fluorescence intensity of the extract spots with that of one of the standard solution spots. Interpolate if necessary. The fluorescence obtained by the superimposition of the extract on the standard solution must be more intense than that of the 10 µl of extract and there must not be more than one visible spot. If the fluorescence intensity given by the 10 µl of extract is greater than that of the 40 µl of standard solution, dilute the
-[S.L.427.77 OFFICIAL CONTROL OF FEEDINGSTUFFS 5
+[S.L.437.77 OFFICIAL CONTROL OF FEEDINGSTUFFS 5
 extract 10 or 100 times with chloroform (3.2) or the benzene/acetonitrile mixture (3.6) before subjecting it again to thin-layer chromatography.
 5.5.2. Measurements by fluorodensitometry
 Measure the fluorescence intensity of the aflatoxin B1 spots with the fluorodensitometer (4.12) at an excitation wavelength of 365 nm and an emission wavelength of 443 nm. Determine the quantity of aflatoxin B1 in the extract spots by comparison of their fluorescence intensities with that of the standard aflatoxin B1 spots.
@@ -82,11 +82,11 @@ NB: The operations described below must be carried out following carefully the d
 5.6.2.1. Application of the solutions
 Score two straight lines on the plate (4.8) parallel to two contiguous sides (6 cm in from each side) to limit migration of the solvent fronts. Spot the following solutions on the plate using capillary pipettes or microsyringes:
 - on point A: a volume of purified extract of the sample, obtained in 5.3,
-containing about 2·5 nm of aflatoxin B1;
+containing about 2ꞏ5 nm of aflatoxin B1;
 - on points B and C: 25 µl of the standard solution (3.16).
 5.6.2.2. Development
 Develop the chromatogram indirection I, in the dark, using the developing solvent (3.18.1) (1 cm layer in an unsaturated tank) until the solvent front reaches the solvent limit line.
-Remove the plate from the tank and allow to dry in the dark at ambient temperature for five minutes. Then spray hydrochloric acid (3.12) along a band 2·5 cm high, covering points A and B (indicated by the hatched area in figure 3) until it darkens, protecting the rest of the plate with a glass sheet. Allow to react for 10 minutes in the dark and dry with a stream of air at ambient temperature.
+Remove the plate from the tank and allow to dry in the dark at ambient temperature for five minutes. Then spray hydrochloric acid (3.12) along a band 2ꞏ5 cm high, covering points A and B (indicated by the hatched area in figure 3) until it darkens, protecting the rest of the plate with a glass sheet. Allow to react for 10 minutes in the dark and dry with a stream of air at ambient temperature.
 Next, develop the chromatogram indirection II, in the dark, using the developing solvent (3.18.1) (1 cm layer in an unsaturated tank) until the solvent front reaches the solvent limit line. Remove the plate from the tank and allow to dry at ambient temperature.
 5.6.2.3. Interpretation of the chromatogram Examine the chromatogram under UV light (4.9) and check for the following features.
 (a) Appearance of a blue fluorescent spot of aflatoxin B1 originating from the standard solution applied at C (migration in the direction I).
@@ -114,12 +114,12 @@ W = weight in grammes of the sample corresponding to the volume of extract subje
 7. Preparation and testing of the standard solution (3.16)
 7.1. Determination of the concentration of aflatoxin B1
 Prepare a standard solution of aflatoxin B1 in the chloroform (3.2) or the benzene/ acetonitrile mixture (3.6) with a concentration of 8 to 10 µg/ml. Determine the absorption spectrum between 330 and 370 nm with the aid of the spectrophotometer (4.11).
-[S.L.427.77 OFFICIAL CONTROL OF FEEDINGSTUFFS 7
+[S.L.437.77 OFFICIAL CONTROL OF FEEDINGSTUFFS 7
 Measure the optical density (A) at 363 nm in the case of the chloroform solution[ or at 348 nm in the case of the solution in the benzene/acetonitrile mixture.
 Calculate the concentration in micrograms of aflatoxin B1 per ml of solution from the formulae below:
 312 • A • 1000 for the chloroform solution; 20600
 312 • A • 1000 for the solution in the benzene/acetonitrile mixture. 19800
-Dilute as appropriate, away from day light, to obtain a working standard solution with a concentration of aflatoxin B1 of about 0·1 µg/ml. If kept in a refrigerator at 4ºC, this solution is stable for two weeks.
+Dilute as appropriate, away from day light, to obtain a working standard solution with a concentration of aflatoxin B1 of about 0ꞏ1 µg/ml. If kept in a refrigerator at 4ºC, this solution is stable for two weeks.
 7.2. Testing of chromatographic purity
 Spot on a plate (4.8) 5 µl of the standard solution of aflatoxin B1 containing 8 to 10 µg/ml (7.1). Develop the chromatogram as indicated in 5.4. In UV light the chromatogram should show only one spot and no fluorescence must be perceptible in the original deposit zone.
 8. Repeatability
@@ -164,7 +164,7 @@ NB: Use alcid-washed glassware for preparation of these solutions (see 4, Appara
 3.13.1. Calibration solution 4 ng/ml.
 Allow the volumetric flask with stock standard solution (3.12.1) to warm up to room temperature in the aluminium foil (a few hours). Transfer 400 µl of the stock standard solution (200 ng aflatoxin B1) into a 50 ml volumetric flask, and evaporate the solution to dryness in a current of inet gas (3.11).
 Dissolve the residue obtained in approximately 20 ml of water/acetone mixture
-[S.L.427.77 OFFICIAL CONTROL OF FEEDINGSTUFFS 9
+[S.L.437.77 OFFICIAL CONTROL OF FEEDINGSTUFFS 9
 (3.5.3), make up to the mark with the water/acetone mixture and mix well.
 3.13.2. Calibrationsolution 3 ng/ml.
 Transfer quantitatively 7,5 ml of the calibration solution (3.13.1) into a 10 ml volumetric flask, make up to the mark with the water/acetone mixture (3.5.3), and mix well.
@@ -215,7 +215,7 @@ Grind the sample so that it passes through the sieve (4.2).
 Weigh 50 g of the prepared test sample into the conical flask (4.16).
 5.3. Extraction
 Add 25 g of Celite (3.8), 250 ml of chloroform (3.1) and 25 ml of water to the test
-[S.L.427.77 OFFICIAL CONTROL OF FEEDINGSTUFFS 11
+[S.L.437.77 OFFICIAL CONTROL OF FEEDINGSTUFFS 11
 portion (5.2). Stopper the flask, and shake for 30 minutes on a mechanical shaker (4.3). Filter through a fluted filter paper (4.14). Collect 50 ml of the filtrate. If necessary, take an aliquot of the filtrate and dilute to 50 ml with chloroform so that the concentration of aflatoxin B1 is not greater than 4 ng/ml.
 5.4. Clean-up (the procedure should be carried out without significant interruptions).
 Caution:
@@ -254,7 +254,7 @@ Set the HPLC pump (4.5) to give a flow of 0,5 or 0,3 ml/min for a 5 µm or a 3 �
 Set the pump (4.7) to give a flow of 0,2 to 0,4 ml/min of the iodine-saturated water solution (3.7). As a rough guide: Flows of approximately 0,4 or 0,2 ml/min are advisable in combination with flows of 0,5 and 0,3 ml/min of the mobile phase (3.6) respectively.
 5.5.3. Fluorescence detector
 Set the fluorescence detector (4,11) to exc. = 365 nm and em = 435 nm (filter instrument; > 400 nm). Adjust the detector attenuator to obtain approximately 80% full scale deflection of the recorder pen for 1 ng of aflatoxin B1.
-[S.L.427.77 OFFICIAL CONTROL OF FEEDINGSTUFFS 13
+[S.L.437.77 OFFICIAL CONTROL OF FEEDINGSTUFFS 13
 5.5.4. Injector
 For all solutions, inject 250 µl amounts following the instructions of the manufacturer of the injector.
 5.5.5. Check of chromatographic separation
@@ -304,7 +304,7 @@ Table 1
 Repeatability (r) and reproducibility (R) expressed as ratios
 and corresponding coefficients of variation
 (15 laboratories)
-[S.L.427.77 OFFICIAL CONTROL OF FEEDINGSTUFFS 15
+[S.L.437.77 OFFICIAL CONTROL OF FEEDINGSTUFFS 15
 Level r R CVr (*) CVR (µg/kg) (%) (%) 8 & 14 1,4 1,7 11 18
 (*) CV = coefficient of variation
 10.2. Stabilization of chloroform (3.1)
@@ -320,7 +320,7 @@ C. OBSERVATIONS CONCERNING METHODS A AND B
 1. Defatting
 Samples containing more than 5% fats must be defatted with light petroleum (bp 40 to 60 degrees C) after the preparations indicated in 5.1.
 In such cases, the analytical results must be expressed in terms of the weight of the non-defatted sample.
-[S.L.427.77 OFFICIAL CONTROL OF FEEDINGSTUFFS 17
+[S.L.437.77 OFFICIAL CONTROL OF FEEDINGSTUFFS 17
 2. Reproducibility of the results for Method A
 The reproducibility of the results, i.e. the variation between the results obtained by two or more laboratories on the same sample has been estimated at:
 ± 50% of the mean value for mean values of aflatoxin B, from 10 and up to 20 mg/kg;
@@ -330,6 +330,6 @@ Appendix to Annex
 Figure 1
 [S.L.437.77 18 OFFICIAL CONTROL OF FEEDINGSTUFFS
 Figure 2
-[S.L.427.77 OFFICIAL CONTROL OF FEEDINGSTUFFS 19
+[S.L.437.77 OFFICIAL CONTROL OF FEEDINGSTUFFS 19
 Figure 3
 - Amended by: L.N. 62 of 2006.
