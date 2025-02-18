@@ -1,22 +1,23 @@
 ## SCHEDULE I
 ## * Table WHO TEFs for human risk assessment based on the conclusions of the World Health Organisation meeting in Stockholm, Sweden, 15 to 18 June 1997 (Van den Berg et al., (1998) Toxic Equivalency Factors
 ## (TEFs) for PCBs, PCDDs, PCDFs for Humans and for Wildlife. Environmental Health Perspectives, 106(12), 775).
-## Congener
+## Congener TEF value
 ## Dibenzo-p-dioxins (PCDDs)
 ## 2,3,7,8-TCDD
-## 1,2,3,7,8-PeCDD
-## 1,2,3,4,7,8-HxCDD
-## 1,2,3,6,7,8-HxCDD
-## 1,2,3,7,8,9-HxCDD
+## 1,2,3,7,8-PeCDD 0,0001
+## 1,2,3,4,7,8-HxCDD 0,0001
+## 1,2,3,6,7,8-HxCDD 0,1
+## 1,2,3,7,8,9-HxCDD 0,01
 ## 1,2,3,4,6,7,8-HpCDD
 ## OCDD
-## Dibenzofurans (PCDFs)
-## 2,3,7,8-TCDF
-## 1,2,3,7,8-PeCDF
-## 2,3,4,7,8-PeCDF
-## 1,2,3,4,7,8-HxCDF
-## 1,2,3,6,7,8-HxCDF
-## 1,2,3,7,8,9-HxCDF
+## 0,0001
+## Dibenzofurans (PCDFs) 0,0005
+## 2,3,7,8-TCDF 0,0001
+## 1,2,3,7,8-PeCDF 0,0001
+## 2,3,4,7,8-PeCDF 0,0005
+## 1,2,3,4,7,8-HxCDF 0,0005
+## 1,2,3,6,7,8-HxCDF 0,00001
+## 1,2,3,7,8,9-HxCDF 0,0001
 ## 2,3,4,6,7,8-HxCDF
 ## 1,2,3,4,6,7,8-HpCDF
 ## 1,2,3,4,7,8,9-HpCDF
