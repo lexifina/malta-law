@@ -1,4 +1,4 @@
 SUBSIDIARY LEGISLATION 601.03
 PUBLIC PROCUREMENT REGULATIONS
 28th October, 2016
-LEGAL NOTICE 352 of 2016, as amended by Legal Notices 155 of 2017, 233 of 2017, 26 of 2018, 176 of 2018, 263 of 2018 and 195 and 301 of 2019 and 196, 413 and 446 of 2020, 56 of 2021 26 and 360 of 2022, 212 and 227 of 2023 and 112 of 2024; Act XXVIII of 2018, XXI of 2020 and X of 2023 and XVII of 2024 and Legal Notice 361 of 2024.
+LEGAL NOTICE 352 of 2016, as amended by Legal Notices 155 of 2017, 233 of 2017, 26 of 2018, 176 of 2018, 263 of 2018 and 195 and 301 of 2019 and 196, 413 and 446 of 2020, 56 of 2021 26 and 360 of 2022, 212 and 227 of 2023 and 112 of 2024; Act XXVIII of 2018, XXI of 2020 and X of 2023 and XVII of 2024 and Legal Notices 361 of 2024 and 47 of 2025.
