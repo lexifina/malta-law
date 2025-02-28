@@ -1,14 +1,18 @@
-## approval of the House signified by resolution.
 ## SCHEDULE
 # schedule
 [Article 5(1)(c)]
-1. The members of the Council residing abroad appointed by the Prime Minister shall be ordinary residents living in the following states or countries and two members shall be selected from amongst persons living in each of the following countries or states:
+1. There shall be appointed two (2) overseas members, as defined under article 5(1)(c), from each of the following countries and, or geographic areas:
 (a) the State of Victoria in the Commonwealth of Australia;
 (b) the State of New South Wales in the Commonwealth of Australia;
-(c) The United States of America.
-And one member shall be selected from amongst persons living in each of the following countries:
-(a) United Kingdom; and
-(b) any state of the Commonwealth of Australia (other than Victoria and New South Wales );
-(c) Canada; and
-(d) Members states of the European Union other than Malta and the United Kingdom.
-2. In choosing overseas members to the Council due consideration shall be given to the opinions, suggestions, recommendations and advice of, where applicable, federations of Maltese associations, Maltese community councils and the associations most representative of communities of Maltese living abroad.
+(c) the United States of America;
+(d) Canada; and
+(e) Europe, but not resident in Malta.
+2. There shall be appointed one (1) overseas member, as defined under article 5(1)(c), from each of the following countries and, or geographic areas:
+(a) United Kingdom;
+(b) any geographic area in the Commonwealth of Australia not referred
+to in item 1 of this Schedule, New Zealand or Oceania;
+(c) United Arab Emirates;
+(d) North Africa or the Republic of South Africa;
+(e) Asia;
+(f) South or Central America.
+3. When choosing overseas members, due consideration shall be given to the opinions, suggestions, recommendations and advice of, where applicable, federations of associations, community councils and the associations most representative of the interests of communities of Maltese living abroad.
