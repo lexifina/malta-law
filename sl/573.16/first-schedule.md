@@ -1,9 +1,9 @@
 ## FIRST SCHEDULE
 # first-schedule
-Classes of properties established in the Development Planning (Use Classes) Order recognised as commercial properties for the purposes of these regulations:
+Classes of properties established in the Development Planning
+(Use Classes) Order recognised as commercial properties for the purposes of these regulations:
 (a) Class 2B - Non Residential Institutions
-(b) Class 2C - Education CONCESSION TO THE EMPHYTEUTA, TENANT OR
-OPERATOR OF GOVERNMENT-OWNED COMMERCIAL [S.L. 573.16 8 PROPERTY
+(b) Class 2C - Education
 (c) Class 3A - Guest Houses, Palazzini, Boutique
 Tourism Accommodation and Hostels
 (d) Class 3B - Hotels
@@ -16,8 +16,10 @@ no cooking is allowed
 cooking is allowed
 (i) Class 5A -Light Industry
 (j) Class 6A - Storage and Distribution
-The uses listed hereunder, being in accordance with regulation 4
-of the Development Planning (Use Classes) Order shall also be considered as commercial properties for the purposes of these regulations:
+CONCESSION TO THE EMPHYTEUTA, TENANT OR
+OPERATOR OF GOVERNMENT-OWNED COMMERCIAL
+[S.L. 573.16 PROPERTY 9
+The uses listed hereunder, being in accordance with regulation 4 of the Development Planning (Use Classes) Order shall also be considered as commercial properties for the purposes of these regulations:
 (a) amusement arcade or centre;
 (b) dance or wedding hall;
 (c) discoteque or similar places of assembly;
@@ -26,16 +28,12 @@ service garage, sale or display of motor vehicle;
 (e) diving schools and, or acqua lung fillers;
 (f) food takeaways, including pastizzeria;
 (g) washing or cleaning of clothes or fabrics in coin
-or credit operated machines or on premises at which the goods
-to be cleaned are received direct from the public;
+or credit operated machines or on premises at which the goods to be cleaned are received direct from the public;
 (h) bakery;
 (i) conference or public assembly centre;
 (j) supermarkets;
 (k) bingo halls, casino, gaming shops, betting shops
 (excluding lotto offices);
-CONCESSION TO THE EMPHYTEUTA, TENANT OR
-OPERATOR OF GOVERNMENT-OWNED COMMERCIAL
-[S.L. 573.16 PROPERTY 9
 (l) retail outlets selling fire arms.
 - See S.L. 552.15.
 - See S.L. 552.15.
