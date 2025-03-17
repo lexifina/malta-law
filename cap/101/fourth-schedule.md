@@ -57,7 +57,8 @@ persons or has sought to supply drugs to minors;
 • that others, especially children and non-users were present when the
 accused committed the offence.
 The following amounts involved in the offence, when the said amounts are known, can be taken as indicative that a person should not be referred for trial before the Criminal Court:
-• heroin and cocaine: less than 100 grams
-• cannabis: less than 300 grams
+• heroin and cocaine: less than 200 grams
+• cannabis: less than a kilo
 Assistance which the accused may have rendered to the Police or to the prosecution may also be taken into account.
 - Added by: XXIV. 2014.90; LXVI. 2021.25.
+- Amended by: VII.2025.8.

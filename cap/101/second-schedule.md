@@ -1,6 +1,6 @@
 ## SECOND SCHEDULE
-## *Strike out words not applicable. † Strike out words not applicable.
-## *Insert name and full postal address of importer. †Insert name and full postal address of exporter.
+## *Insert name, address and business of importer. *Insert exact description and amount of drugs to be imported. †Insert name and address of firm in exporting country from which the drug is to be obtained. ‡Strike out words not applicable.
+## *Strike out words not applicable. †Insert name and full postal address of importer. ‡Insert name and full postal address of exporter.
 ## Signature and stamp of Comptroller of Customs
 # second-schedule
 FORM A
@@ -11,14 +11,14 @@ Import Certificate issued by the Serial No....................
 Government of Malta File No . ..................
 CERTIFICATE OF OFFICIAL APPROVAL OF IMPORT
 I, being the person charged with the administration of the law relating to dangerous drugs to which the Single Convention 1961 applies, hereby certify that I have approved the importation by*
-of †
-from‡
+of *
+from†
 subject to the conditions that -
 (i) the consignment shall be imported before the
 (ii) the consignment shall be imported in one consignment; and
 (iii) if the importation of all the drugs specified above is not effected before the date specified in condition No. (i) this authorization shall be surrendered forthwith to the Chief Government Medical Officer
 and that I am satisfied that the consignment proposed to be imported is required -
-*for legitimate purposes (in the case of raw opium or (1) the coca leaf).
+‡for legitimate purposes (in the case of raw opium or (1) the coca leaf).
 §solely for medicinal or scientific purposes (in the (2) case of dangerous drugs other than raw opium and coca leaf).
 (Date).............................
 (Signature and stamp of the
@@ -35,7 +35,7 @@ EXPORT AUTHORIZATION
 In pursuance of the Dangerous Drugs Ordinance (Chapter 101), the Chief Government Medical Officer hereby authorizes
 (hereinafter called "the exporter")
 to export from -
-(1) † the port of by s. s.
+(1) * the port of by s. s.
 (2) * Malta by Parcel Post in parcels from the to in virtue of import Certificate No. dated issued by the following drugs, namely:
 This authorization is issued subject to the following conditions:
 1. This authorization is not a licence to obtain or to be in possession of the drugs named herein.
@@ -64,8 +64,8 @@ DANGEROUS DRUGS ORDINANCE
 Authorization No .................
 File No .................
 IMPORT AUTHORIZATION
-In pursuance of the Dangerous Drugs Ordinance (Chapter 101) (hereinafter called "the Ordinance"), the Chief Government Medical Officer hereby authorizes *
-(hereinafter called "the importer") to import the drugs specified in the Schedule hereto, from†
+In pursuance of the Dangerous Drugs Ordinance (Chapter 101) (hereinafter called "the Ordinance"), the Chief Government Medical Officer hereby authorizes †
+(hereinafter called "the importer") to import the drugs specified in the Schedule hereto, from‡
 This authorization is issued subject to the following conditions:
 1. The drugs shall be imported before (date)
 2. This authorization is not a licence to be in possession of or to supply the drug imported.
@@ -123,7 +123,8 @@ Number and date of import certificate
 (and authority by whom issued) by virtue of
 which this diversion is authorized ...............................
 Name of vessel on which the consignment
-is authorized to be carried from Malta ............................... Period within which the consignment is
+is authorized to be carried from Malta ...............................
+Period within which the consignment is
 to be carried from Malta ...............................
 This certificate is issued subject to the following conditions:
 (1) The duplicate copy of this certificate shall accompany the consignment to the place of destination, and for this purpose shall be delivered to the master of the vessel by which the consignment is despatched.

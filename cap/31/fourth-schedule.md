@@ -64,9 +64,9 @@ vulnerable persons or has sought to supply drugs to minors;
 • that others, especially children and non-users were
 present when the accused committed the offence.
 The following amounts involved in the offence, when the said amounts are known, can be taken as indicative that a person should not be referred for trial before the Criminal Court:
-ecstasy: less than 300 tablets
+ecstasy: less than 500 pills
 LSD: less than 300 squares
 amphetamine: less than 300 grams
 ketamine: less than 150 grams.
 Any assistance which the accused may have rendered to the Police or to the prosecution may also be taken into account.
-- Added by: XXIV. 2014.78.
+- Added by: XXIV. 2014.78; VII.2025.5.
