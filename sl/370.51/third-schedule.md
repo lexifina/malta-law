@@ -2,20 +2,19 @@
 # third-schedule
 (regulation 8)
 Prospectus Fees
-Document Fee (€) Article 6 of the Prospectus Regulation Registration document 3,500
-Article 9 of the Prospectus Regulation Universal registration
+Document Fee (€) Article 6 of the Prospectus Regulation Registration document 3,500 Article 9 of the Prospectus Regulation Universal registration
 15,000
-document Article 18 of the Prospectus Regulation Registration document
+document Article 14 of the Prospectus Regulation Registration document
 3,250
 for secondary issuances Article 15 of the Prospectus Regulation Registration document
 for EU growth 3,250 prospectus Article 6 of the Prospectus Regulation Securities note 3,500
-Article 18 of the Prospectus Regulation Securities note for
+Article 14 of the Prospectus Regulation Securities note for
 3,250
 secondary issuances Article 15 of the Prospectus Regulation Securities note for EU
 3,250
 growth prospectus Article 6 of the Prospectus Regulation / Prospectus/
 7,000 Article 8 of the Prospectus Regulation Base prospectus
-Article 18 of the Prospectus Regulation Prospectus/Base
+Article 14 of the Prospectus Regulation Prospectus/Base
 prospectus for 6,500 secondary issuances Article 15 of the Prospectus Regulation EU growth prospectus/
 6,500
 Base prospectus Article 23 of the Prospectus Regulation Supplement 1,500
@@ -33,3 +32,4 @@ Listing Fees
 Securities to be listed Fee (€)
 Equity securities 15,000
 Collective investment schemes 2,000
+- Amended by: L.N. 64 of 2025.
