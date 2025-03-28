@@ -13,21 +13,21 @@ Fees falling due in Fees falling due in Fees falling due in
 (f) referred to in regulation 3(2) 19,000 22,500 26,500
 7,500 7,500 7,500 Collective investment schemes:
 (a) UCITS and Retail AIFs
-(i) fund application fee: - managed by a third party 3,750 4,500 5,250 - self-managed 5,000 5,750 6,500
+(i) scheme application fee: - managed by a third party 3,750 4,500 5,250 - self-managed 5,000 5,750 6,500
 (ii) sub-fund application fee - first five sub-funds 1,000 1,000 1,000 - every additional sub-fund following the first five sub-funds 600 600 600
 (b) Professional Investor Funds
-(i) fund application fee: - managed by a third party 2,250 3,000 3,750 - self-managed 3,000 3,750 4,500
+(i) scheme application fee: - managed by a third party 2,250 3,000 3,750 - self-managed 3,000 3,750 4,500
 (ii) sub-fund application fee - first five sub-funds 750 750 750 - every additional sub-fund following the first five sub-funds 315 315 315
 (c) Alternative Investment Funds
-(i) fund application fee: - managed by a third party 3,750 4,500 5,250 - self-managed 5,000 5,750 6,500
+(i) scheme application fee: - managed by a third party 3,750 4,500 5,250 - self-managed 5,000 5,750 6,500
 (ii) sub-fund application fee - first five sub-funds 1,000 1,000 1,000 - every additional sub-fund following the first five sub-funds 600 600 600 Provision of administrative services:
 (a) persons providing administrative services, other than recognised incorporated cell companies 4,500 8,000 11,000
 (b) recognised incorporated cell companies 3,000 3,000 3,000 Private collective investment schemes 2,000 2,000 2,000 Tied agents:
 (a) individuals 300 300 300
 (b) non-individuals 350 350 350 Notified AIFs:
-(a) fund application fee 2,250 2,625 3,000
+(a) scheme application fee 2,250 2,625 3,000
 (b) sub-fund application fee 750 750 750 Notified PIFs:
-(a) fund application fee 2,000 2,375 2,750
+(a) scheme application fee 2,000 2,375 2,750
 (b) sub-fund application fee 750 750 750
 Notification Fees
 European investment firms, establishing a branch in Malta, that are licensed to provide the investment services:
