@@ -1,12 +1,21 @@
 ## SCHEDULE
-## Amendment or revocation of
-## the amount indicated, as the case may be, shall be imposed.
 # schedule
 Schedule of payments and administrative penalties
-(regulation 6)
+(regulations 6 and 8)
 Table A
-Site Area (Footprint) 1m² - 300m² 301m² - 600m² 601m² - 900m² 901m² - 1201m² -
-1200m² 1500m²
-€2,500 €5,000 €7,500 €10,000 €12,500
-€5,000 €10,000 €15,000 €20,000 €25,000
-€10,000 €20,000 €30,000 €40,000 €50,000
+1m² - 301m² - 601m² - 901m² - 1201m² -
+Site Area (Footprint) 300m² 600m² 900m² 1200m² 1500m²
+Amendment or revocation
+€2,500 €5,000 €7,500 €10,000 €12,500 of a minor condition
+Amendment or revocation
+€5,000 €10,000 €15,000 €20,000 €25,000 of a medium condition
+Amendment or revocation
+€10,000 €20,000 €30,000 €40,000 €50,000 of a major condition
+Notes:
+IMPOSED IN A CONTRACT OF A PROPERTY
+TRANSFERRED BY THE GOVERNMENT, THE LANDS
+AUTHORITY OR ECCLESIASTICAL ENTITIES BY MEANS
+[S.L. 573.17 8 OF A SALE OR EMPHYTEUSIS
+1. In case of breach of a condition in a contract, an administrative penalty equivalent to 25% of the amount indicated, as the case may be, shall be imposed, in accordance with the provisions of regulation 8.
+2. If the condition in a contract resulting from a tender or, an auction for an emphyteutical grant which had already been published in the Gazette by the Commissioner of Lands, the fee shall be in accordance with the amount indicated in Table A, with an additional hundred per cent (100%) of the applicable amount in accordance with the provisions of regulation 6.
+3. In case of breach of a condition in a contract resulting from a tender or, an auction for an emphyteutical grant which had already been published in the Gazette by the Commissioner of Lands, an administrative penalty equivalent to 25% of the amount indicated in note number 2, shall be imposed in accordance with the provisions of regulation 8.
