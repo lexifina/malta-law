@@ -50,3 +50,4 @@ Provided that, in the case of applications for the discharge of permitted roofto
 (e) In all cases, the times of firing shall be clearly indicated in the application and permits shall be strictly enforced.
 (f) An application for Police attendance (on payment) for the conveyance of fireworks shall invariably be demanded.
 (g) All departures from permits shall be reported to the Commissioner of Police immediately by telephone message and in writing. All offenders shall be charged without fail.
+- Amended by: L.N. 177 of 2010; L.N. 315 of 2010; L.N. 47 of 2011; L.N. 205 of 2014; L.N. 476 of 2020.

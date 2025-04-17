@@ -25,3 +25,4 @@ D. Distances for the letting off of fireworks
 (c) To be discharged from at least 150 metres distance from an inhabited area or public streets used regularly by motor vehicles - maroons not exceeding 7.6cms in diameter and 7.6cms in length; also coloured, whistles or cracker shells (kaxxi tal-bombi, kuluri, beraq u sfafar), all not exceeding 7.6 cm in diameter and in length, as well as single break and single shot shells (excluding maroons) up to a maximum width and height of 15cms not arranged as a battery.
 (d) To be discharged from at least 200 metres distance from an inhabited area or public streets used regularly by motor vehicles - all other types of fireworks.
 (e) Rooftop and terrace fireworks may be let off from the distances stipulated in paragraphs (a) to (d).
+- Amended by: L.N. 125 of 1999; L.N. 177 of 2010; L.N. 315 of 2010; L.N. 205 of 2014; L.N. 264 of 2019.
