@@ -46,12 +46,3 @@ Manufactured tobacco which is solely intended for scientific tests and for tests
 Manufactured tobacco which is reworked by the producer Tobacco products to be sold for immediate consumption on board ships or aircraft travelling to another EU country.
 Tobacco products used by the armed forces of any Member State, other than Malta, for the use of those forces, for the civilian staff accompanying them or for supplying their messes or canteens when such forces take part in a defence effort carried out for the implementation of a Union activity under the common security and defence policy.
 COMMON PARTIAL THRESHOLD The common partial loss threshold for manufactured tobacco, falling within the scope of Council Directive 2011/64/EU, is 0 %.
-- Amended by: VII. 1997.3.
-- Substituted by: XXV. 1997.5.
-- Amended by: IV. 1998.3; V. 1999.3; VII. 2000.2.
-- Substituted by: IX. 2001.9.
-- Amended by: II. 2002.27; II. 2003.50.
-- Substituted by: II. 2004.57; II. 2005.38.
-- Amended by: L.N. 118 of 2006.
-- Substituted by: L.N. 425 of 2007.
-- Amended by: II. 2009.34; I. 2010.64; IV. 2011.69; V. 2012.52; III. 2013.65; XII. 2014.72; XIII. 2015.137; XV. 2016.36; XVI. 2017.69; L.N. 177 of 2022; L.N. 50 of 2023; IX.2025.57.

@@ -20,8 +20,8 @@ supplier within the chain other than the first supplier in the chain who dispatc
 Provided further that where a taxable person is deemed to
 have received and supplied goods in accordance with item 12A of the Second Schedule, the dispatch or transport of the goods shall
 be ascribed to the supply made by that taxable person;
-(c) when the transport of goods begins outside the Community and ends in a Member State the supply of those goods by the importer and any
-subsequent supply up to the acquisition of those goods takes place in the Member State where they are imported.
+(c) when the transport of goods begins outside the Community and ends in
+a Member State the supply of those goods by the importer and any subsequent supply up to the acquisition of those goods takes place in the Member State where they are imported.
 Goods installed or assembled
 2. A supply of goods that are installed or assembled, with or without a trial run, by or on behalf of the supplier takes place where the goods are installed or assembled.
 Goods supplied on board ships, aircraft or trains
@@ -55,7 +55,7 @@ paragraph (iii) of paragraph (a) is exceeded, paragraph (a) of sub-item
 (3) shall apply as of that time.
 (c) The Commissioner shall grant to those taxable persons providing
 supplies eligible under paragraph (a) the right to opt for the place of supply to be determined in accordance with paragraph (a) of sub-item
-(3) and sub-item (1) of item 10 of Part Two of this Schedule, which shall in any event cover two (2) calendar years:
+(3), which shall in any event cover two (2) calendar years:
 Provided that, a valid election for this purpose shall be made by
 means of a notice in writing to the Commissioner on a form acceptable to the Commissioner specifying the date from which it shall apply, not being earlier than thirty (30) days from the date on which it is furnished.
 Supplies of gas through a natural gas system, of electricity and of heat or cooling energy through heating and cooling networks
@@ -118,7 +118,7 @@ Where the supplier of a service and the customer communicate via electronic mail
 (b) services are supplied to non-taxable persons who are established, or have their permanent address or usually reside in any Member State other than the Member State referred to in paragraph (a); and
 (c) the total value, exclusive of VAT, of the supplies referred to in paragraph (b), together with the total value of the supplies referred to sub-paragraph (ii) of paragraph (a) of sub-item (5) of item 4 of Part One of this Schedule does not in the current calendar year exceed ten-thousand euro (€10,000) nor did it do so in the course of the preceding calendar year.
 (3) Where, during a calendar year, the threshold referred to in paragraph (c) of sub-item (2) is exceeded, sub-item (1) shall apply as of that time.
-(4) The Commissioner shall grant to those taxable persons providing supplies eligible under sub-item (2) the right to opt for the place of supply to be determined in accordance with sub-item (1) and paragraph (a) of sub-item (3) of item 4 of Part One of this Schedule, which shall in any event cover two (2) calendar years:
+(4) The Commissioner shall grant to those taxable persons providing supplies eligible under sub-item (2) the right to opt for the place of supply to be determined in accordance with sub-item (1), which shall in any event cover two (2) calendar years:
 Provided that, a valid election for this purpose shall be made by means of a notice in writing to the Commissioner on a form acceptable to the Commissioner specifying the date from which it shall apply, not being earlier than thirty (30) days from the date on which it is furnished.
 Supply of services to non-taxable persons outside the Community
 11. The place of supply of the following services to a non-taxable person who is established or has his permanent address or usually resides outside the Community, shall be the place where that person is established, has his permanent address or usually resides:
@@ -161,4 +161,4 @@ Importations
 - Substituted by: X. 2003.47.
 - Amended by: L.N. 124 of 2007; L.N. 444 of 2007.
 - Substituted by: L.N. 133 of 2009.
-- Amended by: L.N. 533 of 2010; L.N. 297 of 2018; L.N. 250 of 2019; L.N. 220 of 2020; L.N. 344 of 2024.
+- Amended by: L.N. 533 of 2010; L.N. 297 of 2018; L.N. 250 of 2019; L.N. 220 of 2020; L.N. 344 of 2024; IX.2025.73.

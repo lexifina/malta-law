@@ -26,11 +26,13 @@ Sickness Assistance
 furniture, jewellery or other personal effects:
 Provided that where the cash at bank and in hand (including liquid assets, time deposits, bonds, stocks, shares and other securities), cash settled in any trust and the capital value of any urban immovable property including any settlement of such property in trust (excluding the house of residence) which is not being
 put to profitable use, together exceed:
-(i) €14,000 in the case of a household consisting of one member only or of a number of members headed by a single person or a single parent; or
-(ii) €23,300 in the case of a household consisting of at least the head of household and the spouse of
+(i) €16,000 in the case of a household consisting of one member only or of a number of members headed by a single person or a single parent; or
+(ii) €26,000 in the case of a household consisting of at least the head of household and the spouse of
 such head of household,
-the person claiming Sickness Assistance shall not be deemed to be entitled to such assistance:
-Provided further that, with effect from 1st January 2024, in the case of a person who has been in receipt of Sickness Assistance in accordance with the provisions of article 20 for a period of five (5) years or more and who comes into possession of other property or assets through inheritance, in lieu of the limits laid down in the first proviso, shall instead be taken in the calculation of the capital means the amount of thirty thousand euro (€30,000) in the case of a single or widowed person, or the amount of fifty thousand euro (€50,000) in the case of a married person. So however that, when calculating the capital means in such cases, no account shall be taken of:
+the person claiming Sickness Assistance shall not be
+deemed to be entitled to such assistance:
+Provided further that, with effect from 1st January 2024, in the case of a person who has been in receipt
+of Sickness Assistance in accordance with the provisions of article 20 for a period of five (5) years or more and who comes into possession of other property or assets through inheritance, in lieu of the limits laid down in the first proviso, shall instead be taken in the calculation of the capital means the amount of thirty thousand euro (€30,000) in the case of a single or widowed person, or the amount of fifty thousand euro (€50,000) in the case of a married person. So however that, when calculating the capital means in such cases, no account shall be taken of:
 (a) a donation of a property by the beneficiary
 of the Sickness Assistance to a son or daughter, provided that such property is being donated to the son or daughter in order for the son or daughter to form his or her future house of residence;
 (b) a donation of part of the house of residence
@@ -38,8 +40,7 @@ of the Sickness Assistance beneficiary to the son or daughter including the spac
 (c) a donation of up to a maximum of twenty
 thousand euro (€20,000) to the son or daughter by the beneficiary of the Sickness Assistance, provided such donation is made in accordance with the provisions of the laws of Malta; and
 (b) save as provided for in paragraph 4 of this Part, of any income or privilege which is, or could be received or enjoyed by any member of the household including any entitlement of such member to benefit under a trust or in whose favour a discretion to distribute property, including income or privilege, held in trust may be exercised who is neither an employed person nor a self-employed or self-occupied person in terms of this Act:
-Provided that any such property or income that has to be taken into account for the purposes of this Part, in accordance with the foregoing provisions of this paragraph, shall include any property or income which any member of the household as aforesaid in this Part had directly or indirectly deprived himself of in order to become entitled to Sickness Assistance or to
-become so entitled at a more advantageous rate:
+Provided that any such property or income that has to be taken into account for the purposes of this Part, in accordance with the foregoing provisions of this paragraph, shall include any property or income which any member of the household as aforesaid in this Part had directly or indirectly deprived himself of in order to become entitled to Sickness Assistance or to become so entitled at a more advantageous rate:
 Provided further that where a member, not being the head of household and the spouse of such head of household, is an employed person or a self-employed or self-occupied person, and his gross wage or gross income, as the case may be, does not exceed 35% of the National Minimum Wage as is applicable to persons of eighteen years of age or over established by a National Standard Order issued under the Employment and Industrial Relations Act during the period in respect of which such assistance is due, such a member shall, for the purposes of this paragraph, not be deemed to be an employed person or a self-
 employed or self-occupied person.
 2. Where the total capital resources referred to in paragraph 1(a) of this Part do not exceed the limit laid down therein:
@@ -73,13 +74,12 @@ Free Medical Aid
 (a) save as provided for in paragraph 3 of this Part, of the value of any property including any settlement of property in trust (excluding the house of residence) belonging to all the members of the household which is, or could be, invested or put to profitable use excluding furniture, jewellery or other personal effects:
 Provided that where the cash at bank and in hand (including liquid assets, time deposits, bonds, stocks, shares and other securities), cash settled in any trust and the capital value of any urban immovable property including any settlement of property in trust (excluding the house of residence) which is not being
 put to profitable use, together exceed:
-(i) €14,000 in the case of a household consisting of one member only, or a number of members headed by a single person or a single parent; or
-(ii) €23,300 in the case of a household consisting of at least the head of household and the spouse of
+(i) €16,000 in the case of a household consisting of one member only, or a number of members headed by a single person or a single parent; or
+(ii) €26,000 in the case of a household consisting of at least the head of household and the spouse of
 such head of household,
 the person claiming Free Medical Aid shall not be
 deemed to be entitled to such aid; and
-(b) save as provided for in paragraph 4 of this Part, of any income or privilege which is, or could be, received or enjoyed by any member of the household including any entitlement of a member of the household to benefit under a trust or in whose favour a discretion to distribute property, including income or privilege, held in trust may be exercised:
-Provided that any such property or income that has to be taken into account for the purposes of this Part in accordance with the foregoing provisions of this paragraph shall include any property or income which any member of the household had directly or indirectly deprived himself of in order to become entitled to Free Medical Aid.
+(b) save as provided for in paragraph 4 of this Part, of any income or privilege which is, or could be, received or enjoyed by any member of the household including any entitlement of a member of the household to benefit under a trust or in whose favour a discretion to distribute property, including income or privilege, held in trust may be exercised: Provided that any such property or income that has to be taken into account for the purposes of this Part in accordance with the foregoing provisions of this paragraph shall include any property or income which any member of the household had directly or indirectly deprived himself of in order to become entitled to Free Medical Aid.
 2. Where the total capital resources referred to in paragraph 1(a) of this Part do not exceed the limit laid down therein:
 (a) the first €585 of such capital resources shall be ignored; and
 (b) the value of any urban immovable property as referred to in the proviso to the aforesaid sub-paragraph (a) shall be treated as producing an annual income
@@ -110,7 +110,7 @@ the first twelve weeks of entitlement;
 PART IV
 Age Pension
 1. In calculating the means for the purposes of article 66, account shall be taken of any property including any settlement of property in trust (excluding the house of residence), income or privilege as is indicated in paragraph 1 of Part 1 of this Schedule; and save as provided in paragraph 3 of this Part, where the limits laid down in the proviso to paragraph 1(a) of Part I of this Schedule are exceeded, the person making a claim for an Age Pension, as the case may be, shall be deemed not to be entitled to such pension:
-Provided that in calculating the means in terms of this paragraph, in lieu of the limits laid down in the proviso to paragraph 1(a) of Part I of this Schedule, €14,000 in the case of a single or widowed person or € 23, 300 in the case of a married person shall instead be taken in the calculation of means:
+Provided that in calculating the means in terms of this paragraph, instead of the limits stipulated in the proviso to paragraph 1(a) of Part I, €16,000 in the case of a single or a widowed person or €26,000 in the case of a married person shall be taken in the calculation of means:
 Provided further that, with effect from 1st January 2022, in the case of a person who has been in receipt of an Age Pension in accordance with the provisions of article 66 for a period of five (5) years or more and comes into possession of other property or assets through inheritance, in lieu of the limits laid down in the first proviso, shall instead be taken in the calculation of the capital means the amount of thirty thousand euro (€30,000) in the case of a single or widowed person, or the amount of fifty thousand euro (€50,000) in the case of a married person. So however that, when calculating the capital means in such cases, no account shall be taken of:
 (a) a donation of a property by the beneficiary of the Age Pension to a son or daughter, provided that such property is being donated to the son or daughter in order for the son or daughter to form his or her future house of residence;
 (b) a donation of part of the house of residence of the Age
@@ -192,7 +192,7 @@ Provided further that in the case of a person who is in receipt of a pension (wh
 - Substituted by: L.N. 330 of 2011.
 - Amended by: V. 2012.31; L.N. 218 of 2012.
 - Substituted by: L.N. 342 of 2012.
-- Amended by: IX. 2013.8; XII. 2014.38; XIII. 2015.90; XV. 2016.6; XVI. 2017.38; VII.2018.44; VII.2019.37; VIII.2020.33; VII.2022.41; XIII.2024.26.
+- Amended by: IX. 2013.8; XII. 2014.38; XIII. 2015.90; XV. 2016.6; XVI. 2017.38; VII.2018.44; VII.2019.37; VIII.2020.33; VII.2022.41; XIII.2024.26; IX.2025.30.
 - See Cap. 207.
 - See Cap. 452.
 - See Cap. 123.

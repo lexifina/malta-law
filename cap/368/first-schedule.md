@@ -1,6 +1,10 @@
 ## FIRST SCHEDULE
-## Latest Euro Standard
+## Euro Standard Table for Registration Purposes indicating Year of Registration and/or
+## Latest Category Euro Standard
 ## Euro 6
+## Euro 6 N1
+## N2 Euro 6
+## N3 Euro 6
 # first-schedule
 [Articles 3, 6, 8, 17A]
 Amount of tax to be paid on the registration of motor vehicles

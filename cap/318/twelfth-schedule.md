@@ -12,7 +12,8 @@ Married person Any Married person Any
 who is who is other other
 maintaining a maintaining a person person
 spouse spouse
-€155.96 €135.71 €150.23 €133.11 B. Full Rates of Increased Retirement Pension, Invalidity Pension, Increased Invalidity Pension, National Minimum Pension and Increased National Minimum Pension per week, inclusive of any increases under the provisions of article 90A, when the yearly average of contributions paid or credited is 50 or more:
+€155.96 €135.71 €150.23 €133.11
+B. Full Rates of Increased Retirement Pension, Invalidity Pension, Increased Invalidity Pension, National Minimum Pension and Increased National Minimum Pension per week, inclusive of any increases under the provisions of article 90A, when the yearly average of contributions paid or credited is 50 or more:
 Type of Pension Married person who is Any
 maintaining a spouse other
 person
@@ -25,8 +26,7 @@ Increased National Minimum €190.50 €166.07 Pension
 C. Guaranteed Minimum Level per week when the yearly average of paid or credited contributions is not less than 50:
 Married person Single person
 €198.50* €194.50*
-*The amounts include the weekly pension rate and the cost of living bonus.
-D. Reduced Rates of Retirement Pension, Increased Retirement Pension, Invalidity Pension, Increased Invalidity Pension, National Minimum Pension and Increased National Minimum Pension per week, inclusive of any increases under the provisions of article 90A, when the yearly average of contributions paid or credited is between 20 and 49:
+*The amounts include the weekly pension rate and the cost of living bonus. D. Reduced Rates of Retirement Pension, Increased Retirement Pension, Invalidity Pension, Increased Invalidity Pension, National Minimum Pension and Increased National Minimum Pension per week, inclusive of any increases under the provisions of article 90A, when the yearly average of contributions paid or credited is between 20 and 49:
 Yearly average of contributions Rate of pension payable per week
 paid or credited (calculated to the nearest whole cent)
 40 - <50 [{FAP - INC} x 0.89] + INC
@@ -90,15 +90,15 @@ spouse and who was in
 receipt of a National
 Minimum Pension on or
 before 31 December 2017
-For pensioners whose pension initial award date is prior to 3rd €17.43 per week €21.53 per week January 2009
-For pensioners whose pension initial award date falls between €17.08 per week €20.71 per week 3rd January 2009 and 31st December 2009
+For pensioners whose pension initial award date is prior to 3rd €17.43 per week €21.53 per week January 2009 For pensioners whose pension initial award date falls between €17.08 per week €20.71 per week 3rd January 2009 and 31st December 2009
 For pensioners whose pension initial award date falls between €16.60 per week €19.69 per week 2nd January 2010 and 31st December 2010
 For pensioners whose pension initial award date falls between
 €15.91 per week €18.22 per week 1st January 2011 and 31st
 December 2011
 For pensioners whose pension initial award date falls between
 €15.81 per week €17.96 per week 1st January 2012 and 31st
-December 2012 For pensioners whose pension initial award date falls between
+December 2012
+For pensioners whose pension initial award date falls between
 €15.27 per week €16.80 per week 1st January 2013 and 31st
 December 2013
 For pensioners whose pension initial award date falls between
@@ -111,10 +111,11 @@ For pensioners whose pension initial award date falls between
 For pensioners whose pension initial award date falls between
 €14.08 per week €14.41 per week 1st January 2017 and 31st December 2017
 For pensioners whose pension initial award date falls between
-€14.05 per week €14.05 per week 1st January 2018 and 31st December 2018
-For pensioners whose pension initial award date falls between
+€14.05 per week €14.05 per week 1st January 2018 and 31st December 2018 For pensioners whose pension initial award date falls between
 €13.68 per week €13.68 per week 1st January 2019 and 31st December 2019
 For pensioners whose pension initial award date falls between
 €13.17 per week €13.17 per week 1st January 2020 and 31st December 2024
+M. Grant to Persons who do not qualify for a Contributory Pension Number of 50 - 100 - 150 - 200 - 250 - 300 350 - 400 - 450 - Social 99 149 199 249 299 349 399 449 519 Security Contributions Paid Payment €550 €600 €650 €700 €800 €850 €900 €950 €1000
 - Amended by: XX. 1987. 17; XVI. 1989. 32.
 - Substituted by: XVI. 1990. 58; XIII. 1991.49; VIII. 1992.48; XXIV. 1993.20; XXV. 1994.39; XXVII. 1995.19; XXI. 1996.66; XXII. 1997.13; L.N. 56 of 1999; L.N. 84 of 1999; L.N. 10 of 2000; L.N. 21 of 2001; L.N. 4 of 2002; L.N. 422 of 2002; L.N. 436 of 2003; L.N. 100 of 2006; L.N. 101 of 2006; L.N. 318 of 2007; L.N. 424 of 2007; L.N. 149 of 2008; L.N. 143 of 2009; L.N. 437 of 2010; L.N. 330 of 2011; L.N. 342 of 2012; L.N. 355 of 2013; L.N. 62 of 2014; L.N. 123 of 2015; XXXIX. 2015.13; L.N. 309 of 2016; L.N. 6 of 2018; L.N. 195 of 2018; L.N. 94 of 2019; VIII.2020.36; L.N. 251 of 2020; L.N. 331 of 2021; L.N. 232 of 2023; L.N. 257 of 2023; L.N. 10 of 2025.
+- Amended by: IX.2025.33.

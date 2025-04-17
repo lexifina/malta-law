@@ -79,7 +79,8 @@ Update to a prior notification
 (2) The exemption in any Member State referred to in sub-item (1)(a) shall be effective as from the date the Commissioner notifies the taxable person that he may start to avail himself of the exemption in the respective Member State.
 (3) The cessation referred to in sub-item (1)(b) shall be effective as of the first
 (1) day of the next calendar quarter following the receipt of the information from the taxable person or, where such information is received during the last month of a calendar quarter, as of the first (1) day of the second (2) month of the next calendar quarter.
-Declaration to be submitted to the Commissioner 4. (1) The declaration which is required to be submitted to the Commissioner by a person registered under article 11A in terms of article 30(1) shall be submitted to the Commissioner electronically through the web portal designated by the Commissioner for this purpose and including the following information:
+Declaration to be submitted to the Commissioner
+4. (1) The declaration which is required to be submitted to the Commissioner by a person registered under article 11A in terms of article 30(1) shall be submitted to the Commissioner electronically through the web portal designated by the Commissioner for this purpose and including the following information:
 (a) the turnover from supplies carried out during the calendar quarter in Malta or "0" if no supplies have been made;
 (b) the turnover from supplies carried out during the calendar quarter in each of the Member States other than Malta or "0" if no supplies have been made;
 (c) where the Member State in which the special scheme for small enterprises is availed of applies varying thresholds as referred to in the second sub-paragraph of Article 284(1) of Council Directive 2006/112/ EC, the taxable person shall be obliged in respect of such Member State to report separately the total value of supplies of goods and, or services
@@ -93,7 +94,7 @@ Provided that where the Member State in which the special scheme for small enter
 (6) A declaration which is required to be submitted to the Commissioner in terms of this Part shall be so submitted by not later than the last day of the month following the end of the respective calendar quarter:
 Provided that, in accordance with article 11A(4)(c), the taxable person shall inform the Commissioner within fifteen (15) working days from the date when the Union annual turnover threshold is exceeded. At the same time, the taxable person shall submit to the Commissioner a further declaration electronically through the web portal designated by the Commissioner for this purpose, indicating the value of the supplies referred to in sub-item (1) that have been made from the beginning of the current calendar quarter up until the date the Union annual turnover threshold was exceeded.
 Exceeding the Union Threshold
-5. Notwithstanding the provisions of article 11A(5), where the Union annual turnover of a person registered under the said article during a calendar year exceeds the Union threshold, the exemption provided for in article 284(1) granted in the Member States in which such person is not established shall cease to apply as from the date the Union threshold is exceeded.
+5. Notwithstanding the provisions of article 11A(5), where the Union annual turnover of a person registered under the said article during a calendar year exceeds the Union threshold, the exemption provided for in article 284(1) of Council Directive 2006/ 112/EC granted in the Member States in which such person is not established shall cease to apply as from the date the Union threshold is exceeded.
 Part Three
 [Article 11B]
 Special scheme for small enterprises for supplies made within Malta by persons
@@ -107,4 +108,4 @@ Exceeding the Union Threshold
 3. Notwithstanding the provisions of article 11B(3), where the Union annual turnover of a person registered under the said article during a calendar year exceeds the Union threshold, the exemption provided for in item 16(3) of Part Two of the Fifth Schedule shall cease to apply as from the date the Union threshold is exceeded.
 - Amended by: L.N. 29 of 1999.
 - Substituted by: X. 2003.47.
-- Amended by: L.N. 122 of 2007; L.N. 426 of 2007; L.N. 105 of 2008; L.N. 137 of 2009; L.N. 163 of 2018; L.N. 223 of 2020; L.N. 463 of 2020; L.N. 346 of 2024.
+- Amended by: L.N. 122 of 2007; L.N. 426 of 2007; L.N. 105 of 2008; L.N. 137 of 2009; L.N. 163 of 2018; L.N. 223 of 2020; L.N. 463 of 2020; L.N. 346 of 2024; IX.2025.74.

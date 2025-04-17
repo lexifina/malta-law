@@ -1,32 +1,31 @@
 ## FOURTH SCHEDULE
-## 5 6 7
-## 125 138 151
-## 153 166 181
-## 170 185 202
-## 195 213 232
-## 250 273 297
-## 338 369 403
-## 463 506 554
-## 650 713 781
+## Petrol and Diesel Engines
+## Year 6 7
+## 0g/km - 125g/km 138 151
+## 126g/km up to 175g/km 166 181
+## 176g/km up to 200g/km 185 202
+## 201g/km up to 225g/km 213 232
+## 226g/km up to 250g/km 273 297
+## 251g/km up to 275g/km 369 403
+## 276g/km up to 300g/km 506 554
+## More than 300g/km 713 781
 ## 14+
-## 295
-## 339
-## 374
-## 433
-## 556
-## 762
-## 1057
-## 1125
-## 14 Year 12 13 +
-## Engine Capacity € € €
-## Not exceedin g 50cc 10 10 10
-## 51cc but not exceedin g 125cc 10 10 10
-## 126cc but exceedin g 250cc 25 25 25
-## 251cc but exceedin 15 16 18 g 500cc 0 5 2
-## 501cc but exceedin 16 17 19 g 800cc 1 7 5
-## Exceedi 17 18 20 ng 800cc 1 9 7
-## Battery / Electric Motor- cycle 10 10 10
-## Quad 21 23 25 bikes 4 6 9
+## 166 295
+## 198 339
+## 220 374
+## 253 433
+## 324 556
+## 441 762
+## 607 1057
+## 857 1125
+## 14 11 12 13 +
+## € € € €
+## 10 10 10 10
+## 25 25 25 25
+## 13 15 16 18 6 0 5 2
+## 14 16 17 19 6 1 7 5
+## 15 17 18 20 6 1 9 7
+## 19 21 23 25 5 4 6 9
 # fourth-schedule
 (Articles 8, 10)
 Circulation licence fees leviable annually in respect of motor vehicle licences
@@ -41,7 +40,7 @@ Diesel-engined with particulate matters of 0g/km up to and including 0.005g/km
 Year 0 1 2 3 4 5 6 7 CO2 € € € € € € € € 0g/km up to and including 100 100 100 100 100 125 138 151 100g/km More than 100g/km up to 125 125 125 125 125 153 166 181 and including 130g/km More than 130g/km up to 140 140 140 140 140 170 185 202 and including 140g/km More than 140g/km up to 160 160 160 160 160 195 213 232 and including 150g/km More than 150g/km up to 205 205 205 205 205 250 273 297 and including 180g/km More than 180g/km up to 275 275 275 275 275 338 369 403 and including 220g/km More than 220g/km up to 375 375 375 375 375 463 506 554 and including 250g/km More than 250g/km 525 525 525 525 525 650 713 781
 Year 8 9 10 11 12 13 14+ CO2 € € € € € € € 0g/km up to and including 166 183 201 221 244 268 295 100g/km More than 100g/km up to 198 216 236 259 283 310 339 and including 130g/km More than 130g/km up to 220 240 262 286 312 342 374 and including 140g/km More than 140g/km up to 253 276 302 330 361 395 433 and including 150g/km More than 150g/km up to 324 354 387 424 463 507 556 and including 180g/km More than 180g/km up to 441 483 528 579 634 695 762 and including 220g/km More than 220g/km up to 607 666 730 800 878 963 1,057 and including 250g/km More than 250g/km 857 940 1,032 1,125 1,125 1,125 1,125
 Diesel-engined with particulate matters exceeding 0.005g/km but not exceeding 0.025g/km
-Year 0 1 2 3 4 5 6 7 CO2 € € € € € € € € 0 g / k m u p t o an d 105 105 105 105 105 131 144 159 including 100g/km More than 100g/km up to 131 131 131 131 131 159 174 190 and including 130g/km More than 130g/km up to 146 146 146 146 146 178 193 211 and including 140g/km More than 140g/km up to 167 167 167 167 167 204 222 242 and including 150g/km More than 150g/km up to 214 214 214 214 214 261 285 311 and including 180g/km More than 180g/km up to 288 288 288 288 288 353 386 422 and including 220g/km More than 220g/km up to 393 393 393 393 393 484 530 581 and including 250g/km More than 250g/km 550 550 550 550 550 681 747 819
+Year 0 1 2 3 4 5 6 7 CO2 € € € € € € € € 0 g / k m u p t o a n d 105 105 105 105 105 131 144 159 including 100g/km More than 100g/km up to 131 131 131 131 131 159 174 190 and including 130g/km More than 130g/km up to 146 146 146 146 146 178 193 211 and including 140g/km More than 140g/km up to 167 167 167 167 167 204 222 242 and including 150g/km More than 150g/km up to 214 214 214 214 214 261 285 311 and including 180g/km More than 180g/km up to 288 288 288 288 288 353 386 422 and including 220g/km More than 220g/km up to 393 393 393 393 393 484 530 581 and including 250g/km More than 250g/km 550 550 550 550 550 681 747 819
 Year 8 9 10 11 12 13 14+ CO2 € € € € € € € 0g/km up to and including 175 192 211 233 256 281 309 100g/km More than 100g/km up to 207 226 248 271 296 324 355 and including 130g/km More than 130g/km up to 230 251 274 299 327 358 391 and including 140g/km More than 140g/km up to 265 289 316 346 378 414 453 and including 150g/km More than 150g/km up to 339 371 405 444 485 531 582 and including 180g/km More than 180g/km up to 462 505 553 606 664 728 799 and including 220g/km More than 220g/km up to 636 698 765 839 920 1,010 1,108 and including 250g/km More than 250g/km 898 986 1,082 1,150 1,150 1,150 1,150
 Diesel-engined with particulate matters exceeding 0.025g/km but not exceeding 0.035g/km
 Year 0 1 2 3 4 5 6 7 CO2 € € € € € € € € 0g/km up to and including 110 110 110 110 110 138 152 167 100g/km More than 100g/km up to 136 136 136 136 136 167 182 198 and including 130g/km More than 130g/km up to 152 152 152 152 152 185 202 220 and including 140g/km More than 140g/km up to 174 174 174 174 174 213 232 253 and including 150g/km More than 150g/km up to 223 223 223 223 223 273 298 325 and including 180g/km More than 180g/km up to 301 301 301 301 301 370 404 442 and including 220g/km More than 220g/km up to 411 411 411 411 411 507 556 609 and including 250g/km More than 250g/km 576 576 576 576 576 714 783 859

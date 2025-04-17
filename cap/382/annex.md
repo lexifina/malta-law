@@ -1,24 +1,17 @@
 ## ANNEX
+## MALTA INTERNAL ADMINISTRATIVE ACCOMPANYING DOCUMENT PRODUCTS SUBJECT TO EXCISE DUTY
+## 18a. Marks and numbers, No. and No kind of packages, description of goods No 18b. Marks and numbers, No. and No kind of packages, description of goods No 18c. Marks and numbers, No. and No kind of packages, description of goods No
+## Box 9 Box 10 Guarantee: indicate whether provided by the
 ## 24a. Sold in warehouse?
 ## Yes No
 ## Malta produced?
 ## Yes No 24b. Sold in warehouse?
 ## Yes No 24c. Sold in warehouse?
-## EXPLANATORY NOTES 1. 1.1 The
-## 1.2 The document must be completed legibly and in a
-## 1.3 The format of the IAAD is as laid down in the
-## 1.4 Any unused space in boxes 18a to 24c is to be lined
-## 1.5 The accompanying document comprises three
-## 1.6 Copies 2 and 3 must accompany the goods during
-## 1.7 In cases where the document is utilised for
-## 2. Box 1 Box 2
-## Box 3
-## Box 4
-## Box 5 Box 6 Box 7
-## Box 7a For goods to be exported, the notation 'EXPORT
-## Box 8
-## MALTA INTERNAL ADMINISTRATIVE ACCOMPANYING DOCUMENT PRODUCTS SUBJECT TO EXCISE DUTY
-## 18a. Marks and numbers, No. and No kind of packages, description of goods No 18b. Marks and numbers, No. and No kind of packages, description of goods No 18c. Marks and numbers, No. and No kind of packages, description of goods No
+## MALTA INTERNAL ADMINISTRATIVE ACCOMPANYING DOCUMENT PRODUCTS SUBJECT TO EXCISE DUTY B AUTHORISATION FOR CHANGE OF PLACE OF DELIVERY New name/address:
+## Request by: name/address of company:
+## Name and signatory: Place and date:
+## C CERTIFICATION OF RECEPTION OR EXPORTATION
+## *delete inapplicable A Record of control (continued)
 ## Title.
 ## Scope.
 ## Definitions.

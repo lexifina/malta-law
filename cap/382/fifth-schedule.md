@@ -86,3 +86,4 @@ Cartridges and refills, filled, for electronic €0.13 per mL cigarettes, prepar
 - Added by: XV. 2016.41; Emended by:; XVI. 2017.73.
 - Added by: XVI. 2017.74.
 - Added by: XVI. 2017.75; VII.2018.79.
+- Added by: IX.2025.59.

@@ -1,14 +1,6 @@
 ## SECOND SCHEDULE
+## Petrol engined
 ## Latest European Standard minus 3 and older
-## CO2 x RV x 0.23%
-## CO2 x RV x 0.26%
-## CO2 x RV x 0.30%
-## CO2 x RV x 0.33%
-## CO2 x RV x 0.37%
-## CO2 x RV x 0.40%
-## CO2 x RV x 0.44%
-## CO2 x RV x 0.47%
-## Diesel-engined with particulate matter of 0g/km up to and including 0.005g/km
 ## 0g/km up to and including 100g/km
 ## More than 100g/ km including 130g/km
 ## More than 130g/ km including 140g/km
@@ -17,16 +9,30 @@
 ## More than 180g/ km including 220g/km
 ## More than 220g/ km including 250g/km
 ## More than 250g/ km
-## Diesel-engined with particulate matter of over 0.005g/km
-## and older
-## 0g/km including 100g/km
-## More than 100g/km up to and including 130g/ km
-## More than 130g/km up to and including 140g/ km
-## More than 140g/km up to and including 150g/ km
-## More than 150g/km up to and including 180g/ km
-## More than 180g/km up to and including 220g/ km
-## More than 220g/km up to and including 250g/ km
-## More than 250g/km
+## CO2 x RV x 0.23%
+## CO2 x RV x 0.26%
+## CO2 x RV x 0.30%
+## CO2 x RV x 0.33%
+## CO2 x RV x 0.37%
+## CO2 x RV x 0.40%
+## CO2 x RV x 0.44%
+## CO2 x RV x 0.47%
+## CO2 x RV x 0.42%
+## CO2 x RV x 0.53%
+## CO2 x RV x 0.60%
+## CO2 x RV x 0.65%
+## CO2 x RV x 0.70%
+## CO2 x RV x 0.75%
+## Petrol or Diesel Engine
+## CO₂
+## 0g/km - 120g/km
+## 121g/km - 140g/km
+## 141g/km -150g/km
+## 151g/km - 160g/km
+## 161g/km - 190g/km
+## 191g/km - 230g/km
+## 231g/km - 260g/km
+## More than 260g/km
 # second-schedule
 [Articles 3, 6, 8, 17A, 18]
 Registration tax to be paid on the registration of category
@@ -71,15 +77,31 @@ Motorcycles
 Engine Capacity Rate of Tax
 Percentage of RV
 Up to and including 50cc 28.5%
-More than 50cc up to and including 28.5% 125cc More than 125cc up to and including 42% 250cc More than 250cc up to and including 42% 500cc More than 500cc up to and including 42% 800cc More than 800cc 42%
+More than 50cc up to and including 28.5% 125cc
+More than 125cc up to and including 42%
+250cc
+More than 250cc up to and including 42%
+500cc
+More than 500cc up to and including 42%
+800cc
+More than 800cc 42%
 Category CCC: used motorcycles registered prior to the 1st January, 2009 in any country other than a third country brought into and registered in Malta on or after the 1st January, 2009:
 Motorcycles
 Engine Capacity €
 Up to and including 50cc 5,000
-More than 50cc up to and including 125cc 10,000 More than 125cc up to and including 250cc 12,000 More than 250cc up to and including 500cc 14,000 More than 500cc up to and including 800cc 16,000 More than 800cc 20,000
+More than 50cc up to and including 125cc 10,000
+More than 125cc up to and including 250cc 12,000
+More than 250cc up to and including 500cc 14,000
+More than 500cc up to and including 800cc 16,000
+More than 800cc 20,000
 * The vehicle's age is the age of a vehicle from the date of registration in the other country
 Category D: Quad bikes to be used on the road
-Engine capacity Not exceeding 250cc cc x RV x 0.085% Exceeding 250cc but not exceeding 500cc cc x RV x 0.090% Exceeding 500cc but not exceeding 800cc cc x RV x 0.095% Exceeding 800cc cc x RV x 0.10% Electric operated quad bikes RV x 1.71%
+Engine capacity Rate
+Not exceeding 250cc cc x 0.085% x RV
+Exceeding 250cc but not exceeding 500cc cc x 0.090% x RV
+Exceeding 500cc but not exceeding 800cc cc x 0.095% x RV
+Exceeding 800cc cc x 0.10% x RV
+Battery/Electric Quad Bikes 0%
 Tax rate formula:
 (1) Following the application of the relevant tables under the heading "M1 Motor Vehicles", the total amount of the registration tax shall be equal to the sum total of the CO2 value (g/km - grams per kilometer) multiplied by the registration value (RV) multiplied by the indicated % value, and the total of the length (mm) multiplied by the registration value (RV) multiplied by the indicated % value:
 (CO2 x RV x x% ) + (length (mm) x RV x x%).
@@ -141,4 +163,4 @@ electric vehicles:
 - Substituted by: XXVI. 1997.2.
 - Amended by: XVI. 1998.3.
 - Substituted by: VI. 1999.2; VI. 2009.30.
-- Amended by: XI. 2010.17; IV. 2011.52; V. 2012.42; L.N. 86 of 2013; III. 2013.51; XII. 2014.57; XV. 2016.24; XVI. 2017.59; VII.2018.51; XVIII.2021.41; VII.2022.55; XII.2023.36.
+- Amended by: XI. 2010.17; IV. 2011.52; V. 2012.42; L.N. 86 of 2013; III. 2013.51; XII. 2014.57; XV. 2016.24; XVI. 2017.59; VII.2018.51; XVIII.2021.41; VII.2022.55; XII.2023.36; IX.2025.44.

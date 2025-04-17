@@ -138,3 +138,8 @@ Transhipment of goods:
 C970 From importing to exporting vessel or aircraft.
 C971 From storage in Government stores to exporting vessel or aircraft
 on payment of rent and removal expenses.
+- Added by: L.N. 29 of 1993.
+- Substituted by: L.N. 175 of 1993.
+- Amended by: L.N. 95 of 1997.
+- Substituted by: L.N. 281 of 2000.
+- Amended by: L.N. 407 of 2007; XXXIV. 2014.17.

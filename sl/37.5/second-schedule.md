@@ -1,5 +1,6 @@
 ## SECOND SCHEDULE
 ## CHAPTER
+## UNIT OF
 # second-schedule
 LIST SHOWING QUANTITIES TO BE ENTERED
 FOR EACH COMMODITY CODE
@@ -496,3 +497,4 @@ List showing which denominations of quantity and/or units of measurement, are to
 96 9601.10.00.00-96.18 00.00.00 units
 97 9701.10.00.00-97.06 00.00.00 units
 98 98.01 00.00.00-98.05 00.00.00
+- Substituted by: L.N. 68 of 1975; L.N. 175 of 1993; L.N. 95 of 1997; L.N. 281 of 2000.

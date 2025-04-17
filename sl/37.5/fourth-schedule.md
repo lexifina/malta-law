@@ -1,8 +1,6 @@
 ## FOURTH SCHEDULE
-## 1R ([SLU\GDWH RILGHQWLW\ GRFXPHQW 
-## 
-##   
-##  
+## (1) (2) (3)
+## (4) *
 # fourth-schedule
 FORMS
 FORM No. 38
@@ -12,32 +10,6 @@ I (1) ........................................ of the firm .....................
 (b) as regards those articles only partially produced or manufactured in any country:
 That the final process or processes of manufacture have been performed in
 (4) .................................... FORM 12
-Form 13
-(Part XI)
-Application for authorisation to act as customs representative
-Customs Electronic System
-Application to act as a Customs Representative
-REPRESENTATIVE DETAILS
-EORI / VAT NUMBER: __________________
-NAME OF REPRESENTATIVE: ________________________________
-ADDRESS: ___________________________________________________
-__________________________________ POST CODE: __________
-Tel: ______________________ FAX: ______________
-E-mail ________________________
-Do you have any experience in customs IT Systems? Yes No
-Have you attended any courses on import/export procedures? Yes No
-Are you aware of the Community Customs Code obligations with regards to representation on behalf of third parties? Yes No
-Would you require more than one user login name? Yes No
-Authorisation to act as a customs representative does not entitle you to load/ unload goods in a customs controlled area on behalf of third parties.
-USER DETAILS FOR OFFICIAL USE
-User Name
-User 1
-Name & Surname: ____________________________________
-ID Card No: ________ Sign.: _____________________
-User 2
-Name & Surname: ___________________________________
-ID Card No: ________ Sign.: _____________________
-Signature…………… Date…………………..
 Form 14
 (Part XI)
 Power of attorney to act as a Customs Declarant or Representative
