@@ -4,7 +4,7 @@ MINIMUM CRITERIA FOR THE CONTINGENCY PLANS
 Contingency plans shall meet at least the following criteria:
 1. the establishment of a crisis centre on a national level, which shall coordinate all control measures in the territory of Malta;
 2. a list shall be provided of local disease control centres with adequate
-[S.L.437.94 21 (AND SPECIFICALLY THE SWINE VESICULAR DISEASE)
+[S.L.437.94 (AND SPECIFICALLY THE SWINE VESICULAR DISEASE) 21
 facilities to coordinate the disease control measures at a local level;
 3. detailed information shall be given on the staff involved in control measures, their skills and their responsibilities;
 4. each local disease control centre must be able to contact rapidly persons/ organizations which are directly or indirectly involved in an outbreak;
