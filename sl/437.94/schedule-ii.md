@@ -29,7 +29,7 @@ AFRC Institute for Animal Health,Pirbright Laboratory, Ash Road, Pirbright, Woki
 (c) the movement and transport of animals of susceptible species on public or private roads, excluding the service roads of holdings, shall be prohibited. The competent authority may, however, derogate from this prohibition for the transit of animals by road and rail without unloading or stopping;
 (d) however, in accordance with the requirements of the Community, an exemption may be granted for slaughter pigs coming from outside the protection zone and on their way to a slaughterhouse situated in that zone;
 (e) trucks and other vehicles and equipment which are used within the protection zone to transport pigs or other livestock or material which may be contaminated (e.g. feedingstuff, manure, slurry, etc.) may not
-[S.L.437.94 15 (AND SPECIFICALLY THE SWINE VESICULAR DISEASE)
+[S.L.437.94 (AND SPECIFICALLY THE SWINE VESICULAR DISEASE) 15
 leave:
 (i) a holding situated within the protection zone;
 (ii) the protection zone;
@@ -74,7 +74,7 @@ XY means the relevant country code provided for in point 6 of Part B of Section 
 without the detection of antibodies to swine vesicular disease. The programme for serological screening shall take into account the transmission of swine vesicular disease and the way in which pigs are kept. The programme shall be that fixed by the Community.
 The examination and sampling referred to in (i) and (ii) shall not take place before 28 days have elapsed after the completion of preliminary cleaning and disinfection measures at the infected holding.
 4. On expiry of the period referred to in point 3, the rules applied to the surveillance zone shall also apply to the protection zone.
-[S.L.437.94 17 (AND SPECIFICALLY THE SWINE VESICULAR DISEASE)
+[S.L.437.94 (AND SPECIFICALLY THE SWINE VESICULAR DISEASE) 17
 5. Where the prohibitions provided for in point 2 (f) are maintained beyond 30 days because of the occurrence of further cases of the disease and as a result problems arise in keeping the animals, the competent authority may, following an application by the owner explaining the grounds for such application and provided that the official veterinarian has verified the facts, authorise the removal of the animals from a holding within the protection zone. Points 2 (f) and (h) shall apply mutatis mutandis.
 8. Surveillance zone
 1. The size of the surveillance zone shall be as laid down in rule 10.
@@ -114,7 +114,7 @@ In addition to the measures laid down in rule 16, the following measures shall a
 1. Procedure for preliminary cleaning and disinfection -
 (a) As soon as the carcases of the pigs have been removed for disposal, those parts of the premises in which the pigs have been housed and any other parts of the premises which have been contaminated during slaughter should be sprayed with disinfectant, approved in compliance with rule 16, at the concentration appropriate for swine vesicular disease. The disinfectant used should remain on the surface for at least 24 hours.
 (b) Any tissue or blood which may have been spilled during slaughter should be carefully collected and disposed of with the carcases (slaughter should always be carried out on an impervious surface).
-[S.L.437.94 19 (AND SPECIFICALLY THE SWINE VESICULAR DISEASE)
+[S.L.437.94 (AND SPECIFICALLY THE SWINE VESICULAR DISEASE) 19
 2. Procedure for further cleaning and disinfection -
 (a) All manure, bedding, contaminated food, etc., should be removed from the buildings, stacked and sprayed with an approved disinfectant. Slurry
 should be treated by a method suitable for killing the virus.
