@@ -4,7 +4,7 @@ List of Decisions
 2003/56/EC: Commission Decision of 24 January 2003 on health certificates for the importation of live animals and animal products from New Zealand (OJ L 22, 25.1.2003, p. 38);
 2002/987/EC: Commission Decision of 13 December 2002 on the list of establishments in the Falkland Islands approved for the purpose of importing fresh meat into the Community (OJ L 344, 19.12.2002, p. 39);
 IMPORTATION INTO AND TRANSIT THROUGH
-[S.L.437.52 THE COMMUNITY OF LIVE UNGULATES 12
+[S.L.437.52 12 THE COMMUNITY OF LIVE UNGULATES
 2002/477/EC: Commission Decision of 20 June 2002 laying down public health requirements for fresh meat and fresh poultrymeat imported from third countries, and amending Decision 94/984/EC (OJ L 164, 22.6.2002, p. 39);
 2001/600/EC: Commission Decision of 17 July 2001 concerning protective measures with regard to imports of certain animals from Bulgaria due to an outbreak of bluetongue, repealing Decision 1999/542/EC, amending Decision 98/372/EC concerning the animal health conditions and veterinary certifications for import of live animals of bovine and swine species from certain European countries to take into account some aspects in relation with Bulgaria and amending Decision 97/232/ EC drawing up lists of third countries from which Member States authorise imports of sheep and goats (OJ L 210, 3.8.2001, p. 51);
 2000/159/EC: Commission Decision of 8 February 2000 on the provisional approval of residue plans of third countries according to Council Directive 96/23/EC (OJ L 51, 24.2.2000, p. 30);
@@ -37,7 +37,7 @@ IMPORTATION INTO AND TRANSIT THROUGH
 83/243/EEC: Commission Decision of 10 May 1983 on the list of establishments in the Republic of Botswana approved for the purposes of importing fresh meat into the Community (OJ L 129, 19.5.1983, p. 70);
 83/218/EEC: Commission Decision of 22 April 1983 on the list of
 IMPORTATION INTO AND TRANSIT THROUGH
-[S.L.437.52 THE COMMUNITY OF LIVE UNGULATES 14
+[S.L.437.52 14 THE COMMUNITY OF LIVE UNGULATES
 establishments in the Socialist Republic of Romania approved for the purpose of importing fresh meat into the Community (OJ L 121, 7.5.1983, p. 23);
 82/923/EEC: Commission Decision of 17 December 1982 concerning the establishments in the Republic of Guatemala from which Member States may authorise the importation of fresh meat (OJ L 381, 31.12.1982, p. 40);
 82/913/EEC: Commission Decision of 16 December 1982 on the list of establishments in the Republic of South Africa and Namibia approved for the purpose of importing fresh meat into the Community (OJ L 381, 31.12.1982, p. 28);
