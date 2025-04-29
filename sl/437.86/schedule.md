@@ -2,11 +2,12 @@
 ## Category E
 ## Case
 ## Dependant
-## € 1258 - 755
-## € 559 - 335
-## € 279 - 167
-## € 140 - 84
-## Final ted for Compen- sation Owed (€)
+## € 1258 - 755 > 24
+## month
+## € 559 - 335 12 - 23
+## € 279 - 167 4 - 12
+## € 140 - 84 0 - 3
+## Subtrac- Final ted for Compen- Misdemea- sation nors (%) Owed (€)
 # schedule
 [Rule 5(1A)]
 Enzootic Bovine Leucosis (EBL) Compensation Scheme
@@ -28,7 +29,7 @@ B. Eligibility for Compensation under the EBL Scheme
 In order for a farmer to be eligible for compensation for slaughtered cattle under this scheme, all the following conditions shall be satisfied:
 (a) The farmer shall have been licensed by the department responsible for Veterinary Services as a cattle farm; either as a dairy producer (D) or a
 non-dairy ruminant farmer (R), at the time of slaughter;
-[S.L.437.86 7 TUBERCULOSIS AND LEUCOSIS IN CATTLE
+[S.L.437.86 TUBERCULOSIS AND LEUCOSIS IN CATTLE 7
 (b) The farmer shall own a licensed cattle farm which was 'approved' or 'conditionally approved' by the department responsible for Veterinary Services in its most recent inspections, at the time of slaughter;
 (c) The farmer shall allow free access to VRFCC personnel to his / her farm holding for blood sampling and disease testing;
 (d) The farmer shall follow, to the best of his abilities, all advice given by the MRRA or VRFCC regarding management of EBL and EBL-infected cattle;
@@ -70,7 +71,7 @@ Category D1: Non-infected 'cohort' animals from farms found to have farm infecti
 Category E Animals:
 Animals classified as dubitably eligible for compensation. Eligibility for compensation will be decided by the ad hoc EBL Compensation Committee, hereinafter referred to as 'the Committee'.
 Category E1: Animals selected specifically for slaughter by the VRFCC based on
-[S.L.437.86 9 TUBERCULOSIS AND LEUCOSIS IN CATTLE
+[S.L.437.86 TUBERCULOSIS AND LEUCOSIS IN CATTLE 9
 testing of samples collected between 1st June 2007 and 1st September 2007.
 Category E2: Animals selected specifically for slaughter by the VRFCC based on testing of samples collected after 1st March 2009 in the case that 'initial sampling' was carried out after this date.
 Category E3: Animals selected specifically for slaughter by the VRFCC based on testing of samples taken between 1st September 2007 and 1st March 2009 and delivered to the abattoir for slaughter as and when instructed by the VRFCC, before 1st October 2008.
@@ -107,6 +108,6 @@ Infringement Code Penalty
 M1 Cancellation of sampling appointments
 without valid reason(s) following written 15 % reduction in total compensation. warning.
 M2 Unlicensed transfer of an animal. 25 % reduction in total compensation. M3 Tampering with ear tags. 25 % reduction in total compensation. M4 Purposeful infection of an animal. 100 % reduction in total compensation.
-[S.L.437.86 11 TUBERCULOSIS AND LEUCOSIS IN CATTLE
+[S.L.437.86 TUBERCULOSIS AND LEUCOSIS IN CATTLE 11
 Template of Table of Calculation of Compensation Owed on a Per Animal Basis
 - Added by: L.N. 208 of 2009.
