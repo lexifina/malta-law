@@ -3,7 +3,7 @@
 # schedule
 EUROPEAN COMMUNITY Intra-Trade Certificate
 Part I: Details of the Consignment Presented
-I.1. Consignor  I.2. Certificate I.2.a. Local reference
+I.1. Consignor  I.2. Certificate I.2.a. Local reference
 reference number number
 Name I.3. Central Competent Authority Address
 Postal Code I.4. Local Competent Authority
@@ -15,30 +15,30 @@ ISO code Code Name
 Approval Number
 I.10. Country of I.11. Region of destination destination
 ISO code Code I.12. Place of origin/Place of harvest I.13. Place of destination
-Holding  Assembly Centre  Holding  Assembly Centre  Approved Body  Semen Centre  Approved Body  Semen Centre  Embryo team  Establishment  Embryo team  Establishment  Dealer's premises  Dealer's premises  Approved Aquaculture holding  Approved Aquaculture holding  Other  Other  Name Name Address Address
+Holding  Assembly Centre  Holding  Assembly Centre  Approved Body  Semen Centre  Approved Body  Semen Centre  Embryo team  Establishment  Embryo team  Establishment  Dealer's premises  Dealer's premises  Approved Aquaculture holding  Approved Aquaculture holding  Other  Other  Name Name Address Address
 Postal Code Postal Code Approval Number Approval Number I.14. Place of transport I.15. Date and time of departure
 Postal Code I.16. Means of transport I.17. Transporter
 TO INTRA-COMMUNITY TRADE IN ANIMAL
 [S.L.437.44 AND PRODUCTS OF ANIMAL ORIGIN 3
-Aeroplane  Railway Wagon  Name Ship  Road Vehicle  Address Other 
+Aeroplane  Railway Wagon  Name Ship  Road Vehicle  Address Other 
 Postal Code Identification: Member State
 Approval Number I.18. Animal Species/Product I.19. Commodity Code (CN code)
 I.20. Number/Quantity I.21. Temperature of Products I.22. Number of packages
-Ambient  Chilled  Frozen  I.23. Identification of container/Seal number I.24. Type of packaging
-I.25. Animals certified as/products certified for: Breeding  Fattening  Slaughter  Transhumance  Artificial Registered equidae  Game restocking  Pets  reproduction 
-Pharmaceutical use  Technical Use  Human Consumption Animal feedingstuff  
-Approved Body  Other  I.26. Transit through Third Country  I.27. Transit through Member States 
+Ambient  Chilled  Frozen  I.23. Identification of container/Seal number I.24. Type of packaging
+I.25. Animals certified as/products certified for: Breeding  Fattening  Slaughter  Transhumance  Artificial Registered equidae Game restocking  Pets  reproduction 
+Pharmaceutical use  Technical Use  Human Consumption Animal feedingstuff  
+Approved Body  Other  I.26. Transit through Third Country  I.27. Transit through Member States 
 Third Country ISO Code Member State
 ISO Code
 Exit Point Code Member State
 ISO Code
 Entry Point BIP unit no. Member State
-ISO Code I.28. Export  I.29. Estimated journey time
+ISO Code I.28. Export  I.29. Estimated journey time
 Third Country ISO Code
-Exit Point Code I.30. Route plan Yes  No  I.31. Identification of the animals
+Exit Point Code I.30. Route plan Yes  No  I.31. Identification of the animals
 TO INTRA-COMMUNITY TRADE IN ANIMAL
 [S.L.437.44 4 AND PRODUCTS OF ANIMAL ORIGIN
-EUROPEAN COMMUNITY Intra-Trade Certificate Part II: Certification II. Health Information1 
+EUROPEAN COMMUNITY Intra-Trade Certificate Part II: Certification II. Health Information1 
 II.a. Certificate reference number II.b. Local reference number
 Official veterinarian or official inspector
 Name (in Capitals): Qualification and title Local Veterinary Unit No. of the related LVU Date: Signature: Stamp
@@ -46,25 +46,25 @@ TO INTRA-COMMUNITY TRADE IN ANIMAL
 [S.L.437.44 AND PRODUCTS OF ANIMAL ORIGIN 5
 EUROPEAN COMMUNITY Intra-Trade Certificate Part III: Control
 III.1. Date of Inspection III.2. Certificate reference number:
-III.3. Documentary Checks: No  Yes  No  Yes  III.4. Identity Check:
-Satisfactory  EU Standard Satisfactory  Not Satisfactory 
-Not Satisfactory  Additional Guarantee Satisfactory  Not Satisfactory 
-National Requirements Satisfactory  Not Satisfactory  III.5. Physical Check: No  III.6. Laboratory Tests: No 
-Yes  Total Animals
-checked  Satisfactory  Date: Not Satisfactory  Tested for:
-No  Random  Suspicion  III.7. Welfare Check: Yes  Satisfactory  Results: Not Satisfactory 
-Satisfactory  Not satisfactory  III.8. Infringement in welfare regulation: III.9. Infringement of health legislation
-III.8.1. Transporter authorisation invalid  III.9.1. Absence/Invalid certificate 
-III.9.2. Mis-match with documents  III.8.2. Non-compliance of the means of transport  III.8.3 Stocking density exceeded  III.9.3. Non-authorised country  III.8.4. Travel times exceeded  III.9.4. Non-approved region/zone  III.8.5. Watering and feeding not fulfilled  III.9.5. Prohibited species 
-III.9.6. Absence of additional guarantee  III.8.6. Mishandling or negligence to the animals  II.8.7. Other  III.9.7. Non-approved holding 
-III.9.8. Diseases or suspect animals  III.9.9. Unsatisfactory tests  Average Space III.9.10. Absence or non-legal identification  III.10 Impact of the transport on animals Number of dead animals:  III.9.11. National requirements not fulfilled  Estimation  III.9.12. Address of destination invalid 
-III.9.13. Other  Number of unfit animals:  Estimation 
-Number of birth or abortion 
+III.3. Documentary Checks: No  Yes  No  Yes  III.4. Identity Check:
+Satisfactory  EU Standard Satisfactory  Not Satisfactory 
+Not Satisfactory  Additional Guarantee Satisfactory  Not Satisfactory 
+National Requirements Satisfactory  Not Satisfactory  III.5. Physical Check: No  III.6. Laboratory Tests: No 
+Yes  Total Animals
+checked  Satisfactory  Date: Not Satisfactory  Tested for:
+No  Random  Suspicion  III.7. Welfare Check: Yes  Satisfactory  Results: Not Satisfactory 
+Satisfactory  Not satisfactory  III.8. Infringement in welfare regulation: III.9. Infringement of health legislation
+III.8.1. Transporter authorisation invalid  III.9.1. Absence/Invalid certificate 
+III.9.2. Mis-match with documents  III.8.2. Non-compliance of the means of transport  III.8.3 Stocking density exceeded  III.9.3. Non-authorised country  III.8.4. Travel times exceeded  III.9.4. Non-approved region/zone  III.8.5. Watering and feeding not fulfilled  III.9.5. Prohibited species 
+III.9.6. Absence of additional guarantee  III.8.6. Mishandling or negligence to the animals  II.8.7. Other  III.9.7. Non-approved holding 
+III.9.8. Diseases or suspect animals  III.9.9. Unsatisfactory tests  Average Space III.9.10. Absence or non-legal identification  III.10 Impact of the transport on animals Number of dead animals:  III.9.11. National requirements not fulfilled  Estimation  III.9.12. Address of destination invalid 
+III.9.13. Other  Number of unfit animals:  Estimation 
+Number of birth or abortion 
 TO INTRA-COMMUNITY TRADE IN ANIMAL
 [S.L.437.44 6 AND PRODUCTS OF ANIMAL ORIGIN
 III.11. Corrective action III.12. Follow-up of quarantine
-III.11.1. Delayed departure  III.11.2. Transfer procedure  III.12. 1. Humanely killing/Euthanasia  III.11.3. Quarantine  III. 11.4. Humane killing/Euthanasia  III.11.5. Destruction of carcasses/products  III.12.2. Release  III.11.6. Return of consignment  III.11.7. Treatment of products  III.11.8. Use of products for other purpose 
-Identification: III.13. Place of inspection Establishment  Holding  Assembly centre  Dealer's premise  Approved Body  Semen centre  Port  Airport  Exit point  Enroute  Other  III.14. Official veterinarian or official inspector
+III.11.1. Delayed departure  III.11.2. Transfer procedure  III.12. 1. Humanely killing/Euthanasia  III.11.3. Quarantine  III. 11.4. Humane killing/Euthanasia  III.11.5. Destruction of carcasses/products III.12.2. Release  III.11.6. Return of consignment  III.11.7. Treatment of products  III.11.8. Use of products for other purpose 
+Identification: III.13. Place of inspection Establishment  Holding  Assembly centre  Dealer's premise  Approved Body  Semen centre  Port  Airport  Exit point  Enroute  Other  III.14. Official veterinarian or official inspector
 Local Veterinary Unit No. of the related LVU Name (in Capital): Qualification and title
 Date: Signature:
 Notes for guidance on the Intra-Community certificate General Please complete the certificate in capitals. To confirm an option, tick the box or
