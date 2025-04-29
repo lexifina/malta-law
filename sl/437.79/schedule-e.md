@@ -3,7 +3,7 @@
 Where in these regulations reference is made to Schedule E of these regulations or Annex E of the European Union Council Directive 91/68/EEC reference should be made to the European Union Commission Regulation (EC) No 599/2004 concerning
 [S.L.437.79 22 TRADE IN OVINE AND CAPRINE ANIMALS
 the adoption of a harmonised model certificate and inspection report linked to intra- Community trade in animals and products of animal origin.
-[S.L.437.79 23 TRADE IN OVINE AND CAPRINE ANIMALS
+[S.L.437.79 TRADE IN OVINE AND CAPRINE ANIMALS 23
 Model III
 HEALTH CERTIFICATE (1) FOR TRADE 1. Consignor (name and address in full) ..................................................................... BETWEEN MEMBER STATES OF THE ..................................................................... EUROPEAN COMMUNITIES IN OVINE ..................................................................... AND CAPRINE ANIMALS FOR BREEDING
 No ORIGINAL 2. Consignee (name and address in full) 3. MEMBER STATE ................................. ..................................................................... ..................................................................... ..................................................................... 5. Place of loading ................................... 4. Competent authority .....................................................................
@@ -17,7 +17,7 @@ origin(4) 8. Destination of the animals
 ....................................................................... 8.2 Name, address and registration number ....................................................................... of:
 7.2 Name and address and registration 8.2.1 The slaughterhouse(4): number of the approved assembly centre (4) or
 approved dealer premises (2) (4): 8.2.2 The approved assembly centre(4)
-....................................................................... 8.2.3 The approved assembly centre in the ....................................................................... Member state of transit(4) (6):
+....................................................................... 8.2.3The approved assembly centre in the ....................................................................... Member state of transit(4) (6):
 ....................................................................... ..................................................................... ..................................................................... 9. Number of animals ............................. 10. Identification of the animals: 10.1 Animal specie(s) ................................................ Breed ................................................ 10.2 Individual identification of the animals included in the consignment:
 Official individual Age (months) and Sex Number of animals identification (7) (♂♀,castrated)
 11. Origin of the animals The animals were either:
@@ -42,7 +42,7 @@ and therefore qualify for admission to an ovine or caprine holding which is offi
 (i) they are identified individually,
 (ii) they have never been vaccinated against brucellosis or if they have been
 vaccinated were so vaccinated more than two years previously or they are females over two years old which were vaccinated before the age of seven months and
-[S.L.437.79 25 TRADE IN OVINE AND CAPRINE ANIMALS
+[S.L.437.79 TRADE IN OVINE AND CAPRINE ANIMALS 25
 (iii) they were isolated under official supervision on the holding of origin and,
 during such isolation, underwent, with negative results, two tests for brucellosis in accordance with Annex C to Directive 91/68/EEC, separated by an interval of at least six weeks (4);
 12.7 they comply with at least one of the following conditions in 12.7.1, 12.7.2 or 12.7.3
@@ -89,7 +89,7 @@ covered by this health certificate started the journey on .................... (
 13.3 At the time of inspection the animals were fit to be transported on the intended
 journey in accordance with the provisions of Directive 91/628/EEC (6)
 14. This certificate is valid for ten days from the date of inspection
-14.1 14.2 Official stamp and signature Done at:
+14.1 Official stamp and signature 14.2 Done at:
 ................................................................................
 .
 (insert place of inspection)
