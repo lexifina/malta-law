@@ -4,6 +4,7 @@
 Austria
 Belgium
 Bulgaria
+Croatia
 Cyprus
 Czech Republic
 Denmark
