@@ -1,4 +1,4 @@
 SUBSIDIARY LEGISLATION 552.08
 DEVELOPMENT NOTIFICATION ORDER
 3rd June, 2016*
-LEGAL NOTICE 211 of 2016, as amended by Legal Notices 4 and 199 of 2017, 152 of 2018, 421 of 2020, 181 and 281 of 2021 and 37, 97 and 183 of 2023 and 90 of 2024.
+LEGAL NOTICE 211 of 2016, as amended by Legal Notices 4 and 199 of 2017, 152 of 2018, 421 of 2020, 181 and 281 of 2021 and 37, 97 and 183 of 2023, 90 of 2024 and 85 of 2025.

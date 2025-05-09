@@ -66,9 +66,7 @@ Class 14 Tented structures and Awnings
 Class 15 Beach management facilities
 (i) Hiring of beach furniture
 (ii) Mobile installations
-Class 16 Development in zones administered by INDIS Malta Ltd and Malta Enterprise Zones
-(i) The construction, re-development, alteration or extension of an industrial unit
-(ii) The construction, re-development, alteration or extension of a unit
+Class 16 Deleted by Legal Notice 85 of 2025.
 Class 17 Development by the Armed Forces of Malta
 (i) Development by the Armed Forces of Malta
 Class 18 Development relating to Migration Matters
@@ -224,8 +222,7 @@ area, in connection with the operation of route buses.
 (ii) The construction or replacement of existing passenger shelters
 including advertisement as part of the passenger shelter, or barriers for the control of people waiting to enter a route bus, except where the development involves any road widening or any encroachment onto land that is not a road carriageway, pavement or similar paved area.
 CLASS 7 - Development related to telecommunications
-(i) The installation, maintenance or alteration of any telecommunications apparatus unless such development is located ODZ or on scheduled
-property.
+(i) The installation, maintenance or alteration of any telecommunications apparatus unless such development is located ODZ or on scheduled property.
 Provided that the development does not involve:
 (a) the erection or alteration of buildings; or
 (b) the introduction of poles and masts to support overhead wiring
@@ -252,12 +249,10 @@ existing pedestrian passage way, all the necessary measures shall be taken to pr
 (c) after completion of works, such temporary installation shall be completely removed and the land shall be completely restored to its pristine condition;
 (d) such use does not entail direct or indirect damage to existing
 historical buildings or monuments, archaeological features including underground shelters, cisterns or water galleries, rubble walls and natural stone paving.
-Development under this Class, where the operations are going to take place within the confines of a site which is a scheduled property, or in a designated area, or on land that is located ODZ and, or when the operations are going to take place beyond the confines of the site covered the development permission shall be subject to the notification procedure established in article 5(1) and 3).
-CLASS 10 - Temporary use of Land
+Development under this Class, where the operations are going to take place within the confines of a site which is a scheduled property, or in a designated area, or on land that is located ODZ and, or when the operations are going to take place beyond the confines of the site covered the development permission shall be subject to the notification procedure established in article 5(1) and 3). CLASS 10 - Temporary use of Land
 (i) The reversible use of land, as well as any temporary structures required for such use, for not more than thirty days in any one calendar year, whether the permitted use is requested or applied for by the same person or by different persons, provided that the proposed use does not have any negative impacts on the relative site and its surroundings and the land is fully restored to its pristine condition and any structure removed
 within ten days from the expiry of such thirty-day period.
-For any land located within a distance of 100 meters from the same land originally permitted for a specific temporary use in terms of this sub-paragraph, the permission shall be automatically renewed for the same
-or similar use as originally permitted provided that:
+For any land located within a distance of 100 meters from the same land originally permitted for a specific temporary use in terms of this sub-paragraph, the permission shall be automatically renewed for the same or similar use as originally permitted provided that:
 (a) any extension may not be granted for a period of more than thirty
 days and no more than three extensions may be granted in any given calendar year. The extended period need not necessarily refer to the thirty day period immediately following the previous period; and
 (b) the Authority is satisfied that the extension relates to a site which
@@ -267,7 +262,8 @@ out within ten days from the last permitted period.
 (ii) The reversible use of land by Government entities, Local Councils and
 other public entities appointed thereby, for the temporary use of land for cultural and social purposes, and for the temporary placing and use of a caravan or a camp, as well as any temporary structures required for such use for not more than four calendar months in one (1) calendar year only, provided that the land used is fully restored to its pristine condition and any structures are removed within ten days from the expiry of such
 period, except for sites located in scheduled property:
-Provided that the use of land is not permitted if such use is for off-road vehicle, motor car and motorcycle racing or rallying, or for practising for these events and activities: Provided further that the development described shall only be permitted if:
+Provided that the use of land is not permitted if such use is for off-road vehicle, motor car and motorcycle racing or rallying, or for practising for these events and activities:
+Provided further that the development described shall only be permitted if:
 (a) any temporary structure required for such use would not impair
 visibility at a road junction or otherwise pose a threat to the safety of pedestrians or vehicular traffic;
 (b) such use does not entail direct or indirect damage to existing
@@ -328,27 +324,7 @@ submitted, by the applicant to the Authority, as part of the notification proced
 (ii) The temporary use of land for the erection, placing and installation of
 structures required in relation to mobile sanitary facilities and life-saving management practices on beaches, provided that the notification is submitted by a Government entity, a Local Council, any other public entity appointed thereby, or a registered institution whose expertise is in civil protection subject to the prior clearance from the Environment and Resources Authority in the case of areas declared as protected under the Environment Protection Act and the site is not located on sand dunes.
 Development under this Class shall be subject to the notification procedure established in article 5(1) and (3).
-CLASS 16 - Development in zones administered by INDIS Malta Ltd and Malta Enterprise Zones
-(i) The construction, re-development, alteration or extension of an industrial unit or a unit for any purposes ancillary to the main industrial unit within zones administered by INDIS Malta Ltd and Malta Enterprise Zones, including associated signs and adverts, provided that:
-(a) the predominant use of the industrial unit falls within one of the
-industrial, storage and distribution use Classes of the Use Classes Order, and includes any other use which is ancillary to the predominant use;
-(b) the proposed development does not result in an industrial unit
-higher than measured:
-(aa) the height stipulated in the relevant map in Schedule III;
-and
-(bb) fifteen metres within all other zones administered by
-INDIS Malta Ltd and Malta Enterprise zones,
-from the highest street level along the external perimeter of the unit;
-(c) the unit does not replace communal landscaped areas or communal car parking spaces;
-(d) the proposed development, including the creation or formation of
-a new vehicular access or any changes to the highway boundary, shall have the prior approval of the zones administered by INDIS
-Malta Ltd or Malta Enterprise, where relevant;
-(e) the height of the industrial unit and the materials shall have the prior approval of the authority responsible for Civil Aviation,
-where deemed relevant by the Authority.
-(ii) The construction, re-development, alteration or extension of a unit for
-any purpose ancillary to the main industrial use within zones administered by INDIS Malta Ltd and Malta Enterprise Zones, including associated signs and adverts, provided that paragraphs (a) to
-(e) under Class (i) of this Class shall mutatis mutandis apply.
-Development under this Class shall be subject to the notification procedure established in article 5(1) and (3).
+CLASS 16 - Deleted by Legal Notice 85 of 2025.
 CLASS 17 - Development by the Armed Forces of Malta
 (i) Development carried out by the Armed Forces of Malta on land under the operational control of the same Armed Forces of Malta, provided that:
 (a) when the development is located in designated areas or scheduled
@@ -401,29 +377,32 @@ Class 23 Development by the Civil Protection Department
 (ii) the proposed development is recommended by the Minister
 responsible for the Civil Protection Department;
 (b) Development under this Class shall be subject to the notification procedure set out in article 5(1) and (3). However such notification procedure is not required where in the opinion of the Minister responsible for the Civil Protection Department, the development is urgently required for national security reasons and the Authority, the Superintendent of Cultural Heritage and the Environment and Resources Authority are informed accordingly.
-Class 24 Urban greening projects by Government agencies, Local Councils and other entities appointed thereby
-(i) The formation of greening projects within the development zones
-indicated in the respective Local Plans.
-(ii) Installation of playing equipment within greening projects.
-(iii) Vertical structures, which may be accessible, forming part of the
-greening project.
-(iv) Excavation of underground reservoirs intended for the irrigation
-of the proposed vegetation and other related uses to the greening project.
-(v) Formation of green projects including on schemed roads and public open spaces.
-(vi) Taking up of existing surface and resurfacing with materials such
-as permeable paving blocks.
-(vii) Installation of flooring systems.
-(viii) Installation of vertical greening structures, including against
-public buildings or government owned residential blocks, but excluding buildings which are designated or located within scheduled areas.
-(ix) Installation of features and structures for the purpose of the
-greening project.
-(x) Interventions and planting of trees, including the related irrigation systems.
-(xi) Removal of existing paved or hard-surface areas and, or existing
-artificial structures, or their replacement with soil or soft landscaping.
-(xii) Removal of redundant infrastructure (including poles, brackets,
-cables, pipework, etc.), and/or the replacement of such infrastructure with facilities laid underground within the footprint of existing streets or pavements:
-Provided that:
-(a) Prior approval is obtained from the Superintendent of Cultural Heritage for sites within Urban Conservation Area, Scheduled sites and sites within Scheduled Building Settings;
-(b) Prior approval is obtained from Transport Malta for sites falling within schemed roads;
-(c) Prior approval is obtained by the Environment and Resources Authority for the uprooting, transplanting, and planting of trees, as necessary.
-Development under this class shall be subject to the notification procedure established in sub-articles (1) and (3) of article 5.
+Class 24 Class 24 Greening projects by Government agencies, Local Councils and other entities appointed by them
+(a) The formation of urban greening projects within the development zones on land designated for public recreational use in the respective Local
+Plans, including on schemed roads and public open spaces;
+(b) The formation of urban greening projects within the development zone on land designated for any other use in the respective Local Plans;
+(c) The formation of greening projects located outside development zone on land designated for public recreational use in the respective Local Plans:
+Provided that the greening projects shall only include the following works:
+(i) the installation of playground equipment, fitness, and sports
+equipment, along with art installations;
+(ii) demountable installations, which may include CCTV and lighting equipment;
+(iii) vertical structures and shading devices, which may be accessible;
+(iv) excavation of underground reservoirs intended for the irrigation of the proposed vegetation and other related uses to greening projects;
+(v) taking up of existing land surface and resurfacing with materials such as permeable paving blocks;
+(vi) installation of flooring systems and hard landscaping;
+(vii) installation of vertical greening structures, including against
+public buildings or government owned residential blocks, but excluding buildings which are designated or located within scheduled areas;
+(viii) installation of features and structures for the purpose of the
+greening project (seating areas, security and or control rooms, sanitary facilities, etc.);
+(ix) installation of demarcation walls and gates;
+(x) interventions and planting of trees, including the related irrigation systems;
+(xi) removal of existing paved or hard-surface areas and, or existing artificial structures, or their replacement with soil or soft landscaping; and
+(xii) removal of redundant infrastructure (including poles, brackets,
+cables, pipework, etc.) and, or the replacement of such infrastructure with facilities laid underground within the foot print of existing streets or pavements:
+Provided further that:
+(a) prior approval shall be obtained from the Superintendent of Cultural Heritage for sites within Urban Conservation Area, Scheduled sites and sites within Scheduled Building Settings;
+(b) prior approval shall be obtained from the Authority for Transport in Malta for sites falling within the boundaries of schemed roads;
+(c) prior approval shall be obtained by the Environment and Resources Authority;
+(d) for all cases, prior approval shall be obtained from Project Green:
+Provided further that for development under this Class, the relevant provisions of the Rural Policy and Design Guidance and all other relevant approved plans and policies under the Act, exceptions, conditions, restrictions, rules, limitations and exclusions currently in force, shall not be applicable:
+Provided further that development under this class shall be subject to the notification procedure established in sub-articles (1) and (3) of article 5, except for where the greening project is by Project Green.
