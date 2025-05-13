@@ -62,14 +62,11 @@ Pharmaceutical goods
 10. The supply of pharmaceutical goods.
 10A. Until the 31 December 2022, services closely linked to COVID-19 vaccines falling under sub-heading 3002.20 of the Customs Tariff contained in the First Schedule to the Import Duties Act.
 Transport
-11. The supply of -
-(a) transport by scheduled bus service consisting of trips on scheduled routes.
-For avoidance of doubt, "scheduled bus service" shall mean public passenger transport services by an operator contracted in terms of the provisions of regulation 68B of the Passenger Transport Services Regulations (S.L. 499.56), or any other regulations replacing those regulations;
-(b) scheduled inter-island sea transport of passengers by authorised carriers and other scheduled sea transport of passengers recognised as such by the Commissioner.
-For avoidance of doubt, "scheduled inter-island sea transport of passengers" shall mean scheduled transport of passengers between the islands of Malta and Gozo;
-(c) special regular services consisting in the carriage of school pupils and students to and from an educational establishment recognised as such by the Commissioner;
-(d) special regular services consisting in the carriage of workers to and from their place of work.
-In paragraphs (c) and (d) the term "special regular services" has the meaning assigned to it in the Passenger Transport Services Regulations or any other regulations replacing those regulations.
+11. The supply of:
+(a) transport by scheduled bus service consisting of trips on scheduled routes;
+(b) scheduled inter-island sea transport of passengers by authorised carriers and other services of scheduled sea transport of passengers recognised as such by the Commissioner;
+(c) special regular services consisting in the carriage of school pupils and students to and from an educational establishment recognised as such by the Commissioner; and
+(d) special regular services consisting in the carriage of workers to and from their work.
 Supplies of goods on board cruise liners
 12. The supply of goods for consumption on board cruise liners where the place of taxation in terms of item 3 of the Third Schedule to the Act is deemed to be in Malta.
 Supplies of goods in accordance with sub-item (2) of item 12A of the Second Schedule
@@ -161,7 +158,8 @@ Supplies of goods in respect of which the supplier had not qualified for input t
 13. The supply of goods which were acquired by that person or which were manufactured or produced from components acquired by that person under a supply in respect of which that person did not qualify for any input tax credit.
 Broadcasting
 14. The activities of public radio and television bodies other than those of a commercial nature.
-Water 15. The supply of water services by a public authority.
+Water
+15. The supply of water services by a public authority.
 Exemption for small enterprises
 16. (1) The supply by a person registered under article 11 and entitled to be so registered, of goods and services in accordance with the provisions of Part One of the Sixth Schedule.
 (2) The supply by a person registered under article 11A and entitled to be so registered, of goods and services in accordance with the provisions of Part Two of the Sixth Schedule.
@@ -184,7 +182,8 @@ Duty suspension regime
 4. The intra-community acquisition of goods intended to be placed under a customs duty suspension regime.
 Food
 5. The intra-Community acquisition of food.
-Investment gold 6. The intra-community acquisition of investment gold, saving the option for taxation in terms of Part Six of the Fourteenth Schedule.
+Investment gold
+6. The intra-community acquisition of investment gold, saving the option for taxation in terms of Part Six of the Fourteenth Schedule.
 Goods subject to the margin scheme
 7. The intra-community acquisition of goods that are supplied under a transaction subject to a margin scheme on second hand goods, works of art, collectors' items and antiques in the Member State where the transport begins.
 Acquisitions of certain devices and aids by non-profit making organisations
@@ -265,7 +264,8 @@ Food supplied in the course of catering
 (iii) biscuits, cakes, confectionery and similar items but excluding those sealed in a package by the manufacturer and supplied in that original sealed package and those items which individually weigh 500 grams or more;
 (b) "family pack" means ice creams consisting of one component of not less than 350 grams in weight;
 (c) food supplied in terms of item 9 of Part One of this Schedule, where such food is served for consumption by any person in the same establishment, shall be considered as food supplied in the course of catering.
-Pharmaceutical goods 3. "Pharmaceutical goods" means the goods specified in the Customs Tariff contained in the First Schedule to the Import Duties Act under:
+Pharmaceutical goods
+3. "Pharmaceutical goods" means the goods specified in the Customs Tariff contained in the First Schedule to the Import Duties Act under:
 (a) Chapter 30 except for items falling under sub-headings 3001 and 3002 where the use of items under these sub-headings is not for therapeutic or prophylactic purposes; 3005 and 3006.
 (b) Subheading 3301.90.30.00 in Chapter 33.
 (c) Subheading 3507.10.00.00 in Chapter 35.
@@ -288,6 +288,14 @@ Non-profit making organisations
 (e) which does not systematically aim to make a profit.
 Investment gold
 6. "Investment gold" has the meaning assigned to it in Part Six of the Fourteenth Schedule.
+Transport
+7. (1) "Scheduled bus service" means:
+(a) public passenger transport services by an operator contracted in
+terms of the provisions of regulation 68B of the Passenger Transport Services Regulations; and
+(b) regular passenger transport services by an operator authorised in
+terms of the provisions of regulation 69 of the Passenger Transport Services Regulations.
+(2) "Scheduled inter-island sea transport of passengers" means scheduled transport of passengers between the islands of Malta and Gozo.
+(3) "special regular services" shall have the meaning as assigned to it in the Passenger Transport Services Regulations.
 - Amended by: L.N. 24 of 2001.
 - Substituted by: X. 2003.47.
-- Amended by: L.N. 250 of 2004; L.N. 520 of 2004; L.N. 334 of 2006; L.N. 121 of 2007; L.N. 445 of 2007; L.N. 234 of 2009; L.N. 286 of 2010; L.N. 425 of 2010; L.N. 534 of 2010; L.N. 379 of 2011; L.N. 499 of 2011; L.N. 38 of 2012; L.N. 345 of 2013; L.N. 422 of 2013; L.N. 480 of 2014; L.N. 227 of 2015; L.N. 247 of 2016; L.N. 383 of 2016; L.N.347 of 2017; L.N. 9 of 2018; L.N.155 of 2019; L.N.302 of 2019; L.N.253 of 2019; L.N.222 of 2020; L.N. 4 of 2021; L.N. 358 of 2021; VII.2022.70; L.N. 138 of 2022; L.N. 12 of 2024; L.N. 228 of 2024; L.N. 345 of 2024; L.N. 355 of 2024.
+- Amended by: L.N. 250 of 2004; L.N. 520 of 2004; L.N. 334 of 2006; L.N. 121 of 2007; L.N. 445 of 2007; L.N. 234 of 2009; L.N. 286 of 2010; L.N. 425 of 2010; L.N. 534 of 2010; L.N. 379 of 2011; L.N. 499 of 2011; L.N. 38 of 2012; L.N. 345 of 2013; L.N. 422 of 2013; L.N. 480 of 2014; L.N. 227 of 2015; L.N. 247 of 2016; L.N. 383 of 2016; L.N.347 of 2017; L.N. 9 of 2018; L.N.155 of 2019; L.N.302 of 2019; L.N.253 of 2019; L.N.222 of 2020; L.N. 4 of 2021; L.N. 358 of 2021; VII.2022.70; L.N. 138 of 2022; L.N. 12 of 2024; L.N. 228 of 2024; L.N. 345 of 2024; L.N. 355 of 2024; L.N. 88 of 2025.
