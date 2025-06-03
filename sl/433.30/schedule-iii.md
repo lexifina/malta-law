@@ -1,16 +1,13 @@
 ## SCHEDULE III
 ## Raphanus raphanistrum & Agrostemma githago
-## 8
+## 7 8
 ## 1
 ## 3
 ## -
-## - - seed
-## Secale cereale
-## - 1
-## - 3 seed
-## Sorghum spp. -
+## - -
 ## x Triticosecale
-## - 3 seed 1st and 2nd generations
+## - basic seed 1
+## - certified 3 seed 1st and 2nd generations
 ## Zea mays -
 ## Raphanus Sinapis raphanist arvensis rum
 # schedule-iii
@@ -91,7 +88,8 @@ In the case of Trifolium subterraneum and Medicago spp. except M. sativa, the mi
 95% for the production of certified seed.
 The minimum varietal purity shall be examined mainly in field inspections carried out in accordance with the conditions laid down in Schedule II Section II.
 2. Standards or other conditions to be met by the seed
-The seeds shall satisfy the standards or other conditions set out in Table 1.19: Table 1.19:
+The seeds shall satisfy the standards or other conditions set out in Table 1.19:
+Table 1.19:
 Species Maximum content of seeds of other plant species Other
 standards Content by number in a sample of the weight specified
 or in column 4 of Table 1.33 of Schedule IV Section II
@@ -124,7 +122,8 @@ sentence of point 1 of Schedule II and Brassica oleracea convar. acephala 98%
 98%
 The minimum varietal purity shall be examined mainly in field inspections carried out in accordance with the conditions laid down in Schedule II Section II.
 2. Standards or other conditions to be met by the seeds
-The seeds shall conform to the following standards or other conditions as regards germination, analytical purity and content of seeds of other plant species, as shown in Tables 1.20 and 1.21:
+The seeds shall conform to the following standards or other conditions as regards germination, analytical purity and content of seeds of other plant
+species, as shown in Tables 1.20 and 1.21:
 Table 1.20:
 1 2 3 4 5 6 7 8 9 Poaceae (Gramineae)
 Agrostis 75(a) 90 2.0 1.0 0.3 canina Agrostis 75(a) 90 2.0 1.0 0.3 capillaris Agrostis 80(a) 90 2.0 1.0 0.3 gigantea Agrostis 75(a) 90 2.0 1.0 0.3 stolonifera Cynodon 70(a) 90 2.0 1.0 0.3 dactylon Festuca 75(a) 85 2.0 1.0 0.5 filiformis Festuca ovina 75(a) 85 2.0 1.0 0.5 Festuca 80(a) 95 1.5 1.0 0.5 pratensis Festuca rubra 75(a) 90 1.5 1.0 0.5 Festuca 75(a) 85 2.0 1.0 0.5 trachyphylla Lolium 7 (a) 96 1.5 1.0 0.5 multiflorum Lolium 80(a) 96 1.5 1.0 0.5 perenne Poa pratensis 75(a) 85 2.0 (c) 1.0 (c) 0.3 Fabaceae (Leguminosae)
@@ -152,8 +151,8 @@ where (reference to Tables 1.14 and 1.15)
 germination up to the maximum quantity indicated;
 (c) states that a maximum total of 0.8% by weight of seeds of other Poa
 species shall not be regarded as an impurity;
-(d) refers to the determination of seeds of Cuscuta spp. by number that
-need not be carried out unless there is doubt whether the conditions laid down in column 13 have been satisfied;
+(d) refers to the determination of seeds of Cuscuta spp. by number that need not be carried out unless there is doubt whether the conditions
+laid down in column 13 have been satisfied;
 (e) states that the presence of one seed of Cuscuta spp. in a sample of the prescribed weight shall not be regarded as an impurity where a second sample of the same weight is free from any seed of Cuscuta spp.;
 (f) refers to the weight of the sample for the determination of seeds of Cuscuta spp. by number which shall be twice the weight specified in column 4 of Table 1.33 of Schedule IV for the relevant species;
 (g) states that the presence of one seed of Cuscuta spp. in a sample of the prescribed weight, shall not be regarded as an impurity where a second sample of twice the prescribed weight is free from any seed of Cuscuta spp.;
@@ -215,7 +214,8 @@ mass potatoes by mass
 1 2 3
 Candidatus Liberibacter solanacearum Liefting et al. 0% 0%
 Ditylenchus destructor Thorne [DITYDE] 0% 0%
-Black scurf affecting tubers over more than 10% of their surface as caused by Thanatephorus cucumeris (A.B. Frank) Donk [RHIZSO] 5.0% 5.0% Powdery scab affecting tubers over more than 10% of their surface as caused by Spongospora subterranea (Wallr.) Lagerh. [SPONSU] 3.0% 3.0%
+Black scurf affecting tubers over more than 10% of their surface as caused by Thanatephorus cucumeris (A.B. Frank) Donk [RHIZSO] 5.0% 5.0%
+Powdery scab affecting tubers over more than 10% of their surface as caused by Spongospora subterranea (Wallr.) Lagerh. [SPONSU] 3.0% 3.0%
 (7) total tolerance for items 2 to 6: 6.0% by mass for basic seed potatoes, and 8.0% by mass for certified seed potatoes.
 Conditions for placing on the market of pre-basic seed potatoes as "Union grades PBTC and PB"
 (1) The conditions for pre-basic seed potatoes of Union grade PBTC shall be as follows:
@@ -369,9 +369,14 @@ Pepino mosaic virus Solanum lycopersicum L.
 [PEPMV0] 0%
 Potato spindle tuber viroid Capsicum annuum L.,
 [PSTVD0] Solanum lycopersicum L. 0%
+Tomato brown rugose fruit Capsicum annuum L., other
+virus [ToBRFV] than seeds belonging to a
+variety known to be resistant
+to ToBRFV. Solanum
+lycopersicum L. and hybrids
+thereof 0%
 Additional requirements:
-(i) Legume seeds shall not be contaminated by the following live insects:
- Acanthoscelides obtectus Sag.
+(i) Legume seeds shall not be contaminated by the following live insects:  Acanthoscelides obtectus Sag.
  Bruchus affinis Froel.
  Bruchus atomarius L.
  Bruchus pisorum L.
@@ -386,6 +391,6 @@ germination (%
 purity (% by weight) species (% by
 clusters of pure seed)
 weight)
-1 2 3 4 Allium cepa 97 0.5 70 Allium fistulosum 97 0.5 65 Allium porrum 97 0.5 65 Allium sativum 97 0.5 65 Allium schoenoprasum 97 0.5 65 Anthriscus cerefolium 96 1.0 70 Apium graveolens 97 1.0 70 Asparagus officinalis 96 0.5 70 Beta vulgaris 97 0.5 50 (clusters) (Garden Beet Group) Beta vulgaris 97 0.5 70 (clusters) (other than Garden Beet Group) Brassica oleracea 97 1.0 70 (Cauliflower Group) Brassica oleracea 97 1.0 75 (other than Cauliflower Group) Brassica rapa 97 1.0 75 (Chinese Cabbage Group) Brassica rapa 97 1.0 80 (Vegetable Turnip Group) Capsicum annuum 97 0.5 65 Cichorium endivia 95 1.0 65 Cichorium intybus 95 1.5 65 (Witloof Chicory Group, Leaf Chicory Group) Cichorium intybus 97 1.0 80 (Industrial (Root) Chicory Group) Citrullus lanatus 98 0.1 75 Cucumis melo 98 0.1 75 Cucumis sativus 98 0.1 80 Cucurbita maxima 98 0.1 80 Cucurbita pepo 98 0.1 75 Cynara cardunculus 96 0.5 65 Daucus carota 95 1.0 65 Foeniculum vulgare 96 1.0 70 Lactuca sativa 95 0.5 75 Petroselinum crispum 97 1.0 65 Phaseolus coccineus 98 0.1 80 Phaseolus vulgaris 98 0.1 75 Pisum sativum 98 0.1 80 Raphanus sativus 97 1.0 70 Rheum rhabarbarum 97 1.0 70 Scorzonera hispanica 95 0.5 70 Solanum lycopersicum 97 0.5 75 Solanum melongena 96 0.5 65 Spinacia oleracea 97 1.0 75 Valerianella locusta 95 1.0 65 Vicia faba 98 0.1 80
+1 2 3 4 Allium cepa 97 0.5 70 Allium fistulosum 97 0.5 65 Allium porrum 97 0.5 65 Allium sativum 97 0.5 65 Allium schoenoprasum 97 0.5 65 Anthriscus cerefolium 96 1.0 70 Apium graveolens 97 1.0 70 Asparagus officinalis 96 0.5 70 Beta vulgaris  97 0.5 50 (clusters) (Garden Beet Group) Beta vulgaris  97 0.5 70 (clusters) (other than Garden Beet Group) Brassica oleracea  97 1.0 70 (Cauliflower Group) Brassica oleracea  97 1.0 75 (other than Cauliflower Group) Brassica rapa  97 1.0 75 (Chinese Cabbage Group) Brassica rapa 97 1.0 80 (Vegetable Turnip Group) Capsicum annuum 97 0.5 65 Cichorium endivia 95 1.0 65 Cichorium intybus  95 1.5 65 (Witloof Chicory Group,  Leaf Chicory Group) Cichorium intybus  97 1.0 80 (Industrial (Root) Chicory Group) Citrullus lanatus 98 0.1 75 Cucumis melo 98 0.1 75 Cucumis sativus 98 0.1 80 Cucurbita maxima 98 0.1 80 Cucurbita pepo 98 0.1 75 Cynara cardunculus 96 0.5 65 Daucus carota 95 1.0 65 Foeniculum vulgare 96 1.0 70 Lactuca sativa 95 0.5 75 Petroselinum crispum 97 1.0 65 Phaseolus coccineus 98 0.1 80 Phaseolus vulgaris 98 0.1 75 Pisum sativum 98 0.1 80 Raphanus sativus 97 1.0 70 Rheum rhabarbarum 97 1.0 70 Scorzonera hispanica 95 0.5 70 Solanum lycopersicum 97 0.5 75 Solanum melongena 96 0.5 65 Spinacia oleracea 97 1.0 75 Valerianella locusta 95 1.0 65 Vicia faba 98 0.1 80
 In the case of varieties of Zea mays (sweetcorn - super-sweet types), the required minimum germination capacity is reduced to 80% of pure seed. The official label or the supplier's label, where appropriate, shall include the words "Minimum germination capacity 80%.
-- Amended by: L.N. 88 of 2020; L.N. 331 of 2020; L.N. 366 of 2021; L.N. 127 of 2022.
+- Amended by: L.N. 88 of 2020; L.N. 331 of 2020; L.N. 366 of 2021; L.N. 127 of 2022; L.N. 95 of 2025.

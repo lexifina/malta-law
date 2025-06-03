@@ -24,9 +24,15 @@ Viruses, viroids, virus-like diseases and phytoplasmas
 RNQPs or symptoms Vegetable propagating and Threshold for the presence caused by RNQPs planting material (genus or of RNQPs on the vegetable
 species) propagating and planting
 material
-Leek yellow stripe virus Allium sativum L. 1% [LYSV00] Onion yellow dwarf virus Allium cepa L., Allium 1% [OYDV00] sativum L. Potato spindle tuber viroid Capsicum annuum L., 0% [PSTVD0] Solanum lycopersicum L. Tomato spotted wilt Capsicum annuum L., 0% tospovirus [TSWV00] Lactuca sativa L., Solanum
+Leek yellow stripe virus Allium sativum L. 1% [LYSV00] Onion yellow dwarf virus Allium cepa L., Allium 1% [OYDV00] sativum L. Potato spindle tuber viroid Capsicum annuum L., 0% [PSTVD0] Solanum lycopersicum L. Tomato brown rugose fruit Capsicum annuum L., other 0% virus [ToBRFV] than material belonging to a
+variety known to be resistant
+to ToBRFV. Solanum
+lycopersicum L. and hybrids
+thereof
+Tomato spotted wilt Capsicum annuum L., 0% tospovirus [TSWV00] Lactuca sativa L., Solanum
 lycopersicum L., Solanum
 melongena L.
 Tomato yellow leaf curl Solanum lycopersicum L. 0% virus [TYLCV0]
 - Amended by: L.N. 115 of 2014.
 - Substituted by: L.N. 89 of 2020.
+- Amended by: L.N. 95 of 2025.
