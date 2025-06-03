@@ -1,4 +1,15 @@
 ## SCHEDULE III
+## Raphanus raphanistrum & Agrostemma githago
+## 7 8
+## 1
+## 3
+## -
+## - -
+## x Triticosecale
+## - basic seed 1
+## - certified 3 seed 1st and 2nd generations
+## Zea mays -
+## Raphanus Sinapis raphanist arvensis rum
 # schedule-iii
 Conditions to be satisfied by the seeds
 1. Agricultural plants
@@ -7,10 +18,11 @@ Basic seed, certified seed and certified seed of the first and second generation
 1. Varietal identity and varietal purity
 The seeds shall have sufficient varietal identity and varietal purity or, in the case of seeds of an inbred line, sufficient identity and purity as regards its characteristics. For seeds of hybrid varieties, the above mentioned provisions shall also apply to the characteristics of the components.
 In particular, seeds of the species listed below shall conform to the following standards or other conditions:
-A. Avena nuda, Avena sativa, Avena strigosa, Hordeum vulgare, Triticum
-aestivum, Triticum durum and Triticum spelta, other than hybrids in each case (Table 1.14):
+A. Avena nuda, Avena sativa, Avena strigosa, Hordeum vulgare, Triticum aestivum subsp. aestivum, Triticum turgidum subsp. durum, Triticum aestivum subsp. spelta other than hybrids in each case (Table 1.14):
 Table 1.14:
-Category Minimum varietal purity (%) 1 2 Basic seed 99.9
+Category Minimum varietal purity (%)
+1 2
+Basic seed 99.9
 Certified seed, 1st generation 99.7
 Certified seed, 2nd generation 99.0
 The minimum varietal purity shall be examined mainly in field inspections carried out in accordance with the conditions laid down in Schedule II Section I.
@@ -20,16 +32,17 @@ Category Minimum varietal purity (%) 1 2 Basic seed 99.7
 Certified seed, 1st generation 99.0
 Certified seed, 2nd generation 98.0
 The minimum varietal purity shall be examined mainly in field inspections carried out in accordance with the conditions laid down in Schedule II Section I.
-C. Hybrids of Avena nuda, Avena sativa, Avena strigosa, Hordeum vulgare,
-Triticum aestivum, Triticum durum, Triticum spelta and self-pollinating x Triticosecale:
+C. Hybrids of Avena nuda, Avena sativa, Avena strigosa, Hordeum vulgare, Triticum aestivum subsp. aestivum, Triticum aestivum subsp. spelta, Triticum turgidum subsp. durum and self-pollinating xTriticosecale:
 The minimum varietal purity of the seed of the category certified seed shall be 90%.
-In case of Hordeum vulgare produced by means of Cytoplasmic Male Sterility (CMS), it shall be 85%. Impurities other than the restorer shall not exceed 2%.
+In case of Hordeum vulgare, Triticum aestivum subsp. aestivum, Triticum aestivum subsp. spelta and Triticum turgidum subsp. durum produced by means of CMS, it shall be 85%. Impurities other than the restorer shall not exceed 2%.
 The minimum varietal purity shall be examined in official post-control test on an appropriate proportion of samples.
+The Directorate shall report by 28 February of each year to the Commission and the other Member States the results of the preceding year concerning the quantity of produced hybrid seeds of Triticum aestivum subsp. aestivum, Triticum aestivum subsp. spelta and Triticum turgidum subsp. durum, and the percentage of seed lots which have been rejected due to insufficient quality parameters, results of the post-control test and any further information justifying that rejection. This reporting obligation shall be applicable until 28 February 2030.
 D. Sorghum spp. and Zea mays:
 Where for the production of certified seed of hybrid varieties, a female male-sterile component and a male component which does not restore male fertility have been used, the seed shall be produced:
 (a) either by blending seed lots in a proportion appropriate to the variety where, on one hand, a female male-sterile component has been used and, on the other, a female male-fertile component has been used, or
 (b) by growing the female male-sterile component and the female male-fertile component in a proportion appropriate to the variety. The proportion of these components shall be examined in field inspections carried out in accordance with the conditions laid down in Schedule II.
-E. Hybrids of Secale cereale and CMS-hybrids of Hordeum vulgare:
+E. Hybrids of Secale cereale and CMS-hybrids of Hordeum vulgare, Triticum
+aestivum subsp. aestivum, Triticum aestivum subsp. spelta and Triticum turgidum subsp. durum:
 Seeds shall not be certified as certified seed unless due account has been taken of the results of an official post-control test, on samples of basic seed taken officially and carried out during the growing season of the seed entered for certification as certified seed, to ascertain whether the basic seed met the requirements for basic seed laid down in these regulations in respect of identity and purity as regards the characters of the components including male sterility.
 2. Seed health
 (a) The seed shall be practically free from any pests which reduce the usefulness and quality of the seed.
@@ -49,20 +62,6 @@ Hybrids of Secale cereale:
 3. Standards or other conditions to be met by the seeds
 The seeds shall conform to the following standards or other conditions with regards to germination, analytical purity and content of seeds of other plant species, as shown in Table 1.17:
 Table 1.17:
-Maximum content by number of seeds of other plant species in a sample of the weight specified in column 4
-of Table 1.32 of Schedule IV (total per column) Minimu Minimu
-m m Avena
-Species and germina analytical Plant fatua, Raphanus
-Other
-category tion (% purity Other species Avena raphanistru
-plant
-of pure (% by cereal other sterilis & m &
-species
-seed) weight) species than Lolium Agrostemma
-(a)
-cereals temulentu githago
-m
-1 2 3 4 5 6 7 8 Avena sativa, Avena strigosa Hordeum vulgare Triticum aestivum Triticum durum Triticum spelta. - basic seed 85 99 4 1 (b) 3 0 (c) 1 - certified seed 85 (d) 98 10 7 7 0 (c) 3 1st and 2nd generations Avena nuda - basic seed 75 99 4 1 (b) 3 0 (c) 1 - certified seed 75 (d) 98 10 7 7 0 (c) 3 1st and 2nd generations Phalaris canariensis - basic seed 75 98 4 1 (b) - 0 (c) - - certified seed 75 98 10 5 - 0 (c) - Secale cereale - basic seed 85 98 4 1 (b) 3 0 (c) 1 - certified seed 85 98 10 7 7 0 (c) 3 Sorghum spp. 80 98 0 - - - -x Triticosecale - basic seed 80 98 4 1 (b) 3 0 (c) 1 - certified seed 80 (d) 98 10 7 7 0 (c) 3 1st and 2nd generations Zea mays 90 98 0 - - - -
 where (reference to Table 1.17)
 (a) refers to the maximum content of seeds laid down in column 4 which
 includes also seeds of the species in columns 5 to 8;
@@ -81,7 +80,8 @@ Plants for RNQPs or symptoms planting Thresholds for Thresholds for Thresholds f
 species)
 1 2 3 4 5 Clavibacter Medicago 0% 0% 0% michiganensis ssp. sativa L. insidiosus (McCulloch 1925) Davis et al. [CORBIN] Ditylenchus dipsaci Medicago 0% 0% 0% (Kuehn) Filipjev sativa L. [DITYDI]
 A. Basic seed
-1. Varietal identity and varietal purity The minimum varietal purity of seeds of Pisum sativum, Brassica oleracea convar. acephala, Vicia faba and of varieties of Poa pratensis referred to in the second part of the third sentence of point 1 of Schedule II Section II (Fodder plants), shall be 99.7%.
+1. Varietal identity and varietal purity
+The minimum varietal purity of seeds of Pisum sativum, Brassica oleracea convar. acephala, Vicia faba and of varieties of Poa pratensis referred to in the second part of the third sentence of point 1 of Schedule II Section II (Fodder plants), shall be 99.7%.
 In the case of Trifolium subterraneum and Medicago spp. except M. sativa, the minimum varietal purity of seeds shall be:
 99.5% for the production of basic seed;
 98% for the production of certified seed for further multiplication; and
@@ -94,7 +94,7 @@ Species Maximum content of seeds of other plant species Other
 standards Content by number in a sample of the weight specified
 or in column 4 of Table 1.33 of Schedule IV Section II
 conditions (total per column)
-Total A single Rumex Elytrigia Alopecurus Melilotus
+Total A single Rumex Elymus Alopecurus Melilotus
 (% by species spp. other repens myosuroide spp.
 weight) than s
 Rumex acetosella & Rumex maritimus
@@ -122,22 +122,9 @@ sentence of point 1 of Schedule II and Brassica oleracea convar. acephala 98%
 98%
 The minimum varietal purity shall be examined mainly in field inspections carried out in accordance with the conditions laid down in Schedule II Section II.
 2. Standards or other conditions to be met by the seeds
-The seeds shall conform to the following standards or other conditions as regards germination, analytical purity and content of seeds of other plant species, as shown in Tables 1.20 and 1.21:
+The seeds shall conform to the following standards or other conditions as regards germination, analytical purity and content of seeds of other plant
+species, as shown in Tables 1.20 and 1.21:
 Table 1.20:
-Germin- Analytica
-ation l purity
-Maximum content of seeds of other plant
-Minimu Maximu Minimu
-species
-m m content m Species (% of weight)
-germina of hard analytic
-Raphanu
-tion (% seed (% al purity
-A single Elytrigia s Sinapis
-of pure of pure (% by Total
-species repens raphanist arvensis
-seed) seed) weight)
-rum
 1 2 3 4 5 6 7 8 9 Poaceae (Gramineae)
 Agrostis 75(a) 90 2.0 1.0 0.3 canina Agrostis 75(a) 90 2.0 1.0 0.3 capillaris Agrostis 80(a) 90 2.0 1.0 0.3 gigantea Agrostis 75(a) 90 2.0 1.0 0.3 stolonifera Cynodon 70(a) 90 2.0 1.0 0.3 dactylon Festuca 75(a) 85 2.0 1.0 0.5 filiformis Festuca ovina 75(a) 85 2.0 1.0 0.5 Festuca 80(a) 95 1.5 1.0 0.5 pratensis Festuca rubra 75(a) 90 1.5 1.0 0.5 Festuca 75(a) 85 2.0 1.0 0.5 trachyphylla Lolium 7 (a) 96 1.5 1.0 0.5 multiflorum Lolium 80(a) 96 1.5 1.0 0.5 perenne Poa pratensis 75(a) 85 2.0 (c) 1.0 (c) 0.3 Fabaceae (Leguminosae)
 Biserrula 70 98 0.5 pelecinus Galega 60 (a) (b) 40 97 2.0 1.5 0 0 orientalis Hedysarum 75 (a) (b) 30 95 2.5 1.0 coronarium Lathyrus 80 95 1 0.5 cicera Medicago 70 98 2 doliata Medicago 70(b) 20 98 2 italica Medicago 70 98 2 littoralis Medicago 70(b) 30 98 2 murex Medicago 70(b) 30 98 2 polymorpha Medicago 70(b) 20 98 2 rugosa Medicago 80 (a) (b) 40 97 1.5 1.0 sativa Medicago 70 98 2 scutellata Medicago 70 (b) 20 98 2 truncatula Ornithopus 75 90 1 compressus Ornithopus 75 90 1 sativus Pisum 80 (a) 98 0.5 0.3 sativum Trifolium 80 (a) (b) 20 97 1.5 1.0 alexandrinum Trifolium 70 98 1 fragiferum Trifolium 70 (b) 30 98 1 glanduliferum Trifolium 70 98 1 hirtum Trifolium 70 98 1 isthmocar-pum Trifolium 75 (b) 30 98 1 michelianum Trifolium 80 (a) (b) 20 97 1.5 1.0 pratense Trifolium 75 (b) 20 97 1.5 squarrosum Trifolium 80 (b) 40 97 0.5 subterraneum Trifolium 70 98 1 vesiculosum Vicia 80 (b) 20 97 (i) 1 benghalensis Vicia faba 80 (a) (b) 5 98 0.5 0.3 Vicia sativa 85 (a) (b) 20 98 1.0 (i) 0.5 (i)
@@ -205,8 +192,7 @@ caused by RNQPs on the lots of pre-basic seed potato
 1 2
 Candidatus Liberibacter solanacearum
 0% Liefting et al. [LIBEPS]
-Ditylenchus destructor Thorne
-0% [DITYDE]
+Ditylenchus destructor Thorne [DITYDE] 0%
 Black scurf affecting tubers over more than 10% of their surface as caused by
 1.0% Thanatephorus cucumeris (A.B. Frank) Donk [RHIZSO]
 Powdery scab affecting tubers over more than 10% of their surface as caused by Spongospora subterranea (Wallr.) Lagerh. [SPONSU] 1.0%
@@ -383,9 +369,14 @@ Pepino mosaic virus Solanum lycopersicum L.
 [PEPMV0] 0%
 Potato spindle tuber viroid Capsicum annuum L.,
 [PSTVD0] Solanum lycopersicum L. 0%
+Tomato brown rugose fruit Capsicum annuum L., other
+virus [ToBRFV] than seeds belonging to a
+variety known to be resistant
+to ToBRFV. Solanum
+lycopersicum L. and hybrids
+thereof 0%
 Additional requirements:
-(i) Legume seeds shall not be contaminated by the following live insects:
- Acanthoscelides obtectus Sag.
+(i) Legume seeds shall not be contaminated by the following live insects:  Acanthoscelides obtectus Sag.
  Bruchus affinis Froel.
  Bruchus atomarius L.
  Bruchus pisorum L.
@@ -394,10 +385,12 @@ Additional requirements:
 3. Standards or conditions to be met by the seeds
 The seeds shall satisfy the standards or conditions shown in Table 1.31.
 Table 1.31:
-Minimum Maximum content Minimum
-Species analytical purity of seeds of other germination (%
-(% by weight) plant species (% clusters of pure
-by weight) seed)
-1 2 3 4 Allium cepa 97 0.5 70 Allium fistulosum 97 0.5 65 Allium porrum 97 0.5 65 Allium sativum 97 0.5 65 Allium schoenoprasum 97 0.5 65 Anthriscus cerefolium 96 1.0 70 Apium graveolens 97 1.0 70 Asparagus officinalis 96 0.5 70 Beta vulgaris 97 0.5 50 (clusters) (Garden Beet Group) Beta vulgaris 97 0.5 70 (clusters) (other than Garden Beet Group) Brassica oleracea 97 1.0 70 (Cauliflower Group) Brassica oleracea 97 1.0 75 (other than Cauliflower Group) Brassica rapa 97 1.0 75 (Chinese Cabbage Group) Brassica rapa 97 1.0 80 (Vegetable Turnip Group) Capsicum annuum 97 0.5 65 Cichorium endivia 95 1.0 65 Cichorium intybus 95 1.5 65 (Witloof Chicory Group, Leaf Chicory Group) Cichorium intybus 97 1.0 80 (Industrial (Root) Chicory Group) Citrullus lanatus 98 0.1 75 Cucumis melo 98 0.1 75 Cucumis sativus 98 0.1 80 Cucurbita maxima 98 0.1 80 Cucurbita pepo 98 0.1 75 Cynara cardunculus 96 0.5 65 Daucus carota 95 1.0 65 Foeniculum vulgare 96 1.0 70 Lactuca sativa 95 0.5 75 Petroselinum crispum 97 1.0 65 Phaseolus coccineus 98 0.1 80 Phaseolus vulgaris 98 0.1 75 Pisum sativum 98 0.1 80 Raphanus sativus 97 1.0 70 Rheum rhabarbarum 97 1.0 70 Scorzonera hispanica 95 0.5 70 Solanum lycopersicum 97 0.5 75 Solanum melongena 96 0.5 65 Spinacia oleracea 97 1.0 75 Valerianella locusta 95 1.0 65 Vicia faba 98 0.1 80
+Maximum content of
+Minimum Species Minimum analytical seeds of other plant
+germination (%
+purity (% by weight) species (% by
+clusters of pure seed)
+weight)
+1 2 3 4 Allium cepa 97 0.5 70 Allium fistulosum 97 0.5 65 Allium porrum 97 0.5 65 Allium sativum 97 0.5 65 Allium schoenoprasum 97 0.5 65 Anthriscus cerefolium 96 1.0 70 Apium graveolens 97 1.0 70 Asparagus officinalis 96 0.5 70 Beta vulgaris  97 0.5 50 (clusters) (Garden Beet Group) Beta vulgaris  97 0.5 70 (clusters) (other than Garden Beet Group) Brassica oleracea  97 1.0 70 (Cauliflower Group) Brassica oleracea  97 1.0 75 (other than Cauliflower Group) Brassica rapa  97 1.0 75 (Chinese Cabbage Group) Brassica rapa 97 1.0 80 (Vegetable Turnip Group) Capsicum annuum 97 0.5 65 Cichorium endivia 95 1.0 65 Cichorium intybus  95 1.5 65 (Witloof Chicory Group,  Leaf Chicory Group) Cichorium intybus  97 1.0 80 (Industrial (Root) Chicory Group) Citrullus lanatus 98 0.1 75 Cucumis melo 98 0.1 75 Cucumis sativus 98 0.1 80 Cucurbita maxima 98 0.1 80 Cucurbita pepo 98 0.1 75 Cynara cardunculus 96 0.5 65 Daucus carota 95 1.0 65 Foeniculum vulgare 96 1.0 70 Lactuca sativa 95 0.5 75 Petroselinum crispum 97 1.0 65 Phaseolus coccineus 98 0.1 80 Phaseolus vulgaris 98 0.1 75 Pisum sativum 98 0.1 80 Raphanus sativus 97 1.0 70 Rheum rhabarbarum 97 1.0 70 Scorzonera hispanica 95 0.5 70 Solanum lycopersicum 97 0.5 75 Solanum melongena 96 0.5 65 Spinacia oleracea 97 1.0 75 Valerianella locusta 95 1.0 65 Vicia faba 98 0.1 80
 In the case of varieties of Zea mays (sweetcorn - super-sweet types), the required minimum germination capacity is reduced to 80% of pure seed. The official label or the supplier's label, where appropriate, shall include the words "Minimum germination capacity 80%.
-- Amended by: L.N. 88 of 2020; L.N. 331 of 2020.
+- Amended by: L.N. 88 of 2020; L.N. 331 of 2020; L.N. 366 of 2021; L.N. 127 of 2022; L.N. 95 of 2025.

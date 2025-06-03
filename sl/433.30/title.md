@@ -1,5 +1,5 @@
 SUBSIDIARY LEGISLATION 433.30
 SEEDS OF AGRICULTURAL PLANTS
 AND VEGETABLES REGULATIONS
-3rd Jannar, 2018
-LEGAL NOTICE 2 of 2018, as amended by Legal Notice 5 of 2019 and 88, 331 and 422 of 2020.
+3rd January, 2018
+LEGAL NOTICE 2 of 2018, as amended by Legal Notice 5 of 2019 and 88, 331, 422 of 2020, 366 and 507 of 2021, 127 of 2022 and 95 of 2025.

@@ -16,12 +16,16 @@ The satisfaction of all the standards or other conditions mentioned in this Sche
 These field inspections shall be carried out in accordance with the following conditions:
 (a) The condition and the stage of development of the crop shall permit an adequate examination;
 (b) The number of field inspections shall be at least:
- for Avena nuda, Avena sativa, Avena strigosa, 1
-Hordeum vulgare, Phalaris canariensis, Triticum aestivum, Triticum durum, Triticum spelta, x Triticosecale and Secale cereale:
+ for Avena nuda, Avena sativa, Avena strigosa, Hordeum
+vulgare, Phalaris canariensis, xTriticosecale, Triticum aestivum subsp. aestivum, Triticum turgidum subsp. durum, Triticum aestivum subsp. spelta, Secale cereale: 1
  for Sorghum spp. and Zea mays during the flowering
-season: - open-pollinated varieties 1 - inbred lines or hybrids 3
+season: - open-pollinated varieties
+1
+- inbred lines or hybrids
+3
 When the crop follows a Sorghum spp. and Zea mays crop in either the preceding year or current year, at least one special field inspection shall be carried out to check the satisfaction of the provisions laid down in point 3 mentioned previously in this Schedule.
 The size, the number and the distribution of the portions of the field to be inspected in order to examine the satisfaction of the provisions of this Schedule, shall be determined in accordance with appropriate methods.
+In the case where, following the implementation of points 1., 4. and A.1, there is still doubt as to the varietal identity of the seed, the certification authority may use, for the examination of that identity, an internationally recognised and reproducible biochemical or molecular technique, in accordance with the applicable international standards.
 A. Basic seed and certified seed
 1. Varietal identity and varietal purity
 As indicated in point 1 previously, the crop shall possess sufficient varietal identity and purity. In the case of a crop of an inbred line, sufficient identity and purity as regards its characteristics must be present.
@@ -74,12 +78,13 @@ Table 1.6:
 Minimum
 Crop
 distance
-1 2 Phalaris canariensis, and Secale cereale other than hybrids: - for the production of basic seed 300m - for the production of certified seed 250m Sorghum spp. - for the production of basic seed (*) 400m - for the production of certified seed (*) 200m x Triticosecale, self-pollinating varieties: - for the production of basic seed 50m - for the production of certified seed 20m Zea mays 200m
-(*) In the areas where the presence of S. halepense or S. sudanense is a particular cross-
-pollination issue, the following shall apply:
-(a) crops to produce basic seed of Sorghum bicolor or its hybrids must be isolated not less than 800m from any source of such contaminating pollen;
-(b) crops to produce certified seed of Sorghum bicolor or its hybrids must be isolated not less than 400m from any source of such contaminating pollen.
-The minimum distances listed in the table above may be disregarded if there is sufficient protection from any undesirable foreign pollination.
+1 2 Phalaris canariensis, and Secale cereale other than hybrids: - for the production of basic seed 300m - for the production of certified seed 250m Sorghum spp. - for the production of basic seed (*) 400m - for the production of certified seed (*) 200m
+x Triticosecale, self-pollinating varieties: - for the production of basic seed 50m - for the production of certified seed 20m Zea mays 200m
+(*) In the areas where the presence of S. halepense or S. bicolor subsp. drummondii is a particular cross-pollination issue, the following shall apply:
+(a) crops to produce basic seed of Sorghum bicolor subsp. bicolor or its hybrids must be isolated not less than 800 m from any source of such contaminating pollen;
+(b) crops to produce certified seed of Sorghum bicolor subsp. bicolor or its hybrids must be isolated not less than 400 m from any source of such contaminating pollen.
+The minimum distances listed in the table above may be disregarded if there is
+sufficient protection from any undesirable foreign pollination.
 These distances can be disregarded if there is sufficient protection from any undesirable foreign pollination.
 B. Hybrids of Secale cereale:
 1. Varietal identity and varietal purity
@@ -99,19 +104,22 @@ Minimum
 Crop
 distance
 1 2 For the production of basic seed - where the male sterility is used 1000m - where male sterility is not used 600m For the production of certified seed 500m
-C. Crops to produce certified seed of hybrids of Avena nuda, Avena sativa, Avena
-strigosa, Triticum aestivum, Triticum durum, Triticum spelta and self-pollinating xTriticosecale and crops to produce certified seed of hybrids of Hordeum vulgare by means of a technique other than Cytoplasmic Male Sterility (CMS):
+C. Crops to produce certified seed of hybrids of Avena nuda, Avena sativa, Avena strigosa and self-pollinating xTriticosecale and crops to produce certified seed of hybrids of Hordeum vulgare, Triticum aestivum subsp. aestivum, Triticum aestivum subsp. spelta and Triticum turgidum subsp. durum, by means of a technique other than Cytoplasmic Male Sterility (CMS):
 1. Varietal identity and varietal purity
 The crop shall have sufficient identity and purity as regards the characteristics of the components.
-Where seed is produced by use of a chemical hybridisation agent, the crop shall conform to the following standards or conditions:
+Where seed is produced by use of a chemical hybridisation agent, the crop shall conform to the following other standards or conditions:
 (i) the minimum varietal purity of each component shall be:
-- 99.7% for Avena nuda, Avena sativa, Avena strigosa, Hordeum
-vulgare, Triticum aestivum, Triticum durum, Triticum spelta; and
-- 99% for self-pollinating x Triticosecale.
-(ii) the minimum hybridity must be 95%. The percentage hybridity shall be assessed in accordance with current international methods, in so far as such methods exist. In cases where the hybridity is determined during seed testing prior to certification, the determination of hybridity during field inspection need not be done.
+- Avena nuda, Avena sativa, Avena strigosa, Hordeum vulgare,
+Triticum aestivum subsp. aestivum, Triticum turgidum subsp. durum and Triticum aestivum subsp. spelta: 99,7%,
+- self-pollinating xTriticosecale: 99,0%;
+(ii) the minimum hybridity must be 95%. The percentage hybridity shall
+be assessed in accordance with current international methods, in so far as such methods exist. In cases where the hybridity is determined during seed testing prior to certification, the determination of the hybridity during field inspection need not be done.
 2. Isolation distances
-The minimum distance of the female component of the cereal crop shall be 25m away from any other variety of the same species except from a crop of the male component. This will prevent undesirable foreign pollination from occurring.
-With the approval of the Directorate, this distance can be disregarded if there is sufficient protection from any undesirable foreign pollination.
+The crop shall conform to the following standards as regards distances from neighbouring sources of pollen which may result in undesirable foreign pollination:
+- the minimum distance of the female component shall be 25 m
+from any other variety of the same species except from a crop of the male component,
+- with the approval of the Directorate, this distance can be
+disregarded if there is sufficient protection from any undesirable foreign pollination.
 3. Crops to produce basic and certified seed of hybrids of Hordeum vulgare by means of the technique of CMS:
 (a) The crop shall conform to the following standards as regards distances from neighbouring sources of pollen which may result in undesirable foreign pollination:
 Crop Minimum distance
@@ -119,8 +127,9 @@ Crop Minimum distance
 For the production of basic seed 100m For the production of certified seed 50m
 (b) The crop shall have sufficient varietal identity and purity as regards the characteristics of the components.
 In particular, the crop shall conform to the following standards:
-(i) The percentage by number of plants which are obviously not being true to type shall not exceed: - for the crops used to produce basic seed, 0.1% for the maintainer
-and the restorer line and 0.2% for the CMS female component, and
+(i) The percentage by number of plants which are obviously not being true to type shall not exceed:
+- for the crops used to produce basic seed, 0.1% for the
+maintainer and the restorer line and 0.2% for the CMS female component, and
 - for the crops used to produce certified seed, 0.3% for the
 restorer and the CMS female component and 0.5% in case the
 CMS female component is a single hybrid.
@@ -129,6 +138,26 @@ CMS female component is a single hybrid.
 - 99.5% for crops used to produce certified seed.
 (iii) The requirements of points (i) and (ii) shall be examined in official post-control test.
 (c) Certified seed may be produced in mixed cultivation of female male-sterile component with a male component which restores fertility.
+4. Crops to produce basic and certified seed of hybrids of Triticum aestivum subsp. aestivum, Triticum aestivum subsp. spelta and Triticum turgidum subsp. durum by means of CMS:
+(a) The crop shall conform to the following standards as regards distances from neighbouring sources of pollen, which may result in undesirable foreign pollination:
+Crop Minimum distance
+1 2
+For the CMS female component for the 300m production of basic seed For the production of certified seed 25m
+(b) The crop shall have sufficient varietal identity and purity as regards the characteristics of the components.
+In particular, the crop shall conform to the following standards:
+(i) The percentage by number of plants, which are obviously not true to type, shall not exceed:
+- for the crops used to produce basic seed, 0.1% for the
+maintainer and the restorer line and 0.3% for the CMS
+female component, and
+- for the crops used to produce certified seed, 0.3% for the
+restorer and 0.6% for the CMS female component and 1% in case the CMS female component is a single hybrid;
+(ii) The level of male sterility of the female component shall be at least:
+- 99.7% for crops used to produce basic seed, and
+- 99% for crops used to produce certified seed;
+(iii) The conformity with the requirements of points (i) and (ii)
+shall be examined by official post-control test.
+(c) Certified seed may be produced in mixed cultivation of a female male-sterile component with a male component, which restores fertility.
+The Directorate shall report by 28 February of each year to the Commission and the other Member States the results of the preceding year concerning the quantity of produced hybrid seeds, compliance of the field inspections with the respective requirements, the percentage of seed lots, which have been rejected due to insufficient quality parameters, and any further information justifying that rejection This reporting obligation shall be applicable until 28 February 2030.
 II. Fodder Plants
 Basic seed, certified seed, certified seed of the first and second generations
 1. Varietal identity and varietal purity
@@ -162,6 +191,8 @@ These field inspections shall be carried out in accordance with the following co
 development and condition of the crop shall permit an adequate examination; and
  There shall be at least one field inspection.
 The size, the number and the distribution of the portions of the field to be inspected in order to examine the satisfaction of the provisions of this Schedule, shall be determined in accordance with appropriate methods.
+4.a In the case where, following the implementation of points 1. and 4., there is
+still doubt as to the varietal identity of the seed, the certification authority may use, for the examination of that identity, an internationally recognised and reproducible biochemical or molecular technique, in accordance with the applicable international standards.
 5. Isolation distances
 The crop shall conform to the following standards shown in Table 1.9 as regards distances from neighbouring sources of pollen which may result in undesirable foreign pollination.
 Table 1.9:
@@ -192,17 +223,19 @@ virus S, Potato virus X, and Potato virus Y;
 (c) the maximum number of field generations shall be four;
 (d) RNQPs, or symptoms caused by the respective RNQPs, shall not be present above the thresholds on the pre-basic seed potatoes as set out in tables 1.10 and 1.11 below:
 Table 1.10:
-Threshold for the presence of RNQPs on
+Threshold for the presence of RNQPs
 RNQPs or symptoms caused by
-the growing plants for pre-basic seed
+on the growing plants for pre-basic seed
 RNQPs
 potatoes
 1 2 Blackleg (Dickeya Samson et al. spp. 0% [1DICKG]; Pectobacterium Waldee emend. Hauben et al. spp. [1PECBG]) Candidatus Liberibacter solanacearum 0% Liefting et al. [LIBEPS] Candidatus Phytoplasma solani Quaglino et 0% al. [PHYPSO] Mosaic symptoms caused by viruses and 0.1%
 symptoms caused by Potato leaf roll virus [PLRV00] Potato spindle tuber viroid [PSTVD0] 0%
 Table 1.11:
-Threshold for the presence of RNQPs on
-RNQPs or symptoms caused by RNQPs the direct progeny of pre-basic seed
-potatoes
+Threshold for the presence of RNQPs
+RNQPs or symptoms caused by
+on the direct progeny of pre-basic
+RNQPs
+seed potatoes
 1 2 Symptoms of virus infection 0.5%
 2. It has to be provided that pre-basic seed potatoes may be marketed as "Union grades PBTC" and "Union grade PB", in accordance with the conditions set out in the Schedule.
 3. Compliance with the requirements of points (b) and (d) of paragraph 1 shall be established through official field inspections. In case of doubt, those inspections shall be supplemented by official tests on leaves.
@@ -228,8 +261,7 @@ potatoes potatoes
 Symptoms of virus infection 4.0% 10.0%
 4. The maximum number of generations of basic seed potatoes shall be four, and the combined generations of pre-basic seed potatoes in the field and basic seed potatoes shall be seven.
 The maximum number of generations of certified seed potatoes shall be two.
-If the generation is not indicated on the official label, the seed potatoes concerned shall be considered as belonging to the maximum generation that is permitted within the respective category.
-2. Vegetables
+If the generation is not indicated on the official label, the seed potatoes concerned shall be considered as belonging to the maximum generation that is permitted within the respective category. 2. Vegetables
 Basic and certified seed
 1. Varietal identity and varietal purity
 The crop shall possess adequate varietal identity and varietal purity.
@@ -241,11 +273,11 @@ The crop may be grown only on land that has not previously been cropped in a man
 4. Field and crop inspections
 In the case of basic seed, at least one official field inspection shall be carried out. For certified seed, at least one field inspection shall be carried out, officially controlled by means of check inspection of at least 20% of the crop of each species.
 The cultural condition of the field and the stage of development of the crop shall be such as to permit suitable checks of varietal identity and purity and health status of the crop.
+4.a In the case where, following the implementation of points 1. and 4., there is still doubt as to the varietal identity of the seed, the certification authority may use, for the examination of that identity, an internationally recognised and reproducible biochemical or molecular technique, in accordance with the applicable international standards.
 5. Isolated distances
 The minimum distances from neighbouring plants which might result in undesirable foreign pollination shall be the following:
 (a) Beta vulgaris
-(i) From any pollen sources of the genus Beta not included in sub-
-paragraphs (ii) or (iii)
+(i) From any pollen sources of the genus Beta not included in sub-paragraphs (ii) or (iii)
 1000m
 (ii) From pollen sources of varieties of the same subspecies
 belonging to a different group of varieties:
@@ -254,8 +286,7 @@ belonging to a different group of varieties:
 (iii) From pollen sources of varieties of the same subspecies belonging to the same group of varieties:
 - crops to produce basic seed 600m
 - crops to produce certified seed 300m
-The groups of varieties referred to in items (ii) and (iii) shall be
-determined by the Directorate.
+The groups of varieties referred to in items (ii) and (iii) shall be determined by the Directorate.
 (b) Brassica species
 (i) From sources of foreign pollen liable to cause serious
 deterioration of varieties of Brassica species:
@@ -278,5 +309,4 @@ of Brassica species:
 (ii) From other sources of foreign pollen liable to cross with varieties of other species as a result of cross-fertilisation:
 - crops to produce basic seed 300m
 - crops to produce certified seed 100m
-With the approval of the Directorate, these distances can be disregarded if there is
-adequate protection from any undesirable, foreign pollination.
+With the approval of the Directorate, these distances can be disregarded if there is adequate protection from any undesirable, foreign pollination.
