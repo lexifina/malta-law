@@ -126,6 +126,8 @@ hexahydrocannabiphorol 6a,7,8,9,10,10a-
 acetate hexahydrobenzo[c]chromen-1-yl acetate
 Delta-8-THCH, (6aR,10aR)-3-hexyl-6a,7,10,10a-delta-8-tetrahydrocannabihexol terahydro-6,6,9-trimethyl-6H-
 delta-8-THC-C6 dibenzo[b,d]pyran-1-ol".
+3-nonyl-6a,7,8,9,10,10a-hexahydro- HHC-C9 or CC9 6,6,9-trimethyl-6H-dibenzo[b,d]pyran-
+1-ol
 And any derivatives, salts, or esters of the above.
 PART B
 International or other nonproprietary
@@ -204,8 +206,9 @@ Alpha-PiHP, α-PiHP 4-methyl-1-phenyl-2-(pyrrolidin-1-yl)pentan-1-one)
 BROMAZOLAM 8-bromo-1-methyl-6-phenyl-4H-[1,2,4]triazolo[4,3-a][1,4]benzodiazepine
 DIPENTYLONE 1-(1,3-benzodioxol-5-yl)-2-(dimethylamino)pentan-1-one
 2-FLUORODESCHLOROKETAMINE (2-FDCK) 2-(2-fluorophenyl)-2-methylamino-cyclohexanone
+CARISOPRODOL (2RS)-2-[(carbamoyloxy)methyl]-2-methylpentyl (1-methylethyl)carbamate
 And any salts or esters of the above.
 - Added by: V.1985.15.
 - Amended by: XVII.1986.5; L.N. 34 of 1986.
 - Substituted by: L.N. 48 of 1990.
-- Amended by: L.N. 31 of 1997; L.N. 79 of 1998; International or other nonproprietary; L.N. 285 of 2001; L.N. 38 of 2002; name or other trivial name; L.N. 209 of 2002; L.N. 222 of 2002; L.N. 212 of 2003; L.N. 374 of 2003; L.N. 135 of 2006; L.N. 260 of 2006; L.N. 127 of 2007; L.N. 404 of 2007; L.N. 174 of 2010; L.N. 423 of 2010; L.N. 149 of 2012; L.N. 412 of 2012; L.N. 362 of 2013; L.N. 364 of 2013; L.N. 404 of 2013; L.N. 48 of 2016; L.N. 357 of 2017; L.N.358 of 2017; L.N. 231 of 2018; L.N. 268 of 2018; L.N. 190 of 2019; L.N. 111 of 2021; L.N. 292 of 2021; L.N. 293 of 2021; L.N. 166 of 2022; L.N. 252 of 2022; L.N. 155 of 2023; L.N. 178 of 2024; L.N. 237 of 2024.
+- Amended by: L.N. 31 of 1997; L.N. 79 of 1998; International or other nonproprietary; L.N. 285 of 2001; L.N. 38 of 2002; name or other trivial name; L.N. 209 of 2002; L.N. 222 of 2002; L.N. 212 of 2003; L.N. 374 of 2003; L.N. 135 of 2006; L.N. 260 of 2006; L.N. 127 of 2007; L.N. 404 of 2007; L.N. 174 of 2010; L.N. 423 of 2010; L.N. 149 of 2012; L.N. 412 of 2012; L.N. 362 of 2013; L.N. 364 of 2013; L.N. 404 of 2013; L.N. 48 of 2016; L.N. 357 of 2017; L.N.358 of 2017; L.N. 231 of 2018; L.N. 268 of 2018; L.N. 190 of 2019; L.N. 111 of 2021; L.N. 292 of 2021; L.N. 293 of 2021; L.N. 166 of 2022; L.N. 252 of 2022; L.N. 155 of 2023; L.N. 178 of 2024; L.N. 237 of 2024; L.N. 98 of 2025.
