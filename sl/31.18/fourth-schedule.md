@@ -2,11 +2,11 @@
 # fourth-schedule
 (Regulation 13(4))
 CONFIDENTIAL
-(Return in terms of regulation 13 - Prescriptions for amphetamine and its isomers, flunitrazepam, mecloqualone, methaqualone, and phenmetrazine and secobarbital or a combination of secobarbital and amobarbital in tablet or capsule form or in sachet
-or cachet and their respective salts or esters)
+(Return in terms of regulation 13 - Prescriptions for flunitrazepam, mecloqualone, methaqualone, and phenmetrazine and secobarbital or a combination of secobarbital and amobarbital in tablet or capsule form or in sachet or cachet and their respective
+salts or esters)
 IMPORTANT - Prescription for these preparations can only be issued after written approval is obtained from the Superintendent of Public Health for each prescription.
 NAME AND ADDRESS OF PATIENT ...............................................
 ............................................... LEGALLY VALID IDENTIFICATION ............................................... DOCUMENT NUMBER AGE ............................................... NAME OF PREPARATION AND STRENGTH ...............................................
 ............................................... QUANTITY PRESCRIBED ............................................... DAILY DOSE ............................................... DATE OF PRESCRIPTION ............................................... DATE AND REF. NO. OF APPROVAL BY SUPERINTENDENT OF PUBLIC HEALTH ............................................... SIGNATURE OF MEDICAL PRACTITIONER ............................................... NAME (Block Letters) ............................................... ADDRESS ...............................................
 ............................................... ...............................................
-- Amended by: L.N. 426 of 2012; L.N. 380 of 2017.
+- Amended by: L.N. 426 of 2012; L.N. 380 of 2017; L.N. 100 of 2025.

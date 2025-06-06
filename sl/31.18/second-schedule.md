@@ -60,4 +60,6 @@ BROMAZOLAM 8-bromo-1-methyl-6-phenyl-4H-
 DIPENTYLONE 1-(1,3-benzodioxol-5-yl)-2-
 (dimethylamino)pentan-1-one
 2-FLUORODESCHLOROKETAMINE (2- 2-(2-fluorophenyl)-2-methylamino- FDCK) cyclohexanone
+CARISOPRODOL (2RS)-2-[(carbamoyloxy)methyl]-2-
+methylpentyl (1-methylethyl)carbamate
 And any salts or esters of the above.

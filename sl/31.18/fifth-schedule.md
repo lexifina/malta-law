@@ -2,10 +2,11 @@
 # fifth-schedule
 (Regulation 13(5))
 CONFIDENTIAL
-(Return in terms of regulation 13 - Prescriptions for amphetamine and its isomers, mecloqualone, methaqualone, and phenmetrazine and secobarbital or a combination of secobarbital and amobarbital in tablet or capsule form or in sachet or cachet and
-their respective salts or esters)
+(Return in terms of regulation 13 - Prescriptions for mecloqualone, methaqualone,
+and phenmetrazine and secobarbital or a combination of secobarbital and amobarbital in tablet or capsule form or in sachet or cachet and their respective salts
+or esters)
 NAME AND ADDRESS OF PATIENT .............................................
 ............................................. LEGALLY VALID IDENTIFICATION ............................................. DOCUMENT NUMBER NAME OF PREPARATION AND STRENGTH .............................................
 ............................................. QUANTITY PRESCRIBED ............................................. DATE OF PRESCRIPTION ............................................. NAME OF PRESCRIBER ............................................. SIGNATURE OF APOTHECARY ............................................. NAME (Block Letters) ............................................. DH LICENCE NUMBER ............................................. ADDRESS (of Pharmacy) .............................................
 ............................................. ............................................. DATE OF DISPENSING .............................................
-- Amended by: L.N. 426 of 2012; L.N. 380 of 2017.
+- Amended by: L.N. 426 of 2012; L.N. 380 of 2017; L.N. 100 of 2025.
