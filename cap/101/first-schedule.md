@@ -21,8 +21,7 @@ BENZETHIDINE
 BENZYLMORPHINE
 BETACETYLMETHADOL
 BETA-HYDROXYFENTANYL
-BETA-HYDROXY-3-METHYLFENTANYL
-BETAMEPRODINE
+BETA-HYDROXY-3-METHYLFENTANYL BETAMEPRODINE
 BETAMETHADOL
 BETAPRODINE
 BEZITRAMIDE
@@ -51,11 +50,12 @@ DIPHENOXYLATE
 DIPIPANONE
 DROTEBANOL
 ECGONINE, its esters and derivatives which are convertible to ecgonine and cocaine
-ETAZENE, 2-[(4-ethoxyphenyl)methyl]-N,N-diethyl-1H-benzimidazole-1-ethanamine
-ETHYLMETHYLTHIAMBUTENE
+ETAZENE, 2-[(4-ethoxyphenyl)methyl]-N,N-diethyl-1H-benzimidazole-1-ethanamine ETHYLMETHYLTHIAMBUTENE
 ETONITAZENE
+ETONITAZEPIPNE, 2-[(4-Ethoxyphenyl)methyl]-5-nitro-1-(2-piperidin-1-ylethyl)-1H-benzoimidazole
 ETONITAZEPYNE, 2-[(4-ethoxyphenyl)methyl]-5-nitro-1-(2-pyrrolidin-1-ylethyl)-1H-benzoimidazole
-ETORPHINE ETOXERIDINE
+ETORPHINE
+ETOXERIDINE
 FENTANYL
 4-FLUOROISOBUTYRFENTANYL (4-FIBF, pFIBF), N-(4- Fluorophenyl)-2-methyl-N-[1-(2-phenylethyl)piperidin-4-yl]propanamide
 FURANYLFENTANYL, N-phenyl-N-[1-(2-phenylethyl)piperidin-4-yl]furan-2-carboxamide
@@ -80,16 +80,18 @@ METHOXYACETYLFENTANYL, 2-methoxy-N-phenyl-N-[1-(2-phenylethyl)piperidin-4-yl]ace
 2-methyl-AP-237, 1-{2-methyl-4-[(2E)-3-phenylprop-2-en-1-yl]piperazin-1-yl}butan-1-one
 METHYLDESORPHINE
 METHYLDIHYDROMORPHINE
-METHYLFENTANYL (CIS and TRANS ISOMERS)
-METHYLPHENYLPIPERIDOL PROPRIONATE (MPPP)
+METHYLFENTANYL (CIS and TRANS ISOMERS) METHYLPHENYLPIPERIDOL PROPRIONATE (MPPP)
 METONITAZENE, N,N-diethyl-2-[(4-methoxyphenyl)methyl]-5-nitro-1H-benzimidazole-1-ethanamine
+METONITAZEPYNE, 2-[(4-methoxyphenyl) methyl]-5-nitro-1-(2-pyrrolidin-1-ylethyl)-1H-benzoimidazole
 METOPON
 MORAMIDE - INTERMEDIATE
 MORPHERIDINE
-MORPHINE MORPHINE METHOBROMIDE and other pentavelent nitrogen morphine derivatives, including in particular the morphine- Noxide derivatives, one of which is Codeine-N-Oxide
+MORPHINE
+MORPHINE METHOBROMIDE and other pentavelent nitrogen morphine derivatives, including in particular the morphine- Noxide derivatives, one of which is Codeine-N-Oxide
 MORPHINE-N-OXIDE
 MT-45, (1-cyclohexyl-4-(1,2-diphenylethyl)piperazine)
 MYROPHINE
+N-desethylisotonitazene,N-ethyl-2-[2-[(4-isopropoxyphenyl) methyl]-5-nitro-benzimidazol-1-yl]ethanamine
 NICOMORPHINE
 NORACYMETHADOL
 NORLEVORPHANOL
@@ -108,8 +110,7 @@ PETHIDINE - INTERMEDIATE - A
 PETHIDINE - INTERMEDIATE - B
 PETHIDINE - INTERMEDIATE - C
 PHENADOXONE
-PHENAMPROMIDE
-PHENAZOCINE
+PHENAMPROMIDE PHENAZOCINE
 PHENETHYLPHENYLPIPERIDOL ACETATE (ESTER) (PEPAP)
 PHENOMORPHAN
 PHENOPERIDINE
@@ -117,7 +118,9 @@ PIMINODINE
 PIRITRAMIDE
 PROHEPTAZINE
 PROPERIDINE
-PROTONITAZENE, N,N-diethyl-5-nitro-2-[(4-propoxyphenyl)methyl]-1-H-benzimidazole-1-ethanamine RACEMETHORPHAN
+PROTONITAZENE, N,N-diethyl-5-nitro-2-[(4-propoxyphenyl)methyl]-1-H-benzimidazole-1-ethanamine
+PROTONITAZEPYNE, 5-nitro-2-[(4-propoxyphenyl)methyl]-1-(2-pyrrolidin-1-ylethyl)benzimidazole
+RACEMETHORPHAN
 RACEMORAMIDE
 RACEMORPHAN
 REMIFENTANIL
@@ -150,5 +153,5 @@ ACETYLDIHYDROCODEINE CODEINE DIHYDROCODEINE ETHYLMORPHINE NICOCODINE NICODICODIN
 drug.
 8. Preparations conforming to any of the formulae listed in this Part of the Schedule and mixtures of such preparations with any material which contains no drug.
 - Added by: XXIII.1980.9.
-- Amended by: L.N. 32 of 1984; L.N. 58 of 1988; L.N. 49 of 1990; L.N. 93 of 1990; L.N. 148 of 2000; L.N. 373 of 2007; L.N. 331 of 2009; L.N. 49 of 2016; L.N. 359 of 2017; L.N. 360 of 2017; L.N. 43 of 2018; L.N. 230 of 2018; L.N. 389 of 2018; L.N. 189 of 2019; L.N. 119 of 2021; L.N. 120 of 2021; LXVI.2021.25; L.N. 165 of 2022; L.N. 156 of 2023; L.N. 179 of 2024.
+- Amended by: L.N. 32 of 1984; L.N. 58 of 1988; L.N. 49 of 1990; L.N. 93 of 1990; L.N. 148 of 2000; L.N. 373 of 2007; L.N. 331 of 2009; L.N. 49 of 2016; L.N. 359 of 2017; L.N. 360 of 2017; L.N. 43 of 2018; L.N. 230 of 2018; L.N. 389 of 2018; L.N. 189 of 2019; L.N. 119 of 2021; L.N. 120 of 2021; LXVI.2021.25; L.N. 165 of 2022; L.N. 156 of 2023; L.N. 179 of 2024; L.N. 97 of 2025.
 - See Cap. 31.
