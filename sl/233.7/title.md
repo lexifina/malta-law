@@ -1,4 +1,4 @@
 SUBSIDIARY LEGISLATION 233.07
 CASH CONTROL REGULATIONS
 7th July, 2020
-LEGAL NOTICE 285 of 2020, as amended by Acts XVIII of 2021 and VII of 2022 and XII of 2023.
+LEGAL NOTICE 285 of 2020, as amended by Acts XVIII of 2021 and VII of 2022 and XII of 2023 and Legal Notice 103 of 2025.
