@@ -1,14 +1,14 @@
 ## SCHEDULE
 # schedule
 List of Defence-related Products
-Note 1 Terms in "quotations marks" are defined terms. Refer to
+Note 1 Terms in "quotation marks" are defined terms. Refer to
 "Definitions of terms used in this List" annexed to this List.
 Note 2 In some instances chemicals are listed by name and
-chemical abstract service (CAS) number. The list applies to chemicals of the same structural formula (including hydrates) regardless of name or CAS number. CAS numbers are shown to assist in identifying a particular chemical or mixture, irrespective of nomenclature. CAS numbers maynot be used as unique identifiers because some forms of the listed chemical have different CAS numbers, and mixtures containing a listed chemical may also have different CAS numbers.
+Chemical Abstract Service (CAS) number. The list applies to chemicals of the same structural formula (including hydrates) regardless of name or CAS number. CAS numbers are shown to assist in identifying a particular chemical or mixture, irrespective of nomenclature. CAS numbers may not be used as unique identifiers because some forms of the listed chemical have different CAS numbers, and mixtures containing a listed chemical substance may also have different CAS numbers.
 Smooth-bore weapons with a calibre of less
-ML(1)1
-than 20 mm, other arms and automatic weapons with a calibre of 12,7 mm (calibre 0,50 inches) or less and accessories, as follows, and specially
-designed components therefor:
+ML1
+than 20mm, other arms and automatic weapons with a calibre of 12,7mm (calibre 0,50 inches) or less and accessories, as follows, and specially designed
+components therefor:
 Note ML1. does not apply to:
 a. Firearms specially designed for
 dummy ammunition and which are incapable of
@@ -64,8 +64,8 @@ animals;
 projectiles; or
 5. Disrupting Improvised
 Explosive Devices (IEDs).
-NB: For disruptors, see ML4. and
-entry 1A006 on the EU Dual-Use List.
+NB. For disruptors, see ML4. and
+entry 1.A.6 on the EU Dual-Use List.
 c. Weapons using caseless ammunition; d. Accessories designed for arms specified
 by ML1.a., ML1.b. or ML1.c., as follows:
 1. Detachable cartridge magazines;
@@ -105,7 +105,7 @@ animals;
 projectiles; or
 5. Disrupting Improvised
 Explosive Devices (IEDs);
-N.B.: For disruptors, see ML4. and entry 1A006 on the EU Dual-Use List.
+N.B.: For disruptors, see ML4. and entry 1.A.6 on the EU Dual-Use List.
 f. Hand-held projectile launchers
 specially designed to launch tethered projectiles having no high explosive charge or communications link, to a range of less than or equal to 500 m. b. Projectors, specially designed or modified for military use, as follows:
 1. Smoke canister projectors;
@@ -220,8 +220,8 @@ equipment.
 d. Field test or alignment equipment,
 specially designed for items specified by ML5.a.,
 ML5.b. or ML5.c. ML6 Ground vehicles and components, as follows:
-NB: For guidance and navigation equipment,
-see ML11.
+NB. For guidance and navigation equipment, see
+ML11.
 a. Ground vehicles and components
 therefor, specially designed or modified for military
 use;
@@ -256,7 +256,7 @@ as follows:
 1. Vehicles having all of the
 following:
 a. Manufactured or fitted with
-materials or components to provide ballistic protection equal to or better than level III (NIJ (2) 0108.01, September 1985), or "equivalent standards";
+materials or components to provide ballistic protection equal to or better than level III (NIJ 0108.01, September 1985), or "equivalent standards";
 b. A transmission to provide
 drive to both front and rear wheels simultaneously, including those for vehicles having additional wheels for load-bearing purposes whether driven or
 not;
@@ -271,7 +271,7 @@ a. Specially designed for
 vehicles specified in ML6.b.1.; and
 b. Providing ballistic
 protection equal to or better than level III (NIJ 0108.01, September 1985), or "equivalent standards".
-NB: See also ML13.a.
+N.B. See also ML13.a.
 Note 1 ML6 does not apply to civil vehicles
 designed or modified for transporting money or valuables.
 Note 2 ML6. does not apply to vehicles that meet
@@ -362,7 +362,7 @@ trichlorophenoxyacetic acid (CAS 93-76-
 5) mixed with 2,4-dichlorophenoxyacetic
 acid (CAS 94-75-7) (Agent Orange (CAS
 39277-47-9));
-c. Chemical Warfare binary precursors and key precursors, as follows:
+c. CW binary precursors and key precursors, as follows:
 1. Alkyl (Methyl, Ethyl, n-Propyl or
 Isopropyl) Phosphonyl Difluorides, such as:
 DF: Methyl Phosphonyldifluoride (CAS
@@ -412,15 +412,14 @@ a. Air conditioning units specially
 designed or modified for nuclear, biological or
 chemical filtration;
 b. Protective clothing.
-NB: For civil gas masks, protective and
-decontamination equipment, see also entry 1A004 on
-the EU Dual-Use List.
+N.B. For civil gas masks, protective and
+decontamination equipment, see also entry 1.A.4 on the EU Dual-Use List.
 g. Equipment specially designed or modified
 for military use designed or modified for the detection or identification of materials specified by ML7.a., ML7.b. or ML7.d., and specially designed components therefor;
 Note ML7.g. does not apply to personal
 radiation monitoring dosimeters.
 [S.L.117.32 TRANSFERS OF DEFENCE-RELATED PRODUCTS 25
-NB: See also entry 1A004 on the EU Dual-Use List.
+N.B. See also entry 1.A.4 on the EU Dual-Use List.
 h. "Biopolymers" specially designed or processed for the detection or identification of Chemical Warfare agents specified by ML7.b., and the cultures of specific cells used to produce them;
 i. "Biocatalysts" for the decontamination or degradation of Chemical Warfare agents, and biological systems therefor, as follows:
 1. "Biocatalysts" specially designed
@@ -453,22 +452,21 @@ m. Chloro acetone (CAS 78-95-5);
 n. Ethyl iodoacetate (CAS 623-48-3);
 o. Iodo acetone (CAS 3019-04-3);
 [S.L.117.32 26 TRANSFERS OF DEFENCE-RELATED PRODUCTS
-p. Chloropicrin (CAS 76-06-2). See
-entry 1C450.a.7. on the EU Dual-Use List. Note 2 The cultures of cells and biological
+p. Chloropicrin (CAS 76-06-2).
+Note 2 The cultures of cells and biological
 systems specified by ML7.h. and ML7.i.2. are exclusive and these sub-items do not apply to cells or biological systems for civil purposes, such as agricultural, pharmaceutical, medical, veterinary, environmental, waste management, or in the food industry.
 ML8 "Energetic materials", and related
 substances, as follows:
-NB 1: See also entry 1C011 on the EU Dual-Use
-List.
-NB 2: For charges and devices, see ML4 and
-entry 1A008 on the EU Dual-Use List.
+N.B. 1: See also entry 1.C.11 in the EU Dual-
+Use List.
+N.B. 2: For charges and devices, see ML4 and
+entry 1.A.8 in the EU Dual-Use List.
+Note Any substance listed in the ML8 sub-items is
+subject to this list, even when utilised in an application other than that indicated. (e.g. TAGN is predominantly used as an explosive but can also be used either as a fuel or an oxidizer.)
 Technical Notes
 1. For the purposes of ML8., excluding
 ML8.c.11. or ML8.c.12., "mixture" refers to a composition of two or more substances with at least one substance being listed in the ML8 sub-items.
-2. Any substance listed in the ML8 sub-
-items is subject to this list, even when utilised in an application other than that indicated. (e.g. TAGN is predominantly used as an explosive but can also be
-used either as a fuel or an oxidizer.)
-3. For the purposes of ML8., particle size is
+2. For the purposes of ML8., particle size is
 the mean particle diameter on a weight or volume basis. International or equivalent national standards will be used in sampling and determining particle size.
 a. "Explosives" as follows, and "mixtures"
 thereof:
@@ -481,8 +479,9 @@ tetra amine-cobalt (III) perchlorate) (CAS
 dinitrobenzofuroxan or 5,7-diamino-4,6-dinitrobenzofurazane-1-oxide) (CAS 117907- 74-1);
 4. CL-20 (HNIW or
 Hexanitrohexaazaisowurtzitane) (CAS 135285- 90-4); chlathrates of CL-20 (see also ML8.g.3. and g.4. for its "precursors");
+5. CP (2-(5-cyanotetrazolato) penta
+amine-cobalt (III) perchlorate) (CAS 70247-32- 4);
 [S.L.117.32 TRANSFERS OF DEFENCE-RELATED PRODUCTS 27
-5. CP (2-(5-cyanotetrazolato) penta amine-cobalt (III) perchlorate) (CAS 70247-32- 4);
 6. DADE (1,1-diamino-2,2-dinitroethylene, FOX-7) (CAS 145250-81-3);
 7. DATB (diaminotrinitrobenzene) (CAS 1630-08-6);
 8. DDFP (1,4-dinitrodifurazanopiperazine);
@@ -505,9 +504,9 @@ c. K-55 (2,4,6,8-tetranitro-
 a. BNNII (Octahydro-2,5-
 bis(nitroimino)imidazo [4,5-d]imidazole);
 b. DNI (2,4-dinitroimidazole)
-(CAS 5213-49-0); [S.L.117.32 28 TRANSFERS OF DEFENCE-RELATED PRODUCTS
+(CAS 5213-49-0);
 c. FDIA (1-fluoro-2,4-
-dinitroimidazole);
+dinitroimidazole); [S.L.117.32 28 TRANSFERS OF DEFENCE-RELATED PRODUCTS
 d. NTDNIA (N-(2-
 nitrotriazolo)-2,4-dinitroimidazole);
 e. PTIA (1-picryl-2,4,5-
@@ -533,16 +532,16 @@ tetrabis(difluoroamine) octahydro-1,5-dinitro-
 25. Tetrazoles as follows: a. NTAT (nitrotriazol
 aminotetrazole);
 b. NTNT (1-N-(2-
-nitrotriazolo)-4-nitrotetrazole);
-26. Tetryl
+nitrotriazolo)-4-nitrotetrazole); 26. Tetryl
 (trinitrophenylmethylnitramine) (CAS 479-45- 8);
 27. TNAD (1,4,5,8-tetranitro-1,4,5,8-
 tetraazadecalin) (CAS 135877-16-6) (see also ML8.g.6. for its "precursors");
 28. TNAZ (1,3,3-trinitroazetidine)
 (CAS 97645-24-4) (see also ML8.g.2. for its
 "precursors");
+29. TNGU (SORGUYL or
+tetranitroglycoluril) (CAS 55510-03-7);
 [S.L.117.32 TRANSFERS OF DEFENCE-RELATED PRODUCTS 29
-29. TNGU (SORGUYL or tetranitroglycoluril) (CAS 55510-03-7);
 30. TNP (1,4,5,8-tetranitro-pyridazino[4,5-d]pyridazine) (CAS 229176-04- 9);
 31. Triazines as follows:
 a. DNAM (2-oxy-4,6-
@@ -571,10 +570,9 @@ exceeding 8 700 m/s, at maximum density; or
 b. Detonation pressure
 exceeding 34 GPa (340 kbar); 34. Not used since 2013;
 35. DNAN (2,4-dinitroanisole) (CAS 119-27-7);
-36. TEX (4,10-Dinitro-2,6,8,12-tetraoxa-4,10-diazaisowurtzitane); [S.L.117.32 30 TRANSFERS OF DEFENCE-RELATED PRODUCTS
-37. GUDN (Guanylurea dinitramide)
-FOX-12 (CAS 217464-38-5);
-38. Tetrazines as follows:
+36. TEX (4,10-Dinitro-2,6,8,12-tetraoxa-4,10-diazaisowurtzitane);
+37. GUDN (Guanylurea dinitramide) FOX-12 (CAS 217464-38-5);
+38. Tetrazines as follows: [S.L.117.32 30 TRANSFERS OF DEFENCE-RELATED PRODUCTS
 a. BTAT (Bis(2,2,2-trinitroethyl)-
 3,6-diaminotetrazine);
 b. LAX-112 (3,6-diamino-1,2,4,5-
@@ -590,8 +588,8 @@ nitramine) (CAS 19836-28-3);
 43. TKX-50 (Dihydroxylammonium
 5,5'-bistetrazole-1,1'-diolate); Note ML8.a. includes "explosive co-crystals".
 Technical Note
-An "explosive co-crystal" is a solid material
-consisting of an ordered three dimensional arrangement of two or more explosive molecules, where at least one is specified in ML8.a.
+For the purposes of ML8.a. Note, an "explosive
+co-crystal" is a solid material consisting of an ordered three dimensional arrangement of two or more explosive molecules, where at least one is specified in ML8.a.
 b. "Propellants" as follows:
 1. Any solid "propellant" with a
 theoretical specific impulse (under standard
@@ -726,6 +724,8 @@ Note 1 ML8.d.3. does not apply to chlorine
 trifluoride (CAS 7790-91-2).
 Note 2 ML8.d.3 does not apply to nitrogen
 trifluoride (CAS 7783-54-2) in its gaseous state.
+Note 3 ML8.d.3. does not apply to iodine
+pentafluoride (CAS 7783-66-6).
 4. DNAD (1,3-dinitro-1,3-
 diazetidine) (CAS 78246-06-7);
 5. HAN (hydroxylammonium
@@ -743,10 +743,8 @@ containing inhibited red fuming nitric acid (IRFNA) (CAS 8007-58-7); Note ML8.d.
 fuming nitric acid.
 e. Binders, plasticisers, monomers and
 polymers, as follows:
-1. AMMO
-(azidomethylmethyloxetane and its polymers) (CAS 90683-29-7) (see also ML8.g.1. for its
-"precursors");
 [S.L.117.32 TRANSFERS OF DEFENCE-RELATED PRODUCTS 35
+1. AMMO (azidomethylmethyloxetane and its polymers) (CAS 90683-29-7) (see also ML8.g.1. for its "precursors");
 2. BAMO (3,3-bis(azidomethyl)oxetane and its polymers) (CAS 17607-20-4) (see also ML8.g.1. for its "precursors");
 3. BDNPA (bis (2,2-dinitropropyl)acetal) (CAS 5108-69-0);
 4. BDNPF (bis (2,2-dinitropropyl)formal) (CAS 5917-61-3);
@@ -762,7 +760,9 @@ a. Nitro groups; b. Azido groups; c. Nitrate groups; d. Nitraza groups; or e. Di
 13. Alcohol functionalised poly(epichlorohydrin) with a molecular weight less than 10 000, as follows:
 a. Poly(epichlorohydrindiol);
 b. Poly(epichlorohydrintriol)
-14. NENAs (nitratoethylnitramine compounds) (CAS 17096-47-8, 85068-73-1, 82486-83-7, 82486-82-6 and 85954-06-9); [S.L.117.32 36 TRANSFERS OF DEFENCE-RELATED PRODUCTS
+[S.L.117.32 36 TRANSFERS OF DEFENCE-RELATED PRODUCTS
+14. NENAs (nitratoethylnitramine
+compounds) (CAS 17096-47-8, 85068-73-1, 82486-83-7, 82486-82-6 and 85954-06-9);
 15. PGN (poly-GLYN,
 polyglycidylnitrate or poly(nitratomethyl oxirane)) (CAS 27814-48-8);
 16. Poly-NIMMO (poly
@@ -796,9 +796,10 @@ f. Ethyl ferrocene (CAS
 1273-89-8);
 g. Propyl ferrocene; h. Pentyl ferrocene (CAS
 1274-00-6);
-i. Dicyclopentyl ferrocene; j. Dicyclohexyl ferrocene; k. Diethyl ferrocene (CAS
+i. Dicyclopentyl ferrocene; j. Dicyclohexyl ferrocene; [S.L.117.32 TRANSFERS OF DEFENCE-RELATED PRODUCTS 37
+k. Diethyl ferrocene (CAS
 1273-97-8);
-l. Dipropyl ferrocene; [S.L.117.32 TRANSFERS OF DEFENCE-RELATED PRODUCTS 37
+l. Dipropyl ferrocene;
 m. Dibutyl ferrocene (CAS
 1274-08-4);
 n. Dihexyl ferrocene (CAS
@@ -818,9 +819,11 @@ o. Acetyl ferrocene (CAS
 a. Neopentyl[diallyl]oxy,
 tri[dioctyl]phosphato-titanate (CAS 103850-22-2); also known as titanium IV, 2,2[bis 2-propenolato-methyl, butanolato, tris (dioctyl) phosphato] (CAS 110438- 25-0); or LICA 12 (CAS 103850-22-2);
 b. Titanium IV, [(2-
-propenolato-1) methyl, n-propanolatomethyl] butanolato-1, tris[dioctyl] pyrophosphate or KR3538;
+propenolato-1) methyl, n-propanolatomethyl] butanolato-1, tris[dioctyl] pyrophosphate or KR3538; [S.L.117.32 38 TRANSFERS OF DEFENCE-RELATED PRODUCTS
 c. Titanium IV, [(2-
-propenolato-1)methyl, n-propanolatomethyl] butanolato-1, tris(dioctyl) phosphate; 16. Polycyanodifluoroaminoethyleneoxide; [S.L.117.32 38 TRANSFERS OF DEFENCE-RELATED PRODUCTS
+propenolato-1)methyl, n-propanolatomethyl] butanolato-1, tris(dioctyl) phosphate;
+16.
+Polycyanodifluoroaminoethyleneoxide;
 17. Bonding agents as follows: a. 1,1R,1S-trimesoyl-tris(2-
 ethylaziridine) (HX-868, BITA) (CAS
 7722-73-8);
@@ -846,14 +849,13 @@ their salts;
 22. TPB (triphenyl bismuth) (CAS
 603-33-8);
 23. TEPB (Tris (ethoxyphenyl)
-bismuth) (CAS 90591-48-3); g. "Precursors" as follows: NB: In ML8.g. the references are to specified
+bismuth) (CAS 90591-48-3); g. "Precursors" as follows: N.B. In ML8.g. the references are to specified
 'Energetic Materials' manufactured from these substances.
+[S.L.117.32 TRANSFERS OF DEFENCE-RELATED PRODUCTS 39
 1. BCMO (3,3-
-bis(chloromethyl)oxetane) (CAS 78-71-7) (see
-also ML8.e.1. and e.2.);
+bis(chloromethyl)oxetane) (CAS 78-71-7) (see also ML8.e.1. and e.2.);
 2. Dinitroazetidine-t-butyl salt (CAS
 125735-38-8) (see also ML8.a.28.);
-[S.L.117.32 TRANSFERS OF DEFENCE-RELATED PRODUCTS 39
 3. Hexaazaisowurtzitane derivates
 including HBIW (hexabenzylhexaazaisowurtzitane) (CAS 124782-15-6) (see also ML8.a.4.) and TAIW (tetraacetyldibenzylhexaazaisowurtzitane) (CAS 182763-60-6) (see also ML8.a.4.);
 4. Not used since 2013;
@@ -873,8 +875,11 @@ a. Aluminium; b. Niobium; c. Boron; d. Zirconium; e. Magnesium; f. Titanium; g. 
 i. Molybdenum; or
 j. Hafnium;
 2. Shapes, not specified by ML3,
-ML4, ML12 or ML16, fabricated from powders specified by ML8.h.1. Technical Notes 1. "Reactive materials" are designed to produce an exothermic reaction only at high shear rates and for use as liners or casings in warheads.
-2. "Reactive material" powders are produced by, for example, a high energy ball milling process. [S.L.117.32 40 TRANSFERS OF DEFENCE-RELATED PRODUCTS
+ML4, ML12 or ML16, fabricated from powders specified by ML8.h.1. Technical Notes For the purposes of ML8.h.: [S.L.117.32 40 TRANSFERS OF DEFENCE-RELATED PRODUCTS
+1. "Reactive materials" are designed to
+produce an exothermic reaction only at high shear rates and for use as liners or casings in warheads.
+2. "Reactive material" powders are
+produced by, for example, a high energy ball milling process.
 3. "Reactive material" shapes are produced
 by, for example, selective laser sintering.
 Note 1 ML8 does not apply to the following
@@ -890,8 +895,8 @@ g. Tetranitronaphthalene; h. Trinitroanisol; i. Trinitronaphthalene; j. Trinitro
 pyrrolidinone (CAS 872-50-4);
 l. Dioctylmaleate (CAS 142-16-5); m. Ethylhexylacrylate (CAS 103-11-
 7);
-n. Triethylaluminium (TEA) (CAS 97-
-93-8), trimethylaluminium (TMA) (CAS 75-24- 1), and other pyrophoric metal alkyls and aryls of lithium, sodium, magnesium, zinc or boron;
+n. Triethylaluminium (TEA) (CAS
+97-93-8), trimethylaluminium (TMA) (CAS 75- 24-1), and other pyrophoric metal alkyls and aryls of lithium, sodium, magnesium, zinc or boron;
 o. Nitrocellulose (CAS 9004-70-0); p. Nitroglycerin (or
 glyceroltrinitrate, trinitroglycerine) (NG) (CAS
 55-63-0);
@@ -901,11 +906,14 @@ r. Ethylenediaminedinitrate (EDDN)
 (CAS 20829-66-7);
 s. Pentaerythritoltetranitrate
 (PETN) (CAS 78-11-5);
+[S.L.117.32 TRANSFERS OF DEFENCE-RELATED PRODUCTS 41
 t. Lead azide (CAS 13424-46-9),
-normal lead styphnate(CAS 15245-44-0) and basic lead styphnate (CAS 12403-82-6), and primary explosives or priming compositions containing azides or azide complexes;
+normal lead styphnate(CAS 15245-44-0) and
+basic lead styphnate (CAS 12403-82-6), and
+primary explosives or priming compositions
+containing azides or azide complexes;
 u. Triethyleneglycoldinitrate
 (TEGDN)(CAS 111-22-8);
-[S.L.117.32 TRANSFERS OF DEFENCE-RELATED PRODUCTS 41
 v. 2,4,6-trinitroresorcinol (styphnic
 acid) (CAS 82-71-3);
 w. Diethyldiphenylurea (CAS 85-98-
@@ -942,11 +950,10 @@ NTO (ML8.a.18.); and
 e. Having less than or equal to 1g of
 catocene (ML8.f.4.b.). ML9 Vessels of war (surface or underwater),
 special naval equipment, accessories, components
-and other surface vessels, as follows:
-NB: For guidance and navigation equipment,
+and other surface vessels, as follows: [S.L.117.32 42 TRANSFERS OF DEFENCE-RELATED PRODUCTS
+N.B. For guidance and navigation equipment,
 see ML11.
 a. Vessels and components, as follows:
-[S.L.117.32 42 TRANSFERS OF DEFENCE-RELATED PRODUCTS
 1. Vessels (surface or underwater)
 specially designed or modified for military use, regardless of current state of repair or operating condition, and whether or not they contain weapon delivery systems or armour, and hulls or parts of hulls for such vessels, and components therefor specially designed for military use; Note ML9.a.1. includes vehicles specially
 designed or modified for the delivery of divers.
@@ -955,8 +962,9 @@ specified in ML9.a.1., having any of the following, fixed or integrated into the
 a. Automatic weapons -
 specified in ML1, or weapons specified in ML2, ML4, ML12 or ML19, or "mountings" or hard points for weapons having a calibre of 12,7 mm or greater;
 Technical Note
-"Mountings" refers to weapon mounts or
-structural strengthening for the purpose of installing weapons.
+For the purposes of ML9.a.2.a.,"mountings"
+refers to weapon mounts or structural strengthening
+for the purpose of installing weapons.
 b. Fire control systems
 specified in ML5;
 c. Having all of the following:
@@ -965,10 +973,8 @@ Biological, Radiological and Nuclear (CBRN) protection"; and
 2. "Pre-wet or wash
 down system" designed for decontamination purposes; or
 Technical Note
-1. "CBRN protection" is a self-contained
-interior space containing features such as over-pressurization, isolation of ventilation systems, limited ventilation openings with CBRN filters and limited personnel access points incorporating air-locks.
-2. "Pre-wet or wash down system" is a
-seawater spray system capable of simultaneously wetting the exterior superstructure and decks of a vessel.
+For the purposes of ML9.a.2.c.2., "Pre-wet or wash down system" is a seawater
+spray system capable of simultaneously wetting the exterior superstructure and decks of a vessel.
 d. Active weapon
 countermeasure systems specified in ML4.b., ML5.c. or ML11.a. and having any of the following elements:
 1. "CBRN protection";
@@ -986,7 +992,9 @@ environmental impact; or
 4. A degaussing system
 designed to reduce the magnetic
 signature of the whole vessel;
-b. Engines and propulsion systems, as follows, specially designed for military use and components and accessories therefor specially designed for military use:
+Technical Note
+For the purposes of ML9.a.2., 'CBRN
+protection' is a self-contained interior space containing features such as over-pressurisation, isolation of ventilation systems, limited ventilation openings with CBRN filters and limited personnel access points incorporated air-locks. b. Engines and propulsion systems, as follows, specially designed for military use and components and accessories therefor specially designed for military use:
 1. Diesel engines specially designed
 for submarines;
 2. Electric motors specially designed
@@ -1005,17 +1013,25 @@ excess of 75 % of total mass;
 Technical Note
 For the purpose of ML9.b.3., "non-magnetic" means the relative permeability is less than 2.
 4. "Air Independent Propulsion"
-(AIP) systems specially designed for submarines; Technical Note
-"Air Independent Propulsion" (AIP) allows a submerged submarine to operate its propulsion system, without access to atmospheric oxygen, for a longer time than the batteries would have otherwise allowed. For the purposes of ML9.b.4., AIP does not include nuclear power. [S.L.117.32 44 TRANSFERS OF DEFENCE-RELATED PRODUCTS
+(AIP) systems specially designed for submarines; [S.L.117.32 44 TRANSFERS OF DEFENCE-RELATED PRODUCTS
+Note ML9.b.4. does not apply to nuclear
+power.
+Technical Note
+For the purposes of ML9.b.4., AIP allows a
+submerged submarine to operate its propulsion system, without access to atmospheric oxygen, for a longer time than the batteries would have otherwise allowed.
+N.B. See ML9.h. for nuclear power propulsion
+equipment.
 c. Underwater detection devices, specially
 designed for military use, controls therefor and components therefor specially designed for military use;
 d. Anti-submarine nets and anti-torpedo
 nets, specially designed for military use;
 e. Not used since 2003; f. Hull penetrators and connectors, specially
 designed for military use, that enable interaction with equipment external to a vessel, and components therefor specially designed for military use;
-Note ML9.f. includes connectors for vessels
-which are of the single-conductor, multi-conductor, coaxial or waveguide type, and hull penetrators for vessels, both of which are capable of remaining impervious to leakage from without and of retaining required characteristics at marine depths exceeding 100 m; and fibre-optic connectors and optical hull penetrators, specially designed for 'laser' beam transmission, regardless of depth. ML9.f. does not apply to ordinary propulsive shaft and hydrodynamic
-control-rod hull penetrators.
+Note 1 ML9.f. includes connectors for vessels
+which are of the single-conductor, multi-conductor, coaxial or waveguide type, and hull penetrators for vessels, both of which are capable of remaining impervious to leakage from without and of retaining required characteristics at marine depths exceeding 100 m; and fibre-optic connectors and optical hull penetrators, specially designed for 'laser' beam
+transmission, regardless of depth.
+Note 2 ML9.f. does not apply to ordinary
+propulsive shaft and hydrodynamic control-rod hull penetrators.
 g. Silent bearings having any of the
 following, components therefor and equipment containing those bearings, specially designed for military use:
 1. Gas or magnetic suspension;
@@ -1024,40 +1040,65 @@ following, components therefor and equipment containing those bearings, speciall
 h. Nuclear power generating equipment or
 propulsion equipment, specially designed for vessels specified in ML9.a. and components therefor specially
 designed or 'modified' for military use.
+[S.L.117.32 TRANSFERS OF DEFENCE-RELATED PRODUCTS 45
 Technical Note
-For the purpose of ML9.h., "modified" means
-any structural, electrical, mechanical, or other change that provides a non-military item with military capabilities equivalent to an item which is specially
+For the purposes of ML9.h., "modified" means
+any structural, electrical, mechanical, or other change
+that provides a non-military item with military
+capabilities equivalent to an item which is specially
 designed for military use.
 Note ML9.h. includes "nuclear reactors".
 ML10 "Aircraft", "lighter-than-air vehicles",
-"Unmanned Aerial Vehicles" ("UAVs"), aero-engines and "aircraft" equipment, related equipment, and components, as follows, specially designed or modified for military use:
-[S.L.117.32 TRANSFERS OF DEFENCE-RELATED PRODUCTS 45
-NB: For guidance and navigation equipment, see ML11.
-a. Manned "aircraft" and "lighter-than-air vehicles", and specially designed components therefor;
-b. Not used since 2011; c. Unmanned "aircraft" and "lighter-than-air vehicles", and related equipment, as follows, and specially designed components therefor:
+"Unmanned Aerial Vehicles" ("UAVs"), aero-
+engines and "aircraft" equipment, related
+equipment, and components, as follows, specially
+designed or modified for military use:
+N.B. For guidance and navigation equipment,
+see ML11.
+a. Manned "aircraft" and "lighter-than-air
+vehicles", and specially designed components therefor;
+b. Not used since 2011;
+c. Unmanned "aircraft" and "lighter-than-air
+vehicles", and related equipment, as follows, and
+specially designed components therefor:
 1. "UAVs", Remotely Piloted Air
-Vehicles (RPVs), autonomous programmable vehicles and unmanned 'lighter-than-air vehicles';
+Vehicles (RPVs), autonomous programmable
+vehicles and unmanned 'lighter-than-air
+vehicles';
 2. Launchers, recovery equipment
 and ground support equipment;
 3. Equipment designed for command
-or control; d. Propulsion aero-engines and specially designed components therefor;
-e. Airborne refuelling equipment specially designed or modified for any of the following, and specially designed components therefor:
+or control;
+d. Propulsion aero-engines and specially
+designed components therefor;
+e. Airborne refuelling equipment specially
+designed or modified for any of the following, and
+specially designed components therefor:
 1. "Aircraft" specified by ML10.a.;
 or
 2. Unmanned "aircraft" specified by
-ML10.c.; f. "Ground equipment" specially designed for "aircraft" specified by ML10.a. or aero-engines specified by ML10.d.;
-Note 1 ML10.f. includes pressure refuelling equipment and equipment designed to facilitate operations in confined areas, including equipment located on board a ship.
-Note 2 ML10.f. does not apply to: 1. Towbars;
+ML10.c.;
+f. "Ground equipment" specially designed
+for "aircraft" specified by ML10.a. or aero-engines
+specified by ML10.d.;
+Note 1 ML10.f. includes pressure refuelling
+equipment and equipment designed to facilitate
+operations in confined areas, including equipment
+located on board a ship.
+Note 2 ML10.f. does not apply to: 1. Towbars; [S.L.117.32 46 TRANSFERS OF DEFENCE-RELATED PRODUCTS
 2. Protective mats and covers;
 3. Ladders, steps and platforms;
-4. Chocks, lashings and tie-down equipment.
-g. Aircrew life support equipment, aircrew safety equipment and other devices for emergency escape, not specified in ML10.a., designed for 'aircraft' specified by ML10.a.;
-Note ML10.g. does not control aircrew helmets that do not incorporate, or have mountings or fittings for, equipment specified in this Annex.
-NB: For helmets see also ML13.c. [S.L.117.32 46 TRANSFERS OF DEFENCE-RELATED PRODUCTS
-h. Parachutes, paragliders and related
+4. Chocks, lashings and tie-down
+equipment.
+g. Aircrew life support equipment, aircrew
+safety equipment and other devices for emergency escape, not specified in ML10.a., designed for 'aircraft' specified by ML10.a.;
+Note ML10.g. does not control aircrew helmets
+that do not incorporate, or have mountings or fittings
+for, equipment specified in this Annex.
+N.B.: For helmets see also ML13.c. h. Parachutes, paragliders and related
 equipment, as follows, and specially designed components therefor:
 1. Parachutes not specified elsewhere
-in this Annex;
+in the EU Common Military List;
 2. Paragliders;
 3. Equipment specially designed for
 high altitude parachutists (e.g. suits, special helmets, breathing systems, navigation
@@ -1073,27 +1114,36 @@ c. Certified for civil use by civil
 aviation authorities of one or more EU Member States or Wassenaar Arrangement Participating States. Note 2 ML10.d. does not apply to:
 a. Aero-engines designed or modified
 for military use which have been certified by civil aviation authorities of one or more EU Member States or Wassenaar Arrangement Participating States for use in "civil aircraft", or specially designed components therefor;
+[S.L.117.32 TRANSFERS OF DEFENCE-RELATED PRODUCTS 47
 b. Reciprocating engines or specially
-designed components therefor, except those specially designed for "UAVs". Note 3 For the purposes of ML10.a. and
-ML10.d., specially designed components and related equipment for non- military 'aircraft' or aero-engines modified for military use applies only to those military components and to military related equipment required
+designed components therefor, except those
+specially designed for "UAVs".
+Note 3 For the purposes of ML10.a. and
+ML10.d., specially designed components and related
+equipment for non- military 'aircraft' or aero-engines
+modified for military use applies only to those military
+components and to military related equipment required
 for the modification to military use.
 Note 4 For the purposes of ML10.a., military use
-includes: combat, military reconnaissance, assault, military training, logistics support, and transporting and airdropping troops or military equipment.
-[S.L.117.32 TRANSFERS OF DEFENCE-RELATED PRODUCTS 47
+includes: combat, military reconnaissance, assault,
+military training, logistics support, and transporting
+and airdropping troops or military equipment.
 Note 5 ML10.a. does not apply to "aircraft" or
 "lighter-than-air-vehicles" that meet all of the
 following:
 a. Were first manufactured before
 1946;
 b. Do not incorporate items specified
-in this Annex, unless the items are required to
-meet safety or airworthiness standards of civil
-aviation authorities of one or more EU Member
-States or Wassenaar Arrangement Participating
-States; and
+in the EU Common Military List, unless the
+items are required to meet safety or
+airworthiness standards of civil aviation
+authorities of one or more EU Member States or
+Wassenaar Arrangement Participating States;
+and
 c. Do not incorporate weapons
-specified in this Annex, unless inoperable and
-incapable of being returned to operation.
+specified in the EU Common Military List,
+unless inoperable and incapable of being
+returned to operation.
 Note 6 ML10.d. does not apply to propulsion
 aero-engines that were first manufactured before 1946.
 ML11 Electronic equipment, "spacecraft" and
@@ -1112,22 +1162,15 @@ of adversary electronic receivers including their
 countermeasure equipment), including jamming
 and counter-jamming equipment;
 b. Frequency agile tubes;
+[S.L.117.32 48 TRANSFERS OF DEFENCE-RELATED PRODUCTS
 c. Electronic systems or equipment,
-designed either for surveillance and monitoring
-of the electro-magnetic spectrum for military
-intelligence or security purposes or for
-counteracting such surveillance and
+designed either for surveillance and monitoring of the electro-magnetic spectrum for military intelligence or security purposes or for counteracting such surveillance and
 monitoring;
 d. Underwater countermeasures,
-including acoustic and magnetic jamming and
-decoy, equipment designed to introduce
-extraneous or erroneous signals into sonar
+including acoustic and magnetic jamming and decoy, equipment designed to introduce extraneous or erroneous signals into sonar
 receivers;
 e. Data processing security
-equipment, data security equipment and
-transmission and signalling line security
-equipment, using cryptographic functionality;
-[S.L.117.32 48 TRANSFERS OF DEFENCE-RELATED PRODUCTS
+equipment, data security equipment and transmission and signalling line security equipment, using cryptographic functionality;
 f. Identification, authentification and
 keyloader equipment and key management, manufacturing and distribution equipment;
 g. Guidance and navigation
@@ -1138,7 +1181,7 @@ i. Digital demodulators specially
 designed for signals intelligence;
 j. "Automated command and control
 systems".
-NB: For "software" associated with military
+N.B. For "software" associated with military
 "Software" Defined Radio (SDR), see ML21.
 b. Jamming equipment designed or modified
 to hinder the reception, operation or effectiveness of positioning, navigation or timing services provided by 'satellite navigation systems', and specially designed components therefor;
@@ -1152,14 +1195,17 @@ a. Kinetic energy weapon systems
 specially designed for destruction or effecting
 mission-abort of a target;
 b. Specially designed test and
-evaluation facilities and test models, including diagnostic instrumentation and targets, for dynamic testing of kinetic energy projectiles and systems. NB: For weapon systems using sub-calibre
-ammunition or employing solely chemical propulsion, and ammunition therefor, see ML1 to ML4.
+evaluation facilities and test models, including diagnostic instrumentation and targets, for dynamic testing of kinetic energy projectiles and systems.
+[S.L.117.32 TRANSFERS OF DEFENCE-RELATED PRODUCTS 49
+N.B. For weapon systems using sub-calibre
+ammunition or employing solely chemical propulsion,
+and ammunition therefor, see ML1 to ML4.
 Note 1: ML12 includes the following when
 specially designed for kinetic energy weapon systems:
 a. Launch propulsion systems
-capable of accelerating masses larger than 0,1 g to velocities in excess of 1,6 km/s, in single or
+capable of accelerating masses larger than 0,1
+g to velocities in excess of 1,6 km/s, in single or
 rapid fire modes;
-[S.L.117.32 TRANSFERS OF DEFENCE-RELATED PRODUCTS 49
 b. Prime power generation, electric
 armour, energy storage (e.g. high energy
 storage capacitors), thermal management,
@@ -1167,7 +1213,7 @@ conditioning, switching or fuel-handling
 equipment; and electrical interfaces between
 power supply, gun and other turret electric drive
 functions;
-NB: See also 3A001.e.2. on the EU Dual-
+N.B. See also 3.A.1.e.2. on the EU Dual-
 Use List for high energy storage capacitors.
 c. Target acquisition, tracking, fire
 control or damage assessment systems;
@@ -1186,25 +1232,24 @@ having any of the following:
 1. Manufactured to comply with a
 military standard or specification; or
 2. Suitable for military use;
-NB: For body armour plates, see
+N.B. For body armour plates, see
 ML13.d.2.
 b. Constructions of metallic or non-metallic
 materials, or combinations thereof, specially designed
 to provide ballistic protection for military systems, and
-specially designed components therefor;
+specially designed components therefor; [S.L.117.32 50 TRANSFERS OF DEFENCE-RELATED PRODUCTS
 c. Helmets and specially designed
 components and accessories therefor, as follows:
 1. Helmets manufactured according
-to military standards or specifications, or
-comparable national standards;
+to military standards or specifications, or comparable national standards;
 2. Shells, liners, or comfort pads,
 specially designed for helmets specified in
-ML13.c.1.; [S.L.117.32 50 TRANSFERS OF DEFENCE-RELATED PRODUCTS
+ML13.c.1.;
 3. Add-on ballistic protection
 elements, specially designed for helmets
 specified in ML13.c.1.
-NB: For other military helmet components or
-accessories, see the relevant entry in this Annex.
+N.B. For other military helmet components or
+accessories, see the relevant EU Common Military List entry.
 d. Body armour or protective garments, and
 components therefor, as follows:
 1. Soft body armour or protective
@@ -1227,21 +1272,27 @@ Note 3 ML13.c. and d. do not apply to helmets,
 body armour or protective garments, when accompanying their user for the user's own personal protection.
 Note 4 The only helmets specially designed for
 bomb disposal personnel that are specified by ML13.c. are those specially designed for military use.
+[S.L.117.32 TRANSFERS OF DEFENCE-RELATED PRODUCTS 51
 Note 5 ML13.d.1. does not apply to protective
 eyewear.
-NB: For laser protective eyewear, see ML17.o. NB 1: See also entry 1A005 on the EU Dual-Use
+N.B. For laser protective eyewear, see ML17.o.
+N.B. 1: See also entry 1.A.5 on the EU Dual-Use
 List.
 NB 2: For "fibrous or filamentary materials"
-used in the manufacture of body armour and helmets, see entry 1C010. on the EU Dual-Use List.
-[S.L.117.32 TRANSFERS OF DEFENCE-RELATED PRODUCTS 51
-ML14 "Specialised equipment for military training"
+used in the manufacture of body armour and helmets,
+see entry 1.C10. on the EU Dual-Use List. ML14 "Specialised equipment for military training"
 or for simulating military scenarios, simulators
 specially designed for training in the use of any
 firearm or weapon specified by ML1 or ML2, and
 specially designed components and accessories
 therefor.
-Technical Note
-The term "specialised equipment for military
+Note 1 ML14 includes image generating and
+interactive environment systems for simulators, when
+specially designed or modified for military use.
+Note 2 ML14 does not apply to equipment
+specially designed for training in the use of hunting or
+sporting weapons.
+Note 3 "Specialised equipment for military
 training" includes military types of attack trainers,
 operational flight trainers, radar target trainers, radar
 target generators, gunnery training devices, anti-
@@ -1251,13 +1302,7 @@ training), radar trainers, instrument flight trainers,
 navigation trainers, missile launch trainers, target
 equipment, drone "aircraft", armament trainers,
 pilotless "aircraft" trainers, mobile training units and
-training equipment for ground military operations.
-Note 1 ML14 includes image generating and
-interactive environment systems for simulators, when
-specially designed or modified for military use.
-Note 2 ML14 does not apply to equipment
-specially designed for training in the use of hunting or
-sporting weapons. ML15 Imaging or countermeasure equipment, as
+training equipment for ground military operations. ML15 Imaging or countermeasure equipment, as
 follows, specially designed for military use, and
 specially designed components and accessories
 therefor:
@@ -1271,21 +1316,18 @@ equipment;
 e. Imaging radar sensor equipment;
 f. Countermeasure or counter-
 countermeasure equipment, for the equipment
-specified by ML15.a. to ML15.e.
+specified by ML15.a. to ML15.e. [S.L.117.32 52 TRANSFERS OF DEFENCE-RELATED PRODUCTS
 Note ML15.f. includes equipment designed to
-degrade the operation or effectiveness of military
-imaging systems or to minimize such degrading effects.
+degrade the operation or effectiveness of military imaging systems or to minimize such degrading effects.
 Note ML15 does not apply to "first generation
-image intensifier tubes" or equipment specially
-designed to incorporate "first generation image
-intensifier tubes". [S.L.117.32 52 TRANSFERS OF DEFENCE-RELATED PRODUCTS
-NB: For weapons sights incorporating 'first
+image intensifier tubes" or equipment specially designed to incorporate "first generation image intensifier tubes".
+N.B. For weapons sights incorporating 'first
 generation image intensifier tubes' see ML1, ML2 and ML5.a.
-NB: See also entries 6A002.a.2. and 6A002.b. on
-the EU Dual-Use List.
+N.B. See also entries 6.A.2.a. and 6.A.2.b. and
+6.A.3.b. on the EU Dual-Use List.
 ML16 Forgings, castings and other unfinished
 products, specially designed for items specified by ML1 to ML4, ML6, ML9, ML10, ML12 or ML19.
-Note ML16 applies to unfinished products when
+Note ML16. applies to unfinished products when
 they are identifiable by material composition, geometry or function.
 ML17 Miscellaneous equipment, materials and
 "libraries", as follows, and specially designed
@@ -1295,7 +1337,7 @@ apparatus, specially designed or modified for military use, as follows:
 1. Self-contained diving rebreathers,
 closed or semi-closed circuit;
 2. Underwater swimming apparatus
-specially designed for use with the diving apparatus specified in ML17.a.1.; NB: See also 8A002.q. on the EU Dual-Use List. b. Construction equipment specially
+specially designed for use with the diving apparatus specified in ML17.a.1.; N.B. See also 8.A.2.q. on the EU Dual-Use List. b. Construction equipment specially
 designed for military use;
 c. Fittings, coatings and treatments, for
 signature suppression, specially designed for military use;
@@ -1305,36 +1347,36 @@ e. "Robots", "robot" controllers and "robot"
 "end-effectors", having any of the following characteristics:
 1. Specially designed for military
 use;
-2. Incorporating means of protecting
-hydraulic lines against externally induced punctures caused by ballistic fragments (e.g. incorporating self-sealing lines) and designed to use hydraulic fluids with flash points higher
-than 839 K (566 °C); or
-3. Specially designed or rated for
-operating in an electromagnetic pulse (EMP)
-environment;
 [S.L.117.32 TRANSFERS OF DEFENCE-RELATED PRODUCTS 53
-Technical Note
-Electro-magnetic pulse does not refer to unintentional interference caused by electromagnetic radiation from nearby equipment (e.g. machinery, appliances or electronics) or lightning.
-f. "Libraries" specially designed or modified for military use with systems, equipment or components, specified in this Annex;
+2. Incorporating means of protecting
+hydraulic lines against externally induced punctures caused by ballistic fragments (e.g. incorporating self-sealing lines) and designed to use hydraulic fluids with flash points higher than 839 K (566 °C); or
+3. Specially designed or rated for
+operating in an electromagnetic pulse (EMP) environment; Technical Note
+For the purpose of ML17.e.3., 'EMP' does not refer to unintentional interference caused by electromagnetic radiation from nearby equipment (e.g. machinery, appliances or electronics) or lightning.
+f. "Libraries" specially designed or modified for military use with systems, equipment or components, specified in the EU Common Military List;
 g. Nuclear power generating equipment or propulsion equipment, not specified elsewhere, specially designed for military use and components therefor specially designed or "modified" for military use;
-Note ML17.g. includes "nuclear reactors". h. Equipment and material, coated or treated for signature suppression, specially designed for military use, excluding those specified elsewhere in this Annex;
+Note ML17.g. includes "nuclear reactors". h. Equipment and material, coated or treated for signature suppression, specially designed for military use, excluding those specified elsewhere in the EU Common Military List;
 i. Simulators specially designed for military "nuclear reactors";
 j. Mobile repair shops specially designed or "modified" to service military equipment;
 k. Field generators specially designed or "modified" for military use;
 l. ISO intermodal containers or demountable vehicle bodies (i.e. swap bodies), specially designed or "modified" for military use;
 m. Ferries, not specified elsewhere in this Annex, bridges and pontoons, specially designed for military use;
 n. Test models specially designed for the "development" of items specified by ML4, ML6, ML9 or ML10;
-o. "Laser" protection equipment (e.g. eye or sensor protection) specially designed for military use;
-p. "Fuel cells", not specified elsewhere in this Annex, specially designed or "modified" for military use.
+o. "Laser" protection equipment (e.g. eye or sensor protection) specially designed for military use; [S.L.117.32 54 TRANSFERS OF DEFENCE-RELATED PRODUCTS
+p. "Fuel cells", except those specified
+elsewhere in the EU Common Military List, specially designed or "modified" for military use.
 Technical Notes
 1. Not used since 2014.
-2. For the purpose of ML17, "modified" means any structural, electrical, mechanical, or other change that provides a non-military item with military capabilities equivalent to an item which is specially designed for military use. [S.L.117.32 54 TRANSFERS OF DEFENCE-RELATED PRODUCTS
+2. For the purpose of ML17, "modified"
+means any structural, electrical, mechanical, or other change that provides a non-military item with military capabilities equivalent to an item which is specially
+designed for military use.
 ML18 "Production" equipment, environmental test
 facilities and components, as follows:
-a. Specially designed or modified
-"production" equipment for the "production" of products specified in this Annex, and specially designed components therefor;
-b. Specially designed environmental
-test facilities and specially designed equipment therefor, not specified elsewhere, for the certification, qualification or testing of products
-specified in this Annex.
+a. Equipment specially designed or
+modified for the "production" "production" of items specified in the EU Common Military List, and specially designed components therefor;
+b. Environmental test facilities
+specially designed for the certification, qualification or testing of products specified by the EU Common Military List, and specially designed equipment therefor, not specified
+elsewhere.
 Technical Note
 For the purposes of ML18, the term
 "production" includes design, examination,
@@ -1351,6 +1393,7 @@ payload of 113 kg or more; or
 centrifugal acceleration of 8 g or more on a payload of 91 kg or more; c. Dehydration presses; d. Screw extruders specially
 designed or modified for military "explosive"
 extrusion;
+[S.L.117.32 TRANSFERS OF DEFENCE-RELATED PRODUCTS 55
 e. Cutting machines for the sizing of
 extruded "propellants";
 f. Sweetie barrels (tumblers) 1.85 m
@@ -1361,8 +1404,8 @@ g. Continuous mixers for solid
 h. Fluid energy mills for grinding or
 milling the ingredients of military "explosives";
 i. Equipment to achieve both
-sphericity and uniform particle size in metal powder listed in ML8.c.8.;
-[S.L.117.32 TRANSFERS OF DEFENCE-RELATED PRODUCTS 55
+sphericity and uniform particle size in metal
+powder listed in ML8.c.8.;
 j. Convection current converters for
 the conversion of materials listed in ML8.c.3.
 ML19 Directed Energy Weapon (DEW) systems,
@@ -1397,11 +1440,9 @@ effect destruction similar to the manner of
 conventional ammunition;
 b. Particle accelerators which
 project a charged or neutral particle beam with
-destructive power;
+destructive power; [S.L.117.32 56 TRANSFERS OF DEFENCE-RELATED PRODUCTS
 c. High pulsed power or high
-average power radio frequency beam
-transmitters, which produce fields sufficiently
-intense to disable electronic circuitry at a
+average power radio frequency beam transmitters, which produce fields sufficiently intense to disable electronic circuitry at a
 distant target.
 Note 2 ML19 includes the following when
 specially designed for DEW systems:
@@ -1409,7 +1450,7 @@ a. Prime power generation, energy
 storage, switching, power conditioning or fuel-
 handling equipment;
 b. Target acquisition or tracking
-systems; [S.L.117.32 56 TRANSFERS OF DEFENCE-RELATED PRODUCTS
+systems;
 c. Systems capable of assessing
 target damage, destruction or mission-abort;
 d. Beam-handling, propagation or
@@ -1435,34 +1476,59 @@ configured to be installed in a vehicle for military ground, marine, airborne or
 Note ML20.a. includes mobile systems
 incorporating or employing accessories or components manufactured from non-metallic or non-electrical conductive materials, such as plastics or epoxy-
 impregnated materials.
+[S.L.117.32 TRANSFERS OF DEFENCE-RELATED PRODUCTS 57
 b. "Superconductive" electrical equipment
-(rotating machinery or transformers) specially designed or configured to be installed in a vehicle for military ground, marine, airborne or space applications, and capable of operating while in motion.
+(rotating machinery or transformers) specially
+designed or configured to be installed in a vehicle for
+military ground, marine, airborne or space
+applications, and capable of operating while in motion.
 Note ML20.b. does not apply to direct current
-hybrid homopolar generators that have single-pole normal metal armatures which rotate in a magnetic field produced by superconducting windings, provided those windings are the only superconducting
-components in the generator.
-ML21 "Software" as follows:
+hybrid homopolar generators that have single-pole
+normal metal armatures which rotate in a magnetic
+field produced by superconducting windings, provided
+those windings are the only superconducting
+components in the generator. ML21 "Software" as follows:
 a. "Software" specially designed or
 modified for any of the following:
-[S.L.117.32 TRANSFERS OF DEFENCE-RELATED PRODUCTS 57
 1. "Development", "production",
-operation or maintenance of equipment specified in this Annex;
+operation or maintenance of equipment
+specified in the EU Common Military List;
 2. "Development" or "production" of
-materials specified in this Annex; or
+materials specified in the EU Common Military
+List; or
 3. "Development", "production",
-operation or maintenance of "software" specified in this Annex. b. Specific "software", other than that specified by ML21.a., as follows:
+operation or maintenance of "software"
+specified in the EU Common Military List.
+b. Specific "software", other than that
+specified by ML21.a., as follows:
 1. "Software" specially designed for
-military use and specially designed for modelling, simulating or evaluating military weapon systems;
+military use and specially designed for
+modelling, simulating or evaluating military
+weapon systems;
 2. "Software" specially designed for
-military use and specially designed for modelling or simulating military operational scenarios;
+military use and specially designed for
+modelling or simulating military operational
+scenarios;
 3. "Software" for determining the
-effects of conventional, nuclear, chemical or biological weapons;
+effects of conventional, nuclear, chemical or
+biological weapons;
 4. "Software" specially designed for
-military use and specially designed for Command, Communications, Control and Intelligence (C3I) or Command, Communications, Control, Computer and Intelligence (C4I) applications;
+military use and specially designed for
+Command, Communications, Control and
+Intelligence (C3I) or Command,
+Communications, Control, Computer and
+Intelligence (C4I) applications;
 5. "Software" specially designed or
-modified for the conduct of military offensive cyber operations; Note 1 ML21.b.5. includes "software" designed to destroy, damage, degrade or disrupt systems, equipment or "software", specified in this Annex, cyber reconnaissance and cyber command and control "software", therefor.
-Note 2 ML21.b.5. does not apply to "vulnerability disclosure" or to "cyber incident response", limited to non-militarydefensive cybersecurity readiness or response.
-c. "Software", not specified by ML21.a. or ML21.b., specially designed or modified to enable equipment not specified by the EU Common Military List to perform the military functions of equipment specified by the EU Common Military List. [S.L.117.32 58 TRANSFERS OF DEFENCE-RELATED PRODUCTS
-NB: See systems, equipment or components
+modified for the conduct of military offensive
+cyber operations; [S.L.117.32 58 TRANSFERS OF DEFENCE-RELATED PRODUCTS
+Note 1 ML21.b.5. includes "software" designed
+to destroy, damage, degrade or disrupt systems, equipment or "software", specified in this Annex, cyber reconnaissance and cyber command and control "software", therefor.
+Note 2 ML21.b.5. does not apply to
+"vulnerability disclosure" or to "cyber incident response", limited to non-militarydefensive
+cybersecurity readiness or response.
+c. "Software", not specified by ML21.a. or
+ML21.b., specially designed or modified to enable equipment not specified in the EU Common Military List to perform the military functions of equipment specified in the EU Common Military List.
+N.B. See systems, equipment or components
 specified in this Annex for general purpose 'digital computers' with installed 'software' specified by ML21.c.
 ML22 "Technology" as follows:
 a. "Technology", other than specified in
@@ -1474,20 +1540,27 @@ design of, the assembly of components into, and the operation, maintenance and r
 "development" and "production" of small arms even if used to produce reproductions of antique
 small arms;
 3. Not used since 2013
-NB: See ML22.a. for 'technology' previously
+N.B. See ML22.a. for 'technology' previously
 specified by ML22.b.3.
 4. Not used since 2013
-NB: See ML22.a. for 'technology' previously
+N.B. See ML22.a. for 'technology' previously
 specified by ML22.b.4.
 5. "Technology" "required"
-exclusively for the incorporation of "biocatalysts", specified by ML7. i.1., into military carrier substances or military material. Note 1 "Technology" "required" for the
-"development", "production", operation, installation, maintenance (checking), repair, overhaul or refurbishing of items specified by the EU Common Military List remains under control even when applicable to any item not specified by the EU
-Common Military List.
+exclusively for the incorporation of "biocatalysts", specified by ML7. i.1., into military carrier substances or military material.
+[S.L.117.32 TRANSFERS OF DEFENCE-RELATED PRODUCTS 59
+Note 1 "Technology" "required" for the
+"development", "production", operation, installation,
+maintenance (checking), repair, overhaul or
+refurbishing of items specified in the EU Common
+Military List remains under control even when
+applicable to any item not specified in the EU Common
+Military List.
 Note 2 ML22 does not apply to:
 a. "Technology" that is the minimum
-necessary for the installation, operation, maintenance (checking) or repair, of those items which are not controlled or whose export has
+necessary for the installation, operation,
+maintenance (checking) or repair, of those items
+which are not controlled or whose export has
 been authorised;
-[S.L.117.32 TRANSFERS OF DEFENCE-RELATED PRODUCTS 59
 b. "Technology" that is 'in the public
 domain', 'basic scientific research' or the
 minimum necessary information for patent
@@ -1495,8 +1568,7 @@ applications;
 c. "Technology" for magnetic
 induction for continuous propulsion of civil
 transport devices.
-. (1) Military list . (2) National Institute of Justice (USA) in charge with standard
-categorization
+. .
 DEFINITIONS OF TERMS USED IN THIS LIST
 The following are definitions of the terms used in this List, in alphabetical order.
 Note 1 Definitions apply throughout the List. The references are purely advisory and have no effect on the universal application of defined terms throughout the List.
@@ -1510,7 +1582,8 @@ A fixed wing, swivel wing, rotary wing
 [S.L.117.32 60 TRANSFERS OF DEFENCE-RELATED PRODUCTS
 ML11 "Automated Command and Control Systems"
 Electronic systems, through which
-information essential to the effective operation of the grouping, major formation, tactical formation, unit, ship, subunit or weapons under command is entered, processed and transmitted. This is achieved by the use of computer and other specialised hardware designed to support the functions of a military command and control organisation. The main functions of an automated command and control system are: the efficient automated collection, accumulation, storage and processing of information; the display of the situation and the circumstances affecting the preparation and conduct of combat operations; operational and tactical calculations for the allocation of resources among force groupings or elements of the operational order of battle or battle deployment according to the mission or stage of the operation; the preparation of data for appreciation of the situation and decision-making at any point during operation or battle; computer simulation of operations.
+information essential to the effective operation of the grouping, major formation, tactical formation, unit, ship, subunit or weapons under command is entered, processed and transmitted. This is achieved by the use of computer and other specialised hardware designed to support the functions of a military command and control organisation. The main functions of an automated command and control system are: the efficient automated collection, accumulation, storage and processing of information; the display of the situation and the circumstances affecting the preparation and conduct of combat operations; operational and tactical calculations for the allocation of resources among force groupings or elements of the operational order of battle or battle deployment according to the mission or stage of the operation; the preparation of data for appreciation of the situation and decision-making at any point during operation or battle;
+computer simulation of operations.
 ML22 "Basic scientific research"
 Experimental or theoretical work undertaken
 principally to acquire new knowledge of the fundamental principles of phenomena or observable facts, not primarily directed towards a specific
@@ -1599,7 +1672,8 @@ Carriers (e.g. plasmid or virus) used to
 introduce genetic material into host cells. ML13 "Fibrous or filamentary materials" include:
 a. Continuous monofilaments;
 b. Continuous yarns and rovings;
-c. Tapes, fabrics, random mats and braids;
+c. Tapes, fabrics, random mats and
+braids;
 d. Chopped fibres, staple fibres and
 coherent fibre blankets;
 e. Whiskers, either monocrystalline or
@@ -1619,9 +1693,9 @@ further dissemination.
 Note Copyright restrictions do not remove
 "technology" or "software" from being "in the public
 domain". ML9, 19 "Laser"
-An item that produces spatially and temporally
-coherent light through amplification by stimulated
-emission of radiation. [S.L.117.32 64 TRANSFERS OF DEFENCE-RELATED PRODUCTS
+An item that produces spatially and
+temporally coherent light through amplification by
+stimulated emission of radiation. [S.L.117.32 64 TRANSFERS OF DEFENCE-RELATED PRODUCTS
 ML17 "Library" (parametric technical database)
 A collection of technical information,
 reference to which may enhance the performance of relevant systems, equipment or components.
@@ -1730,7 +1804,8 @@ than 100 km above the surface of the Earth.
 Note A determination that a specific item is
 "space- qualified" by virtue of testing does not mean
 that other items in the same production run or model
-series are "space-qualified" if not individually tested.
+series are "space-qualified" if not individually
+tested.
 ML20 "Superconductive"
 Refers to materials, (i.e. metals, alloys or
 compounds) which can lose all electrical resistance
@@ -1747,8 +1822,7 @@ The "superconductive" state of a material is
 individually characterised by a "critical temperature", a critical magnetic field, which is a function of temperature, and a critical current density which is, however, a function of both
 magnetic field and temperature.
 Note "Critical temperatures" (sometimes
-referred to as the transition temperature) of a specific "supercondutive" material is the temperature at which the material loses all resistance to the flow
-of direct electrical current.
+referred to as the transition temperature) of a specific "supercondutive" material is the temperature at which the material loses all resistance to the flow of direct electrical current.
 ML22 "Technology"
 Specific information necessary for the
 "development", "production" or "use" of a product. The information takes the form of "technical data" or "technical assistance". Specified "technology" for the EU Common Military List is defined in ML22.
