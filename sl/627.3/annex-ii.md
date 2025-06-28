@@ -3,8 +3,8 @@
 INDICATIVE NON-BINDING EXAMPLES OF POSSIBLE SOLUTIONS THAT CONTRIBUTE TO MEETING THE
 ACCESSIBILITY REQUIREMENTS IN ANNEX I
 SECTION I:
-EXAMPLES RELATED TO GENERAL ACCESSIBILITY REQUIRE-
-MENTS FOR ALL PRODUCTS COVERED BY THESE REGULA-
+EXAMPLES RELATED TO GENERAL ACCESSIBILITY REQUIRE
+MENTS FOR ALL PRODUCTS COVERED BY THESE REGULA
 TIONS IN ACCORDANCE WITH REGULATION 3(1)
 EXAMPLES REQUIREMENTS IN SECTION I
 OF ANNEX I
@@ -19,9 +19,9 @@ format or sound in addition to a text warning so that blind persons can perceive
 (iv) Allowing that text can be
 read by persons who are visually impaired.
 (b)
+[S.L. 627.03 ACT) 37
 (i) Providing electronic files
 which can be read by a computer using screen readers so that blind persons can use the information.
-[S.L. 627.03 ACT) 37
 (ii) Using the same words in a
 consistent manner, or in a clear and logical structure, so that persons with intellectual disabilities can
 better understand them.

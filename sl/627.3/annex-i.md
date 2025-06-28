@@ -9,9 +9,10 @@ Products must be designed and produced in such a way as to
 maximise their foreseeable use by persons with disabilities and shall be accompanied where possible in or on the product by accessible information on their functioning and on their accessibility features.
 1. Requirements on the provision of information
 (a) the information on the use of the product provided
-on the product itself (labelling, instructions and warning) shall be:
-(i) made available via more than one sensory
+on the product itself (labelling, instructions and warning) shall
 [S.L. 627.03 ACT) 25
+be:
+(i) made available via more than one sensory
 channel;
 (ii) presented in an understandable way;
 (iii) presented to users in ways they can
@@ -33,8 +34,8 @@ presentation of any non-textual content;
 (vii) include a description of the user interface of
 the product (handling, control and feedback, input and output) which is provided in accordance with point 2; the description shall indicate for each of the points in point 2 whether the product provides those features;
 (viii) include a description of the functionality of
-the product which is provided by functions aiming to address the needs of persons with disabilities in accordance with point 2; the description shall indicate for [S.L. 627.03 26 ACT)
-each of the points in point 2 whether the product provides those features;
+[S.L. 627.03 26 ACT)
+the product which is provided by functions aiming to address the needs of persons with disabilities in accordance with point 2; the description shall indicate for each of the points in point 2 whether the product provides those features;
 (ix) include a description of the software and
 hardware interfacing of the product with assistive devices; the description shall include a list of those assistive devices which have been tested together with the product.
 2. User interface and functionality design:
@@ -57,9 +58,9 @@ provide for flexible ways of improving vision clarity;
 (g) when the product uses audio it shall provide for user
 control of volume and speed, and enhanced audio features including the reduction of interfering audio signals from surrounding products and audio clarity;
 (h) when the product requires manual operation and
-control, it shall provide for sequential control and alternatives to fine motor control, avoiding the need for simultaneous controls
-for manipulation, and shall use tactile discernible parts;
+control, it shall provide for sequential control and alternatives to
 [S.L. 627.03 ACT) 27
+fine motor control, avoiding the need for simultaneous controls for manipulation, and shall use tactile discernible parts;
 (i) the product shall avoid modes of operation requiring extensive reach and great strength;
 (j) the product shall avoid triggering photosensitive seizures;
 (k) the product shall protect the user's privacy when he uses the accessibility features;
@@ -87,9 +88,9 @@ signals, it shall be compatible with assistive
 devices and technologies available at Union level,
 including hearing technologies such as hearing
 aids, telecoils, cochlear implants and assistive
+[S.L. 627.03 28 ACT)
 listening devices;
 (ii) e-readers shall provide for text-to-speech
-[S.L. 627.03 28 ACT)
 technology;
 (iii) consumer terminal equipment with
 interactive computing capability, used for the provision of
@@ -113,10 +114,9 @@ Accessibility requirements related to products in regulation 3(1),
 except for the self-service terminals referred to in regulation 3(1)(b)
 In addition to the requirements of Section I, the packaging and
 instructions of products covered by this Section shall be made accessible, in order to maximise their foreseeable use by persons with disabilities. This means that:
-(a) the packaging of the product, including the
-information provided in it (e.g. about opening, closing, use,
 [S.L. 627.03 ACT) 29
-disposal), including, when provided, information about the accessibility characteristics of the product, shall be made accessible; and, when feasible, that accessible information shall be provided on the package;
+(a) the packaging of the product, including the
+information provided in it (e.g. about opening, closing, use, disposal), including, when provided, information about the accessibility characteristics of the product, shall be made accessible; and, when feasible, that accessible information shall be provided on the package;
 (b) the instructions for the installation and
 maintenance, storage and disposal of the product not provided on the product itself but made available through other means, such as a website, shall be publicly available when the product is placed on the market and shall comply with the following requirements:
 (i) be available via more than one sensory
@@ -142,7 +142,8 @@ The provision of services in order to maximise their foreseeable use by persons 
 (a) ensuring the accessibility of the products used in
 the provision of the service, in accordance with Section I of this Annex and, where applicable, Section II thereof;
 (b) providing information about the functioning of the
-service, and where products are used in the provision of the service, its link to these products as well as information about their accessibility characteristics and interoperability with assistive devices and facilities: [S.L. 627.03 30 ACT)
+service, and where products are used in the provision of the service, its link to these products as well as information about [S.L. 627.03 30 ACT)
+their accessibility characteristics and interoperability with assistive devices and facilities:
 (i) making the information available via more
 than one sensory channel;
 (ii) presenting the information in an
@@ -150,7 +151,8 @@ understandable way;
 (iii) presenting the information to users in ways
 they can perceive;
 (iv) making the information content available in
-text formats that can be used to generate alternative assistive formats to be presented in different ways by the users and via more than one sensory channel;
+text formats that can be used to generate alternative assistive formats to be presented in different ways by the
+users and via more than one sensory channel;
 (v) presenting in fonts of adequate size and
 suitable shape, taking into account foreseeable conditions of use and using sufficient contrast, as well as adjustable spacing between letters, lines and paragraphs;
 (vi) supplementing any non-textual content with
@@ -165,10 +167,8 @@ Section IV
 Additional accessibility requirements related to specific services
 The provision of services in order to maximise their foreseeable
 use by persons with disabilities, shall be achieved by including functions, practices, policies and procedures and alterations in the operation of the service targeted to address the needs of persons with disabilities and ensure interoperability with assistive technologies:
-(a) Electronic communications services, including
-emergency communications referred to in the Emergency Communications, the Single European Emergency Call Service
 [S.L. 627.03 ACT) 31
-("112" Number) and the European Harmonised Services of Social Value ("116" Numbering Range) Regulations:
+(a) Electronic communications services, including emergency communications referred to in the Emergency Communications, the Single European Emergency Call Service ("112" Number) and the European Harmonised Services of Social Value ("116" Numbering Range) Regulations:
 (i) providing real time text in addition to voice
 communication;
 (ii) providing total conversation where video is
@@ -184,8 +184,9 @@ using voice, text (including real time text) is synchronised and where video is 
 (i) ensuring the provision of information on the
 accessibility of vehicles, the surrounding infrastructure and the built environment and on assistance for persons with disabilities;
 (ii) ensuring the provision of information about
-smart ticketing (electronic reservation, booking of tickets, etc.), real-time travel information (timetables, information about traffic disruptions, connecting services, onwards travel with other transport modes, etc.), and additional service information (e.g. staffing of stations, lifts that are out of order or services that are temporarily unavailable).
-(d) Urban and suburban transport services and [S.L. 627.03 32 ACT)
+smart ticketing (electronic reservation, booking of tickets, etc.), real-time travel information (timetables, information about traffic disruptions, connecting services, onwards travel with other transport modes, etc.), and additional service information (e.g. staffing of stations, lifts that are [S.L. 627.03 32 ACT)
+out of order or services that are temporarily unavailable).
+(d) Urban and suburban transport services and
 regional transport services: ensuring the accessibility of self-service terminals used in the provision of the service in
 accordance with Section I of this Annex.
 (e) Consumer banking services:
@@ -199,8 +200,7 @@ in addition to text, it then provides synchronised text and audio;
 (ii) ensuring that e-book digital files do not
 prevent assistive technology from operating properly;
 (iii) ensuring access to the content, the navigation
-of the file content and layout including dynamic layout, the provision of the structure, flexibility and choice in the
-presentation of the content;
+of the file content and layout including dynamic layout, the provision of the structure, flexibility and choice in the presentation of the content;
 (iv) allowing alternative renditions of the content
 and its interoperability with a variety of assistive technologies, in such a way that it is perceivable,
 understandable, operable and robust;
@@ -211,11 +211,12 @@ measures do not block accessibility features.
 (g) E-Commerce services:
 (i) providing the information concerning
 accessibility of the products and services being sold when this information is provided by the responsible economic operator;
-(ii) ensuring the accessibility of the functionality
-for identification, security and payment when delivered as
 [S.L. 627.03 ACT) 33
-part of a service instead of a product by making it
-perceivable, operable, understandable and robust;
+(ii) ensuring the accessibility of the
+functionality for identification, security and payment
+when delivered as part of a service instead of a product by
+making it perceivable, operable, understandable and
+robust;
 (iii) providing identification methods, electronic
 signatures, and payment services which are perceivable,
 operable, understandable and robust.
@@ -237,11 +238,9 @@ namely information on the use of the product provided on
 the product itself and the instructions for use of a product,
 not provided in the product itself but made available
 through the use of the product or other means such as a
-website;
+website; [S.L. 627.03 34 ACT)
 (b) the accessibility of features, elements and
-functions of the user interface and the functionality design
-[S.L. 627.03 34 ACT)
-of products complies with the corresponding accessibility requirements of such user interface or functionality design
+functions of the user interface and the functionality design of products complies with the corresponding accessibility requirements of such user interface or functionality design
 set out in point 2 of Section I of this Annex;
 (c) the accessibility of the packaging, including
 the information provided in it and instructions for the installation and maintenance, storage and disposal of the product not provided in the product itself but made available through other means such as a website, except for self-service terminals, complies with the corresponding accessibility requirements set out in Section II of this Annex.
@@ -259,8 +258,8 @@ Where the product or service provides visual modes of
 operation, it shall provide at least one mode of operation that does not require vision.
 (b) Usage with limited vision
 Where the product or service provides visual modes of
-operation, it shall provide at least one mode of operation that enables users to operate the product with limited vision.
 [S.L. 627.03 ACT) 35
+operation, it shall provide at least one mode of operation that enables users to operate the product with limited vision.
 (c) Usage without perception of colour
 Where the product or service provides visual modes of operation, it shall provide at least one mode of operation that does not require user perception of colour.
 (d) Usage without hearing
@@ -276,8 +275,9 @@ The operational elements of products shall be within reach of all users. Where t
 (i) Minimising the risk of triggering photosensitive seizures
 Where the product provides visual modes of operation, it shall avoid modes of operation that trigger photosensitive seizures.
 (j) Usage with limited cognition
-The product or service shall provide at least one mode of operation incorporating features that make it simpler and easier to use.
-(k) Privacy [S.L. 627.03 36 ACT)
+The product or service shall provide at least one mode of [S.L. 627.03 36 ACT)
+operation incorporating features that make it simpler and easier to use.
+(k) Privacy
 Where the product or service incorporates features that are
 provided for accessibility, it shall provide at least one mode of operation that maintains privacy when using those features that are provided for accessibility.
 - See S.L. 399.47.
