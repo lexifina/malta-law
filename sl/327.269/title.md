@@ -6,4 +6,4 @@ SCIENCE (HONOURS) - B.SC. (HONS) - UNDER
 THE AUSPICES OF THE FACULTY
 OF HEALTH SCIENCES
 10th June, 2005
-LEGAL NOTICE 186 of 2005, as amended by Legal Notices 122 of 2006, 122 of 2009, 1 of 2010, 290, 391 of 2011, 163 and 390 of 2012, 228 and 350 of 2014, 98 and 307 of 2015, and 71, 153, 182 of 2016,277 of 2017, 131 and 325 of 2018, 307 of 2019, 267 of 2020, 354 of 2020, 20 and 430 of 2021, 346 of 2022, 179 of 2023 and 243 of 2024.
+LEGAL NOTICE 186 of 2005, as amended by Legal Notices 122 of 2006, 122 of 2009, 1 of 2010, 290, 391 of 2011, 163 and 390 of 2012, 228 and 350 of 2014, 98 and 307 of 2015, and 71, 153, 182 of 2016,277 of 2017, 131 and 325 of 2018, 307 of 2019, 267 of 2020, 354 of 2020, 20 and 430 of 2021, 346 of 2022, 179 of 2023, 243 of 2024 and 117 of 2025.
