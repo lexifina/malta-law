@@ -32,16 +32,14 @@ including food containers used for fast food or other meal ready for immediate c
 II. Single-use plastic products covered by regulation 8 on extended producer responsibility
 (1) Wet wipes, that is, pre-wetted personal care and domestic wipes;
 (2) Balloons, except balloons for industrial or other professional uses and applications that are not distributed to consumers.
-III. Single-use plastic products covered by regulation 7 on extended producer responsibility
-(1) Tobacco products with filters and filters marketed for use in combination with tobacco products.
+III. Deleted by Legal Notice 130 of 2025.
 Part D
 Single-use plastic products covered by regulation 5 on product requirements and regulation 11 on separate collection
 Beverage bottles with a capacity of up to three (3) litres, including their caps and lids, but not:
 (a) glass or metal beverage bottles that have caps and
 lids made from plastic;
 (b) beverage bottles intended and used for food for
-special medical purposes as defined in point (g) of Article 2 of Regulation (EU) No 609/2013 that is in liquid form.
-Part E
+special medical purposes as defined in point (g) of Article 2 of Regulation (EU) No 609/2013 that is in liquid form. Part E
 Single-use plastic products covered by regulation 12 on awareness raising
 (1) Food containers, that is, receptacles such as boxes, with or without a cover, used to contain food which:
 (a) is intended for immediate consumption, either on-
