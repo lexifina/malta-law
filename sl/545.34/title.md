@@ -1,4 +1,4 @@
 SUBSIDIARY LEGISLATION 545.34
 ELECTRICITY REGULATIONS
 4th June, 2021
-LEGAL NOTICE 235 of 2021, as amended by Legal Notices 44 of 2023 and 193 of 2024.
+LEGAL NOTICE 235 of 2021, as amended by Legal Notices 44 of 2023, 193 of 2024 and 132 of 2025.
