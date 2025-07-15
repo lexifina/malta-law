@@ -31,5 +31,6 @@ Tas-Sellum Residence (Mellie]a Project) consisting of the immovable property as 
 23. Tarġa Square
 24. The ORA Residences
 25. Scirocco Heights Residences
+26. Trident Park, Mrieħel
 - Added by: IX. 2003.44.
-- Amended by: L.N. 156 of 2005; L.N. 335 of 2006; L.N. 109 of 2007; L.N. 159 of 2007; L.N. 181 of 2007; L.N. 210 of 2007; L.N. 131 of 2008; L.N. 132 of 2008; L.N. 133 of 2008; L.N. 359 of 2009; L.N. 314 of 2012; L.N. 349 of 2017; L.N. 181 of 2018; L.N. 226 of 2019; L.N. 459 of 2021; L.N. 175 of 2022; L.N. 195 of 2022; L.N. 260 of 2022; L.N. 39 of 2023; L.N. 285 of 2023; L.N. 204 of 2024; L.N. 111 of 2025.
+- Amended by: L.N. 156 of 2005; L.N. 335 of 2006; L.N. 109 of 2007; L.N. 159 of 2007; L.N. 181 of 2007; L.N. 210 of 2007; L.N. 131 of 2008; L.N. 132 of 2008; L.N. 133 of 2008; L.N. 359 of 2009; L.N. 314 of 2012; L.N. 349 of 2017; L.N. 181 of 2018; L.N. 226 of 2019; L.N. 459 of 2021; L.N. 175 of 2022; L.N. 195 of 2022; L.N. 260 of 2022; L.N. 39 of 2023; L.N. 285 of 2023; L.N. 204 of 2024; L.N. 111 of 2025; L.N. 138 of 2025.
