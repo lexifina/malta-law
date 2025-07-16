@@ -147,6 +147,8 @@
 ## Standing Committee on Health.
 ## Standing Committee on Petitions.
 ## The Standing Committee on Gozo Affairs.
+## The Standing Committee on Information Technology and Artificial Intelligence Affairs.
+## The Standing Committee on Education.
 ## Appointment of select committees.
 ## Number of members.
 ## Notice of names of members.
@@ -240,9 +242,8 @@ of the Malta Independence Order, 1964.
 "the Deputy Chairman" means the Deputy Chairman of Committees appointed pursuant to standing order 154;
 "the Deputy Speaker" means the Deputy Speaker and Chairman of Committees of the House;
 "dilatory motion" means a motion for the Adjournment of the House or of the debate or in committee that the Chairman do report progress or do leave the Chair;
-"the Gazette" means the Malta Government Gazette; [S.L.Const.02 2 REPRESENTATIVES
-"the House" means the House of Representatives established by
-article 52 of the Constitution;
+"the Gazette" means the Malta Government Gazette;
+"the House" means the House of Representatives established by article 52 of the Constitution; [S.L.Const.02 2 REPRESENTATIVES
 "the Leader of the House" means the Minister responsible for
 parliamentary affairs;
 "Malta" has the same meaning as is assigned to it by article 124
@@ -667,6 +668,8 @@ Affairs;
 (viii) the Standing Committee on Health; and
 (ix) the Standing Committee on Petitions.
 (x) The Standing Committee on Gozo Affairs.
+(xi) the Standing Committee on Information Technology and Artificial Intelligence Affairs.
+(xii) the Standing Committee on Education.
 120B. (1) In addition to the standing committees listed in standing order 120A, the House may, on motion made after notice, appoint such standing committee as may be necessary for the consideration of bills or other business committed or referred by the House to a standing committee.
 (2) A motion as is referred to in paragraph (1) of this standing order shall:
 (a) fix the number of members to serve on the standing
@@ -677,8 +680,8 @@ Government and Opposition members in the House in
 particular; and
 (b) name the chairman who shall preside the standing committee.
 (3) Each side of the House shall nominate the members representing it on a standing committee, and shall also nominate alternate members for any members so appointed. The members and alternate members representing the Government side shall be nominated by the Leader of the House while the members and alternate members representing the Opposition side shall be nominated by the Leader of the Opposition. The name of members and alternate members so nominated and appointed by the House shall be recorded in the minutes of the sitting.
-(4) Each side of the House may substitute any member or alternate member nominated by it in accordance with paragraph (3) hereof to represent it on a standing committee. Such substitution shall only have effect after the Speaker is notified therewith. The Speaker shall, at the first available opportunity, notify the House, [S.L.Const.02 22 REPRESENTATIVES
-or, if the House is in recess, the Standing Committee on House Business.
+(4) Each side of the House may substitute any member or alternate member nominated by it in accordance with paragraph (3) [S.L.Const.02 22 REPRESENTATIVES
+hereof to represent it on a standing committee. Such substitution shall only have effect after the Speaker is notified therewith. The Speaker shall, at the first available opportunity, notify the House, or, if the House is in recess, the Standing Committee on House Business.
 (5) Government bills referred to a standing committee shall
 have precedence over the other business of the standing committee and shall unless otherwise ordered by the House, be considered in such order as the Standing Committee on House Business may determine.
 120C. (1) Unless otherwise determined by the House, the
@@ -700,11 +703,9 @@ constituted of the Leader of the House, two members nominated by the Prime Minis
 of the Standing Committee on House Business and the provisions of paragraph (4) of standing order 120B shall also apply.
 (5) The Standing Committee on House Business shall be
 chaired by the Speaker who shall not vote unless on any question the votes are equally divided, in which case he shall have and exercise a casting vote.
-120D. (1) The Standing Committee on Privileges shall have
-power to consider cases referred to it by the Speaker or by the House and to take such decisions and to make such recommendations as provided in these standing orders and in the House of Representatives (Privileges and Powers) Ordinance or in any law from time to time substituting the said Ordinance.
-(2) The standing committee shall be constituted of the Leader
 [S.L.Const.02 REPRESENTATIVES 23
-of the House, two members nominated by the Prime Minister and two members nominated by the Leader of the Opposition.
+120D. (1) The Standing Committee on Privileges shall have power to consider cases referred to it by the Speaker or by the House and to take such decisions and to make such recommendations as provided in these standing orders and in the House of Representatives (Privileges and Powers) Ordinance or in any law from time to time substituting the said Ordinance.
+(2) The standing committee shall be constituted of the Leader of the House, two members nominated by the Prime Minister and two members nominated by the Leader of the Opposition.
 (3) The provisions of paragraphs (3), (4), and (5) of standing order 120C shall mutatis mutandis apply to the Standing Committee on Privileges.
 (4) The Standing Committee on Privileges shall, without prejudice to the provisions of standing order 164, have power and authority to summon witnesses and order the production of documents before it. The Standing Committee on Privileges may request the attendance of the Attorney General or of his representative, who may also be authorised to participate in the proceedings, but he shall in no case have a vote thereat.
 120E. (1) The Standing Committee on Public Accounts shall have the power to:
@@ -730,10 +731,12 @@ hereof; and
 desirable in the form of the accounts, on the manner in
 which they are kept, on revenue or expenditure or the
 control of money.
-(2) The Standing Committee on Public Accounts shall consist of not more than seven members of whom four shall constitute a quorum. The members shall be chosen so as fairly to represent the House in general and the proportion of Government and Opposition members in particular.
-(3) The provisions of paragraphs (3) and (4) of standing order 120B shall apply to the Standing Committee on Public Accounts.
-(4) One of the members nominated by the Leader of the Opposition and so designated by him after consultation with the Leader of the House shall be appointed Chairman of the Standing Committee on Public Accounts. The chairman shall have an [S.L.Const.02 24 REPRESENTATIVES
-original vote but shall not have a casting vote.
+(2) The Standing Committee on Public Accounts shall consist of not more than seven members of whom four shall constitute a quorum. The members shall be chosen so as fairly to represent the House in general and the proportion of Government and Opposition [S.L.Const.02 24 REPRESENTATIVES
+members in particular.
+(3) The provisions of paragraphs (3) and (4) of standing order
+120B shall apply to the Standing Committee on Public Accounts.
+(4) One of the members nominated by the Leader of the
+Opposition and so designated by him after consultation with the Leader of the House shall be appointed Chairman of the Standing Committee on Public Accounts. The chairman shall have an original vote but shall not have a casting vote.
 (5) When a Minister, Parliamentary Secretary or Member is a
 member of the Committee and the Committee has before it a subject or a sector for its scrutiny of which that member of the Committee is or was directly responsible or was involved in during the period under discussion, that member of the Committee shall cede his place in favour of another Member for the meetings where the said subject or sector is being discussed according to the manner provided for in the Standing Orders.
 120F. (1) The Standing Committee on Foreign and European
@@ -753,10 +756,14 @@ appointed by the standing committee shall be determined by the standing committe
 provisions of paragraphs (3) and (4) of standing order 120B shall mutatis mutandis apply to the Standing Committee on Foreign and European Affairs.
 (5) The Standing Committee on Foreign and European Affairs
 shall have the following functions:
-(i) to deal with matters relating to foreign and European Union affairs which may be referred to it by the House or by the Standing Committee on House Business;
-(ii) in the context of European Union issues and measures to be taken by the Council of Ministers of the European Union, to scrutinise on its own initiative -
-(a) any proposals under the Community treaties for
 [S.L.Const.02 REPRESENTATIVES 25
+(i) to deal with matters relating to foreign and European
+Union affairs which may be referred to it by the House
+or by the Standing Committee on House Business;
+(ii) in the context of European Union issues and measures
+to be taken by the Council of Ministers of the
+European Union, to scrutinise on its own initiative -
+(a) any proposals under the Community treaties for
 legislation by the Council or the Council acting
 jointly with the European Parliament;
 (b) any document which is published for submission
@@ -786,7 +793,8 @@ the Conference of European Affairs Committees
 (2) The provisions of paragraphs (2) and (3) of standing order 120E shall mutatis mutandis apply to the Standing Committee on Social Affairs.
 120H. (1) The Standing Committee on Family Affairs shall deal with all matters relating to the family, including the appraisal, analysis and monitoring of current and future family legislation and policies, and such other matters relating to the family as may be referred to it by the House or by the Standing Committee on House Business.
 (2) The Standing Committee on Family Affairs shall consist of five members, three of whom shall be appointed from the Government side, one of whom shall be nominated as Chairman and two from the Opposition side.
-(3) The provisions of paragraph (3) of standing order 120E shall mutatis mutandis apply to the Standing Committee on Family Affairs. [S.L.Const.02 26 REPRESENTATIVES
+(3) The provisions of paragraph (3) of standing order 120E [S.L.Const.02 26 REPRESENTATIVES
+shall mutatis mutandis apply to the Standing Committee on Family Affairs.
 120I. (1) The Standing Committee on Economic and Financial
 Affairs shall:
 (a) on its own initiative, consider from an economic and financial perspective, any decision, recommendation or report published locally, by the European Institutions or by international organisations, that could have an impact on the Maltese economy;
@@ -808,8 +816,11 @@ appointed as Chairman of the committee.
 power to:
 (a) on its own initiative, discuss policies and matters in the health sphere which have a strategic importance and are of material interest to patients, and report thereon to the House;
 (b) evaluate all reports, strategic plans, task plans as well as all policies referred to it by the House, by the Minister or by any other Standing Committee;
-(c) evaluate matters and items relating to capital and recurrent expenditure of such departments, statutory authorities and public organizations which operate in the public health field;
+(c) evaluate matters and items relating to capital and
 [S.L.Const.02 REPRESENTATIVES 27
+recurrent expenditure of such departments, statutory
+authorities and public organizations which operate in
+the public health field;
 (d) evaluate matters and items relating to public health and the rights of the patient;
 (e) discuss and analyse the impact of governmental
 decisions and those of the European Union in the
@@ -830,210 +841,226 @@ spheres which fall under this same Committee.
 (2) The Standing Committee on Petitions shall be constituted of five members, of which three members shall be nominated by the Government side, one of whom being the Chair of the Committee, and of two members nominated by the Opposition.
 (3) The provisions of paragraphs (3) and (4) of Standing Order 120B shall apply mutatis mutandis to the Standing Committee on Petitions.
 (4) The Standing Committee on Petitions may establish, and from time to time update, guidelines to better regulate its work in accordance with those functions and powers assigned to it under these Standing Orders and/or any other law.
-These guidelines shall be approved by the Standing Committee for House Business, and immediately after such approval, shall be laid on the Table of the House by the Speaker in his official capacity as Chairman of the Standing Committee for House Business.
-120L. (1) The Standing Committee on Gozo Affairs shall deal with all matters relating to Gozo and to evaluate, analyse and scrutinise legislation which concerns or impacts Gozo affairs in any way. [S.L.Const.02 28 REPRESENTATIVES
+These guidelines shall be approved by the Standing Committee for House Business, and immediately after such approval, shall be laid on the Table of the House by the Speaker in his official capacity as Chairman of the Standing Committee for House Business. [S.L.Const.02 28 REPRESENTATIVES
+120L. (1) The Standing Committee on Gozo Affairs shall deal
+with all matters relating to Gozo and to evaluate, analyse and scrutinise legislation which concerns or impacts Gozo affairs in any way.
 (2) The Standing Committee on Gozo Affairs shall consist of
 not more than five members, of whom three shall constitute a quorum. The members are to be appointed in such manner as appears practicable to the House as fairly to represent the House in general and the proportion of Government and Opposition members in the House in particular
 (3) One of the members nominated by the Government shall be
 appointed as chairman of the Committee.
 (4) The provisions of paragraphs (3) and (4) of standing order
 120B shall mutatis mutandis apply to the Standing Committee on Gozo Affairs.
+120M. (1) The Standing Committee on Information Technology
+and Artificial Intelligence Affairs shall:
+(a) on its own initiative, consider any issue in the digital field that has an impact on any sphere of society and
+report thereon to the House;
+(b) examine any report, strategic plan, work plan or policy referred to it by the House, by a Minister or by any
+other Standing Committee.
+(2) The Standing Committee on Information Technology and
+Artificial Intelligence Affairs shall be constituted of not more than seven members, where four members shall constitute a quorum. The Members should be chosen in such manner as appears practicable to the House as fairly to represent the House in general, and the proportion of Government and Opposition members in the House in particular.
+(3) One of the Members nominated by the Government shall be
+appointed as Chairman of the Committee.
+(4) The provisions of paragraphs (3) and (4) of Standing Order
+120B shall mutatis mutandis apply to the Standing Committee on Information Technology and Artificial Intelligence Affairs.".
+120N. (1) The Standing Committee on Education shall:
+(a) consider all matters related to education including the evaluation, analysis and verification of present and
+proposed legislation and policy;
+(b) evaluate all reports, strategic plans, task plans as well as all policies referred to it by the House, by the Minister or by any other Standing Committee.
+(2) The Standing Committee on Education shall be constituted
+of not more than seven members, where four members shall constitute a quorum. The Members should be chosen in such manner as appears practicable to the House as fairly to represent
+[S.L.Const.02 REPRESENTATIVES 29
+the House in general and the proportion of Government and Opposition members in the House in particular.
+(3) One of the Members nominated by the Government shall be appointed as Chairman of the Committee.
+(4) The provisions of paragraphs (3) and (4) of Standing Order 120B shall mutatis mutandis apply to the Standing Committee on Education.
 Select Committees
-121. The House may appoint a select committee of its members
-for the purpose of investigating any subject. It shall be competent for the Speaker to be appointed a member of any select committee of the House.
-122. No select committee shall be moved for without notice, nor
-shall it without leave of the House consist of more than seven members; such leave shall not be moved for without notice. In the case of members proposed to be added or substituted after the first appointment of the committee the notice shall include the names of the members proposed to be added or substituted; in no case shall a select committee consist of an even number of members.
+121. The House may appoint a select committee of its members for the purpose of investigating any subject. It shall be competent for the Speaker to be appointed a member of any select committee of the House.
+122. No select committee shall be moved for without notice, nor shall it without leave of the House consist of more than seven members; such leave shall not be moved for without notice. In the case of members proposed to be added or substituted after the first appointment of the committee the notice shall include the names of the members proposed to be added or substituted; in no case shall a select committee consist of an even number of members.
 General Provisions
-123. At least one day's notice shall be given of the names of
-members proposed to serve upon a standing committee or a select committee, but provided such notice has been given the appointment may be made immediately after the motion for the setting up of the committee.
+123. At least one day's notice shall be given of the names of members proposed to serve upon a standing committee or a select committee, but provided such notice has been given the appointment may be made immediately after the motion for the setting up of the committee.
 124. (Deleted by Resolution 198 of 1995).
 125. (Deleted by Resolution 198 of 1995).
-126. (1) Notice of meetings of standing committees and of
-select standing committees shall be given to the Clerk of the House before 1 p.m. of the day previous to that appointed for the meeting by the chairman of the committee.
-(2) A committee to which a bill or other business has been
-committed shall meet to consider such business on the day and at the hour named by the Chairman thereof or by the Standing Committee on House Business. If the consideration of the business is not concluded at that sitting the committee shall meet further to consider the business on such day and time as may be decided by the committee or as may have been previously directed by the Standing Committee on House Business.
-[S.L.Const.02 REPRESENTATIVES 29
-(3) If a committee is not previously adjourned, the chairman shall adjourn the committee without putting any question at the hour of interruption of business:
+126. (1) Notice of meetings of standing committees and of select standing committees shall be given to the Clerk of the House before 1 p.m. of the day previous to that appointed for the meeting by the chairman of the committee.
+(2) A committee to which a bill or other business has been committed shall meet to consider such business on the day and at the hour named by the Chairman thereof or by the Standing Committee on House Business. If the consideration of the business is not concluded at that sitting the committee shall meet further to consider the business on such day and time as may be decided by the committee or as may have been previously directed by the Standing Committee on House Business.
+(3) If a committee is not previously adjourned, the chairman shall adjourn the committee without putting any question at the hour of interruption of business: [S.L.Const.02 30 REPRESENTATIVES
 Provided that:
-(i) if in the opinion of the chairman, the proceedings on
-the bill or other business may be concluded by a short
-extension of the sitting, he may postpone the
-Adjournment of the committee to not later than fifteen
-minutes after the hour of interruption of business;
+(i) if in the opinion of the chairman, the proceedings on the bill or other business may be concluded by a short extension of the sitting, he may postpone the Adjournment of the committee to not later than fifteen minutes after the hour of interruption of business;
 (ii) if in accordance with an order given pursuant to item
-(i) of subparagraph (b) of paragraph (1) of standing
-order 120C, proceedings are required to be concluded
-at the time when the chairman is required to adjourn
-the committee under this paragraph, he shall not
-adjourn the committee until the question for the
-closure of the debate, the question or questions
-consequent thereon and on any further motion as
+(i) of subparagraph (b) of paragraph (1) of standing order 120C, proceedings are required to be concluded at the time when the chairman is required to adjourn the committee under this paragraph, he shall not adjourn the committee until the question for the closure of the debate, the question or questions consequent thereon and on any further motion as
 provided in that order, have been decided.
-127. List of all members serving on each standing committee and select committee shall be affixed in a conspicuous place in the Office of the House of Representatives or such other place or places as may be chosen by the Speaker.
-128. In all standing committees and select committees, unless otherwise ordered by the House or unless otherwise provided in these standing orders, three members of the committee shall form a quorum. No committee shall proceed to business unless a quorum be present and if a quorum be not present within ten minutes of the appointed hour, or any less time at the pleasure of the member or members attending, the chairman or in his absence any other member present, shall appoint a day and hour for the next meeting of the committee, provided that such next meeting shall, unless otherwise directed by the Standing Committee on House Business, be held within the next seven days.
+127. List of all members serving on each standing committee
+and select committee shall be affixed in a conspicuous place in the Office of the House of Representatives or such other place or places as may be chosen by the Speaker.
+128. In all standing committees and select committees, unless
+otherwise ordered by the House or unless otherwise provided in these standing orders, three members of the committee shall form a quorum. No committee shall proceed to business unless a quorum be present and if a quorum be not present within ten minutes of the appointed hour, or any less time at the pleasure of the member or members attending, the chairman or in his absence any other member present, shall appoint a day and hour for the next meeting of the committee, provided that such next meeting shall, unless otherwise directed by the Standing Committee on House Business, be held within the next seven days.
 129. (Deleted by Resolution 198 of 1995).
-130. Unless otherwise provided in these standing orders or unless otherwise ordered by the House, every standing committee and every select committee previous to the commencement of business shall elect one of its members to be chairman, who besides his vote as a member, shall in case of an equality of votes have a casting vote. Where the chairman of a standing committee or of a select committee is unavoidably absent, the members thereof shall elect a person from among themselves to act as chairman.
-131. An entry shall be made of the proceedings of such committee, of the names of the members attending each meeting, and of every motion or amendment proposed in the committee together with the names of the movers thereof; and if any division takes place in the committee, the committee clerk shall take down the names of the members voting in any such division, distinguishing on which side of the question they respectively vote, [S.L.Const.02 30 REPRESENTATIVES
-and all such entries or minutes shall be recorded and reported to the House on the report of such committee.
-132. Any standing committee and any select committee shall
-have power to summon witnesses and to order the production of documents and reports before it, at such time and place as may be indicated in the relative warrant and at such place and time to which the meeting of the committee may be adjourned. Witnesses may be ordered to attend by means of a warrant issued by the chairman of the relative committee and signed by the clerk; any oath or affirmation taken or made by any witness may be administered by the chairman or by the clerk attending such committee.
-133. The minutes of the proceedings of the Committee on each
-day and also the report of such committee shall be signed by the chairman thereof.
-133A. (1) Any notice of an amendment to a bill which has been
-committed or referred to a standing committee, shall stand referred to the committee, and the chairman shall have like powers as are given to the Speaker and Chairman of Committees by standing order 44.
-(2) The provisions of paragraphs (1) and (2) of standing order
-16 shall apply to the standing committees.
-(3) The chairman of a standing committee shall have the
-powers as are given to the Chairman of a Committee of the whole House including the powers under standing orders 15, 48, 57, 63 and 99.
-(4) On a division being called in the House or a Committee of
-the whole House, the chairman of a standing committee or of a select committee shall suspend the proceedings of the committee for such time as will enable members to vote in the division and return to the committee.
-134. The provisions of standing orders 103 and 104 shall apply
-to a bill which has been reported upon by a standing committee or a select committee.
-135. (1) Every committee shall have leave to report to the
-House its opinion and observations upon any matter referred to it for consideration, together with the minutes of the evidence taken before it, as well as to make special reports on any matter which it may think fit to bring to the notice of the House. Minority reports, if any, shall be presented together with the report of the committee.
-(2) The proceedings of, or evidence taken by, or the report of
-any standing committee or select committee, or the summary of such proceedings, evidence or report, shall not be published by any member of such committee or by any other person, except with the permission of the House, until the report of such committee has been laid on the Table of the House.
-(3) Where evidence before a standing committee or a select
-committee has been given at a meeting open to the public, no
+130. Unless otherwise provided in these standing orders or
+unless otherwise ordered by the House, every standing committee and every select committee previous to the commencement of business shall elect one of its members to be chairman, who besides his vote as a member, shall in case of an equality of votes have a casting vote. Where the chairman of a standing committee or of a select committee is unavoidably absent, the members thereof shall elect a person from among themselves to act as chairman.
+131. An entry shall be made of the proceedings of such
+committee, of the names of the members attending each meeting, and of every motion or amendment proposed in the committee together with the names of the movers thereof; and if any division takes place in the committee, the committee clerk shall take down the names of the members voting in any such division, distinguishing on which side of the question they respectively vote, and all such entries or minutes shall be recorded and reported to the House on the report of such committee.
 [S.L.Const.02 REPRESENTATIVES 31
-complaint of privilege shall be entertained on the ground that such evidence has been published before having been reported to the House.
-136. The report of a standing committee or of a select committee shall be brought up by the chairman and may be ordered to be laid on the Table, or may be otherwise dealt with as the House may direct.
-137. Every standing committee and every select committee may, in its discretion, resolve not to allow strangers to be present during any of its proceedings.
+132. Any standing committee and any select committee shall have power to summon witnesses and to order the production of documents and reports before it, at such time and place as may be indicated in the relative warrant and at such place and time to which the meeting of the committee may be adjourned. Witnesses may be ordered to attend by means of a warrant issued by the chairman of the relative committee and signed by the clerk; any oath or affirmation taken or made by any witness may be administered by the chairman or by the clerk attending such committee.
+133. The minutes of the proceedings of the Committee on each day and also the report of such committee shall be signed by the chairman thereof.
+133A. (1) Any notice of an amendment to a bill which has been committed or referred to a standing committee, shall stand referred to the committee, and the chairman shall have like powers as are given to the Speaker and Chairman of Committees by standing order 44.
+(2) The provisions of paragraphs (1) and (2) of standing order 16 shall apply to the standing committees.
+(3) The chairman of a standing committee shall have the powers as are given to the Chairman of a Committee of the whole House including the powers under standing orders 15, 48, 57, 63 and 99.
+(4) On a division being called in the House or a Committee of the whole House, the chairman of a standing committee or of a select committee shall suspend the proceedings of the committee for such time as will enable members to vote in the division and return to the committee.
+134. The provisions of standing orders 103 and 104 shall apply to a bill which has been reported upon by a standing committee or a select committee.
+135. (1) Every committee shall have leave to report to the House its opinion and observations upon any matter referred to it for consideration, together with the minutes of the evidence taken before it, as well as to make special reports on any matter which it may think fit to bring to the notice of the House. Minority reports, if any, shall be presented together with the report of the committee.
+(2) The proceedings of, or evidence taken by, or the report of any standing committee or select committee, or the summary of such proceedings, evidence or report, shall not be published by any member of such committee or by any other person, except with the permission of the House, until the report of such committee has been laid on the Table of the House.
+(3) Where evidence before a standing committee or a select committee has been given at a meeting open to the public, no complaint of privilege shall be entertained on the ground that such evidence has been published before having been reported to the House. [S.L.Const.02 32 REPRESENTATIVES
+136. The report of a standing committee or of a select
+committee shall be brought up by the chairman and may be ordered to be laid on the Table, or may be otherwise dealt with as the House may direct.
+137. Every standing committee and every select committee may,
+in its discretion, resolve not to allow strangers to be present during any of its proceedings.
 138. (Deleted by Resolution 198 of 1995).
-139. Counsel and experts, when appearing before a standing committee or before a select committee, shall be bound to observe such directions and conform to such rules in the conduct of matters before such committee as shall be required by the chairman thereof.
+139. Counsel and experts, when appearing before a standing
+committee or before a select committee, shall be bound to observe such directions and conform to such rules in the conduct of matters before such committee as shall be required by the chairman thereof.
 XI. - Petitions
-140. (1) A petition can be either made in writing or electronically.
-(2) Every petition shall be free from interlineations or erasures and in the form shown in the appendix to these standing orders.
-141. No applications may be made by petition for grants of public money, for compounding sums of money due to the Republic of Malta, nor for the remission of duties payable by any person. This rule, however, shall not be construed so as to prevent any person from praying the House to take his case into consideration for the purpose of obtaining for him such relief as he shall appear to the House to be entitled to.
-142. Every petition shall be written in the Maltese or English language and shall be signed by the petitioner. In case of incapacity to write, petitioners shall affix their marks and have them legally certified.
-143. No reference shall be made in a petition to any debate in the House, nor to any intended motion, unless a notice of such motion stands upon the order paper of the House.
+140. (1) A petition can be either made in writing or
+electronically.
+(2) Every petition shall be free from interlineations or erasures
+and in the form shown in the appendix to these standing orders.
+141. No applications may be made by petition for grants of
+public money, for compounding sums of money due to the Republic of Malta, nor for the remission of duties payable by any person. This rule, however, shall not be construed so as to prevent any person from praying the House to take his case into consideration for the purpose of obtaining for him such relief as he shall appear to the House to be entitled to.
+142. Every petition shall be written in the Maltese or English
+language and shall be signed by the petitioner. In case of incapacity to write, petitioners shall affix their marks and have them legally certified.
+143. No reference shall be made in a petition to any debate in
+the House, nor to any intended motion, unless a notice of such motion stands upon the order paper of the House.
 144. Petitions may be presented:
 (a) by a member or members in writing:
-Provided that no member may present his own petition
-but such petition may be presented by any other
-member; or
+Provided that no member may present his own petition but such petition may be presented by any other member; or
 (b) by a citizen in electronic form on the Parliament website.
-145. Every petition shall, before it is presented, be signed at the beginning thereof by the member in charge of it, and deposited for at least one clear day with the Clerk of the House, who, after examining the same, shall submit it for the Speaker's approval and no petition shall be presented to the House until such approval has been obtained. Such approval shall be conveyed by the petition [S.L.Const.02 32 REPRESENTATIVES
-being certified by the Clerk of the House as follows: "House of Representatives, Passed by the Speaker". The same verifications shall be made by the Clerk of the House when a petition is presented by a citizen.
-146. Any member before presenting a petition shall ascertain
-the number of signatures to the petition, and shall write the same number at the head of the petition. The same verifications shall be made by the Clerk of the House when a petition is presented by a citizen.
-147. It shall be incumbent on every member presenting a
-petition to acquaint himself with the contents thereof and to ascertain that it does not contain language disrespectful to the House.
-148. Every member offering to present a petition to the House,
-shall confine himself to a statement of the parties from whom it comes, of the number of signatures attached to it, of the material allegations contained in it, and to the reading of the prayer of such petition.
-149. Every petition not containing matter in breach of the
-privileges of the House, and which, according to the rules or usual practice of the House, can be received, shall be brought to the Table by the direction of the Speaker, who shall not allow any debate, or any member to speak thereon or in relation to such petition; but it
-may be read by the Clerk of the House, if required.
-150. Every petition, both if presented by a member or by a
-citizen, shall be discussed in the Standing Committee on Petitions. After the said discussion the Committee shall decide whether the petition shall be referred to a Standing Committee or to a Select Committee or whether a discussion should be held in the whole House. It shall also be possible for a petition to be referred to a Ministry, Department or Authority. It may be decided that no further action be taken on the petition or that the petition be laid on the Table of the House with or without comments by the Standing Committee on Petitions.
-XII. The Speaker, Deputy Speaker, and Deputy Chairman
-151. (1) There shall preside at any sitting of the House the
-Speaker or, in his absence, the Deputy Speaker or, in their absence, a member of the House (not being a Minister or a Parliamentary Secretary) elected by the House for the sitting.
-(2) References in this standing order to circumstances in which
-the Speaker or Deputy Speaker is absent include references to circumstances in which the office of Speaker or Deputy Speaker is vacant.
-152. The Chairman of Committees shall take the Chair as
-Deputy Speaker whenever requested to do so by the Speaker for short intervals during a sitting of the House without any formal communication to the House.
+145. Every petition shall, before it is presented, be signed at the
+beginning thereof by the member in charge of it, and deposited for at least one clear day with the Clerk of the House, who, after examining the same, shall submit it for the Speaker's approval and no petition shall be presented to the House until such approval has been obtained. Such approval shall be conveyed by the petition being certified by the Clerk of the House as follows: "House of Representatives, Passed by the Speaker". The same verifications shall be made by the Clerk of the House when a petition is
 [S.L.Const.02 REPRESENTATIVES 33
-153. When a vacancy has occurred in the office of Speaker or Deputy Speaker, the Clerk of the House shall report the same to the House, and the House shall forthwith proceed to the election of a new Speaker or Deputy Speaker in the manner hereinbefore provided.
-154. The House may appoint a Deputy Chairman of Committees who shall take the Chair, whenever requested to do so by the Chairman of Committees or when the Chairman of Committees is absent and who shall be entitled to exercise all the powers vested in the chairman of committees including his powers as Deputy Speaker.
+presented by a citizen.
+146. Any member before presenting a petition shall ascertain the number of signatures to the petition, and shall write the same number at the head of the petition. The same verifications shall be made by the Clerk of the House when a petition is presented by a citizen.
+147. It shall be incumbent on every member presenting a petition to acquaint himself with the contents thereof and to ascertain that it does not contain language disrespectful to the House.
+148. Every member offering to present a petition to the House, shall confine himself to a statement of the parties from whom it comes, of the number of signatures attached to it, of the material allegations contained in it, and to the reading of the prayer of such petition.
+149. Every petition not containing matter in breach of the privileges of the House, and which, according to the rules or usual practice of the House, can be received, shall be brought to the Table by the direction of the Speaker, who shall not allow any debate, or any member to speak thereon or in relation to such petition; but it may be read by the Clerk of the House, if required.
+150. Every petition, both if presented by a member or by a citizen, shall be discussed in the Standing Committee on Petitions. After the said discussion the Committee shall decide whether the petition shall be referred to a Standing Committee or to a Select Committee or whether a discussion should be held in the whole House. It shall also be possible for a petition to be referred to a Ministry, Department or Authority. It may be decided that no further action be taken on the petition or that the petition be laid on the Table of the House with or without comments by the Standing Committee on Petitions.
+XII. The Speaker, Deputy Speaker, and Deputy Chairman
+151. (1) There shall preside at any sitting of the House the Speaker or, in his absence, the Deputy Speaker or, in their absence, a member of the House (not being a Minister or a Parliamentary Secretary) elected by the House for the sitting.
+(2) References in this standing order to circumstances in which the Speaker or Deputy Speaker is absent include references to circumstances in which the office of Speaker or Deputy Speaker is vacant.
+152. The Chairman of Committees shall take the Chair as Deputy Speaker whenever requested to do so by the Speaker for short intervals during a sitting of the House without any formal communication to the House.
+153. When a vacancy has occurred in the office of Speaker or Deputy Speaker, the Clerk of the House shall report the same to the House, and the House shall forthwith proceed to the election of a new Speaker or Deputy Speaker in the manner hereinbefore provided. [S.L.Const.02 34 REPRESENTATIVES
+154. The House may appoint a Deputy Chairman of Committees
+who shall take the Chair, whenever requested to do so by the Chairman of Committees or when the Chairman of Committees is absent and who shall be entitled to exercise all the powers vested in the chairman of committees including his powers as Deputy Speaker.
 XIII. Members and Privileges of the House
-155. Every member shall at the commencement of each session or as soon as he shall have taken his seat, enter his name and address and also his address during the session in a book to be kept by the Clerk of the House.
-156. It is the duty of every member of the House to attend its service and that of any standing committee or select committee of which he may be a member.
-157. The seat of a member of the House shall become vacant if he shall absent himself from the sittings of the House for a period of two months during any session thereof, provided that a member shall not have been deemed to have been absent from any sitting if his absence therefrom shall have been approved by the Speaker within a period of two months from such sitting.
-158. A member shall be excused from service in the House or on any committee thereof so long as he has leave of absence from the Speaker.
-Members who are on business related to the House, the Parliamentary Group or on official party business, and Ministers and Parliamentary Secretaries on Government business and Members of Parliament who accompany a Minister or a Parliamentary Secretary on Government business, outside Malta shall be entered in the minutes of the House as being excused. It shall be the responsibility of the Whips to ensure that they inform the Speaker of those Members who are to be considered excused and for what reason.
-The Minutes shall distinguish between Members who are abroad on Parliamentary, Government, Parliamentary Group or official party business.
-Members who are sick or are subject to an extraordinary circumstance shall be entered in the minutes of the House as excused, after producing evidence which will have been approved as such by the Speaker. [S.L.Const.02 34 REPRESENTATIVES
+155. Every member shall at the commencement of each session
+or as soon as he shall have taken his seat, enter his name and address and also his address during the session in a book to be kept by the Clerk of the House.
+156. It is the duty of every member of the House to attend its
+service and that of any standing committee or select committee of which he may be a member.
+157. The seat of a member of the House shall become vacant if
+he shall absent himself from the sittings of the House for a period of two months during any session thereof, provided that a member shall not have been deemed to have been absent from any sitting if his absence therefrom shall have been approved by the Speaker within a period of two months from such sitting.
+158. A member shall be excused from service in the House or on
+any committee thereof so long as he has leave of absence from the Speaker.
+Members who are on business related to the House, the
+Parliamentary Group or on official party business, and Ministers and Parliamentary Secretaries on Government business and Members of Parliament who accompany a Minister or a Parliamentary Secretary on Government business, outside Malta shall be entered in the minutes of the House as being excused. It shall be the responsibility of the Whips to ensure that they inform the Speaker of those Members who are to be considered excused and for what reason.
+The Minutes shall distinguish between Members who are
+abroad on Parliamentary, Government, Parliamentary Group or official party business.
+Members who are sick or are subject to an extraordinary
+circumstance shall be entered in the minutes of the House as excused, after producing evidence which will have been approved as such by the Speaker.
 159. (1) If a Member is absent during the whole of a
 parliamentary day without leave of absence, he shall be liable to an administrative penalty. The administrative penalty shall amount to fifty euro (€50) and shall apply to all Members of Parliament,
 including Ministers and Parliamentary Secretaries.
 (2) The administrative penalties due shall be paid to the Clerk of
 the House within six months from when they become due and after the lapse of that period the Clerk of the House may demand the payment of the said penalties as a civil debt.
-For the purposes of this standing order "parliamentary day"
-means a day during which parliamentary work is carried out and which consists of a sitting or more of the House, or of such sitting
-or sittings and work of Parliamentary Committees.
-160. Every member shall be uncovered when he enters or leaves
-the House or moves to any part of the House during a debate, and shall make obeisance to the Chair in passing to or from his seat or across the House. No member shall pass between the Chair and any member who is speaking, nor between the Chair and the Table, nor shall he stand in any of the passages.
-161. The House of Representatives and the members thereof
-shall enjoy all the privileges, immunities and powers defined in the House of Representatives (Privileges and Powers) Ordinance.
-XIV. Officers of the House
-162. There shall be a Clerk of the House and such other officers
-and as may from time to time be appointed to assist him.
-163. In the case of the unavoidable absence from any cause of
-the Clerk of the House, his duties shall be performed by the Clerk Assistant.
-XV. Witnesses
-164. The House shall have power and authority to summon
-before the House itself or before any committee thereof any person to give evidence or advice with regard to any matter within the jurisdiction of the House, subject to the provisions of the House of
-Representatives (Privileges and Powers) Ordinance.
-XVI. Strangers
-165. Strangers may be present at the sittings of the House in the
-places set apart for them but must withdraw when called upon to do so by the Speaker, or, if the House is in Committee, by the chairman.
-No strangers are admissible as of right.
-166. Strangers in the House shall stay uncovered and be silent
-and shall abstain from expressing any approval or disapproval.
-167. Every member of the House may obtain for each sitting
-two tickets for the admission of strangers from the Clerk of the House, and on each of such tickets he may insert the name of one person, signing also his own name thereon, such ticket to be
 [S.L.Const.02 REPRESENTATIVES 35
-available for the sitting of the day of which it shall bear date, and no person shall be admitted who does not deliver to the doorkeeper his ticket of admission.
-168. The Serjeant at Arms attending the House shall remove, or cause to be removed, any stranger who may have entered the House without a ticket of admission, or who may be in any part of the House appropriated to the members of the House; and also any stranger who, having been admitted into any part of the House, shall misconduct himself or shall not withdraw when ordered to do so or when strangers are directed to withdraw from the House.
-169. No member of the House shall bring any stranger into any part of the House appropriated to the members of the House while the House or a committee of the whole House is sitting.
-170. On a motion from any member that strangers do withdraw, the Speaker or the Chairman (as the case may be) shall forthwith put the question "That Strangers be ordered to withdraw" without permitting any debate or amendment; provided that the Speaker or the Chairman may, whenever he thinks fit, order the withdrawal of strangers from any part of the Chamber.
+For the purposes of this standing order "parliamentary day" means a day during which parliamentary work is carried out and which consists of a sitting or more of the House, or of such sitting or sittings and work of Parliamentary Committees.
+160. Every member shall be uncovered when he enters or leaves the House or moves to any part of the House during a debate, and shall make obeisance to the Chair in passing to or from his seat or across the House. No member shall pass between the Chair and any member who is speaking, nor between the Chair and the Table, nor shall he stand in any of the passages.
+161. The House of Representatives and the members thereof shall enjoy all the privileges, immunities and powers defined in the House of Representatives (Privileges and Powers) Ordinance.
+XIV. Officers of the House
+162. There shall be a Clerk of the House and such other officers and as may from time to time be appointed to assist him.
+163. In the case of the unavoidable absence from any cause of the Clerk of the House, his duties shall be performed by the Clerk Assistant.
+XV. Witnesses
+164. The House shall have power and authority to summon before the House itself or before any committee thereof any person to give evidence or advice with regard to any matter within the jurisdiction of the House, subject to the provisions of the House of Representatives (Privileges and Powers) Ordinance.
+XVI. Strangers
+165. Strangers may be present at the sittings of the House in the places set apart for them but must withdraw when called upon to do so by the Speaker, or, if the House is in Committee, by the chairman.
+No strangers are admissible as of right.
+166. Strangers in the House shall stay uncovered and be silent and shall abstain from expressing any approval or disapproval.
+167. Every member of the House may obtain for each sitting two tickets for the admission of strangers from the Clerk of the House, and on each of such tickets he may insert the name of one person, signing also his own name thereon, such ticket to be available for the sitting of the day of which it shall bear date, and no person shall be admitted who does not deliver to the doorkeeper his ticket of admission.
+168. The Serjeant at Arms attending the House shall remove, or cause to be removed, any stranger who may have entered the House without a ticket of admission, or who may be in any part of the House appropriated to the members of the House; and also any stranger who, having been admitted into any part of the House, shall misconduct himself or shall not withdraw when ordered to do so or when strangers are directed to withdraw from the House. [S.L.Const.02 36 REPRESENTATIVES
+169. No member of the House shall bring any stranger into any
+part of the House appropriated to the members of the House while the House or a committee of the whole House is sitting.
+170. On a motion from any member that strangers do withdraw,
+the Speaker or the Chairman (as the case may be) shall forthwith put the question "That Strangers be ordered to withdraw" without permitting any debate or amendment; provided that the Speaker or the Chairman may, whenever he thinks fit, order the withdrawal of strangers from any part of the Chamber.
 XVII. Records of the House: Duties of the Clerk
-171. Every vote and proceeding of the House shall be noted by the Clerk and recorded in the Maltese and English languages. Such votes and proceedings, after being signed by the Clerk of the House, and after having been confirmed by the House, shall be countersigned by the Speaker and shall constitute the minutes of the proceedings of the House.
-172. The Clerk shall have the custody of all the minutes, records or other documents belonging to the House, and he shall neither take nor permit to be taken any such minutes, records or other documents from the chambers or offices without the express leave or order of the House.
-173. All debates and discussions in the House of Representatives shall be taken down by officers appointed to this effect, and after having been perused and signed by the Clerk and by the Speaker, shall be printed and shall constitute the journals of the House.
-In the case, however, of sittings held behind closed doors, the House may order that the debates and discussions be not taken down, or alternatively, although taken down as stated above, be not printed or reproduced in the journals of the House.
-173A.(1) The House authorises on such terms, conditions and regulations as may be determined by the House Business Committee from time to time, both live and recorded audio / video broadcasts of the sittings of the House of Representatives in plenary and of the Committees appointed by the House in their entirety over radio, television, the internet or any other medium that may be deemed appropriate by the House Business Committee.
-(2) The sittings of the House of Representatives in plenary shall be broadcast in their entirety on radio by live transmission by [S.L.Const.02 36 REPRESENTATIVES
-the Public Broadcasting Services.
+171. Every vote and proceeding of the House shall be noted by
+the Clerk and recorded in the Maltese and English languages. Such votes and proceedings, after being signed by the Clerk of the House, and after having been confirmed by the House, shall be countersigned by the Speaker and shall constitute the minutes of the proceedings of the House.
+172. The Clerk shall have the custody of all the minutes, records
+or other documents belonging to the House, and he shall neither take nor permit to be taken any such minutes, records or other documents from the chambers or offices without the express leave or order of the House.
+173. All debates and discussions in the House of
+Representatives shall be taken down by officers appointed to this effect, and after having been perused and signed by the Clerk and by the Speaker, shall be printed and shall constitute the journals of the House.
+In the case, however, of sittings held behind closed doors,
+the House may order that the debates and discussions be not taken down, or alternatively, although taken down as stated above, be not
+printed or reproduced in the journals of the House.
+173A.(1) The House authorises on such terms, conditions and
+regulations as may be determined by the House Business Committee from time to time, both live and recorded audio / video broadcasts of the sittings of the House of Representatives in plenary and of the Committees appointed by the House in their entirety over radio, television, the internet or any other medium that may be deemed appropriate by the House Business Committee.
+(2) The sittings of the House of Representatives in plenary
+shall be broadcast in their entirety on radio by live transmission by the Public Broadcasting Services.
 (3) The Speaker may order the interruption of such
 transmissions whenever, in his opinion, such interruption is necessary.
 (4) In the case of sittings held behind closed doors, such
 sittings shall not be broadcast.
 174. Every member of the House shall be entitled to read, and if
 he shall so desire, take extracts from or copies of all papers laid upon the Table of the House.
-175. The Clerk of the House, to whom all correspondence shall
-be addressed, shall be responsible to the House under the direction of the Speaker, for the regulation of all matters connected with the business of the House, and shall have the direction and control over all the officers and clerks employed by the House, subject to such orders as he may from time to time receive from the Speaker.
-176. The Office of the Clerk shall be open during the period
-when the House is not in session, daily, Sundays and public holidays excepted, during such hours as the Speaker may appoint.
-XVIII. Enactment of Laws
-177. The Clerk of the House shall present to the President of
-Malta for his assent a fair copy in the Maltese and English languages of any bill passed by the House of Representatives; and, after any such bill shall have been assented to by the President of Malta, it shall without delay be published in the Government Gazette.
-178. Upon the discovery of any clerical error in any bill which
-shall have passed and before the same be presented to the President of Malta for his assent thereto, the Speaker shall report such error to the House, and the House shall thereupon deal with the same forthwith.
-179. (Deleted by Legal Notice 46 of 1965).
-180. In the enactment of laws the following rules and
-regulations shall be observed, that is to say:
-(1) (Deleted by Legal Notice 46 of 1965).
-(2) All Acts are to be distinguished by titles and shall be divided in successive clauses or paragraphs consecutively numbered, and to every such clause there shall be annexed in the margin a short summary of its contents. The Acts of each year shall be distinguished by consecutive numbers, commencing in
-each year with the number one.
-(3) Each different matter is to be provided for by a different Act without intermixing in one and the same Act such things as have no proper relation to each other; and no clause is to be inserted in or annexed to any Act which shall be foreign to what the title of such Act imports.
 [S.L.Const.02 REPRESENTATIVES 37
+175. The Clerk of the House, to whom all correspondence shall be addressed, shall be responsible to the House under the direction of the Speaker, for the regulation of all matters connected with the business of the House, and shall have the direction and control over all the officers and clerks employed by the House, subject to such orders as he may from time to time receive from the Speaker.
+176. The Office of the Clerk shall be open during the period when the House is not in session, daily, Sundays and public holidays excepted, during such hours as the Speaker may appoint.
+XVIII. Enactment of Laws
+177. The Clerk of the House shall present to the President of Malta for his assent a fair copy in the Maltese and English languages of any bill passed by the House of Representatives; and, after any such bill shall have been assented to by the President of Malta, it shall without delay be published in the Government Gazette.
+178. Upon the discovery of any clerical error in any bill which shall have passed and before the same be presented to the President of Malta for his assent thereto, the Speaker shall report such error to the House, and the House shall thereupon deal with the same forthwith.
+179. (Deleted by Legal Notice 46 of 1965).
+180. In the enactment of laws the following rules and regulations shall be observed, that is to say:
+(1) (Deleted by Legal Notice 46 of 1965).
+(2) All Acts are to be distinguished by titles and shall be
+divided in successive clauses or paragraphs
+consecutively numbered, and to every such clause
+there shall be annexed in the margin a short summary
+of its contents. The Acts of each year shall be
+distinguished by consecutive numbers, commencing in
+each year with the number one.
+(3) Each different matter is to be provided for by a
+different Act without intermixing in one and the same
+Act such things as have no proper relation to each
+other; and no clause is to be inserted in or annexed to
+any Act which shall be foreign to what the title of such
+Act imports.
 XIX. Accounts, Papers and Printing
 181. The House may request that accounts, returns, reports and papers shall be laid before the House, provided that no departmental file of a confidential character need be laid before the House.
 182. Accounts, returns, reports and papers may also be ordered to be laid before the House by command of the President of Malta.
-183. A copy of every paper ordered to be printed by the House shall be delivered to each member of the House.
+183. A copy of every paper ordered to be printed by the House shall be delivered to each member of the House. [S.L.Const.02 38 REPRESENTATIVES
 XX. Messages from the President of Malta
-184. A message from the President of Malta shall be brought to the House by a Minister but not during a debate. The Minister shall inform the Speaker that he has a message from the President of Malta to the House, and then, on being so desired by the Speaker, he shall bring the message to the Chair and deliver it to the Speaker, who shall then read it to the House.
-185. If necessary a date shall be fixed for taking the message into consideration, or motion may be made without notice to take the same into consideration in the same sitting as soon as the business before the House shall have been concluded
-186. Communications of a less formal character may be made verbally to the House, on behalf of the President of Malta, by a Minister.
+184. A message from the President of Malta shall be brought to
+the House by a Minister but not during a debate. The Minister shall inform the Speaker that he has a message from the President of Malta to the House, and then, on being so desired by the Speaker, he shall bring the message to the Chair and deliver it to the Speaker, who shall then read it to the House.
+185. If necessary a date shall be fixed for taking the message
+into consideration, or motion may be made without notice to take the same into consideration in the same sitting as soon as the
+business before the House shall have been concluded
+186. Communications of a less formal character may be made
+verbally to the House, on behalf of the President of Malta, by a Minister.
 XXI. Addresses to the President of Malta
-187. Whenever it be deemed proper to present an Address to the President of Malta, the same shall be proposed on motion after notice in the usual manner.
+187. Whenever it be deemed proper to present an Address to the
+President of Malta, the same shall be proposed on motion after notice in the usual manner.
 188. (Omitted under Act IX of 1980).
-189. Any communication or request which the House shall have to submit to the President of Malta shall be offered by way of respectful Address, and all Addresses shall be signed by the Speaker and the Clerk of the House.
-190. Addresses to the President of Malta shall be presented or forwarded by the Speaker unless the House otherwise directs.
-191. When an Address is ordered to be presented by the whole House, the Speaker with the House shall proceed to such place as the President of Malta may appoint. The Speaker shall read the Address to the President of Malta, the members who moved and seconded such Address being on his left hand.
-192. The President of Malta's reply to any Address presented by the whole House shall be reported by the Speaker to the House.
-193. Every message from the President of Malta to the House shall be acknowledged by an Address of the House or in such other way as the House shall determine.
-XXII. Miscellaneous [S.L.Const.02 38 REPRESENTATIVES
+189. Any communication or request which the House shall have
+to submit to the President of Malta shall be offered by way of respectful Address, and all Addresses shall be signed by the Speaker and the Clerk of the House.
+190. Addresses to the President of Malta shall be presented or
+forwarded by the Speaker unless the House otherwise directs.
+191. When an Address is ordered to be presented by the whole
+House, the Speaker with the House shall proceed to such place as the President of Malta may appoint. The Speaker shall read the Address to the President of Malta, the members who moved and seconded such Address being on his left hand.
+192. The President of Malta's reply to any Address presented by
+the whole House shall be reported by the Speaker to the House.
+193. Every message from the President of Malta to the House
+shall be acknowledged by an Address of the House or in such other way as the House shall determine.
+XXII. Miscellaneous
 194. Any standing order of the House may be suspended upon
 motion made without notice, provided that no objection is taken by any member present.
 195. However, any standing order of the House may be
 suspended upon motion made after notice, such motion being carried by a majority of those present and voting.
 196. The suspension of standing orders is limited in its
 operation to the particular purpose for which such suspension has been sought.
-197. In all cases not provided for by these Standing Orders,
-resort shall be had to the rules, forms, usages and practice of the Commons' House of Parliament of the United Kingdom, which shall be followed as far as they can be applied to the proceedings of the House, with due regard to the special nature of the Constitution.
+[S.L.Const.02 REPRESENTATIVES 39
+197. In all cases not provided for by these Standing Orders, resort shall be had to the rules, forms, usages and practice of the Commons' House of Parliament of the United Kingdom, which shall be followed as far as they can be applied to the proceedings of the House, with due regard to the special nature of the Constitution.
 - Amended by: L.N. 46 of 1965; Resolution 198 of; 1995; Resolution 377 of; 2016.
 - Amended by: L.N. 46 of 1965.
 - Amended by: L.N. 46 of 1965.
@@ -1050,7 +1077,7 @@ resort shall be had to the rules, forms, usages and practice of the Commons' Hou
 - Amended by: L.N. 46 of 1965.
 - Amended by: Resolution 49 of; 2013.
 - Added by: Resolution 198 of; 1995.
-- Amended by: Resolution 67 of; 2003; Resolution 234 of; 2011; Resolution 24 of; 2013; Resolution 108 of; 2014; Resolution 379 of; 2016; Resolution 353 of; 2020.
+- Amended by: Resolution 67 of; 2003; Resolution 234 of; 2011; Resolution 24 of; 2013; Resolution 108 of; 2014; Resolution 379 of; 2016; Resolution 353 of; 2020; Resolution 386 of; 2025; Resolution 387 of; 2025.
 - Added by: Resolution 198 of; 1995.
 - Added by: Resolution 198 of; 1995.
 - Added by: Resolution 198 of; 1995.
@@ -1065,6 +1092,8 @@ resort shall be had to the rules, forms, usages and practice of the Commons' Hou
 - Added by: Resolution 381 of; 2016.
 - Amended by: Resolution 301 of; 2020.
 - Added by: Resolution 353 of; 2020.
+- Added by: Resolution 386 of; 2025.
+- Added by: Resolution 387of; 2025.
 - Amended by: Resolution 49 of; 2013.
 - Amended by: Resolution 49 of; 2013.
 - Amended by: Resolution 198 of; 1995.
