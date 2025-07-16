@@ -1,4 +1,4 @@
 SUBSIDIARY LEGISLATION 386.01
 COMPANIES ACT (FORMS) REGULATIONS
 1st January, 1996
-LEGAL NOTICE 101 of 1996, as amended by Legal Notices 116 of 1997, 214 and 425 of 2007, 401 of 2011, 358 of 2014 and 51 of 2022.
+LEGAL NOTICE 101 of 1996, as amended by Legal Notices 116 of 1997, 214 and 425 of 2007, 401 of 2011, 358 of 2014, 51 of 2022 and 92 of 2025.
