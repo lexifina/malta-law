@@ -5,4 +5,4 @@ EUROPEAN UNION GREENHOUSE GAS EMISSIONS
 TRADING SYSTEM FOR STATIONARY
 INSTALLATIONS REGULATIONS
 1st January, 2013*
-LEGAL NOTICE 434 of 2013, as amended by Legal Notice 268 of 2019 and Act XVII of 2024 and Legal Notice 315 of 2024.
+LEGAL NOTICE 434 of 2013, as amended by Legal Notice 268 of 2019 and Act XVII of 2024 and Legal Notice 315 of 2024 and 144 of 2025.
