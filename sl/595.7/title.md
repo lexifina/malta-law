@@ -2,4 +2,4 @@ SUBSIDIARY LEGISLATION 595.07
 IDENTITY MALTA AGENCY
 (ESTABLISHMENT) ORDER
 10th September, 2013
-LEGAL NOTICE 269 of 2013, as amended by Legal Notice 101 of 2016, 95 of 2018, 4 of 2019 and 438 of 2020 and 295 of 2023.
+LEGAL NOTICE 269 of 2013, as amended by Legal Notice 101 of 2016, 95 of 2018, 4 of 2019 and 438 of 2020, 295 of 2023 and 141 of 2025.
