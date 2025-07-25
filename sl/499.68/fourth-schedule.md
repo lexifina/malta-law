@@ -1,6 +1,6 @@
 ## FOURTH SCHEDULE
 # fourth-schedule
-(Regulation 68) [S.L. 499.68 50 VEHICLE HIRE SERVICES
+(Regulation 68)
 ADMINISTRATIVE PENALTIES
 Column 4
 Column 1 Column 2 Column 3
@@ -38,10 +38,10 @@ regulation 25 50
 regulation 26 50
 regulation 27 100
 regulation 28 250
+[S.L. 499.68 VEHICLE HIRE SERVICES 51
 regulation 29 100 100
 regulation 30 100
 regulation 32 100
-[S.L. 499.68 VEHICLE HIRE SERVICES 51
 regulation 33 100
 regulation 34 100 100
 regulation 35 50

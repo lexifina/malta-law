@@ -5,11 +5,12 @@ PART 1:
 List of subjects to be covered in the training course to obtain a driver's permit referred to in regulation 40(1)(a):
 1. Knowledge of vehicle characteristics and safety features including, inter alia:
 a. Knowledge of the characteristics of the
-transmission (gear) systems enabling a driver to make the best possible use of them;
+transmission (gear) systems enabling a driver to make the best [S.L. 65.33 48 VEHICLE HIRE SERVICES
+possible use of them;
 b. Knowledge of the technical characteristics and
-operation of the safety controls in order to control the vehicle (compliance with safety and security procedures), minimise wear and tear and prevent vehicle malfunction; and
+operation of the safety controls in order to control the vehicle (compliance with safety and security procedures), minimise
+wear and tear and prevent vehicle malfunction; and
 c. Ability to optimise fuel consumption and ECO
-[S.L. 65.33 48 VEHICLE HIRE SERVICES
 driving skills.
 2. Safety of driver, passengers and other road users
 including:
@@ -38,12 +39,12 @@ e. Correct use of speed;
 f. Physical fitness to drive a light passenger transport
 vehicle; and
 g. Awareness of the risks on the road and accidents at
+[S.L. 65.33 VEHICLE HIRE SERVICES 49
 work.
 3. Routes and destinations
 a. Thorough knowledge of routes, including the
 ability to provide shortest route and alternate routes; and
 b. Basic knowledge of prime tourist and commercial
-[S.L. 65.33 VEHICLE HIRE SERVICES 49
 locations across Malta and Gozo
 4. Interpersonal skills including:
 a. Customer Care

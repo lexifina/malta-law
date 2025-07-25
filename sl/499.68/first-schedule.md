@@ -21,14 +21,12 @@ Renewal fee for Vehicle Hire Services Operator Licence
 (under Part V) €200
 Transfer of Operator Licence (under Part V)
 €50
+[S.L. 499.68 VEHICLE HIRE SERVICES 47
 Changes in Operator Licence (under Part V)
 €25
 Reissuing lost licence
 €10
-Application fee for a Passenger Transport Vehicle
-Licence (under Part VIII €25
-Application fee for Intermediary Booking Platform
-Service (under Part IX) €100
-[S.L. 499.68 VEHICLE HIRE SERVICES 47
+Application fee for a Passenger Transport Vehicle Licence (under Part VIII €25
+Application fee for Intermediary Booking Platform Service (under Part IX) €100
 Renewal Fee (under Part IX
 €100
