@@ -15,7 +15,7 @@
 ## Malta Police Force
 ## Department for Policy in Health
 ## Department of Probation and Parole
-## Works and Infrastructure Department
+## Public Works Department
 ## Electoral Office
 ## Internal Audit and Investigations Department
 ## Office of the President
@@ -25,4 +25,6 @@ Part I
 Departments other than those not subject to ministerial control
 Part II
 Departments not subject to ministerial control
-- Amended by: L.N. 301 of 2024; L.N. 308 of 2024.
+- Amended by: L.N. 301 of 2024; L.N. 308 of 2024; L.N. 149 of 2025.
+- Substituted by: L.N. 338 of 2022.
+- Amended by: L.N. 239 of 2024; L.N. 285 of 2024.
