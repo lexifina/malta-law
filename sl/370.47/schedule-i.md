@@ -1,16 +1,15 @@
 ## SCHEDULE I
 # schedule-i
-SUPERVISORY POWERS
-(Regulations 9, 10, 11(3), and 12)
+SUPERVISORY POWERS (regulations 11, 12 and 13)
 (1) For the purposes of regulations 9, 10, 11(3), and 12 and the application of the IFR, the competent authority shall have at least the following powers:
 (a) to require investment firms to hold own funds in
-excess of the requirements set out in Article 11 of the IFR, under the conditions of the Investment Services Rules transposing the requirements of Article 40 of the IFD or to adjust the own funds and liquid assets required in case of material changes in the business of those investment firms;
+excess of the requirements set out in Article 11 of the IFR, under the conditions of this Schedule transposing the requirements of Article 40 of the IFD or to adjust the own funds and liquid assets required in case of material changes in the business of those investment firms;
 (b) to require the reinforcement of the arrangements,
 processes, mechanisms and strategies implemented in accordance with the Investment Services Rules transposing the requirements of Articles 24 and 26 of the IFD;
 (c) to require investment firms to present, within one
-year, a plan to restore compliance with supervisory requirements pursuant to the Act, regulations or Investment Services Rules issued thereunder, the IFD, and to the IFR and set a deadline for its implementation, including improvements to that plan regarding scope and deadline;
+year, a plan to restore compliance with supervisory requirements pursuant to the Act, regulations or Investment Services Rules issued thereunder, the IFD, and to the IFR and set a deadline for its implementation, including improvements to that plan regarding scope and deadline; [S.L. 370.47 12 INVESTMENT FIRMS DIRECTIVE)
 (d) to require investment firms to apply a specific
-provisioning policy or treatment of assets in terms of own funds requirements; [S.L. 370.47 12 INVESTMENT FIRMS DIRECTIVE)
+provisioning policy or treatment of assets in terms of own funds requirements;
 (e) to restrict or limit the business, operations or
 network of investment firms or to request the divestment of activities that pose excessive risks to the soundness of an investment firm;
 (f) to require the reduction of the risk inherent in the
@@ -37,9 +36,9 @@ investment firm that falls under the scope of the BRRD.
 authority may only impose additional or more frequent reporting requirements on investment firms where the information to be reported is not duplicative and one of the following conditions is met:
 (a) one of the cases referred to in paragraphs (a) and
 (b) of regulation 11(1) applies;
+[S.L. 370.47. INVESTMENT FIRMS DIRECTIVE) 13
 (b) the competent authority considers it to be
 necessary to gather the evidence referred to in paragraph (b) of regulation 11(1);
-[S.L. 370.47. INVESTMENT FIRMS DIRECTIVE) 13
 (c) the additional information is required for the
 purpose of the supervisory review and evaluation process referred to in regulation 9:
 Provided that, information shall be deemed to be
@@ -54,8 +53,9 @@ valuation of the trading book are insufficient to enable the investment firm to 
 (d) the review carried out in accordance with
 regulation 10 shows that non‐compliance with the requirements for the application of the permitted internal models will likely lead to inadequate levels of capital;
 (e) the investment firm repeatedly fails to establish or
+[S.L. 370.47 14 INVESTMENT FIRMS DIRECTIVE)
 maintain an adequate level of additional own funds as set out in Article 41 of the IFD.
-(4) For the purposes of paragraph (3)(a), risks or elements of [S.L. 370.47 14 INVESTMENT FIRMS DIRECTIVE)
+(4) For the purposes of paragraph (3)(a), risks or elements of
 risks shall be considered not to be covered or to be insufficiently covered by the own funds requirements set out in Parts Three and Four of the IFR only where the amounts, types and distribution of capital considered adequate by the competent authority following the supervisory review of the assessment carried out by investment firms in accordance with Article 24(1) of the IFD are higher than the investment firm's own funds requirement set out in Parts Three or Four of the IFR:
 Provided that, for the purposes of this paragraph, the
 capital considered to be adequate may include risks or elements of risks that are explicitly excluded from the own funds requirement set out in Parts Three or Four of the IFR.
@@ -71,12 +71,12 @@ defined in the IFR is composed of Common Equity Tier 1 capital as defined in the
 (c) those own funds are not used to meet any of the
 own funds requirements set out in points (a), (b) and (c) of Article 11(1) of the IFR.
 (7) The competent authority shall substantiate in writing its
-decision to impose an additional own funds requirement as referred to in paragraph (1)(a) by giving a clear account of the full assessment of the elements referred to in paragraphs (3) to (6). In the case set out in paragraph (3)(d), that includes a specific statement of why the level of capital established in accordance with Article 41(1) of the IFR is no longer considered sufficient.
+decision to impose an additional own funds requirement as referred to in paragraph (1)(a) by giving a clear account of the full assessment of the elements referred to in paragraphs (3) to (6). In the case set out in paragraph (3)(d), that includes a specific statement of why the level of capital established in accordance with Article 41(1) of the IFD is no longer considered sufficient.
 (8) Competent authorities may impose an additional own
-funds requirement in accordance with paragraphs (3) to (7) on investment firms that meet the conditions for qualifying as small and non‐interconnected investment firms set out in Article 12(1) of the IFR on the basis of a case‐by‐case assessment and where the competent authority deems it to be justified.
-(9) Taking into account the principle of proportionality and
+funds requirement in accordance with paragraphs (3) to (7) on investment firms that meet the conditions for qualifying as small and non‐interconnected investment firms set out in Article 12(1) of the IFR
 [S.L. 370.47. INVESTMENT FIRMS DIRECTIVE) 15
-commensurate with the size, systemic importance, nature, scale and complexity of activities of investment firms that do not meet the conditions for qualifying as small and non‐interconnected investment firms set out in Article 12(1) of the IFR, the competent authority may require such investment firms to have levels of own funds which, based on Article 24 of the IFD, are sufficiently above the requirements set out in Part Three of the IFR and in the IFD, including the additional own funds requirements referred to in paragraph (1)(a), to ensure that cyclical economic fluctuations do not lead to a breach of those requirements or threaten the ability of the investment firm to wind down and cease activities in an orderly manner.
+on the basis of a case‐by‐case assessment and where the competent authority deems it to be justified.
+(9) Taking into account the principle of proportionality and commensurate with the size, systemic importance, nature, scale and complexity of activities of investment firms that do not meet the conditions for qualifying as small and non‐interconnected investment firms set out in Article 12(1) of the IFR, the competent authority may require such investment firms to have levels of own funds which, based on Article 24 of the IFD, are sufficiently above the requirements set out in Part Three of the IFR and in the IFD, including the additional own funds requirements referred to in paragraph (1)(a), to ensure that cyclical economic fluctuations do not lead to a breach of those requirements or threaten the ability of the investment firm to wind down and cease activities in an orderly manner.
 (10) The competent authority shall, where appropriate, review the level of own funds that has been set by each investment firm that does not meet the conditions for qualifying as a small and non‐interconnected investment firm set out in Article 12(1) of the IFR, in accordance with paragraph (9) and, where relevant, shall communicate the conclusions of that review to the investment firm concerned, including any expectation for adjustments to the level of own funds established in accordance with paragraph (9). Such a communication shall include the date by which the competent authority requires the adjustment to be completed:
 Provided that, the competent authority shall notify the
 Resolution Committee of any additional own funds requirement imposed pursuant to paragraph (1)(a) for an investment firm that falls under the scope of the BRRD and about any expectation for adjustments pursuant to this paragraph.
