@@ -1,4 +1,4 @@
 SUBSIDIARY LEGISLATION 188.01
 CITIZENSHIP REGULATIONS
 1st August, 1989
-LEGAL NOTICE 106 of 1989, as amended by Legal Notices 16 of 1993, 232 of 1997, 26 of 2000, 188, 410 of 2007, 17, 63 of 2014; Act XIII of 2015, and by Legal Notices 336 of 2017, 214 of 2019 and 443 of 2020.
+LEGAL NOTICE 106 of 1989, as amended by Legal Notices 16 of 1993, 232 of 1997, 26 of 2000, 188, 410 of 2007, 17, 63 of 2014; Act XIII of 2015, and by Legal Notices 336 of 2017, 214 of 2019, 443 of 2020 and 276 of 2025.

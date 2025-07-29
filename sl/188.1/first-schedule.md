@@ -1451,8 +1451,9 @@ Exceptional Direct Investment
  3DUW$   3DUW%±3DUWLFXODUVRI0LQRU
  3DUW&±'HFODUDWLRQV    3DUW'±$GGLWLRQDO,QIRUPDWLRQ 3DUW('DWD3URWHFWLRQ
 3DUW)
-
+ FORM V FORM V1 FORM V2
 - Substituted by: L.N. 26 of 2000.
 - Amended by: L.N. 188 of 2007; L.N. 17 of 2014; L.N. 63 of 2014; L.N. 336 of 2017; L.N. 443 of 2020.
 - Added by: L.N. 433 of 2020.
 - Added by: L.N. 433 of 2020.
+- Added by: L.N. 276 of 2025.
