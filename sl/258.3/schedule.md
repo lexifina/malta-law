@@ -1,4 +1,5 @@
 ## SCHEDULE
+## *These regulations have been repealed by Legal Notice 165 of 2025.
 # schedule
 Service Fees
 €
