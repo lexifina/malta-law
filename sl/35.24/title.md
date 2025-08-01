@@ -1,4 +1,4 @@
 SUBSIDIARY LEGISLATION 35.24
 FEES (PASSPORT) REGULATIONS
 1st July, 2000
-LEGAL NOTICE 118 of 2000, as amended by Legal Notices 356 of 2004, 396 of 2005, 407 of 2007, 244 and 258 of 2008, 96 of 2009, 158 of 2014 86 of 2015 and 286 of 2020 and 41 of 2021.
+LEGAL NOTICE 118 of 2000, as amended by Legal Notices 356 of 2004, 396 of 2005, 407 of 2007, 244 and 258 of 2008, 96 of 2009, 158 of 2014 86 of 2015 and 286 of 2020 and 41 of 2021 and 166 of 2025.
