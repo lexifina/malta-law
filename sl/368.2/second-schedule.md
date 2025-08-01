@@ -22,3 +22,4 @@ The registration mark, with the exception of vintage vehicles and vehicles regis
 The plate on which the registration mark of a vintage vehicle is exhibited shall carry silver characters on a black background.
 The plate on which the registration mark of a vehicle registered for use on the road in Malta solely and exclusively on Saturdays, Sundays, national holidays and other public holidays in terms of article 8(4) of the Act shall carry red characters.
 The plates for vintage vehicles and vehicles registered in terms of article 8(4) of the Act shall, with the exception of the colour of the characters, the periphery of the plate and, in the case of vintage vehicles, the colour of the plate, have the same dimensions and composition of all other registration plates as defined in this Schedule.
+- Amended by: L.N. 178 of 2015; L.N. 139 of 2018.
