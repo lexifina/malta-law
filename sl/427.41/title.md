@@ -1,4 +1,4 @@
 SUBSIDIARY LEGISLATION 427.41
 RADIO EQUIPMENT REGULATIONS
 13th June, 2016*
-LEGAL NOTICE 213 of 2016, as amended by Legal Notice 7 of 2024.
+LEGAL NOTICE 213 of 2016, as amended by Legal Notices 7 of 2024 and 202 of 2025.
