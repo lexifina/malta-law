@@ -2,7 +2,7 @@
 # first-schedule
 (Regulation 2, 18D and 18E)
 Prescribed Requirements
-A. the requirements established by the Driver and Vehicle Standards Agency of the United Kingdom as contained in the following manuals and their subsequent updates and amendments (this item shall apply until 19 May 2018):
+A. the requirements established by the Driver and Vehicle Standards Agency of the United Kingdom as contained in the following manuals and their subsequent updates and amendments :
 (a) The Motor Bicycle and Sidecar Testing Manual (latest edition);
 (b) The Private Passenger and Light Commercial Testing Manual (latest edition);
 (c) The Heavy Goods Vehicle Inspection Manual (latest edition);
@@ -25,4 +25,5 @@ Where applicable, vehicles of all classes having a compression ignition (diesel)
 F Examination of the light transmission of all motor vehicle windows to ensure
 compliance with levels prescribed in the Motor Vehicles Regulations.
 G Active fire extinguishers in N1, N2, N3, M2 and M3 vehicles and in taxis. H Glass breaking hammer in public service vehicles (M2 and M3 vehicles).
-I. Spray suppression system on N2, N3, M2, M3 and T5 vehicles.
+I. Spray suppression system on N2, N3, M2, M3, T1b, T2b, T3b, T4.1b, T4.2b
+and T4.3b category vehicles.

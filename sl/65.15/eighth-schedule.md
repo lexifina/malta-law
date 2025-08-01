@@ -43,13 +43,13 @@ Category VI
 Motor vehicles having at least four
 wheels, used for the carriage of 20.27 25.27 30.27 D/E passengers and with no more than eight seats excluding the driver's seat, including Hearses (M1 vehicles)
 Category VII**
-Mopeds, Motorcycles, Motor Tricycles, Quadricicyles and Quad 14.33 19.33 24.33 A
-Bikes (L3e, L4e, L5e and L7e vehicles with an engine displacement
-of more than 125cm³)
+Mopeds, Motorcycles, Motor Tricycles, Quadricicyles and Quad
+14.33 19.33 24.33 A
+Bikes (L3e, L4e, L5e and L7e vehicles with a combustion engine with a displacement of more than
+125cm³)
 Category VIII***
-Wheeled tractors, the use of which
-31.10 41.10 46.10 D mainly takes place on public roads
-with a maximum design speed exceeding 40 km/h (T5 vehicles)
+Wheeled tractors, the use of which mainly takes place on public roads 31.10 41.10 46.10 D
+with a maximum design speed exceeding 40 km/h (T1b, T2b, T3b, T4.1b, T4.2b and T4.3b vehicles)
 Imported used vehicles
 1. Without prejudice to regulation 18B, a used vehicle brought into Malta from another Member State shall be deemed to be covered by a valid roadworthiness certificate in accordance with these regulations if that vehicle is already covered by a roadworthiness certificate issued by
 As above As above As above that Member State that is still valid in
