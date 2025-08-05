@@ -1,22 +1,7 @@
 ## SCHEDULE
 # schedule
 (Regulation 3)
-FORM RPG
-APPLICATION FOR THE TERMINATION OF MANDATES OF A GENERAL
-NATURE BETWEEN PHYSICAL PERSONS
-(in terms of Article 1886(1) of the Civil Code, Cap. 16 of the Laws of Malta)
-Details of Applicant
-Name: ..............................................................................................................
-Surname: .........................................................................................................
-Identity Card Number: ....................................................................................
-I, the undersigned, am terminating with effect from the date of acceptance of such application, any general power of attorney entered into with other persons. I am attaching a copy of my Identity Card with this application.
-.................................................
-Signature of Applicant
-The Chief Notary to Government confirms receipt of this application from the applicant at the Office of the Notary to Government today ........................ at ................................... .
-Fee: €50
-.............................................................................
-Signature and rubber stamp of Notary to Government
-Data Protection Statement - All personal data provided on this form is protected, and used in accordance with the Data Protection Act.
+Deleted by Legal Notice 172 of 2025.
 FORM RPS
 APPLICATION FOR THE TERMINATION OF MANDATES OF A SPECIAL NATURE REGARDING TRANSFER OF IMMOVABLE PROPERTY ONLY
 (in terms of Article 1886 (1) of the Civil Code, Cap. 16 of the Laws of Malta)
@@ -38,6 +23,5 @@ Applicable only if paragraph 2 above is marked
 Signature of Applicant
 The Chief Notary to Government confirms receipt of this application from the applicant at the Office of the Notary to Government today ........................ at ............................ .
 Fee: €50
-.....................................................................................
-Signature and rubber stamp of Notary to Government
+..................................................................................... Signature and rubber stamp of Notary to Government
 Data Protection Statement - All personal data provided on this form is protected, and used in accordance with the Data Protection Act.
