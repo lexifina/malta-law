@@ -1,6 +1,6 @@
 ## TENTH SCHEDULE
 ## * This-sub-paragraph is not yet in force.
-## *
+## * This sub-paragraph is not yet in force.
 # tenth-schedule
 (Article 66A)
 Partnerships en commandite or Limited
@@ -595,3 +595,9 @@ months after death of liquidator or elected person €500 None
 35(4) Person other than a Variable Capital Limited Partnership
 or a partner therein falsely indicating existence of
 Variable Capital Limited Partnership €500 None
+- Amended by: L.N. 425 of 2007; L.N. 561 of 2010.
+- Substituted by: L.N. 478 of 2014.
+- See IV. 2003.171..
+- See XIII. 2004.107;.
+- See XII. 2006.74;.
+- See IX. 2008.44;.
