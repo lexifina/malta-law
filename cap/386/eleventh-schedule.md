@@ -26,7 +26,8 @@ representation to deliver a copy of any instrument altering or adding to the dee
 prohibited names €465.87 €23.29 74(2) Failure of company to deliver to Registrar report of
 proposed acquisition of non-cash asset from subscriber or member €1,164.69 None 79(4) Failure of officer to deliver a copy of any resolution
 altering or adding to a company's memorandum or articles to the Registrar or failure to deliver amended memorandum and articles €465.87 €23.29 83(12) Failure of officer to deliver a copy of the notice of
-reduction of the issued share capital to the Registrar, when applicable €465.87 €23.29 85(4) Failure of officer to file copy of resolution increasing
+reduction of the issued share capital to the
+€465.87 €23.29 Registrar, when applicable 85(4) Failure of officer to file copy of resolution increasing
 share capital €465.87 €23.29 88(11) Failure of officer of company to deliver to the Registrar
 copy of resolution to restrict or withdraw right of pre-emption €465.87 €23.29
 91 Contravention of articles 89 in respect of the obligation
@@ -96,3 +97,6 @@ with provisions as to registration or returns of oversea company €465.87 €23
 failing to give notice to Registrar of winding-up of oversea company or closure of branch or place of business €465.87 €23.29 399A(2) Liquidator of oversea company failing to notify
 Registrar of appointment €465.87 €23.29
 .
+- Amended by: IV. 2003.170, 172.
+- Substituted by: L.N. 425 of 2007.
+- Amended by: IX. 2008.45; XXII. 2014.23; V.2020.39; XVIII.2024.21.
