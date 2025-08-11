@@ -25,7 +25,8 @@ transported back to the client;
 - the date and a reference to the documents issued relating to the
 services supplied;
 (k) (i) a register of goods transferred under the call-off stock arrangements referred to in item 17A of the Second Schedule that permits the Commissioner to verify the correct application of the rules in terms of the provisions of the said item 17A of the Second Schedule; and
-(ii) a register of those goods supplied to him under the call-off stock arrangements referred to in item 17A of the Second Schedule.
+(ii) a register of those goods supplied to him under the call-off stock
+arrangements referred to in item 17A of the Second Schedule.
 (2) Invoices shall be stored in the original form in which they were sent or made available, whether paper or electronic. Additionally, in the case of invoices stored by electronic means, the Commissioner may require that the data guaranteeing the authenticity of the origin of the invoices and the integrity of their content as provided for in the Twelfth Schedule shall also be stored by electronic means.
 (3) Where a taxable person stores by electronic means invoices or fiscal receipts which he issues or receives, such person shall ensure the possibility for online access, download and use of the data concerned to the Commissioner:
 Provided that where any invoices relate to VAT due in another Member State, the competent authorities of such Member State shall, for control purposes, have the right to access, download and use those invoices.
@@ -89,6 +90,3 @@ Provided that where any invoices relate to VAT due in another Member State, the 
 during each tax period; and
 (b) the output tax and any other tax payable by such person for each tax
 period, as may be applicable.
-- Amended by: L.N. 60 of 1999; L.N. 200 of 1999; L.N. 217 of 1999; L.N. 272 of 2000; L.N. 93 of 2001; L.N. 235 of 2001; L.N. 389 of 2002.
-- Substituted by: X. 2003.47.
-- Amended by: L.N. 72 of 2010; L.N. 422 of 2012; L.N. 252 of 2019; L.N. 224 of 2020; L.N. 347 of 2024.

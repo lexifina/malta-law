@@ -19,6 +19,3 @@ Provision of meteorological services;
 Book binding;
 Sale of bread;
 Sale of impounded motor vehicles; The provision of accommodation facilities to visiting youths, student groups and individuals; Sale of drugs and vaccines; Sale and cleaning of grave sites; Laboratory analysis; Testing for standards and issuing of certificates for exported goods; Giving technical advice in connection with technical problems to private industries; Printing services to government departments and parastatal entities; Sale of other publications; Quarantine services; Sale of milk powder, eggs and dairy produce; Sale of vegetables; Sale of livestock; Sale of decorative trees, fruit trees, vine rootings, fruit plants, shrubs and flowers; Sale of wheat, straw and manure; Sale of fish and fishing equipment; Bowser water services; Services of grafting, pruning and spraying; Rent and provision of cold storage facilities and sale of ice; Services of civil abattoir; Provision of telephonic communications; Acting as contractor for cleaning services; Sale of compost; Repairs to damage; Carpentry works; Hiring of plant and vehicles; Supply of metal trades goods; Repairs to plant and vehicles; Sale of prints; Sale of food prepared by students as part of their daily training.
-- Amended by: L.N. 198 of 1999; L.N. 387 of 2002.
-- Substituted by: X. 2003.47.
-- Amended by: L.N. 489 of 2004.

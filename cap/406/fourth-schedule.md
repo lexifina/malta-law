@@ -45,6 +45,3 @@ Date of the chargeable event and when tax becomes chargeable in the case of impo
 (f) external transit procedures;
 (g) internal transit procedures.
 .
-- Amended by: L.N. 17 of 1999; L.N. 28 of 1999; L.N. 89 of 1999; L.N. 116 of 1999; L.N. 142 of 1999; L.N. 199 of 1999; L.N. 11 of 2000; L.N. 274 of 2000; L.N. 23 of 2001; L.N. 171 of 2001; L.N. 233 of 2001; L.N. 180 of 2002; L.N. 205 of 2002; L.N. 39 of 2003.
-- Substituted by: X. 2003.47.
-- Amended by: L.N. 71 of 2010; L.N. 419 of 2012; L.N. 140 of 2013; L.N. 221 of 2020.

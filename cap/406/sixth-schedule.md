@@ -106,6 +106,3 @@ Exceeding the Domestic threshold
 2. Notwithstanding the provisions of article 11B(3), where the Domestic annual turnover of a person registered under the said article during a calendar year exceeds the Domestic threshold, the exemption provided for in item 16(3) of Part Two of the Fifth Schedule shall cease to apply as from the date the Domestic threshold is exceeded.
 Exceeding the Union Threshold
 3. Notwithstanding the provisions of article 11B(3), where the Union annual turnover of a person registered under the said article during a calendar year exceeds the Union threshold, the exemption provided for in item 16(3) of Part Two of the Fifth Schedule shall cease to apply as from the date the Union threshold is exceeded.
-- Amended by: L.N. 29 of 1999.
-- Substituted by: X. 2003.47.
-- Amended by: L.N. 122 of 2007; L.N. 426 of 2007; L.N. 105 of 2008; L.N. 137 of 2009; L.N. 163 of 2018; L.N. 223 of 2020; L.N. 463 of 2020; L.N. 346 of 2024; IX.2025.74.

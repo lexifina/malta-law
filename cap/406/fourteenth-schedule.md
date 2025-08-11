@@ -1,5 +1,4 @@
 ## FOURTEENTH SCHEDULE
-## *
 # fourteenth-schedule
 [Article 57]
 Special cases
@@ -501,7 +500,5 @@ Multi-purpose voucher
 (2) Where a transfer of a multi-purpose voucher is made by a taxable person other than the taxable person carrying out the transaction subject to VAT pursuant to paragraph (1) of this item, any supply of services that can be identified, such as distribution or promotion services, shall be subject to VAT.
 Taxable value
 4. Without prejudice to item 1 of the Seventh Schedule to the Value Added Tax Act, the taxable amount of the supply of goods or services provided in respect of a multi-purpose voucher shall be equal to the consideration paid for the voucher or, in the absence of information on that consideration, the monetary value indicated on the multi-purpose voucher itself or in the related documentation, less the amount of VAT relating to the goods or services supplied.
-- Amended by: L.N. 21 of 1999; L.N. 201 of 1999; L.N. 94 of 2001.
-- Substituted by: X. 2003.47.
-- Amended by: L.N. 426 of 2007; L.N. 132 of 2009; L.N. 73 of 2010; L.N. 424 of 2012; L.N. 425 of 2012; L.N. 142 of 2013; L.N. 348 of 2017; L.N. 299 of 2018; L.N. 350 of 2024.
 - Substituted by: L.N. 226 of 2020.
+- Added by: L.N. 348 of 2017.

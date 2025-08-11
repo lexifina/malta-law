@@ -158,7 +158,3 @@ Part Four
 Place of Importations
 Importations
 1. An importation of goods takes place where the goods are at the time when the chargeable event takes place.
-- Substituted by: X. 2003.47.
-- Amended by: L.N. 124 of 2007; L.N. 444 of 2007.
-- Substituted by: L.N. 133 of 2009.
-- Amended by: L.N. 533 of 2010; L.N. 297 of 2018; L.N. 250 of 2019; L.N. 220 of 2020; L.N. 344 of 2024; IX.2025.73.

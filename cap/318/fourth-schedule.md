@@ -5,7 +5,7 @@ INDUSTRIAL DISEASES OR INJURIES
 Description of disease or injury Nature of Occupation
 Poisoning by: Any occupation involving:
 1. Lead or a compound of lead The use or handling of, or exposure to the
-fumes, dust or vapour of, lead or a compound of lead, or a substance containing lead.
+fumes, dust or vapour of, lead or a compound of lead, or a substa nc e containing lead.
 2. Manganese or a compound of The use or handling of, exposure to the manganese fumes, dust or vapour of, manganese or a
 compound of manganese, or a substance containing manganese.
 3. Phosphorus or phosphine or The use or handling of, or exposure to the poisoning due to the anti- fumes, dust or vapour of, phosphorus, or a cholinesterase action of organic compound of phosphorus, or a substance phosphorus compounds containing phosphorus.
@@ -122,7 +122,7 @@ exchange (Farmer's lung)
 39. Byssinosis Work in any room where any process up
 to and including the carding process is performed in factories in which the spinning or manipulation of raw or waste cotton or flax is carried on.
 40. Fibrosis of the lungs due to silica Exposure to fibrogenic dust. dust, asbestos dust or other fibrogenic dust, including the condition of the lungs known as dust reticulation (Pneumoconiosis); and silicotuberculosis provided that silicosis is an essential factor in causing the resultant incapacity or death
-41. Telegraphist's cramp The use of Morse key telegra phic
+41. Telegraphist's cramp The use of Morse key telegraphic
 instruments for prolonged periods.
 42. Writer's cramp Handwriting for prolonged periods.
 43. Twister's cramp The twisting of cotton or woollen
@@ -133,7 +133,7 @@ or sources of typhoid infection by reason of employment -
 research in connection with typhoid;
 (b) as a laboratory worker where the
 occupation involves working with material which is a typhoid infection.
-45. Brachial Neuralgia Pro long ed ope rati on o f ind ustria l
+45. Brachial Neuralgia Prolon ged op eration of in dustrial
 machinery involving the lifting, pushing and retracting of heavy, thick or bulky clothing material.
 46. Siderosis Condition caused by inhalation of fumes
 or dust of metallic iron or iron oxide.
@@ -147,6 +147,5 @@ called bursitis. Occupational bursitis may be caused by trauma, chronic overuse,
 51. Bursitis of the shoulder There are several bursae in the shoulder
 region: the subacromial, the subdeltoid, the subcoracoid, and the subscapular, which, as their names imply, lay beneath the acromion, deltoid, coracoid and scapula, respectively. Although any of the above mentioned bursae can become irritated, inflamed and painful as a result of overuse of or trauma to the shoulder region, the subacromial bursa is by far the most frequently afflicted and often occupational in origin.
 52. Diseases due to overstraining of the Condition caused by inflammation of the peritendineum peritendineum (the fibrous layer around
-the tendon). This condition is common in the wrist but may involve other tendons. It is caused by prolonged periods of highly repetitive wrist/hand movements such as meat cutting, fish filleting, machine feeding, manual assembly, use of hand-held tools. The use of force and awkward position of the hand are aggravating factors. 53. Miner's nystagmus Historical occupational disease associated
+the tendon). This condition is common in the wrist but may involve other tendons. It is caused by prolonged periods of highly repetitive wrist/hand movements such as meat cutting, fish filleting, machine feeding, manual assembly, use of hand-held tools. The use of force and aw kward position of the ha nd are aggravating factors. 53. Miner's nystagmus Historical occupational disease associated
 with poor lighting in underground work, which involves problems in focusing. Pendular or rotating nystagmus may be accompanied by dizziness and headaches. This condition occurs after years of working in a poorly lit environment.
-- Substituted by: L.N. 342 of 2012.

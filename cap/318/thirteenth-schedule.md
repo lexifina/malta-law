@@ -39,4 +39,3 @@ of living increase, in respect of the years 2007 to 2010 as from the effective d
 each year, between 2011 and 2013 by one third of the difference between the sum referred to in paragraph (i) and €20,964.36;
 (iii) with effect from the 1st January 2014, €20,964.36 increased annually by such
 sum as corresponds to seventy percent of the percentage increase in the national average wage for the previous calendar year as published by the National Statistics Office established by virtue of article 9 of the Malta Statistics Authority Act, plus thirty percent of the inflation rate as published by the said National Statistics Office for the previous calendar year.
-- Amended by: XX. 1987.18; XXVII. 1995.20; XXI. 1996.67; XIX. 2006.16; L.N. 424 of 2007; VII. 2018.46; VIII.2020.37; XIII.2024.27; IX.2025.34.
