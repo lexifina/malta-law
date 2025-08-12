@@ -2,7 +2,8 @@
 ## Total Number
 ## Number of penalties imposed, according to penalty type
 ## E S T IM AT E D TOTAL Q UAN TI T Y O F DANGEROUS GOODS TRANSPORTED BY ROAD:
-## category (as indicated under item 32 in the First Schedule) shall be applied.
+## (1) For the purposes of this Part the country of registration is that of the motor vehicle.
+## (2) In the event that there are several infringements per transport unit, only the most serious risk category (as indicated under item 32 in the First Schedule) shall be applied.
 # second-schedule
 (Regulation 13)
 PART I
