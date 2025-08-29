@@ -3,4 +3,4 @@ SUBSIDIARY LEGISLATION 10.09
 SHOPS FOR THE SALE OF WINE, BEER OR SPIRITUOUS LIQUORS (LICENCES, GOOD ORDER
 AND PUBLIC DECORUM) REGULATIONS
 18th October, 1929
-GOVERNMENT NOTICE 392 of 1929, as amended by Government Notices: 418 of 1932, 9 and 175 of 1934, 336 of 1935, 191 of 1939, 127 of 1944, 123 of 1946, 62 and 90 of 1948, and 608, 722 and 828 of 1949; Legal Notices 64 of 1964 and 92 of 1969; Act XIV of 1969; and Legal Notices 147 of 1993, 31 of 2002, 273 of 2009, 86 of 2011 and 31 of 2013; and as adapted by Acts XXVII of 1970 and XXXIII of 1974.
+GOVERNMENT NOTICE 392 of 1929, as amended by Government Notices: 418 of 1932, 9 and 175 of 1934, 336 of 1935, 191 of 1939, 127 of 1944, 123 of 1946, 62 and 90 of 1948, and 608, 722 and 828 of 1949; Legal Notices 64 of 1964 and 92 of 1969; Act XIV of 1969; and Legal Notices 147 of 1993, 31 of 2002, 273 of 2009, 86 of 2011, 31 of 2013 and 185 of 2025; and as adapted by Acts XXVII of 1970 and XXXIII of 1974.
