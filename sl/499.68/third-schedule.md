@@ -1,9 +1,12 @@
 ## THIRD SCHEDULE
 # third-schedule
+[S.L. 499.68 48 VEHICLE HIRE SERVICES
 (Regulation 40(1)(a))
 PART 1:
-List of subjects to be covered in the training course to obtain a driver's permit referred to in regulation 40(1)(a):
-1. Knowledge of vehicle characteristics and safety features including, inter alia: [S.L. 499.68 48 VEHICLE HIRE SERVICES
+List of subjects to be covered in the training course to obtain a
+driver's permit referred to in regulation 40(1)(a):
+1. Knowledge of vehicle characteristics and safety features
+including, inter alia:
 a. Knowledge of the characteristics of the
 transmission (gear) systems enabling a driver to make the best possible use of them;
 b. Knowledge of the technical characteristics and
@@ -30,14 +33,14 @@ including:
 i. Refusal by the passenger to pay the fare or
 tariff
 ii. Passengers requesting information on
+[S.L. 499.68 VEHICLE HIRE SERVICES 49
 illegal activities.
 iii. Passengers requesting over-speeding.
 iv. Passengers requesting overloading of
 passengers
 e. Correct use of speed;
-f. Physical fitness to drive a light passenger transport
-[S.L. 499.68 VEHICLE HIRE SERVICES 49
-vehicle; and
+f. Physical fitness to drive a light passenger
+transport vehicle; and
 g. Awareness of the risks on the road and accidents
 at work.
 3. Routes and destinations
@@ -58,7 +61,7 @@ within the use of e-mails, internet, navigation systems, digital applications an
 a. Maintaining wheel belts or wheel clamps in good
 working order; and
 b. Ability to safely install the wheelchair in the
-vehicle, backing the chair to the "fold down" seats, then securing both wheelchair brakes, secure seat belts/safety harness and also secure wheel belts/clamps if fitted to vehicle, ensure that the wheelchair and the person making use thereof are secure.
+vehicle, backing the chair to the "fold down" seats, then securing both wheelchair brakes, secure seat belts/safety harness and also secure wheel belts/clamps if fitted to vehicle, ensure that the wheelchair and the person making use thereof are secure. [S.L. 499.68 50 VEHICLE HIRE SERVICES
 PART 2:
 Organisation of the Examination
-The Authority or a body approved by the Authority shall organise a compulsory examination which may be written or oral to establish whether the applicant has achieved the required level of knowledge in the subjects listed in Part I. [S.L. 499.68 50 VEHICLE HIRE SERVICES
+The Authority or a body approved by the Authority shall organise a compulsory examination which may be written or oral to establish whether the applicant has achieved the required level of knowledge in the subjects listed in Part I.

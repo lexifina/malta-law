@@ -33,12 +33,12 @@ regulation 20 50
 regulation 21 250
 regulation 22 200
 regulation 23 50
+[S.L. 499.68 VEHICLE HIRE SERVICES 51
 regulation 24 50
 regulation 25 50
 regulation 26 50
 regulation 27 100
 regulation 28 250
-[S.L. 499.68 VEHICLE HIRE SERVICES 51
 regulation 29 100 100
 regulation 30 100
 regulation 32 100

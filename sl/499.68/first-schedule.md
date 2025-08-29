@@ -15,13 +15,11 @@ Application for granting and renewal of driver's tag
 (under Part IV) €12
 Replacement of lost driver's tag (under Part IV)
 €12
-Application fee for Vehicle Hire Services Operator
-Licence (under Part V) €200
-Renewal fee for Vehicle Hire Services Operator Licence
-(under Part V) €200
+[S.L. 499.68 VEHICLE HIRE SERVICES 47
+Application fee for Vehicle Hire Services Operator Licence (under Part V) €200
+Renewal fee for Vehicle Hire Services Operator Licence (under Part V) €200
 Transfer of Operator Licence (under Part V)
 €50
-[S.L. 499.68 VEHICLE HIRE SERVICES 47
 Changes in Operator Licence (under Part V)
 €25
 Reissuing lost licence
