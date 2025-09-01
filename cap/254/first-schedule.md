@@ -1,12 +1,13 @@
-## SCHEDULE
-# schedule
+## FIRST SCHEDULE
+# first-schedule
 (Article 23)
 Accounting procedures
 1. Subject to article 23 of this Act and in accordance with any directives as the Authority may issue, the universal service provider or providers shall keep separate accounts within their accounting system, for each of the services and products which are part of the universal service on the one hand and those which are not on the other. Such internal accounting system shall operate on the basis of consistently applied and objectively justifiable cost accounting principles.
 2. The accounting system referred to in paragraph 1 shall, without prejudice to paragraph 3, allocate costs in the following manner:
 (a) costs which can be directly assigned to a particular service shall be so assigned;
 (b) common costs, that is costs that cannot be directly assigned to a particular service, shall be allocated as follows:
-(i) whenever possible, common costs shall be allocated on the basis of direct analysis of the origin of the costs themselves;
+(i) whenever possible, common costs shall be allocated on the basis
+of direct analysis of the origin of the costs themselves;
 (ii) when direct analysis is not possible, common cost categories shall be allocated on the basis of an indirect linkage to another cost category or group of cost categories for which a direct assignment or allocation is possible; the indirect linkage shall be based on comparable cost structures;
 (iii) when neither direct nor indirect measures of cost allocation can be found, the cost category shall be allocated on the basis of a general allocator computed by using the ratio of all expenses directly or indirectly assigned or allocated, on the one hand, to each of the universal services and on the other hand, to the other services;
 (iv) common costs, which are necessary for the provision of both universal services and non-universal services, shall be allocated appropriately; the same cost drivers must be applied to both
