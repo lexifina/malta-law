@@ -3,6 +3,6 @@ DEPOSITOR COMPENSATION SCHEME
 REGULATIONS
 4th December, 2015;
 31st May, 2016*
-LEGAL NOTICE 383 of 2015, as amended by Legal Notices 132 of 2017 43 of 2019 and 193 and 262 of 2022 and 279 of 2023.
+LEGAL NOTICE 383 of 2015, as amended by Legal Notices 132 of 2017 43 of 2019 and 193 and 262 of 2022, 279 of 2023 and 187 of 2025.
 PART I
 Preliminary
