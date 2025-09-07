@@ -15,7 +15,8 @@ materials is not authorized unless appropriate equipment or means are provided t
 2.1. The installations must be designed, constructed and used
 so as not to present a fire or explosion hazard; persons must be adequately protected against the risk of electrocution caused by direct or indirect contact.
 2.2. The design, construction and choice of equipment and
-protection devices must take account of the type and power of the energy distributed, external conditions and the competence of persons with access to parts of the installation. [S.L. 646.25 12 REQUIREMENTS FOR WORK AT CONSTRUCTION SITES)
+protection devices must take account of the type and power of the energy distributed, external conditions and [S.L. 646.25 12 REQUIREMENTS FOR WORK AT CONSTRUCTION SITES)
+the competence of persons with access to parts of the installation.
 3. Emergency routes and exits
 3.1. Emergency routes and exits must remain clear and lead as
 directly as possible to a safe area.
@@ -38,9 +39,9 @@ dimensions and use of the rooms, the on-site equipment, the physical and chemica
 4.2. These fire-fighting devices, fire detectors and alarm
 systems must be regularly checked and maintained. Appropriate tests and drills must take place at regular intervals.
 4.3. Non-automatic fire-fighting equipment be easily
-accessible and simple to use. The equipment must be indicated by signs in accordance with the regulations contained in the Work Place, (Provisions of Health and, or
-Safety Signs) Regulations, (S.L. 424.16.).
+accessible and simple to use. The equipment must be
 [S.L. 646.25 REQUIREMENTS FOR WORK AT CONSTRUCTION SITES) 13
+indicated by signs in accordance with the regulations contained in the Work Place, (Provisions of Health and, or Safety Signs) Regulations, (S.L. 424.16.).
 Such signs must be sufficiently resistant and placed at appropriate points.
 5. Ventilation
 5.1 Steps shall be taken to ensure that there is sufficient
@@ -60,7 +61,8 @@ high-risk confined atmosphere. He must at least be watched at all times from out
 During working hours, the temperature must be appropriate for human beings, having regard to the working methods used and the physical demands placed on the workers.
 8. Natural and artificial lighting of workstations, rooms and traffic routes on the site
 8.1. Workstations, rooms and traffic routes must as far as
-possible have sufficient natural lighting and be provided with appropriate and sufficient artificial lighting at night and when natural daylight is inadequate; where necessary, portable light sources that are protected against impact must be used. [S.L. 646.25 14 REQUIREMENTS FOR WORK AT CONSTRUCTION SITES)
+possible have sufficient natural lighting and be provided [S.L. 646.25 14 REQUIREMENTS FOR WORK AT CONSTRUCTION SITES)
+with appropriate and sufficient artificial lighting at night and when natural daylight is inadequate; where necessary, portable light sources that are protected against impact must be used.
 The colour of artificial light used must not alter or affect the perception of signals or signposts displaying such signs.
 8.2. Lighting installations for rooms, workstations and traffic
 routes must be placed in such a way that there is no risk of accident to workers as a result of the type of lighting fitted.
@@ -82,10 +84,9 @@ of accident to workers. They must be fitted with emergency stop devices which ar
 egress
 10.1. Traffic routes, including stairs, fixed ladders and loading
 bays and ramps, must be calculated, located, laid out and made negotiable to ensure easy, safe and appropriate access in such a way as not to endanger workers employed in the vicinity of these traffic routes.
-10.2. Routes used for pedestrian traffic and, or goods traffic
-including those used for loading and unloading must be dimensioned in accordance with the number of potential
-users and the type of activity concerned.
 [S.L. 646.25 REQUIREMENTS FOR WORK AT CONSTRUCTION SITES) 15
+10.2. Routes used for pedestrian traffic and, or goods traffic
+including those used for loading and unloading must be dimensioned in accordance with the number of potential users and the type of activity concerned.
 If means of transport are used on traffic routes, a sufficient safety clearance or adequate protective devices must be provided for other site users.
 Routes must be clearly marked, regularly checked and properly maintained.
 10.3. Sufficient clearance must be allowed between vehicle
@@ -106,8 +107,10 @@ workers from falling off.
 The floor area at the workstation must be such as to allow workers sufficient freedom of movement to perform their work, taking account of any necessary equipment or appliances present.
 13. First aid
 13.1. The contractor must ensure that first aid can be provided,
-and that the staff trained to provide it can be called upon, at any time.
-Measures must be taken to ensure that workers who have had an accident or have suddenly been taken ill can be removed for medical treatment. [S.L. 646.25 16 REQUIREMENTS FOR WORK AT CONSTRUCTION SITES)
+and that the staff trained to provide it can be called upon, [S.L. 646.25 16 REQUIREMENTS FOR WORK AT CONSTRUCTION SITES)
+at any time.
+Measures must be taken to ensure that workers who have had an accident or have suddenly been taken ill can be
+removed for medical treatment.
 13.2. One or more first-aid rooms must be provided where the
 scale of the works or the types of activity being carried out so require.
 13.3. First-aid rooms must be fitted with essential first-aid
@@ -130,11 +133,10 @@ If circumstances so require (e.g. dangerous substances, humidity, dirt), facilit
 workers' own clothes and personal effects.
 14.1.3. Provisions must be made for separate changing rooms
 or separate use of changing rooms for men and women.
-14.1.4. If changing rooms are not required as referred to in
-point 14.1.1, first paragraph, each worker must be provided with a place in which he can lock away his own
-clothes and personal effects.
-14.2. Showers and washbasins
 [S.L. 646.25 REQUIREMENTS FOR WORK AT CONSTRUCTION SITES) 17
+14.1.4. If changing rooms are not required as referred to in
+point 14.1.1, first paragraph, each worker must be provided with a place in which he can lock away his own clothes and personal effects.
+14.2. Showers and washbasins
 14.2.1. Suitable showers in sufficient numbers must be
 provided for workers if required by the nature of the work or for health reasons.
 Provisions must be made for separate shower rooms or separate use of shower rooms for men and women.
@@ -151,9 +153,10 @@ Special facilities with an adequate number of lavatories and washbasins must be 
 Provisions must be made for separate lavatories or separate use of lavatories for men and women.
 15. Rest rooms and, or accommodation areas
 15.1. Where the safety or health of workers, in particular
-because of the type of activity carried out or the presence of more than a certain number of employees as well as the remote nature of the site, so require, workers must be provided with easily accessible rest rooms and, or accommodation areas.
+because of the type of activity carried out or the presence of more than a certain number of employees as well as the remote nature of the site, so require, workers must be [S.L. 646.25 18 REQUIREMENTS FOR WORK AT CONSTRUCTION SITES)
+provided with easily accessible rest rooms and, or accommodation areas.
 15.2. Rest rooms and, or accommodation areas must be large
-enough and equipped with an adequate number of tables and seats with supporting backs for the number of workers concerned. [S.L. 646.25 18 REQUIREMENTS FOR WORK AT CONSTRUCTION SITES)
+enough and equipped with an adequate number of tables and seats with supporting backs for the number of workers concerned.
 15.3. If there are no facilities of this kind, other facilities must
 be provided in which workers can stay during interruptions in work.
 15.4. Fixed accommodation areas unless used only in
@@ -174,13 +177,13 @@ The provision applies in particular to the doors, passageways, staircases, showe
 signposted and laid out so as to be clearly visible and identifiable.
 18.2. Workers must be provided at the site with a sufficient
 quantity of drinking water and possibly another suitable non-alcoholic beverage both in occupied rooms and in the vicinity of workstations.
+[S.L. 646.25 REQUIREMENTS FOR WORK AT CONSTRUCTION SITES) 19
 18.3. Workers must:
-- be provided with facilities enabling them to take
-their meals in satisfactory conditions,
+- be provided with facilities enabling them to
+take their meals in satisfactory conditions,
 - where appropriate, be provided with facilities
 enabling them to prepare their meals in
 satisfactory conditions.
-[S.L. 646.25 REQUIREMENTS FOR WORK AT CONSTRUCTION SITES) 19
 PART B: SPECIFIC MINIMUM REQUIREMENT FOR
 ON-SITE WORKSTATIONS
 Preliminary remark
@@ -197,10 +200,11 @@ If air-conditioning or mechanical ventilation installations are used, they must 
 4. Temperature
 4.1. The temperature in rest areas, rooms for duty staff,
 sanitary facilities, canteens and first-aid rooms must be appropriate to the particular purpose of such areas.
-4.2. Windows, skylights and glass partitions should allow
+4.2. Windows, skylights and glass partitions should allow [S.L. 646.25 20 REQUIREMENTS FOR WORK AT CONSTRUCTION SITES)
 excessive effects of sunlight to be avoided, having regard to the nature of the work and the use of the room.
 5. Natural and artificial lighting
-Workplaces must as far as possible have sufficient natural light and be equipped with the means of providing artificial lighting which is adequate for the purposes of protecting workers' health and safety. [S.L. 646.25 20 REQUIREMENTS FOR WORK AT CONSTRUCTION SITES)
+Workplaces must as far as possible have sufficient natural light and be equipped with the means of providing artificial lighting which is adequate for the purposes of
+protecting workers' health and safety.
 6. Floors, walls, ceilings and roofs of rooms
 6.1. The floors of workplaces must have no dangerous bumps,
 holes or slopes and must be fixed, stable and not slippery.
@@ -224,12 +228,11 @@ and the materials used in their construction, are determined by the nature and u
 conspicuous level.
 8.3. Swing doors and gates must be transparent or have see-
 through panels.
+[S.L. 646.25 REQUIREMENTS FOR WORK AT CONSTRUCTION SITES) 21
 8.4. If transparent or translucent surfaces in doors and gates
 are not made of safety material and if there is a danger that workers may be injured if a door or gate should shatter, the surfaces must be protected against breakage.
 9. Traffic routes
-Where the use and equipment of rooms so requires for the protection of workers, traffic routes must be clearly
-[S.L. 646.25 REQUIREMENTS FOR WORK AT CONSTRUCTION SITES) 21
-identified.
+Where the use and equipment of rooms so requires for the protection of workers, traffic routes must be clearly identified.
 10. Specific measures for escalators and travelators
 Escalators and travelators must function safely. They must be equipped with any necessary safety devices. They must be fitted with easily identifiable and accessible emergency shut-down devices.
 11. Room dimensions and air space in rooms
@@ -250,12 +253,13 @@ appropriate and safe methods of fixing to avoid
 any untimely or spontaneous movement of the
 whole or of parts of the workstations.
 1.2. Checking
-Stability and solidity must be checked appropriately and especially after any change in the height or depth of the workstation.
+Stability and solidity must be checked appropriately and especially after any change in the height or depth of the workstation. [S.L. 646.25 22 REQUIREMENTS FOR WORK AT CONSTRUCTION SITES)
 2. Energy distribution installations
 2.1. On-site energy distribution installations, especially those
-subject to outside influences, must be regularly checked and maintained in good condition.
+subject to outside influences, must be regularly checked
+and maintained in good condition.
 2.2. Installations existing before the site began must be
-identified, checked and clearly signposted. [S.L. 646.25 22 REQUIREMENTS FOR WORK AT CONSTRUCTION SITES)
+identified, checked and clearly signposted.
 2.3. Whenever possible, where overhead electric power lines
 exist, either they must be redirected away from the area of
 the site or else the current must be cut off.
@@ -274,9 +278,9 @@ on the basis of the requirements of article 6(2) of the Act and article 10 of th
 or self-employed person, must take suitable and sufficient measures to prevent any person falling a distance liable to cause personal injury.
 5.3. In principle, work at a height must be carried out only
 with appropriate equipment or using collective protection devices such as cradles, platforms or safety nets.
+[S.L. 646.25 REQUIREMENTS FOR WORK AT CONSTRUCTION SITES) 23
 Where cradles are used, these must be solid, sufficiently high and have at least an end-board, a main handrail and an intermediate handrail or an equivalent alternative.
 If the use of such equipment is not possible because of the nature of the work, suitable means of access must be provided and safety harnesses or other anchoring safety methods must be used.
-[S.L. 646.25 REQUIREMENTS FOR WORK AT CONSTRUCTION SITES) 23
 5.4 Protection railings, barriers or other form of protection
 must be fitted around stairwells, stairs, shafts, balconies, edges, openings an in all other areas where any person may fall a distance liable to cause personal injury, or to fall into any liquid or material so as to involve risk of drowning or serious injury.
 5.5 Protection railings, barriers or other form of protection
@@ -293,12 +297,12 @@ for use by a competent person:
 (c) after any modification period without use,
 exposure to bad weather or seismic tremors, or
 any other circumstance which may have
-affected its strength or stability.
+affected its strength or stability. [S.L. 646.25 24 REQUIREMENTS FOR WORK AT CONSTRUCTION SITES)
 6.4. Ladders must be sufficiently strong and correctly
 maintained. They must be correctly used, in appropriate places and in accordance with their intended purpose.
 6.5. Mobile scaffolding must be secured against spontaneous
 movements.
-7. Lifting equipment [S.L. 646.25 24 REQUIREMENTS FOR WORK AT CONSTRUCTION SITES)
+7. Lifting equipment
 7.1. All lifting devices and accessories, including their
 component parts, attachments, anchorings and supports, must be:
 (a) properly designed and constructed and sufficiently strong for the use to which they are put;
@@ -320,12 +324,11 @@ ergonomics;
 (c) used correctly.
 8.2. Drivers and operators of excavating and materials-
 handling vehicles and machinery must be specially trained.
+[S.L. 646.25 REQUIREMENTS FOR WORK AT CONSTRUCTION SITES) 25
 8.3. Preventive measures must be taken to ensure that
 excavating and materials-handling vehicles and machinery do not fall into the excavations or into water.
 8.4. Where appropriate, excavating machinery and materials-
-handling machinery must be fitted with structures to protect the driver against being crushed if the machine
-overturns, and against falling objects.
-[S.L. 646.25 REQUIREMENTS FOR WORK AT CONSTRUCTION SITES) 25
+handling machinery must be fitted with structures to protect the driver against being crushed if the machine overturns, and against falling objects.
 9. Installations, machinery, equipment
 9.1. Installations, machinery and equipment, including hand
 tools whether power-driven or not, must be:
@@ -353,11 +356,11 @@ to health;
 (d) to enable workers to reach safety in the event
 of fire or inrush for water or materials.
 10.2. Before excavation starts, measures must be taken to
-identify and reduce to a minimum any hazard due to underground cables and other distribution systems.
+identify and reduce to a minimum any hazard due to underground cables and other distribution systems. [S.L. 646.25 26 REQUIREMENTS FOR WORK AT CONSTRUCTION SITES)
 10.3. Safe routes into and out of the excavation must be
 provided.
-10.4. Piles of earth, materials and moving vehicles must be
-kept away from the excavation; appropriate barriers must be built if necessary. [S.L. 646.25 26 REQUIREMENTS FOR WORK AT CONSTRUCTION SITES)
+10.4. Piles of earth, materials and moving vehicles must be kept
+away from the excavation; appropriate barriers must be built if necessary.
 11. Demolition work
 Where the demolition of a building or construction may present a danger:
 (a) appropriate precautions, methods and procedures must be adopted;
@@ -377,12 +380,11 @@ devised and designed, installed and maintained so as to safely withstand any str
 water and materials.
 13.2. The construction, installation, transformation or
 dismantling of a cofferdam or caisson must take place only under the supervision of a competent person.
+[S.L. 646.25 REQUIREMENTS FOR WORK AT CONSTRUCTION SITES) 27
 13.3. All cofferdams and caissons must be inspected by a
 competent person at regular intervals.
 14. Work on roofs
 14.1. Where necessary to avert a risk or where the height or the
-slope exceed set values, collective preventive measures must be taken to prevent workers, and tools or other
-[S.L. 646.25 REQUIREMENTS FOR WORK AT CONSTRUCTION SITES) 27
-objects or materials, from falling.
+slope exceed set values, collective preventive measures must be taken to prevent workers, and tools or other objects or materials, from falling.
 14.2. Where workers have to work on or near a roof or any
 other surface made of fragile materials through which it is possible to fall, preventive measures must be taken to ensure that they do not inadvertently walk on the surface made of fragile materials, or fall to the ground.
