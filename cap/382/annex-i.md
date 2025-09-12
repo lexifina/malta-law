@@ -1,135 +1,150 @@
 ## ANNEX I
-## G
-## n1
-## a n..2
-## b an3
-## c n1
-## an21
-## DateTime
+## A B G
+## a n1
+## b n1
+## 1
 ## n..2
-## an13
-## an..182
-## an..65
-## an..11
-## an..10
-## an..50
-## a2
-## a an8
-## 5
-## a an..16
+## an3
+## n1
+## d an21
+## e DateTime
+## f n..2
+## g DateTime
+## 2
+## a an13
 ## b an..182
 ## c an..65
 ## d an..11
 ## e an..10
 ## f an..50
 ## g a2
-## h an..17
-## 6
-## a a2
-## an..255
-## -
-## an..16
+## 3
+## 4
 ## an8
-## a an..22
-## b an..35
-## c Date
-## d n1
-## e Date
-## f Time
-## g an21
-## 9.1 9X
-## an..21
-## n..4
-## 2X
+## an..16
+## an..182
+## an..65
+## an..11
+## an..10
+## an..50
+## a2
+## an..17
+## b an..255
+## 7 -
+## a an..16
+## 8
+## a an8
+## 9
+## an..22
+## an..35
+## Date
+## Time
+## an21
+## 9X
+## a an..21
+## 10
+## 11
+## a n..4
+## 12 2X
+## b an..14
+## c an..182
+## d an..65
+## e an..11
+## f an..10
+## g an..50
+## h a2
+## 13
+## a n..2
+## b an..350
 ## an..14
+## 99X
 ## an..350
-## c a2
-## 14
-## a an..14
-## 15
-## 16 99X
+## f an..350
+## 17 999x
+## a n..3
+## b an4
+## c n8
+## d n..15,3
+## e n..16,6
+## n..16,6
+## n..5,2
+## l an..350
+## m a2
+## n..15
+## u a2
+## 17.1 99x
+## a an2
+## b n..15
 ## c an..35
 ## d an..350
 ## e a2
-## 999x
-## n..3
-## an4
-## n8
-## n..15,3
-## n..16,6
-## f n..16,6
-## g n..5,2
-## h n..5,2
-## i an..350
-## j a2
-## k n1
-## n n..15
-## o n..5,2
-## p an..350
-## q a2
-## r an..350
-## s a2
-## t an..350
+## f an..999
+## 17.2
+## b n..2
+## c a2
 ## 99x
-## an2
-## n..15
-## an..35
-## an..999
-## 17.2.1 99x
-## 18 9x
-## a an..350
-## b a2
-## c an..350
-## d a2
-## e an..4
-## f an..35
-## A B C
-## 1 ATTRIBUTE
-## a Date and Time of Validation of Change of Destination
-## 2 e-AD/e-SAD Update
-## a Sequence Number
-## b ARC
-## c Journey time
-## date
-## g Transport Mode Code
-## h Complementary Information C "R" if Transport Mode Code
-## i Complementary Information_LNG
-## 3 CHANGED Destination
+## 9x
+## an..4
+## G
+## DateTime
+## d Changed Transport
+## Arrangement
+## e Invoice Number
+## F Invoice Date
+## a Destination Type Code
+## 4 TRADER New Consignee
+## 5 TRADER Place of Delivery C -"R" for Destination Type
 ## a Trader Identification
 ## b Trader Name
 ## c Street Name
 ## d Street Number
 ## e Postcode
 ## f City
-## g NAD_LNG
-## h EORI Number
-## 6 OFFICE Place of Delivery - Customs
-## a Office Reference Number
-## 7 MOVEMENT GUARANTEE
-## h NAD_LNG
-## 8 TRADER New Transport Organiser
-## a VAT Number
-## 9 TRADER New Transporter
-## 10 TRANSPORT DETAILS
+## a Guarantor Type Code
+## 7.1 TRADER Guarantorg
+## a Trader Excise Number
+## b VAT Number
+## c Trader Name
+## d Street Name
+## e Street Number
+## f Postcode
+## g City
+## a Transport Unit Code
+## b Identity of Transport Units
+## c Identity of Commercial Seal
+## d Seal Information
+## e Seal Information_LNG
+## f Complementary Information O
+## g Complementary Information_LNG
+## a ARC an21
+## a an21
+## a a2
+## 3 9x
+## a an..22
+## 3.2
+## 3.4
+## 3.5
+## a an..14
+## 3.8 999x
+## b an..4
+## n..15,3
+## i an..350
+## j a2
+## k n1
+## o n..5,2
+## p an..350
+## q a2
+## r an..350
+## s a2
+## 3.8.1 99x
+## an..999
 ## A B C G
-## 1 EXCISE NOTIFICATION
-## a Notification Type n1
-## b Notification Date and Time DateTime
-## c ARC an21
-## d Sequence Number n..2
-## 2 DOWNSTREAM ARC 9x
-## 9x
-## an..22
-## 3.1
-## 3.3
-## 3.6
-## 3.7 99X
-## an..4
-## d n..15,3
-## e n..16,6
-## n..5,2
-## b n..15
-## f an..999
+## 1 ATTRIBUTE
+## a Date and Time of Validation of DateTime Report of Receipt/Report of Export
+## 2 EXCISE GOODS MOVEMENT
+## b Sequence Number n..2
+## 3 TRADER Consignee
+## 4 TRADER Place of Delivery
 ## a Trader Identification an..16
 ## b Trader Name an..182
 ## c Street Name an..65
@@ -137,20 +152,13 @@
 ## e Postcode an..10
 ## f City an..50
 ## g NAD_LNG a2
-## h EORI Number an..17
-## a Office Reference Number an8
-## 6 REPORT of Receipt/Export
-## a Date of Arrival of the Excise Goods R Date
-## b Global Conclusion of Receipt n..2
-## c Complementary information an..350
-## d Complementary information_LNG a2
-## 999X
-## a1
-## e Refused Quantity n..15,3
-## 7.1 UNSATISFACTORY REASON 9X
-## a Unsatisfactory Reason n1
-## b Complementary Information an..350
-## c Complementary Information_LNG a2.
+## 5 OFFICE of Destination
+## 7 BODY REPORT of Receipt/ 999X Export
+## a Body Record Unique Reference n..3
+## b Indicator of Shortage or Excess a1
+## c Observed Shortage or Excess n..15,3
+## d Excise Product Code an4
+## a2.
 # annex-i
 Table 1
 (Regulation 4(3) and the proviso to regulation 12(1))
@@ -172,4 +180,3 @@ Splitting of consignment (not applicable to e-SAD)
 Table 6
 (Regulations 10(6) and 13(8))
 Report of receipt/Report of export
-- Substituted by: L.N. 50 of 2023.

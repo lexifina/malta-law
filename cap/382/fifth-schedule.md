@@ -74,6 +74,10 @@ Electronic cigarettes and refill containers
 Description of excisable goods Rate of Excise Duty
 Cartridges and refills, filled, for electronic €0.13 per mL cigarettes, preparations for use in cartridges and refills for electronic cigarettes containing nicotine classified under HS Codes 2404120010 and 2404120090
 Cartridges and refills, filled, for electronic €0.13 per mL cigarettes, preparations for use in cartridges and refills for electronic cigarettes not containing nicotine classified under HS Code 2404199000
+Schedule Five J
+Smokeless tobacco product
+Products intended for inhalation €140 per Kg without combustion containing tobacco or reconstituted tobacco classified under HS Codes 2404110010 and 2404110090.
+Products intended for inhalation €140 per Kg". without combustion containing tobacco substitutes classified under HS heading 2404191000.
 - Added by: II. 2005.40.
 - Amended by: XIII. 2015.139.
 - Added by: IV. 2011.71.
