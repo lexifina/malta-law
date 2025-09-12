@@ -21,9 +21,9 @@ The specialities in respect of which the Specialist Accreditation Committee for 
 14. Family Medicine
 15. Forensic Medicine
 16. Gastroenterology
-17. General/Internal Medicine 18. General Surgery
-19. Genito-Urinary Medicine
-20. Geriatrics
+17. General/Internal Medicine
+18. General Surgery
+19. Genito-Urinary Medicine 20. Geriatrics
 21. Haemotology
 22. Histopathology including Cytopathology
 23. Immunology
@@ -60,9 +60,10 @@ ix. Paediatric Respiratory Medicine
 45. Rehabilitation Medicine
 46. Respiratory Medicine
 47. Rheumatology
-48. Sports and Exercise Medicine 49. Urology
-50. Vascular Surgery
-51. Virology
+48. Sports and Exercise Medicine
+49. Urology
+50. Vascular Surgery 51. Virology
+52. Medical Oncology
 B. DENTAL SURGEONS
 The specialities in respect of which the Specialist Accreditation Committee for dental surgeons shall issue certificates of completion of specialist training shall be the following:
 1. Oral Surgery
@@ -97,4 +98,4 @@ Committee for midwives shall issue certificates of completion of specialist trai
 4. Primary and community care
 5. Public health
 6. Reproductive health
-- Amended by: III. 2004.32; L.N. 206 of 2011; L.N. 373 of 2011; L.N. 292 of 2015; L.N. 23 of 2018; L.N. 59 of 2018; L.N. 390 of 2018; L.N. 233 of 2022.
+- Amended by: III. 2004.32; L.N. 206 of 2011; L.N. 373 of 2011; L.N. 292 of 2015; L.N. 23 of 2018; L.N. 59 of 2018; L.N. 390 of 2018; L.N. 233 of 2022; L.N. 140 of 2025.
