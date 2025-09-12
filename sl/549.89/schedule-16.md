@@ -11,7 +11,7 @@ Part A: Environmental Information on the operations of the waste electrical and 
 - Quantities of WEEE collected and annual collection rate achieved by the producer responsibility organisation;
 - Quantities of WEEE treated and quantities of WEEE recovered, prepared for reuse and recycled;
 - The financial contributions paid by the members of the producer responsibility organisation per tonne of electrical and electronic equipment placed on the market;
-[S.L.549.89 38 (ELECTRICAL AND ELECTRONIC EQUIPMENT)
+[S.L.549.89 (ELECTRICAL AND ELECTRONIC EQUIPMENT) 39
 - The selection procedure for waste management operators;
 - List on information and awareness campaigns carried out by the producer responsibility organisation.
 Part B: Commercial and other information on the operations of the waste electrical and electronic equipment collective organisation
@@ -23,3 +23,4 @@ Part B: Commercial and other information on the operations of the waste electric
 - Proof of recovery, preparation for reuse or recycling as well as disposal;
 - Additional, detailed financial information other than the information provided under Part A;
 - Details on information and awareness campaigns carried out by the producer responsibility organisation.
+- Added by: L.N. 148 of 2021.

@@ -7,3 +7,4 @@ The statement of compliance shall contain the following information:
 - date of the certificate;
 - the producer in respect of whom the approved person is issuing the certificate; and
 - certification by the approved person as to whether the relevant producer has complied with his collection, recovery and recycling obligations.
+- Added by: L.N. 148 of 2021.
