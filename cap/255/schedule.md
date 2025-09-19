@@ -1,9 +1,10 @@
 ## SCHEDULE
+## *Article 14 of Act I of 1995:
+## the Agreement between the Holy See and Malta on the recognition of Civil effects to canonical marriages and to the decisions of the ecclesiastical authorities and Tribunals about the same marriages.
 ## *Article 14 of Act I of 1995: 14. For the purposes of the Ratification of Treaties Act, the Government is hereby authorised to ratify the Agreement between the Holy See and Malta on the recognition of Civil effects to canonical marriages and to the decisions of the ecclesiastical authorities and Tribunals about the same marriages.
 # schedule
 (ARTICLE 2)
-AGREEMENT BETWEEN THE HOLY SEE AND MALTA ON THE
-RECOGNITION OF CIVIL EFFECTS TO CANONICAL MARRIAGES AND TO DECISIONS OF ECCLESIASTICAL AUTHORITIES AND TRIBUNALS ABOUT
+AGREEMENT BETWEEN THE HOLY SEE AND MALTA ON THE RECOGNITION OF CIVIL EFFECTS TO CANONICAL MARRIAGES AND TO DECISIONS OF ECCLESIASTICAL AUTHORITIES AND TRIBUNALS ABOUT
 THE SAME MARRIAGES*
 (as amended by the Terzo Protocollo Addizzionale)
 (The Agreement is in the Italian and English languages).
@@ -106,8 +107,7 @@ Il presente Terzo Protocollo Addizionale fa parte integrante dell'Accordo sul ri
 Fatto alla Valletta, Malta, il ventisette di gennaio 2014, in doppio originale in lingua italiana ed inglese, ambedue i testi facendo ugualmente fede.
 Per la Repubblica di Malta Per la Santa Sede
 ........................................ ........................................ Il Ministro per gli Affari Esterni Il Nunzio Apostolico
-AGREEMENT BETWEEN THE HOLY SEE AND MALTA ON THE
-RECOGNITION OF CIVIL EFFECTS TO CANONICAL MARRIAGES AND TO DECISIONS OF ECCLESIASTICAL AUTHORITIES AND TRIBUNALS ABOUT
+AGREEMENT BETWEEN THE HOLY SEE AND MALTA ON THE RECOGNITION OF CIVIL EFFECTS TO CANONICAL MARRIAGES AND TO DECISIONS OF ECCLESIASTICAL AUTHORITIES AND TRIBUNALS ABOUT
 THE SAME MARRIAGES*
 (as amended by the Terzo Protocollo Addizzionale)
 The Holy See and the Republic of Malta,
