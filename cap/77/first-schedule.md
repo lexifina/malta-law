@@ -9,7 +9,7 @@ I declare that, in terms of the Conduct Certificates Ordinance (Cap. 77),
 Legally valid identification document number ),
 son of born on the at and residing at
 is a person of good conduct.
-Conducts and Criminal Records Office Malta, 20 Fee paid €2.50
+Conducts and Criminal Records Office Malta, 20 Fee paid €2.80
 (Date and initials)
 Director, Department of Justice within the Ministry responsible for Justice
 FORM B
@@ -22,11 +22,11 @@ born on the
 at and residing at
 Conducts and Criminal Records Office
 Malta, 20
-Fee paid €2.50
+Fee paid €2.80
 (Date and initials)
 Director, Department of Justice within the Ministry responsible for Justice
 - Amended by: XIV.1961.2.
 - Substituted by: XXII.1980.6.
 - Amended by: XIII. 1983.4.
 - Substituted by: L.N. 408 of 2007.
-- Amended by: L.N. 97 of 2011; L.N. 426 of 2012; XXIV. 2014.84; L.N. 181 of 2024.
+- Amended by: L.N. 97 of 2011; L.N. 426 of 2012; XXIV. 2014.84; L.N. 181 of 2024; L.N. 209 of 2025.

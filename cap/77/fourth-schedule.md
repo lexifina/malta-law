@@ -1,6 +1,6 @@
 ## FOURTH SCHEDULE
 # fourth-schedule
-[Article 3(2)]
+[Article 3(3)]
 List of competent authorities with the right to request complete record of criminal convictions from the Director, Department of Justice within the Ministry
 responsible for Justice
 The Authority for Transport in Malta
@@ -21,4 +21,4 @@ The Commerce Department, in respect of the issue, maintenance or renewal of a li
 The Correctional Services Agency.
 - Added by: XXIV. 2010.9.
 - Substituted by: L.N. 265 of 2012.
-- Amended by: L.N. 52 of 2015; XVI.2018; Fourth Schedule; L.N. 294 of 2018; L.N. 144 of 2019; L.N. 239 of 2020; L.N. 409 of 2020; L.N. 16 of 2021; L.N. 391 of 2021; L.N. 58 of 2023; L.N. 21 of 2024; L.N. 44 of 2024; L.N. 181 of 2024.
+- Amended by: L.N. 52 of 2015; XVI.2018; Fourth Schedule; L.N. 294 of 2018; L.N. 144 of 2019; L.N. 239 of 2020; L.N. 409 of 2020; L.N. 16 of 2021; L.N. 391 of 2021; L.N. 58 of 2023; L.N. 21 of 2024; L.N. 44 of 2024; L.N. 181 of 2024; L.N. 209 of 2025.
