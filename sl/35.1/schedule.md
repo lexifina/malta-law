@@ -3,13 +3,10 @@
 ## G.N. 13 of 1937
 ## G.N. 386 of 1926 G.N. 120 of 1927 G.N. 329 of 1931 G.N. 201 of 1956 L.N. 62 of 1959 L.N. 106 of 1974 L.N. 3 of 1975 L.N. 32 of 1980 L.N. 26 of 1995 L.N. 104 of 1995 L.N. 134 of 1997 L.N. 231 of 1997 L.N. 82 of 1998 L.N. 72 of 1999 L.N. 6 of 2008 L.N. 291 of 2008 L.N. 97 of 2010 L.N. 232 of 2010 L.N. 225 of 2011 L.N. 194 of 2012 L.N. 286 of 2015; L.N. 419 of 2018; L.N. 7 of 2020.
 ## G.N. 367 of 1934 L.N. 17 of 1970 L.N. 65 of 1973 L.N. 59 of 1974 L.N. 239 of 1997 L.N. 237 of 2001 L.N. 233 of 2007; L.N. 426 of 2012; XIII. 2015.18; L.N. 221 of 2016.
-## G.N. 7 of 1930; G.N. 51 of 1932 G.N. 513 of 1955 G.N. 761 of 1956 G.N. 251 of 1957 G.N. 622 of 1957 L.N. 47 of 1989; L.N. 148 of 2014; L.N. 73 of 2018.
+## G.N. 7 of 1930; G.N. 51 of 1932 G.N. 513 of 1955 G.N. 761 of 1956 G.N. 251 of 1957 G.N. 622 of 1957 L.N. 47 of 1989; L.N. 148 of 2014; L.N. 73 of 2018; L.N.210 of 2025.
 ## G.N. 51 of 1932 G.N. 127 of 1934 G.N. 247 of 1941 L.N. 47 of 1989
 ## L.N. 82 of 1977
 ## L.N. 123 of 1996
-## L.N. 8 of 1964
-## L.N. 82 of 1995
-## G.N. 704 of 1955
 ## G.N. 5 of 1936 G.N. 529 of 1953
 ## G.N. 311 of 1926 G.N. 529 of 1953
 ## G.N. 350 of 1954
@@ -17,13 +14,10 @@
 ## L.N. 4 of 1970
 ## L.N. 21 of 1961
 ## L.N. 34 of 1974
-## G.N. 151 of 1934
 ## G.N. 64 of 1950
 ## G.N. 594 of 1947
 ## G.N. 338 of 1925 L.N. 123 of 1992 XIII. 2015.18 L.N. 353 of 2018.
 ## G.N. 275 of 1948
-## L.N. 118 of 1975 L.N. 148 of 1998
-## L.N. 40 of 1973
 # schedule
 (Regulation 2)
 €
@@ -141,12 +135,16 @@ For each seaman or apprentice ...................................... 2.00 subjec
 For each seaman or apprentice ...................................... 2.00 26. Attesting alterations in the agreement with the crew:
 For each alteration ........................................................ 2.00 27. Taking custody of the agreement with the crew and making any necessary endorsements thereon ....................... 3.00
 Miscellaneous 28. For receiving a will under the provisions of article 679
-(2) of the Civil Code (Chapter 16) ....................................... 3.00 29. For the signature of any certificate required by the Food Safety Act (Chapter 449) .................................................... 10.00 30. For effecting any registration not otherwise provided for ...................................................................................... 2.00 31. For affixing a consular signature, and seal if required, not otherwise provided for .................................................. 5.00 MINISTRY OF JUSTICE AND LOCAL GOVERNMENT
-Attorney General's Office Warrant to act as advocate ................................................... 2.33 Warrant to act as legal procurator .................................... ... 2.33 Warrant to act as public notary ............................................ 2.33 For copies of documents kept at the Attorney General's Office, per 100 words or under ............................................ 0.17
-For translation of copies of documents kept at the Attorney General's Office, per 100 words or under from 0.17
+(2) of the Civil Code (Chapter 16) ....................................... 3.00 29. For the signature of any certificate required by the Food Safety Act (Chapter 449) .................................................... 10.00 30. For effecting any registration not otherwise provided for ...................................................................................... 2.00 31. For affixing a consular signature, and seal if required, not otherwise provided for .................................................. 5.00
+MINISTRY FOR JUSTICE
+Attorney General's Office Warrant to act as advocate ................................................... 2.33 Warrant to act as legal procurator .................................... ... 2.33 Warrant to act as public notary ............................................ 2.33 For copies of documents kept at the Attorney General's Office, per 100 words or under ............................................
+0.17 For translation of copies of documents kept at the Attorney General's Office, per 100 words or under from 0.17
 to 0.29 For execution of requests for all service of judicial acts from another European Union Member State to Malta made in terms of Article 4 of Regulation (EC) No 1393/2007 on the service in the Member States of judicial and extrajudicial documents in civil or commercial matters (service of documents) 50.00 For execution of requests for enforcement of European account preservation orders in terms of Article 23 of Regulation (EU) No 655/2014 of the European Parliament and of the Council of 15 May 2014 establishing a European Account Preservation Order procedure to facilitate cross-border debt recovery in civil and commercial matters 100.00
 Courts of Magistrates For translation of copies of documents kept at the Registry of the Courts of Magistrates (Malta) and at the Registry of the Courts of Magistrates (Gozo) per 100 words or under
 from 0.17 to 0.29 Publication of Court notices Fee charged by the Registrar of Courts in respect of the publication of a court notice in the Gazette, irrespective of the length of such notice ..................................................... 6.99
+Department of Justice
+For the issue of a Conduct Certificate under the Conduct 2.80 Certificates Ordinance and any
+additional payment for postal expenses For the issue of a complete record of criminal convictions 5.50
 MINISTRY FOR SOCIAL POLICY Fee for sitting for the trade test specified in the Schedule of the Printing and Publishing Wages Council Wage Regulation Order ................................................................ 2.33
 MINISTRY OF EDUCATION
 External and local examinations Fee chargeable to each candidate for all external examinations, for each examination .................................... 2.30 Fee chargeable to each candidate for all local public examinations, for each examination .................................... 9.30
