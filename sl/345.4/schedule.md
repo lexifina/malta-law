@@ -14,8 +14,9 @@ Provided that in the process of authorisation of a regulated market, the person 
 (b) Unless representing the Government of Malta, members of the management body of a market operators that is significant in terms of its size, internal organisation and the nature, the scope and the complexity of its activities shall not at the same time hold positions exceeding more than one of the following combinations:
 (i) one executive directorship with two non-executive directorships;
 (ii) four non-executive directorships:
-Provided that executive or non-executive directorships held within the same group or undertakings where the market operator owns a qualifying holding shall be considered to be one single directorship;
+Provided that executive or non-executive directorships held within the same group or undertakings where the market operator owns a qualifying holding shall be considered to be one single
 [S.L.345.04 (AUTHORISATION REQUIREMENTS) 5
+directorship;
 Provided further that directorships in organisations which do not pursue predominantly commercial objectives shall be exempt from the limitation on the number of directorships a member of a management body can hold.
 (c) The competent authority may authorise members of the management body to hold one additional non-executive directorship. The competent
 authority shall regularly inform ESMA of such authorisations.
@@ -29,8 +30,8 @@ authority shall regularly inform ESMA of such authorisations.
 the management body with regard to any changes;
 (c) periodically, and at least annually, assess the knowledge, skills and experience of individual members of the management body and of the management body collectively, and report to the management body accordingly;
 (d) periodically review the policy of the management body for selection and appointment of senior management and make recommendations to the management body.
-(7) In performing its duties, the nomination committee shall, to the extent [S.L.345.04 6 (AUTHORISATION REQUIREMENTS)
-possible and on an ongoing basis, take account of the need to ensure that the management body's decision making is not dominated by any one individual or small group of individuals in a manner that is detrimental to the interests of the market operator as a whole.
+[S.L.345.04 6 (AUTHORISATION REQUIREMENTS)
+(7) In performing its duties, the nomination committee shall, to the extent possible and on an ongoing basis, take account of the need to ensure that the management body's decision making is not dominated by any one individual or small group of individuals in a manner that is detrimental to the interests of the market operator as a whole.
 (8) In performing its duties, the nomination committee shall be able to use any forms of resources it deems appropriate, including external advice.
 (9) A market operator and its respective nomination committee shall engage a broad set of qualities and competences when recruiting members to the management body. A policy promoting diversity on the management body shall be put in place for this purpose.
 (10) The management body of a market operator shall define and oversee the implementation of the governance arrangements that ensure effective and prudent management of an organisation, including the segregation of duties in the organisation and the prevention of conflicts of interest, and in a manner that promotes the integrity of the market.
@@ -42,13 +43,15 @@ Organisational requirements
 3. (1) The regulated market shall have arrangements to identify clearly and manage those potential adverse consequences, for the operation of the regulated market or for its participants, of any conflict of interest between the interest of the regulated market, its owners or its operator and the sound functioning of the regulated market, and in particular where such conflicts of interest might prove prejudicial to the accomplishment of any functions delegated to the regulated market by the competent authority.
 (2) The regulated market must ensure that:
 (a) it has available on an ongoing basis, sufficient financial resources to facilitate its orderly functioning, having regard to the nature and extent of the transactions concluded on the market and the range and degree of the risks to which it is exposed;
-(b) it is adequately equipped to manage the risks to which it is exposed , including to manage ICT risk in accordance with Chapter II of the DORA
+(b) it is adequately equipped to manage the risks to which it is exposed ,
 [S.L.345.04 (AUTHORISATION REQUIREMENTS) 7
-Regulation;
+including to manage ICT risk in accordance with Chapter II of the DORA Regulation;
 (c) it has appropriate arrangements and systems to identify all significant risks to its operations and it has effective measures to mitigate those risks;
 (d) Repealed by Legal Notice 249 of 2024;
 (e) it has effective arrangements to facilitate the efficient and timely
-finalisation of the transactions executed under its systems.
+finalisation of the transactions executed under its systems;
+(f) it has arrangements in place to ensure that it meets data quality standards pursuant to Article 22b of MiFIR;
+(g) it has at least three (3) materially active members or users, each having the opportunity to interact with all the others in respect of price formation.
 (3) The regulated market shall have transparent and non-discretionary bye-laws and procedures that provide for fair and orderly trading and establish objective criteria for the execution of orders.
 (4) A market operator shall not be allowed to execute client orders against proprietary capital, or to engage in matched principal trading on any of the regulated markets it operates.
 Access to a regulated market
@@ -66,10 +69,9 @@ their members or participants with their bye-laws; and
 (b) monitor orders sent including cancellations and the transactions undertaken by their members or participants under their systems in order to identify infringements of those rules, disorderly trading conditions or conduct that may indicate behaviour prohibited under Regulation (EU) No 596/2014 or
 system disruptions in relation to a financial instrument.
 (2) A market operator of a regulated market shall:
-(a) immediately inform the competent authority of significant infringements of its rules or disorderly trading conditions or conduct that may indicate behaviour that is prohibited under Regulation (EU) No. 596/2014 or system disruptions in relation to a financial instrument:
-Provided that the competent authority shall communicate this
 [S.L.345.04 8 (AUTHORISATION REQUIREMENTS)
-information to ESMA and to the competent authorities of the other Member States or EEA States;
+(a) immediately inform the competent authority of significant infringements of its rules or disorderly trading conditions or conduct that may indicate behaviour that is prohibited under Regulation (EU) No. 596/2014 or system disruptions in relation to a financial instrument:
+Provided that the competent authority shall communicate this information to ESMA and to the competent authorities of the other Member States or EEA States;
 Provided further that in relation to conduct that may indicate behaviour that is prohibited under Regulation (EU) No. 596/2014, the competent authority shall be convinced that such behaviour is being or has been carried out before it notifies the competent authorities of the other Member States or EEA States and ESMA;
 (b) supply the relevant information without undue delay to the authority competent for the investigation and prosecution of market abuse on the regulated market and to provide full assistance to the latter in investigating and prosecuting market abuse occurring on or through the systems of the regulated market.
 Promotion and maintenance of standards
@@ -83,10 +85,10 @@ Provided that the foregoing does not extend to complaints about the content of b
 (3) The arrangements must confer on the person mentioned in paragraph (2) the power to recommend, if he thinks it appropriate, that the regulated market:
 (a) makes a compensatory payment to the complainant;
 (b) remedies the matter complained of, or takes both of those steps.
-(4) Paragraph (3)(b) is not to be construed as preventing the regulated market from making arrangements for the initial investigation of a complaint to be conducted by the regulated market.
 [S.L.345.04 (AUTHORISATION REQUIREMENTS) 9
+(4) Paragraph (3)(b) is not to be construed as preventing the regulated market from making arrangements for the initial investigation of a complaint to be conducted by the regulated market.
 Default bye-laws in respect of market contracts
 8. (1) The regulated market must have default bye-laws which, in the event of a member of the regulated market being or appearing to be unable to meet his obligations in respect of one or more market contracts, enable action to be taken in respect of unsettled market contracts to which he is a party.
 (2) The bye-laws may authorise the taking of the same or similar action in relation to a member who appears to be likely to become unable to meet his obligations in respect of one or more market contracts.
 (3) The regulated market must have adequate arrangements for ensuring that parties to the contract are notified as soon as reasonably practicable of the default, the identity of the other parties to the contract and of any decision taken under the bye-laws in relation to contracts to which they are a party.
-- Amended by: L.N. 385 of 2017; L.N. 249 of 2024.
+- Amended by: L.N. 385 of 2017; L.N. 249 of 2024; L.N. 214 of 2025.
