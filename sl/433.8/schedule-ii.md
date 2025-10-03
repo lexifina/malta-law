@@ -65,3 +65,5 @@ case of rootstocks not belonging to a variety: the name of the species or the in
 (i) the date of issue of the document.
 (3) Where the supplier's document is affixed to the CAC material, the colour of the supplier's document shall be yellow.
 (4) The supplier's document shall be indelibly printed in one of the official languages of the Union, clearly visible and legible..
+- Added by: L.N. 73 of 2017.
+- Amended by: L.N. 144 of 2020.

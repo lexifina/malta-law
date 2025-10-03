@@ -1,4 +1,5 @@
 ## SCHEDULE III
+## *promulgated by Legal Notice 271 of 2004 and revoked by Legal Notice 223 of 2010.
 ## *promulgated by Legal Notice 271 of 2004 and revoked by Legal Notice 223 of 2010. †promulgated by Legal Notice 271 of 2004 and revoked by Legal Notice 223 of 2010.
 # schedule-iii
 Registration of Suppliers

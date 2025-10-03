@@ -1,4 +1,7 @@
 ## SCHEDULE IV
+## Citrus L., Fortunella Swingle and
+## Corylus avellana L.
+## Cydonia oblonga Mill.
 # schedule-iv
 SECTION I
 General provisions
@@ -313,9 +316,7 @@ Armillariella mellea (Vahl) Kummer [ARMIME]
 Insects and mites
 Ceroplastes rusci Linnaeus [CERPRU] Nematodes Heterodera fici Kirjanova [HETDFI] Meloidogyne arenaria Chitwood [MELGAR] Meloidogyne incognita (Kofold & White) Chitwood [MELGIN] Meloidogyne javanica Chitwood [MELGJA] Pratylenchus penetrans (Cobb) Filipjev & Schuurmans-
 Stekhoven [PRATPE]
-Pratylenchus vulnus Allen & Jensen [PRATVU] Viruses, viroids, virus-like diseases and phytoplasmas
-Fig mosaic agent [FGM000]
-Fragaria L. Bacteria
+Pratylenchus vulnus Allen & Jensen [PRATVU] Fragaria L. Bacteria
 Candidatus Phlomobacter fragariae Zreik, Bové &
 Garnier [PHMBFR]
 Fungi and oomycetes
@@ -444,91 +445,196 @@ Agrobacterium tumefaciens (Smith & Townsend) Conn
 Fungi and oomycetes
 Diaporthe vaccinii Shear [DIAPVA] Exobasidium vaccinii (Fuckel) Woronin [EXOBVA] Godronia cassandrae (anamorph Topospora myrtilli) Peck
 [GODRCA]
+Pucciniastrum minimum Sydow & P. Sydow [THEKMI]
 Schedule B
 List of RNQPs for the presence of which visual inspection, and, where applicable, sampling and testing are required pursuant to items 8(2), 8(4), 9(1), 15(1), 20(1), and 25(1) of Schedule IV and Schedule D.
 Genus or species RNQPs
-Fungi and oomycetes Castanea sativa Mill.
-Phytophthora ramorum (EU isolates) Werres, De Cock & Man in 't Veld [PHYTRA] Citrus L., Fortunella Swingle and Bacteria Poncirus Raf.
-Spiroplasma citri Saglio et al. [SPIRCI] Fungi and oomycetes Phytophthora ramorum (EU isolates) Werres, De Cock & Man in 't Veld [PHYTRA] Fungi and oomycetes Plenodomus tracheiphilus (Petri) Gruyter, Aveskamp & Verkley [DEUTTR] Viruses, viroids, virus-like diseases and
-phytoplasmas
-Citrus cristacortis agent [CSCC00] Citrus exocortis viroid [CEVD00] Citrus impietratura agent [CSI000] Citrus leaf blotch virus [CLBV00] Citrus psorosis virus [CPSV00] Citrus tristeza virus (EU isolates) [CTV000] Citrus variegation virus [CVV000] Hop stunt viroid [HSVD00] Corylus avellana L. Viruses, viroids, virus-like diseases and
-phytoplasmas
-Apple mosaic virus [APMV00] Cydonia oblonga Mill. Viruses, viroids, virus-like diseases and
-phytoplasmas
+Castanea sativa Mill. Fungi and oomycetes
+Phytophthora ramorum (EU isolates) Werres, De Cock &
+Man in 't Veld [PHYTRA]
+Bacteria
+Poncirus Raf.
+Citrus exocortis viroid [CEVD00]
+Citrus leaf blotch virus [CLBV00]
+Citrus psorosis vírus [CPSV00]
+Hop stunt viroid [HSVD00]
 Apple chlorotic leaf spot virus [ACLSV0]
 Apple rubbery wood agent [ARW000]
 Apple stem grooving virus [ASGV00]
 Apple stem-pitting virus [ASPV00]
-Pear bark necrosis agent [PRBN00]
 Pear bark split agent [PRBS00]
 Pear blister canker viroid [PBCVD0]
 Pear rough bark agent [PRRB00]
-Quince yellow blotch agent [ARW000]. Fragaria L. Bacteria
-Xanthomonas fragariae Kennedy & King
-[XANTFR]
-Fungi and oomycetes Colletotrichum acutatum Simmonds [COLLAC] Phytophthora cactorum (Lebert & Cohn) J.Schröter
-[PHYTCC]
+Quince yellow blotch agent [ARW000] Fragaria L. Bacteria
+Xanthomonas fragariae Kennedy & King [XANTFR]
+Fungi and oomycetes
+Colletotrichum acutatum Simmonds [COLLAC]
+Phytophthora cactorum (Lebert & Cohn) J.Schröter [PHYTCC]
 Phytophthora fragariae C.J. Hickman [PHYTFR]
 Nematodes
-Aphelenchoides besseyi Christie [APLOBE] Aphelenchoides blastophthorus Franklin [APLOBL] Aphelenchoides fragariae (Ritzema Bos) Christie
+Aphelenchoides besseyi Christie [APLOBE]
+Aphelenchoides blastophthorus Franklin [APLOBL]
+Aphelenchoides fragariae (Ritzema Bos) Christie
 [APLOFR]
 Aphelenchoides ritzemabosi (Schwartz) Steiner &
 Buhrer [APLORI]
 Viruses, viroids, virus-like diseases and
 phytoplasmas
-Arabis mosaic virus [ARMV00] Raspberry ringspot virus [RPRSV0] Strawberry crinkle virus [SCRV00] Strawberry latent ringspot virus [SLRSV0] Strawberry mild yellow edge virus [SMYEV0] Strawberry mottle virus [SMOV00] Strawberry vein banding virus [SVBV00] Tomato black ring virus [TBRV00] Juglans regia L Viruses, viroids, virus-like diseases and
-phytoplasmas
-Cherry leaf roll virus [CLRV00] Malus Mill. Viruses, viroids, virus-like diseases and
-phytoplasmas
-Apple chlorotic leaf spot virus [ACLSV0] Apple dimple fruit viroid [ADFVD0] Apple flat limb agent [AFL000] Apple mosaic virus [APMV00] Apple rubbery wood agent [ARW000] Apple scar skin viroid [ASSVD0] Apple star crack agent [APHW00] Apple stem grooving virus [ASGV00] Apple stem-pitting virus [ASPV00] Candidatus Phytoplasma mali Seemüller & Schneider [PHYPMA] Fruit disorders: chat fruit [APCF00], green crinkle [APGC00], bumpy fruit of Ben Davis, rough skin [APRSK0], star crack, russet ring [APLP00], russet
-wart
+Arabis mosaic virus [ARMV00]
+Raspberry ringspot virus [RPRSV0]
+Strawberry crinkle virus [SCRV00]
+Strawberry latent ringspot virus [SLRSV0]
+Strawberry mild yellow edge virus [SMYEV0]
+Strawberry mottle virus
+[SMOV00]
+Strawberry vein banding virus
+[SVBV00]
+Tomato black ring virus [TBRV00]
+Juglans regia L. Viruses, viroids, virus-like diseases and phytoplasmas
+Cherry leaf roll virus [CLRV00]
+Malus Mill. Viruses, viroids, virus-like diseases and phytoplasmas
+Apple chlorotic leaf spot virus [ACLSV0]
+Apple dimple fruit viroid [ADFVD0]
+Apple flat limb agent [AFL000]
+Apple mosaic virus [APMV00]
+Apple rubbery wood agent [ARW000]
+Apple scar skin viroid [ASSVD0]
+Apple star crack agent [APHW00]
+Apple stem grooving virus [ASGV00]
+Apple stem-pitting virus [ASPV00]
+Candidatus Phytoplasma mali Seemüller & Schneider [PHYPMA]
+Fruit disorders: chat fruit [APCF00], green crinkle [APGC00], bumpy fruit of Ben Davis, rough skin [APRSK0], star crack, russet ring [APLP00], russet wart
+Tomato ringspot virus [TORSV0]
 Olea europaea L. Fungi and oomycetes
-Verticillium dahliae Kleb [VERTDA] Viruses, viroids, virus-like diseases and
-phytoplasmas
-Arabis mosaic virus [ARMV00] Cherry leaf roll virus [CLRV00] Strawberry latent ringspot virus [SLRSV0] Prunus dulcis (Miller) Webb Bacteria
-Xanthomonas arboricola pv. pruni (Smith) Vauterin
-et al. [XANTPR]
-Viruses, viroids, virus-like diseases and
-phytoplasmas
-Apple chlorotic leaf spot virus [ACLSV0] Apple mosaic virus [APMV00] Candidatus Phytoplasma prunorum Seemüller & Schneider [PHYPPR] Plum pox virus [PPV000] Prune dwarf virus [PDV000] Prunus necrotic ringspot virus [PNRSV0] Prunus armeniaca L. Bacteria
-Xanthomonas arboricola pv. pruni (Smith) Vauterin
-et al. [XANTPR]
-Viruses, viroids, virus-like diseases and
-phytoplasmas
-Apple chlorotic leaf spot virus [ACLSV0] Apple mosaic virus [APMV00] Apricot latent virus [ALV000] Candidatus Phytoplasma prunorum Seemüller & Schneider [PHYPPR] Plum pox virus [PPV000] Prune dwarf virus [PDV000] Prunus necrotic ringspot virus [PNRSV0] Prunus avium L. and Prunus cerasus L. Bacteria
-Xanthomonas arboricola pv. pruni (Smith) Vauterin
-et al. [XANTPR]
-Viruses, viroids, virus-like diseases and
-phytoplasmas
-Apple chlorotic leaf spot virus [ACLSV0] Apple mosaic virus [APMV00] Arabis mosaic virus [ARMV00] Candidatus Phytoplasma prunorum Seemüller & Schneider [PHYPPR] Cherry green ring mottle virus [CGRMV0] Cherry leaf roll virus [CLRV00] Cherry mottle leaf virus [CMLV00] Cherry necrotic rusty mottle virus [CRNRM0] Little cherry virus 1 and 2 [LCHV10], [LCHV20] Plum pox virus [PPV000] Prune dwarf virus [PDV000] Prunus necrotic ringspot virus [PNRSV0] Raspberry ringspot virus [RPRSV0] Strawberry latent ringspot virus [SLRSV0] Tomato black ring virus [TBRV00] Prunus domestica L., Prunus salicina Bacteria Lindley, and other species of Prunus L.
-Xanthomonas arboricola pv. pruni (Smith) Vauterin susceptible to Plum pox virus in the
-et al. [XANTPR]
-case of Prunus L. hybrids
-Viruses, viroids, virus-like diseases and
-phytoplasmas
-Apple chlorotic leaf spot virus [ACLSV0] Apple mosaic virus [APMV00] Candidatus Phytoplasma prunorum Seemüller & Schneider [PHYPPR] Myrobalan latent ringspot virus [MLRSV0] Plum pox virus [PPV000] Prune dwarf virus [PDV000] Prunus necrotic ringspot virus [PNRSV0] Prunus persica (L.) Batsch Bacteria
-Xanthomonas arboricola pv. pruni (Smith) Vauterin
-et al. [XANTPR]
-Viruses, viroids, virus-like diseases and
-phytoplasmas
-Apple chlorotic leaf spot virus [ACLSV0] Apple mosaic virus [APMV00] Apricot latent virus [ALV000] Candidatus Phytoplasma prunorum Seemüller & Schneider [PHYPPR] Peach latent mosaic viroid [PLMVD0] Plum pox virus [PPV000] Prune dwarf virus [PDV000] Prunus necrotic ringspot virus [PNRSV0] Strawberry latent ringspot virus [SLRSV0] Pyrus L. Viruses, viroids, virus-like diseases and
-phytoplasmas
-Apple chlorotic leaf spot virus [ACLSV0] Apple rubbery wood agent [ARW000] Apple stem grooving virus [ASGV00] Apple stem-pitting virus [ASPV00] Candidatus Phytoplasma pyri Seemüller & Schneider [PHYPPY] Pear bark necrosis agent [PRBN00] Pear bark split agent [PRBS00] Pear blister canker viroid [PBCVD0] Pear rough bark agent [PRRB00] Quince yellow blotch agent [ARW000] Ribes L. Viruses, viroids, virus-like diseases and
-phytoplasmas
-Arabis mosaic virus [ARMV00] Blackcurrant reversion virus [BRAV00] Cucumber mosaic virus [CMV000] Gooseberry vein banding associated virus
+Verticillium dahliae Kleb [VERTDA]
+Viruses, viroids, virus-like diseases and phytoplasmas
+Arabis mosaic virus [ARMV00]
+Cherry leaf roll virus [CLRV00]
+Strawberry latent ringspot virus [SLRSV0] Prunus dulcis (Miller) Webb Bacteria
+Xanthomonas arboricola pv. pruni (Smith) Vauterin et al. [XANTPR]
+Viruses, viroids, virus-like diseases and phytoplasmas
+Apple chlorotic leaf spot virus [ACLSV0]
+Apple mosaic virus [APMV00]
+Candidatus Phytoplasma prunorum Seemüller & Schneider
+[PHYPPR]
+Plum pox virus [PPV000]
+Prune dwarf virus [PDV000]
+Prunus necrotic ringspot virus [PNRSV0]
+Tomato ringspot virus [TORSV0]
+Prunus armeniaca L. Bacteria
+Xanthomonas arboricola pv. pruni (Smith) Vauterin et al. [XANTPR]
+Viruses, viroids, virus-like diseases and phytoplasmas
+Apple chlorotic leaf spot virus [ACLSV0]
+Apple mosaic virus [APMV00]
+Apricot latent virus [ALV000]
+Candidatus Phytoplasma prunorum Seemüller &
+Schneider [PHYPPR]
+Plum pox virus [PPV000]
+Prune dwarf virus [PDV000]
+Prunus necrotic ringspot virus [PNRSV0]
+Tomato ringspot virus [TORSV0] Prunus avium L. and Prunus Bacteria cerasus L.
+Xanthomonas arboricola pv. pruni (Smith) Vauterin et al. [XANTPR]
+Viruses, viroids, virus-like diseases and phytoplasmas
+Apple chlorotic leaf spot virus [ACLSV0]
+Apple mosaic virus
+[APMV00]
+Arabis mosaic virus [ARMV00]
+Candidatus Phytoplasma prunorum Seemüller & Schneider
+[PHYPPR]
+Cherry green ring mottle virus [CGRMV0]
+Cherry leaf roll virus [CLRV00]
+Cherry mottle leaf virus [CMLV00]
+Cherry necrotic rusty mottle virus [CRNRM0]
+Little cherry virus 1 and 2 [LCHV10], [LCHV20]
+Plum pox virus [PPV000]
+Prune dwarf virus [PDV000]
+Prunus necrotic ringspot virus [PNRSV0]
+Raspberry ringspot virus [RPRSV0]
+Strawberry latent ringspot virus [SLRSV0]
+Tomato black ring virus [TBRV00]
+Tomato ringspot virus [TORSV0] Prunus domestica L., Prunus Bacteria salicina
+Xanthomonas arboricola pv. pruni (Smith) Vauterin et al. Lindley, and other species of
+[XANTPR] Prunus L. susceptible to Plum pox virus in the case of Prunus
+Viruses, viroids, virus-like diseases and phytoplasmas L. hybrids
+Apple chlorotic leaf spot virus [ACLSV0]
+Apple mosaic virus
+[APMV00]
+Candidatus Phytoplasma prunorum Seemüller & Schneider
+[PHYPPR] Myrobalan latent ringspot virus [MLRSV0]
+Plum pox virus
+[PPV000]
+Prune dwarf virus
+[PDV000]
+Prunus necrotic ringspot virus [PNRSV0] Tomato ringspot virus [TORSV0]
+Prunus persica (L.) Batsch Bacteria
+Xanthomonas arboricola pv. pruni (Smith) Vauterin et al. [XANTPR]
+Viruses, viroids, virus-like diseases and phytoplasmas
+Apple chlorotic leaf spot virus [ACLSV0]
+Apple mosaic virus [APMV00]
+Apricot latent virus [ALV000]
+Candidatus Phytoplasma prunorum Seemüller & Schneider
+[PHYPPR]
+Peach latent mosaic viroid [PLMVD0]
+Plum pox virus
+[PPV000]
+Prune dwarf virus
+[PDV000]
+Prunus necrotic ringspot virus [PNRSV0] Strawberry latent ringspot virus [SLRSV0] Tomato ringspot virus [TORSV0] Pyrus L. Viruses, viroids, virus-like diseases and phytoplasmas
+Apple chlorotic leaf spot virus [ACLSV0]
+Apple rubbery wood agent [ARW000]
+Apple stem grooving virus [ASGV00]
+Apple stem-pitting virus [ASPV00]
+Candidatus Phytoplasma pyri Seemüller & Schneider
+[PHYPPY]
+Pear bark necrosis agent [PRBN00]
+Pear bark split agent [PRBS00]
+Pear blister canker viroid [PBCVD0]
+Pear rough bark agent [PRRB00]
+Quince yellow blotch agent [ARW000]
+Ribes L. Viruses, viroids, virus-like diseases and phytoplasmas
+Arabis mosaic virus [ARMV00]
+Blackcurrant reversion virus [BRAV00]
+Cucumber mosaic virus [CMV000]
+Gooseberry vein banding associated virus
 [GOVB00]
-Raspberry ringspot virus [RPRSV0] Strawberry latent ringspot virus [SLRSV0] Rubus L. Fungi and oomycetes
-Phytophthora spp. de Bary [1PHYTG] Viruses, viroids, virus-like diseases and
-phytoplasmas
-Apple mosaic virus [APMV00] Arabis mosaic virus [ARMV00] Black raspberry necrosis virus [BRNV00] Candidatus Phytoplasma rubi Malembic-Maher et
-al. [PHYPRU]
-Cucumber mosaic virus [CMV000] Raspberry bushy dwarf virus [RBDV00] Raspberry leaf mottle virus [RLMV00] Raspberry ringspot virus [RPRSV0] Raspberry vein chlorosis virus [RVCV00] Raspberry yellow spot [RYS000] Rubus yellow net virus [RYNV00] Strawberry latent ringspot virus [SLRSV0] Tomato black ring virus [TBRV00] Vaccinium L. Viruses, viroids, virus-like diseases and
-phytoplasmas
-Blueberry mosaic associated ophiovirus [BLMAV0] Blueberry red ringspot virus [BRRV00] Blueberry scorch virus [BLSCV0] Blueberry shock virus [BLSHV0] Blueberry shoestring virus [BSSV00] Candidatus Phytoplasma asteris Lee et al.
-[PHYPAS]
-Candidatus Phytoplasma pruni [PHYPPN] Candidatus Phytoplasma solani Quaglino et al.
-[PHYPSO]
-Cranberry false blossom phytoplasma [PHYPFB]"
+Raspberry ringspot virus [RPRSV0]
+Strawberry latent ringspot virus [SLRSV0] Rubus L. Fungi and oomycetes
+Phytophthora spp. de Bary [1PHYTG]
+Viruses, viroids, virus-like diseases and phytoplasmas
+Apple mosaic virus [APMV00]
+Arabis mosaic virus [ARMV00]
+Black raspberry necrosis virus [BRNV00]
+Candidatus Phytoplasma rubi Malembic-Maher et al.
+[PHYPRU]
+Cucumber mosaic virus [CMV000]
+Raspberry bushy dwarf virus [RBDV00]
+Raspberry leaf mottle virus [RLMV00]
+Raspberry ringspot virus [RPRSV0]
+Raspberry vein chlorosis virus [RVCV00]
+Raspberry yellow spot
+[RYS000]
+Rubus yellow net virus
+[RYNV00]
+Strawberry latent ringspot virus
+[SLRSV0]
+Tomato black ring virus
+[TBRV00]
+Tomato ringspot virus [TORSV0] Vaccinium L. Fungi and oomycetes
+Phytophthora ramorum (EU isolates) Werres, De Cock & Man
+in 't Veld [PHYTRA]
+Viruses, viroids, virus-like diseases and phytoplasmas
+Blueberry mosaic associated ophiovirus [BLMAV0]
+Blueberry red ringspot virus [BRRV00]
+Blueberry scorch virus [BLSCV0]
+Blueberry shock virus [BLSHV0]
+Blueberry shoestring virus [BSSV00]
+Candidatus Phytoplasma asteris Lee et al. [PHYPAS]
+Candidatus Phytoplasma pruni [PHYPPN]
+Candidatus Phytoplasma solani Quaglino et al. [PHYPSO]
+Cranberry false blossom phytoplasma
+[PHYPFB]
+Tobacco ringspot virus [TRSV0]
+Tomato ringspot virus [TORSV0]"
 Schedule C
 List of RNQPs whose presence in soil is provided for in items 10(1), 10(2), 16(1), 21(1) and 21(2) of Schedule IV".
 Genus or species RNQPs
@@ -567,10 +673,8 @@ Sampling and testing shall be carried out in the case of doubts concerning the p
 (b) Pre-basic category
 Requirements with regards to the production site, place of production or area
 In the case where a derogation is allowed to produce pre-basic material in the field under non-insect proof conditions pursuant to Commission Implementing Decision (EU) 2017/925, the following requirements shall apply:
-(i) Cryphonectria parasitica (Murrill) Barr:
-- propagating material and fruit plants of the pre-basic category shall
-be produced in areas established by the Directorate as being free
-from Cryphonectria parasitica (Murrill) Barr in accordance with relevant international standards for phytosanitary measures; or - no symptoms of Cryphonectria parasitica (Murrill) Barr shall be
+(i) Cryphonectria parasitica (Murrill) Barr: - propagating material and fruit plants of the pre-basic category shall
+be produced in areas established by the Directorate as being free from Cryphonectria parasitica (Murrill) Barr in accordance with relevant international standards for phytosanitary measures; or - no symptoms of Cryphonectria parasitica (Murrill) Barr shall be
 observed at the production site on propagating material and fruit plants of the pre-basic category over the last complete cycle of vegetation.
 (ii) Phytophthora ramorum (EU isolates) Werres, De Cock & Man in 't Veld: - propagating material and fruit plants of the pre-basic category shall
 be produced in areas established by the Directorate as being free from Phytophthora ramorum (EU isolates) Werres, De Cock & Man in 't Veld in accordance with relevant international standards for phytosanitary measures; or - no symptoms of Phytophthora ramorum (EU isolates) Werres, De
@@ -607,7 +711,8 @@ standards for phytosanitary measures; or
 - no symptoms of Phytophthora ramorum (EU
 isolates) Werres, De Cock & Man in 't Veld shall be observed on propagating material and fruit plants of the certified and CAC categories at the production site over the last complete cycle of vegetation; or
 - propagating material and fruit plants of the
-certified and CAC categories showing symptoms of Phytophthora ramorum (EU isolates) Werres, De Cock & Man in 't Veld at the production site and all plants within a 2m radius of the symptomatic propagating material and fruit plants, shall be rogued out and destroyed, including adhering soil; and
+certified and CAC categories showing symptoms of Phytophthora ramorum (EU isolates) Werres, De Cock & Man in 't Veld at the production site and all plants within a 2m radius of the symptomatic propagating material and fruit plants, shall be rogued out and destroyed, including adhering
+soil; and
 - for all plants located within a 10m radius of
 symptomatic propagating material and fruit plants and any remaining propagating material and fruit plants from the affected lot:
 - within three months following the detection
@@ -628,8 +733,7 @@ the production site:
 (a) Pre-basic category
 Visual inspection
 Visual inspections shall be carried out twice a year.
-Sampling and testing
-Each pre-basic mother plant shall be sampled and tested every year concerning the presence of Spiroplasma citri Saglio et al. Each pre-basic mother plant shall be sampled and tested three years after its acceptance as a pre-basic mother plant and with subsequent intervals of three years concerning the presence of Citrus tristeza virus (EU isolates).
+Sampling and testing Each pre-basic mother plant shall be sampled and tested every year concerning the presence of Spiroplasma citri Saglio et al. Each pre-basic mother plant shall be sampled and tested three years after its acceptance as a pre-basic mother plant and with subsequent intervals of three years concerning the presence of Citrus tristeza virus (EU isolates).
 Each pre-basic mother plant shall be sampled and tested six years after its acceptance as a pre-basic mother plant and with subsequent intervals of six years concerning the presence of RNQPs, other than Citrus tristeza virus (EU isolates) and Spiroplasma citri Saglio et al., listed in Schedule B, and in the case of doubts concerning the presence of RNQPs listed in Schedule A.
 (b) Basic category
 Visual inspection
@@ -662,7 +766,8 @@ Propagating material and fruit plants of the CAC category shall derive from an i
 In the case the identified source of material has been maintained in insect proof facilities, a representative portion of that material shall be sampled and tested every eight years concerning the presence of Citrus tristeza virus (EU isolates).
 In the case the identified source of material has not been maintained in insect-proof facilities, a representative portion of that material shall be sampled and tested every three years concerning the presence of Citrus tristeza virus (EU isolates).
 Requirements with regard to the production site, place of production or area
-(i) propagating material and fruit plants of the CAC category shall be produced in areas known to be free from Citrus tristeza virus (EU isolates), Spiroplasma citri Saglio et al. and Plenodomus tracheiphilus (Petri) Gruyter, Aveskamp & Verkley; or
+(i) propagating material and fruit plants of the CAC category shall be produced in areas known to be free from Citrus tristeza virus (EU isolates), Spiroplasma citri Saglio et al. and Plenodomus tracheiphilus
+(Petri) Gruyter, Aveskamp & Verkley; or
 (ii) in the case of propagating material and fruit plants of the
 CAC category which have been grown in insect proof facilities, no symptoms of Spiroplasma citri Saglio et al. or Plenodomus tracheiphilus (Petri) Gruyter, Aveskamp & Verkley are observed on that propagating material and those fruit plants over the last complete growing season and the material has been subjected to random sampling and testing for Citrus tristeza virus (EU isolates) before marketing; or
 (iii) in the case of propagating material and fruit plants of the
@@ -677,8 +782,8 @@ plants of the CAC category has been sampled and tested for Citrus tristeza virus
 3. Corylus avellana L.
 All categories
 Visual inspection
-Visual inspections shall be carried out once a year.
-Sampling and testing Sampling and testing shall be carried out in the case of doubts concerning the presence of the RNQPs listed in Schedules A and B.
+Visual inspections shall be carried out once a year. Sampling and testing
+Sampling and testing shall be carried out in the case of doubts concerning the presence of the RNQPs listed in Schedules A and B.
 4. Cydonia oblonga Mill.
 (a) All categories
 Visual inspection
@@ -814,10 +919,8 @@ Rhizoctonia fragariae Hussain & W.E.McKeen;
 - 2% in the case of:
 Verticillium albo-atrum Reinke & Berthold;
 Verticillium dahliae Kleb; and that propagating material and those fruit plants, and any surrounding host plants have been rogued out and destroyed; and
-- In the case of a positive test result for propagating
-material and fruit plants of the certified category showing symptoms of Arabis mosaic virus, Raspberry ringspot virus, Strawberry crinkle virus, Strawberry latent ringspot virus, Strawberry mild yellow edge virus, Strawberry vein banding virus, and Tomato black ring virus, the propagating material and fruit plants concerned shall be rogued out and immediately destroyed.
-(iv) Requirements for all viruses
-Symptoms of all viruses listed in Schedules A and B have been observed on no more than 2% of propagating material and fruit plants of the certified category in the production site over the last complete growing season, and that propagating material and those fruit plants and any symptomatic plants in the immediate vicinity have been rogued out and immediately destroyed.
+- In the case of a positive test result for propagating material and fruit plants of the certified category showing symptoms of Arabis mosaic virus, Raspberry ringspot virus, Strawberry crinkle virus, Strawberry latent ringspot virus, Strawberry mild yellow edge virus, Strawberry vein banding virus, and Tomato black ring virus, the propagating material and fruit plants concerned shall be rogued out and immediately destroyed.
+(iv) Requirements for all viruses Symptoms of all viruses listed in Schedules A and B have been observed on no more than 2% of propagating material and fruit plants of the certified category in the production site over the last complete growing season, and that propagating material and those fruit plants and any symptomatic plants in the immediate vicinity have been rogued out and immediately destroyed.
 (e) CAC category
 Sampling and testing
 A representative sample of roots shall be sampled and tested in the case of symptoms of Phytophthora fragariae C.J. Hickman on the foliage. Sampling and testing shall be carried out if the symptoms of Arabis mosaic virus, Raspberry ringspot virus, Strawberry crinkle virus, Strawberry latent ringspot virus, Strawberry mild yellow edge virus, Strawberry vein banding virus, and Tomato black ring virus are unclear upon visual inspection. Sampling and testing shall be carried out in the case of doubts concerning the presence of RNQPs, other than Arabis mosaic virus, Phytophthora fragariae C.J. Hickman, Raspberry ringspot virus, Strawberry crinkle virus, Strawberry latent ringspot virus, Strawberry mild yellow edge virus, Strawberry vein banding virus, and Tomato black ring virus, listed in Schedules A and B.
@@ -831,8 +934,10 @@ observed on the foliage of propagating material and fruit plants of the CAC cate
 - propagating material and fruit plants of the CAC category
 shall be produced in areas known to be free from Xanthomonas fragariae Kennedy & King; or
 - no symptoms of Xanthomonas fragariae Kennedy & King
-are observed on propagating material and fruit plants of the CAC category in the production site over the last complete growing season, and any symptomatic plants in the immediate vicinity have been rogued out; or
-- symptoms of Xanthomonas fragariae Kennedy & King have been observed on no more than 5% of propagating material and fruit plants of the CAC category in the production site over the last complete growing season, and that propagating material and those fruit plants, and any symptomatic plants in the immediate vicinity
+are observed on propagating material and fruit plants of the CAC category in the production site over the last complete growing
+season, and any symptomatic plants in the immediate vicinity have been rogued out; or
+- symptoms of Xanthomonas fragariae Kennedy & King
+have been observed on no more than 5% of propagating material and fruit plants of the CAC category in the production site over the last complete growing season, and that propagating material and those fruit plants, and any symptomatic plants in the immediate vicinity
 have been rogued out and immediately destroyed.
 (ii) Requirements for viruses:
 In the case of a positive test result for propagating material and fruit
@@ -860,71 +965,101 @@ Visual inspection
 Visual inspections shall be carried out once a year.
 (b) Pre-basic category
 Sampling and testing
-Each pre-basic mother plant shall be sampled and tested fifteen years after its acceptance as a pre-basic mother plant and with subsequent intervals of fifteen years concerning the presence of RNQPs other than virus-like diseases and viroids listed in Schedule B, and in the case of doubts concerning the presence of RNQPs listed in Schedule A.
-Requirements with regards to the production site, place of production or area
-In the case where a derogation is allowed to produce pre-basic material in the field under non-insect proof conditions, pursuant to Commission Implementing Decision (EU) 2017/925, the following requirements shall apply concerning Candidatus Phytoplasma mali Seemüller & Schneider and Erwinia amylovora (Burrill) Winslow et al.:
-(i) Candidatus Phytoplasma mali Seemüller & Schneider
-- propagating material and fruit plants of the pre-basic
-category shall be produced in areas known to be free from
-Candidatus Phytoplasma mali Seemüller & Schneider; or
-- no symptoms of Candidatus Phytoplasma mali Seemüller
-& Schneider are observed on propagating material and fruit plants of the pre-basic category in the production site over the last complete growing season, and any symptomatic plants in the immediate vicinity have been rogued out and immediately destroyed;
-(ii) Erwinia amylovora (Burrill) Winslow et al.
-- propagating material and fruit plants of the pre-basic
-category shall be produced in areas known to be free from Erwinia amylovora (Burrill) Winslow et al.; or
-- propagating material and fruit plants of the pre-basic
-category in the production site have been inspected over the last complete growing season, and any propagating material and fruit plants showing symptoms of Erwinia amylovora (Burrill) Winslow et al. and any surrounding host plants have been immediately rogued out and destroyed.
-(c) Basic category
-Requirements with regards to the production site, place of production or area
-(i) Candidatus Phytoplasma mali Seemüller & Schneider
-- propagating material and fruit plants of the basic category shall be
-produced in areas known to be free from Candidatus Phytoplasma mali Seemüller & Schneider; or
-- no symptoms of Candidatus Phytoplasma mali Seemüller & Schneider
-shall be observed on propagating material and fruit plants of the basic category at the production site over the last complete growing season, and any symptomatic plants in the immediate vicinity shall be rogued out and immediately destroyed;
-(ii) Erwinia amylovora (Burrill) Winslow et al.
-- propagating material and fruit plants of the basic category shall be
-produced in areas known to be free from Erwinia amylovora (Burrill) Winslow et al.; or
-- propagating material and fruit plants of the basic category in the
-production site shall be inspected over the last complete growing season and any propagating material and fruit plants showing symptoms of Erwinia amylovora (Burrill) Winslow et al. and any surrounding host
-plants shall be immediately rogued out and destroyed.
-Sampling and testing
-In the case of basic mother plants, which have been maintained in insect proof facilities, a representative portion of basic mother plants shall be sampled and tested every fifteen years concerning the presence of Candidatus Phytoplasma mali Seemüller & Schneider.
-In the case of basic mother plants, which have been not maintained in insect proof facilities, a representative portion of basic mother plants shall be sampled and tested every three years concerning the presence of Candidatus Phytoplasma mali Seemüller & Schneider; a representative portion of basic mother plants shall be sampled and tested every fifteen years on the basis of an assessment of the risk of infection of those plants concerning the presence of RNQPs, other than Candidatus Phytoplasma mali Seemüller & Schneider and other than the virus-like diseases and viroids, listed in Schedule B, and in the case of doubts concerning the presence of RNQPs listed in Schedule A.
-(d) Certified category
-Requirements with regards to the production site, place of production or area
-(i) Candidatus Phytoplasma mali Seemüller & Schneider
-- propagating material and fruit plants of the certified category shall be
-produced in areas known to be free from Candidatus Phytoplasma mali Seemüller & Schneider; or
-- no symptoms of Candidatus Phytoplasma mali Seemüller & Schneider
-shall be observed on propagating material and fruit plants of the certified category at the production site over the last complete growing season, and any symptomatic plants in the immediate vicinity shall be rogued out and immediately destroyed; or
-- symptoms of Candidatus Phytoplasma mali Seemüller & Schneider shall
-be observed on not more than 2 % of propagating material and fruit plants of the certified category at the production site over the last complete growing season, and that propagating material and those fruit plants, and any symptomatic plants in the immediate vicinity shall be rogued out and immediately destroyed, and a representative sample of the remaining asymptomatic propagating material and fruit plants in the lots in which symptomatic propagating material and fruit plants were found has been tested and found free from Candidatus Phytoplasma mali Seemüller & Schneider;
-(ii) Erwinia amylovora (Burrill) Winslow et al.
-- propagating material and fruit plants of the certified category shall be
-produced in areas known to be free from Erwinia amylovora (Burrill) Winslow et al.; or
-- propagating material and fruit plants of the certified category in the
-production site shall be inspected over the last complete growing season, and any propagating material and fruit plants showing symptoms of Erwinia amylovora (Burrill) Winslow et al. and any surrounding host plants shall be immediately rogued out and destroyed.
-Sampling and testing
-In the case of certified mother plants, which have been maintained in insect proof facilities, a representative portion of certified mother plants shall be sampled and tested every fifteen years concerning the presence of Candidatus Phytoplasma mali Seemüller & Schneider.
-In the case of certified mother plants which have not been maintained in insect proof facilities, a representative portion of certified mother plants shall be sampled and tested every five years concerning the presence of Candidatus Phytoplasma mali Seemüller & Schneider; a representative portion of certified mother plants shall be sampled and tested every fifteen years on the basis of an assessment of the risk of infection of those plants concerning the presence of RNQPs, other than Candidatus Phytoplasma mali Seemüller & Schneider and other than virus-like diseases and viroids, listed in Schedule B, and in the case of doubts concerning the presence of RNQPs listed in Schedule A.
-Certified fruit plants shall be sampled and tested in case of doubts concerning the presence of RNQPs listed in Schedules A and B.
-(e) Repealed by Legal Notice 152 of 2023.
-(f) CAC category
-Sampling and testing
-Sampling and testing shall be carried out in the case of doubts concerning the presence of RNQPs listed in Schedules A and B.
-Requirements with regards to the production site, place of production or area
-(i) Candidatus Phytoplasma mali Seemüller & Schneider
-- propagating material and fruit plants of the CAC category
-shall be produced in areas known to be free from Candidatus Phytoplasma mali Seemüller & Schneider or
-- no symptoms of Candidatus Phytoplasma mali Seemüller
-& Schneider are observed on propagating material and fruit plants of the CAC category in the production site over the last complete growing season, and any symptomatic plants in the immediate vicinity have been rogued out and immediately destroyed; or
-- symptoms of Candidatus Phytoplasma mali Seemüller &
-Schneider have been observed on no more than 2% of propagating material and fruit plants of the CAC category in the production site over the last complete growing season, and any symptomatic plants in the immediate vicinity have been rogued out and immediately destroyed, and a representative sample of the remaining asymptomatic propagating material and fruit plants in the lots in which symptomatic propagating material and fruit plants were found has been tested and found free from Candidatus Phytoplasma mali Seemüller & Schneider;
-(ii) Erwinia amylovora (Burrill) Winslow et al.
-- propagating material and fruit plants of the CAC category
+Each pre-basic mother plant shall be sampled and tested 15 years after its acceptance as a pre-basic mother plant and with subsequent intervals of 15 years concerning the presence of RNQPs other than virus-like diseases and viroids listed in Schedule B, and in the case of doubts concerning the presence of RNQPs listed in Schedule A.
+Requirements with regard to the production site, place of production or area
+In the case where a derogation is allowed to produce pre-basic material in the field, under non-insect-proof conditions, pursuant to Commission Implementing Decision (EU) 2017/925, the following requirements shall apply concerning Candidatus Phytoplasma mali Seemüller & Schneider, Erwinia amylovora (Burrill) Winslow et al., and Tomato ringspot virus:
+i. Candidatus Phytoplasma mali Seemüller & Schneider:
+- propagating material and fruit plants of the pre-basic category
+shall be produced in areas known to be free from Candidatus Phytoplasma mali Seemüller & Schneider; or
+- no symptoms of Candidatus Phytoplasma mali Seemüller &
+Schneider are observed on propagating material and fruit plants of the pre-basic category in the production site over the last complete growing season, and any symptomatic plants in the immediate vicinity have been rogued out and immediately destroyed;
+ii. Erwinia amylovora (Burrill) Winslow et al.:
+- propagating material and fruit plants of the pre-basic category
 shall be produced in areas known to be free from Erwinia amylovora (Burrill) Winslow et al.; or
-- propagating material and fruit plants of the CAC category
-in the production site have been inspected over the last complete growing season, and any propagating material and fruit plants showing symptoms of Erwinia amylovora (Burrill) Winslow et al. and any surrounding host plants have been immediately rogued out and destroyed.
+- propagating material and fruit plants of the pre-basic category in
+the production site have been inspected over the last complete growing season, and any propagating material and fruit plants showing symptoms of Erwinia amylovora (Burrill) Winslow et al. and any surrounding host plants have been immediately rogued out and destroyed;
+iii. Tomato ringspot virus (ToRSV):
+- propagating material and fruit plants of the pre-basic category
+shall be produced in areas known to be free from ToRSV; or
+- no symptoms of ToRSV are observed on propagating material
+and fruit plants of the pre-basic category in the production site over the last complete growing season, and any symptomatic plants in the immediate vicinity have been immediately rogued out and destroyed.
+(c) Basic category
+Sampling and testing
+In the case of basic mother plants, which have been maintained in
+insect-proof facilities, a representative portion of basic mother plants shall be sampled and tested every 15 years concerning the presence of Candidatus Phytoplasma mali Seemüller & Schneider.
+In the case of basic mother plants, which have not been maintained in
+insect-proof facilities, a representative portion of basic mother plants shall be sampled and tested every 3 years concerning the presence of Candidatus Phytoplasma mali Seemüller & Schneider; a representative portion of basic mother plants shall be sampled and tested every 15 years on the basis of an assessment of the risk of infection of those plants concerning the presence of RNQPs, other than Candidatus Phytoplasma mali Seemüller & Schneider and other than Tomato ringspot virus, the virus-like diseases and viroids, listed in Schedule B, and in the case of doubts concerning the presence of RNQPs listed in Schedule A.
+Basic mother plants shall be sampled and tested every 20 years concerning the presence of Tomato ringspot virus.
+Requirements with regard to the production site, place of production or area
+i. Candidatus Phytoplasma mali Seemüller & Schneider:
+- propagating material and fruit plants of the basic category shall be
+produced in areas known to be free from Candidatus Phytoplasma mali Seemüller & Schneider; or
+- no symptoms of Candidatus Phytoplasma mali Seemüller &
+Schneider shall be observed on propagating material and fruit plants of the basic category at the production site over the last complete growing season, and any symptomatic plants in the immediate vicinity shall be rogued out and immediately destroyed;
+ii. Erwinia amylovora (Burrill) Winslow et al.:
+- propagating material and fruit plants of the basic category
+shall be produced in areas known to be free from Erwinia amylovora (Burrill) Winslow et al.; or
+- propagating material and fruit plants of the basic category
+in the production site shall be inspected over the last complete growing season, and any propagating material and fruit plants showing symptoms of Erwinia amylovora (Burrill) Winslow et al. and any surrounding host plants shall be immediately rogued out and destroyed;
+iii. Tomato ringspot virus (ToRSV):
+- propagating material and fruit plants of the basic category
+shall be produced in areas known to be free from ToRSV; or
+- no symptoms of ToRSV are observed on propagating material
+and fruit plants of the basic category in the production site over the last complete growing season, and any symptomatic plants in the immediate
+vicinity have been immediately rogued out and destroyed.
+(d) Certified category
+Sampling and testing
+In the case of certified mother plants, which have been maintained in insect-proof facilities, a representative portion of certified mother plants shall be sampled and tested every 15 years concerning the presence of Candidatus Phytoplasma mali Seemüller & Schneider.
+In the case of certified mother plants, which have not been maintained in insect-proof facilities, a representative portion of certified mother plants shall be sampled and tested every 5 years concerning the presence of Candidatus Phytoplasma mali Seemüller & Schneider; a representative portion of certified mother plants shall be sampled and tested every 15 years on the basis of an assessment of the risk of infection of those plants concerning the presence of RNQPs, other than Candidatus Phytoplasma mali Seemüller & Schneider and other than Tomato ringspot virus, the virus-like diseases and viroids, listed in Schedule B, and in the case of doubts concerning the presence of RNQPs listed in Schedule A.
+Certified mother plants shall be sampled and tested every 20 years concerning the presence of Tomato ringspot virus.
+Certified fruit plants shall be sampled and tested in case of doubts concerning the presence of RNQPs listed in Schedules A and B.
+Requirements with regard to the production site, place of production or area
+i. Candidatus Phytoplasma mali Seemüller & Schneider:
+- propagating material and fruit plants of the certified category
+shall be produced in areas known to be free from Candidatus Phytoplasma mali Seemüller & Schneider; or
+- no symptoms of Candidatus Phytoplasma mali Seemüller &
+Schneider shall be observed on propagating material and fruit plants of the certified category at the production site over the last complete growing season, and any symptomatic plants in the immediate vicinity
+shall be rogued out and immediately destroyed; or
+- symptoms of Candidatus Phytoplasma mali Seemüller &
+Schneider shall be observed on no more than 2% of propagating material and fruit plants of the certified category at the production site over the last complete growing season, and that propagating material and those fruit plants, and any symptomatic plants in the immediate vicinity shall be rogued out and immediately destroyed, and a representative sample of the remaining asymptomatic propagating material and fruit plants in the lots in which symptomatic propagating material and fruit plants were found has been tested and found free from
+Candidatus Phytoplasma mali Seemüller & Schneider;
+ii. Erwinia amylovora (Burrill) Winslow et al.:
+- propagating material and fruit plants of the certified category
+shall be produced in areas known to be free from Erwinia amylovora (Burrill) Winslow et al.; or
+- propagating material and fruit plants of the certified category in
+the production site shall be inspected over the last complete growing season, and any propagating material and fruit plants showing symptoms of Erwinia amylovora (Burrill) Winslow et al. and any surrounding host
+plants shall be immediately rogued out and destroyed;
+iii. Tomato ringspot virus (ToRSV):
+- propagating material and fruit plants of the certified category
+shall be produced in areas known to be free from ToRSV; or
+- no symptoms of ToRSV are observed on propagating material
+and fruit plants of the certified category in the production site over the last complete growing season, and any symptomatic plants in the immediate
+vicinity have been immediately rogued out and destroyed.
+(e) CAC category
+Sampling and testing Sampling and testing shall be carried out in the case of doubts concerning
+the presence of RNQPs listed in Schedules A and B.
+Requirements with regard to the production site, place of production or area
+i. Candidatus Phytoplasma mali Seemüller & Schneider:
+- propagating material and fruit plants of the CAC category shall
+be produced in areas known to be free from Candidatus Phytoplasma mali Seemüller & Schneider; or
+- no symptoms of Candidatus Phytoplasma mali Seemüller &
+Schneider are observed on propagating material and fruit plants of the CAC category in the production site over the last complete growing season, and any symptomatic plants in the immediate vicinity have been rogued out and immediately destroyed; or
+- symptoms of Candidatus Phytoplasma mali Seemüller &
+Schneider have been observed on no more than 2 % of propagating material and fruit plants of the CAC category in the production site over the last complete growing season, and any symptomatic plants in the immediate vicinity have been rogued out and immediately destroyed, and a representative sample of the remaining asymptomatic propagating material and fruit plants in the lots in which symptomatic propagating material and fruit plants were found has been tested and found free from Candidatus Phytoplasma mali Seemüller & Schneider;
+ii. Erwinia amylovora (Burrill) Winslow et al.:
+- propagating material and fruit plants of the CAC category shall
+be produced in areas known to be free from Erwinia amylovora (Burrill) Winslow et al.; or
+- propagating material and fruit plants of the CAC category in the
+production site have been inspected over the last complete growing season, and any propagating material and fruit plants showing symptoms of Erwinia amylovora (Burrill) Winslow et al. and any surrounding host
+plants have been immediately rogued out and destroyed;
+iii. Tomato ringspot virus (ToRSV):
+- propagating material and fruit plants of the CAC category shall
+be produced in areas known to be free from ToRSV; or
+- no symptoms of ToRSV are observed on propagating material
+and fruit plants of the CAC category in the production site over the last complete growing season, and any symptomatic plants in the immediate
+vicinity have been immediately rogued out and destroyed; or
+- symptoms of ToRSV have been observed on no more than
+2% of propagating material and fruit plants of the CAC category in the production site over the last complete growing season, and those symptomatic plants have been immediately rogued out and destroyed.
 9. Olea europaea L.
 (a) All categories
 Visual inspection
@@ -942,139 +1077,188 @@ In the case of mother plants used for the production of seeds ("seed mother plan
 Sampling and testing
 Sampling and testing shall be carried out in the case of doubts concerning the presence of the RNQPs listed in Schedules A and B.
 10. Pistacia vera L.
-All categories
-Visual inspection
+All categories Visual inspection
 Visual inspections shall be carried out once a year.
-Sampling and testing Sampling and testing shall be carried out in the case of doubts concerning the presence of the RNQPs listed in Schedule A.
+Sampling and testing
+Sampling and testing shall be carried out in the case of doubts concerning the presence of the RNQPs listed in Schedule A.
 11. Prunus armeniaca L., Prunus avium L., Prunus cerasifera Ehrh., Prunus cerasus L., Prunus domestica L., Prunus dulcis (Miller) Webb, Prunus persica (L.) Batsch and Prunus salicina Lindley
 (a) Pre-basic category
 Visual inspection
-Visual inspections shall be carried out twice a year with regard to Candidatus Phytoplasma prunorum Seemüller & Schneider, Plum pox virus, Xanthomonas arboricola pv. pruni (Smith) Vauterin et al. and Pseudomonas syringae pv. persicae (Prunier, Luisetti &. Gardan) Young, Dye & Wilkie (Prunus persica (L.) Batsch and Prunus salicina Lindley). Visual inspections shall be carried out once a year for all RNQPs, other than Candidatus Phytoplasma prunorum Seemüller & Schneider, Plum pox virus, Xanthomonas arboricola pv. pruni (Smith) Vauterin et al. and Pseudomonas syringae pv. persicae (Prunier, Luisetti &. Gardan) Young, Dye & Wilkie , listed in Schedules A and B.
+Visual inspections shall be carried out twice a year with regard to
+Candidatus Phytoplasma prunorum Seemüller & Schneider, Plum pox virus, Xanthomonas arboricola pv. pruni (Smith) Vauterin et al. and Pseudomonas syringae pv. persicae (Prunier, Luisetti &. Gardan) Young, Dye & Wilkie (Prunus persica (L.) Batsch and Prunus salicina Lindley). Visual inspections shall be carried out once a year for all RNQPs, other than Candidatus Phytoplasma prunorum Seemüller & Schneider, Plum pox virus, Xanthomonas arboricola pv. pruni (Smith) Vauterin et al. and Pseudomonas syringae pv. persicae (Prunier, Luisetti &. Gardan) Young, Dye & Wilkie, listed in Schedules A and B.
 Sampling and testing
-Propagating material and fruit plants of the pre-basic category of Prunus armeniaca L., Prunus avium L., Prunus cerasus L., Prunus domestica L., and Prunus dulcis (Miller) Webb, shall derive from mother plants, which have been tested within the previous growing season and found free from Plum pox virus.
-Pre-basic rootstocks of Prunus cerasifera Ehrh. and Prunus domestica L. shall derive from mother plants, which have been tested within the previous growing season and found free from Plum pox virus. Pre-basic rootstocks of Prunus cerasifera Ehrh. and Prunus domestica L. shall derive from mother plants, which have been tested within the previous five growing seasons and found free from Candidatus Phytoplasma prunorum Seemüller & Schneider.
-Each flowering pre-basic mother plant shall be sampled and tested for Prune dwarf virus and Prunus necrotic ringspot virus one year after its acceptance as a pre-basic mother plant and with subsequent intervals of one year. In the case of Prunus persica, each flowering pre-basic mother plant shall be sampled one year after its acceptance as a pre-basic mother plant and tested for Peach latent mosaic viroid. Each tree planted intentionally for pollination and, where appropriate, the major pollinating trees in the environment shall be sampled and tested for Prune dwarf virus and Prunus necrotic ringspot virus.
-Each pre-basic mother plant shall be sampled five years after its acceptance as a pre-basic mother plant, and with subsequent intervals of five years, and tested for Candidatus Phytoplasma prunorum Seemüller & Schneider and Plum pox virus. Each pre-basic mother plant shall be sampled ten years after its acceptance as a pre-basic mother plant, and with subsequent intervals of ten years, and tested for RNQPs, other than Prune dwarf virus, Plum pox virus and Prunus necrotic ringspot virus, relevant for the species, as listed in Schedule B, and tested in the case of doubts concerning the presence of RNQPs listed in Schedule A. A representative portion of pre-basic mother plants shall be sampled and tested in the case of doubts concerning the presence of Xanthomonas arboricola pv. pruni (Smith) Vauterin et al.
-Requirements with regards to the production site, place of production or area
-In the case where a derogation is allowed to produce pre-basic material in the field under non-insect proof conditions, pursuant to Commission Implementing Decision (EU) 2017/925, the following requirements shall apply concerning Candidatus Phytoplasma prunorum Seemüller & Schneider, Plum pox virus, Xanthomonas arboricola pv. pruni (Smith) Vauterin et al. and Pseudomonas syringae pv. persicae (Prunier, Luisetti &. Gardan) Young, Dye & Wilkie :
-(i) Candidatus Phytoplasma prunorum Seemüller & Schneider
-- propagating material and fruit plants of the pre-basic
-category shall be produced in areas known to be free from Candidatus Phytoplasma prunorum Seemüller & Schneider; or
-- no symptoms of Candidatus Phytoplasma prunorum
-Seemüller & Schneider are observed on propagating material and fruit plants of the pre-basic category in the production site over the last complete growing season, and any symptomatic plants in the immediate vicinity have been rogued out and immediately destroyed; or
-- propagating material and fruit plants of the pre-basic
-category in the production site shall be isolated from other host plants. The isolation distance of the production site shall depend on regional circumstances, the type of propagating material, the presence of Candidatus Phytoplasma prunorum Seemüller & Schneider in the area concerned and the relevant risks involved as set out by the competent authorities based on inspection;
-(ii) Plum pox virus
-- propagating material and fruit plants of the pre-basic
-category shall be produced in areas known to be free from Plum pox virus; or
-- no symptoms of Plum pox virus are observed on
-propagating material and fruit plants of the pre-basic category in the production site over the last complete growing season, and any symptomatic plants in the immediate vicinity have been rogued out and immediately destroyed; or
-- propagating material and fruit plants of the pre-basic
-category in the production site shall be isolated from other host plants. The isolation distance of the production site shall depend on regional circumstances, the type of propagating material, the presence of Plum pox virus in the area concerned and the relevant risks involved as set out by the competent authorities based on inspection;
-(iii) Pseudomonas syringae pv. persicae (Prunier, Luisetti &. Gardan) Young, Dye & Wilkie
-- propagating material and fruit plants of the pre-basic
-category shall be produced in areas known to be free from Pseudomonas syringae pv. persicae (Prunier, Luisetti &. Gardan) Young, Dye & Wilkie; or
-- no symptoms of Pseudomonas syringae pv. persicae
-(Prunier, Luisetti &. Gardan) Young, Dye & Wilkie are observed on propagating material and fruit plants of the pre-basic category in the production site over the last complete growing season, and any symptomatic plants in the immediate vicinity have been rogued out and immediately destroyed;
-(iv) Xanthomonas arboricola pv. pruni (Smith) Vauterin et al.
-- propagating material and fruit plants of the pre-basic
-category shall be produced in areas known to be free from Xanthomonas arboricola pv. pruni (Smith) Vauterin et al.; or
-- no symptoms of Xanthomonas arboricola pv. pruni
-(Smith) Vauterin et al. are observed on propagating material and fruit plants of the pre-basic category in the production site over the last complete growing season, and any symptomatic plants in the immediate vicinity have been rogued out and immediately destroyed.
-(b) Basic, certified and CAC categories
+Propagating material and fruit plants of the pre-basic category of
+Prunus armeniaca L., Prunus avium L., Prunus cerasus L., Prunus domestica L., and Prunus dulcis (Miller) Webb, shall derive from mother plants, which have been tested within the previous growing season and found free from Plum pox virus.
+Pre-basic rootstocks of Prunus cerasifera Ehrh. and Prunus
+domestica L. shall derive from mother plants, which have been tested within the previous growing season and found free from Plum pox virus. Pre-basic rootstocks of Prunus cerasifera Ehrh. and Prunus domestica L. shall derive from mother plants, which have been tested within the previous 5 growing seasons and found free from Candidatus Phytoplasma prunorum Seemüller & Schneider.
+Each flowering pre-basic mother plant shall be sampled and
+tested for Prune dwarf virus and Prunus necrotic ringspot virus 1 year after its acceptance as a pre-basic mother plant and with subsequent intervals of 1 year. In the case of Prunus persica, each flowering pre-basic mother plant shall be sampled 1 year after its acceptance as a pre-
+basic mother plant and tested for Peach latent mosaic viroid.
+Each tree planted intentionally for pollination and, where appropriate, the major pollinating trees in the environment shall be sampled and tested for Prune dwarf virus and Prunus necrotic ringspot virus.
+Each pre-basic mother plant shall be sampled 5 years after its acceptance as
+a pre-basic mother plant, and with subsequent intervals of 5 years, and tested for Candidatus Phytoplasma prunorum Seemüller & Schneider and Plum pox virus.
+Each pre-basic mother plant shall be sampled 10 years after its acceptance
+as a pre-basic mother plant, and with subsequent intervals of 10 years, and tested for RNQPs, other than Prune dwarf virus, Plum pox virus, Prunus necrotic ringspot virus and relevant for the species, as listed in Schedule B, and tested in the case of doubts concerning the presence of RNQPs listed in Schedule A. A representative portion of pre-basic mother plants shall be sampled and tested in the case of doubts concerning the presence of Xanthomonas arboricola pv. pruni (Smith) Vauterin et al.
+Requirements with regard to the production site, place of production or area
+In the case where a derogation is allowed to produce pre-basic material in the field under non- insect-proof conditions, pursuant to Commission Implementing Decision (EU) 2017/ 925, the following requirements shall apply concerning Candidatus Phytoplasma prunorum Seemüller & Schneider, Plum pox virus, Xanthomonas arboricola pv. pruni (Smith) Vauterin et al., Pseudomonas syringae pv. persicae (Prunier, Luisetti &. Gardan) Young, Dye & Wilkie and Tomato ringspot virus:
+i. Candidatus Phytoplasma prunorum Seemüller & Schneider:
+- propagating material and fruit plants of the pre-basic category shall be
+produced in areas known to be free from Candidatus Phytoplasma prunorum Seemüller & Schneider; or
+- no symptoms of Candidatus Phytoplasma prunorum Seemüller &
+Schneider are observed on propagating material and fruit plants of the pre-basic category in the production site over the last complete growing season, and any symptomatic plants in the immediate vicinity have been rogued out and immediately destroyed; or
+- propagating material and fruit plants of the pre-basic category in the
+production site shall be isolated from other host plants. The isolation distance of the production site shall depend on regional circumstances, the type of propagating material, the presence of Candidatus Phytoplasma prunorum Seemüller & Schneider in the area concerned and the relevant risks involved as
+set out by the competent authorities based on inspection;
+ii. Plum pox virus:
+- propagating material and fruit plants of the pre-basic category
+shall be produced in areas known to be free from Plum pox virus; or
+- no symptoms of Plum pox virus are observed on propagating
+material and fruit plants of the pre-basic category in the production site over the last complete growing season, and any symptomatic plants in
+the immediate vicinity have been rogued out and immediately destroyed; or
+- propagating material and fruit plants of the pre-basic category in
+the production site shall be isolated from other host plants. The isolation distance of the production site shall depend on regional circumstances, the type of propagating material, the presence of Plum pox virus in the area concerned and the relevant risks involved as set out by the competent authorities based on inspection;
+iii. Pseudomonas syringae pv. persicae (Prunier, Luisetti &. Gardan) Young, Dye & Wilkie:
+- propagating material and fruit plants of the pre-basic category shall be
+produced in areas known to be free from Pseudomonas syringae pv. persicae (Prunier, Luisetti &. Gardan) Young, Dye & Wilkie; or
+- no symptoms of Pseudomonas syringae pv. persicae (Prunier, Luisetti &.
+Gardan) Young, Dye & Wilkie are observed on propagating material and fruit plants of the pre-basic category in the production site over the last complete growing season, and any symptomatic plants in the immediate vicinity have been rogued out and immediately destroyed;
+iv. Tomato ringspot virus (ToRSV):
+- propagating material and fruit plants of the pre-basic category shall be
+produced in areas known to be free from ToRSV; or
+- no symptoms of ToRSV are observed on propagating material and fruit
+plants of the pre-basic category in the production site over the last complete growing season, and any symptomatic plants in the immediate vicinity have been immediately rogued out and destroyed;
+v. Xanthomonas arboricola pv. pruni (Smith) Vauterin et al.:
+- propagating material and fruit plants of the pre-basic category shall be
+produced in areas known to be free from Xanthomonas arboricola pv. pruni (Smith) Vauterin et al.; or
+- no symptoms of Xanthomonas arboricola pv. pruni (Smith) Vauterin et al.
+are observed on propagating material and fruit plants of the pre-basic category in the production site over the last complete growing season, and any symptomatic plants in the immediate vicinity have been rogued out and immediately destroyed.
+(b) Basic, Certified and CAC categories
 Visual inspection
-Visual inspections shall be carried out once a year.
+Visual inspection shall be carried out once a year.
 (c) Basic category
 Sampling and testing
-(i) Mother plants which have been maintained in insect proof facilities
-A representative portion of basic mother plants shall be sampled every three years and tested concerning the presence of Prune dwarf virus, Prunus necrotic ringspot virus and Plum pox virus. A representative portion of basic mother plants shall be sampled every ten years and tested concerning the presence of Candidatus Phytoplasma prunorum Seemüller & Schneider.
-(ii) Mother plants which have not been maintained in insect proof facilities
-A representative portion of basic mother plants, other than those intended for the production of rootstocks, shall be sampled every year and tested for Plum pox virus in order to have all plants tested within an interval of ten years.
-A representative portion of basic mother plants, intended for the production of rootstocks shall be sampled every year and tested concerning the presence of Plum pox virus and found free from that RNQP. A representative portion of basic mother plants of Prunus domestica L. intended for the production of rootstocks must be sampled and tested in the previous five growing seasons concerning the presence of Candidatus Phytoplasma prunorum Seemüller & Schneider and found free from that RNQP.
-A representative portion of basic mother plants shall be sampled and tested in the case of doubts concerning the presence of Xanthomonas arboricola pv. pruni (Smith) Vauterin et al. A representative portion of basic mother plants shall be sampled and tested every ten years on the basis of an assessment of the risk of infection of those plants concerning the presence of RNQPs, other than Candidatus Phytoplasma prunorum Seemüller & Schneider, Prune dwarf virus, Prunus necrotic ringspot virus and Plum pox virus, listed in Schedule B, and tested in the case of doubts concerning the presence of RNQPs listed in Schedule A.
+i. Mother plants which have been maintained in insect-proof facilities
+A representative portion of basic mother plants shall be sampled every 3
+years and tested concerning the presence of Prune dwarf virus, Prunus necrotic ringspot virus and Plum pox virus. A representative portion of basic mother plants shall be sampled every 10 years and tested concerning the presence of
+Candidatus Phytoplasma prunorum Seemüller & Schneider.
+ii. Mother plants which have not been maintained in insect-proof
+facilities
+A representative portion of basic mother plants, other than those
+intended for the production of rootstocks, shall be sampled every year and tested for Plum pox virus in order to have all plants tested within an interval of 10 years.
+A representative portion of basic mother plants, intended for the production
+of rootstocks shall be sampled every year and tested concerning the presence of Plum pox virus and found free from that RNQP.
+A representative portion of basic mother plants of Prunus domestica L.
+intended for the production of rootstocks must be sampled and tested in the previous 5 growing seasons concerning the presence of Candidatus Phytoplasma
+prunorum Seemüller & Schneider and found free from that RNQP.
+A representative portion of basic mother plants shall be sampled and tested
+in the case of doubts concerning the presence of Xanthomonas arboricola pv. pruni (Smith) Vauterin et al.
+A representative portion of basic mother plants shall be sampled and tested
+every 20 years on the basis of an assessment of the risk of infection of those
+plants concerning the presence of Tomato ringspot virus.
+A representative portion of basic mother plants shall be sampled and tested
+every 10 years on the basis of an assessment of the risk of infection of those plants concerning the presence of RNQPs, other than Candidatus Phytoplasma prunorum Seemüller & Schneider, Prune dwarf virus, Prunus necrotic ringspot virus, Plum pox virus and Tomato ringspot virus, listed in Schedule B, and tested in the case of doubts concerning the presence of RNQPs listed in Schedule A.
 - Flowering mother plants
 A representative portion of flowering basic mother plants shall be sampled every year and tested for Candidatus Phytoplasma prunorum Seemüller & Schneider, Prune dwarf virus and Prunus necrotic ringspot virus on the basis of an assessment of the risk of infection of those plants.
-In the case of Prunus persica (L.) Batsch, a representative portion of flowering basic mother plants shall be sampled once a year and tested for Peach latent mosaic viroid on the basis of an assessment of the risk of infection of those plants. A representative portion of trees planted intentionally for pollination and, where appropriate, the major pollinating trees in the environment shall be sampled and tested Prune dwarf virus and Prunus necrotic ringspot virus on the basis of an assessment of the risk of infection of those plants.
-- Non-flowering mother plants A representative portion of non-flowering basic mother plants which have been not maintained in insect proof facilities shall be sampled and tested every three years concerning the presence of Prune dwarf virus, Prunus necrotic ringspot virus and Candidatus Phytoplasma prunorum Seemüller & Schneider on the basis of an assessment of the risk of infection of those plants.
+In the case of Prunus persica (L.) Batsch, a representative portion of flowering basic mother plants shall be sampled once a year and tested for Peach latent mosaic viroid on the basis of an assessment of the risk of infection of those plants.
+A representative portion of trees planted intentionally for pollination and, where appropriate, the major pollinating trees in the environment shall be sampled and tested for Prune dwarf virus and Prunus necrotic ringspot virus on the basis of an assessment of the risk of infection of those plants.
+- Non-flowering mother plants
+A representative portion of non-flowering basic mother plants which have been not maintained in insect-proof facilities shall be sampled and tested every 3 years concerning the presence of Prune dwarf virus, Prunus necrotic ringspot virus and Candidatus Phytoplasma prunorum Seemüller & Schneider on the basis of an assessment of the risk of infection of those plants.
 (d) Certified category
 Sampling and testing
-(i) Mother plants which have been maintained in insect proof facilities
-A representative portion of certified mother plants shall be sampled every five years and tested concerning the presence of Prune dwarf virus, Prunus necrotic ringspot virus and Plum pox virus in order to have all plants tested within an interval of fifteen years. A representative portion of certified mother plants shall be sampled every fifteen years and tested concerning the presence of Candidatus Phytoplasma prunorum Seemüller & Schneider.
-(ii) Mother plants which have not been maintained in insect proof facilities
-A representative portion of certified mother plants shall be sampled every three years and tested for Plum pox virus in order to have all plants tested within an interval of fifteen years.
-A representative portion of certified mother plants intended for the production of rootstocks shall be sampled every year and tested concerning the presence of Plum pox virus and found free from that RNQP. A representative portion of certified mother plants of Prunus cerasifera Ehrh. and Prunus domestica L. intended for the production of rootstocks have been sampled in the previous five growing seasons and tested concerning the presence of Candidatus Phytoplasma prunorum Seemüller & Schneider and found free from that RNQP.
-A representative portion of certified mother plants shall be sampled and tested in the case of doubts concerning the presence of Xanthomonas arboricola pv. pruni (Smith) Vauterin et al. A representative portion of certified mother plants shall be sampled every fifteen years and tested on the basis of an assessment of the risk of infection of those plants concerning the presence of RNQPs, other than Candidatus Phytoplasma prunorum Seemüller & Schneider, Prune dwarf virus, Prunus necrotic ringspot virus and Plum pox virus, listed in Schedule B, and tested in the case of doubts concerning the presence of RNQPs listed in Schedule A.
+i. Mother plants which have been maintained in insect-proof facilities
+A representative portion of certified mother plants shall be sampled every 5 years and tested concerning the presence of Prune dwarf virus, Prunus necrotic ringspot virus and Plum pox virus in order to have all plants tested within an interval of 15 years. A representative portion of certified mother plants shall be sampled every 15 years and tested concerning the presence of Candidatus Phytoplasma prunorum Seemüller & Schneider.
+ii. Mother plants which have not been maintained in insect-proof
+facilities
+A representative portion of certified mother plants shall be sampled every 3 years and tested for Plum pox virus in order to have all plants tested within an interval of 15 years.
+A representative portion of certified mother plants intended for the production of rootstocks shall be sampled every year and tested concerning the presence of Plum pox virus and found free from that RNQP. A representative portion of certified mother plants of Prunus cerasifera Ehrh. and Prunus domestica L. intended for the production of rootstocks have been sampled in the previous 5 growing seasons and tested concerning the presence of Candidatus Phytoplasma prunorum Seemüller & Schneider and found free from that RNQP.
+A representative portion of certified mother plants shall be sampled and tested in the case of doubts concerning the presence of Xanthomonas arboricola pv. pruni (Smith) Vauterin et al.
+A representative portion of certified mother plants shall be sampled every 20 years and tested on the basis of an assessment of the risk of infection of those plants concerning the presence of Tomato ringspot virus.
+A representative portion of certified mother plants shall be sampled every 15 years and tested on the basis of an assessment of the risk of infection of those plants concerning the presence of RNQPs, other than Candidatus Phytoplasma prunorum Seemüller & Schneider, Prune dwarf virus, Prunus necrotic ringspot virus, Plum pox virus and Tomato ringspot virus, listed in Schedule B of Section IV, and tested in the case of doubts concerning the presence of RNQPs listed in Schedule A.
 - Flowering mother plants
-A representative portion of flowering certified mother plants shall be sampled every year and tested for Candidatus Phytoplasma prunorum Seemüller & Schneider, Prune dwarf virus and Prunus necrotic ringspot virus on the basis of an assessment of the risk of infection of those plants. In the case of Prunus persica (L.) Batsch, a representative portion of flowering certified mother plants shall be sampled once a year and tested for Peach latent mosaic viroid on the basis of an assessment of the risk of infection of those plants. A representative portion of trees planted intentionally for pollination and, where appropriate, the major pollinating trees in the environment shall be sampled and tested for Prune dwarf virus and Prunus necrotic ringspot virus on the basis of an assessment of the risk of infection of those plants.
+A representative portion of flowering certified mother plants shall be sampled every year and tested for Candidatus Phytoplasma prunorum Seemüller & Schneider, Prune dwarf virus and Prunus necrotic ringspot virus on the basis of an assessment of the risk of infection of those plants. In the case of Prunus persica (L.) Batsch, a representative portion of flowering certified mother plants shall be sampled once a year and tested for Peach latent mosaic viroid on the basis of an assessment of the risk of infection of those plants.
+A representative portion of trees planted intentionally for pollination and, where appropriate, the major pollinating trees in the environment shall be sampled and tested for Prune dwarf virus and Prunus necrotic ringspot virus on the basis of an assessment of the risk of infection of those plants.
 - Non-flowering mother plants
-A representative portion of non-flowering certified mother plants, which have not been maintained in insect proof facilities, shall be sampled every three years and tested concerning the presence of Candidatus Phytoplasma prunorum, Prune dwarf virus and Prunus necrotic ringspot virus on the basis of an assessment of the risk of infection of those plants.
+A representative portion of non-flowering certified mother plants, which have not been maintained in insect-proof facilities, shall be sampled every 3 years and tested concerning the presence of Candidatus Phytoplasma prunorum Seemüller & Schneider, Prune dwarf virus and Prunus necrotic ringspot virus on the basis of an assessment of the risk of infection of those plants.
 (e) Basic and certified categories
-Requirements with regards to the production site, place of production or area
-(i) Candidatus Phytoplasma prunorum Seemüller & Schneider
-- propagating material and fruit plants of the basic and
-certified categories shall be produced in areas known to be free from Candidatus Phytoplasma prunorum Seemüller & Schneider; or
-- no symptoms of Candidatus Phytoplasma prunorum
-Seemüller & Schneider are observed on propagating material and fruit plants of the basic and certified categories in the production site over the last complete growing season, and any symptomatic plants in the immediate vicinity have been rogued out and immediately destroyed; or
-- symptoms of Candidatus Phytoplasma prunorum
-Seemüller & Schneider have been observed on no more than 1% of propagating material and fruit plants of the certified category in the production site over the last complete growing season, and that propagating material and those fruit plants, and any symptomatic plants in the immediate vicinity have been rogued out and immediately destroyed, and a representative sample of the remaining asymptomatic propagating material and fruit plants in the lots in which symptomatic plants were found has been tested and found free from Candidatus Phytoplasma prunorum Seemüller & Schneider;
-(ii) Plum pox virus - propagating material and fruit plants of the basic and
-certified categories shall be produced in areas known to be free from Plum pox virus; or
-- no symptoms of Plum pox virus are observed on
-propagating material and fruit plants of the basic and certified categories in the production site over the last complete growing season, and any symptomatic plants in the immediate vicinity have been rogued out and immediately destroyed; or
-- symptoms of Plum pox virus have been observed on no
-more than 1% of propagating material and fruit plants of the certified category in the production site over the last complete growing season, and that propagating material and those fruit plants, and any symptomatic plants in the immediate vicinity have been rogued out and immediately destroyed, and a representative sample of the remaining asymptomatic propagating material and fruit plants in the lots in which symptomatic plants were found has been tested and found free from Plum pox virus;
-(iii) Pseudomonas syringae pv. persicae (Prunier, Luisetti &. Gardan) Young, Dye & Wilkie
-- propagating material and fruit plants of the basic and
-certified categories shall be produced in areas known to be free from Pseudomonas syringae pv. persicae (Prunier, Luisetti &. Gardan) Young, Dye & Wilkie; or
-- no symptoms of Pseudomonas syringae pv. persicae
-(Prunier, Luisetti &. Gardan) Young, Dye & Wilkie are observed on propagating material and fruit plants of the basic and certified categories in the production site over the last complete growing season, and any symptomatic plants in the immediate vicinity have been rogued out and immediately destroyed; or
-- symptoms of Pseudomonas syringae pv. persicae
-(Prunier, Luisetti &. Gardan) Young, Dye & Wilkie have been observed on no more than 2% of propagating material and fruit plants of the certified category in the production site over the last complete growing season, and that propagating material and those fruit plants, and any symptomatic plants in the immediate vicinity have been rogued out and immediately destroyed;
-(iv) Xanthomonas arboricola pv. pruni (Smith) Vauterin et al.
-- propagating material and fruit plants of the basic and
-certified categories shall be produced in areas known to be free from Xanthomonas arboricola pv. pruni (Smith) Vauterin et al.; or
-- no symptoms of Xanthomonas arboricola pv. pruni
-(Smith) Vauterin et al. are observed on propagating material and fruit plants of the basic and certified categories in the production site over the last complete growing season, and any symptomatic plants in the immediate vicinity have been rogued out and immediately destroyed; or
-- symptoms of Xanthomonas arboricola pv. pruni (Smith)
-Vauterin et al. have been observed on no more than 2% of propagating material and fruit plants of the certified category in the production site over the last complete growing season, and that propagating material and those fruit plants, and any symptomatic plants in the immediate vicinity have been rogued out and immediately destroyed.
+Requirements with regard to the production site, place of production or area
+i. Candidatus Phytoplasma prunorum Seemüller & Schneider:
+- propagating material and fruit plants of the basic and certified
+categories shall be produced in areas known to be free from Candidatus Phytoplasma prunorum Seemüller & Schneider; or
+- no symptoms of Candidatus Phytoplasma prunorum Seemüller &
+Schneider are observed on propagating material and fruit plants of the basic and certified categories in the production site over the last complete growing season, and any symptomatic plants in the immediate vicinity have been rogued out and immediately destroyed; or
+- symptoms of Candidatus Phytoplasma prunorum Seemüller &
+Schneider have been observed on no more than 1% of propagating material and fruit plants of the certified category in the production site over the last complete growing season, and that propagating material and those fruit plants, and any symptomatic plants in the immediate vicinity have been rogued out and immediately destroyed, and a representative sample of the remaining asymptomatic propagating material and fruit plants in the lots in which symptomatic plants were found has been tested and found free from Candidatus Phytoplasma prunorum Seemüller & Schneider;
+ii. Plum pox virus: - propagating material and fruit plants of the basic and certified
+categories shall be produced in areas known to be free from Plum pox virus; or
+- no symptoms of Plum pox virus are observed on propagating material and
+fruit plants of the basic and certified categories in the production site over the last complete growing season, and any symptomatic plants in the immediate vicinity have been rogued out and immediately destroyed; or
+- symptoms of Plum pox virus have been observed on no more than 1% of
+propagating material and fruit plants of the certified category in the production site over the last complete growing season, and that propagating material and those fruit plants, and any symptomatic plants in the immediate vicinity have been rogued out and immediately destroyed, and a representative sample of the remaining asymptomatic propagating material and fruit plants in the lots in which symptomatic plants were found has been tested and found free from Plum pox virus;
+iii. Pseudomonas syringae pv. persicae (Prunier, Luisetti &. Gardan) Young, Dye & Wilkie:
+- propagating material and fruit plants of the basic and certified
+categories shall be produced in areas known to be free from Pseudomonas syringae pv. persicae (Prunier, Luisetti &. Gardan) Young, Dye & Wilkie; or
+- no symptoms of Pseudomonas syringae pv. persicae (Prunier, Luisetti &.
+Gardan) Young, Dye & Wilkie are observed on propagating material and fruit plants of the basic and certified categories in the production site over the last complete growing season, and any symptomatic plants in the immediate vicinity have been rogued out and immediately destroyed; or
+- symptoms of Pseudomonas syringae pv. persicae (Prunier, Luisetti &.
+Gardan) Young, Dye & Wilkie have been observed on no more than 2% of propagating material and fruit plants of the certified category in the production site over the last complete growing season, and that propagating material and those fruit plants, and any symptomatic plants in the immediate vicinity have been rogued out and immediately destroyed;
+iv. Tomato ringspot virus (ToRSV):
+- propagating material and fruit plants of the basic and certified
+categories shall be produced in areas known to be free from ToRSV; or
+- no symptoms of ToRSV are observed on propagating material and fruit
+plants of the basic and certified categories in the production site over the last complete growing season, and any symptomatic plants in the immediate vicinity have been immediately rogued out and destroyed;
+v. Xanthomonas arboricola pv. pruni (Smith) Vauterin et al.:
+- propagating material and fruit plants of the basic and certified
+categories shall be produced in areas known to be free from Xanthomonas arboricola pv. pruni (Smith) Vauterin et al.; or
+- no symptoms of Xanthomonas arboricola pv. pruni (Smith) Vauterin et al.
+are observed on propagating material and fruit plants of the basic and certified categories in the production site over the last complete growing season, and any symptomatic plants in the immediate vicinity have been rogued out and immediately destroyed; or
+- symptoms of Xanthomonas arboricola pv. pruni (Smith) Vauterin et
+al. have been observed on no more than 2% of propagating material and fruit plants of the certified category in the production site over the last complete growing season, and that propagating material and those fruit plants, and any symptomatic plants in the immediate vicinity have been rogued out and immediately destroyed.
 (f) CAC category
 Sampling and testing
-Propagating material and fruit plants of the CAC category shall derive from an identified source of material, of which a representative portion has been sampled and tested within the previous three growing seasons and found free from Plum pox virus.
+Propagating material and fruit plants of the CAC category shall derive from an identified source of material, of which a representative portion has been sampled and tested within the previous 3 growing seasons and found free from Plum pox virus.
 CAC rootstocks of Prunus cerasifera Ehrh. and Prunus domestica L. shall derive from an identified source of material of which a representative portion has been sampled and tested within the previous 5 years and found free from Candidatus Phytoplasma prunorum Seemüller & Schneider and Plum pox virus.
 A representative portion of propagating material and fruit plants of the CAC category shall be sampled and tested in the case of doubts concerning the presence of Xanthomonas arboricola pv. pruni (Smith) Vauterin et al.
 A representative portion of CAC fruit plants not showing any symptoms of Plum pox virus upon visual inspection shall be sampled and tested on the basis of an assessment of the risk of infection of those fruit plants concerning the presence of that RNQP and in the case of symptomatic plants in the immediate vicinity.
 Upon the detection of propagating material and fruit plants of the CAC category showing symptoms of Candidatus Phytoplasma prunorum Seemüller & Schneider in the production site by visual inspection, a representative portion of the remaining asymptomatic CAC propagating material and fruit plants of the CAC category in the lots where symptomatic propagating material and fruit plants have been found shall be sampled and tested concerning the presence of Candidatus Phytoplasma prunorum Seemüller & Schneider.
-Sampling and testing shall be carried out in the case of doubts concerning the presence of RNQPs, other than Candidatus Phytoplasma prunorum Seemüller & Schneider and Plum pox virus, listed in Schedules A and B. Requirements with regards to the production site, place of production or area
-(i) Candidatus Phytoplasma prunorum Seemüller & Schneider
-- propagating material and fruit plants of the CAC category
-shall be produced in areas known to be free from Candidatus Phytoplasma prunorum Seemüller & Schneider; or
-- no symptoms of Candidatus Phytoplasma prunorum
-Seemüller & Schneider are observed on propagating material and fruit plants of the CAC category in the production site over the last complete growing season, and any symptomatic plants in the immediate vicinity have been rogued out and immediately destroyed; or
-- symptoms of Candidatus Phytoplasma prunorum
-Seemüller & Schneider have been observed on no more than 1% of propagating material and fruit plants of the CAC category in the production site over the last complete growing season, and that propagating material and those fruit plants, and any symptomatic plants in the immediate vicinity have been rogued out and immediately destroyed, and a representative sample of the remaining asymptomatic propagating material and fruit plants in the lots in which symptomatic propagating material and fruit plants were found has been tested and found free from Candidatus Phytoplasma prunorum Seemüller & Schneider; or
-- symptoms of Pseudomonas syringae pv. persicae
-(Prunier, Luisetti &. Gardan) Young, Dye & Wilkie and Xanthomonas arboricola pv. pruni (Smith) Vauterin et al. have been observed on no more than 2% of propagating material and fruit plants of the CAC category in the production site over the last complete growing season, and that propagating material and those fruit plants, and any symptomatic plants in the immediate vicinity have been rogued out and immediately destroyed;
-(ii) Plum pox virus
-- propagating material and fruit plants of the CAC category
-shall be produced in areas known to be free from Plum pox virus; or
-- no symptoms of Plum pox virus are observed on
-propagating material and fruit plants of the CAC category in the production site over the last complete growing season, and any symptomatic plants in the immediate vicinity have been rogued out and immediately destroyed; or
-- symptoms of Plum pox virus have been observed on no
-more than 1% of propagating material and fruit plants of the CAC category in the production site over the last complete growing season, and that propagating material and those fruit plants, and any symptomatic plants in the immediate vicinity have been rogued out and immediately destroyed, and a representative sample of the remaining asymptomatic propagating material and fruit plants in the lots in which symptomatic propagating material and fruit plants were found has been tested and found free from Plum pox virus;
-(iii) Pseudomonas syringae pv. persicae (Prunier, Luisetti &. Gardan) Young, Dye & Wilkie
-- propagating material and fruit plants of the CAC category
-shall be produced in areas known to be free from Pseudomonas syringae pv. persicae (Prunier, Luisetti &. Gardan) Young, Dye & Wilkie; or
-- no symptoms of Pseudomonas syringae pv. persicae
-(Prunier, Luisetti &. Gardan) Young, Dye & Wilkie are observed on propagating material and fruit plants of the CAC category in the production site over the last complete growing season, and any symptomatic plants in the immediate vicinity have been rogued out and immediately destroyed; or
-- symptoms of Pseudomonas syringae pv. persicae
-(Prunier, Luisetti &. Gardan) Young, Dye & Wilkie have been observed on no more than 2% of propagating material and fruit plants of the CAC category in the production site over the last complete growing season, and that propagating material and those fruit plants, and any symptomatic plants in the immediate vicinity have been rogued out and immediately destroyed;
-(iv) Xanthomonas arboricola pv. pruni (Smith) Vauterin et al.
-- propagating material and fruit plants of the CAC category
-shall be produced in areas known to be free from Xanthomonas arboricola pv. pruni (Smith) Vauterin et al.; or
-- no symptoms of Xanthomonas arboricola pv. pruni
-(Smith) Vauterin et al. are observed on propagating material and fruit plants of the CAC category in the production site over the last complete growing season, and any symptomatic plants in the immediate vicinity have been rogued out and immediately destroyed; or
-- symptoms of Xanthomonas arboricola pv. pruni (Smith)
-Vauterin et al. have been observed on no more than 2% of propagating material and fruit plants of the CAC category in the production site over the last complete growing season, and that propagating material and those fruit plants, and any symptomatic plants in the immediate vicinity have been rogued out and immediately destroyed. 12. Pyrus L.
+Sampling and testing shall be carried out in the case of doubts concerning the presence of RNQPs, other than Candidatus Phytoplasma prunorum Seemüller & Schneider and Plum pox virus, listed in Schedules A and B.
+Requirements with regard to the production site, place of production or area
+(i) Candidatus Phytoplasma prunorum Seemüller & Schneider:
+- propagating material and fruit plants of the CAC category shall be
+produced in areas known to be free from Candidatus Phytoplasma prunorum
+Seemüller & Schneider; or
+- no symptoms of Candidatus Phytoplasma prunorum Seemüller &
+Schneider are observed on propagating material and fruit plants of the CAC category in the production site over the last complete growing season, and any symptomatic plants in the immediate vicinity have been rogued out and immediately destroyed; or
+- symptoms of Candidatus Phytoplasma prunorum Seemüller &
+Schneider have been observed on no more than 1% of propagating material and fruit plants of the CAC category in the production site over the last complete growing season, and that propagating material and those fruit plants, and any symptomatic plants in the immediate vicinity have been rogued out and immediately destroyed, and a representative sample of the remaining asymptomatic propagating material and fruit plants in the lots in which symptomatic propagating material and fruit plants were found has been tested and found free from Candidatus Phytoplasma prunorum Seemüller & Schneider;
+(ii) Plum pox virus:
+- propagating material and fruit plants of the CAC category shall be
+produced in areas known to be free from Plum pox virus; or
+- no symptoms of Plum pox virus are observed on propagating material and
+fruit plants of the CAC category in the production site over the last complete growing season, and any symptomatic plants in the immediate vicinity have been rogued out and immediately destroyed; or
+- symptoms of Plum pox virus have been observed on no more than 1% of
+propagating material and fruit plants of the CAC category in the production site over the last complete growing season, and that propagating material and those fruit plants, and any symptomatic plants in the immediate vicinity have been rogued out and immediately destroyed, and a representative sample of the remaining asymptomatic propagating material and fruit plants in the lots in which symptomatic propagating material and fruit plants were found has been tested and found free from Plum pox virus;
+iii. Pseudomonas syringae pv. persicae (Prunier, Luisetti &. Gardan) Young, Dye & Wilkie:
+- propagating material and fruit plants of the CAC category shall be
+produced in areas known to be free from Pseudomonas syringae pv. persicae (Prunier, Luisetti &. Gardan) Young, Dye & Wilkie; or
+- no symptoms of Pseudomonas syringae pv. persicae (Prunier, Luisetti &.
+Gardan) Young, Dye & Wilkie are observed on propagating material and fruit plants of the CAC category in the production site over the last complete growing season, and any symptomatic plants in the immediate vicinity have been rogued out and immediately destroyed; or
+- symptoms of Pseudomonas syringae pv. persicae (Prunier, Luisetti &.
+Gardan) Young, Dye & Wilkie have been observed on no more than 2% of propagating material and fruit plants of the CAC category in the production site over the last complete growing season, and that propagating material and those fruit plants, and any symptomatic plants in the immediate vicinity have been rogued out and immediately destroyed;
+iv. Tomato ringspot virus (ToRSV):
+- propagating material and fruit plants of the CAC category shall be
+produced in areas known to be free from ToRSV; or
+- no symptoms of ToRSV are observed in the production site over the
+last complete growing season, and any symptomatic plants in the immediate vicinity have been rogued out and immediately destroyed; or
+- symptoms of ToRSV have been observed on no more than 2% of
+propagating material and fruit plants of the CAC category in the production site over the last complete growing season, and those symptomatic plants have been immediately rogued out and destroyed;
+v. Xanthomonas arboricola pv. pruni (Smith) Vauterin et al.:
+- propagating material and fruit plants of the CAC category shall be
+produced in areas known to be free from Xanthomonas arboricola pv. pruni (Smith) Vauterin et al.; or
+- no symptoms of Xanthomonas arboricola pv. pruni (Smith) Vauterin et al.
+are observed on propagating material and fruit plants of the CAC category in the production site over the last complete growing season, and any symptomatic plants in the immediate vicinity have been rogued out and immediately destroyed; or
+- symptoms of Xanthomonas arboricola pv. pruni (Smith) Vauterin et
+al. have been observed on no more than 2% of propagating material and fruit plants of the CAC category in the production site over the last complete growing season, and that propagating material and those fruit plants, and any symptomatic plants in the immediate vicinity have been rogued out and immediately destroyed.";
+12. Pyrus L.
 (a) All categories
 Visual inspection
 Visual inspections shall be carried out once a year.
@@ -1093,7 +1277,8 @@ category in the production site have been inspected over the last complete growi
 (c) Basic category
 Sampling and testing
 In the case of basic mother plants which have been maintained in insect proof facilities, a representative portion of basic mother plants shall be sampled and tested every fifteen years concerning the presence of Candidatus Phytoplasma pyri Seemüller & Schneider.
-In the case of basic mother plants which have been not maintained in insect proof facilities, a representative portion of basic mother plants shall be sampled and tested every three years concerning the presence of Candidatus Phytoplasma pyri Seemüller & Schneider; a representative portion of basic mother plants shall be sampled and tested every fifteen years on the basis of an assessment of the risk of infection of those plants concerning the presence of RNQPs, other than Candidatus Phytoplasma pyri Seemüller & Schneider and other than the virus-like diseases and viroids, listed in Schedule B, and in the case of doubts concerning the presence of RNQPs listed in Schedule A.
+In the case of basic mother plants which have been not maintained in insect proof facilities, a representative portion of basic mother plants shall be sampled and tested every three years concerning the presence of Candidatus Phytoplasma pyri Seemüller & Schneider; a representative portion of basic mother plants shall be sampled and tested every fifteen years on the basis of an assessment of the risk of infection of those plants concerning the presence of RNQPs, other than Candidatus Phytoplasma pyri Seemüller & Schneider and other than the virus-like diseases and viroids, listed in Schedule B, and in the case of doubts concerning the
+presence of RNQPs listed in Schedule A.
 (d) Certified category
 Sampling and testing
 In the case of certified mother plants, which have been maintained in insect proof facilities, a representative portion of certified mother plants shall be sampled and tested every fifteen years concerning the presence of Candidatus Phytoplasma pyri Seemüller & Schneider.
@@ -1105,7 +1290,8 @@ Requirements with regards to the production site, place of production or area
 - propagating material and fruit plants of the basic and certified categories
 shall be produced in areas established by the Directorate as being free from Candidatus Phytoplasma pyri Seemüller & Schneider in accordance with relevant international standards for phytosanitary measures; or
 - no symptoms of Candidatus Phytoplasma pyri Seemüller & Schneider shall
-be observed on propagating material and fruit plants of the basic and certified categories at the production site over the last complete growing season and any symptomatic plants in the immediate vicinity shall be rogued out and immediately destroyed; or - propagating material and fruit plants of the basic and certified categories at
+be observed on propagating material and fruit plants of the basic and certified categories at the production site over the last complete growing season and any symptomatic plants in the immediate vicinity shall be rogued out and immediately destroyed; or
+- propagating material and fruit plants of the basic and certified categories at
 the production site and any plants in the immediate vicinity, which have shown symptoms of Candidatus Phytoplasma pyri Seemüller & Schneider during visual inspections during the last three growing seasons, shall be rogued out and destroyed immediately;;
 (ii) Erwinia amylovora (Burrill) Winslow et al.
 - propagating material and fruit plants of the basic and
@@ -1136,7 +1322,8 @@ Each pre-basic mother plant shall be sampled and tested four years after its acc
 Visual inspection
 Visual inspections shall be carried out once a year.
 Sampling and testing
-Sampling and testing shall be carried out in the case of doubts concerning the presence of the RNQPs listed in Schedules A and B.
+Sampling and testing shall be carried out in the case of doubts concerning
+the presence of the RNQPs listed in Schedules A and B.
 (c) Basic category
 Requirements with regards to the production site, place of production or area
 The percentage of propagating material and fruit plants of the basic category in the production site over the last complete growing season showing symptoms of Aphelenchoides ritzemabosi (Schwartz) Steiner & Buhrer shall not exceed 0.05% and that propagating material and those fruit plants, and any surrounding host plants have been rogued out and destroyed.
@@ -1148,147 +1335,176 @@ The percentage of propagating material and fruit plants of the certified categor
 Visual inspection
 Visual inspections shall be carried out twice a year.
 Sampling and testing
-Each pre-basic mother plant shall be sampled and tested two years after its acceptance as a pre-basic mother plant and with subsequent intervals of two years concerning the presence of RNQPs listed in Schedule B, and in the case of doubts concerning the presence of RNQPs listed in Schedule A.
+Each pre-basic mother plant shall be sampled and tested 2 years after its acceptance as a pre- basic mother plant and with subsequent intervals of 2 years concerning the presence of RNQPs listed in Schedule B, and in the case of doubts concerning the presence of RNQPs listed in Schedule A.
+Requirements with regard to the production site, place of production or area
+- propagating material and fruit plants of the pre-basic category shall be produced in areas known to be free from the viruses listed in Schedule B for Rubus L.; or
+- no symptoms of any of the RNQPs listed in Schedule B for Rubus L. are observed on propagating material and fruit plants of the pre-basic category in the production site over the last complete growing season, and any symptomatic plants in the immediate vicinity have been rogued out and immediately destroyed;
 (b) Basic category
 Visual inspection
 Where propagating material and fruit plants are grown in the field or in pots, visual inspections shall be carried out twice a year.
-For propagating material and fruit plants produced by micropropagation, and which are maintained for a period shorter than three months, only one visual inspection during this period is necessary.
+For propagating material and fruit plants produced by micropropagation, and which are maintained for a period shorter than 3 months, only one visual inspection during this period is necessary.
 Sampling and testing
-Sampling and testing shall be carried out if the symptoms of Arabis mosaic virus, Raspberry ringspot virus, Strawberry latent ringspot virus and Tomato black ring virus are unclear upon visual inspection. Sampling and testing shall be carried out in the case of doubts concerning the presence of RNQPs, other than Arabis mosaic virus, Raspberry ringspot virus, Strawberry latent ringspot virus and Tomato black ring virus, listed in Schedules A and B.
-Requirements with regards to the production site, place of production or area
-(i) In the case of a positive test result for propagating material
-and fruit plants of the basic category showing symptoms of Arabis mosaic virus, Raspberry ringspot virus, Strawberry latent ringspot virus or Tomato black ring virus, the propagating material and fruit plants concerned shall be rogued out and immediately destroyed.
-(ii) Requirements for RNQPs other than Arabis mosaic virus, Raspberry ringspot virus, Strawberry latent ringspot virus and Tomato black ring virus:
+Sampling and testing shall be carried out if the symptoms of Arabis mosaic virus, Raspberry ringspot virus, Strawberry latent ringspot virus and Tomato black ring virus and Tomato ringspot virus are unclear upon visual inspection. Sampling and testing shall be carried out in the case of doubts concerning the presence of RNQPs, other than Arabis mosaic virus, Raspberry ringspot virus, Strawberry latent ringspot virus, Tomato black ring virus and Tomato ringspot virus, listed in Schedules A and B.
+Requirements with regard to the production site, place of production or area
+i. In the case of a positive test result for propagating material and fruit
+plants of the basic category showing symptoms of Arabis mosaic virus, Raspberry ringspot virus, Strawberry latent ringspot virus, Tomato black ring virus or Tomato ringspot virus, the propagating material and fruit plants concerned shall be rogued out and immediately destroyed.
+ii. Requirements for RNQPs other than Arabis mosaic virus, Raspberry
+ringspot virus, Strawberry latent ringspot virus, Tomato black ring virus and Tomato ringspot virus:
 The percentage of propagating material and fruit plants of the basic category in the production site over the last complete growing season, showing symptoms of each of the following RNQPs shall not exceed:
 - 0.1% in the case of:
-Agrobacterium spp. Conn.;
-Rhodococcus fascians Tilford; and that propagating
-material and those fruit plants, and any surrounding host
-plants have been rogued out and destroyed; and
-(iii) Requirements for all viruses:
-Symptoms of all viruses listed in Schedules A and B have been observed on no more than 0.25% of propagating material and fruit plants of the basic category in the production site over the last complete growing season, and that propagating material and those fruit plants and any symptomatic plants in the immediate vicinity have been rogued out and immediately destroyed.
+Agrobacterium spp. Conn; and
+Rhodococcus fascians Tilford; and that propagating material and those fruit plants, and any surrounding host plants have been rogued out and destroyed;
+iii. Requirements for all viruses:
+propagating material and fruit plants of the basic category shall be produced
+in areas known to be free from the viruses listed in Schedule B for Rubus L.; or
+no symptoms of the viruses listed in Schedule B for Rubus L. are
+observed on propagating material and fruit plants of the basic category in the production site over the last complete growing season, and any symptomatic plants in the immediate vicinity have been immediately rogued out and destroyed; or
+symptoms of all viruses listed in Schedules A and B have been observed
+on no more than 0.25% of propagating material and fruit plants of the basic category in the production site over the last complete growing season, and that propagating material and those fruit plants and any symptomatic plants in the immediate vicinity have been rogued out and immediately destroyed.
 (c) Certified category
 Visual inspection
 Visual inspections shall be carried out once a year.
 Sampling and testing
-Sampling and testing shall be carried out if the symptoms of Arabis mosaic virus, Raspberry ringspot virus, Strawberry latent ringspot virus and Tomato black ring virus are unclear upon visual inspection. Sampling and testing shall be carried out in the case of doubts concerning the presence of RNQPs, other than Arabis mosaic virus, Raspberry ringspot virus, Strawberry latent ringspot virus and Tomato black ring virus, listed in Schedules A and B.
-Requirements with regards to the production site, place of production or area
-(i) In the case of a positive test result for propagating material and fruit plants of the certified category showing symptoms of Arabis mosaic virus, Raspberry ringspot virus, Strawberry latent ringspot virus or Tomato black ring virus, the propagating material and fruit plants concerned shall be rogued out and immediately destroyed;
-(ii) Requirements for RNQPs other than Arabis mosaic virus, Raspberry ringspot virus, Strawberry latent ringspot virus and Tomato black ring virus:
-The percentage of propagating material and fruit plants of the
-certified category in the production site over the last complete growing season, showing symptoms of each of the following RNQPs shall not exceed:
-- 0.5% in the case of Resseliella theobaldi Barnes;
-- 1% in the case of:
-Agrobacterium spp. Conn.;
-Rhodococcus fascians Tilford; and that propagating
-material and those fruit plants, and any surrounding host
-plants have been rogued out and destroyed;
-(iii) Requirements for all viruses
-Symptoms of all viruses listed in Schedules A and B have been
-observed on no more than 0.5% of propagating material and fruit plants of the certified category in the production site over the last complete growing season, and that propagating material and those fruit plants and any symptomatic plants in the immediate vicinity have been rogued out and immediately destroyed.
+Sampling and testing shall be carried out if the symptoms of Arabis mosaic virus, Raspberry ringspot virus, Strawberry latent ringspot virus, Tomato black ring virus and Tomato ringspot virus are unclear upon visual inspection. Sampling and testing shall be carried out in the case of doubts concerning the presence of RNQPs, other than Arabis mosaic virus, Raspberry ringspot virus, Strawberry latent ringspot virus, Tomato black ring virus and Tomato ringspot virus, listed in Schedules A and B.
+Requirements with regard to the production site, place of production or area
+i. In the case of a positive test result for propagating material and fruit plants
+of the certified category showing symptoms of Arabis mosaic virus, Raspberry ringspot virus, Strawberry latent ringspot virus, Tomato black ring virus or Tomato ringspot virus, the propagating material and fruit plants concerned shall be rogued out and immediately destroyed;
+ii. Requirements for RNQPs other than Arabis mosaic virus, Raspberry
+ringspot virus, Strawberry latent ringspot virus, Tomato black ring virus and Tomato ringspot virus:
+The percentage of propagating material and fruit plants of the certified category in the production site over the last complete growing season, showing symptoms of each of the following RNQPs shall not exceed:
+0.5% in the case of Resseliella theobaldi Barnes;
+0.1% in the case of:
+Agrobacterium spp. Conn; and
+Rhodococcus fascians Tilford; and that propagating material and those fruit plants, and any surrounding host plants have been rogued out and destroyed;
+iii. Requirements for all viruses:
+propagating material and fruit plants of the certified category shall be
+produced in areas known to be free from the viruses listed in Schedule B for Rubus L.; or
+no symptoms of the viruses listed in Schedule B for Rubus L. are
+observed on propagating material and fruit plants of the certified category in the production site over the last complete growing season, and any symptomatic plants in the immediate vicinity have been immediately rogued out and destroyed; or
+symptoms of all viruses listed in Schedules A and B have been observed
+on no more than 0.5% of propagating material and fruit plants of the certified category in the production site over the last complete growing season, and that propagating material and those fruit plants and any symptomatic plants in the immediate vicinity have been rogued out and immediately destroyed.
 (d) CAC category
 Visual inspection
 Visual inspections shall be carried out once a year.
 Sampling and testing
-Sampling and testing shall be carried out if the symptoms of Arabis mosaic virus, Raspberry ringspot virus, Strawberry latent ringspot virus and Tomato black ring virus are unclear upon visual inspection. Sampling and testing shall be carried out in the case of doubts concerning the presence of RNQPs, other than Arabis mosaic virus, Raspberry ringspot virus, Strawberry latent ringspot virus and Tomato black ring virus, listed in Schedules A and B.
-Requirements with regards to the production site, place of production or area
-In the case of a positive test result for propagating material and fruit plants of the CAC category showing symptoms of Arabis mosaic virus, Raspberry ringspot virus, Strawberry latent ringspot virus or Tomato black ring virus, the propagating material and fruit plants concerned shall be rogued out and immediately destroyed.
+Sampling and testing shall be carried out if the symptoms of Arabis mosaic virus, Raspberry ringspot virus, Strawberry latent ringspot virus, Tomato black ring virus and Tomato ringspot virus are unclear upon visual inspection. Sampling and testing shall be carried out in the case of doubts concerning the presence of RNQPs, other than Arabis mosaic virus, Raspberry ringspot virus, Strawberry latent ringspot virus and Tomato black ring virus and Tomato ringspot virus, listed in Schedules A and B.
+Requirements with regard to the production site, place of production or area
+- propagating material and fruit plants of the CAC category shall be produced in areas known to be free from the RNQPs listed in Schedules A and B for Rubus L.; or
+- no symptoms of the RNQPs listed in Schedules A and B for Rubus L. are observed on propagating material and fruit plants of the CAC category in the production site over the last complete growing season; and
+- in case of symptoms of ToRSV, those symptoms have been observed on no more than 2% of propagating material and fruit plants of the CAC category in the production site over the last complete growing season, and those symptomatic plants have been immediately rogued out and destroyed; and
+- in the case of a positive test result for propagating material and fruit plants of the CAC category showing symptoms of Arabis mosaic virus, Raspberry ringspot virus, Strawberry latent ringspot virus, Tomato black ring virus or Tomato ringspot virus, the propagating material and fruit plants concerned shall be immediately rogued out and destroyed.
 15. Vaccinium L.
-(a) Pre-basic category Visual inspection
+(a) Pre-basic category
+Visual inspection
 Visual inspections shall be carried out twice a year.
 Sampling and testing
-Each pre-basic mother plant shall be sampled and tested five years after its acceptance as a pre-basic mother plant and with subsequent intervals of five years concerning the presence of RNQPs listed in Schedule B, and in the case of doubts concerning the presence of RNQPs listed in Schedule A.
+Each pre-basic mother plant shall be sampled and tested 5 years after its acceptance as a pre-basic mother plant and with subsequent intervals of 5 years concerning the presence of RNQPs listed in Schedule B, and in the case of doubts concerning the presence of RNQPs listed in Schedule A.
 (b) Basic category
 Visual inspection
 Visual inspections shall be carried out twice a year.
 Sampling and testing
 Sampling and testing shall be carried out in the case of doubts concerning the presence of RNQPs listed in Schedules A and B.
-Requirements with regards to the production site, place of production or area
-(i) Agrobacterium tumefaciens (Smith & Townsend) Conn
-- no symptoms of Agrobacterium tumefaciens (Smith &
-Townsend) Conn are observed at the production site over the last complete growing season.
-(ii) Diaporthe vaccinii Shear
-- propagating material and fruit plants of the basic category
-shall be produced in areas known to be free from Diaporthe vaccinii Shear; or
-- no symptoms of Diaporthe vaccinii Shear are observed at
-the production site over the last complete growing season;
-(iii) Exobasidium vaccinii (Fuckel) Woronin and Godronia cassandrae (anamorph Topospora myrtilli) Peck
-- the percentage of propagating material and fruit plants of
-the basic category in the production site over the last complete growing season, showing symptoms of each of the following RNQPs shall not exceed:
-- 0.1% in the case of Godronia cassandrae (anamorph
-Topospora myrtilli) Peck;
-- 0.5% in the case of Exobasidium vaccinii (Fuckel)
-Woronin; and that propagating material and those fruit plants, and any surrounding host plants have been rogued out and destroyed.
-(iv) Phytophthora ramorum (EU isolates) Werres, De
-Cock & Man in 't Veld:
-- propagating material and fruit plants of the basic
-category shall be produced in areas established by the Directorate as being free from Phytophthora ramorum (EU isolates) Werres, De Cock & Man in 't Veld in accordance with relevant international standards for phytosanitary measures; or
-- no symptoms of Phytophthora ramorum (EU isolates)
-Werres, De Cock & Man in 't Veld shall be observed on propagating material and fruit plants of the basic category at the production site over the last complete cycle of vegetation.
+Requirements with regard to the production site, place of production or area
+i. Agrobacterium tumefaciens (Smith & Townsend) Conn
+- no symptoms of Agrobacterium tumefaciens (Smith & Townsend) Conn
+are observed at the production site over the last complete growing season
+ii. Diaporthe vaccinii Shear
+- propagating material and fruit plants of the basic category shall be
+produced in areas known to be free from Diaporthe vaccinii Shear; or
+- no symptoms of Diaporthe vaccinii Shear are observed at the production
+site over the last complete growing season;
+iii. Exobasidium vaccinii (Fuckel) Woronin and Godronia cassandrae
+(anamorph Topospora myrtilli) Peck
+- the percentage of propagating material and fruit plants of the basic
+category in the production site over the last complete growing season, showing
+symptoms of each of the following RNQPs shall not exceed:
+- 0.1% in the case of Godronia cassandrae (anamorph Topospora myrtilli)
+Peck;
+- 0.5% in the case of Exobasidium vaccinii (Fuckel) Woronin; and that
+propagating material and those fruit plants, and any surrounding host plants have been rogued out and destroyed.
+iv. Phytophthora ramorum (EU isolates) Werres, De Cock & Man in 't Veld:
+- propagating material and fruit plants of the basic category shall be
+produced in areas established by the competent authority as being free from Phytophthora ramorum (EU isolates) Werres, De Cock & Man in 't Veld in accordance with relevant International Standards for Phytosanitary Measures; or
+- no symptoms of Phytophthora ramorum (EU isolates) Werres, De Cock &
+Man in 't Veld shall be observed on propagating material and fruit plants of the basic category at the production site over the last complete cycle of vegetation.
+v. Tobacco ringspot virus (TRSV) and Tomato ringspot virus (ToRSV)
+- propagating material and fruit plants of the basic category shall be
+produced in areas known to be free from TRSV and ToRSV; or
+- no symptoms of TRSV and ToRSV are observed in the production site
+over the last complete growing season and any symptomatic plants in the immediate vicinity have been rogued out and immediately destroyed.
 (c) Certified and CAC categories
 Visual inspection
 Visual inspections shall be carried out once a year.
 Sampling and testing
 Sampling and testing shall be carried out in the case of doubts concerning the presence of RNQPs listed in Schedules A and B.
 (d) Certified category
-Requirements with regards to the production site, place of production or area
-(i) Diaporthe vaccinii Shear
-- propagating material and fruit plants of the certified
-category shall be produced in areas known to be free from Diaporthe vaccinii Shear; or
-- no symptoms of Diaporthe vaccinii Shear are observed at
-the production site over the last complete growing season.
-(ii) Agrobacterium tumefaciens (Smith & Townsend) Conn, Exobasidium vaccinii (Fuckel) Woronin and Godronia cassandrae (anamorph Topospora myrtilli) Peck
-- the percentage of propagating material and fruit plants of
-the certified category in the production site over the last complete growing season, showing symptoms of each of the following RNQPs shall not exceed:
-- 0.5% in the case of: Agrobacterium tumefaciens (Smith & Townsend)
-Conn;
-Godronia cassandrae (anamorph Topospora myrtilli)
-Peck;
+Requirements with regard to the production site, place of production or area
+i. Agrobacterium tumefaciens (Smith & Townsend) Conn, Exobasidium vaccinii
+(Fuckel) Woronin and Godronia cassandrae (anamorph Topospora myrtilli) Peck
+- the percentage of propagating material and fruit plants of the certified
+category in the production site over the last complete growing season, showing
+symptoms of each of the following RNQPs shall not exceed:
+- 0.5% in the case of:
+Agrobacterium tumefaciens (Smith & Townsend) Conn;
+Godronia cassandrae (anamorph Topospora myrtilli) Peck;
 - 1% in the case of Exobasidium vaccinii (Fuckel) Woronin; and that propagating material and those fruit plants, and any surrounding host plants have been rogued out and destroyed.
-(iii) Phytophthora ramorum (EU isolates) Werres, De Cock & Man in 't Veld:
-- propagating material and fruit plants of the
-certified category shall be produced in areas established by the Directorate as being free from Phytophthora ramorum (EU isolates) Werres, De Cock & Man in 't Veld in accordance with relevant international standards for phytosanitary measures; or
-- no symptoms of Phytophthora ramorum (EU
-isolates) Werres, De Cock & Man in 't Veld shall be observed on propagating material and fruit plants of the certified category at the production site over the last complete cycle of vegetation; or
-- propagating material and fruit plants of the
-certified category showing symptoms of Phytophthora ramorum (EU isolates) Werres, De Cock & Man in 't Veld at the production site and all plants within a 2m radius of the symptomatic propagating material and fruit plants, shall be rogued out and destroyed, including adhering soil; and
-- for all plants located within a 10m radius of
-symptomatic propagating material and fruit plants and any remaining propagating material and fruit plants from the affected lot:
-- within three months following the detection
-of symptomatic propagating material and fruit plants, no symptoms of Phytophthora ramorum (EU isolates) Werres, De Cock & Man in 't Veld shall be observed on that propagating material and those fruit plants in at least two inspections at appropriate times to detect the pest and during that three-month period no treatments suppressing symptoms of Phytophthora ramorum (EU isolates) Werres, De Cock & Man in 't Veld shall be carried out; and
-- after that three-month period:
-- no symptoms of Phytophthora ramorum
-(EU isolates) Werres, De Cock & Man in 't Veld shall be observed on that propagating material and those
-fruit plants at the production site; or
-- a representative sample of that propagating
-material and those fruit plants to be moved has been tested and found free from Phytophthora ramorum (EU isolates) Werres, De Cock & Man in 't Veld; and
-- for all other propagating material and fruit plants at
-the production site:
-- no symptoms of Phytophthora ramorum
-(EU isolates) Werres, De Cock & Man in 't Veld shall be observed on that propagating material and those
-fruit plants at the production site; or
-- a representative sample of that propagating
-material and those fruit plants to be moved has been tested and found free from Phytophthora ramorum
-(EU isolates) Werres, De Cock & Man in 't Veld.
-(e) CAC category
-Requirements with regards to the production site, place of production or area
-(i) Phytophthora ramorum (EU isolates) Werres,
-De Cock & Man in 't Veld:
-- propagating material and fruit plants of the
-CAC category shall be produced in areas established by the Directorate as being free from Phytophthora ramorum (EU isolates) Werres, De Cock & Man in 't Veld in accordance with relevant international
-standards for phytosanitary measures; or
-- no symptoms of Phytophthora ramorum
-(EU isolates) Werres, De Cock & Man in 't Veld shall be observed on propagating material and fruit plants of the CAC category at the production site over the
-last complete cycle of vegetation or;
-- propagating material and fruit plants of the
-CAC category showing symptoms of Phytophthora ramorum (EU isolates) Werres, De Cock & Man in 't Veld at the production site and all plants within a 2m radius of the symptomatic propagating material and fruit plants, shall be rogued out and destroyed, including adhering soil; and
-- for all plants located within a 10m radius of symptomatic propagating material and fruit plants and any remaining propagating material and fruit plants from the affected lot:
-- within three months following the detection of symptomatic propagating material and fruit plants, no symptoms of Phytophthora ramorum (EU isolates) Werres, De Cock & Man in 't Veld shall be observed on that propagating material and those fruit plants in at least two inspections at appropriate times to detect the pest and during that three-month period no treatments suppressing symptoms of Phytophthora ramorum (EU isolates) Werres, De Cock & Man in 't Veld shall be carried out; and after that three-month period:
-- no symptoms of Phytophthora ramorum (EU isolates) Werres, De Cock & Man in 't Veld shall be observed on that propagating material and those fruit plants at the production site; or
-- a representative sample of that propagating material and those fruit plants to be moved has been tested and found free from Phytophthora ramorum (EU isolates) Werres, De Cock & Man in 't Veld; and
+ii. Diaporthe vaccinii Shear
+- propagating material and fruit plants of the certified category
+shall be produced in areas known to be free from Diaporthe vaccinii Shear; or
+- no symptoms of Diaporthe vaccinii Shear are observed at the
+production site over the last complete growing season;
+iii. Phytophthora ramorum (EU isolates) Werres, De Cock & Man in 't Veld:
+- propagating material and fruit plants of the certified category shall be
+produced in areas established by the competent authority as being free from Phytophthora ramorum (EU isolates) Werres, De Cock & Man in 't Veld in accordance with relevant International Standards for Phytosanitary Measures; or
+- no symptoms of Phytophthora ramorum (EU isolates) Werres, De Cock &
+Man in 't Veld shall be observed on propagating material and fruit plants of the certified category at the production site over the last complete cycle of vegetation; or
+- propagating material and fruit plants of the certified category showing
+symptoms of Phytophthora ramorum (EU isolates) Werres, De Cock & Man in 't Veld at the production site and all plants within a 2m radius of the symptomatic propagating material and fruit plants, shall be rogued out and destroyed, including adhering soil; and
+- for all plants located within a 10m radius of symptomatic propagating
+material and fruit plants and any remaining propagating material and fruit plants from the affected lot:
+- within 3 months following the detection of symptomatic
+propagating material and fruit plants, no symptoms of Phytophthora ramorum (EU isolates) Werres, De Cock & Man in 't Veld shall be observed on that propagating material and those fruit plants in at least two inspections at appropriate times to detect the pest and during such 3-month period no treatments suppressing symptoms of Phytophthora ramorum (EU isolates) Werres, De Cock & Man in 't Veld shall be carried out; and
+- after the said 3-month period:
+- no symptoms of Phytophthora ramorum (EU isolates)
+Werres, De Cock & Man in 't Veld shall be observed on that propagating material and those fruit plants at the production site; or
+- a representative sample of that propagating material and
+those fruit plants to be moved has been tested and found free from Phytophthora ramorum (EU isolates) Werres, De Cock & Man in 't Veld;and
 - for all other propagating material and fruit plants at the production site:
-- no symptoms of Phytophthora ramorum (EU isolates) Werres, De Cock & Man in 't Veld shall be observed on that propagating material and those fruit plants at the production site; or
-- a representative sample of that propagating material and those fruit plants to be moved has been tested and found free from Phytophthora ramorum (EU isolates) Werres, De Cock & Man in 't Veld.
+- no symptoms of Phytophthora ramorum (EU isolates) Werres, De
+Cock & Man in 't Veld shall be observed on that propagating material and those fruit plants at the production site; or
+- a representative sample of that propagating material and those
+fruit plants to be moved has been tested and found free from Phytophthora
+ramorum (EU isolates) Werres, De Cock & Man in 't Veld;
+iv. Tobacco ringspot virus (TRSV) and Tomato ringspot virus (ToRSV)
+- propagating material and fruit plants of the basic category shall be produced in
+areas known to be free from TRSV and ToRSV; or
+- no symptoms of TRSV and ToRSV are observed in the production site over
+the last complete growing season and any symptomatic plants in the immediate vicinity have been rogued out and immediately destroyed.
+(e) CAC category
+Requirements with regard to the production site, place of production or area
+i. Phytophthora ramorum (EU isolates) Werres, De Cock & Man in 't Veld:
+- propagating material and fruit plants of the CAC category shall be
+produced in areas established by the competent authority as being free from Phytophthora ramorum (EU isolates) Werres, De Cock & Man in 't Veld in accordance with relevant International Standards for Phytosanitary Measures; or
+- no symptoms of Phytophthora ramorum (EU isolates) Werres, De Cock &
+Man in 't Veld shall be observed on propagating material and fruit plants of the CAC category at t propagating material and fruit plants of the CAC category showing symptoms of Phytophthora ramorum (EU isolates) Werres, De Cock & Man in 't Veld at the production site and all plants within a 2m radius of the symptomatic propagating material and fruit plants, shall be rogued out and destroyed, including adhering soil; and
+- for all plants located within a 10m radius of symptomatic propagating
+material and fruit plants and any remaining propagating material and fruit plants from the affected lot:
+- within 3 months following the detection of symptomatic
+propagating material and fruit plants, no symptoms of Phytophthora ramorum (EU isolates) Werres, De Cock & Man in 't Veld shall be observed on that propagating material and those fruit plants in at least two inspections at appropriate times to detect the pest and during such 3-month period no treatments suppressing symptoms of Phytophthora ramorum (EU isolates) Werres, De Cock & Man in 't Veld shall be carried out; and
+after the said 3-month period:
+- no symptoms of Phytophthora ramorum (EU isolates)
+Werres, De Cock & Man in 't Veld shall be observed on that propagating material and those fruit plants at the production site; or
+- a representative sample of that propagating material and
+those fruit plants to be moved has been tested and found free from Phytophthora ramorum (EU isolates) Werres, De Cock & Man in 't Veld; and
+- for all other propagating material and fruit plants at the production site:
+- no symptoms of Phytophthora ramorum (EU isolates) Werres, De
+Cock & Man in 't Veld shall be observed on that propagating material and those fruit plants at the production site; or
+- a representative sample of that propagating material and those
+fruit plants to be moved has been tested and found free from Phytophthora ramorum (EU isolates) Werres, De Cock & Man in 't Veld;
+ii. Tobacco ringspot virus (TRSV) and Tomato ringspot virus (ToRSV)
+- propagating material and fruit plants of the CAC category shall be produced in areas known to be free from TRSV and ToRSV; or
+- no symptoms of TRSV and ToRSV are observed in the production site over the last complete growing season and any symptomatic plants in the immediate vicinity have been immediately rogued out and destroyed; or
+- symptoms of TRSV and ToRSV have been observed on no more than 2% of propagating material and fruit plants of the CAC category in the production site over the last complete growing season, and those symptomatic plants have been rogued out immediately and destroyed.
 Schedule E
 Maximum permitted number of generations in the field under non-
 insect proof conditions and maximum permitted life span of basic mother plants per genera or species, as provided for in Regulation 18(1)
@@ -1346,7 +1562,6 @@ A basic mother plant within the meaning of point 14(2)(a) may be multiplied for 
 - Amended by: L.N. 152 of 2023.
 - Amended by: L.N. 152 of 2023.
 - Substituted by: L.N. 385 of 2020.
-- Amended by: L.N. 152 of 2023.
+- Amended by: L.N. 152 of; 2023; L.N. 221 of 2025.
 - Substituted by: L.N. 385 of 2020.
-- Amended by: L.N. 152 of 2023.
-- Amended by: L.N. 152 of 2023.
+- Amended by: L.N. 152 of; 2023; L.N. 221 of 2025.
