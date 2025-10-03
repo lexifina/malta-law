@@ -1,4 +1,4 @@
 SUBSIDIARY LEGISLATION 234.06
 MERCHANT SHIPPING FEES REGULATIONS
 8th June, 1973
-LEGAL NOTICE 64 of 1973, as amended by Legal Notices 151 of 1977, 128 of 1992, 279 and 341 of 2002, 76 of 2003, 411 of 2007 and 41 of 2009; Act XV of 2009; and Legal Notices 169 of 2011, 220 of 2015 and 479 of 2020.
+LEGAL NOTICE 64 of 1973, as amended by Legal Notices 151 of 1977, 128 of 1992, 279 and 341 of 2002, 76 of 2003, 411 of 2007 and 41 of 2009; Act XV of 2009; and Legal Notices 169 of 2011, 220 of 2015, 479 of 2020 and 211 of 2025.
