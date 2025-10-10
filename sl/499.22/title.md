@@ -3,4 +3,4 @@ SUBSIDIARY LEGISLATION 499.22
 CIVIL AVIATION (INVESTIGATION OF AIR ACCIDENTS
 AND INCIDENTS) REGULATIONS
 11th January, 2013
-LEGAL NOTICE 16 of 2013, as amended by Act XXI of 2020 and by Legal Notice 326 of 2021 and Act XL of 2023.
+LEGAL NOTICE 16 of 2013, as amended by Act XXI of 2020 and by Legal Notice 326 of 2021, Act XL of 2023 and Legal Notice 228 of 2025.
