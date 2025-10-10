@@ -74,8 +74,7 @@ Section B: Species-specific section
 In this and subsequent tables for mice, rats, gerbils, hamsters and guinea pigs, 'enclosure height' means the vertical distance between the enclosure floor and the top of the enclosure and this height applies over more than 50 % of the minimum enclosure floor area prior to the addition of enrichment devices.
 When designing procedures, consideration shall be given to the potential growth of the animals to ensure adequate space is provided (as detailed in Tables 1.1 to 1.5) for the duration of the study.
 Table 1.1. Mice
-Body Minimum enclosure size Floor area Minimum
-(cm2) weight per animal enclosure
+Minimum enclosure size Body Floor area Minimum (cm2) weight per animal enclosure
 (g) (cm2) height
 (cm)
 In stock and up to 20 330 60 12 during over 20 330 70 12 procedures to 25
@@ -137,7 +136,8 @@ Mother or monogamous pair with litter
 Stock at less than 1 500 100 14 breeders 60
 [S.L. 439.20 34 USED FOR SCIENTIFIC PURPOSES
 Table 1.5. Guinea pigs
-Body Minimum Floor Minimum Date referred weight enclosure size area per enclosure height to in
+Minimum Body Minimum Floor Date referred
+weight enclosure size area per enclosure height to in
 (g) (cm2) animal (cm) regulation
 33(2) (cm2)
 In stock and up to 1 800 200 23 1 January during 200 2017 procedures over 200 1 800 350 23
@@ -152,8 +152,7 @@ During agricultural research, when the aim of the project requires that the anim
 A raised area shall be provided within the enclosure. This raised area must allow the animal to lie and sit and easily move underneath, and shall not cover more than 40 % of the floor space. When for scientific or veterinary reasons a raised area cannot be used, the enclosure shall be 33 % larger for a single rabbit and 60% larger for two rabbits. Where a raised area is provided for rabbits of less than 10 weeks of age, the size of the raised area shall be at least of 55 cm by 25cm and the height above the floor shall be such that the animals can make use of it.
 [S.L. 439.20 USED FOR SCIENTIFIC PURPOSES 35
 Table 2.1. Rabbits over 10 weeks of age
-Table 2.1 is to be used for both cages and pens. The additional floor area is as a minimum 3 000 cm2 per rabbit for the third, the fourth, the fifth and the sixth rabbit, while 2 500 cm2 as a minimum shall be added for each additional rabbit above a
-number of six.
+Table 2.1 is to be used for both cages and pens. The additional floor area is as a minimum 3 000 cm2 per rabbit for the third, the fourth, the fifth and the sixth rabbit, while 2 500 cm2 as a minimum shall be added for each additional rabbit above a number of six.
 Final body Minimum floor area for one or two Minimum Date referred to in weight socially harmonious animals height regulation 33(2)
 (kg) (cm2) (cm)
 less than 3 3 500 45 1 January 2017
@@ -184,7 +183,7 @@ Table 3.
 Cats
 The minimum space in which a queen and litter may be held is the space for a single cat, which shall be gradually increased so that by 4 months of age litters have been rehoused following the space requirements for adults.
 Areas for feeding and for litter trays shall not be less than 0,5 metres apart and shall not be interchanged.
-Floor Shelves Height Date referred to in regulation
+Floor Shelves Height Date referred to in regulation
 (m2) (m2) (m) 33(2)
 Minimum for one adult 1,5 0,5 2 1 January 2017 animal
 For each additional animal 0,75 0,25 -add
@@ -195,8 +194,7 @@ The space allowances detailed below are based on the requirements of beagles, bu
 [S.L. 439.20 USED FOR SCIENTIFIC PURPOSES 37
 the laboratory beagle, space allowances shall be determined in consultation with veterinary staff.
 Table 4.1. Dogs
-Dogs that are pair or group housed may each be constrained to half the total space provided (2 m2 for a dog under 20 kg, 4 m2 for a dog over 20 kg) while they are
-undergoing procedures as defined in this Directive, if this separation is essential for scientific purposes. The period for which a dog is so constrained shall not exceed 4 hours at a time.
+Dogs that are pair or group housed may each be constrained to half the total space provided (2 m2 for a dog under 20 kg, 4 m2 for a dog over 20 kg) while they are undergoing procedures as defined in this Directive, if this separation is essential for scientific purposes. The period for which a dog is so constrained shall not exceed 4 hours at a time.
 A nursing bitch and litter shall have the same space allowance as a single bitch of equivalent weight. The whelping pen shall be designed so that the bitch can move to an additional compartment or raised area away from the puppies.
 Weight Minimum Minimum floor For each Minimum Date referred
 (kg) enclosure area for one or additional height to in regulation size two animals animal add a (m) 33(2)
@@ -213,7 +211,7 @@ over 10 to 4 1,5 2 15
 over 15 to 4 2 2 20
 over 20 8 4 2
 [S.L. 439.20 38 USED FOR SCIENTIFIC PURPOSES
-5. Ferrets Table 5. Ferrets
+Ferrets 5. Table 5. Ferrets
 Minimum Minimum floor Minimum Date referred to in enclosure size area per animal height regulation 33(2) (cm2) (cm2) (cm)
 Animals up to 4 500 1 500 50 1 January 2017 600 g
 Animals over 4 500 3 000 50 600 g
@@ -316,11 +314,10 @@ over 1 200 2,00 0,11 75 15 to 1 800
 over 1 800 2,00 0,13 75 15 to 2 400
 over 2 400 2,00 0,21 75 15
 Table 8.2. Domestic turkeys
-All enclosure sides shall be at least 1,5 m long. Where these minimum enclosures sizes cannot be provided for scientific reasons, the duration of the confinement shall be justified by the experimenter in consultation with veterinary staff. In such circumstances, birds can be housed in smaller enclosures containing appropriate enrichment and with a minimum floor area of 0,75 m2 and a minimum height of 50 cm
-for birds below 0,6 kg, 75 cm for birds below 4 kg, and 100 cm for birds over 4 kg. These can be used to house small groups of birds in accordance with the space allowances given in table 8.2
+All enclosure sides shall be at least 1,5 m long. Where these minimum enclosures sizes cannot be provided for scientific reasons, the duration of the confinement shall be justified by the experimenter in consultation with veterinary staff. In such circumstances, birds can be housed in smaller enclosures containing appropriate enrichment and with a minimum floor area of 0,75 m2 and a minimum height of 50 cm for birds below 0,6 kg, 75 cm for birds below 4 kg, and 100 cm for birds over 4 kg. These can be used to house small groups of birds in accordance with the space allowances given in table 8.2
 [S.L. 439.20 44 USED FOR SCIENTIFIC PURPOSES
 .
-Body mass Minimum Minimum Minimum Minimum length Date
+Date  Body mass Minimum Minimum Minimum Minimum length
 (kg) enclosure area per bird height of feed trough referred to in size (m2) (cm) per bird regulation
 (cm) 33(2) (m2)
 Up to 0,3 2,00 0,13 50 3 1 January
@@ -342,7 +339,7 @@ Table 8.4. Ducks and geese
 Where these minimum enclosures sizes cannot be provided for scientific reasons, the duration of the confinement shall be justified by the experimenter in consultation with veterinary staff. In such circumstances, birds can be housed in smaller enclosures containing appropriate enrichment and with a minimum floor area of 0,75 m2. These can be used to house small groups of birds in accordance with the space allowances given in table 8.4
 [S.L. 439.20 USED FOR SCIENTIFIC PURPOSES 45
 .
-Body Minimum Area per Minimum Minimum length Date mass enclosure size bird height of feed trough per referred to in
+Date  Body Minimum Area per Minimum Minimum length mass enclosure size bird height of feed trough per referred to in
 (g) (m2) (m2) (cm) bird Regulation 33(2)
 (cm)
 Ducks 1 January 2017
@@ -369,8 +366,7 @@ Up to 6 2 200 5 30 1 January 2017
 from 7 to 3 200 5 30 12
 for each 0,15 5 30 additional bird above 12
 Table 8.7. Zebra finches
-Enclosures shall be long and narrow (for example 2 m by 1 m) to enable birds to perform short flights. For breeding studies, pairs may be housed in smaller enclosures containing appropriate enrichment with a minimum floor area of 0,5 m2 and a
-minimum height of 40 cm. The duration of the confinement shall be justified by the experimenter in consultation with veterinary staff.
+Enclosures shall be long and narrow (for example 2 m by 1 m) to enable birds to perform short flights. For breeding studies, pairs may be housed in smaller enclosures containing appropriate enrichment with a minimum floor area of 0,5 m2 and a minimum height of 40 cm. The duration of the confinement shall be justified by the experimenter in consultation with veterinary staff.
 Group size Minimum Minimum Minimum number Date referred to in
 enclosure size height of feeders Regulation 33(2) (m2) (cm)
 Up to 6 1,0 100 2 1 January 2017

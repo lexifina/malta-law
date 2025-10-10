@@ -89,4 +89,4 @@ no clinically detectable adverse phenotype;
 (j) inescapable electric shock (e.g. to produce learned helplessness);
 (k) complete isolation for prolonged periods of social species e.g. dogs and non-human primates;
 (l) immobilisation stress to induce gastric ulcers or cardiac failure in rats;
-(m) forced swim or exercise tests with exhaustion as the end-point.
+(m) forced swim or exercise tests with exhaustion as the end-point. [S.L. 439.20 60 USED FOR SCIENTIFIC PURPOSES
