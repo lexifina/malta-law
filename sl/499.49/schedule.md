@@ -1,25 +1,25 @@
 ## SCHEDULE
 # schedule
 (Regulation 2)
+Rates per tug per hour or part thereof
 Column 1 Column 2 Column 3
 Normal rates Rates applicable (vide note 2) between 6 p.m. of one
 day and 6 a.m. of the next following day and at any time on Saturdays, Sundays and public holidays
 (vide note 3)
 € €
-For vessels up to 3,000 gross 315 435 tons (gt)
+For vessels up to 3,000 gross 340 470 tons (gt)
 For vessels of gross tons (gt) between:
-3,001 and 6,000 395 570 6,001 and 10,000 500 720 10,001 and 13,000 600 865 13,001 and 16,000 700 1,015 16,001 and 20,000 855 1,235 20,001 and 24,000 985 1,435 24,001 and 35,000 1,120 1,630 35,001 and 45,000 1,215 1,785 45,001 and 60,000 1,335 1,965 60,001 and 80,000 1,480 2,195 80,001 and 100,000 1,630 2,415 100,001 and 150,000 1,755 2,585 150,001 and 200,000 1,920 2,835 For vessels exceeding 200,000 2,085 3,090". gross tons (gt)
+3,001 and 6,000 425 615 6,001 and 10,000 540 775 10,001 and 13,000 645 935 13,001 and 16,000 755 1,095 16,001 and 20,000 920 1,330 20,001 and 24,000 1,060 1,545 24,001 and 35,000 1,205 1,755 35,001 and 45,000 1,310 1,925 45,001 and 60,000 1,440 2,120 60,001 and 80,000 1,595 2,365 80,001 and 100,000 1,755 2,605 100,001 and 150,000 1,890 2,785 150,001 and 200,000 2,070 3,055 For vessels exceeding 200,000 2,250 3,330 gross tons (gt)
 Notes:
 (1) Subject to availability of the number of continuously manned tugs based at Grand Harbour and Marsaxlokk respectively and subject to the prioritisation of shipping movements in ports, towage services shall be delivered within one hour's notification of actual commencement of the operation.
 (2) Normal rates in accordance with the charges computed under Column 2 shall apply on normal working days - Monday to Friday - between 0600 hours and 1800 hours, excluding public holidays:
-Provided that when additional tugs are required over and above the tugs continuously manned in the Grand Harbour, Valletta, Malta or Port of Marsaxlokk, Malta respectively, the charges for the additional tugs required shall be computed at the rates in Column 3 or the charges computed at the rates in Column 2 increased by €385 per tug, whichever rate is the greater.
-(3) For services given between 6 p.m. of one day and 6 p.m. of the next following day or at any time on a Saturday, Sunday or another public holiday, either the charges computed at the rates under Column 3 or the charges computed at the rates under Column 2 increased by €755 per tug shall apply, whichever rate is the greater.
+Provided that when additional tugs are required over and above the tugs continuously manned in the Grand Harbour, Valletta, Malta or the Port of Marsaxlokk, Malta respectively, the charges for the additional tugs required shall be computed at the rates under Column 3 or the charges computed at the rates in Column 2 increased by €415 per tug, whichever rate is the greater.
+(3) For services given between 6 p.m. of one day and 6 a.m. of the next following day or at any time on a Saturday, Sunday or another public holiday, either the charges computed at the rates under Column 3 or the charges computed at the rates under Column 2 increased by €815 per tug shall apply, whichever rate is the greater.
 (4) Subject to the provisions of regulation 6, the minimum charge shall in no case be less than the rate calculated for two hours.
 (5) Subject to the provisions of regulation 2, the rates payable for the assistance of vessels with 50% and over transhipment cargo calling at the Malta Freeport facilities at Marsaxlokk and for vessels calling at Marsaxlokk in connection with oil blending and storage operations for transhipment or re-export purposes only, shall be calculated at a minimum rate of one hour or, if in excess of one hour, the actual time of operation to the nearest quarter of an hour.
-(6) The rates payable for the assistance of disabled vessels shall be increased by fifty per cent, subject to a minimum of €1,500 per tug for vessels up to 3,000 gross tons
-(gt) and subject to a minimum of €2,520 per tug for vessels exceeding 3,000 gross tons
+(6) The rates payable for the assistance of disabled vessels shall be increased by 50%, subject to a minimum of €1,615 per tug for vessels up to 3,000 gross tons (gt) and subject to a minimum of €2,715 per tug for vessels exceeding 3,000 gross tons
 (gt):
-Provided that this additional charge shall not apply to non self-propelled barges and other vessels, both under forty-five (45) metres in length.
+Provided that this additional charge shall not apply to non-self-propelled barges and other vessels, both under 45 metres in length.
 "Disabled vessel" means any vessel which because of some circumstances is unable to manoeuvre safely and under its own control and includes:
 • vessels arriving off Malta or leaving Malta on tow;
 • vessels with engine breakdown (partial or otherwise), including loss of
@@ -35,11 +35,11 @@ when manoeuvring, including loss of propeller;
 • oil rigs and other craft/floating objects not of a normal design of a ship.
 This applies to any tug assistance to such vessels/crafts entering, shifting or leaving the Maltese Harbours, and within Malta's territorial limits.
 Provided that the definition of "disabled vessel" shall not apply to breakdowns or defects of a temporary nature which occur during the performance of a normal towage operation, when such breakdown or defect lasts for 30 minutes or less.
-(7) Without prejudice to the provisions of regulation 4, when an additional tug is ordered for service over and above the tugs continuously manned in the Grand Harbour, Valletta, Malta or Port of Marsaxlokk, Malta respectively, at any time, without being given prior notice of at least four (4) hours, an additional charge of €500 per tug shall be charged..
+(7) Without prejudice to the provisions of regulation 4, when an additional tug is ordered for service, over and above the tugs continuously manned in the Grand Harbour, Valletta, Malta or the Port of Marsaxlokk, Malta respectively, at any time, without being given at least 4 hours' notice, an extra charge of €540 per tug shall be charged.
 (8) A fuel surcharge (BAF) shall be applied to cover fluctuations in the international price of oil. The surcharge based on the price of gas oil shall be calculated as a percentage on the normal rates charged for the service in accordance with Column 2 and shall be revised periodically to reflect fluctuations in oil prices, as published or announced from time to time by the competent authority responsible for the publication of the official fuel price notifications. The fuel surcharge will be charged over and above the normal rates included in the invoiced price of each operation, and will not be subject to any rebates.
 (9) The rates applicable for a vessel (including any type of craft or floating object) whose breadth moulded is in excess of 25% of its length overall, shall be increased by one hundred per centum (100%).
 (10) "Gross tonnage (gt)" is calculated in accordance with the International Convention on Tonnage Measurements of Ships 1969 which became mandatory for all vessels in July 1994: provided that when the official Gross Tonnage Certificate of a vessel has not been issued and, or cannot be determined by a competent authority in accordance with the provisions of the relative Convention, the rate per tug per hour shall be determined by the length overall of the vessel on the basis of the gross tonnage of such vessels of the same or similar length overall.
 - Substituted by: L.N. 425 of 2007; L.N. 143 of 2008.
 - Amended by: L.N. 373 of 2010.
 - Substituted by: L.N. 217 of 2012.
-- Amended by: L.N. 211 of 2019; L.N. 404 of 2020; L.N. 108 of 2023.
+- Amended by: L.N. 211 of 2019; L.N. 404 of 2020; L.N. 108 of 2023; L.N. 229 of 2025.
