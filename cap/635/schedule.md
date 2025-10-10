@@ -73,4 +73,6 @@ REFERRED TO IN ARTICLES 2, 3, 5 AND 8
 (66) Directive (EU) 2019/771 of the European Parliament and of the Council of 20 May 2019 on certain aspects concerning contracts for the sale of goods, amending Regulation (EU) 2017/2394 and Directive 2009/22/EC, and repealing Directive 1999/44/EC (OJ L 136, 22.5.2019, p. 28).
 (67) Regulation (EU) 2022/1925 of the European Parliament and of the Council of 14 September 2022 on contestable and fair markets in the digital sector and amending Directives (EU) 2019/1937 and
 (EU) 2020/1828 (Digital Markets Act) (OJ L 265, 21.9.2022, p. 1).
-- Amended by: L.N. 68 of 2025.
+(68) Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence and amending Regulations (EC) No 300/2008,
+(EU) No 167/2013, (EU) No 168/2013, (EU) 2018/858, (EU) 2018/ 1139 and (EU) 2019/2144 and Directives 2014/90/EU, (EU) 2016/797 and (EU) 2020/1828 (Artificial Intelligence Act).
+- Amended by: L.N. 68 of 2025; L.N. 225 of 2025.
