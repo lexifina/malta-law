@@ -3,7 +3,9 @@
 Operations, interventions and activities for which clearance in accordance to
 regulation 35(4) may be granted
 The following operations, interventions and activities shall require clearance within six (6) months from entry into force of these regulations, and subsequently clearance under these regulations. The level type and application fee payable for each category shall be applicable as indicated in the table:
-The following note shall be interpreted as follows: # Identifies those categories that at the stage of renewal of the clearance as a permit are to be published on the Authority's website for representations in accordance with regulations 9(3) and 13(1) and which require a decision to be taken in public in accordance with regulation 15(2);
+The following note shall be interpreted as follows:
+[S.L. 549.172 26 APPLICATIONS AND THEIR DETERMINATION)
+# Identifies those categories that at the stage of renewal of the clearance as a permit are to be published on the Authority's website for representations in accordance with regulations 9(3) and 13(1) and which require a decision to be taken in public in accordance with regulation 15(2);
 Cate- Operation, Intervention or Type of application Fee for a gory Activity orpermit new appli-
 cation
 €2,500 and
@@ -19,27 +21,32 @@ Category 1.13 where reclamation
 by the
 or dumping is at sea (#)
 Authority
-[S.L. 549.172 26 APPLICATIONS AND THEIR DETERMINATION)
 2.2 Animal slaughterhouse (#) Level II €1,500 2.3 Rendering plant (#) Level II €1,500
-Quarrying operations not covered 2.4 Level II €1,500
+Quarrying operations not covered
+2.4 Level II €1,500
 by category 1.4 or 1.31 (#)
-Manufacture of computer, elec- 2.5 tronic and electrical equipment Level II €1,500
+Manufacture of computer, elec-
+2.5 tronic and electrical equipment Level II €1,500
 and optical products
 Manufacture or processing of
-asphalt or other non-metallic min- 2.6 eral products, including batching Level II €1,500
+asphalt or other non-metallic min-
+2.6 eral products, including batching Level II €1,500
 plants, but excluding temporary
 plants (#)
-Manufacture and blending of chemical and fuel products and man-made fibres, excluding dilu- 2.7 tion with water only and not Level II €1,500
+Manufacture and blending of chemical and fuel products and man-made fibres, excluding dilu-
+2.7 tion with water only and not Level II €1,500
 involving chemical or biological processes, and also excludes fire-
-works factories (#) 2.8 Operations involving galvanising Level II €1,500
+works factories (#)
+2.8 Operations involving galvanising Level II €1,500
 or sand blasting of materials
-exceeding 10 tonnes every day (#) 2.9 Manufacture of rubber and plastic Level II €1,500
+exceeding 10 tonnes every day (#)
+2.9 Manufacture of rubber and plastic Level II €1,500
 products
 2.10 Manufacture of animal feed with a Level II €1,500
 production of more than 10 tonnes every day (#)
+[S.L. 549.172 APPLICATIONS AND THEIR DETERMINATION) 27
 2.11 Yards and other premises on land Level II €1,500
 for repair and maintenance of vessels, aircraft and other transport, exceeding 1000 square meters and not covered by Category 1.40
-[S.L. 549.172 APPLICATIONS AND THEIR DETERMINATION) 27
 2.12 Operations with a discharge of Level II €1,500
 trade effluent to sea, land, storm or rainwater drains or culverts, falling within the scope of the Water Policy Framework Regulations (S.L. 549.100) Note: Trade effluent means any liquid, with or without other material in suspension or dissolved in it, which is discharged from trade premises, other than uncontaminated storm water run-off and domestic sewage.
 2.13 Marine container terminals (#) Level III €2,500
