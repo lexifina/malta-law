@@ -1,75 +1,64 @@
 ## FIFTH SCHEDULE
+## Applicant authority state:
+## Applicant authority Reference:
+## The claim(s) mentioned below is (are) to be considered as
+## the initial claim(s), subject of an instrument permitting enforcement in the requested State.
+## the revised claim(s), subject of a revised instrument permitting enforcement in the requested State.
+## State where this document is issued:
+## Disputes concerning the claim fall exclusively within the competence of the competent bodies of the applicant State (Malta). Any such action must be brought before them in accordance with the procedural and language rules in force in the applicant State (Malta).
+## The addressee of a request for recovery or precautionary measures may not rely on the notiﬁcation or communication of the uniform instrument permitting enforcement in the requested State to claim a prolongation or a re-opening of the time period to contest the claim or the initial instrument permitting enforcement if that has been validly notiﬁed.
+## 1 / 3
+## Currency of the State where this document is issued
+## Currency of the State where this document is issued:
+## Currency of the State where recovery actions will be taken:
+## Exchange rate used:
+## 1 EUR
+## 1 ###
+## Claim 1:
+## Identiﬁcation of the claim 1
+## 1.Reference
+## 2.Nature of the claim(s) concerned
+## 3.Name of the tax/duty concerned
+## 4.Period or date concerned
+## Period
+## Date
+## 5.Date of establishment of the claim
+## 6.Date on which enforcement becomes possible
+## 7.Amount of the claim still due
+## Still due (converted):
+## 0 ### Principal amount
+## 0 ### Administrative penalties and ﬁnes
+## 0 ### Interest till date before the day the request is sent
+## 0 ### Costs till date before the day the request is sent
+## 0 ### Fees for certiﬁcates and similar documents issued in connection with administrative procedures related to the tax/duty concerned
+## 2 / 3
+## (converted):
+## 0 EUR 0 ### Total amount of this claim:
+## 8.Date of notiﬁcation of the initial instrument permitting enforcement in the applicant State (Malta)
+## No date available.
+## 9.Further information concerning the claim:The oﬃce responsible of the assessment of the claim
+## Name:
+## Street and number:
+## Details of address:
+## Postcode and town:
+## Country:
+## Telephone:
+## E-mail:
+## Website:
+## Language(s) in which this oﬃce can be contacted:
+## 10.Further information concerning the claim or the possibilities for contesting the payment obligation can be obtained from
+## the oﬃce indicated here above.
+## the following oﬃce responsible for the Uniform Instrument Permitting Enforcement
+## Identiﬁcation of the person(s) concerned in the national instrument(s) permitting enforcement:
+## a. The following person is mentioned in the national instrument(s) permitting enforcement
+## b. The following person(s) is (are) also mentioned in the national instrument(s) permitting enforcement
+## Overall total amount of the claim(s)
+## In EUR:
+## State:
+## 0 ### 0 EUR Overall total amount of the claim(s):
+## 3 / 3
 # fifth-schedule
-Uniform instrument permitting enforcement in the requested Member State (1)
- UNIFORM INSTRUMENT PERMITTING ENFORCEMENT OF
-CLAIMS COVERED BY COUNCIL DIRECTIVE 2010/24/EU
-Date of issue:
- REVISED UNIFORM INSTRUMENT PERMITTING ENFORCEMENT OF
-CLAIMS COVERED BY COUNCIL DIRECTIVE 2010/24/EU
-Date of issue of the original uniform instrument:
-Date of revision:
-Reason for the revision:  judgment/order of [name of the Court] administrative decision of [date]
-Reference number:
-EU Member State where this document is issued:
-Each EU Member State can request recovery assistance from other Member States for unpaid claims referred to in Article 2 of Council Directive 2010/24/EU of 16 March 2010.
-Recovery measures taken by the requested Member State are based on:
- a uniform instrument permitting enforcement, in accordance with
-Article 12 of this Directive,
- a revised uniform instrument permitting enforcement, in accordance
-with Article 15 of this Directive (to take account of the decision of the competent body referred to in Article 14(1) of this Directive),
-This document is the [revised] uniform instrument permitting enforcement. It concerns the claim(s) mentioned below, which remain(s) unpaid in [name of applicant Member State].The initial instrument for the enforcement of this/these claim(s) has been notified in so far as required under the national law of [name of applicant Member State].
-Disputes concerning the claim(s) fall exclusively within the competence of the competent bodies of [name of applicant Member State], in accordance with Article 14 of Directive 2010/24/EU. Any such action must be brought before them in accordance with the procedural and language rules in force in [name of applicant Member State]. OF CLAIMS RELATING TO TAXES, DUTIES
-[S.L.460.08 AND OTHER MEASURES) 47
-DESCRIPTION OF THE CLAIM(S) AND THE PERSON(S) CONCERNED
-IDENTIFICATION OF THE CLAIM
-1. Reference:
-2. Nature of the claim:
- a) customs duties,
- b) value added tax,
- c) excise duties,
- d) tax on income or capital,
-e) tax on insurance premiums,
- f) inheritance and gift taxes,
- g) national taxes and duties on immovable property, other than the
-above-mentioned ones,
- h) national taxes and duties on the use or ownership of means of
-transport,
- i) other taxes and duties levied by or on behalf of the (applicant)
-State,
- j) taxes and duties levied by or on behalf of territorial or
-administrative subdivisions of the (applicant) State, excluding taxes and duties levied by local authorities,
- k) taxes and duties levied by or on behalf of local authorities,
- l) other tax-based claim,
- m) refunds, interventions and other measures forming part of the
-system of total or partial financing of theEuropean Agricultural Guarantee Fund (EAGF) and the European Agricultural Fund for Rural Development (EAFRD), including sums to be collected in connection with these actions, and levies and other duties provided for under the common organisation of the market for the sugar sector
-3. Name of the tax/duty concerned:
-4. Period or date concerned:
-5. Date establishment of the claim:
-6. Date on which enforcement becomes possible:
-OF CLAIMS RELATING TO TAXES, DUTIES
-[S.L.460.08 48 AND OTHER MEASURES)
-7. Amount of the claim (initially due - still due):
- principal amount:
- administrative penalties and fines:
- interest till date before the day the request is sent:
- costs till date before the day the request is sent:
- fees for certificates and similar documents issued in connection
-with administrative procedures related to the tax/duty concerned:
- total amount of this claim:
-8. Date of notification of the initial instrument permitting enforcement in [name of the applicant State]
-9. Office responsible for the assessment of the claim: name, address and other contact details:
-10. Further information concerning the claim or the possibilities for contesting the payment obligation can be obtained from:
- the office responsible for the assessment of the claim, mentioned
-under point 9,
- the office responsible for the Uniform instrument permitting
-enforcement: name, address and other contact details,
-IDENTIFICATION OF THE PERSON(S) CONCERNED IN THE NATIONAL
-INSTRUMENT(S) PERMITTING ENFORCEMENT
-1. Name
-2. Address
-3. Cause of liability:
- principal debtor,
- co-debtor,
- a person other than the (co-)debtor, liable for settlement of the
-taxes, duties and other measures, or for other claims relating to
-these taxes, duties and other measures,
+(article 9(1))
+Uniform Instrument Permitting Enforcement in the Requested
+Member State Reference : MT_aaaaaaaaaaaa_20240311_UIPE_1
+0. Uniform Instrument Permitting Enforcement

@@ -1,133 +1,98 @@
 ## FIRST SCHEDULE
+## Issue date:
+## Based on:
+## Nature of the claim(s) concerned:
+## 1 / 8
+## A. Applicant authority
+## State:
+## Name:
+## Telephone:
+## Reference of the ﬁle:
+## Name of the oﬃcial dealing with the request:
+## Language skills:
+## 2 / 8
+## A. Requested authority
+## 3 / 8
+## A similar request is sent to the following competent authority(ies) within the State of the requested authority
+## A similar request is sent to the following competent authority(ies) within the following State(s)
+## I, applicant authority, ask the requested authority not to inform the person(s) concerned about this request.
+## I, applicant authority, conﬁrm that the information to be received will be subject to the secrecy provisions deﬁned in the legal basis quoted above.
+## 4 / 8
+## A. Information is requested with regard to
+## this natural person or
+## other
+## B. Liability: the person concerned is
+## the principal debtor
+## a co-debtor
+## a person other than the (co-)debtor, liable for settlement of the taxes, duties and other measures, or for other claims relating to these taxes, duties and other measures under the laws in force in the applicant State
+## a person other than the (co-)debtor, holding assets belonging to, or having debts towards, the (co-)debtor or to any other person liable
+## a third party which may become aﬀected by enforcement measures concerning other persons
+## C. Other relevant information concerning the above person
+## Bank account number
+## Car information on
+## Estimated or provisional amount or
+## precise amount of the claim(s)
+## Other information
+## 5 / 8
+## Information about the identity of the person concerned (for natural persons: full name, date and place of birth; for others: name and legal status)
+## Information about the address
+## Information about the income and assets for recovery
+## Information about the heirs and/or legal successors
+## 6 / 8
+## 1. I, requested authority,
+## acknowledge receipt of the request.
+## 2. I, requested authority,
+## invite the applicant authority to complete the request with the following additional information
+## 3. I, requested authority,
+## have not yet received the additional information required and will close your request if I do not receive this information before
+## 4. I, applicant authority,
+## a) provide on request the following additional information
+## b) am not able to provide the requested additional information, because
+## 5. I, requested authority,
+## acknowledge receipt of the additional information and am now in a position to proceed.
+## 6. I, requested authority, do not provide assistance and close the case because
+## a) I do not have competence for any of the claims to which the request relates.
+## b) the claim is more than 5 years old.
+## c) the amount of the claim is below the threshold.
+## d) I am not able to obtain this information for the purpose of recovering similar national claims.
+## e) this would disclose a commercial, industrial or professional secret.
+## f) the disclosure of this information would be liable to prejudice the security or be contrary to the public policy of the State.
+## g) the applicant authority did not provide all the required additional information.
+## h) other reason
+## 7. I, applicant authority,
+## ask to be informed about the present status of my request.
+## 8. I, requested authority, cannot provide the information now because
+## a) I have asked information from other public bodies
+## b) I have asked information from a third party
+## 7 / 8
+## d) other reason
+## 9. The requested information cannot be obtained because
+## a) person concerned is not known
+## b) insuﬃcient data for identiﬁcation of person concerned
+## c) person concerned has moved away, address unknown
+## d) the requested information is not available
+## e) other reason
+## 10. I, requested authority,
+## transmit the following part of the requested information
+## 11. I, requested authority, transmit all (or the ﬁnal part of) the requested information
+## a) identity conﬁrmed
+## b) address conﬁrmed
+## c) following data about the person concerned have changed (or are added)
+## d) ﬁnancial situation
+## e) debt disputed
+## f) debtor deceased on
+## g) name and address of heirs/will executor
+## h) other comments
+## i) I recommend proceeding with recovery procedures
+## j) I recommend not proceeding with recovery procedures
+## 12. I, applicant authority,
+## withdraw my request for information.
+## 13. Other comments
+## from applicant authority or
+## from requested authority
+## 8 / 8
 # first-schedule
-Request for information
-REQUEST FOR INFORMATION Based on:  Art. 5 of Directive 2010/24/EU  Bilateral agreement of [date] between [names of the contracting States]  Convention on mutual administrative assistance in tax matters of 25.01.1988 (Council of Europe/OECD)  Multilateral agreement: Common language or translation required Reference: AA_RA_aaaaaaaaaaa_rrrrrrrrrrrr_20YYMMDD_xxxxxxx_RI
-Nature of the claim (xxxxxxx):  a) customs duties  b) value added tax  c) excise duties  d) tax on income or capital  e) tax on insurance premiums  f) inheritance and gift taxes  g) national taxes and duties on immovable property, other than the above-mentioned ones  h) national taxes and duties on the use of ownership of means of transport  i) other taxes and duties levied by or on behalf of the (applicant) State  j) taxes and duties levied by or on behalf of territorial or administrative subdivisions of the
-(applicant) State, excluding taxes and duties levied by local authorities  k) taxes and duties levied by or on behalf of local authorities  l) other tax-based claim  m) agricultural levies (amounts falling within Art. 2(1)(b) and (c) of Dir. 2010/24/EU)
-1. STATE OF THE APPLICANT AUTHORITY A. Applicant authority B. Office initiating the request
-Country: Name: Name: Address: Telephone: Postcode: Reference of the file: Town: Name of the official dealing with the Telephone: request: E-mail: Language skills Reference of the file:
-Name of the official dealing with the request:
-OF CLAIMS RELATING TO TAXES, DUTIES
-[S.L.460.08 14 AND OTHER MEASURES)
-2. STATE OF THE REQUESTED AUTHORITY A. Requested authority B. Office initiating the request
-Country: Name: Name: Address: Telephone: Postcode: Reference of the file: Town: Name of the official dealing with the Telephone: request: Language skills E-mail:
-Reference of the file: Name of the official dealing with the request:
-3. INFORMATION RELATING TO THE REQUEST
- This request includes claims which are more than 5 years old, dating from the due date of
-the claims to the date of the initial request for assistance (for contested claims or instruments permitting enforcement: from the moment at which the claim or the instrument permitting enforcement may no longer be contested). [other legal basis  This request includes claims which are xx years old]
-For this (these) claim(s), the request is based on the following circumstances:
- This request is connected to another request of 20YY/MM/DD, which was
-processed by the requested authority under reference number: [optional]
- Other: Common language or translation required
- A similar request is sent to the following competent authority(ies) within the State of the
-requested authority:  A similar request is sent to the following competent authority(ies) within the following
-State(s):  The total amount of all claim(s) is below the threshold (if the legal basis imposes conditions
-in this regard) [This should not appear if the legal basis is the EU Directive.]  I, applicant authority, ask the requested authority not to inform the person(s) concerned
-about this request.  I, applicant authority, confirm that the information to be received will be subject to the
-secrecy provisions defined in the legal basis quoted above.
-OF CLAIMS RELATING TO TAXES, DUTIES
-[S.L.460.08 AND OTHER MEASURES) 15
-4. INFORMATION RELATING TO THE PERSON CONCERNED A. Information is requested with regard to:  For natural persons: First name(s): Surname: Maiden name (name at birth): Date of birth: Place of birth: VAT number: Tax Identification Number: Other identification data: Address of this person:  known -  assumed - Street and number: - Details of address: - Postcode and town: - Country:
- Or for legal entities: Company name: Legal status: VAT number: Tax Identification Number: Other identification data: Address of this legal entity:  known -  assumed - Street and number: - Details of address: - Postcode and town: - Country:
- Legal representative Name: Address of this legal representative:  known -  assumed Street and number: Details of address: Postcode and town: Country: B. Liability: the person concerned is:
- the principal debtor  a co-debtor  a person other than the (co-)debtor, liable for settlement of the taxes, duties and other
-measures, or for other claims relating to these taxes, duties and other measures under the laws in force in the applicant State;
- a person other than the (co-)debtor, holding assets belonging to, or having debts
-towards, the (co-) debtor or to any other person liable.
- a third party which may become affected by enforcement measures concerning other
-persons.
-OF CLAIMS RELATING TO TAXES, DUTIES
-[S.L.460.08 16 AND OTHER MEASURES)
-C. Other relevant information concerning the above persons:
- Bank account number(s) - Bank account number (IBAN): - Bank identification code (BIC): - Name of the bank:  Car information on 20YY/MM/DD - car plate number: - car brand: - colour of the car:  Estimated or provisional or  precise amount of the claim(s):  Other: Common language or translation required
-5. INFORMATION REQUESTED
- Information about the identity of the person concerned (for natural persons: full name,
-date and place of birth; for legal entities: company name and legal status)
- Information about the address  Information about the income and assets for recovery  Information about the heirs and/or legal successors  Other: Common language or translation required
-6. FOLLOW-UP OF THE REQUEST FOR INFORMATION
-Date Nr Message Applicant Requested
-authority authority YY/MM/DD 1  I, requested authority, acknowledge receipt of the request. YY/MM/DD 2  I, requested authority, invite the applicant authority to  To be combined complete the request with the following additional with information: Common language or translation required acknowledgment YY/MM/DD 3  I, requested authority, have not yet received the additional
-information required and will close your request if I do not receive this information before 20YY/MM/DD YY/MM/DD 4 I, applicant authority,
- a provide on request the following additional information:
-Common language or translation required
- b am not able to provide the requested additional information
-(because: Common language or translation required) YY/MM/DD 5  I, requested authority, acknowledge receipt of the additional
-information and am now in a position to proceed.
-OF CLAIMS RELATING TO TAXES, DUTIES
-[S.L.460.08 AND OTHER MEASURES) 17
-YY/MM/DD 6 I, requested authority, do not provide assistance and close the case To be combined because:
- a I do not have competence for any of the claims to which the with acknow-
-request relates. ledgment
- b the claim is more than 5 [15] years old. [If a bilateral or other or
-multilateral convention is selected as legal basis: "the claim acknowledgment is older than foreseen in the convention".] of additional information  c the amount of the claim is below the threshold.[This option
-should not appear if the request is based on the directive.]
- d I am not able to obtain this information for the purpose of
-recovering similar national claims.
- e this would disclose a commercial, industrial or professional
-secret.
- f the disclosure of this information would be liable to
-prejudice the security or be contrary to the public policy of the State.
- g the applicant authority did not provide all the required
-additional information
- h other reason: Common language or translation required YY/MM/DD 7  I, applicant authority, ask to be informed about the present status
-of my request. YY/MM/DD 8 I, requested authority, cannot provide the information now
-because:
- I have asked information from other public bodies  I have asked information from a third party
- I am arranging a personal call
- other reason: Common language or translation required YY/MM/DD 9 The requested information cannot be obtained because:
- a the person concerned is not known.
- b insufficient data for identification of person concerned.  c the person concerned has moved away, address unknown.  d the requested information is not available.  e other reason: Common language or translation required YY/MM/DD 10  I, requested authority, transmit the following part of the
-requested information:
-OF CLAIMS RELATING TO TAXES, DUTIES
-[S.L.460.08 18 AND OTHER MEASURES)
-11 I, requested authority, transmit all (or the final part of) the YY/MM/DD requested information:
- a Identity confirmed
- b Address confirmed
- c The following data about the identity of the person
-concerned have changed (or are added):
-For natural persons:
- First name(s):
- Surname:
- Maiden name:
- Date of birth:
- Place of birth:
-For legal entities:
- Legal Status:
- Company name:
- d The following address data have changed (or are added):
- Street and nr.:
- Details of address:
- Postcode and town:
- Country:
- Telephone:
- Fax:  E-mail:
- e Financial situation:
- Bank account(s) known :
-Bank account number (IBAN): … Bank identification code (BIC): …
-Name of the bank: …
- Employment details:  Employee -  Self-employed-  Unemployed  It seems that the person concerned has no means to
-settle the debt/no assets to cover recovery  The person concerned is bankrupt/insolvent:
-- Date of order:
-- Date of release:
-- Liquidators details:
-…Name:
-…Street and nr:
-…Details of address:
-…Postcode and town:
-…Country:
- It seems that the person concerned has:
- limited means to partially settle the debt  sufficient means/assets for recovery
- Comments:
- f debt disrupted
- person concerned has been advised to contest the
-claim in the State of the applicant authority
- references of the dispute, if available:
- further details attached
- g Debtor deceased on YYYY/MM/DD
- h Name and address of heirs/will executor:
- i Other comments:
- j I recommend proceeding with recovery procedures  k I recommend not proceeding with recovery procedures YY/MM/DD 12  I, applicant authority, withdraw my request for information. YY/MM/DD  Other: comment from applicant authority or requested
-authority:
-Common language or translation required
-OF CLAIMS RELATING TO TAXES, DUTIES
-[S.L.460.08 AND OTHER MEASURES) 19
+(article 6(1))
+Request for information Reference : MT_RA_aaaaaaaaaaaa_rrrrrrrrrrrr_20250724_x(xxx)_RI
+0. REQUEST FOR INFORMATION
+OF CLAIMS RELATING TO TAXES, DUTIES [S.L.460.08 14 AND OTHER MEASURES)
