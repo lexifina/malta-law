@@ -15,8 +15,8 @@ producer's principal place of business in Malta;
 6. An indication of which categories of batteries or accumulators the producer is placing or intends to place on the market in Malta.
 7. Information as to:
 (a) whether the producer is meeting or intends to meet its responsibilities
-under these regulations individually or collectively; and
 [S.L.549.54 (WASTE BATTERIES AND ACCUMULATORS) 19
+under these regulations individually or collectively; and
 (b) if collectively:
 - the name of the authorised waste batteries and accumulators
 collective organisation of which the producer is a member;
