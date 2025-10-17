@@ -16,7 +16,7 @@ You are warned that failure on your part to appear without giving
 a reasonable explanation for your absence would not debar the Medical Council from proceeding with the inquiry even in your absence.
 President,
 Medical Council
-[S.L.458.08 7 (ERASURE OF NAMES PROCEDURE)
+[S.L.458.08 (ERASURE OF NAMES PROCEDURE) 7
 FORM B Rule 18
 MEDICAL COUNCIL
 Notice to a person to give evidence and/or to produce Documents, etc.
