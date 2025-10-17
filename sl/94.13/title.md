@@ -1,7 +1,6 @@
 SUBSIDIARY LEGISLATION 94.13
-PHARMACY BOARD STANDING ORDERS
+PHARMACY BOARD STANDING ORDERS*
 15th July, 1969
 LEGAL NOTICE 77 of 1969, as amended by: Legal Notice 79 of 1981.
 PART I
 TITLE AND INTERPRETATION
-The title of these regulations is the Pharmacy Board 1. Standing Orders.
