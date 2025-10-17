@@ -1484,10 +1484,10 @@ gydytojo 2. Internatūros
 odontologo pažymėji
 mas (gydytojo odontolo go profesinė kvalifika cija) Luxem- bourg Diplôme d'Etat de Jury d'examen 1. Médecin- 28.1.1980
 docteur en d'Etat dentiste
-médecine dentaire Magyar- Okleveles Egyetem 1. Fogorvos 1.5.2004 ország fogorvos doktor
+médecine dentaire Magyar- Okleveles Egyetem Fogorvos 1.5.2004 1. ország fogorvos doktor
 oklevél (doctor medicinae dentariae, dr. med. dent) Malta Lawrja fil- Università ta' Malta 1. Kirurgu Den- 1.5.2004
 Kirurġija Dentali tali
-Nederland 1. Universitair Faculteit 1. Tandarts 28.1.1980
+Nederland 1. Universitair Faculteit Tandarts 28.1.1980 1.
 getuigschrift van Tandheelk- unde een met goed gevolg afgelegd tandartsexamen 2. Master of Science in de Tandheelkunde (3) Österreich Bescheid über die - Medizinische 1. Zahnarzt 1.1.1994
 Verleihung des Universität akademischen - Medizinische Grades «Doktor Fakultät der der Universität Zahnheilkunde» Polska Dyplom Szkoły wyższe Świadectwo Lekarz 1.5.2004
 ukończenia złożenia dentysta
@@ -2340,6 +2340,3 @@ trained in Ireland would be entitled to automatic recognition without the need f
 . (9) Valid until 2001. . (10) As of 2001/2002. . (11) Valid until 2001. . (12) As of 2001/2002. . (13) Valid until 2001. . (14) As of 2001/2002. . (15) Until 14.9.2012. . (16) As of 15.9.2012. . (17) This information on the evidence of qualifications replaces previous entries for the United
 Kingdom in order to ensure that graduates trained in the United Kingdom would be entitled to automatic recognition of their qualification without the need for actual registration, such registra-tion not being part of the qualification process.
 (18) Issued before 1.1.2021.". .
-- Substituted by: III. 2004.30; L.N. 27 of 2008; L.N. 177 of 2008.
-- Amended by: L.N. 234 of; 2013; L.N. 219 of 2022.
-- Substituted by: L.N. 105 of 2025.

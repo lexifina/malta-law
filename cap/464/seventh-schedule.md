@@ -3,8 +3,7 @@
 (Article 42)
 The documents and certificates which a relevant Council may request are the following:
 (a) proof of the nationality of the person concerned;
-(b) copies of the attestations of professional competence or of the evidence
-of formal qualifications giving access to the profession in question, and an attestation of the professional experience of the person concerned where applicable;
+(b) copies of the attestations of professional competence or of the evidence of formal qualifications giving access to the profession in question, and an attestation of the professional experience of the person concerned where applicable;
 (c) information concerning the training to the extent necessary in order to determine the existence of potential substantial differences with the required national training, as laid down by this Act. Where it is impossible for the applicant to provide this information, the relevant Council shall address the competent authority or any other relevant body in the home Member State;
 (d) (i) where the relevant Council requires of persons wishing to take up
 a regulated profession proof that they are of good character or repute or that they have not been declared bankrupt, or suspends or prohibits the pursuit of that profession in the event of serious professional misconduct or a criminal offence, that Council shall accept as sufficient evidence, in respect of nationals of Member States wishing to pursue that profession in its territory, the production of documents issued by competent authorities in the home Member State or the Member State from which the foreign national comes, showing that those requirements are met. Those authorities must provide the documents required within a period of two months;
@@ -12,5 +11,3 @@ a regulated profession proof that they are of good character or repute or that t
 (e) where the relevant Council requires of its own nationals wishing to take up a regulated profession, a document relating to the physical or mental health of the applicant, that Council shall accept as sufficient evidence thereof the presentation of the document required in the home Member State. Where the home Member State does not issue such a document, the Council shall accept a certificate issued by a competent authority in that State. In that case, the competent authorities of the home Member State must provide the document required within a period of two months;
 (f) the relevant Councils may prescribe that, in addition to evidence of formal qualifications, the person who satisfies the conditions of training required must provide a certificate from the competent authorities of his home Member State stating that this evidence of formal qualifications is that covered herein;
 (g) where the relevant Council so requires for its own nationals, an attestation confirming the absence of temporary or final suspensions from exercising the profession or of criminal convictions.
-- Added by: L.N. 27 of 2008.
-- Amended by: XXXIV. 2016.31.
