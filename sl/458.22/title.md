@@ -1,7 +1,6 @@
 [S.L.458.22 1
 SUBSIDIARY LEGISLATION 458.22
 PROCEDURE OF THE COUNCIL FOR NURSES AND MIDWIVES FOR THE ERASURE OF NAMES FROM
-THE REGISTER RULES
+THE REGISTER RULES*
 1st November, 1994
 LEGAL NOTICE 148 of 1994.
-The title of these Rules is the Procedure of the Council for 1. Nurses and Midwives for the Erasure of Names from the Register Rules.

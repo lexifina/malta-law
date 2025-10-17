@@ -19,7 +19,7 @@ a reasonable explanation for your absence would not debar the Council for the Pr
 Chairman,
 Date ............................ Council for the Professions
 Complimentary to Medicine
-[S.L.458.19 7 PROFESSIONALS COMPLIMENTARY TO MEDICINE
+[S.L.458.19 PROFESSIONALS COMPLIMENTARY TO MEDICINE 7
 FORM B Rule 18
 COUNCIL FOR THE PROFESSIONS COMPLIMENTARY TO
 MEDICINE

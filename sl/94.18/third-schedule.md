@@ -1,4 +1,5 @@
 ## THIRD SCHEDULE
+## QUALIFICATIONS
 # third-schedule
 (Standing Order 43)
 FORM OF CERTIFICATE OF REGISTRATION
@@ -10,4 +11,4 @@ NUMBER ............................. Date ............................. I HEREBY
 List of the .................... Register in respect of the name specified below:
 Seal
 Board for the Professions Supplementary to Medicine - Malta
-REGISTRAR [S.L.94.18 11 SUPPLEMENTARY TO MEDICINE
+REGISTRAR [S.L.94.18 SUPPLEMENTARY TO MEDICINE 11

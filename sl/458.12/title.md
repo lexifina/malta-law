@@ -1,6 +1,5 @@
 SUBSIDIARY LEGISLATION 458.12
 PHARMACY COUNCIL (ERASURE OF NAMES
-PROCEDURE) RULES
+PROCEDURE) RULES*
 15th July, 1969
 LEGAL NOTICE 76 of 1969, as amended by Legal Notice 80 of 1981.
-The title of these Rules is the Pharmacy Council (Erasure 1. of Names Procedure) Rules.
