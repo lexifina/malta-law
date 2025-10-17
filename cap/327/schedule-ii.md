@@ -1,6 +1,5 @@
 ## SCHEDULE II
 ## *Regulations shall be applicable from October 2022 or later.
-## *Regulations shall be applicable from October 2025 and October 2027.
 # schedule-ii
 STATUTES, REGULATIONS AND BYE-LAWS
 [ARTICLE 136]
@@ -32,8 +31,8 @@ The Faculty of Laws
 The Faculty of Media and Knowledge Sciences
 The Faculty of Medicine and Surgery
 The Faculty of Science
-The Faculty for Social Wellbeing
-The Faculty of Theology. Statute 3 - COURSES OF STUDIES, DEGREES AND DISTINCTIONS
+The Faculty for Social Wellbeing The Faculty of Theology.
+Statute 3 - COURSES OF STUDIES, DEGREES AND DISTINCTIONS
 3.1 Courses of Studies, Degrees and Distinctions
 1. The University shall have the power to award degrees, diplomas and certificates to candidates who fulfil the prescribed conditions after following the requisite courses of studies, and this in accordance with regulations and bye-laws made by Senate.
 2. Courses of studies shall start as the Council shall determine.
@@ -295,14 +294,14 @@ programme of study may specify other requirements in addition to the general ent
 another language as approved by the Admissions Board,
 provided that, as from September 2018 such other language cannot be English and applicants whose mother tongue is English shall be required to offer a language other than English instead of Maltese.
 (6) Notwithstanding that provided in sub-regulation (5), where Course regulations or bye-laws specify Maltese as a special Course requirement, the required pass in Maltese must be obtained at the level and grade as stipulated in the respective Course regulations or bye-laws.
-Maltese as a Requirement 13.* (1) As from October 2025, for admittance to the Junior College, and as from October 2027, for admittance to the University undergraduate courses, further to the requirement of Maltese at Secondary Education Certificate level, as specified in regulations 10 and 12 of these regulations, the Admissions Board may, in special circumstances and subject to the conditions set out hereunder, allow an applicant to offer another language instead of Maltese, as follows:
-(a) a Maltese applicant, who has lived and studied abroad for a significant
-period during the previous four years, and has not received adequate teaching in Maltese;
+Maltese as a Requirement
+13. (1) As from October 2025, for admittance to the Junior College, and as from October 2027, for admittance to the University undergraduate courses, nothwithstanding the requirement of Maltese at Secondary Education Certificate level, as specified in regulations 10 and 12 of these regulations, the Admissions Board may, in special circumstances and subject to the conditions set out hereunder, allow an applicant to offer another language instead of Maltese, as follows:
+(a) a Maltese applicant, who pursued less than three years of compulsory
+secondary level schooling in Malta, may present a pass in Il-Malti bħala Lingwa Barranija at SEC level 3 or in another language at SEC level 3 or at grade 5 or better or at a comparable level.
 (b) a Non-Maltese applicant, who pursued at least four years of compulsory
-secondary level schooling in Malta, may present a pass at Grade 5 or better in Il-Malti bħala Lingwa Barranija (SEC) for admission;
+secondary level schooling in Malta, may present a pass in Il-Malti bħala Lingwa Barranija at SEC level 3.
 (c) a Non-Maltese applicant, who pursued less than four years of compulsory
-secondary level schooling in Malta, may present either a pass at Grade 5 or better in Il-Malti bħala Lingwa Barranija (SEC) or in another language at
-SEC level at grade 5 or better or at a comparable level.
+secondary level schooling in Malta, may present a pass in Il-Malti bħala Lingwa Barranija at SEC level 3 or in another language at SEC level 3 or at grade 5 or better or at a comparable level.
 (2) Notwithstanding that provided in paragraph (1) of this regulation, where for admittance to the University Undergraduate courses, course regulations or bye-laws specify Maltese as a special Course requirement, the required pass in Maltese must be obtained at the level and grade as stipulated in the respective Course regulations or bye-laws.
 Proficiency and Aptitude Tests
 14. (1) The regulations or bye-laws of undergraduate or postgraduate Courses may require applicants to:
