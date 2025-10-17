@@ -1,17 +1,6 @@
-[S.L.458.07 1 (ERASURE OF NAMES PROCEDURE)
+[S.L.458.07 (ERASURE OF NAMES PROCEDURE) 1
 SUBSIDIARY LEGISLATION 458.07
 ADVISORY AND EXECUTIVE BOARD (ERASURE
-OF NAMES PROCEDURE) RULES
+OF NAMES PROCEDURE) RULES*
 18th December, 1959
 LEGAL NOTICE 86 of 1959, as amended by: Legal Notice 90 of 1968 and Act XLIX of 1981.
-The title of these Rules is the Advisory and Executive 1. Board (Erasure of Names Procedure) Rules.
-In these rules - 2.
-"the Act" means the Health Care Professions Act;
-"charge" means a charge specified in a notice of inquiry;
-"notice of inquiry" has the meaning assigned to it by rule 5(1);
-"medical auxiliary" means physiotherapist, chiropodist, dietitian, medical laboratory technician, occupational therapist, radiographer, remedial gymnast, speech therapist, masseur and masseuse registered under the Act, and references to the medical auxiliary in relation to any complaint or information or to any proceedings, are to be construed as references to the medical auxiliary against whom a complaint or information is sent to the Board;
-"Board" means the Advisory and Executive Board established by the Department of Health (Constitution) Ordinance;
-"Chairman" means the Chairman of the Advisory and Executive Board and includes, in the case of absence of the Chairman from a meeting of the Board, the Chairman of that meeting;
-"member of the kindred professions" means midwife, registered nurse or enrolled nurse, registered or enrolled, as the case may be, under the Act, and references to member of the kindred professions in relation to any complaint or information or to any proceedings, are to be construed as references to the member of the kindred professions against whom a complaint or information is sent to the Board;
-"appropriate register" means the appropriate register for the purposes of the Act;
-"secretary" means the secretary of the Advisory and Executive Board appointed in accordance with the provisions of article 24(4) of the Department of Health (Constitution) Ordinance.
