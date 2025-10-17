@@ -6,4 +6,4 @@ ADVOCACY - M.Adv. - AND MASTER OF
 NOTARIAL STUDIES - M.Not.St. - UNDER THE
 AUSPICES OF THE FACULTY OF LAWS
 12th December, 2014
-LEGAL NOTICE 455 of 2014, as amended by Legal Notice 80 of 2018 and 422 of 2018.
+LEGAL NOTICE 455 of 2014, as amended by Legal Notice 80 of 2018, 422 of 2018 and 243 of 2025.
