@@ -23,7 +23,7 @@ professional colleague when, for any reason, this appears to be desirable in the
 12. (a) A medical practitioner shall not voluntarily disclose without the consent
 of the patient, preferably to be given in writing, any information, including any certification, which he has obtained in the course of his professional relationship with the patient. An exception to this rule may
 only be made in terms of the requirements of local laws.
-(b) Any conviction under this provision may also involve disciplinary action to be taken by the Medical Council.
+(b) The Council may investigate any conviction under this provision and if it deems necessary, the said Council shall initiate disciplinary proceedings before the Disciplinary Committee in accordance with the Disciplinary Proceedings Regulations.
 13. (a) When the medical practitioner is requested to attend a patient who is
 already under the care of another practitioner, where the case is not one of emergency, he shall decline to do so except in consultation with the practitioner in attendance or in cases where the consultation is not agreed to, until the practitioner in attendance has been informed,
 preferably in writing, that his services are no longer desired.
@@ -38,3 +38,4 @@ still be entitled to charge the patient for his services.
 (c) contravention of the Dangerous Drugs Ordinance (Cap. 101) and regulations made thereunder;
 (d) advertising, canvassing, lectures, broadcasting, etc.,
 the attention of members of the medical profession is drawn to the General Notice mentioned in paragraph 3 hereof issued by the Medical Council and published in the Government Gazette of the 23rd June, 1981, with amendments as published in the Government Gazette of the 27th January, 1984.
+- Amended by: L.N. 249 of 2025.
