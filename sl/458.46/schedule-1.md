@@ -1,70 +1,79 @@
 ## SCHEDULE 1
+## †
+## 880
 # schedule-1
-(Regulation 3)
+(regulation 3)
 PRODUCT AUTHORISATION FEES AND OTHER ACTIVITIES
-Type of Application € MUTUAL RECOGNITION PROCEDURE/ DECENTRALISED PROCEDURE (Malta Concerned Member State) New Applications (per product) All applications 250
+Fee
 Type of Application
-MUTUAL RECOGNITION PROCEDURE/ DECENTRALISED PROCEDURE € (Malta Reference Member State)
+€ MUTUAL RECOGNITION PROCEDURE/ DECENTRALISED PROCEDURE/NATIONAL PROCEDURE (Malta Concerned Member State) New applications per product All applications 250
+Type of Application €
+MUTUAL RECOGNITION PROCEDURE/ DECENTRALISED PROCEDURE (Malta Reference Member State)
 New Applications per product
-Article 8.3 of Directive 2001/83/EC: New active substance 140,000
-Article 8.3 of Directive 2001/83/EC: Known active substance 125,000
-Article 10 (a) of Directive 2001/83/EC 26,000
-Article 10 (b) of Directive 2001/83/EC 26,000
-Article 10(1) of Directive 2001/83/EC 23,000
-Article 10(3) of Directive 2001/83/EC 23,000
-Article 10(c) of Directive 2001/83/EC 17,000
-Article 10(4) of Directive 2001/83/EC 40,000
-Article 10(5) of Directive 2001/83/EC 26,000
-Additional strength (applied for at the same time) 2,000
-Additional pharmaceutical form (applied for at the same time) 2,000 Line extension applied for after grant of Marketing Authorisation 10,000
-Parallel application (applied for at the same time) 10,000
-Repeat use MRP 10,000
-90% of relevant Application withdrawn during validation
-fee is refunded
-Duplicate application 10,000
-Change from Malta Concerned Member State to Reference Member
-4,000 State
-* 30% of fees are discounted for Micro Enterprises as defined in Commission Recommen-
-dation 2003/361/EC of 6 May 2003 concerning the definition of micro, small and medium-sized enterprises [Official Journal L 124 of 20.05.2003].
-* 30% discount applies if 3 or more new procedures are submitted during a period of 12
-months. Discount is given upon submission of the 3rd application.
-* Above discounts cannot be availed of at the same time.
-Malta Reference Member State DCP/MRP - Other activities €
-Renewal application per product 1,000
-Annual maintenance fee (for each form and strength) in 2015 and 800 beyond †
+Article 8.3 of Directive 2001/83/EC: New active substance* 140,000
+Article 8.3 of Directive 2001/83/EC: Known active substance* 125,000
+Article 10 (a) of Directive 2001/83/EC* 35,000
+Article 10 (b) of Directive 2001/83/EC* 40,000
+Article 10(1) of Directive 2001/83/EC* 26,000
+Article 10(3) of Directive 2001/83/EC* 28,000
+Article 10(c) of Directive 2001/83/EC* 17,000
+Article 10(4) of Directive 2001/83/EC* 50,000
+Article 10(5) of Directive 2001/83/EC* 26,000
+Additional strength (applied for at the same time) 3,000
+Additional pharmaceutical form (applied for at the same time) 4,000 Line extension 15,000
+Parallel application (same timetable as lead procedure) 10,000
+Mutual Recognition Procedure 10,000
+Duplicate application (different timetable from lead procedure) 15,000
+90% of relevant fee Application withdrawn during validation
+is refunded
+Change from Malta Concerned Member State to Reference Member State 5,000
+Zero Day procedure (per product included in procedure) 500
+*A discount of 30% shall be given on fees for Micro Enterprises as defined in Commission Recommendation 2003/361/EC
+Malta Reference Member State in a Mutual Recognition Procedure/
+€ Decentralised Procedure - Other activities Renewal of Marketing Authorisation 1,000
+Annual Maintenance fee (for each form and strength) † 900
 Activities covered include pharmacovigilance;
-OTHER ACTIVITIES €
+Type of Application €
+OTHER ACTIVITIES
 Renewal application per product (where applicable)
-450 National procedure
-Mutual Recognition Procedure/Decentralised procedure (Malta
-450 Concerned Member State)
-Other activities Annual maintenance fee (for each form/strength) (All Marketing
-250 Authorisations) in 2015 †
-Annual maintenance fee (for each form/strength) (All Marketing
-275 Authorisations) in 2016 †
-150 Market Authorisation Transfer
-Activities covered include pharmacovigilance; Type of Application € Traditional Herbal Medicinal Products National Simplified Registration for Traditional Herbal Medicinal Product (Quality assessment only) 582.34 Variations: Administrative 34.94 Technical 69.88 Authorisation in line with article 4(2) of the Medicines (Marketing Authorisation) Applications in accordance with article 126a of € Directive 2001/83/EC
-New application/renewal# received in 2015 and beyond 450
-250 Annual maintenance fee in 2015
-275 Annual maintenance fee in 2016 and beyond
-1000 Fast track application for authorisation (10 working days)*
-Renewal must be submitted 6 months before expiry (submitted every 5 years).
-* Timeline applies from positive validation of the application. The Medi-
-cines Authority may extend the timeline in exceptional circumstances. Homeopathic Product € New Product (single stock) 232.94 New Product (for 2 or more stocks) 465.87 Variations: Administrative 34.94 Technical 69.88
-Parallel importation licence (per strength/form/source country) €
-New parallel import licence application/renewal# received in 2015 and
-beyond 450
-250 Annual maintenance fee in 2015
-Annual maintenance fee in 2016 and beyond 275
-Renewal must be submitted 6 months before expiry (to be submitted every 5 years)
-Clinical trial application €
-1,5001 Phase 1,2 or 3 patient trial with a known product
-2,0001 Phase 1,2 or 3 patient trial with a new product
-1,5001 Phase 4 patient trial
-1501 Amendment/s
-Fees for academic research without support from industry benefit from a fee exemption of 70% of full fee. Decision will be at the discretion of the Medicines Authority;
-€ Classification Committee per product 46.59
-Scientific advice/pre-submission meetings €
-Malta Reference Member State/Rapporteur in European procedures or for national procedures 2,300
+450 National procedure Mutual Recognition Procedure/Decentralised Procedure (Malta Concerned
+450 Member State)
+275 Annual fee (for each form and strength) (All Authorisations) †
+150 Transfer of Marketing Authorisation Holder (change in legal entity)
+Activities covered include variations (all types) and pharmacovigilance
+Type of Application € Traditional Herbal Medicinal Products (Article 16 of Directive 2001/83/EC) (National/MT Reference Member State) Registration for Traditional Herbal Medicinal Product 10,000 Variations: Administrative 115 Technical 500 Renewal 800
+Type of Application Authorisation in accordance with regulation 4(2) of the Medicines (Marketing
+€ Authorisation) Regulations (S.L. 456.34)
+New application 1,000 Annual fee† 500
+Activities covered include pharmacovigilance and notifications of varia-tions Homeopathic Product € New Product (single stock) 250 New Product (for two (2) or more stocks) 500 Variations: Administrative 40 Technical 100 Renewal 100
+Parallel importation licence (per strength/form/source country)) €
+New parallel import licence application/renewal# of Parallel Import Licence 1,000
+500 Annual fee†
+Renewal application shall be submitted 6 months before the expiration of the licence (every 5 years) Activities covered include pharmacovigilance and notifications of varia-tion
+Request for Authorisation under of the Clinical Trial Regulations (S.L. 458.43)
+Phase I, II, III or IV of Clinical Trials €
+Investigational medicinal product containing an established active substance 1,500
+2,000 Investigational medicinal product containing a new active substance
+€ Amendments to Clinical Trials
+410 Notice of Amendment under the Clinical Trial Regulations (S.L. 458.43) Amendments to include a new investigational medicinal product dossier
+Application for clinical trial authorisation [under Regulation (EU) No 536/2014 of the European Parliament and of the Council of 16 April 2014 on clinical trials on me-dicinal products for human use and repealing Directive 2001/20/EC Applications with Investigational Medicinal Product Dossier (IMPD) € Mono National 3,170 MT - Reporting Member State 7,950 MT - Concerned Member State 2,000 Supplement - where MT subsequently becomes the Reporting Member State 4,780 Reporting Member State - 2nd & subsequent phases 500
+Non Commercial/Academic Clinical Trials 300
+Applications without Investigational Medicinal Product Dossier or with simplified Investigational Medicinal Product Dossier or a low interven-tion trial € Mono National 2,155 MT - Reporting Member State 6,750 MT - Concerned Member State 1,500 Supplement - where MT subsequently becomes the Reporting Member State 4,595 Reporting Member State - 2nd & subsequent phases 500 Non Commercial/Academic Clinical Trials 300
+Substantial Modifications (Part one only) - with the addition of a new Investiga-tional Medicinal Product Dossier (IMPD) € Mono National 1,230 MT - Reporting Member State 1,450 MT - Concerned Member State 1,175 Non Commercial/Academic Clinical Trials 100
+Substantial Modifications - other € Mono National 760 MT - Reporting Member State 1,060 MT - Concerned Member State 300 Non Commercial/Academic Clinical Trials 100
+Classification Committee € Classification Committee per product 50
+Scientific advice/pre-submission meetings € Malta Reference Member State/Rapporteur in European procedures or for national procedures 2,300 1 The fees in brackets are for applications for academic research without any financial support from industry. The decision shall be at the sole discretion of the Licensing Authority. Exemption in line with Article 20 of the Medicines Act (Cap. 458)
+€
+New application for medicinal products sourced from within the EU (per 550 specific product details) and 50*
+processing fee
+New application for medicinal products sourced from third countries (per 1,500 specific product details) and 50*
+processing fee
+Exemption in accordance with Delegated Regulation EU 2016/161 of 2 € October 2015 supplementing Directive 2001/83/EC of the European Parliament and of the Council by laying down detailed rules for the safety features appearing on the packaging of medicinal products for human use
+New application (per specific product details) 150
+and 50* processing fee
+Non-resolution of alerts breach 400
+and 50* processing fee
+*The processing fee is not refundable if the application is withdrawn or rejected.
 - Substituted by: L.N. 427 of 2007.
 - Amended by: L.N. 228 of 2012; L.N. 444 of 2012; L.N. 305 of 2014.
+- Substituted by: L.N. 254 of 2025.
