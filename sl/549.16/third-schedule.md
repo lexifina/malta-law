@@ -1,5 +1,6 @@
-## ANNEX II
-# annex-ii
+## THIRD SCHEDULE
+# third-schedule
+Declaration by the European Economic Community
 Declaration by the European Economic Community in conformity with Article 13(3) of the Vienna Convention for the protection of the ozone layer concerning the extent of its competence with respect to the matters covered by the Convention and by the Montreal Protocol on substances that deplete the ozone layer
 In accordance with the relevant Articles of the EEC Treaty, the Community has competence to take action relating to the preservation, protection and improvement of the quality of the environment.
 The Community has exercised its competence in the area covered by the Vienna Convention and the Montreal Protocol in adopting Council Decision 80/372/EEC of 26 March 1980 concerning chlorofluorocarbons in the environment, Council Decision 82/795/EEC of 15 November 1982 on the consolidation of precautionary measures concerning chlorolluorocarbons in the environment ($) and Council Regulation (EEC) No 3322/88 of 14 October 1988 on certain chlorolluorocarbons and halons which deplete the ozone layer. The Community may well exercise its competence in the future by adopting further legislation in this area.
