@@ -1,4 +1,7 @@
 ## SCHEDULE VI
+## (1)
+## (2)
+## (3)
 # schedule-vi
 [Regulation 9(7)]
 MODEL A
