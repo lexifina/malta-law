@@ -2,4 +2,4 @@ SUBSIDIARY LEGISLATION 368.02
 REGISTRATION AND LICENSING
 OF MOTOR VEHICLES REGULATIONS
 1st January, 2009; 1st August, 2009
-LEGAL NOTICE 198 of 2009, as amended by Act XV of 2009; Legal Notices 110 and 195 of 2011, 127 of 2013, 178 and 342 of 2015 and 125 of 2017, 139 of 2018, 265 of 2022 and 340 of 2024 and Act XXI of 2020 and Legal Notice 160 of 2025.
+LEGAL NOTICE 198 of 2009, as amended by Act XV of 2009; Legal Notices 110 and 195 of 2011, 127 of 2013, 178 and 342 of 2015 and 125 of 2017, 139 of 2018, 265 of 2022 and 340 of 2024 and Act XXI of 2020 and Legal Notices 160 and 262 of 2025.
