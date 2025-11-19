@@ -3,4 +3,4 @@ SUBSIDIARY LEGISLATION 499.34
 VESSEL TRAFFIC MONITORING AND REPORTING
 REQUIREMENTS REGULATIONS
 1st November, 2004
-LEGAL NOTICE 458 of 2004, as amended by Legal Notices 153 of 2006, and 298 and 425 of 2007; Act XV of 2009; and Legal Notices 506 of 2010, 449 of 2011, 333 of 2012, 333 of 2019 and 328 of 2021.
+LEGAL NOTICE 458 of 2004, as amended by Legal Notices 153 of 2006, and 298 and 425 of 2007; Act XV of 2009; and Legal Notices 506 of 2010, 449 of 2011, 333 of 2012, 333 of 2019, 328 of 2021 and 242 of 2026.
