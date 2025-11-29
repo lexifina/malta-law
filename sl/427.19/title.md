@@ -4,7 +4,7 @@ NOISE EMISSION IN THE ENVIRONMENT BY
 EQUIPMENT FOR USE OUTDOORS
 REGULATIONS
 1st January, 2003
-LEGAL NOTICE 64 of 2002.
+LEGAL NOTICE 64 of 2002, as amended by Legal Notices 58 of 2006 and 257 of 2026.
 1.1. The title of these regulations is the Noise Emission in the Environment by Equipment for Use Outdoors Regulations.
 1.2. These regulations shall become operative on the 1st January, 2003, which date shall be notified by the Authority in the Gazette:
 Provided that the manufacturer, or his authorised representative, may avail himself of the provisions of these regulations as from 1st July, 2002:
@@ -19,8 +19,8 @@ use. Non-powered attachments that are separately
 placed on the market or put into service shall be
 excluded, except for hand-held concrete-breakers
 and picks and for hydraulic hammers.
-2.2. The following shall be excluded from the scope of these regulations: [S.L.427.19 2 BY EQUIPMENT FOR USE OUTDOORS
-2.2.1. all equipment for use outdoors primarily intended
+2.2. The following shall be excluded from the scope of these regulations:
+2.2.1. all equipment for use outdoors primarily intended [S.L.427.19 2 BY EQUIPMENT FOR USE OUTDOORS
 for the transport of goods or persons by road or
 rail or by air or on waterways;
 2.2.2. equipment for use outdoors specially designed and
@@ -39,9 +39,8 @@ affixing on the equipment of the CE marking defined in Decision 93/465/EEC accom
 3.1.5. "sound power level LWA" means the A-weighted
 sound power in dB in relation to 1 pW as defined in MSA EN ISO 3744:1995 and MSA EN ISO 3746:1995;
 3.1.6. "measured sound power level" means a sound
-power level as determined from measurements as laid down in Annex III of the Directive, which is set out in Schedule III; measured values may be
+power level as determined from measurements as laid down in Annex III of the Directive, which is set out in Schedule III; measured values may be determined either from a single machine
 [S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 3
-determined either from a single machine
 representative for the type of equipment or from
 the average of a number of machines;
 3.1.7. "guaranteed sound power level" means a sound
@@ -92,8 +91,8 @@ Schedule IV;
 3.1.15.1. who is primarily responsible for the
 design and construction of the
 equipment so that it complies with the
-[S.L.427.19 4 BY EQUIPMENT FOR USE OUTDOORS
 requirements of these regulations;
+[S.L.427.19 4 BY EQUIPMENT FOR USE OUTDOORS
 3.1.15.2. who is responsible for "re-building" or
 modifying an existing equipment, and who in so doing is creating an "as-new" equipment;
 3.1.15.3. who takes responsibility for the
@@ -123,8 +122,8 @@ those manufactured for the local market.
 put into service any equipment, which does not comply with the provisions of these regulations.
 5.1. Equipment referred to in regulation 2.1 shall not be placed
 on the market or put into service until the manufacturer, or his authorised representative ensures that:
-[S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 5
 5.1.1. the equipment satisfies the requirements
+[S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 5
 concerning the noise emission in the environment
 of these regulations;
 5.1.2. the conformity assessment procedures referred to
@@ -139,8 +138,7 @@ conformity.
 7.1. Equipment referred to in regulation 2.1 bearing the CE marking provided for in regulation 8 and the indication of the guaranteed sound power level and which is accompanied by the EC declaration of conformity provided for in Annex II of the Directive, which is set out in Schedule II, shall be regarded as conforming to all the provisions of these regulations.
 8.1. The manufacturer, or his authorised representative, of equipment referred to in regulation 2.1 shall, in order to certify that an item of equipment is in conformity with the provisions of these regulations, draw up an EC declaration of conformity for each type of equipment manufactured; the minimum content of this declaration of conformity is laid down in Annex II of the Directive, which is set out in Schedule II.
 8.2. The declaration of conformity must be drawn up in Maltese and, or English when equipment is placed on the market or put into service.
-8.3. The manufacturer, or his authorised representative, of equipment referred to in regulation 2.1 shall keep a specimen of the EC declarativn of conformity for ten years from the date on which the equipment was last manufactured, together with the technical documentation as provided for in Annex V point 3, Annex VI point 3, Annex VII point 2, Annex VIII points 3.1 and 3.3 of the [S.L.427.19 6 BY EQUIPMENT FOR USE OUTDOORS
-Directive, which are set out in Schedules V, VI, VII and VIII.
+8.3. The manufacturer, or his authorised representative, of equipment referred to in regulation 2.1 shall keep a specimen of the EC declarativn of conformity for ten years from the date on which the equipment was last manufactured, together with the technical documentation as provided for in Annex V point 3, Annex VI point 3, Annex VII point 2, Annex VIII points 3.1 and 3.3 of the Directive, which are set out in Schedules V, VI, VII and VIII. [S.L.427.19 6 BY EQUIPMENT FOR USE OUTDOORS
 9.1. Before placing on the market or putting into service any
 equipment referred to in Article 12 of the Directive, which is set out in Schedule XI, the manufacturer, or his authorised representative, shall subject each type of equipment to one of the following conformity assessment procedures:
 9.1.1. the internal control of production with assessment
@@ -158,15 +156,14 @@ measures to ensure that equipment referred to in regulation 2.1 may be placed on
 local authorities responsible for implementing these regulations to cooperate with each other and provide each other with information
 in order to assist the functioning of these regulations.
 10.3. Where it is ascertained that equipment referred to in
-regulation 2.1 which is placed on the market or put into service does not comply with the requirements of these regulations, the Director of Consumer Affairs shall take all appropriate measures so that the manufacturer or his authorized representative shall bring the equipment into conformity with the provisions of these regulations, and shall so inform the Consumer and Industrial Goods Directorates of the Malta Standards Authority.
+regulation 2.1 which is placed on the market or put into service does not comply with the requirements of these regulations, the TRD shall take all appropriate measures so that the manufacturer or his authorised representative shall bring the equipment into conformity with the provisions of these regulations.
 10.4. Where -
 - the limit values referred to in Article 12 of the
 Directive, which is set out in Schedule XI, are exceeded; or
 - non-compliance with other provisions of these
 regulations continues despite measures taken under regulation 10.3,
-the Director of Consumer Affairs shall take all appropriate measures to restrict or prohibit the placing on the market or putting
+the Director of Consumer Affairs shall take all appropriate measures to restrict or prohibit the placing on the market or putting into service of the equipment in question or to ensure that it is withdrawn from the market, and shall so inform the Consumer and Industrial Goods Directorate of the Malta Standards Authority.
 [S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 7
-into service of the equipment in question or to ensure that it is withdrawn from the market, and shall so inform the Consumer and Industrial Goods Directorate of the Malta Standards Authority.
 10.5. Where a non-complying equipment or assembly, referred to in regulation 3, bears the CE marking, the Director of Consumer Affairs shall take appropriate action against whomsoever has affixed the marking or drawn up the declaration and shall so inform the Consumer and Industrial Goods Directorate of the Malta Standards Authority.
 10.6. Any decision taken pursuant to these regulations which restricts the placing on the market and putting into service of equipment shall state the exact grounds on which it is based.
 10.6.1. Such a decision shall be notified as soon as
@@ -183,8 +180,7 @@ Schedule IV.
 11.2. The CE marking shall be accompanied by the indication of the guaranteed sound power level. A model of this indication is given in Annex IV of the Dircctive, which is set out in Schedule IV.
 11.3. The CE marking of conformity and the indication of the guaranteed sound power level shall be affixed in a visible, legible and indelible form to each item of equipment.
 11.4. The affixing of markings or inscriptions on the equipment which are likely to be misleading with regard to the meaning or the CE marking or to the indication of the guaranteed sound power level shall be prohibited. Any other marking may be affixed to the equipment, provided that the visibility and legibility of the CE marking and the indication of the guaranteed sound power level is not thereby reduced.
-11.5. Where the equipment referred to in regulation 2.1 is [S.L.427.19 8 BY EQUIPMENT FOR USE OUTDOORS
-subject to other directives concerning other aspects and which also provide for the affixing of the CE marking, the marking shall indicate that such equipment also fulfils the provisions of those directives.
+11.5. Where the equipment referred to in regulation 2.1 is subject to other directives concerning other aspects and which also provide for the affixing of the CE marking, the marking shall indicate that such equipment also fulfils the provisions of those directives. [S.L.427.19 8 BY EQUIPMENT FOR USE OUTDOORS
 11.6. Where one or more of the directives referred to in
 regulation 11.5 allow the manufacturer, during a transitional period, to choose which arrangements to apply, the CE marking shall indicate that the equipment only fulfils the provisions of the directives applied by the manufacturer. In this case the particulars of those directives, as published in the Official Journal of the European Communities, must be given in the documents, notices or instructions required by those directives and accompanying such equipment.
 12.1. The provision of these regulations shall not prevent any

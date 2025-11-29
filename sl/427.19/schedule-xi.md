@@ -21,7 +21,8 @@ Lift trucks, combustion-engine driven, Schedule I, item 36 Schedule III, Part B,
 Loaders (<500 kW) Schedule I, item 37 Schedule III, Part B, item 37
 Mobile cranes Schedule I, item 38 Schedule III, Part B, item 38
 [S.L.427.19 70 BY EQUIPMENT FOR USE OUTDOORS
-DEFINITION MEASUREMENT Motor hoes (<3kW) Schedule I, item 40 Schedule III, Part B, item 40
+DEFINITION MEASUREMENT
+Motor hoes (<3kW) Schedule I, item 40 Schedule III, Part B, item 40
 Paver-finishers (excluding payer- Schedule I, item 41 Schedule III, Part B, item 41 finishers equipped with a high-compaction screed)
 Power generators (<400kW) Schedule I, item 45 Schedule III, Part B, item 45
 Tower cranes Schedule I, item 53 Schedule III, Part B, item 53
@@ -29,20 +30,36 @@ Welding generators Schedule l, item 57 Schedule III, Part B, item 57
 Net installed Permissible sound power level
 power P (in kW) in dB/1 pW Electric power
 (1) in kW Pel
-Stage I Stage II Type of equipment Mass of as from as from appliance 3 January 3 January m in kg
-2002 2006 Cutting width L
-in cm Compaction machines (vibrating rollers, P < 8 108 105 vibratory plates, vibratory rammers)
-8 < P < 70 109 106
-P > 70 89 + 11 lg P 86 + 11 lg P Tracked dozers, tracked loaders tracked P < 55 106 103 excavator-loaders
-P < 55 87 + 11 lg P 84 + 11 lg P Wheeled dozers, wheeled loaders, wheeled P < 55 104 101 excavator-loaders, dumpers, graders, loader-type landfill compactors, combustion-engine driven counterbalanced
-P > 55 85 + 11 lg P 82 + 11 lg P lift trucks, mobile cranes, compaction machines (non-vibrating rollers), never-finishers, hydraulic power packs Excavators, builders' hoists for the P < 15 96 93 transport of goods, construction winches,
+Type of equipment
+Mass of appliance m in kg
+Cutting width
+L in cm
+Stage I Stage II as from as from 3 January 3 January
+2002 2006
+105(2) Compaction machines (vibrating rollers, P < 8 108 vibratory plates, vibratory rammers) 106(2)
+8 < P < 70 109
+86 + 11 lg P(2) P > 70 89 + 11 lg P
+103(2) Tracked dozers, tracked loaders tracked P < 55 106 excavator-loaders 84 + 11 lg P(2)
+P < 55 87 + 11 lg P
+101(2)(3) Wheeled dozers, wheeled loaders, wheeled P < 55 104 excavator-loaders, dumpers, graders, loader-type landfill compactors, combustion-engine driven counterbalanced 82 + 11 lg
+P > 55 85 + 11 lg P lift trucks, mobile cranes, compaction P(2)(3) machines (non-vibrating rollers), never-finishers, hydraulic power packs Excavators, builders' hoists for the P < 15 96 93 transport of goods, construction winches,
 P > 15 83 + 11 lg P 80 + 11 lg P motor hoes Hand-held concrete-breakers and picks m < 15 107 105
-15 < m < 30 94 + 11 lg m 92 + 11 lg m
+92 + 11 lg m(2) 15 < m < 30 94 + 11 lg m
 m < 30 96 + 11 lg m 94 + 11 lg m Tower cranes 98 + lg P 96 + lg P Welding and power generators Pel < 2 97 + lg Pel 95 + lg Pel
 2 < Pel < 10 98 + lg Pel 96 + lg Pel
-Pel > 10 97 + lg Pel 95 + lg Pel Compressors P < 15 99 97
+10 > Pel 97 + lg Pel 95 + lg Pel Compressors P < 15 99 97
 P > 15 97 + 2 lg P 95 + 2 lg P
+[S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 71
+Net installed Permissible sound power level
+power P (in kW) in dB/1 pW Electric power
+(1) in kW Pel
+Type of equipment
+Mass of appliance m in kg
+Cutting width
+L in cm
+Stage I Stage II as from as from 3 January 3 January
+2002 2006
 94(2) Lawnmowers, lawn trimmers/lawn edge L < 50 96 trimmers
 50 < L < 70 100 98
 98(2) 70 < L < 120 100 103(2) L > 120 105
-[S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 71
+- Amended by: L.N. 58 of 2006.

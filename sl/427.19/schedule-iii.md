@@ -1,4 +1,5 @@
 ## SCHEDULE III
+## *Net power means the power in "EC kW" obtained on the test bench at the end of the crankshaft, or its equivalent, measured in accordance with the EC method of measuring the power of internal combustion engines for road vehicles, except that the power of the engine cooling fan is excluded.
 # schedule-iii
 Based on Annex III of the Directive
 METHOD OF MEASUREMENT OF AIRBORNE NOISE
