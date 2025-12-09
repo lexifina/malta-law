@@ -35,3 +35,4 @@ day of February, 1965, falls, or on the first day of his contribution year in wh
 (ii) ending on the last day of his last complete contribution year before the beginning of his benefit year which includes the day on
 which the conditions are required to be satisfied,
 is not less than 50.
+- Amended by: XVI. 1990.57; VIII. 1992.47; XXI. 1996.65; VII.2018.45; XVIII.2021.25; VII.2022.42.

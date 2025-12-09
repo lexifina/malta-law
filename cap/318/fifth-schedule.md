@@ -84,6 +84,7 @@ MEDICAL AID MAY BE ACCORDED
 (r) Spinal Cord Pathologies
 (s) Congenital Indifference to pain
 (t) Neuromyelitis Optica
+(u) Muscular Dystrophy
 8. Renal diseases:
 (a) Chronic Kidney Disease
 9. Endocrine diseases:
@@ -130,14 +131,16 @@ MEDICAL AID MAY BE ACCORDED
 14. Eye diseases:
 (a) Glaucoma
 (b) Vascular Disease of the Retina
+(c) Non-Infectious Keratitis
 15. Immunodeficiency:
 (a) Primary Immunodeficiency Disorder
-(b) Secondary Immunodeficiency Disorder
-16. Chromosome Disorders:
+(b) Secondary Immunodeficiency Disorder 16. Chromosome Disorders:
 (a) Down Syndrome
 (b) Turner Syndrome
 (c) Prader-Willi Syndrome
 17. Gender Identity and Sex Characteristics Related Conditions
+18. Life threatening allergic reactions
+(a) Anaphylaxis
 - Amended by: XVI. 1990. 52; XIII. 1991.44; XXV. 1994.2,35.
 - Substituted by: L.N. 56 of 1999; L.N. 84 of 1999; L.N. 62 of 2007.
-- Amended by: I. 2012.18; L.N. 79 of 2014; L.N. 302 of 2015; IXV. 2017.39; L.N. 44 of 2018; L.N. 183 of 2019; VIII.2020.34; L.N. 307 of 2021; L.N. 55 of 2023; L.N. 56 of 2025; IX.2025.31.
+- Amended by: I. 2012.18; L.N. 79 of 2014; L.N. 302 of 2015; IXV. 2017.39; L.N. 44 of 2018; L.N. 183 of 2019; VIII.2020.34; L.N. 307 of 2021; L.N. 55 of 2023; L.N. 56 of 2025; IX.2025.31; L.N. 282 of 2025.
