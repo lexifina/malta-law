@@ -10,3 +10,4 @@ Increased Severe Disability Assistance
 Not less than 75%
 Assistance for the Visually Impaired
 Not less than 50%
+- Added by: IX.2025.35.
