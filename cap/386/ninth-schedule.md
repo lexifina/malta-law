@@ -33,4 +33,3 @@ Disregard of certain rights
 (a) held by way of security, provided that the rights in question are
 exercised in accordance with the instructions received; or
 (b) held in connection with the granting of loans as part of normal business activities, provided that the voting rights are exercised in the interests of the person providing the security.
-- See IV. 2003.168..
