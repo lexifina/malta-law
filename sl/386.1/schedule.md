@@ -1,48 +1,49 @@
 ## SCHEDULE
+## Subsituted by: L.N. 287 of 2025.
+## (*)
 # schedule
 (Regulation 2)
 Form A
-No. of Partnership ...............................
+Partnership Reg. No. ………………….
 COMPANIES ACT
-Notification of appointment of a partner
-Pursuant to article 19(3) / article 52 in respect of Partnership
-en nom collectif and en commandite
-Name of Partnership .......................................................................................
-Delivered by .................................................................................................... .........................................................................................................................
-_____________________________________________________________
+(CAP. 386)
+Notice of appointment of a partner pursuant to article 19(3)/article 52 in respect of
+partnerships en nom collectif and en commandite
+Name of Partnership ………………………...............
+Delivered by …………………………………………….
 To the Registrar of Companies:
-(a) .................................................................................................................... hereby gives notice in accordance with article 19(3) / 66(4)* of the Companies Act,
-that (b) ............................................................................................................ has been appointed a partner of the above-mentioned partnership with effect from ........................................................
-Signature ................................................
-Partner/s (c)
-Dated this .................... day of ......................... of the year ...................
-_____________________________________________________________
+(a) ……………………………………..hereby gives notice in accordance with article 19(3)/article 52 (*) of the Companies Act that (b) …………………………has been appointed Partner/General Partner/Limited Partner(*) of the above-mentioned partnership and that his/her/its interest (*) in the partnership amounts to (c) ................... , with effect from (d) ...................
+Signature……………… <Name>
+Partner/s / General Partner/s / Limited Partner/s (e)(*)
+Dated this ………… day of ……………… of the year …..
+________________________________________________________________
 This form must be completed in typed form.
-(a) State partnership name.
-(b) State name, residence and identification document number of partner.
-(c) If more than one partner has the administration or representation of the partnership, each one of them must sign.
-* Delete as necessary.
+(a) State partnership name
+(b) State name, address and identification details of the partner
+(c) State the interest (contribution) amount in figures
+(d) State the effective date (day/month/year) of appointment of partner
+(e) If more than one partner has the administration or representation of the partnership, each one of them must sign
+(*) Delete as necessary.
 Form A1
-No. of Partnership ..............................
-COMPANIES ACT (CAP. 386)
-Notification of cessation to be a partner
-Pursuant to article 19(3) / article 52 in respect of Partnership
-en nom collectif and en commandite
-Name of Partnership .......................................................................................
-Delivered by .................................................................................................... .........................................................................................................................
-_____________________________________________________________
+Partnership Reg. No. ………………….
+COMPANIES ACT
+(CAP. 386)
+Notice of cessation to be a partner pursuant to article 19(3)/article 52 in respect of
+partnerships en nom collectif and en commandite
+Name of Partnership ………………………..................
+Delivered by …………………………………………….
 To the Registrar of Companies:
-(a) .................................................................................................................... hereby gives notice in accordance with article 19(3) / 66(4)* of the Companies Act,
-that (b) ............................................................................................................ has ceased to be a partner of the above-mentioned partnership with effect from ........................................................
-Signature ................................................
-Partner/s (c)
-Dated this .................... day of ......................... of the year ...................
-_____________________________________________________________
+(a) ……………………………………..hereby gives notice in accordance with article 19(3)/article 52 (*) of the Companies Act that (b) …………………………has ceased to be a Partner/ General Partner/Limited Partner (*) of the above-mentioned partnership, with effect from (c)...................................................
+Signature……………… <Name >
+Partner/General Partner/s / Limited Partner/s (d)(*)
+Dated this ………… day of ……………… of the year …..
+_________________________________________________________________
 This form must be completed in typed form.
-(a) State partnership name.
-(b) State name, residence and identification document number of partner.
-(c) If more than one partner has the administration or representation of the partnership, each one of them must sign.
-* Delete as necessary.
+(a) State partnership name
+(b) State name, address and identification details of the partner
+(c) State the effective date (day/month/year) of cessation of partner
+(d) If more than one partner has the administration or representation of the partnership, each one of them must sign
+(*) Delete as necessary.
 Form A2
 No. of Partnership ..............................
 COMPANIES ACT (CAP. 386)
@@ -98,24 +99,47 @@ Dated this .......................... day of ...................... of the year 
 This form must be completed in typed form.
 (a) State partnership name.
 (b) If more than one partner has the administration or representation of the partnership, each one of them must sign.
-Form B (1)
-No. of Company .............................
+Form B1
+Reg. No. of Company ……………………….
+COMPANIES ACT
+(CAP. 386)
+Notice of a resolution for dissolution
+Pursuant to Article 214A(3)(a)
+Name of Company...............................
+Delivered by..........................................
+To the Registrar of Companies:
+(a)…………………………………….hereby gives notice in accordance with Article 214A(3)(a) of the Companies Act, that it has passed an extraordinary resolution dated (b).....................................................authorising the directors to approve the filing of an application in terms of Article 214A (3) of the Companies Act and that the shareholders are fully aware that the Company will be put into dissolution upon the registration of the mentioned application with the Registrar.
+Signature.........................................
+<Name>
+Director/Secretary(*)
+Dated this ………… day of ……………… of the year …..
+_________________________________________________________________
+This form must be completed in typed form.
+(a) Insert company name
+(b) Insert date of resolution (day/month//year)
+(*) Delete as necessary.
+Form B1(A)
+Reg No. of Company...........................
 COMPANIES ACT
 (CAP. 386)
 Notice of a resolution for dissolution and consequential voluntary winding up
-Pursuant to article 265(1)
-Name of Company ................................................................................................
-Delivered by .........................................................................................................
--------------------------------------------------------------------------------------------------
+Pursuant to Article 265(1)
+Name of Company................................................................
+Delivered by............................................................................
 To the Registrar of Companies:
-(a) ......................................................................................................................... hereby gives notice in accordance with article 265(1) of the Companies Act that it has passed an extraordinary resolution dated ............................. for its dissolution on the .......................... and consequential voluntary winding up.
-A declaration in accordance with article 268(1) of the Companies Act has/ has not* been made by the directors.
-Name and Signature ...............................................
-Director/Secretary/Manager*
-Dated this .......................... day of ...................... of the year ...............
--------------------------------------------------------------------------------------------------
+(a)......................................hereby gives notice in accordance with article 265 (1) of the Companies Act that it has passed an extraordinary resolution dated
+(b).............................................for its dissolution on the
+(c)............................................and consequential voluntary winding up. A declaration in accordance with Article 268(1) of the Companies Act has/has not been made by the directors.
+Signature..................................
+<Name>
+Director/ Secretary (*)
+Dated this .........................day of .....................of the year................
+_________________________________________________________________
 This form must be completed in typed form.
-(a) State company name. * Delete as necessary.
+(a) State the company name
+(b) State the date of the resolution (day/month/year)
+(c) State the date of dissolution (day/month/year)
+(*) Delete as applicable.
 Form B (2)
 No. of Company .................................
 COMPANIES ACT
@@ -135,6 +159,64 @@ This form must be completed in typed form.
 (a) This declaration is to be delivered together with the notice of dissolution.
 (b) In the case of a company having more than two directors, this declaration is to be submitted and signed by the majority of the directors.
 (c) State company name.
+Form B(3)
+Reg. No. of Company ……………………………
+COMPANIES ACT
+(CAP. 386)
+Application for simplified dissolution procedure
+Pursuant to Article 214A (3)(b) and (4)
+Name of Company ..............................................
+Delivered by ........................................................
+To the Registrar of Companies:
+The Company (a) ..................................................................... is hereby submitting an application in accordance with Article 214A (3)(b) and (4) of the Companies Act for it to be dissolved and have its name struck off the register.
+1. I/We(*) ....................................................... (b) in my/our (*) capacity as the sole director/ the directors (*) of the company (c) ................................................................. bearing company registration number (d) .......................................................... (the "Company") further declare that, in the six (6) months preceding the date of this application, the company:
+(a) has not carried out any changes in its name; or
+(b) has not traded or otherwise carried on business; or
+(c) has not employed employees other than any person who is an officer of the company; or
+(d) does not have any outstanding documents or penalties with the Registrar, which remain outstanding as at the date of the application; or
+(e) did not have pledged any of its shares .
+2. I/we (*) hereby declare, that the Company:
+(i) is not regulated under any other applicable law in Malta; and
+(ii) has discharged in full any liabilities towards its creditors and/or such liabilities have been written off by its creditors, other than, if applicable, any outstanding fees to the company's current officers or current corporate service providers and, or any loans payable to any of the company's shareholders; and
+(iii) has no pending court proceedings in, or outside of Malta; and
+(iv) does not have any assets in excess of five thousand euro (€5,000); and
+(v) has not entered into any deeds or contracts in the previous six (6) months, other than with service providers to the company; and
+(vi) has no outstanding amounts due to any government authority or body.
+3. I/we(*) confirm in my/our (*) personal capacity as the last appointed officer/s (*) of the company, that I am/we are (*) retaining the details of the beneficial owners and financial records of the Company as required by law/ that................................................. (e) is the designated person to retain the details of the beneficial owners and financial records of the Company as required by law.(*)
+Signature (f) .........................................................
+<Name>
+Director/s (g)
+Dated this ............ day of ................ of the year ........................
+This form must be completed in typed form.
+(a) Insert company name
+(b) Insert full name and surname of director/s
+(c) Re-insert company name
+(d) Insert company registration number
+(e) Insert full name and surname of designated person
+(f) Signatures of all directors of the company
+(g) Insert full name and surname of the director/s
+(*) Delete as applicable.
+Form B(4)
+Reg. No. of Company ……………………………
+COMPANIES ACT
+(CAP. 386)
+Director's declaration
+Pursuant to article 214A(3)(c)
+Name of Company ....................................................
+Delivered by ...............................................................
+To the Registrar of Companies:
+I/We (*) _________________________(a) in my/our (*) capacity as the sole director/ the directors (*) of the company hereby confirm, in terms of paragraph (c) of sub-article (3) of article 214A of the Companies Act that:
+(a) a shareholders' resolution has been duly adopted to approve the simplified voluntary dissolution procedure, in accordance with the company's memorandum and articles of association; and
+(b) all bank accounts have been closed/the company did not have bank accounts (*); and
+(c) an application has been filed online for the de-registration of the company for value added tax purposes in Malta/the company is not registered for value added tax purposes in Malta; and
+(d) the company has no employed person/s, other than any person who is an officer of the company.
+Signature .........................................................
+<Name>
+Director(s)
+Dated this.......... day of..........................of the year ...............
+This form must be completed in typed form.
+(a) Insert full name and surname
+(*) Delete as necessary.
 Form C
 No. of Partnership .................................
 COMPANIES ACT
@@ -259,6 +341,24 @@ Dated this .......................... day of ...................... of the year 
 -------------------------------------------------------------------------------------------------
 This form must be completed in typed form.
 (a) State partnership/company name. * Delete as necessary
+Form F (3)
+Company/Partnership Reg. No. ………………….
+COMPANIES ACT
+(CAP. 386)
+Notice of appointment of auditor/s pursuant to article 151(9)/article 66(3)
+Name of Company/Partnership ………………………....
+.Delivered by …………………………………………….
+To the Registrar of Companies:
+(a) ……………………………………..hereby gives notice in accordance with article 151(9)/article 66(3) (*) of the Companies Act that (b) …………………………with warrant number (c) …………………………has been appointed auditor/have been appointed joint auditors (*) of the company/partnership (*) with effect from the (d) …………………………
+Signature……………… Partner/Director/Secretary (*)
+Dated this ………… day of ……………… of the year …..
+________________________________________________
+This form must be completed in typed form.
+(a) Insert name of company/partnership
+(b) Name and surname of auditor/s
+(c) Auditors' warrant number
+(d) Insert date in full (day/month/year)
+(*) Delete as necessary
 Form G
 No. of Company ...............................
 COMPANIES ACT
@@ -347,24 +447,74 @@ Dated this .......................... day of ...................... of the year 
 This form must be completed in typed form.
 (a) State company name.
 Form K
-No. of Company ...............................
+Company Reg. No. ………………….
 COMPANIES ACT
-Notification of changes among directors or company secretary
-or in the representation of a company
-Pursuant to article 146(1)
-Name of Company ................................................................................................
-Delivered by .........................................................................................................
--------------------------------------------------------------------------------------------------
+Notification of changes among directors or company secretary or in the representation of
+the company and the directors' consent and declaration for appointment pursuant to
+articles 139(1), 139(5) and 146(1)
+Name of Company ………………………………………
+Delivered by ……………………………………….…….
 To the Registrar of Companies:
-(a) ............................................................. hereby gives notice in accordance with article 146(1) of the Companies Act that:
-Effective date of change ........................................................................................
-Signature ...............................................
-Director/Secretary/Manager*
-Dated this .......................... day of ...................... of the year ...............
--------------------------------------------------------------------------------------------------
+Section A - Change in directors or company secretary or representation of a company
+(a) …………………………………….. hereby gives notice in accordance with article 146(1) of the Companies Act that: …………………………………......……………....
+.................................................................................................................................
+Effective date of change (b) …………………………….
+Signature …….....…………
+Director/Secretary/Manager (^)
+Dated this ………… day of ……………… of the year …..
+Section B - Directors' consent and declaration for appointment (*)
+I, (c) ...................................... the undersigned, hereby consent, in terms of article 139(1) of the Companies Act, Cap. 386, to be appointed as a director of the said company.
+Furthermore, I hereby declare, in accordance with the provisions of article 139(5) of the Companies Act, Cap. 386, that I am not aware of any circumstances which could lead to a disqualification from being appointed or to hold the office of director of a company.
+Effective date: (d).................................
+Signature .............................
+Proposed Director
+Dated this .......... day of .............. of the year ..........
+This form must be completed in typed format
+(a) Insert name of company
+(b) Insert date in full (day/month/year) (^) Delete as necessary
+(c) Insert official name and surname
+(d) Insert date in full (day/month/year)
+(*) Delete if no new director is being appointed or replicate as necessary
+Form K(1)
+COMPANIES ACT (CAP. 386)
+Declaration of compliance with article 139 made by persons applying Ħ
+to become directors of a proposed company
+Pursuant to article 139(1) and (5)
+Name of Company....................................................
+Delivered by...............................................................................
+To the Registrar of Companies:
+I, (a) ...................................... the undersigned, hereby consent, in terms of article 139(1) of the Companies Act, Cap. 386, to be appointed as a director of the said proposed company.
+Furthermore, I hereby declare that in accordance with the provisions of article 139(5) of the Companies Act, Cap. 386, I am not aware of any circumstances which could lead to a disqualification from being appointed or to hold the office of director of a company.
+Effective date: (b)
+Signature ..................................................
+Proposed Director
+Dated this................. day of......................... of the year.....
 This form must be completed in typed form.
-(a) State company name.
-* Delete as necessary
+(a) State official name and surname
+(b) Insert full date (day/month/year)
+Form K(1)
+COMPANIES ACT (CAP. 386)
+Form K(2)
+Company Reg. No..........................
+COMPANIES ACT
+(CAP. 386)
+Notification of appointment, resignation or removal of the person appointed by an order
+of the Court or by a competent authority pursuant to the last proviso to article 146(1)
+Name of Company....................................................
+Delivered by...........................................................................
+To the Registrar of Companies:
+I, (a)......................................................... the undersigned, hereby give notice in accordance with the provisions of the last proviso to article 146(1) of the Companies Act, that I have been appointed/resigned/been removed (*) as (b) ............................................ of the company with effect from (c) ...................................... by virtue of (d)............................. hereby being attached (e).
+Signature................................................
+Administrator/other person in charge of company (*)
+Dated this................. day of......................... of the year.........
+_____________________________________________________
+This form must be completed in typed form.
+(a) Official name of person being appointed/resigning/being removed
+(b) Specify the role of appointment/resignation/removal in accordance with article 146(1)
+(c) Insert full date (day/month/year)
+(d) Specify the instrument/official document reference (e.g. court decree, competent authority as defined in the Prevention of Money Laundering and Funding of Terrorism Regulations)
+(e) Attach a copy of the publication/instrument of the appointment or any other official document in case of a resignation/removal
+Delete as necessary. (*)
 Form L
 No. of Company .................................
 COMPANIES ACT
@@ -552,23 +702,26 @@ This form must be completed in typed form.
 (a) State partnership or company name.
 * Delete as necessary.
 Form Q
-No. of Company ……………………………
+No. of Company ...................................
 COMPANIES ACT
 (CAP. 386)
-Notification of change in registered office of a company
-Pursuant to article 79(2)
-Name of Company ................................................................................................
-Delivered by .........................................................................................................
--------------------------------------------------------------------------------------------------
+Notification of change in the registered office and/or electronic mail address of a
+Company
+Pursuant to Article 79(2)
+Name of Company .............................
+Delivered by........................................
 To the Registrar of Companies:
-(a) ............................................................................................................. hereby gives notice in accordance with article 79(2) of the Companies Act that the company has changed its registered office to: ........................................................ ..............................................................................................................................
-Effective Date of Change ..............................................
-Name and signature.....................................
-Director/Secretary/Manager*
-Dated this ................................ day of .................... of the year ...............
--------------------------------------------------------------------------------------------------
+(a)............................................................................... hereby gives notice in accordance with Article 79(2) of the Companies Act that the Company has changed its registered office and/or electronic mail address to:
+(b)......................................................, with effect from (c)....................................
+Name and signature: ......................................................
+Director/Secretary (*)
+Dated this.....................day of......................of the year.........................
+_________________________________________________________________
 This form must be completed in typed form.
-(a) State company name. * Delete as necessary.
+(a) State Company name
+(b) State updated registered office address and / or electronic mail address
+(c) State the effective date of change (day/month/year)
+(*) Delete as necessary.
 Form R
 No. of Company ...............................
 COMPANIES ACT
@@ -654,7 +807,7 @@ Delivered by ...................................................................
 -------------------------------------------------------------------------------------------------
 To the Registrar of Companies:
 (a) ................................................................ hereby gives notice in accordance with article 115(5) of the Companies Act that (b) .................. fully paid preference shares have been redeemed and the price of redemption has been paid in full.
-Names and address of holders of redeeemed preference shares
+Names and address of holders of redeemed preference shares
 Name Address No. of shares Class
 redeemed
 TOTAL
@@ -891,4 +1044,8 @@ This form must be completed in typed form.
 (b) State residential address.
 (c) State date when the winding up of the above company terminated.
 * Delete as necessary.
-- Amended by: L.N. 116 of 1997; L.N. 214 of 2007; L.N. 425 of 2007; L.N. 401 of 2011; L.N. 358 of 2014.
+- Amended by: L.N. 116 of 1997; L.N. 214 of 2007; L.N. 425 of 2007; L.N. 401 of 2011; L.N. 358 of 2014; L.N. 92 of 2025; L.N. 287 of 2025.
+- Added by: L.N. 92 of 2025.
+- Substituted by: L.N. 51 of 2022.
+- Amended by: L.N. 92 of 2025.
+- Added by: L.N. 92 of 2025.
