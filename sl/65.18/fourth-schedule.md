@@ -64,3 +64,4 @@ Specific provisions concerning category g
 4. Compulsory check of general knowledge on:
 (a) mechanical aspects with a bearing on road safety, including checks on tyres, brakes, oil levels and lights; and
 (b) the precautions to be taken during the removal and replacement of wheels.
+- Amended by: L.N. 25 of 2009; L.N. 172 of 2011; L.N. 14 of 2014; L.N. 234 of 2015; L.N. 56 of 2016.

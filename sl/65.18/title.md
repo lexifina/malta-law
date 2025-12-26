@@ -2,6 +2,6 @@ SUBSIDIARY LEGISLATION 65.18
 MOTOR VEHICLES (DRIVING LICENCES)
 REGULATIONS
 2nd January, 2004; 29th March, 2004
-LEGAL NOTICE 191 of 2002, as amended by Legal Notices 14 of 2004, 25 and 408 of 2007, 105 of 2008 and 25 of 2009; Act XV of 2009; and Legal Notices 89 and 426 of 2010, 172 of 2011, 97 and 426 of 2012, 149 of 2013, 14 of 2014, 234 of 2015, 56 of 2016, 331 of 2017 and 16 and 447 of 2018 and 183, 193 and 449 of 2020 and 210 of 2021 and 109 of 2023 and 114 of 2024.
+LEGAL NOTICE 191 of 2002, as amended by Legal Notices 14 of 2004, 25 and 408 of 2007, 105 of 2008 and 25 of 2009; Act XV of 2009; and Legal Notices 89 and 426 of 2010, 172 of 2011, 97 and 426 of 2012, 149 of 2013, 14 of 2014, 234 of 2015, 56 of 2016, 331 of 2017 and 16 and 447 of 2018 and 183, 193 and 449 of 2020, 210 of 2021, 109 of 2023, 114 of 2024 and 298 of 2025.
 PART I
 PRELIMINARY

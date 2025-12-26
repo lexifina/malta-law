@@ -56,4 +56,3 @@ clearance for, other vehicles and other road users, and
 (a) the method, clarity, adequacy and correctness of his instruction,
 (b) the observation and correction of the examiner's driving errors, and
 (c) his manner generally.
-- Amended by: L.N. 14 of 2004; L.N. 25 of 2007; L.N. 172 of 2011.

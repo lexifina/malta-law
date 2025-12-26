@@ -103,3 +103,6 @@ training courses of the approved centres, and must be entitled to monitor such c
 are no longer complied with.
 The approved centre must guarantee that the instructors have a sound knowledge of the most recent regulations and training requirements. As part of a specific selection procedure, the instructors must provide certification showing a knowledge of both the subject material and teaching methods. As regards the practical part of the training, instructors must provide certification of experience as professional drivers or similar driving experience, such as that of driving instructors for heavy vehicles.
 The programme of instruction must be in accordance with the approval and must cover the subjects in the list in section 1.
+- Added by: L.N. 25 of 2007.
+- Amended by: L.N. 172 of 2011.
+- Substituted by: L.N. 193 of 2020.

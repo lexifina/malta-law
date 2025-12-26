@@ -52,3 +52,4 @@ Driving licences which before the 19th January, 2013, were in category -
 as from the 19th January, 2013:
 Provided that persons who before the 19th January, 2013, held a category f driving licence may continue to drive motor vehicles which can carry up to eighteen passengers until their category F licence expires:
 Provided also that such holders of a category f driving licence shall be exempt from the payment of fees in respect of the theory and practical tests if they apply to add a category D or DE to their driving licence.
+- Amended by: L.N. 25 of 2007; L.N. 172 of 2011; L.N. 149 of 2013; L.N. 234 of 2015; L.N. 56 of 2016; L.N. 183 of 2020; L.N. 193 of 2020.
