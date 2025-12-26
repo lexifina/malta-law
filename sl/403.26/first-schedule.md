@@ -41,7 +41,10 @@ class class class
 (i) long term business 1,600 15,000 1,800 per 17,000 2,000 per 20,000
 per class class class
 (ii) general business 1,000 10,000 1,200 per 12,000 1,500 per 15,000
-per class class class Establishment of a 700 900 1,400 branch Reinsurance special 2,500 2,500 2,500 purpose vehicle Additional risk 2,500 2,500 2,500
+per class class class
+Approved auditor:
+500 (a) individual 400 450
+6,000 (b) audit firm 2,000 4,500 Establishment of a 700 900 1,400 branch Reinsurance special 2,500 2,500 2,500 purpose vehicle Additional risk 2,500 2,500 2,500
 per contract per contract per contract Securitisation cell company:
 (a) carrying on business 2,500 2,500 2,500 as a reinsurance special purpose vehicle
 (b) creation of a cell 2,500 2,500 2,500 Transfer of general Minimum fee: Minimum fee: Minimum fee: business 5,000 7,000 10,000 Transfer of general or 7,000 9,000 12,000 long term business by an insurance or reinsurance undertaking whose head office is in a country outside Malta
