@@ -1,4 +1,4 @@
 SUBSIDIARY LEGISLATION 345.28
 FINANCIAL MARKETS (FEES) REGULATIONS
 1st January, 2025
-LEGAL NOTICE 367 of 2024, as amended by Legal Notice 64 of 2025.
+LEGAL NOTICE 367 of 2024, as amended by Legal Notice 64 and 301 of 2025.

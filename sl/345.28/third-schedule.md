@@ -27,10 +27,14 @@ movables
 Full valuation report: other (shares, intangible 3,000 assets, etc.)
 Condensed valuation
 500
-report
-Article 8 of the Prospectus Regulation Final terms filing fee 50
+report Article 8 of the Prospectus Regulation Final terms filing fee 50
 Listing Fees
 Securities to be listed Fee (€)
 Equity securities 15,000
 Collective investment schemes 2,000
-- Amended by: L.N. 64 of 2025.
+Fourth Schedule (regulation 8A)
+Covered Bond Programme Fees
+Fee (€)
+Application fee 15,000
+Annual supervisory fee 25,000.
+- Added by: L.N. 301 of 2025.
