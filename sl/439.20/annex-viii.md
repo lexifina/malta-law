@@ -10,9 +10,8 @@ Procedures on animals as a result of which the animals are likely to experience 
 Moderate:
 Procedures on animals as a result of which the animals are likely to experience short-term moderate pain, suffering or distress, or long-lasting mild pain, suffering or distress as well as procedures that are likely to cause moderate impairment of the well-being or general condition of the animals shall be classified as 'moderate'.
 Severe:
-Procedures on animals as a result of which the animals are likely to experience severe pain, suffering or distress, or long-lasting moderate pain, suffering or distress as well as procedures, that are likely to cause severe impairment of the well-being or
-[S.L. 439.20 56 USED FOR SCIENTIFIC PURPOSES
-general condition of the animals shall be classified as 'severe'.
+[S.L. 439.20 USED FOR SCIENTIFIC PURPOSES 59
+Procedures on animals as a result of which the animals are likely to experience severe pain, suffering or distress, or long-lasting moderate pain, suffering or distress as well as procedures, that are likely to cause severe impairment of the well-being or general condition of the animals shall be classified as 'severe'.
 Section II: Assignment criteria
 The assignment of the severity category shall take into account any intervention or manipulation of an animal within a defined procedure. It shall be based on the most severe effects likely to be experienced by an individual animal after applying all appropriate refinement techniques.
 When assigning a procedure to a particular category, the type of procedure and a number of other factors shall be taken into account. All these factors shall be considered on a case-by-case basis.
@@ -34,8 +33,8 @@ procedures,
 - the methods used to reduce or eliminate pain, suffering and distress,
 including refinement of housing, husbandry and care conditions,
 - humane end-points.
+[S.L. 439.20 60 USED FOR SCIENTIFIC PURPOSES
 Section III:
-[S.L. 439.20 USED FOR SCIENTIFIC PURPOSES 57
 Examples of different types of procedure assigned to each of the severity categories on the basis of factors related to the type of the procedure
 1. Mild:
 (a) administration of anaesthesia except for the sole purpose of killing;
@@ -53,8 +52,8 @@ Examples of different types of procedure assigned to each of the severity catego
 (m) a combination or accumulation of the following examples may result in classification as 'mild':
 (i) assessing body composition by non-invasive measures and with
 minimal restraint;
+[S.L. 439.20 USED FOR SCIENTIFIC PURPOSES 61
 (ii) monitoring ECG with non-invasive techniques with minimal or
-[S.L. 439.20 58 USED FOR SCIENTIFIC PURPOSES
 no restraint of habituated animals;
 (iii) application of external telemetry devices that are expected to
 cause no impairment to socially adapted animals and do not interfere with normal activity and behaviour;
@@ -73,7 +72,7 @@ no clinically detectable adverse phenotype;
 (g) creation of genetically altered animals through surgical procedures;
 (h) use of metabolic cages involving moderate restriction of movement over a prolonged period (up to 5 days);
 (i) studies with modified diets that do not meet all of the animals' nutritional needs and are expected to cause moderate clinical abnormality within the time-scale of the study;
-[S.L. 439.20 USED FOR SCIENTIFIC PURPOSES 59
+[S.L. 439.20 62 USED FOR SCIENTIFIC PURPOSES
 (j) withdrawal of food for 48 hours in adult rats;
 (k) evoking escape and avoidance reactions where the animal is unable to escape or avoid the stimulus, and are expected to result in moderate distress.
 3. Severe:
@@ -89,4 +88,4 @@ no clinically detectable adverse phenotype;
 (j) inescapable electric shock (e.g. to produce learned helplessness);
 (k) complete isolation for prolonged periods of social species e.g. dogs and non-human primates;
 (l) immobilisation stress to induce gastric ulcers or cardiac failure in rats;
-(m) forced swim or exercise tests with exhaustion as the end-point. [S.L. 439.20 60 USED FOR SCIENTIFIC PURPOSES
+(m) forced swim or exercise tests with exhaustion as the end-point. [S.L. 439.20 USED FOR SCIENTIFIC PURPOSES 63

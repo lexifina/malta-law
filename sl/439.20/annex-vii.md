@@ -4,9 +4,9 @@ DUTIES AND TASKS OF THE UNION REFERENCE LABORATORY
 1. The Union Reference Laboratory referred to in regulation 48 is the Commission's Joint Research Centre.
 2. The Union Reference Laboratory shall be responsible, in particular, for:
 (a) coordinating and promoting the development and use of
-alternatives to procedures including in the areas of basic and applied research and regulatory testing;
+alternatives to procedures including in the areas of basic and applied research [S.L. 439.20 58 USED FOR SCIENTIFIC PURPOSES
+and regulatory testing;
 (b) coordinating the validation of alternative approaches at Union
-[S.L. 439.20 USED FOR SCIENTIFIC PURPOSES 55
 level;
 (c) acting as a focal point for the exchange of information on the
 development of alternative approaches;

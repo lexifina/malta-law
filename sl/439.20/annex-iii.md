@@ -1,7 +1,7 @@
 ## ANNEX III
 # annex-iii
-REQUIREMENTS FOR ESTABLISHMENTS AND FOR THE CARE AND
-ACCOMMODATION OF ANIMALS
+REQUIREMENTS FOR ESTABLISHMENTS AND FOR THE
+CARE AND ACCOMMODATION OF ANIMALS
 Section A: General section
 1. The physical facilities
 1.1. Functions and general design
@@ -14,8 +14,8 @@ Section A: General section
 1.3. General and special purpose procedure rooms
 (a) Establishments shall, where appropriate, have available laboratory facilities for the carrying out of simple diagnostic tests, post-mortem examinations, and/or the collection of samples that are to be subjected to more extensive laboratory investigations elsewhere. General and special purpose procedure rooms shall be available for situations where it is undesirable to carry out the procedures or observations in the holding rooms.
 (b) Facilities shall be provided to enable newly-acquired animals to be isolated until their health status can be determined and the potential health risk to established animals assessed and minimised.
-(c) There shall be accommodation for the separate housing of sick or injured animals.
 [S.L. 439.20 USED FOR SCIENTIFIC PURPOSES 27
+(c) There shall be accommodation for the separate housing of sick or injured animals.
 1.4. Service rooms
 (a) Store-rooms shall be designed, used and maintained to safeguard the quality of food and bedding. These rooms shall be vermin and insect-proof, as far as possible. Other materials, which may be contaminated or present a hazard to animals or staff, shall be stored separately.
 (b) The cleaning and washing areas shall be large enough to accommodate the installations necessary to decontaminate and clean used equipment. The cleaning process shall be arranged so as to separate the flow of clean and dirty equipment to prevent the contamination of newly-cleaned equipment.
@@ -31,24 +31,27 @@ Section A: General section
 (b) Illumination shall satisfy the needs for the performance of husbandry procedures and inspection of the animals.
 (c) Regular photoperiods and intensity of light adapted to the species shall be provided.
 (d) When keeping albino animals, the lighting shall be adjusted to take into account their sensitivity to light.
-2.3. Noise [S.L. 439.20 28 USED FOR SCIENTIFIC PURPOSES
+[S.L. 439.20 28 USED FOR SCIENTIFIC PURPOSES
+2.3. Noise and vibration
 (a) Noise levels including ultrasound, shall not adversely affect animal welfare.
 (b) Establishments shall have alarm systems that sound outside the sensitive hearing range of the animals, where this does not conflict with their audibility to human beings.
 (c) Holding rooms shall where appropriate be provided with noise insulation and absorption materials.
-2.4. Alarm systems
+(d) For aquatic animals, equipment causing noise or vibration, such as power generators or filtration systems shall not adversely affect animal welfare.
+2.4. Alarm systems and contingency plans
 (a) Establishments relying on electrical or mechanical equipment for environmental control and protection, shall have a stand-by system to maintain essential services and emergency lighting systems as well as to ensure that alarm systems themselves do not fail to operate.
 (b) Heating and ventilation systems shall be equipped with monitoring devices and alarms.
 (c) Clear instructions on emergency procedures shall be prominently displayed.
+(d) Effective contingency plans shall be in place to ensure the health and welfare of the animals in the case of a failure of essential husbandry systems.
 3. Care of animals
 3.1. Health
 (a) Establishments shall have a strategy in place to ensure that a health status of the animals is maintained that safeguards animal welfare and meets scientific requirements. This strategy shall include regular health monitoring, a microbiological surveillance programme and plans for dealing with health breakdowns and shall define health parameters and procedures for the introduction of new animals.
 (b) Animals shall be checked at least daily by a competent person. These checks shall ensure that all sick or injured animals are identified and appropriate action is taken.
 3.2. Animals taken from the wild
 (a) Transport containers and means of transport adapted to the species concerned shall be available at capture sites, in case animals need to be moved for examination or treatment.
+[S.L. 439.20 USED FOR SCIENTIFIC PURPOSES 29
 (b) Special consideration shall be given and appropriate measures taken for the acclimatisation, quarantine, housing, husbandry, care of animals taken from the wild and, as appropriate, provisions for setting them free at the end of procedures.
 3.3. Housing and enrichment
 (a) Housing
-[S.L. 439.20 USED FOR SCIENTIFIC PURPOSES 29
 Animals, except those which are naturally solitary, shall be socially housed in stable groups of compatible individuals. In cases where single housing is allowed in accordance with regulation 33(3) the duration shall be limited to the minimum period necessary and visual, auditory, olfactory and/or tactile contact shall be maintained. The introduction or re-introduction of animals to established groups shall be carefully monitored to avoid problems of incompatibility and disrupted social relationships.
 (b) Enrichment
 All animals shall be provided with space of sufficient complexity to allow expression of a wide range of normal behaviour. They shall be given a degree of control and choice over their environment to reduce stress-induced behaviour. Establishments shall have appropriate enrichment techniques in place, to extend the range of activities available to the animals and increase their coping activities including physical exercise, foraging, manipulative and cognitive activities, as appropriate to the species. Environmental enrichment in animal enclosures shall be adapted to the species and individual needs of the animals concerned. The enrichment strategies in establishments shall be regularly reviewed and updated.
@@ -59,10 +62,10 @@ Animal enclosures shall not be made out of materials detrimental to the health o
 (b) The animals' diet shall be palatable and non-contaminated. In the selection of raw materials, production, preparation and presentation of feed, establishments shall take measures to minimise chemical, physical and microbiological contamination.
 (c) Packing, transport and storage shall be such as to avoid contamination, deterioration or destruction. All feed hoppers, troughs or other utensils used for feeding shall be regularly cleaned and, if necessary, sterilised.
 (d) Each animal shall be able to access the food, with sufficient feeding space provided to limit competition.
+[S.L. 439.20 30 USED FOR SCIENTIFIC PURPOSES
 3.5. Watering
 (a) Uncontaminated drinking water shall always be available to all animals.
 (b) When automatic watering systems are used, they shall be regularly checked, serviced and flushed to avoid accidents. If solid-bottomed cages are used, care shall be taken to minimise the risk of flooding.
-[S.L. 439.20 30 USED FOR SCIENTIFIC PURPOSES
 (c) Provision shall be made to adapt the water supply for aquaria and tanks to the needs and tolerance limits of the individual fish, amphibian and reptile species.
 3.6. Resting and sleeping areas
 (a) Bedding materials or sleeping structures adapted to the species shall always be provided, including nesting materials or structures for breeding animals.
@@ -77,11 +80,11 @@ Table 1.1. Mice
 Minimum enclosure size Body Floor area Minimum (cm2) weight per animal enclosure
 (g) (cm2) height
 (cm)
+[S.L. 439.20 USED FOR SCIENTIFIC PURPOSES 31
 In stock and up to 20 330 60 12 during over 20 330 70 12 procedures to 25
 over 25 330 80 12
 to 30
 over 30 330 100 12
-[S.L. 439.20 USED FOR SCIENTIFIC PURPOSES 31
 Breeding 330 12
 For a monogamous pair
 (outbred/inbred) or a trio
@@ -89,8 +92,7 @@ For a monogamous pair
 female plus litter 180 cm2 shall
 be added.
 Stock at less than 950 40 12 breeders 20 Enclosure size 950 cm2
-Enclosure size less than 1 500 30 12
-20 1 500 cm2
+Enclosure size less than 1 500 30 12 1 500 cm2 20
 Table 1.2. Rats
 Body Minimum Floor area Minimum Date referred weight enclosure size per enclosure to in
 (cm2) (g) animal height regulation (cm2) (cm) 33(2)
@@ -299,6 +301,7 @@ over 1,40 12,0 9,0 20 3,00 to 1,60
 (2 × WH)2 over 1,60 16,0 20 3,00
 8. Birds
 During agricultural research, when the aim of the project requires that the animals are kept under similar conditions to those under which commercial farm animals are kept, the keeping of the animals shall comply at least with the standards laid down in Directives 98/58/EC, 1999/74/EC and 2007/43/EC.
+When housing birds taken from the wild, the space allowance provided for in tables 8.1 to 8.10 shall apply whenever the birds are held for periods of more than 24 hours. When birds are held for shorter periods of time, appropriate measures shall be taken to minimise, as far as possible, any risks to animal welfare.
 Table 8.1. Domestic fowl
 Where these minimum enclosure sizes cannot be provided for scientific reasons, the duration of the confinement shall be justified by the experimenter in consultation with veterinary staff. In such circumstances, birds can be housed in smaller enclosures containing appropriate enrichment and with a minimum floor area of 0,75 m2
 [S.L. 439.20 USED FOR SCIENTIFIC PURPOSES 43
@@ -373,7 +376,35 @@ Up to 6 1,0 100 2 1 January 2017
 7 to 12 1,5 200 2
 13 to 20 2,0 200 3
 for each 0,05 1 per 6 birds additional bird above 20
+Table 8.8.
+Starlings
+Group size Minimum Minimum Minimum length of Minimum
+enclosure height food trough per length of perch size bird per bird
+(cm)
+(m2) (cm) (cm)
 [S.L. 439.20 USED FOR SCIENTIFIC PURPOSES 47
+up to 6 2,0 200 5 30
+7 to 12 4,0 200 5 30
+13 to 20 6,0 200 5 30
+for each 0.25 5 30 additional bird between 21 and 50 for each 0,15 5 30 additional bird above 50 in number
+Table 8.9.
+House sparrows
+Group size in the Group size in the Minimum Minimum absence of visual presence of visual enclosure size height barriers barriers
+(m2) (cm)
+up to 10 up to 15 2,4 180
+11 to 20 16 to 35 4,8 180
+21 to 30 36 to 60 7,3 180
+for each additional for each additional 0,11 bird above 30 in bird above 60 in number number
+Table 8.10.
+Great tit and Blue tit
+Group size Minimum Minimum Minimum Minimum
+enclosure size height number of length of perch per bird feeders per bird
+(cm)
+(m2) (cm) 1 3 180 1 100
+2-10 (single sex) 1 180 2 40
+1 female + 1 male 2 180 2
+100
+[S.L. 439.20 48 USED FOR SCIENTIFIC PURPOSES
 9. Amphibians
 Table 9.1. Aquatic urodeles
 Body Minimum water Minimum water surface Minimum Date referred to in length surface area area for each additional water depth Regulation 33(2)
@@ -392,11 +423,10 @@ Less than 160 40 6 1 January 2017 6
 from 6 to 300 75 8 9
 over 9 to 600 150 10 12
 over 12 920 230 12,5
-[S.L. 439.20 48 USED FOR SCIENTIFIC PURPOSES
+[S.L. 439.20 USED FOR SCIENTIFIC PURPOSES 49
 Table 9.3. Semi-aquatic anurans
 Body Minimum Minimum area for Minimum Minimum Date referred to length enclosure each additional enclosure water depth in Regulation
-(cm) size animal in group height (cm) 33(2)
-holding (cm) (cm2)
+(cm) size animal in group height (cm) 33(2) (cm2) holding (cm)
 (cm2)
 up to 5,0 1 500 200 20 10 1 January 2017
 over 5,0 3 500 500 30 10 to 7,5
@@ -414,7 +444,7 @@ Body Minimum Minimum area for each Minimum Date referred to in length enclosure 
 (cm2) (cm)
 up to 3,0 900 100 30 1 January 2017
 Over 3,0 1 500 200 30
-[S.L. 439.20 USED FOR SCIENTIFIC PURPOSES 49
+[S.L. 439.20 50 USED FOR SCIENTIFIC PURPOSES
 10. Reptiles
 Table 10.1. Aquatic chelonians
 Body Minimum water Minimum water surface Minimum Date referred to in length surface area area for each additional water depth Regulation 33(2)
@@ -428,24 +458,76 @@ Over 20 10 000 2 000 35 to 30
 Over 30 20 000 5 000 40
 Table 10.2. Terrestrial snakes
 Body Minimum Minimum area for each Minimum Date referred to in length floor area additional animal in enclosure Regulation 33(2)
-(cm2) (cm) group-holding height
+(cm) (cm2) group-holding height
 (cm2) (cm)
 up to 30 300 150 10 1 January 2017
 Over 30 to 400 200 12 40
 Over 40 to 600 300 15 50
 Over 50 to 1 200 600 20 75
 Over 75 2 500 1 200 28
-[S.L. 439.20 50 USED FOR SCIENTIFIC PURPOSES
+[S.L. 439.20 USED FOR SCIENTIFIC PURPOSES 51
 11. Fish
 11.1. Water supply and quality
-Adequate water supply of suitable quality shall be provided at all times. Water flow in re-circulatory systems or filtration within tanks shall be sufficient to ensure that water quality parameters are maintained within acceptable levels. Water supply shall be filtered or treated to remove substances harmful to fish, where necessary. Water-quality parameters shall at all times be within the acceptable range that sustains normal activity and physiology for a given species and stage of development. The water flow shall be appropriate to enable fish to swim correctly and to maintain normal behaviour. Fish shall be given an appropriate time for acclimatisation and adaptation to changes in water-quality conditions.
-11.2. Oxygen, nitrogen compounds, pH, and salinity
-Oxygen concentration shall be appropriate to the species and to the context in which the fish are held. Where necessary, supplementary aeration of tank water shall be provided. The concentrations of nitrogen compounds shall be kept low.
-The pH level shall be adapted to the species and kept as stable as possible. The salinity shall be adapted to the requirements of the fish species and to the life stage of the fish. Changes in salinity shall take place gradually.
-11.3. Temperature, lighting, noise
-Temperature shall be maintained within the optimal range for the fish species concerned and kept as stable as possible. Changes in temperature shall take place gradually. Fish shall be maintained on an appropriate photoperiod. Noise levels shall be kept to a minimum and, where possible, equipment causing noise or vibration, such as power generators or filtration systems, shall be separate from the fish-holding tanks.
+Adequate water supply of suitable quality shall be provided at all times. Water flow in re-circulatory systems or filtration within tanks shall be sufficient to ensure that water quality parameters are maintained within acceptable levels, according to the characteristics of the husbandry system, and according to the requirements of the species and their life stage requirements. Water supply shall be filtered or treated to remove substances harmful to fish, where necessary. Water-quality parameters shall at all times be within the acceptable range that sustains normal activity and physiology for a given species and stage of development. The water flow shall be appropriate to enable fish to swim naturally and to maintain normal behaviour. Fish shall be given an appropriate time for acclimatisation and adaptation to changes in water-quality conditions. Appropriate measures shall be taken to minimise sudden changes in the different parameters affecting water quality. Appropriate water flow and the water level shall be ensured and monitored.
+11.2. Oxygen, nitrogen compounds, carbon dioxide, pH, and salinity
+Oxygen concentration shall be appropriate to the species and to the context in which the fish are held. Where necessary, supplementary aeration of tank water shall be provided, depending on the husbandry system. The concentrations of carbon dioxide and of nitrogen compounds, namely ammonia, nitrite and nitrate, shall be kept below harmful levels. Water quality shall be monitored using a defined testing schedule at a sufficient frequency to detect changes in these critical parameters and action shall be taken to mitigate such changes.
+The pH level shall be adapted to the species and monitored to be kept as stable as possible. The salinity shall be adapted to the requirements of the fish species and to the life stage of the fish. Changes in salinity shall take place gradually.
+11.3. Temperature and lighting
+Temperature shall be maintained within the optimal range for the fish species and their stages of development and kept as stable as possible. Changes in temperature shall take place gradually. Fish shall be maintained on an appropriate photoperiod.
 11.4. Stocking density and environmental complexity
 The stocking density of fish shall be based on the total needs of the fish in respect of environmental conditions, health and welfare. Fish shall have sufficient water volume for normal swimming, taking account of their size, age, health and feeding method. Fish shall be provided with an appropriate environmental enrichment, such as hiding places or bottom substrate, unless behavioural traits suggest none is required.
 11.5. Feeding and handling
-Fish shall be fed a diet suitable for the fish at an appropriate feeding rate and frequency. Particular attention shall be given to feeding of larval fish during any transition from live to artificial diets. Handling of fish shall be kept to a minimum.
-[S.L. 439.20 USED FOR SCIENTIFIC PURPOSES 51
+Fish shall be fed a diet suitable for the fish at an appropriate feeding rate and frequency. Particular attention shall be given to feeding of larval fish during any
+[S.L. 439.20 52 USED FOR SCIENTIFIC PURPOSES
+transition from live to artificial diets. If feed withdrawal is necessary for non-procedural reasons (e.g. transport), the duration shall be kept as short as possible and take into account the fish size and water temperature.
+Where possible, fish shall be handled without removal from the water. Handling of fish both in and outside of the water shall be kept to a minimum and equipment in direct contact with the fish shall be moistened. Fish shall not be handled at the outer limits of the water temperature ranges that they may tolerate.
+11.6. Zebrafish
+1.6.1. Water Quality
+Table 11.1
+Water parameter requirements in zebrafish housing systems Water parameters Minimum-maximum requirements Temperature 24-29°C
+150-1700 μS/cm2 Conductivity
+Total Alkanility 40-250 mg/L CaCO3 pH 6,5-8 Nitrogen NH3/NH4 +< 0,1 (*2) mg/L, NO2 - < 0,3 mg/L, NO3 -compounds < 25 mg/L
+Dissolved oxygen > 5 mg/L
+11.6.2. Lighting
+During the light phase, the light levels shall be constant, except during short dawn and dusk transitions. Dark phase shall be completely dark.
+11.6.3. Stocking density and environmental complexity
+Water volumes smaller than 1 litre shall not be used for adult zebrafish. Stocking densities shall not exceed 10 adult fish for every litre. The tank size and shape shall allow the fish to express their natural behaviours and swimming activities.
+Prolonged single housing shall be avoided.*
+12. Cephalopods
+12.1. Water supply and quality
+Adequate water supply of suitable quality shall be provided at all times.
+The tank design and water flow rate shall meet the needs of the animal including appropriate oxygenation delivered in relation to its size, life stage and behavioural needs.
+*2 or below detection limit. 0,1 mg/L indicates the total amount of ammonia, NH3/
+NH4 +. This corresponds to 0,002 mg/L of NH3 at 28 °C and pH 7,5.
+[S.L. 439.20 USED FOR SCIENTIFIC PURPOSES 53
+Water temperature, salinity, pH, and nitrogen compound levels shall be appropriate to the needs of species and life forms. Escapes and the inadvertent introduction of foreign elements shall be prevented through the use of covers where necessary.
+Cephalopods shall be given appropriate time for acclimatisation and adaptation to changes in water quality conditions.
+12.2. Lighting
+Light intensity and photoperiod shall satisfy the requirements of the species.
+12.3. Diet
+Cephalopods shall be provided with a feeding regime appropriate to the species, their developmental stage and behavioural needs.
+12.4. Enrichment and handling
+Cephalopods shall be provided with the appropriate and sufficient amount of physical, cognitive and sensory stimuli to enable a wide range of species specific behaviours. Housing conditions shall take into account species specific social needs (i.e. group- or solitary-living habits of the species). Shelters shall be provided, whenever appropriate for the species.
+Where possible, cephalopods shall be handled without taking them out from the water. Handling of cephalopods in and outside of the water shall be kept to a minimum and equipment in direct contact with animals shall be moistened.
+Table 12.1
+Cephalopods
+Family Group Body Minimum Minimum water Minimum
+length water surface area for water depth
+surface area each additional (cm)
+(cm)
+animal in
+(cm2)
+group-holding
+(cm2) Sepiidae Cuttlefish up to 2 100 40 7
+>2 to 6 600 200 15
+>6 to 12 1200 400 20
+>12 2500 1000 25 Sepiolidae Sepiolids up to 1 50 5 5
+>1 to 3 120 50 8
+>3 150 100 12
+[S.L. 439.20 54 USED FOR SCIENTIFIC PURPOSES
+Loliginidae Squid up to 15 2000 400 60
+>15 to 25 4500 900 90
+>25 6000 1200 90 Octopodidae Octopus up to 10 2000 600 40
+>10 to 20 2600 700 50
+>20 4000 1200 50
+- Amended by: L.N. 297 of 2025.

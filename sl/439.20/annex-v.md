@@ -10,4 +10,5 @@ LIST OF ELEMENTS REFERRED TO IN REGULATION 23(3)
 7. Recognition of species-specific distress, pain and suffering of most common laboratory species.
 8. Anaesthesia, pain relieving methods and killing.
 9. Use of humane end-points.
-10. Requirement of rures and projects, where appropriate. [S.L. 439.20 54 USED FOR SCIENTIFIC PURPOSES
+[S.L. 439.20 USED FOR SCIENTIFIC PURPOSES 57
+10. Requirement of rures and projects, where appropriate.
