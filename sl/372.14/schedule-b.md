@@ -11,21 +11,21 @@ The appropriate tax deduction to be made under the FSS Main Cumulative Tax Deduc
 STEP 1- Projected Annual Emoluments (A)
 The amount of Total 'Main' Emoluments for the calendar year up to and including the Current Pay Period (E) is divided by the Current Pay Period Number (C) and multiplied by the Number of Pay Periods in the Year (N).
 A = (E/C) N
-Projected Total 'Main' Emoluments up to Annual and including Current Pay Period Number of Pay
-= multiplied by Periods in the
-Emoluments Current Pay Period Number
-Year
+Projected Total 'Main' Emoluments up to Annual and including Current Pay Period multiplied by Number of Pay
+=
+Periods in the Year Emoluments Current Pay Period Number
 STEP 2 - Projected Annual Tax Due (P)
 The amount of the Projected Annual Tax Due (P) by the payee is computed on the basis of the Projected Annual Emoluments arrived at in Step 1. The tax rates set out in article 56(1)(a) or (b) of the Income Tax Act are applied according to the tax status of the payee indicated in the Payee Status Declaration Form.
 STEP 3 - Total Tax Due up to and including the Current Pay Period (D)
 The amount of projected Annual Tax Due (P) calculated in Step 2 is divided by the Number of Pay Periods in the Year (N) and multiplied by the Current Pay Period Number (C).
 D = (P/N) C
-Total Tax Due up to and Projected Annual Tax
-Due = multiplied by Current Pay Period Number
+Total Tax Due up to and Projected Annual Tax Due multiplied by
+= Current Pay Period Number
 including the Number of Pay Current Pay Periods in the Year Period
 STEP 4 - Tax Liability deductible for the Current Pay Period (L)
 The amount of Total Tax Due up to and including the Current Pay Period (D) calculated in Step 3 is reduced by the amount of Total Tax Deducted up to the end of the previous Pay Period (X).
-L = D - X Note: If the amount of Tax Liability deductible for the Current Pay Period (L) in the above calculation results in a negative figure no tax deduction should be made for this period. In any other case, the amount of tax deduction shall not exceed fifty per cent of that part of the emoluments for the period that are payable in cash.
+L = D - X
+Note: If the amount of Tax Liability deductible for the Current Pay Period (L) in the above calculation results in a negative figure no tax deduction should be made for this period. In any other case, the amount of tax deduction shall not exceed fifty per cent of that part of the emoluments for the period that are payable in cash.
 PART II
 FSS MAIN TAX DEDUCTION TABLES
 (Rule 7 (2)(b))
