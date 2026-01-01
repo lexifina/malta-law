@@ -15,7 +15,7 @@ approved prior to the 1st January 2023;
 (b) twelve (12) months in the case of feed in tariff applications
 approved after the 1st January 2023:
 Provided that any such extension may be granted only once. The aforesaid extensions, irrespective of the date of application for the extension, shall be reckoned to commence as from the first day immediately following the end of the mentioned first
-[S.L.545.27 16 FROM SOLAR PHOTOVOLTAIC INSTALLATIONS)
+S.L.545.27 FROM SOLAR PHOTOVOLTAIC INSTALLATIONS) 15
 twelve (12) month period allowed for the commissioning and submittal of the application for connection to the distribution system. The rate of the FIT which would be then applicable shall be that in force at the time of the submission of the application for said extension by the beneficiary or, if no such FIT has been established, the FIT originally allocated to the solar PV installation reduced by euro 0.005 per kWh.
 7. The installation operator complies at all times with the obligations established in these regulations, the Network Code and all other applicable legislation.
 8. Deleted by Legal Notice 48 of 2025.
@@ -26,3 +26,4 @@ The application for the feed-in tariff shall contain at least the following info
 (c) list of project costs;
 (d) kW DC rating of the solar photovoltaic installation;
 (e) a comprehensive declaration of the de minimis aid received by the applicant and as required by the application form.
+- Amended by: L.N. 155 of 2014; XXXIV. 2014.56; XXV. 2015.41; L.N. 264 of 2015; L.N. 415 of 2015; L.N. 237 of 2016; L.N. 94 of 2020; L.N. 234 of 2020; L.N. 43 of 2023; L.N. 48 of 2025.
