@@ -16,9 +16,9 @@ The term "Platform" does not include software that without any further intervent
 (b) users to list or advertise a Relevant Activity;
 (c) redirecting or transferring of users to a Platform.
 2. "Platform Operator" means an Entity that contracts with Sellers to make available all or part of a Platform to such Sellers.
-[S.L.123.127 ON TAX MATTERS 97
 3. "Excluded Platform Operator" means a Platform Operator which has demonstrated upfront and on an annual basis to the satisfaction of the competent authority in Malta that its entire business model is such that it does not have Reportable Sellers.
 4. "Reporting Platform Operator" means any Platform Operator, other than an Excluded Platform Operator, which is in any of the following situations:
+[S.L.123.127 108 ON TAX MATTERS
 (a) is resident for tax purposes in a Member State or, where such
 Platform Operator does not have a residence for tax purposes in a Member State, it fulfils any of the following conditions:
 (i) it is incorporated under the laws of a Member State;
@@ -39,14 +39,14 @@ Qualified Non-Union Jurisdiction.
 purposes in any other Member State;
 (b) resident for tax purposes in Malta and any other Member State and
 has elected in accordance with part A(2) of Section III to fulfil its reporting obligations in Malta;
-[S.L.123.127 98 ON TAX MATTERS
 (c) has a permanent establishment in Malta and is not tax resident in
 Malta or in any other Member State and does not fulfil any of the conditions set out in point 4(a) in any other Member State and is not a Qualified Non-Union Platform Operator;
 (d) has a permanent establishment in Malta and is not tax resident in
+[S.L.123.127 ON TAX MATTERS 109
 Malta or in any other Member State and fulfils any of the conditions set out in item 4(a) in any other Member State and is not a Qualified Non-Union Platform Operator, and has elected in accordance with part A(2) of Section III to fulfil its reporting obligations in Malta; or
 (e) it is not a resident for tax purposes, is not incorporated or managed
 in a Member State, does not have a permanent establishment in a Member State, but facilitates the carrying out of a Relevant Activity by Reportable Sellers or a Relevant Activity involving the rental of immovable property located in a Member State and is not a Qualified Non-Union Platform Operator and has elected in accordance with the published guidelines referred to in regulation 13(12)(e) to fulfil its reporting obligations in Malta.
-8. "Effective Qualifying Competent Authority Agreement" means an agreement between the competent authority in Malta and a non-Union jurisdiction that requires the automatic exchange of information equivalent to that specified in part B of Section III as confirmed by an implementing act of the EU Administrative Cooperation Directive.
+8. Effective Qualifying Competent Authority Agreement" means an agreement between the competent authority in Malta and a non-Union jurisdiction that requires the automatic exchange of information equivalent to that specified in paragraph B of Section III as confirmed by an implementing act of the EU Administrative Cooperation Directive and in relation to which such non-Union jurisdiction is identified in the list published by the Commissioner on the website of the Commissioner for Tax and Customs under the provisions of article 96(2) of the Income Tax Act.
 9. "Relevant Activity" means an activity carried out for Consideration and being any of the following:
 (a) the rental of immovable property, including both residential and
 commercial property, as well as any other immovable property and parking spaces;
@@ -56,8 +56,8 @@ commercial property, as well as any other immovable property and parking spaces;
 Provided that the term "Relevant Activity" does not include an activity carried out by a Seller acting as an employee of the Platform Operator or a related Entity of the Platform Operator.
 10. "Qualified Relevant Activities" means any Relevant Activity covered by the automatic exchange pursuant to an Effective Qualifying Competent Authority Agreement.
 11. "Consideration" means compensation in any form, net of any fees, commissions or taxes withheld or charged by the Reporting Platform Operator, that is paid or credited to a Seller in connection with the Relevant Activity, the amount of which is known or reasonably knowable by the Platform Operator.
-[S.L.123.127 ON TAX MATTERS 99
 12. "Personal Service" means a service involving time-based or task-based work performed by one (1) or more individuals, acting either independently or on behalf of an Entity, and which is carried out at the request of a user, either online or physically offline after having been facilitated by means of a Platform.
+[S.L.123.127 110 ON TAX MATTERS
 B. Reportable Sellers
 1. "Seller" means a Platform user, either an individual or an Entity, that is registered at any moment during the Reportable Period on the Platform and carries out a Relevant Activity.
 2. "Active Seller" means any Seller that either provides a Relevant Activity during the Reportable Period or is paid or credited Consideration in connection with a Relevant Activity during the Reportable Period.
@@ -72,16 +72,17 @@ than two thousand (2,000) Relevant Activities by means of the rental of immovabl
 Relevant Activities by means of the sale of Goods and for which the total amount of Consideration paid or credited did not exceed two thousand euro (€ 2,000) during the Reporting Period.
 C. Other definitions
 1. "Entity" means a legal person or a legal arrangement, such as a corporation, partnership, trust or foundation. An Entity is a related Entity of another Entity if either Entity controls the other Entity, or the two (2) Entities are under common control. For this purpose, control includes direct or indirect ownership of more than fifty per cent (50%) of the vote and value in an Entity. In indirect participation, the fulfilment of the requirement for the holding of more than fifty per cent (50%) of the right of ownership in the capital of the other Entity shall be determined by multiplying the rates of holding through the successive tiers. A person holding more than fifty per cent (50%) of the voting rights shall be deemed to hold one hundred per cent (100%).
-2. "Governmental Entity" means the Government of Malta or other jurisdiction, any political subdivision of Malta or other jurisdiction which includes a state, province, county, or municipality, or any wholly owned agency or instrumentality
-[S.L.123.127 100 ON TAX MATTERS
-of Malta or other jurisdiction or of any one or more of the foregoing each, a "Governmental Entity".
-3. "TIN" means a Taxpayer Identification Number, issued by a Member State, or functional equivalent in the absence of a Taxpayer Identification Number.
+2. "Governmental Entity" means the Government of Malta or other jurisdiction, any political subdivision of Malta or other jurisdiction which includes a state, province, county, or municipality, or any wholly owned agency or instrumentality of Malta or other jurisdiction or of any one or more of the foregoing each, a "Governmental Entity".
+3. "TIN" means a Taxpayer Identification Number, issued by a Member State,
+[S.L.123.127 ON TAX MATTERS 111
+or functional equivalent in the absence of a Taxpayer Identification Number.
 4. "VAT identification number" means the unique number that identifies a taxable person or a non-taxable legal entity that is registered for value added tax purposes.
 5. "Primary Address" means the address that is the primary residence of a Seller who is an individual, as well as the address that is the registered office of a Seller that is an Entity.
 6. "Reportable Period" means the calendar year in respect of which reporting is being completed pursuant to Section III.
 7. "Property Listing" means all immovable property units located at the same street address, owned by the same owner and offered for rent on a Platform by the same Seller.
 8. "Financial Account Identifier" means the unique identifying number or reference available to the Platform Operator of the bank account or other similar payment services account to which the Consideration is paid or credited.
 9. "Goods" means any tangible property.
+10. "Identification Service" means an electronic process made available free of charge by a Member State or the Union to a Reporting Malta Platform Operator for the purpose of ascertaining the identity and tax residence of a Seller.
 SECTION II
 DUE DILIGENCE PROCEDURES
 The following procedures shall apply for the purpose of identifying Reportable Sellers.
@@ -92,7 +93,7 @@ B. Collection of Seller Information
 1. The Reporting Malta Platform Operator shall collect all of the following information for each Seller who is an individual and not an Excluded Seller:
 (a) the name and surname;
 (b) the Primary Address;
-[S.L.123.127 ON TAX MATTERS 101
+[S.L.123.127 112 ON TAX MATTERS
 (c) any TIN issued to such Seller, including each Member State of
 issuance, and in the absence of a TIN, the place of birth of such Seller;
 (d) the VAT identification number of that Seller, where available;
@@ -106,7 +107,7 @@ issuance;
 (e) the business registration number;
 (f) the existence of any permanent establishment through which
 Relevant Activities are carried out in the Union, where available, indicating each respective Member State, where such a permanent establishment is located.
-3. Notwithstanding the provisions of items 1 and 2, the Reporting Malta Platform Operator shall not be required to collect information referred to in part B(1)(b) to (e) and part B(2)(b) to (f) of Section II where it relies on direct confirmation of the identity and residence of the Seller through an identification service made available by a Member State or the Union to ascertain the identity and tax residence of the Seller.
+3. Deleted by Legal Notice 162 of 2026.
 4. Notwithstanding the provisions of part B(1)(c) and part B(2)(c) and (e), the Reporting Malta Platform Operator shall not be required to collect the TIN or the business registration number, as the case may be, in any of the following situations:
 (a) the Member State of residence of the Seller does not issue a TIN or
 business registration number to the Seller;
@@ -114,9 +115,8 @@ business registration number to the Seller;
 collection of the TIN issued to the Seller.
 C. Verification of Seller Information
 1. The Reporting Malta Platform Operator shall determine whether the information collected pursuant to part A, part B(1), part B(2)(a) to (e) and part E is reliable, using all information and documents available to the Reporting Malta Platform Operator in its records, as well as any electronic interface made available to the public by a Member State or the Union free of charge to ascertain the validity of the TIN and, or VAT identification number.
-2. Notwithstanding the provisions of part C(1), for the completion of the due diligence procedures pursuant to part F(2), the Reporting Malta Platform Operator may
-[S.L.123.127 102 ON TAX MATTERS
-determine whether the information collected pursuant to part A, part B(1), part B(2)(a) to (e) and part E is reliable, using information and documents available to the Reporting Malta Platform Operator in its electronically searchable records.
+2. Notwithstanding the provisions of part C(1), for the completion of the due diligence procedures pursuant to part F(2), the Reporting Malta Platform Operator may determine whether the information collected pursuant to part A, part B(1), part B(2)(a) to (e) and part E is reliable, using information and documents available to the Reporting Malta Platform Operator in its electronically searchable records.
+[S.L.123.127 ON TAX MATTERS 113
 3. In the application of part F(3)(b) and notwithstanding parts C(1) and C(2), in instances where the Reporting Malta Platform Operator has reason to believe that any of the information items described in parts B or E may be inaccurate by virtue of information provided by the competent authority of a Member State in a request concerning a specific Seller, the Reporting Malta Platform Operator is obliged to request the Seller to correct information items that were found to be incorrect and to provide supporting documents, data or information, which are reliable and of independent source, such as:
 (a) valid government-issued identification document;
 (b) recent tax residency certificate.
@@ -127,10 +127,10 @@ E. Collection of information on rented immovable property
 Where a Seller is engaged in Relevant Activity involving the rental of immovable property, the Reporting Malta Platform Operator shall collect the address of each Property Listing and, where issued, the respective land registration number or its equivalent under the national law of the Member State where it is located. Where a Reporting Malta Platform Operator facilitated more than two thousand (2,000) Relevant Activities by means of the rental of a Property Listing for the same Seller that is an Entity, the Reporting Malta Platform Operator shall collect supporting documents, data or information that the Property Listing is owned by the same owner.
 F. Timing and validity of due diligence procedures
 1. A Reporting Malta Platform Operator shall complete the due diligence procedures set out in parts A to E by 31st December of the Reportable Period.
-2. Notwithstanding the provisions of part F(1), for Sellers that were already registered on the Platform as of 1st January 2023 or as of the date on which an Entity
-[S.L.123.127 ON TAX MATTERS 103
-becomes a Reporting Malta Platform Operator, the due diligence procedures set out in parts A to E are required to be completed by 31st December of the second Reportable Period for the Reporting Malta Platform Operator.
-3. Notwithstanding the provisions of part F(1), a Reporting Malta Platform Operator may rely on the due diligence procedures conducted in respect of previous Reportable Periods, provided that:
+2. Notwithstanding the provisions of part F(1), for Sellers that were already registered on the Platform as of 1st January 2023 or as of the date on which an Entity becomes a Reporting Malta Platform Operator, the due diligence procedures set out in parts A to E are required to be completed by 31st December of the second Reportable Period for the Reporting Malta Platform Operator.
+3. Notwithstanding the provisions of part F(1), a Reporting Malta Platform
+[S.L.123.127 114 ON TAX MATTERS
+Operator may rely on the due diligence procedures conducted in respect of previous Reportable Periods, provided that:
 (a) the Seller information required in parts B(1) and B(2) has been
 either collected and verified or confirmed within the last thirty-six (36) months; and
 (b) the Reporting Malta Platform Operator does not have reason to
@@ -145,20 +145,21 @@ Where a Seller does not provide the information required in parts A to E, after 
 SECTION III
 REPORTING REQUIREMENTS
 A. Time and manner of reporting
-1. A Reporting Malta Platform Operator shall report to the Commissioner the information set out in part B with respect to the Reportable Period not later than 31 January of the year following the calendar year in which the Seller is identified as a Reportable Seller. Where there is more than one (1) Reporting Platform Operator, a Reporting Malta Platform Operator shall be exempt from reporting the information if it
-[S.L.123.127 104 ON TAX MATTERS
-has proof, in conformity with Maltese law, that the same information has been reported by another Reporting Platform Operator:
-Provided that the proof may be in such form as the Commissioner may determine.
+1. A Reporting Malta Platform Operator shall report to the Commissioner the information set out in part B with respect to the Reportable Period not later than 31 January of the year following the calendar year in which the Seller is identified as a Reportable Seller. Where there is more than one (1) Reporting Platform Operator, a Reporting Malta Platform Operator shall be exempt from reporting the information if it has proof, in conformity with Maltese law, that the same information has been reported by another Reporting Platform Operator:
+Provided that the proof may be in such form as the Commissioner may
+[S.L.123.127 ON TAX MATTERS 115
+determine.
 2. If a Reporting Platform Operator within the meaning of part A(4)(a) of Section I fulfils any of the conditions listed therein in more than one (1) Member State, it shall elect one (1) of those Member States in which it shall fulfil the reporting requirements set out in this Section. This election shall be made in such form and manner as the Commissioner may require by means of guidelines published on the website of the Commissioner under the provisions of article 96(2) of the Income Tax Act. The Reporting Platform Operator shall notify all the competent authorities of those Member States of its election. The said Reporting Platform Operator shall report the information listed in part B with respect to the Reportable Period to the competent authority of the Member State of election, as this is determined in accordance with regulation 13(12)(e), not later than 31st January of the year following the calendar year in which the Seller is identified as a Reportable Seller. Where there is more than one (1) Reporting Platform Operator, any of those Reporting Platform Operators shall be exempt from reporting the information if it has proof, in conformity with the national law of the Member State of registration, that the same information has been reported by another Reporting Platform Operator in another Member State.
 3. A Reporting Malta Platform Operator within the meaning of part A(7)(e) of Section I shall report the information set out in part B with respect to the Reportable Period to the Commissioner not later than 31st January of the year following the calendar year in which the Seller is identified as a Reportable Seller.
-4. Notwithstanding the provisions of part A(3), a Reporting Malta Platform Operator shall not be required to provide the information set out in part B with respect to Qualified Relevant Activities, covered by an Effective Qualifying Competent Authority Agreement, which already provides for the automatic exchange of equivalent information with a Member State on Reportable Sellers resident in such Member State.
+4. Notwithstanding the provisions of paragraph A(3), a Reporting Malta Platform Operator shall not be required to provide the information established in paragraph B with respect to Qualified Relevant Activities, covered by an Effective Qualifying Competent Authority Agreement, which already provides for the automatic exchange of equivalent information with Malta on Reportable Sellers resident in Malta.
 5. A Reporting Malta Platform Operator shall also provide the information set out in parts B(2) and B(3) to the Reportable Seller to which it relates not later than 31st January of the year following the calendar year in which the Seller is identified as a Reportable Seller.
 6. The information with respect to the Consideration paid or credited in a fiat currency shall be reported in the currency in which it was paid or credited. In case the Consideration was paid or credited in a form other than fiat currency, it shall be reported in the local currency, converted or valued in a manner that is consistently determined by the Reporting Malta Platform Operator.
 7. The information about the Consideration and other amounts shall be reported in respect of the quarter of the Reportable Period in which the Consideration was paid or credited.
-[S.L.123.127 ON TAX MATTERS 105
 B. Information to be Reported
 Each Reporting Malta Platform Operator shall report the following information:
-1. The name, the registered office address, the TIN and, where relevant, the individual identification number of the Reporting Malta Platform Operator allocated pursuant to regulation 13(12)(e), as well as the business name of the Platform in respect of which the Reporting Malta Platform Operator is reporting.
+1. The name, the registered office address, the TIN and, where relevant, the individual identification number of the Reporting Malta Platform Operator allocated
+[S.L.123.127 116 ON TAX MATTERS
+pursuant to regulation 13(12)(e), as well as the business name of the Platform in respect of which the Reporting Malta Platform Operator is reporting.
 2. With respect to a Reporting Platform Operator having registered with the Commissioner in Malta as its Member State of its single registration, shall communicate to the Commissioner in Malta the following information:
 (a) name;
 (b) postal address;
@@ -178,10 +179,10 @@ to the Financial Account Identifier, the name of the holder of the financial acc
 (d) each Member State in which the Reportable Seller is resident for the
 purposes of regulation 13(12);
 (e) the total Consideration paid or credited during each quarter of the
-[S.L.123.127 106 ON TAX MATTERS
 Reportable Period and the number of Relevant Activities in respect of which it was paid or credited;
 (f) any fees, commissions or taxes withheld or charged by the
 Reporting Malta Platform Operator during each quarter of the Reportable Period.
+[S.L.123.127 ON TAX MATTERS 117
 4. With respect to each Reportable Seller that carried out Relevant Activity involving immovable property rental:
 (a) the information items required to be collected pursuant to part B of
 Section II;
@@ -199,4 +200,5 @@ Reportable Period and the number of Relevant Activities provided with respect to
 Reporting Malta Platform Operator during each quarter of the Reportable Period;
 (h) where available, the number of days each Property Listing was
 rented during the Reportable Period and the type of each Property Listing.
-- Added by: L.N. 18 of 2025.
+5. Notwithstanding the provisions of sub-paragraph B(2)(a), and sub-paragraph B(3)(a), the Reporting Malta Platform Operator shall not be required to report the information items required to be collected in accordance with paragraph B of Section II, when it reports to a competent authority that uses an Identification Service and relies on direct confirmation of the identity and residence of the Seller through an Identification Service made available by a Member State or the Union to ascertain the identity and all tax residencies of the Seller. In case the Reporting Malta Platform Operator relied on an Identification Service to ascertain the identity and all tax residencies of a Reportable Seller, the name, Identification Service identifiers and the Member States of issuance shall be reported.
+[S.L.123.127 118 ON TAX MATTERS
