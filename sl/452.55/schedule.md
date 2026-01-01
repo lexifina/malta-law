@@ -46,12 +46,12 @@ not more than -
 3. The minimum weekly wages payable to whole-time
 employees shall be the following -
 (a) Watchmen -
-(i) whose duties are mainly performed indoors ........................................................... €221.78
-(ii) whose duties are mainly performed out of doors ........................................................... €224.11;
+(i) whose duties are mainly performed indoors ........................................................... €229.44
+(ii) whose duties are mainly performed out of doors ........................................................... €231.77;
 (b) Other whole-time employees -
-At age 18 years or over ............................... €221.78
-At age 17 years ........................................... €215.00
-At age 16 years ........................................... €212.16.
+At age 18 years or over ............................... €229.44
+At age 17 years ........................................... €222.66
+At age 16 years ........................................... €219.82.
 (c) Shift employees:
 (i) In the case of employees called upon to work on a three shift cycle and in consideration of the periods of night work on a three shift, an allowance shall be paid equivalent to one-tenth
 [S.L.452.55 WAGES COUNCIL WAGE REGULATION 3
@@ -193,8 +193,8 @@ weaving, knitting, finishing and any other process
 incidental to the foregoing) of natural, artificial or
 man-made fibres and fabrics; and
 (b) the making up of articles from natural, artificial or man-made fibres and fabrics.
-- Amended by: L.N. 60 of 1978; L.N. 23 of 1979; L.N. 24 of 1981; L.N. 74 of 1989; L.N. 46 of 1990; L.N. 427 of 2007; L.N. 143 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023; L.N. 341 of 2024.
-- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023; L.N. 341 of 2024.
+- Amended by: L.N. 60 of 1978; L.N. 23 of 1979; L.N. 24 of 1981; L.N. 74 of 1989; L.N. 46 of 1990; L.N. 427 of 2007; L.N. 143 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023; L.N. 341 of 2024; L.N. 288 of 2025.
+- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023; L.N. 341 of 2024; L.N. 288 of 2025.
 - See Cap. 252.
 - See Cap. 318.
 - See Cap. 318.

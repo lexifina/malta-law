@@ -21,7 +21,8 @@
 "customary holidays" means the days (other than Sundays) declared for the time being to be public holidays by or under the National Holidays and other Public Holidays Act;
 "day" means the time of twenty-four consecutive hours;
 "double pay" means double the minimum day's pay applicable to an employee;
-"hours of work" means the time on any day during which employees are at the disposal of the employer, exclusive of the intervals allowed for meals and rest; [S.L.452.40 2 WAGE REGULATION
+"hours of work" means the time on any day during which employees are at the disposal of the employer, exclusive of the [S.L.452.40 2 WAGE REGULATION
+intervals allowed for meals and rest;
 "meals" means morning coffee, lunch, afternoon tea and supper;
 "part-time employee" means an employee whose normal hours of
 work, calculated on a weekly basis or on average over a period of employment of up to one year, are less than the normal hours of work of a comparable whole-time employee and who is not a whole-time employee with reduced hours;
@@ -53,13 +54,13 @@ days when they do not sleep in their employer's house, of workers in Groups 2 an
 [S.L.452.40 WAGE REGULATION 3
 4. The minimum remuneration of workers shall be as follows:
 Whole-Timers
-Workers in Group 1 ................................... €983.18 per month
-Workers in Group 2 ................................... €966.89 per month
-Workers in Group 3 ................................... €227.02 per week
-Workers in Group 4 .................................... €225.27 per week
+Workers in Group 1 ................................ €1,016.37 per month
+Workers in Group 2 ................................ €1,000.08 per month
+Workers in Group 3 ................................... €234.68 per week
+Workers in Group 4 .................................... €232.93 per week
 Part-Timers
-Workers in Group 5 ..................................... €37.55 per day
-Workers in Group 6 ........................................ €5.63 per hour:
+Workers in Group 5 ..................................... €38.83 per day
+Workers in Group 6 ........................................ €5.82 per hour:
 Provided that for employment exceeding four hours in any one day payment shall in no case be less than the equivalent of a day's work:
 Provided further that any part-time worker who qualifies as a whole-time employee in accordance with paragraph 1 of this Schedule shall be entitled to the full weekly wage applicable under this sub-paragraph notwithstanding that she works for less than six days.
 5. (1) Workers in Groups 1, 2, 3, and 4 on those days when they do not sleep in their employer's house and workers in Group 5 shall be entitled for payment at time-and-a-half for all time worked over eight hours in normal days and for all time worked over forty-four hours in any one week, this being up to 28th February, 1990 and for all time worked over forty hours after the 28th February, 1990.
@@ -151,9 +152,9 @@ and similar occupations connected with the household.
 In this paragraph ''private households'' includes charitable
 institutions which provide residential care to persons in need as their main activity, monasteries and convents but does not include any hospital, clinic, nursing home, institute of medico-surgical treatment, maternity home or hydropathic establishment, home for
 aged persons or schools run by any such households.
-- Amended by: L.N. 65 of 1976; L.N. 76 of 1977; L.N.108 of 1977; L.N. 36 of 1978; L.N. 2 of 1979; L.N. 25 of 1979; L.N. 66 of 1979; L.N. 30 of 1980; L.N. 33 of 1981; L.N.122 of 1989; L.N.427 of 2007; L.N.132 of 2010; L.N. 528 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023; L.N. 341 of 2024.
+- Amended by: L.N. 65 of 1976; L.N. 76 of 1977; L.N.108 of 1977; L.N. 36 of 1978; L.N. 2 of 1979; L.N. 25 of 1979; L.N. 66 of 1979; L.N. 30 of 1980; L.N. 33 of 1981; L.N.122 of 1989; L.N.427 of 2007; L.N.132 of 2010; L.N. 528 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023; L.N. 341 of 2024; L.N. 288 of 2025.
 - Substituted by: L.N. 528 of 2010.
-- Amended by: L.N. 362 of 2012; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N.104 of 2019; L.N.351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023; L.N. 341 of 2024.
+- Amended by: L.N. 362 of 2012; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023; L.N. 341 of 2024; L.N. 288 of 2025.
 - Amended by: L.N. 504 of 2011.
 - See Cap. 252.
 - See Cap. 318.

@@ -25,8 +25,8 @@ therefrom to a place of consignment;
 (c) the withdrawal of cargo from any factory, warehouse
 or other premises and the transport of such cargo
 therefrom to a quay or other place of deposit for
-shipment;
 (BURDNARA) EMPLOYEES WAGES COUNCIL [S.L.452.41 2 WAGE REGULATION
+shipment;
 "customary holidays" means the days, other than Sundays,
 declared to be public holidays by or under the National Holidays and other Public Holidays Act:
 "day" means a period of twenty-four consecutive hours starting
@@ -46,13 +46,13 @@ an employee;
 "whole-time employee" means an employee who is deemed to be
 a whole-time employee in terms of any recognized conditions of employment.
 2. (1) The minimum wage to be paid to full-time employee of
-a burdnar shall be two hundred and thirty euro and seventy five cents (€230.75) a week of not more than forty hours of work based on five days from Monday to Friday and the minimum wage of a whole - time transport employee shall be two hundred and thirty euro and seventy five cents (€230.75) a week of not more than forty hours a week.
+a burdnar shall be two hundred and thirty eight euro and forty one cents (€238.41) a week of not more than forty hours of work based on five days from Monday to Friday and the minimum wage of a whole - time transport employee shall be two hundred and thirty eight euro and forty one cents (€238.41) a week of not more than forty hours a week.
 (2) In this paragraph "hours or work" does not include
 intervals for meals and rest in accordance with the provisions of paragraph 6.
 (3) The hours of work and rates of pay of whole-time
 employees of cargo clearance and forwarding agents and of transport employees shall be those determined in accordance with the provisions of sub-paragraph (1). (BURDNARA) EMPLOYEES WAGES COUNCIL
 [S.L.452.41 WAGE REGULATION 3
-3. The minimum remuneration payable to part-time employees shall not be less than five euro and seventy seven cents (€5.77) per hour so however that when a part-time employee works for not less than four hours in any one day he shall be entitled to one whole day's pay, namely to one-fifth of the weekly wage due from time to time to whole-time employees:
+3. The minimum remuneration payable to part-time employees shall not be less than five euro and ninety six cents (€5.96) per hour so however that when a part-time employee works for not less than four hours in any one day he shall be entitled to one whole day's pay, namely to one-fifth of the weekly wage due from time to time to whole-time employees:
 Provided that such minimum hourly remuneration shall be increased to one-fortieth part of any increase granted by the Government to its whole-time employees and applicable to all other whole-time employees in terms of the provisions of the Employment and Industrial Relations Act.
 4. Whole-time employees shall be entitled to the payment of overtime as follows:
 (a) for all time worked on Sundays and customary
@@ -76,8 +76,8 @@ not waiting for work to be given to him to perform.
 (b) after three months in employment, vacation leave of
 such number of working days with full pay as is
 equivalent to the number of working days as that
-particular employee should normally attend to work
 (BURDNARA) EMPLOYEES WAGES COUNCIL [S.L.452.41 4 WAGE REGULATION
+particular employee should normally attend to work
 during a period of four weeks:
 Provided that whole-time employees who have been in
 employment for less than one year shall be entitled to such part of the said vacation leave as is in proportion to the number of months in employment.
@@ -94,9 +94,11 @@ Provided that -
 (a) the first three days of any claim for sick leave shall be
 paid at half pay by the employer;
 (b) a medical certificate covering the period of absence is produced to the employer on the day of return to work or, if such period of absence is longer than seven days, within seven days of the onset of sick leave absence;
-(c) employees in receipt of a social security pension in respect of retirement or widowhood in terms of the Social Security Act shall, for the purpose of
 (BURDNARA) EMPLOYEES WAGES COUNCIL
 [S.L.452.41 WAGE REGULATION 5
+(c) employees in receipt of a social security pension in
+respect of retirement or widowhood in terms of the
+Social Security Act shall, for the purpose of
 calculating the sick leave pay due, be deemed to have
 received an amount equal to half the sum set for
 sickness benefit entitlement at the rate established
@@ -118,12 +120,12 @@ or mainly to the cargo clearance and forwarding trade,
 and
 (b) for all employees in any undertaking or part of an
 undertaking engaged wholly or mainly in the clearance,
+(BURDNARA) EMPLOYEES WAGES COUNCIL [S.L.452.41 6 WAGE REGULATION
 haulage and transport of furniture and other household
 effects, and other goods or materials.
-(BURDNARA) EMPLOYEES WAGES COUNCIL [S.L.452.41 6 WAGE REGULATION
-- Amended by: L.N. 95 of 1976; L.N.102 of 1977; L.N.65 of 1978; L.N.129 of 1978; L.N. 427 of 2007; L.N. 128 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023; L.N. 341 of 2024.
-- Amended by: L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023; L.N. 341 of 2024.
-- Amended by: L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023; L.N. 341 of 2024.
+- Amended by: L.N. 95 of 1976; L.N.102 of 1977; L.N.65 of 1978; L.N.129 of 1978; L.N. 427 of 2007; L.N. 128 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023; L.N. 341 of 2024; L.N. 288 of 2025.
+- Amended by: L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023; L.N. 341 of 2024; L.N. 288 of 2025.
+- Amended by: L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023; L.N. 341 of 2024; L.N. 288 of 2025.
 - See Cap. 252.
 - See Cap. 203.
 - See Cap. 452.

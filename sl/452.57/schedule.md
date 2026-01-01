@@ -47,40 +47,40 @@ sub-paragraph (2) hereof shall be as follows respectively:
 (c) twelve hours.
 3. The minimum weekly wage payable to whole-time
 employees shall be as follows -
-(a) clerk/receptionist ...................................... €228.77
-(b) drivers ...................................................... €228.19
+(a) clerk/receptionist ...................................... €236.43
+(b) drivers ...................................................... €235.85
 (c) conductors/attendants, and other employees (other than watchmen) -
-(i) aged 18 years or over ....................... €224.44
-(ii) aged 16 or 17 years .......................... €221.78
+(i) aged 18 years or over ....................... €232.10
+(ii) aged 16 or 17 years .......................... €229.44
 (d) watchmen:
 [S.L.452.57 WAGES COUNCIL WAGE REGULATION 3
 (i) those whose duties are mainly performed
-indoors ............................................... €224.44
+indoors ............................................... €232.10
 (ii) those whose duties are mainly performed out of
-doors ................................................. €226.77.
+doors ................................................. €234.43.
 4. (1) The minimum remuneration of part-time employees shall be as follows -
 (a) in the case of clerks/receptionists -
 (i) for the first 3 hours or less in any one day
-............................................................... €16.35
+............................................................... €16.89
 (ii) for each hour or part thereof in excess of the first
-3 hours in any one day ............................ €5.45;
+3 hours in any one day ............................ €5.63;
 (b) in the case of drivers -
 (i) for the first 3 hours or less in any one day
-............................................................... €14.88
+............................................................... €15.38
 (ii) for each hour or part thereof in excess of the first
-3 hours in any one day ............................ €4.96;
+3 hours in any one day ............................ €5.13;
 (c) in the case of conductors and attendants -
 (i) for the first 4 hours or
-less in any one day ...... €19.52 €19.28
+less in any one day ...... €20.18 €19.95
 (ii) for each hour or part
 thereof in excess of the
-first 4 hours in any one day €4.88 €4.82;
+first 4 hours in any one day €5.05 €4.99;
 (d) in the case of all other employees, including watchmen -
 (i) for the first 3 hours or
-less in any one day .......... €14.64 €14.46
+less in any one day .......... €15.14 €14.96
 (ii) for each hour or part
 thereof in excess of the
-first 3 hours in any one day €4.88 €4.82.
+first 3 hours in any one day €5.05 €4.99.
 (2) Where the Government grants to all its whole-time employees a general increase in wages and such increase is declared by the Minister responsible for labour by notice in the Gazette to be of general application to all whole-time employees the above rates shall be proportionately increased in accordance with the said general increase of wages, regard being had, in arriving to the said proportion, to the provisions set out in sub-paragraph (2) of paragraph 2 of this Schedule.
 5. Save as provided for in sub-paragraph (1) of paragraph 2, all whole-time employees, other than watchmen, shall be allowed intervals for meals and rest of not less, in the aggregate, than one hour every day:
 Provided that -
@@ -135,9 +135,9 @@ The provisions of this Order apply to all employees in any
 undertaking or part of an undertaking, the activities of which consist wholly or mainly in the hiring of cars or private buses, or in driving instruction, mainly -
 Drivers Conductors/Attendants Clerks /Receptionists Watchmen Garage handymen
 but excluding Mechanics and Petrol Station Attendants who are already covered by the Wage Regulation Orders.
-- Amended by: L.N. 48 of 1979; L.N. 427 of 2007; L.N. 134 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023; L.N. 341 of 2024.
-- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023; L.N. 341 of 2024.
-- Amended by: L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 335 of 2022; L.N. 286 of 2023; L.N. 341 of 2024.
+- Amended by: L.N. 48 of 1979; L.N. 427 of 2007; L.N. 134 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023; L.N. 341 of 2024; L.N. 288 of 2025.
+- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023; L.N. 341 of 2024; L.N. 288 of 2025.
+- Amended by: L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 335 of 2022; L.N. 286 of 2023; L.N. 341 of 2024; L.N. 288 of 2025.
 - See Cap. 252.
 - See Cap. 318.
 - See Cap. 318.

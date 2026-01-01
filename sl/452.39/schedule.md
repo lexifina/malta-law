@@ -42,27 +42,27 @@ day week, in the case of watchmen.
 3. (1) Whole-time employees aged eighteen years or over
 shall not be paid less than the following wages:
 CATEGORY 1
-On engagement ............................................... €221.78
+On engagement ............................................... €229.44
 CATEGORY 2
-On engagement ............................................... €222.36
+On engagement ............................................... €230.02
 CATEGORY 3
 During the first, second and third year
-of employment in the category ........................ €223.53
+of employment in the category ........................ €231.19
 During the fourth and subsequent years
-of employment in the category ........................ €225.86
+of employment in the category ........................ €233.52
 CATEGORY 4
 During the first, second and third year
-of employment in the category ........................ €224.69
+of employment in the category ........................ €232.35
 During the fourth and subsequent years
-of employment in the category ........................ €227.02
+of employment in the category ........................ €234.68
 [S.L.452.39 COUNCIL WAGE REGULATION 3
 CATEGORY 5
-During the first, second and third year of employment in the category ........................ €228.19
-During the fourth and subsequent years of employment in the category ........................ €230.52
+During the first, second and third year of employment in the category ........................ €235.85
+During the fourth and subsequent years of employment in the category ........................ €238.18
 CATEGORY 6
-During the first year of employment in the category ................................................ €232.85
-During the second year of employment in the category ................................................ €237.50
-During the third and subsequent years of employment in the category ........................ €242.26.
+During the first year of employment in the category ................................................ €240.51
+During the second year of employment in the category ................................................ €245.16
+During the third and subsequent years of employment in the category ........................ €249.92.
 (2) (i) The minimum wage of employees aged seventeen shall be ninety per cent of the above wages.
 (ii) The minimum wage of employees aged sixteen shall be eighty-five per cent of the above wages.
 (3) In this paragraph -
@@ -169,8 +169,8 @@ investment in unit trusts or which run the management
 of unit trusts (except establishments carrying out
 wholly or mainly insurance business).
 The provisions of the above Schedule do not apply to employees whose remuneration for work is regulated by a tariff made by a law.
-- Amended by: L.N. 104 of 1976; L.N. 114 of 1977; L.N. 37 of 1979; L.N. 46 of 1979; L.N. 427 of 2007; L.N. 129 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N.104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023; L.N. 341 of 2024.
-- Amended by: L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N.351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023; L.N. 341 of 2024.
+- Amended by: L.N. 104 of 1976; L.N. 114 of 1977; L.N. 37 of 1979; L.N. 46 of 1979; L.N. 427 of 2007; L.N. 129 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N.104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023; L.N. 341 of 2024; L.N. 288 of 2025.
+- Amended by: L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N.351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023; L.N. 341 of 2024; L.N. 288 of 2025.
 - See Cap. 252.
 - See Cap. 594.
 - See Cap. 318.

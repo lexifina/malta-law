@@ -20,8 +20,8 @@
 "day" in the case of night shift employees means a period of twenty four consecutive hours; and in all other cases it means a period running from midnight of one day to midnight of the next following day;
 "Director" means the Director of Labour and includes any officer authorised by him to act in his stead;
 "hours of work" means the time on any day during which employees are at the disposal of the employer, exclusive of the intervals allowed for meals and rest;
-"industrial employee" means an employee employed wholly or mainly on manual or fatigue duties and includes messengers, [S.L.452.58 2 WAGES COUNCIL WAGE REGULATION
-handymen, fatiguemen and watchmen;
+"industrial employee" means an employee employed wholly or [S.L.452.58 2 WAGES COUNCIL WAGE REGULATION
+mainly on manual or fatigue duties and includes messengers, handymen, fatiguemen and watchmen;
 "non-industrial employee" means an employee employed wholly
 or mainly on clerical duties and includes booking-clerk, accounts-clerk, shed-clerk, shorthand-typist, telephone-operator/typist, reservation and sales clerk; it also includes courier/representative;
 "night shift" means any period of employment that includes any
@@ -48,9 +48,8 @@ carried out until 1.00 p.m. only.
 of six days, from Monday to Sunday.
 (2) Whole-time industrial employees, other than watchmen:
 The minimum weekly wage of whole-time industrial employees
-except watchmen shall be related to a week of not more than forty
 [S.L.452.58 WAGES COUNCIL WAGE REGULATION 3
-hours of work, exclusive of overtime calculated on an average for one calendar year.
+except watchmen shall be related to a week of not more than forty hours of work, exclusive of overtime calculated on an average for one calendar year.
 (3) Watchmen:
 The minimum weekly wage of watchmen shall be related to a week of not more than forty-eight hours of work, and no watchman shall be required to work for more than forty-eight hours in any week.
 (4) Time-Schedule:
@@ -65,21 +64,21 @@ the employer after the prior notification in writing of
 such changes to the Director.
 3. The minimum weekly wages payable to whole-time employees shall be the following:
 (i) industrial employees:
-At age 18 or over ................................ €221.78
-At age 17 ............................................ €217.12
-At age 16 ............................................ €214.79
+At age 18 or over ................................ €229.44
+At age 17 ............................................ €224.78
+At age 16 ............................................ €222.45
 (ii) non-industrial employees:
 During the first year of employment
-in the establishment ............................ €221.78
+in the establishment ............................ €229.44
 During the second year of employment
-in the establishment ............................ €224.11
+in the establishment ............................ €231.77
 During the third year of employment
-in the establishment ............................ €226.44
+in the establishment ............................ €234.10
 During the fourth year of employment
-in the establishment ........................... €231.10.
+in the establishment ........................... €238.76.
 4. The minimum remuneration payable to part-time employees of the categories specified in paragraph 3 hereof shall be pro rata at an hourly rate arrived at by dividing the amount appearing for the category by the number of hours of work per week for the relative category.
-5. All whole-time employees, other than watchmen, shall be allowed intervals for meals and rest of not less, in the aggregate, than one hour every day:
-Provided that the interval for mid-day lunch shall not be [S.L.452.58 4 WAGES COUNCIL WAGE REGULATION
+5. All whole-time employees, other than watchmen, shall be allowed intervals for meals and rest of not less, in the aggregate, than one hour every day: [S.L.452.58 4 WAGES COUNCIL WAGE REGULATION
+Provided that the interval for mid-day lunch shall not be
 longer than two hours.
 6. All whole-time employees shall be allowed a weekly day
 of rest in every week.
@@ -104,9 +103,9 @@ during a period of four weeks:
 Provided that whole-time employees who have
 been in employment for less than one year shall be entitled to such part of the said vacation leave as is in proportion to the number of months in employment.
 10. (1) A whole-time employee shall in every calendar year be
-entitled to the equivalent in hours of fifteen days sick leave on full pay, less an amount equal to the sum set for sickness benefit entitlement at the rate established under the Social Security Act, and part-time employees shall have a pro rata entitlement to sick leave in hours on full pay, less an amount equal to the sum set for
+entitled to the equivalent in hours of fifteen days sick leave on full pay, less an amount equal to the sum set for sickness benefit entitlement at the rate established under the Social Security Act, and part-time employees shall have a pro rata entitlement to sick
 [S.L.452.58 WAGES COUNCIL WAGE REGULATION 5
-sickness benefit entitlement at the rate established under the Social Security Act, which amount is also to be calculated on a pro rata basis:
+leave in hours on full pay, less an amount equal to the sum set for sickness benefit entitlement at the rate established under the Social Security Act, which amount is also to be calculated on a pro rata basis:
 Provided that -
 (a) the first three days of any claim for sick leave shall be paid in full by the employer;
 (b) a medical certificate covering the period of absence is
@@ -135,8 +134,9 @@ received an amount equal to half the sum set for
 sickness benefit entitlement at the rate established
 under the Social Security Act.
 (3) The employer may require a medical certificate by his own physician to certify incapacity for work during the period of absence.
-(4) The sick leave entitlement granted by virtue of this paragraph shall be calculated on the basis provided for annual leave as specified in regulation 8(1) of the Organisation of Working Time Regulations.
-11. For the purposes of paragraph 9 and paragraph 10, any period of incapacity for work due to sickness of not more than [S.L.452.58 6 WAGES COUNCIL WAGE REGULATION
+(4) The sick leave entitlement granted by virtue of this paragraph shall be calculated on the basis provided for annual leave as specified in regulation 8(1) of the Organisation of Working Time Regulations. [S.L.452.58 6 WAGES COUNCIL WAGE REGULATION
+11. For the purposes of paragraph 9 and paragraph 10, any
+period of incapacity for work due to sickness of not more than
 thirty days shall not interrupt the continuity of service.
 12. Whole-time employees shall be allowed -
 (a) two days paid leave on the occasion of the death of any of the following relations: the wife or husband, the mother, father (or the person who at the time was in fact acting as the mother or father of the employee) and the son or daughter, brother or sister of the employee;
@@ -154,8 +154,8 @@ EXPLANATORY NOTE
 applicability).
 The provisions of the above Schedule apply to all employees in
 any undertaking or in part of an undertaking the activities of which consist wholly or mainly in the provision of services relating to travel (including freight by sea or air) or insurance or estate agency and for watchmen, telephone operators and other persons employed by shipping agents, travel agents, or contractors on board the ships whilst in the territorial waters of Malta.
-- Amended by: L.N. 34 of 1978; L.N. 117 of 1978; L.N. 427 of 2007; L.N. 146 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023; L.N. 341 of 2024.
-- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023; L.N. 341 of 2024.
+- Amended by: L.N. 34 of 1978; L.N. 117 of 1978; L.N. 427 of 2007; L.N. 146 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023; L.N. 341 of 2024; L.N. 288 of 2025.
+- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023; L.N. 341 of 2024; L.N. 288 of 2025.
 - See Cap. 252.
 - See Cap. 318.
 - See Cap. 318.

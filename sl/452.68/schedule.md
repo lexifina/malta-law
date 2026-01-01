@@ -19,8 +19,8 @@
 "hours of work" means the time on any day during which employees are at the disposal of the employer, exclusive of the intervals allowed for meals and rest;
 "part-time employee" means an employee whose normal hours of work, calculated on a weekly basis or on average over a period of employment of up to one year, are less than the normal hours of work of a comparable whole-time employee and who is not a whole-time employee with reduced hours;
 "time-and-a-half" and "double-time" mean respectively one-and-a-half times and twice the minimum time rate applicable to the employee;
-"wages" means remuneration or earnings payable in money by an employer to an employee;
-"whole-time employee" means an employee who is deemed to be [S.L.452.68 2 WAGES COUNCIL WAGE REGULATION
+"wages" means remuneration or earnings payable in money by an employer to an employee; [S.L.452.68 2 WAGES COUNCIL WAGE REGULATION
+"whole-time employee" means an employee who is deemed to be
 a whole-time employee in terms of any recognized conditions of employment.
 2. (1) The hours of work of whole-time employees other than
 watchmen shall not exceed forty hours in any one week:
@@ -33,12 +33,12 @@ calendar year does not exceed an average of forty hours per week.
 exceed fifty-four in any one week of six days.
 3. (1) The minimum weekly wage payable to whole-time
 employees, both male and female, other than watchmen shall be the following:
-At age 18 years or over ..................... €221.78
-At age 17 years ................................. €215.00
-At age 16 years ................................. €212.16.
+At age 18 years or over ..................... €229.44
+At age 17 years ................................. €222.66
+At age 16 years ................................. €219.82.
 (2) The minimum wage for watchmen shall be:
-€221.78 - for watchmen whose duty is mainly performed indoors
-€224.11 - for watchmen whose duty is mainly performed out of doors.
+€229.44 - for watchmen whose duty is mainly performed indoors
+€231.77 - for watchmen whose duty is mainly performed out of doors.
 4. The minimum remuneration payable to part-time
 employees of the categories specified in paragraph 3 hereof shall not be less than the proportionate rate of the minimum remuneration payable to a whole-time employee of the same category, calculated on the basis of a fifty-four hour week in the case of watchmen and a forty hour week in the case of other employees.
 5. The minimum earnings by an employee engaged on piece-
@@ -50,9 +50,9 @@ employment is allowed as a part of the hour of rest, the employee shall be entit
 7. All whole-time employees shall be allowed one whole day
 off in every calendar week.
 8. (1) Whole-time employees, other than watchmen, shall be
-paid at time-and-a-half rates for overtime work performed on weekdays, and at double-time for work performed on Sundays and
+paid at time-and-a-half rates for overtime work performed on
 [S.L.452.68 WAGES COUNCIL WAGE REGULATION 3
-public holidays.
+weekdays, and at double-time for work performed on Sundays and public holidays.
 (2) Watchmen shall be paid at time-and-a-half rates for time worked in excess of fifty-four hours in a six-day week, and at double time rates for all time worked on a Sunday or a public holiday.
 9. (1) In addition to the minimum weekly rest to which whole-time employees may be entitled under paragraph 7, whole-time employees shall be entitled to the national holidays and to all public holidays with full pay, and to the following vacation leave not being less than:
 (a) four working weeks and one working day during the calendar years 1988 and 1989;
@@ -69,8 +69,8 @@ Provided that -
 (b) a medical certificate covering the period of absence is
 produced to the employer on the day of return to work
 or, if such period of absence is longer than seven days,
-within seven days of the onset of sick leave absence;
 [S.L.452.68 4 WAGES COUNCIL WAGE REGULATION
+within seven days of the onset of sick leave absence;
 (c) employees in receipt of a social security pension in respect of retirement or widowhood in terms of the Social Security Act shall, for the purpose of calculating the sick leave pay due, be deemed to have received an amount equal to the sum set for sickness benefit entitlement at the rate established under the Social Security Act.
 (2) After six months in employment, a whole-time employee
 shall be entitled to the equivalent in hours of a further six days sick leave on half pay, less an amount equal to half the sum set for sickness benefit entitlement at the rate established under the Social Security Act, and part-time employees shall have a pro rata entitlement to sick leave in hours on half pay, less an amount equal to half the sum set for sickness benefit entitlement at the rate established under the Social Security Act, which amount is also to be calculated on a pro rata basis:
@@ -86,8 +86,11 @@ Provided that -
 (a) the first three days of any claim for sick leave shall be
 paid in full by the employer;
 (b) a medical certificate covering the period of absence is produced to the employer on the day of return to work or, if such period of absence is longer than seven days, within seven days of the onset of sick leave absence;
-(c) employees in receipt of a social security pension in respect of retirement or widowhood in terms of the Social Security Act shall, for the purpose of calculating the sick leave pay due, be deemed to have
 [S.L.452.68 WAGES COUNCIL WAGE REGULATION 5
+(c) employees in receipt of a social security pension in
+respect of retirement or widowhood in terms of the
+Social Security Act shall, for the purpose of
+calculating the sick leave pay due, be deemed to have
 received an amount equal to the sum set for sickness
 benefit entitlement at the rate established under the
 Social Security Act.
@@ -109,9 +112,10 @@ under the Social Security Act.
 (6) The sick leave entitlement granted by virtue of this paragraph shall be calculated on the basis provided for annual leave as specified in regulation 8(1) of the Organisation of Working Time Regulations.
 10A. Whole-time employees shall be entitled to one year injury leave on full pay, less the full amount of any injury benefit to which the employee may be entitled in terms of the Social Security Act, if he is injured during the actual discharge of his duty and such injury is not due to contributory negligence on his part or in contravention by him of safety rules laid down by the management.
 11. (1) Whole-time employees shall be entitled to two days paid leave on the occasion of the death of any of the following relatives: the wife or husband of the employee, the father or mother (or the person who at the time was acting as the father or mother), the son or daughter, and the brother or sister.
-(2) Whole-time employees shall be entitled to one day paid leave on the occasion of the birth of any child to the wife of the employee.
-(3) Bereavement leave or birth leave shall not be claimed, partly or wholly if the occurrence takes place when the employee is [S.L.452.68 6 WAGES COUNCIL WAGE REGULATION
-on vacation leave, or on a Sunday or a customary holiday.
+(2) Whole-time employees shall be entitled to one day paid leave on the occasion of the birth of any child to the wife of the [S.L.452.68 6 WAGES COUNCIL WAGE REGULATION
+employee.
+(3) Bereavement leave or birth leave shall not be claimed,
+partly or wholly if the occurrence takes place when the employee is on vacation leave, or on a Sunday or a customary holiday.
 (4) Whole-time employees shall be allowed three days paid
 leave on the occasion of their marriage.
 (5) Whole-time employees called for jury service shall be
@@ -130,8 +134,8 @@ EXPLANATORY NOTE
 its applicability).
 The provisions of the above Schedule apply to all employees in
 any undertaking or in any part of an undertaking, the activities of which consist wholly or mainly in the manufacture of cigars, cigarettes, cheroots or pipe or other tobacco and any form of processing of tobacco, whether by hand or by machine.
-- Amended by: L.N. 427 of 2007; L.N. 151 of 2010; L.N. 529 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023; L.N. 341 of 2024.
-- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023; L.N. 341 of 2024.
+- Amended by: L.N. 427 of 2007; L.N. 151 of 2010; L.N. 529 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N. 97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023; L.N. 341 of 2024; L.N. 288 of 2025.
+- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023; L.N. 341 of 2024; L.N. 288 of 2025.
 - Amended by: L.N. 529 of 2010.
 - See Cap. 252.
 - See Cap. 318.

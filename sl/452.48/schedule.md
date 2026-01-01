@@ -20,8 +20,8 @@
 "hours of work" means the time on any day during which an employee is at the disposal of the employer, exclusive of the intervals allowed for meals and rest;
 "night worker" means an employee, other than a watchman, whose hours of work on any day, exclusive of overtime, start after 5.00 p.m. or end after 8.00 p.m.;
 "part-time employee" means an employee whose normal hours of work, calculated on a weekly basis or on average over a period of employment of up to one year, are less than the normal hours of work of a comparable whole-time employee and who is not a whole-time employee with reduced hours;
-"period of employment" means the time in any day during which an employee is at the disposal of the employer, but inclusive of the [S.L.452.48 2 WAGES COUNCIL WAGE REGULATION
-intervals allowed for meals and rest;
+"period of employment" means the time in any day during which [S.L.452.48 2 WAGES COUNCIL WAGE REGULATION
+an employee is at the disposal of the employer, but inclusive of the intervals allowed for meals and rest;
 "time-and-a-half" means one and a half times the hourly rate
 obtained by dividing by forty, in the case of day worker, and by thirty-eight, in the case of a night worker, the minimum weekly remuneration to which the employee is entitled under the provisions of paragraph 3 of this Schedule;
 "wage" means remuneration or earnings, payable in money by an
@@ -37,12 +37,12 @@ work spread over five days;
 (b) in the case of a night worker, to a week of thirty-eight hours of work exclusive of overtime, and in the case of watchman, to a week of forty-eight hours of work exclusive of overtime.
 3. The minimum weekly remuneration payable to whole-time
 employees shall be the following:
-(a) Watchmen ............................................... €221.78;
+(a) Watchmen ............................................... €229.44;
 and
 (b) Other employees aged:
-(i) 18 years or over ............................. €221.78
-(ii) 17 years ........................................ €215.00
-(iii) 16 years ........................................ €212.16.
+(i) 18 years or over ............................. €229.44
+(ii) 17 years ........................................ €222.66
+(iii) 16 years ........................................ €219.82.
 4. Employees, whether day or night workers, shall be allowed
 intervals of not less, in the aggregate, than one hour for meals and rest in any one period of employment in which the hours of work are not less than five and a half.
 5. Employees shall be allowed one whole day off each week.
@@ -115,8 +115,8 @@ The provisions of the above Schedule will apply to all
 employees, other than apprentices, in all establishments engaged in
 [S.L.452.48 WAGES COUNCIL WAGE REGULATION 5
 printing, publishing or book-binding.
-- Amended by: L.N. 6 of 1979; L.N. 427 of 2007; L.N. 153 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016:; L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023; L.N. 341 of 2024.
-- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023; L.N. 341 of 2024.
+- Amended by: L.N. 6 of 1979; L.N. 427 of 2007; L.N. 153 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016:; L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023; L.N. 341 of 2024; L.N. 288 of 2025.
+- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023; L.N. 341 of 2024; L.N. 288 of 2025.
 - See Cap. 252.
 - See Cap. 318.
 - See Cap. 318.

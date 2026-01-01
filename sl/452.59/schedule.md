@@ -50,13 +50,13 @@ Provided that -
 [S.L.452.59 WAGE REGULATION 3
 3. (1) Subject to the provisions of paragraph 7 of this Schedule, the minimum weekly wages payable to time employees shall be the following:
 (a) (i) Watchmen whose duties are mainly performed
-indoors ............................................ €226.44
+indoors ............................................ €234.10
 (ii) Watchmen whose duties are mainly performed
-out of doors ..................................... €228.77
+out of doors ..................................... €236.43
 (b) Other time employees:
-(i) aged 18 years or over ....................... €226.44
-(ii) aged 17 years ................................... €215.63
-(iii) aged under 17 years .......................... €213.05
+(i) aged 18 years or over ....................... €234.10
+(ii) aged 17 years ................................... €223.29
+(iii) aged under 17 years .......................... €220.71
 (2) Notwithstanding the provisions of paragraph 2 of this Schedule, an employee shall be entitled to the full contracted weekly remuneration if -
 (a) he works for not less than thirty-seven hours in any
 one week, exclusive of overtime work, if he works in a
@@ -155,8 +155,8 @@ to make ornamental or protective surfaces, and the
 preparation and setting of all marble objects whether
 for ornamental purposes or not.
 This Order does not apply to employees employed by woodwork contractors.
-- Amended by: L.N. 66 of 1989; L.N. 44 of 1990; L.N. 427 of 2007; L.N. 131 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023; L.N. 341 of 2024.
-- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023; L.N. 341 of 2024.
+- Amended by: L.N. 66 of 1989; L.N. 44 of 1990; L.N. 427 of 2007; L.N. 131 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023; L.N. 341 of 2024; L.N. 288 of 2025.
+- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023; L.N. 341 of 2024; L.N. 288 of 2025.
 - See Cap. 252.
 - See Cap. 318.
 - See Cap. 318.

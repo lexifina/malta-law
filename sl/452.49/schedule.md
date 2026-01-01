@@ -21,8 +21,8 @@
 "day" in the case of shift employees means a period of twenty-four consecutive hours; in all other cases, it means a period running from midnight of one day to midnight of the next following day;
 "half day" means a period of twelve consecutive hours ending at 1.00 p.m. or 1.00 a.m.
 "hours of work" means the time on any day during which the employees are at the disposal of the employer, exclusive of the intervals allowed for meals and rest;
-"night shift" means any period of employment that includes any hours from 10.00p.m. of one day to 6.00a.m. of the next following day;
-"part-time employee" means an employee whose normal hours of [S.L.452.49 2 WAGES COUNCIL WAGE REGULATION
+"night shift" means any period of employment that includes any hours from 10.00p.m. of one day to 6.00a.m. of the next following day; [S.L.452.49 2 WAGES COUNCIL WAGE REGULATION
+"part-time employee" means an employee whose normal hours of
 work, calculated on a weekly basis or on average over a period of employment of up to one year, are less than the normal hours of work of a comparable whole-time employee and who is not a whole-time employee with reduced hours;
 "period of employment" means the time on any day during which
 the employees are at the disposal of the employer, inclusive of the intervals allowed for meals and rest;
@@ -47,12 +47,12 @@ spread over a week of six days.
 3. (a) Whole-time employees in the industry, other than
 watchmen, shall be entitled to minimum weekly wages,
 related to age, as follows -
-at age 18 or over ..................................... €221.78
-at age 17 or over ..................................... €215.00
-at age 16 or over ..................................... €212.16
+at age 18 or over ..................................... €229.44
+at age 17 or over ..................................... €222.66
+at age 16 or over ..................................... €219.82
 (b) Watchmen shall be paid the minimum weekly wage of
-two hundred twenty one euro and seventy-eight cents
-(€221.78) independent of their age.
+two hundred and twenty nine euro and forty four cents
+(€229.44) independent of their age.
 (2) In this paragraph "industry" includes all the
 establishments which fall within the scope for which the Clay and Glass Products Wages Council applies.
 4. Part-time employees shall be paid pro rata at an hourly rate
@@ -123,8 +123,8 @@ be given to him to perform.
 EXPLANATORY NOTE
 (This note is not part of the Schedule but is intended to indicate its applicability).
 This Schedule applies to all employees in any undertaking or part of an undertaking, the activities of which consist wholly or mainly in the manufacture of clay products, pottery, earthenware, china, ceramics, glass, glassware, mirrors and neon signs and fibreglass and fibreglass products.
-- Amended by: L.N. 4 of 1979; L.N. 75 of 1980; L.N. 113 of 1991; L.N. 427 of 2007; L.N. 148 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023; L.N. 341 of 2024.
-- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023; L.N. 341 of 2024.
+- Amended by: L.N. 4 of 1979; L.N. 75 of 1980; L.N. 113 of 1991; L.N. 427 of 2007; L.N. 148 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016; L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023; L.N. 341 of 2024; L.N. 288 of 2025.
+- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023; L.N. 341 of 2024; L.N. 288 of 2025.
 - See Cap. 252.
 - See Cap. 318.
 - See Cap. 318.
