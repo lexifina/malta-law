@@ -60,7 +60,8 @@ Where a motor vehicle, which falls under a category to which the First Schedule 
 3. plug-in hybrid electric vehicles ………......................................... 0%
 4. range extender electric vehicles …………..................................... 0%
 5. vehicles propelled solely with an autogas fuelling system............. 0%
-Category C: vintage Category N vehicles for private use
+Category C: Vintage Category N vehicles for private use, special purpose vehicles and
+tractor units
 N1 vehicles for private use, special purpose vehicles and tractor units with a maximum mass not exceeding 3.5 tonnes and N2 vehicles for private use, special purpose vehicles and tractor units with a maximum mass exceeding 3.5 tonnes but not exceeding 5 tonnes
 1. vintage vehicles certified authentic by the vintage vehicle classification Rate of Tax committee: Percentage
 of RV
@@ -74,13 +75,16 @@ N3 vehicles for private use, special purpose vehicles and tractor units with a m
 1. vintage vehicles certified authentic by the vintage vehicle classification committee:
 1.1 vehicles with an age of 50 years or over from date of manufacture .... 0% 1.2 vehicles with an age of 30 years or over but less than 50 years from
 date of manufacture .......................................................................... 28.5%
-Category D: agricultural tractors
+Category D: Agricultural tractors Category T that are supplimented by an 'a' index
 Agricultural tractors ........................................................................................ 0%
 Category E: vehicles used in enclosed areas
 Motor vehicles used within enclosed areas, such as dock areas or airports or seaports .......................................................................................................... 0%
 Category F: machinery without a chassis
 Forklifts, shovels, excavators, road rollers, bulldozers, road pavers, road scarifiers, rock cutters and asphalt finishers ........................................................................ 0%
 The total amount of the registration tax for Categories B to F shall be the registration value (RV) multiplied by the indicated % [RV x %].
+Category G: Mobile cranes with a lifting capacity exceeding 50 tonnes:
+Mobile cranes with a lifting capacity exceeding 50 tonnes…….................
+0%
 - Substituted by: L.N. 191 of 1994.
 - Amended by: IV. 1997.2.
 - Substituted by: XXVI. 1997.2.
@@ -94,4 +98,4 @@ The total amount of the registration tax for Categories B to F shall be the regi
 - Substituted by: IV. 2007.22; L.N. 425 of 2007; XXXII. 2007.78.
 - Amended by: L.N. 105 of 2008.
 - Substituted by: VI. 2009.29; XI. 2010.16.
-- Amended by: IV. 2011.51; V. 2012.41; L.N. 86 of 2013; III. 2013.50; XII. 2014.56; XIII. 2015.115; XV. 2016.23; XVI. 2017.58; XVIII.2021.40; VII.2022.54.
+- Amended by: IV. 2011.51; V. 2012.41; L.N. 86 of 2013; III. 2013.50; XII. 2014.56; XIII. 2015.115; XV. 2016.23; XVI. 2017.58; XVIII.2021.40; VII.2022.54; III.2026.36.

@@ -8,7 +8,7 @@
 ## More than 150g/ km including 180g/km
 ## More than 180g/ km including 220g/km
 ## More than 220g/ km including 250g/km
-## More than 250g/ km
+## CO2 x RV x 0.47%
 ## CO2 x RV x 0.23%
 ## CO2 x RV x 0.26%
 ## CO2 x RV x 0.30%
@@ -16,13 +16,12 @@
 ## CO2 x RV x 0.37%
 ## CO2 x RV x 0.40%
 ## CO2 x RV x 0.44%
-## CO2 x RV x 0.47%
 ## CO2 x RV x 0.42%
 ## CO2 x RV x 0.53%
 ## CO2 x RV x 0.60%
 ## CO2 x RV x 0.65%
-## CO2 x RV x 0.70%
-## CO2 x RV x 0.75%
+## More than 220g/km up to and including 250g/ km
+## More than 250g/km
 ## Petrol or Diesel Engine
 ## CO₂
 ## 0g/km - 120g/km
@@ -68,23 +67,14 @@ Category B: Category B: Used category M1 vehicles (including autogas and hybrid 
 Vehicle's age (yrs)* 0 1 2 3 4 5 6 7 CO2 € € € 0g/km up to and including 800 900 1,000 100g/km More than 100g/km up to 1,000 1.100 1,200 and including 130g/km More than 130g/km up to 1,200 1,300 1.400 and including 140g/km More than 140g/km up to 3,500 3,920 4,390 and including 150g/km More than 150g/km up to 4,000 4,480 5,018 and including 180g/km More than 180g/km up to 7,000 7,840 8,781 and including 220g/km More than 220g/km up to 12,000 13,440 15,053 and including 250g/km More than 250g/km 13,500 15,120 16,934
 Vehicle's age (yrs)* 8 9 10 11 12 13 14+ CO2 € € € € € € € 0g/km up to and including 2,107 2,360 2,644 2,961 3,316 3,714 4,160 100g/km More than 100g/km up to 2,529 2,832 3,172 3,553 3,979 4,457 4,992 and including 130g/km More than 130g/km up to 2,810 3,147 3,525 3,948 4,421 4,952 5,546 and including 140g/km More than 140g/km up to 4,917 5,507 6,168 6,908 7,737 8,666 9,706 and including 150g/km More than 150g/km up to 5,620 6,294 7,049 7,895 8,843 9,904 11,092 and including 180g/km More than 180g/km up to 9,834 11,015 12,336 13,817 15,475 17,332 19,412 and including 220g/km More than 220g/km up to 16,859 18,882 21,148 23,686 26,528 29,712 33,277 and including 250g/km More than 250g/km 18,967 21,243 23,792 26,647 29,844 33,426 37,437
 * The vehicle's age is the age of a vehicle from date of registration in the other country.
-Category C: Motor cycles, Motor Tricycles and Category L5e
-Motor Cycles and Motor Tricycles
-Engine capacity Not exceeding 250cc 0% Exceeding 250cc but not exceeding 500cc cc x RV x 0.033% Exceeding 500cc but not exceeding 800cc cc x RV x 0.034% Exceeding 800cc cc x RV x 0.035% Battery electric motor cycle 0%
-Category L5e
-Rate Kg x 0.35 + cc x 0.39 x €1 Category CC: motorcycles registered prior to the 1st January, 2009 in any country other than a third country brought into and registered in Malta on or after the 1st January, 2009:
+Category C: Motor cycles, Motor Tricycles and Category T L5e vehicles:
+Motor Cycles and Motor Tricycles Engine capacity Not exceeding 350cc 0% Exceeding 350cc but not exceeding 500cc cc x RV x 0.033% Exceeding 500cc but not exceeding 800cc cc x RV x 0.034% Exceeding 800cc cc x RV x 0.035% Battery electric motor cycle 0%
+Category CC: motorcycles registered prior to the 1st January, 2009 in any country other than a third country brought into and registered in Malta on or after the 1st January, 2009:
 Motorcycles
 Engine Capacity Rate of Tax
 Percentage of RV
 Up to and including 50cc 28.5%
-More than 50cc up to and including 28.5% 125cc
-More than 125cc up to and including 42%
-250cc
-More than 250cc up to and including 42%
-500cc
-More than 500cc up to and including 42%
-800cc
-More than 800cc 42%
+More than 50cc up to and including 125cc 28.5% More than 125cc up to and including 250cc 42% More than 250cc up to and including 500cc 42% More than 500cc up to and including 800cc 42% More than 800cc 42%
 Category CCC: used motorcycles registered prior to the 1st January, 2009 in any country other than a third country brought into and registered in Malta on or after the 1st January, 2009:
 Motorcycles
 Engine Capacity €
@@ -136,13 +126,7 @@ M2 2000 2001 - 2005 2006 - 2008 2009 - 2013 2014 onwards M3 2000 2001 - 2005 200
 Where an importer or dealer or owner of a motor vehicle intends to change the engine of a motor vehicle prior to its registration with the Authority, he shall inform the Authority in writing. Where an importer or dealer or owner of a motor vehicle provides a certificate as approved by an accredited technical service, that the engine of that particular vehicle meets lower emissions despite the vehicle's year of manufacture, that vehicle shall on registration be taxed the rate pertaining to its equivalent Euro standard.
 Category G: other motor vehicles
 Rate of Tax Percentage of
-RV
-1. Ambulances, whether new or used ..................................................................... 0%
-2. Motor vehicles, including go-karts, quad bikes and motor cycles used for rac ing purposes, whether new or used ..................................................................... 0%
-3. Motor caravans and motor homes, whether new or used ................................... 50%
-4. Motor hearses (new only) ................................................................................... 30%
-5. New amateur built motor vehicles ...................................................................... 20%
-6. Used amateur built motor vehicles ..................................................................... 70%
+RV 1. Ambulances, whether new or used ..................................................................... 0% 2. Motor vehicles, including go-karts, quad bikes and motor cycles used for rac ing purposes, whether new or used ..................................................................... 0% 3. Motor caravans and motor homes, whether new or used ................................... 50% 4. Motor hearses (new only) ................................................................................... 30% 5. New amateur built motor vehicles ...................................................................... 20% 6. Used amateur built motor vehicles ..................................................................... 70%
 Category H: Vintage Category M vehicles and motor cycles for private use
 1. Category M vehicles for private use with an age of 50 years or over from Rate of Tax date of manufacture certified authentic by the vintage vehicle classification Percentage committee with an engine capacity of: of RV
 1.032.082 1.1 not exceeding 1000cc ....................................... 0% 1.032.182 1.2 exceeding 1000cc but not exceeding 1300 ......... 0% 1.032.282 1.3 exceeding 1300cc but not exceeding 1500 ......... 0% 1.032.382 1.4 exceeding 1500cc but not exceeding 1800 ......... 0% 1.032.482 1.5 exceeding 1800cc but not exceeding 2000 ......... 0% 1.032.582 1.6 exceeding 2000cc but not exceeding 2500 ......... 0% 1.032.682 1.7 exceeding 2500cc but not exceeding 3000 ......... 0% 1.032.782 1.8 exceeding 3000cc ............................................. 0% 2. M vehicles for private use with an age of 30 years or over but less than 50 years from date of manufacture certified authentic by the vintage vehicle classification committee with an engine capacity of:
@@ -163,4 +147,4 @@ electric vehicles:
 - Substituted by: XXVI. 1997.2.
 - Amended by: XVI. 1998.3.
 - Substituted by: VI. 1999.2; VI. 2009.30.
-- Amended by: XI. 2010.17; IV. 2011.52; V. 2012.42; L.N. 86 of 2013; III. 2013.51; XII. 2014.57; XV. 2016.24; XVI. 2017.59; VII.2018.51; XVIII.2021.41; VII.2022.55; XII.2023.36; IX.2025.44.
+- Amended by: XI. 2010.17; IV. 2011.52; V. 2012.42; L.N. 86 of 2013; III. 2013.51; XII. 2014.57; XV. 2016.24; XVI. 2017.59; VII.2018.51; XVIII.2021.41; VII.2022.55; XII.2023.36; IX.2025.44; III.2026.37.
