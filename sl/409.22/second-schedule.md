@@ -2,15 +2,26 @@
 # second-schedule
 (regulation 4)
 PART I
-The following persons shall not be required to satisfy the requisites set out in paragraphs (c) and (d) of regulation 4 to obtain a temporary Skills Pass valid for six (6) consecutive months:
-1. Full-time students enrolled with any recognised
-Maltese educational institution; and
-2. Students enrolled in an English language learning
-course in Malta with a licensed English language teaching school:
-Provided that if any such persons require a Skills Pass for more than six (6) consecutive months they shall satisfy all the requisites set out in regulation 4.
+The following persons shall not be required to satisfy the requisites established in paragraphs (c) and (d) of regulation 4 to obtain a temporary Skills Pass:
+1. Full-time students enrolled with any recognised Maltese educational institution, in which case a temporary Skills Pass valid for six (6) consecutive months shall be issued;
+2. Students enrolled in an English language learning course in Malta with a licensed English language teaching school, in which case a temporary Skills Pass valid for six (6) consecutive months shall be issued; and
+3. Students enrolled in tourism and hospitality related courses provided by recognised licensed educational institutions within a Member State, who shall be taking part in an internship with a tourism and hospitality operation in Malta, in which case a temporary Skills Pass valid for the duration of the internship shall be issued:
+Provided that if any such persons require a Skills Pass for
+more than the term indicated, they shall satisfy all the requisites established in regulation 4.
 PART II
-The following persons are not required to satisfy the requisites set out in paragraphs (c) and (d) of regulation 4 to obtain a Skills Pass:
-1. Students enrolled in tourism and hospitality
-related courses offered by the Institute, excluding the courses listed in the First Schedule; and
-2. Students enrolled in tourism and hospitality-
-related courses provided by recognised licenced educational institutions within a Member State, who shall be taking part in an internship with a tourism and hospitality operation in Malta.
+The following persons are not required to satisfy the requisites established in paragraphs (c) and (d) of regulation 4 to obtain a Skills Pass:
+1. Students enrolled in tourism and hospitality related courses offered by the Institute, excluding any courses required for the obtainment of a Skills Pass; and
+2. Applicants who have already obtained a full qualification as per the below, and duly applied with the Institute to have the same qualification recognised and subsequently awarded an equivalent level of the Skills Pass:
+MQF Level Colour Minimum ECTS Full
+Qualification
+MQF Level 2 Yellow VNFIL Award (no 60 ECTS
+ECTS)
+MQF Level 3 Green VNFIL Award (no 60 ECTS
+ECTS)
+MQF Level 4 Silver VNFIL Award (no 120 ECTS
+ECTS)
+MQF Level 5 Gold VNFIL Award (no 60 ECTS
+ECTS)
+MQF Level 6 Ruby 180 ECTS
+60-90 ECTS MQF Level 7 Platinum
+- Substituted by: L.N. 294 of 2025.
