@@ -7,15 +7,13 @@ In accordance to regulation 4A and to regulation 10(4), objects and materials li
 (c) Bathroom suite in whole or in part;
 (d) Bedroom suite or other domestic furniture in whole or in part;
 (e) Commercial equipment, old stock office furniture and machinery, in whole or in part;
-[S.L.549.40 IN STREETS AND PUBLIC PLACES OR AREAS 13
 (f) Cloths, rags and other material related to clothing;
+[S.L.549.40 14 IN STREETS AND PUBLIC PLACES OR AREAS
 (g) All catering waste and swill in whatever quantity, disposed by a catering licensee;
 (h) Unlicensed and disused vehicle or vessel in whole or in part;
 (i) Non-domestic waste;
 (j) Dead animal;
-(k) Uncollected litter remaining after the lapse of twenty-four hours from the termination of an event organised by a person, or a body of persons, in a public place, including a rally, protest, concert, festival, public meeting or similar activity, unless the organiser shows that sufficient arrangements had been made for cleaning after the event;
+(k) Uncollected litter remaining after the lapse of twenty-four hours from the termination of an event organised by a person, or a body of persons, in a public place, including a rally, protest, concert, festival, public meeting or similar activity, unless the organiser shows that sufficient
+arrangements had been made for cleaning after the event;
 (l) Mixed agricultural and garden waste including plastics used for agricultural or gardening purposes:
 Provided that if the dumping or depositing constitutes of pruning remains only it shall qualify under Schedule 1.
-- Amended by: L.N. 296 of 2018.
-- Substituted by: L.N. 346 of 2018.
-- Amended by: L.N. 293 of 2020.

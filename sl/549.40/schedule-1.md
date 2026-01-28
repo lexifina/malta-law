@@ -8,4 +8,3 @@ In accordance with regulation 4, acts or omissions listed hereunder shall be dee
 (d) beat, clean, shake, sieve or otherwise agitate any ash, hair, feathers, lime, sand, waste paper or other substance in such manner that it is carried or likely to be carried by the wind to any public place;
 (e) spit any substance or expel mucus from the nose, or leave or deposit human material excretion, including vomit, or leave or deposit any animal material excretion upon or onto any street or any public place;
 (f) place, scatter, spill or throw any blood, brine, noxious liquid, swill or any other offensive or filthy matter of any kind, including oils, fuels, paints and other fluids, in such manner as to run or fall into any public place including in the sea or watercourses.
-- Amended by: L.N. 296 of 2018.
