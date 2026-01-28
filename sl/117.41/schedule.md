@@ -4,22 +4,32 @@
 Single-use Plastic Products Covered by the Prohibition on
 Placing on the Market
 Part A
-(a) cotton bud sticks, except if they fall within the scope of Council Directive 90/385/EEC or Council Directive 93/42/EEC;
+(a) cotton bud sticks, except if they fall within the
+scope of Council Directive 90/385/EEC or Council Directive 93/42/EEC;
 (b) cutlery (forks, knives, spoons, chopsticks);
 (c) plates;
-(d) straws, except if they fall within the scope of Council Directive 90/385/EEC or Council Directive 93/42/ EEC;
+(d) straws, except if they fall within the scope of
+Council Directive 90/385/EEC or Council Directive 93/42/ EEC;
 (e) beverage stirrers;
-(f) sticks to be attached to and to support balloons, except balloons for industrial or other professional uses and applications that are not distributed to consumers, including the mechanisms of such sticks;
-(g) food containers made of expanded polystyrene, that is receptacles such as boxes, with or without a cover, used to contain food which:
+(f) sticks to be attached to and to support balloons,
+except balloons for industrial or other professional uses and applications that are not distributed to consumers, including the mechanisms of such sticks;
+(g) food containers made of expanded polystyrene,
+that is receptacles such as boxes, with or without a cover, used to contain food which:
 (i) is intended for immediate consumption,
 either on-the-spot or take-away;
 (ii) is typically consumed from the receptacle;
 and
 (iii) is ready to be consumed without any
-further preparation, such as cooking, boiling or heating, including food containers used for fast food or other meal ready for immediate consumption, except beverage containers, plates and packets and wrappers containing food;
-(h) beverage containers made of expanded polystyrene, including their caps and lids;
-(i) cups for beverages made of expanded polystyrene, including their covers and lids.
-Part B [S.L. 117.41 4 SINGLE-USE PLASTIC PRODUCTS
+further preparation, such as cooking, boiling or heating,
+including food containers used for fast food or other meal
+ready for immediate consumption, except beverage
+containers, plates and packets and wrappers containing
+food;
+(h) beverage containers made of expanded
+polystyrene, including their caps and lids; [S.L. 117.41 4 SINGLE-USE PLASTIC PRODUCTS
+(i) cups for beverages made of expanded polystyrene,
+including their covers and lids.
+Part B
 (a) pizza lid supports;
 (b) sticks to be attached to and to support lollipops
 that are placed on the market on their own;
