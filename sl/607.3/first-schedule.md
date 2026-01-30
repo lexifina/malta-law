@@ -10,5 +10,5 @@ SELF-ACCREDITING PROVIDERS
 (a) the University of Malta, for programmes up to and including level 8 of the Malta Qualifications Framework;
 (b) the Malta College of Arts, Science and Technology, only for programmes up to and including level 7 of the Malta Qualifications Framework; and
 (c) the Institution of Tourism Studies, only for programmes up to and
-including level 5 of the Malta Qualifications Framework.
-- Amended by: L.N. 150 of 2015.
+including level 7 of the Malta Qualifications Framework.
+- Amended by: L.N. 150 of 2015; L.N. 26 of 2026.
