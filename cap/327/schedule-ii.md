@@ -157,14 +157,11 @@ basis as Visiting External Professors by the Rector.
 the University immediately after the members of Senate.
 10. University Fellows
 University Fellows may be appointed by Council in accordance with procedure approved by Council on the recommendation of Senate as follows:
-(a) Honorary Fellows, where the University wants to confer such honour on
-deserving individuals;
-(b) Senior Fellows, in the case of retiring academic members of staff of
-professorial rank to enable them to carry on with their research contributions at the University;
-(c) Visiting Fellows, in the case of senior foreign or local scholars of
-professional rank or distinction;
-(d) Fellows, in the case of retiring members of staff, not of professorial rank, to
-enable them to carry on with their research contributions at the University.
+(a) Honorary Fellows, where the University wants to confer such honour on deserving individuals;
+(b) Senior Fellows, in the case of retiring members of staff at the grade of Professor to enable them to carry on with their research at the University;
+(c) Fellows, in the case of retiring members of the academic staff at the grade of Associate Professor, Senior Lecturer and Lecturer to enable
+them to carry on with their research at the University.
+(d) Visiting Fellows, in the case of senior foreign or local scholars of professional rank or distinction.
 11. Rector Emeritus
 (a) A former Rector may be appointed Rector Emeritus by a resolution of Council;
 (b) Rector Emeriti shall take precedence in all public ceremonies of the University as the most senior of the Emeritus Professors after the Chancellor Emeriti and will have the right to wear the appropriate academic robes.
@@ -192,8 +189,8 @@ Citation and interpretation
 "the Course" means a programme of study leading to a University qualification;
 "the Dean" means the Dean of a faculty or the Director of an institute, centre, or school of the University;
 "the Faculty" means a faculty, institute, centre, or school of the University;
-"the Senate" means the Senate of the University; and
-"the University" means the University of Malta. Applicability
+"the Senate" means the Senate of the University; and "the University" means the University of Malta.
+Applicability
 2. These regulations shall be applicable from September 2016 onwards.
 Courses
 3. The Courses are offered at the following levels:
