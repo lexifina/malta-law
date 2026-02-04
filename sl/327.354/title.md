@@ -1,7 +1,7 @@
 [S.L.327.354 CENTRE FOR EDUCATIONAL RESEARCH 1
 SUBSIDIARY LEGISLATION 327.354
 STATUTE FOR THE EURO-MEDITERRANEAN
-CENTRE FOR EDUCATIONAL RESEARCH
+CENTRE FOR EDUCATIONAL RESEARCH*
 3rd November, 2009
 LEGAL NOTICE 321 of 2009, as amended by Legal Notice 195 of 2012.
 The title of this statute is the Statute for the Euro- Mediterranean Centre for Educational Research.
