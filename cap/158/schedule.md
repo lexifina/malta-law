@@ -82,5 +82,6 @@ Increase of inflation for the years after 1978
 2022 947.40 (L.N. 38 of 2023)
 2023 995.62 (L.N. 29 of 2024)
 2024 1012.05 (L.N. 35 of 2025)
+2025 1035.93 (L.N. 36 of 2026)
 - Added by: XXIII.1979.6.
 - Amended by: L.N. 18 of 1984; L.N. 2 of 1985; L.N. 4 of 1986; L.N. 10 of 1987; L.N. 20 of 1988; L.N. 26 of 1989:; L.N. 31 of 1990; L.N.31 of 1991; L.N. 29 of 1992; L.N. 46 of 1993; L.N. 36 of 1994; L.N. 29 of 1995; L.N. 25 of 1996; L.N. 29 of 1997; L.N. 76 of 1998; L.N. 64 of 1999; L.N. 31 of 2000; L.N. 30 of 2001; L.N. 46 of 2002; L.N. 73 of 2003; L.N. 90 of 2004; L.N. 32 of 2005; L.N. 30 of 2006; L.N. 36 of 2007; L.N. 83 of 2008; L.N. 50 of 2009; L.N. 184 of 2010; L.N. 188 of 2011; L.N. 70 of 2012; L.N. 55 of 2012; L.N. 76 of 2015; L.N. 129 of 2016.
