@@ -18,7 +18,10 @@ coordinate the maintenance and up-keeping in good condition of the Park;
 (f) to
 draw up and adopt health and safety procedures and protocols in the Park and ensure that the same are accessible to the public;
 (g) to
-draw up and adopt emergency procedures and protocols in the Park and ensure that the same are accessible to the public. "National To carry out Six (6) Head being a Minister Yes Drugs and monitoring and to years Non- responsible for Addictions draw up reports, Executive Social Policy
+draw up and adopt emergency procedures and protocols in the Park and ensure that the same are accessible to the public.
+The above-
+mentioned functions of the Unit shall be exercised in respect of the Malta National Park which covers an area of three hundred thousand square meters (300,000m2)*
+"National To carry out Six (6) Head being a Minister Yes Drugs and monitoring and to years Non- responsible for Addictions draw up reports, Executive Social Policy
 Unit statistics and Chairperson
 surveys on the assisted by subject of drugs other public
 and other officers of
@@ -42,6 +45,6 @@ perform any other function and role that may so be assigned to it from time to t
 (e) to provide
 support, including technical, to the Control Committee established by article 17 of the Agreement between the Holy See and the Republic of Malta contained in the Schedule to the Ecclesiastical Entities (Properties) Act, and to give the said any information and access to records for the purposes of fulfilling its role;
 (f) to perform
-its functions as a Unit with autonomy.
+its functions as a Unit with autonomy. Boundaries and extent of the Malta National Park*
 - Substituted by: L.N. 338 of 2022.
-- Amended by: L.N. 239 of 2024; L.N. 285 of 2024.
+- Amended by: L.N. 239 of 2024; L.N. 285 of 2024; L.N. 35 of 2026.

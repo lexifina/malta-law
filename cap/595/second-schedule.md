@@ -2,7 +2,7 @@
 ## Department
 ## Department of Active Ageing and Community Care
 ## Cabinet Office
-## Department of Civil Protection
+## Critical Infrastructure Protection Department
 ## Customs Department
 ## Economic Policy Department
 ## Fisheries and Aquaculture Department
@@ -13,8 +13,6 @@
 ## Department of Justice
 ## Department for Local Government
 ## Malta Police Force
-## Department for Policy in Health
-## Department of Probation and Parole
 ## Veterinary and Phytosanitary Regulation Department
 ## Public Works Department
 ## Electoral Office
