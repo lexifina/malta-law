@@ -1,44 +1,172 @@
 ## SECOND SCHEDULE
 # second-schedule
 Offences
-(1) An association which permits:
-(i) any person not being its member, or
-(ii) any other person not being a member and who is
-not registered with the Authority for the purpose of providing a service to the association to be present in any premises which it operates shall be guilty of an offence and shall be liable on conviction to a fine (multa) of not more than ten thousand euro (€10,000) which shall be imposed in accordance with the
-provisions of the Commissioners for Justice Act.
-(2) An association which does not have distinctive marks on
-the containers in which it distributes cannabis in a manner which renders the distribution of the said containers by it identifiable, and which does not carry out controls of the quality of cannabis distributed, shall be guilty of an offence and shall be liable on conviction to a fine (multa) of five thousand euro (€5,000) which shall be imposed in accordance with the provisions of the Commissioners for Justice Act.
-(3) An association which has more than five hundred (500)
-members or such other number of members as the Authority may determine by order in the Gazette, or which has admitted more members than the maximum number authorised by the Authority, shall be guilty of an offence and shall be liable on conviction to a fine (multa) of two thousand euro (€2,000) which shall be imposed in
-[S.L. 628.01 ORGANISATIONS) 45
-accordance with the provisions of the Commissioners for Justice Act.
-(4) An association which advertises its activities in any manner and shows any indication by signs, words or designs, or otherwise of activities related to cannabis or to the cannabis culture from any premises managed by the association on the outside or in a way which is visible from the outside, shall be guilty of an offence and shall be liable on conviction to a fine (multa) of not less than two thousand euro (€2,000) but not more that (€10,000) which shall be imposed in accordance with the provisions of the Commissioners for Justice Act.
-(5) An association which has any premises which is causing nuisance in the locality where it is situated, also including nuisance because of loitering, and, or such premises managed by it is not in conformity with health and safety legislation as in force from time to time, shall be guilty of an offence and shall be liable on conviction to a fine (multa) of two thousand five hundred euro (€2,500) which shall be imposed in accordance with the provisions of the Commissioners for Justice Act.
-(6) An association which admits any person who is under the age of eighteen (18) years as a member of the association shall be guilty of an offence and shall be liable on conviction to a fine (multa) of ten thousand euro (€10,000) which shall be imposed in accordance with the provisions of the Commissioners for Justice Act.
-(7) An association which distributes cannabis to its members in a manner which is not compliant with the requisites established under article 7A(2)(d) and (m) of the Act and, or with any binding instruments as may be prescribed by the Authority shall be guilty of an offence and shall be liable on conviction to a fine (multa) of five thousand euro (€5,000) which shall be imposed in accordance with the provisions of the Commissioners for Justice Act.
-(8) An association which sells alcoholic products from any premises managed by it, shall be guilty of an offence and shall be liable on conviction to a fine (multa) of two thousand euro (€2,000) which shall be imposed in accordance with the provisions of the Commissioners for Justice Act.
-(9) An association which, or any person who fails to cooperate fully and honestly at all times in any inspections as referred to in article 7A(2)(o) of the Act and, or any inspection or compliance review or investigation by the Authority in terms of these regulations shall be guilty of an offence and shall be liable on conviction to a fine (multa) of not less than five thousand euro (€5,000) and not more than ten thousand euro (€10,000) which shall be imposed in accordance with the provisions of the Commissioners for Justice Act. [S.L. 628.01 46 ORGANISATIONS)
-(10) An association which fails to render account to the
-Authority in accordance with the provisions of article 7A(2)(p) of the Act, these regulations and, or any binding instruments shall be guilty of an offence and shall be liable on conviction to a fine (multa) of one thousand euro (€1,000) which shall be imposed in accordance with the provisions of the Commissioners for Justice Act.
-(11) An association which fails to abide by any of the
-provisions relating to cannabis harm reduction in Part XIII and in any binding instruments shall be guilty of an offence and shall be liable on conviction to a fine (multa) of ten thousand euro (€10,000) which shall be imposed in accordance with the provisions of the Commissioners for Justice Act.
-(12) An association which fails to keep a register of its
-members in accordance with the provisions of article 7A(2)(q) of the Act, these regulations and, or any binding instruments shall be guilty of an offence and shall be liable on conviction to a fine (multa) of one thousand euro (€1,000) which shall be imposed in accordance with the provisions of the Commissioners for Justice Act.
-(13) An association which fails to keep complete and accurate
-records of its operating activities in accordance with the provisions of these regulations and, or any binding instruments shall be guilty of an offence and shall be liable on conviction to a fine (multa) of one thousand euro (€1,000) which shall be imposed in accordance with the provisions of the Commissioners for Justice Act.
-(14) An association which in contravention of the provisions
-of article 7A(2)(s) and, or these regulations accepts as members or in the continuation in its membership persons who are members of another association of the same type, shall be guilty of an offence and shall be liable on conviction to a fine (multa) of five thousand euro (€5,000) which shall be imposed in accordance with the provisions of the Commissioners for Justice Act.
-- See Cap. 291.
-- See Cap. 291.
-- See Cap. 291.
-- See Cap. 291.
-- See Cap. 291.
-- See Cap. 291.
-- See Cap. 291.
-- See Cap. 291.
-- See Cap. 291.
-- See Cap. 291.
-- See Cap. 291.
-- See Cap. 291.
-- See Cap. 291.
-- See Cap. 291.
+(1) Any person or association which, in breach of regulation 5, permits, transfers or facilitates the transfer of ownership, management or membership of an association by, or to a legal entity, shall be guilty of an offence and shall on conviction be liable to a fine (multa) of fifty thousand euro (€50,000), or to a fine (multa) equivalent to twice the amount of revenue generated during the period when the legal entity formed part of the ownership, management or membership of the association, whichever is the higher.
+(2) Any person or association which, in breach of regulation 7:
+(a) distributes income to administrators, employees,
+or any other private interests, except as expressly permitted by these regulations or by the Authority, pays remuneration, fees or other compensation for goods or services at higher than market rates as determined by the Authority;
+(b) otherwise causes or permits the distribution of the
+association's income in a manner that violates the not-for-profit principles established in these regulations, shall be guilty of an offence and shall on conviction be liable to a fine (multa) of not less than two thousand euro (€2,000) and not more than fifty thousand euro (€50,000), or double the compensation [S.L. 628.01 50 ORGANISATIONS)
+distributed, whichever is the higher.
+(3) Without prejudice to any other applicable law, any person
+or association, who in breach of the provisions of regulation 8(1) distributes cannabis to persons who are not members of the association, shall be guilty of an offence and shall on conviction be liable to a fine (multa) of not less than two thousand euro (€2,000) and not more than fifty thousand euro (€50,000), or to a fine (multa) equivalent to twice the amount of revenue generated from the activity, whichever is the higher.
+(4) Any person or association which, in breach of regulation
+8(1) and (2), permits the premises of the association to be used for any activity that is not directly related to the cultivation and distribution of cannabis in accordance with these regulations, shall be guilty of an offence and shall be liable on conviction to a fine (multa) of not less than one thousand euro (€1,000) and not more than fifty thousand euro (€50,000), or to a fine (multa) equivalent to twice the amount of revenue generated from the activity, whichever is the higher:
+Provided that without prejudice to the applicability of any
+other laws or regulations, where such unauthorised activity includes the distribution or sale of alcohol, the offender shall be liable to a fine
+(multa) of not less than twenty thousand euro (€20,000).
+(5) Any person or association which, in breach of regulation
+8(2)(b)(i), distributes cannabis:
+(a) that has not been submitted for testing at a
+laboratory duly authorised and approved by the Authority in
+accordance with any applicable binding instrument; or
+(b) without receiving confirmation from the Authority
+that the results of such testing confirm the product's compliance with safety and quality standards criteria as established by the Authority,
+shall be guilty of an offence and shall on conviction be liable to a
+fine (multa) of not less than two thousand euro (€2,000) and not more than fifty thousand euro (€50,000), or to a fine (multa) equivalent to twice the amount of revenue generated from the cannabis distributed, whichever is the higher.
+(6) Without prejudice to any other applicable law, any person
+or association which, in breach of regulations 8(2)(b)(ii) and 35(2), distributes cannabis from a location or premises not duly approved for such purpose by the Authority, shall be guilty of an offence and shall be liable on conviction to a fine (multa) of not less than ten thousand euro (€10,000) and not more than fifty thousand euro (€50,000), or to a fine (multa) equivalent to twice the amount of revenue generated from the
+[S.L. 628.01 ORGANISATIONS) 51
+activity, whichever is the higher:
+Provided that where such distribution takes place from a
+property or location not compliant with regulation 43, the offender shall be liable to a fine (multa) of not less than twenty thousand euro (€20,000).
+(7) Any person or association which, in breach of regulation 8(2)(b)(iii), distributes cannabis that:
+(a) is not packaged in containers of the design, size,
+and type approved by the Authority; or
+(b) is not labelled as prescribed by the Authority,
+shall be guilty of an offence and shall on conviction be liable to a fine (multa) of not less than one thousand euro (€1,000) and not more than twenty thousand euro (€20,000).
+(8) Any person or association which, in breach of regulation 8(2)(b)(iv), distributes cannabis that is not sealed with the numbered security seals prescribed or provided by the Authority, shall be guilty of an offence and shall on conviction be liable to a fine (multa) of not less than two thousand euro (€2,000) and not more than fifty thousand euro (€50,000), or to a fine (multa) equivalent to twice the amount of revenue generated from the cannabis distributed, whichever is the higher.
+(9) Any person or association which, in breach of regulation 8(2)(b)(v), distributes cannabis products which have not been approved by the Authority, shall be guilty of an offence and shall be liable on conviction to a fine (multa) of not less than ten thousand euro (€10,000) and not more than fifty thousand euro (€50,000), or to a fine (multa) equivalent to twice the amount of revenue generated from the activity, whichever is the higher.
+(10) Any person or association which, in breach of regulation 8(2)(b)(vi), permits or allows the premises of an association to cause a nuisance to third parties, including loitering, shall be guilty of an offence and shall on conviction, be liable to a fine (multa) of not less than one thousand euro (€1,000) and not more than ten thousand euro (€10,000).
+(11) Any person or association which, in breach of regulation 8(3):
+(a) promotes or advertises the name, logo, or
+activities of an association, whether directly or indirectly and whether physically or through any digital or electronic medium; or [S.L. 628.01 52 ORGANISATIONS)
+(b) publishes any words, signs, symbols, or designs
+related to cannabis culture in a manner that may reasonably be associated with, or conferring a benefit upon, an association,
+shall be guilty of an offence and shall on conviction be liable to a
+fine (multa) of not less than one thousand euro (€1,000) and not more than fifty thousand euro (€50,000).
+(12) Any person or association which, in breach of regulation
+8(4), distributes more than seven grams (7g) of cannabis to a member in a single day, or more than fifty grams (50g) in a calendar month, or their equivalent amount as stipulated in a binding instrument, shall be guilty of an offence and shall be liable on conviction to a fine (multa) of not less than one thousand euro (€1,000) and not more than twenty thousand euro (€20,000) or double the income generated from the additional distribution over and above the stipulated limits, whichever is the higher:
+Provided that the punishment established under this item
+shall only be applicable where the Court is satisfied that the breach occurred as a result of negligence and that no circumstances indicative of trafficking or other criminal activity were present, in such case, the
+provisions of the Dangerous Drugs Ordinance shall apply.
+(13) Any person or association which, in breach of regulations
+9 or 71, grants or receives a loan without the prior approval of the Authority shall be guilty of an offence and shall be liable on conviction to a fine (multa) of not less than five thousand euro (€5,000) and not more than fifty thousand euro (€50,000), or to a fine (multa) equivalent to twice the amount of revenue generated by the association until the loan was repaid, whichever is the higher.
+(14) Any person or association which, in breach of regulation
+12, permits, enables, assists or otherwise facilitates a person who has not been ordinarily resident in Malta for the preceding five (5) consecutive years to:
+(a) establish or otherwise establish an association,
+whether directly or through agents; or
+(b) provide, contribute or otherwise channel funds or
+other financial support to an association, whether directly or indirectly,
+shall be guilty of an offence and shall on conviction, be liable to
+a fine (multa) of not less than ten thousand euro (€10,000) and not more than fifty thousand euro (€50,000), or to a fine (multa) equivalent to twice the amount donated or income generated from such prohibited conduct, whichever is the higher.
+[S.L. 628.01 ORGANISATIONS) 53
+(15) Any person or association which, in breach of regulation 13, establishes or maintains an organisational structure for an association that does not conform with the structure approved by the Authority or established in any binding instrument shall be guilty of an offence and shall be liable on conviction to a fine (multa) of not less than one thousand euro (€1,000) and not more than ten thousand euro (€10,000).
+(16) Any person or association which, in breach of regulation 14(1) or any binding instrument or written instruction issued by the Authority, fails to take timely action to fill a vacancy on the Board of Administrators and permit the association to continue operations with fewer than three (3) administrators shall be guilty of an offence and shall be liable on conviction to a fine (multa) of not less than one thousand euro (€1,000) and not more than twenty thousand euro (€20,000).
+(17) Any person or association which, in breach of regulation 14(2), appoints or facilitates the appointment of a person who has not been resident in Malta for the preceding five (5) consecutive years as an administrator of an association, shall be guilty of an offence and shall be liable on conviction to a fine (multa) of not less than ten thousand euro (€10,000), and not more than fifty thousand euro (€50,000), or to a fine (multa) equivalent to twice the amount of revenue generated by the association during the person's tenure, whichever is the higher.
+(18) Any person or association which, in breach of regulation 14(3), appoints or facilitates the appointment of a person who is not a member of the association as an administrator of the association shall be guilty of an offence and shall be liable on conviction to a fine (multa) of not less than one thousand euro (€1,000) and not more than ten thousand euro (€10,000):
+Provided that if the appointed person is an administrator
+of more than one association concurrently, the person or association shall be liable to a fine (multa) of fifty thousand euro (€50,000), or to a fine (multa) equivalent to twice the amount of revenue generated by the association during the person's tenure, whichever is the higher.
+(19) Any person or association which, in breach of regulation 14(4), appoints any person as an administrator, key officer, or to any other management position within an association without the prior written approval of the Authority shall be guilty of an offence and shall be liable to a fine (multa) of not less than one thousand euro (€1,000) and not more than twenty thousand euro (€20,000).
+(20) Any person or association which, in breach of regulation 15, appoints or facilitates the appointment of a person who had committed a crime in the preceding ten (10) years as an administrator, [S.L. 628.01 54 ORGANISATIONS)
+employee or service provider, shall be guilty of an offence and shall be liable to a fine (multa) of not less than five thousand euro (€5,000) and not more than fifty thousand euro (€50,000), or to a fine (multa) equivalent to twice the amount of revenue generated during the appointed person's tenure, whichever is the higher.
+(21) Any person or association which adopts or causes the
+adoption of a statute in breach of regulation 17 or any applicable binding instrument shall be guilty of an offence and shall be liable on conviction to a fine (multa) of not less than five hundred euro (€500) and not more than five thousand euro (€5,000).
+(22) Any person or association which in breach of the
+provisions of regulation 18(1):
+(a) enrols members in an association which is not in
+possession of a valid permit issued in accordance with regulation 35; or
+(b) enrols more members than allowed in its permit,
+shall be guilty of an offence and shall be liable on conviction to a
+fine (multa) of not less than five hundred euro (€500) and not more than five thousand euro (€5,000).
+(23) Any person or association which, in breach of regulation
+18(2), admits a person under the age of eighteen (18) years as a member of the association shall be guilty of an offence and shall be liable on conviction to a fine (multa) of not less than three thousand euro (€3,000) and not more than ten thousand euro (€10,000) for each minor so admitted.
+(24) Any person or association which, in breach of regulations
+18(3) or 30, adopts a structure that distinguishes between different categories of members or includes segregation of members within an association, shall be guilty of an offence and shall be liable on conviction to a fine (multa) of not less than one thousand euro (€1,000) and not more than twenty thousand euro (€20,000).
+(25) Any person or association which, in breach of regulation
+18(4):
+(a) hinders or obstructs the participation of members
+in a general meeting of the association; or
+(b) hinders or denies a member his right to vote, or
+allows a member to vote more than once,
+shall be guilty of an offence and shall be liable on conviction to a
+fine (multa) of not less than one thousand euro (€1,000) and not more than twenty thousand euro (€20,000).
+[S.L. 628.01 ORGANISATIONS) 55
+(26) Any person or association which, in breach of regulation 18(5), admits or facilitates the admission of persons who are not resident in Malta as members of an association, shall be guilty of an offence and shall be liable on conviction to a fine (multa) of not less than two thousand euro (€2,000) and not more than fifty thousand euro (€50,000), or to a fine (multa) equivalent to twice the amount of revenue generated by the association from the enrolled members, whichever is the higher.
+(27) Any person or association which, in breach of regulation 18(6), admits or facilitates the admission of more than five hundred
+(500) persons as members of the association, shall be guilty of an offence and shall be liable to a fine (multa) of not less than one thousand euro (€1,000) and not more than fifty thousand euro (€50,000), or to a fine (multa) equivalent to twice the amount of revenue generated by the association from the additional enrolled members, whichever is the higher.
+(28) Any person or association which, in breach of regulation 19, knowingly admits or facilitates the admission of a person in more than one association concurrently, shall be guilty of an offence and shall be liable on conviction to a fine (multa) of not less than one thousand euro (€1,000) and not more than ten thousand euro (€10,000).
+(29) Any person which, in breach of regulation 19, becomes or attempts to become, a member of more than one association concurrently, shall be guilty of an offence and shall be liable on conviction to a fine (multa) of not less than five hundred euro (€500) and not more than two thousand euro (€2,000).
+(30) Any person or association which, in breach of regulation 20, transfers or facilitates the transfer of membership within an association to another person, shall be guilty of an offence and shall be liable on conviction to a fine (multa) of not less than five hundred euro (€500) and not more than two thousand euro (€2,000).
+(31) Any person or association which, in breach of regulation 21(2), fails to give proper and timely notice of a general meeting of the association, shall be guilty of an offence and shall be liable on conviction to a fine (multa) of not less than one thousand euro (€1,000) and not more than ten thousand euro (€10,000).
+(32) Any person or association which, in breach of regulation 21(3) or any other binding instrument, proceeds with the general meeting of an association in the absence of the required quorum, shall be guilty of an offence and shall be liable on conviction to a fine (multa) of not less than one thousand euro (€1,000) and not more than ten thousand euro (€10,000). [S.L. 628.01 56 ORGANISATIONS)
+(33) Any person or association which, in breach of regulation
+21(4), effects the dissolution of an association without securing the requisite support of at least seventy-five per cent (75%) of the members during a general meeting shall be guilty of an offence, and shall be liable on conviction to a fine (multa) of not less than five thousand euro
+(€5,000) and not more than fifty thousand euro (€50,000).
+(34) Any person or association which, in breach of regulation
+21(5), denies members access to information to which they are entitled, shall be guilty of an offence and shall be liable on conviction to a fine (multa) of not less than five hundred euro (€500) and not more than two thousand euro (€2,000).
+(35) Any person or association who, in breach of regulation
+21(6), acts or permits a member to act as a proxy for more than two (2) other members during a general meeting of the association, shall be guilty of an offence and shall be liable on conviction to a fine (multa) of not less than five hundred euro (€500) and not more than five thousand euro (€5,000).
+(36) Any person or association which, in breach of regulation
+21(7) or any other binding instrument, fails to convene an annual general meeting of the association, thereby the administrator subsists in office beyond their tenure, shall be guilty of an offence and shall be liable on conviction to a fine (multa) of not less than five thousand euro (€5,000) and not more than fifty thousand euro (€50,000), or to a fine (multa) equivalent to twice the amount of income earned by such administrator from their relationship with the association, whether
+directly or indirectly, following the lapse of their tenure.
+(37) Any person or association which, in breach of regulation
+22(1), fails to maintain a complete and up-to-date register of the association's members, shall be guilty of an offence and shall be liable on conviction to a fine (multa) of not less than five hundred euro (€500) and not more than fifty thousand euro (€50,000), or to a fine (multa) equivalent to twice the amount of revenue generated from the members whose records were missing, whichever is the higher.
+(38) Any person or association which, in breach of regulation
+22(2), fails to submit information regarding the distribution of cannabis to members within the deadlines established by the Authority, shall be guilty of an offence and shall be liable on conviction to a fine (multa) of not less than five hundred euro (€500) and not more than twenty thousand euro (€20,000).
+(39) Any person or association which, in breach of regulation
+22(3), destroys or facilitates the destruction of any part of the register of members prior to the expiration of the retention period prescribed by law, shall be guilty of an offence and shall be liable on conviction to a fine (multa) of not less than five thousand euro (€5,000) and not more
+[S.L. 628.01 ORGANISATIONS) 57
+than twenty thousand euro (€20,000).
+(40) Any person or association which, in breach of regulation 23(1), employs or engages any person to carry out works or services on the premises of an association without registering such person with the Authority and obtaining the requisite approval from the Authority, shall be guilty of an offence and shall be liable on conviction to a fine (multa) of not less than one thousand euro (€1,000) and not more than ten thousand euro (€10,000).
+(41) Any person or association which, in breach of regulation 23(2), makes or authorises payments for goods or services without obtaining a valid fiscal receipt for such payment, shall be guilty of an offence and shall be liable on conviction to a fine (multa) of not less than five hundred euro (€500) and not more than five thousand euro (€5,000).
+(42) Any person or association which, in breach of regulation 23(3), makes or authorises payments for goods or services to a person or entity who are resident or registered in a country outside the European Economic Area or another jurisdiction approved by the Authority, shall be guilty of an offence and shall be liable on conviction to a fine (multa) of not less than one thousand euro (€1,000) and not more than ten thousand euro (€10,000).
+(43) Any person or association which, in breach of regulation 24(1), amends or facilitates the amendment of an association's statute without first obtaining the approval of the members during a general meeting, shall be guilty of an offence and shall be liable on conviction to a fine (multa) of not less than one thousand euro (€1,000) and not more than ten thousand euro (€10,000).
+(44) Any person or association which, in breach of regulation 24(2), fails to submit an amended statute of an association to the Authority, shall be guilty of an offence and shall be liable on conviction to a fine (multa) of five hundred euro (€500).
+(45) Any person or association which, in breach of the provisions of regulation 27(1), fails to ensure that the accounts of the association are duly audited on an annual basis, shall be guilty of an offence and shall be liable on conviction to a fine (multa) of not less than ten thousand euro (€10,000) and not more than fifty thousand euro (€50,000).
+(46) Any person or association which, in breach of regulation 27(2), fails to keep or maintain a register of the assets of an association, shall be guilty of an offence and shall be liable on conviction to a fine (multa) of not less than one thousand euro (€1,000) and not more than five thousand euro (€5,000).
+(47) Any person or association which, in breach of regulation [S.L. 628.01 58 ORGANISATIONS)
+27(4), fails to adhere to the deadline for the submission of an association's audited accounts, shall be guilty of an offence and shall be liable on conviction to a fine (multa) of not less than five hundred euro
+(€500) and not more than five thousand euro (€5,000).
+(48) Any person or association which, in breach of regulation
+27(5), fails to adhere to the deadline for the submission of an association's quarterly financial statements, shall be guilty of an offence and shall be liable on conviction to a fine (multa) of not less than five hundred euro (€500) and not more than ten thousand euro (€10,000).
+(49) Any person or association which, in breach of the
+provisions of regulation 29, establishes or facilitates the establishment of a legal entity partially or wholly owned or managed by an association, shall be guilty of an offence and shall be liable on conviction to a fine (multa) of not less than ten thousand euro (€10,000) and not more than fifty thousand euro (€50,000), or to a fine (multa) equivalent to twice the income derived from the legal entity so established.
+(50) Any person or association which, in breach of regulation
+35(3) of these regulations or any binding instrument or written instruction issued by the Authority cultivates, processes or transports cannabis plants in a manner not in conformity with the conditions established or authorised by the Authority, shall be guilty of an offence and shall be liable on conviction to a fine (multa) of not less than five hundred euro (€500) and not more than ten thousand euro (€10,000).
+(51) Any person or association which, in breach of regulation
+35(5), without the prior written approval of the Authority:
+(a) allows individuals who are not members of the
+association to access the association's premises; or
+(b) permits members who are not administrators,
+employees, or authorised service providers to access the association's cultivation site,
+shall be guilty of an offence and shall be liable on conviction to a
+fine (multa) of not less than one thousand euro (€1,000) and not more than twenty thousand euro (€20,000).
+(52) Any person or association which, in breach of regulation
+35(6), cultivates cannabis plants or holds a stock of cannabis in quantities exceeding those authorised by the Authority, shall be guilty of an offence and shall be liable on conviction to a fine (multa) of not less than one thousand euro (€1,000) and not more than twenty thousand euro (€20,000).
+[S.L. 628.01 ORGANISATIONS) 59
+(53) Any person or association which, in breach of regulations 44(1) or 47(3), fails to ensure that an association appoints a key officer compliant with the requirements established in these regulations and any applicable binding instrument or written instruction issued by the Authority, shall be guilty of an offence and shall be liable on conviction to a fine (multa) of not less than two thousand euro (€2,000) and not more than twenty thousand euro (€20,000).
+(54) Any person or association which, in breach of regulation 44(3), vests the legal and judicial representation of an association in any person who is not the appointed key officer, shall be guilty of an offence and shall be liable on conviction to a fine (multa) of not less than two thousand euro (€2,000) and not more than twenty thousand euro (€20,000).
+(55) Any person or association which, in breach of the provisions of regulation 47(1), removes or replaces the key officer of an association without the prior approval of the Authority, shall be guilty of an offence and shall be liable on conviction to a fine (multa) of not less than five thousand euro (€5,000) and not more than twenty thousand euro (€20,000).
+(56) Any person or association which, in breach of regulation 48(2), appoints a person to a designated key position within an association without having obtained the prior approval of the Authority, shall be guilty of an offence and shall be liable on conviction to a fine (multa) of not less than one thousand euro (€1,000) and not more than twenty thousand euro (€20,000).
+(57) Any person or association which, in breach of regulation 49(1), fails to maintain accurate records relating to the cannabis cultivation cycles, stock of cannabis or the use of security seals issued or prescribed by the Authority, shall be guilty of an offence and shall be liable on conviction to a fine (multa) of not less than five hundred euro (€500) and not more than twenty thousand euro (€20,000).
+(58) Any person or association which, in breach of the provisions of regulation 49(2), destroys the records of an association's cultivation cycles, stock of cannabis or the use of the security seals provided or prescribed by the Authority prior to the lapse of the prescribed period of ten (10) years, shall be guilty of an offence and shall be liable on conviction to a fine (multa) of not less than one thousand euro (€1,000) and not more than twenty thousand euro (€20,000).
+(59) Any person or association which, in breach of regulation 51, fails to comply with any of the conditions established in the association's operating permit, shall be guilty of an offence and shall be liable on conviction to a fine (multa) of not less than five hundred [S.L. 628.01 60 ORGANISATIONS)
+euro (€500) and not more than twenty thousand euro (€20,000).
+(60) Any person or association which, in breach of regulation
+52, fails to comply with the rules, directives or guidelines issued by the Authority by means of a binding instrument, shall be guilty of an offence and shall be liable on conviction to a fine (multa) of not less than five hundred euro (€500) and not more than twenty thousand euro (€20,000).
+(61) Any person or association which, in breach of regulation
+53, fails to deploy a digital centralised data collection system introduced by the Authority, shall be guilty of an offence and shall be liable on conviction to a fine (multa) of not less than five hundred euro
+(€500) and not more than ten thousand euro (€10,000).
+(62) Any person or association which, in breach of regulation
+60(2), refuses to fully and truthfully cooperate with officials of the Authority or fails to comply with any instruction issued by the Authority, shall be guilty of an offence and shall be liable on conviction to a fine (multa) of not less than one thousand euro (€1,000) and not more than twenty thousand euro (€20,000).
+(63) Any person or association which, in breach of regulation
+69(2), encourages or induces members of an association to consume cannabis or otherwise takes measures that may stimulate the demand for cannabis, shall be guilty of an offence and shall be liable on conviction to a fine (multa) of not less than one thousand euro (€1,000) and not more than twenty thousand euro (€20,000).
+(64) Any person or association which, in breach of regulation
+69(3), fails to adopt harm reduction mechanisms, shall be guilty of an offence and shall be liable on conviction to a fine (multa) of not less than five thousand euro (€5,000) and not more than twenty thousand euro (€20,000).
+(65) Any person or association which, in breach of regulation
+70, fails to adopt a code of conduct governing the internal functioning of an association, shall be guilty of an offence and shall be liable on conviction to a fine (multa) of not less than five hundred euro (€500) and not more than five thousand euro (€5,000).
+(66) Any person or association which, in breach of regulation
+84(6), disposes of the assets of an association undergoing dissolution in favour of any person or entity other than the Government of Malta, shall be guilty of an offence and shall be liable on conviction to a fine (multa) of not less than five thousand euro (€5,000) and not more than fifty thousand euro (€50,000), or to a fine (multa) equivalent to double the value of the assets so disposed of.
+[S.L. 628.01 ORGANISATIONS) 61
+- See Cap. 101.

@@ -2,12 +2,8 @@
 # third-schedule
 Fees and Contributions
 Part A
-In accordance with the provisions of regulation 67, an
-association shall pay to the Authority a fixed annual licence fee in respect to its permit category, as outlined below:
-Permit Category Licence Fee
-Category 1 (up to 50 Euro 1,000
-members)
-[S.L. 628.01 ORGANISATIONS) 47
+In accordance with the provisions of regulation 67, an association shall pay to the Authority a fixed annual licence fee in respect to its permit category, as outlined below:
+Permit Category Licence Fee Category 1 (up to 50 Euro 1,000 members)
 Category 2 (51-100 Euro 5,000 members)
 Category 3 (101-250 Euro 13,000 members)
 Category 4 (251 - Euro 18,000 350 members)
