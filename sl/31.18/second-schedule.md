@@ -41,12 +41,16 @@ yl]carbonyl}amino)-3-methylbutanoate PINACA)
 5F-MDMB-PICA (or 5F-MDMB-2201) methyl 2-{[1-(5-fluoropentyl)-1H-indole-3-
 carbonyl]amino}-3,3-dimethylbutanoate 4F-MDMB-BINACA (or 4F-MDMB-BUTIN methyl 2-{[1-(4-fluorobutyl)-1H-indazole-3-
 carbonyl]amino}-3,3-dimethylbutanoate ACA)
-4-CMC (or 4-chloromethcathinone or clephed 1-(4-chlorophenyl)-2-(methylamino)propan-1-
+4-BMC 4-bromomethcathinone 1-(4-Bromophenyl)-2-
+(methylamino)propan-1-one 4-CMC (or 4-chloromethcathinone or clephed 1-(4-chlorophenyl)-2-(methylamino)propan-1-
 one rone)
-N-ethylhexedrone (or NEH, Hexen, Ethyl-Hex, 2-(ethylamino)-1-phenylhexan-1-one Ethyl-hexedrone) Alpha-PHP (or PV-7, α-PHP, α-pyrrolidinohex 1-phenyl-2-(pyrrolidin-1-yl)hexan-1-one anophenone) Flualprazolam (or Ro 11-5073/000) 8-chloro-6-(2-fluorophenyl)-1-methyl-4H-
+N-ethylhexedrone (or NEH, Hexen, Ethyl-Hex, 2-(ethylamino)-1-phenylhexan-1-one Ethyl-hexedrone) NEP N-Ethylnorpentedrone, 2-(Ethylamino)-1-
+phenylpentan-1-one Alpha-PHP (or PV-7, α-PHP, α-pyrrolidinohex 1-phenyl-2-(pyrrolidin-1-yl)hexan-1-one anophenone) Flualprazolam (or Ro 11-5073/000) 8-chloro-6-(2-fluorophenyl)-1-methyl-4H-
 [1,2,4]triazolo[4,3-a][1,4]benzodiazepine Etizolam (or Y-7131 or Depas) 4-(2-chlorophenyl)-2-ethyl-9-methyl-6H-
 thieno[3,2-f][1,2,4]triazolo[4,3-a][1,4]diazepine". EUTYLONE 1-(1,3-benzodioxol-5-yl)-2-(ethylamino)butan-
 1-one
+2-MMC 2-methylmethcathinone, 2-(Methylamino)-1-(2-
+methylphenyl)propan-1-one
 3-methylmethcathinone, 3-MMC 2-(methylamino)-1-(3-methylphenyl)propan-1-
 one
 3-chloromethcathinone, 3-CMC 1-(3-chlorophenyl)-2-(methylamino)propan-1-
