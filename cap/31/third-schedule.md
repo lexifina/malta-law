@@ -1,4 +1,5 @@
 ## THIRD SCHEDULE
+## name or other trivial name
 # third-schedule
 (Article 40a)
 LIST OF PSYCHOTROPIC DRUGS
@@ -199,10 +200,17 @@ lhydroxy-1,2,2-trimethylpropyl]- 6,14-endoethano-6,7,8,14-tetrahydrooripavine ME
 Nphenylcarbamoyl) sydnone imine PEMOLINE 2-amino-5-phenyl-2-oxazolin-4-one
 or
 2-imino-5-phenyl-4-oxazolidinone ZIPEPROL α-(α-μethoxybenzl)-4-
-((ßmethoxphenethyl)- 1-Piperazineethanol DRONABINOL delta-9- (6aR, 10aR)-6a7, 8, 10a-tetrahydro-tetrahydrocannabinol 6,6,9-and its stereochemical variants trimethyl-3-penatyl-6H-dibenzo [b,d] (This item refers to only one of the pyran-1-o1 stereochemical variants of delta-9-tetrahydrocannabinol, namely (-)-trans-delta-9-tetrahydrocannabinol.) AB-FUBINACA (or FUB-AMB) N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(4-fluorobenzyl)-1H-indazole-3-carboxamide 5F-AMB-PINACA (or 5F-AMB or 5F-MMB-PINACA) methyl 2-({[1-(5-fluoropentyl)-1H-indazole-3-yl]carbonyl}amino)-3-methylbutanoate 5F-MDMB-PICA (or 5F-MDMB-2201) methyl 2-{[1-(5-fluoropentyl)- 1H-indole-3-carbonyl]amino}-3,3-dimethylbutanoate 4F-MDMB-BINACA (or 4F-MDMB-BUTINACA) methyl 2-{[1-(4-fluorobutyl)-1H-indazole-3-carbonyl]amino}-3,3-dimethylbutanoate 4-CMC (or 4-chloromethcathinone or clephedrone) 1-(4-chlorophenyl)-2- (methylamino)propan-1-one N-ethylhexedrone (or NEH, Hexen, Ethyl-Hex, Ethyl-hexedrone) 2- (ethylamino)-1-phenylhexan-1-one Alpha-PHP (or PV-7, α-PHP, α-pyrrolidinohexanophenone) 1-phenyl-2- (pyrrolidin-1-yl)hexan-1-one Flualprazolam (or Ro 11-5073/000) 8-chloro-6-(2-fluorophenyl)-1-methyl-4H-[1,2,4]triazolo[4,3-a][1,4]benzodiazepine Etizolam (or Y-7131 or Depas) 4-(2-chlorophenyl)-2-ethyl-9-methyl- 6H-thieno[3,2-f][1,2,4]triazolo[4,3-a][1,4]diazepine EUTYLONE 1-(1,3-benzodioxol-5-yl)-2-(ethylamino)butan-1-one
+((ßmethoxphenethyl)- 1-Piperazineethanol DRONABINOL delta-9- (6aR, 10aR)-6a7, 8, 10a-tetrahydro-tetrahydrocannabinol 6,6,9-and its stereochemical variants trimethyl-3-penatyl-6H-dibenzo [b,d] (This item refers to only one of the pyran-1-o1 stereochemical variants of delta-9-tetrahydrocannabinol, namely (-)-trans-delta-9-tetrahydrocannabinol.) AB-FUBINACA (or FUB-AMB) N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(4-fluorobenzyl)-1H-indazole-3-carboxamide 5F-AMB-PINACA (or 5F-AMB or 5F-MMB-PINACA) methyl 2-({[1-(5-fluoropentyl)-1H-indazole-3-yl]carbonyl}amino)-3-methylbutanoate 5F-MDMB-PICA (or 5F-MDMB-2201) methyl 2-{[1-(5-fluoropentyl)- 1H-indole-3-carbonyl]amino}-3,3-dimethylbutanoate 4F-MDMB-BINACA (or 4F-MDMB-BUTINACA) methyl 2-{[1-(4-fluorobutyl)-1H-indazole-3-carbonyl]amino}-3,3-dimethylbutanoate
+4-BMC, 4-bromomethcathinone 1-(4-
+Bromophenyl)-2-(methylamino)propan-1-one
+4-CMC (or 4-chloromethcathinone or clephedrone) 1-(4-chlorophenyl)-2- (methylamino)propan-1-one N-ethylhexedrone (or NEH, Hexen, Ethyl-Hex, Ethyl-hexedrone) 2- (ethylamino)-1-phenylhexan-1-one
+NEP, N-Ethylnorpentedrone, 2-(Ethylamino)-
+1-phenylpentan-1-one
+Alpha-PHP (or PV-7, α-PHP, α-pyrrolidinohexanophenone) 1-phenyl-2- (pyrrolidin-1-yl)hexan-1-one Flualprazolam (or Ro 11-5073/000) 8-chloro-6-(2-fluorophenyl)-1-methyl-4H-[1,2,4]triazolo[4,3-a][1,4]benzodiazepine Etizolam (or Y-7131 or Depas) 4-(2-chlorophenyl)-2-ethyl-9-methyl- 6H-thieno[3,2-f][1,2,4]triazolo[4,3-a][1,4]diazepine EUTYLONE 1-(1,3-benzodioxol-5-yl)-2-(ethylamino)butan-1-one
+2-MMC, 2-methylmethcathinone, 2-
+(Methylamino)-1-(2-methylphenyl)propan-1-one
 3-methylmethcathinone, 3-MMC 2-(methylamino)-1-(3-methylphenyl)propan- 1-one 3-chloromethcathinone, 3-CMC 1-(3-chlorophenyl)-2-(methylamino)propan-1-one
-ADB-BUTINACA N-[1-(aminocarbonyl)-2,2-dimethylpropyl]-1-butyl-1H-indazole-3-carboxamide)
-Alpha-PiHP, α-PiHP 4-methyl-1-phenyl-2-(pyrrolidin-1-yl)pentan-1-one)
+ADB-BUTINACA N-[1-(aminocarbonyl)-2,2-dimethylpropyl]-1-butyl-1H-indazole-3-carboxamide) Alpha-PiHP, α-PiHP 4-methyl-1-phenyl-2-(pyrrolidin-1-yl)pentan-1-one)
 BROMAZOLAM 8-bromo-1-methyl-6-phenyl-4H-[1,2,4]triazolo[4,3-a][1,4]benzodiazepine
 DIPENTYLONE 1-(1,3-benzodioxol-5-yl)-2-(dimethylamino)pentan-1-one
 2-FLUORODESCHLOROKETAMINE (2-FDCK) 2-(2-fluorophenyl)-2-methylamino-cyclohexanone
@@ -211,4 +219,4 @@ And any salts or esters of the above.
 - Added by: V.1985.15.
 - Amended by: XVII.1986.5; L.N. 34 of 1986.
 - Substituted by: L.N. 48 of 1990.
-- Amended by: L.N. 31 of 1997; L.N. 79 of 1998; International or other nonproprietary; L.N. 285 of 2001; L.N. 38 of 2002; name or other trivial name; L.N. 209 of 2002; L.N. 222 of 2002; L.N. 212 of 2003; L.N. 374 of 2003; L.N. 135 of 2006; L.N. 260 of 2006; L.N. 127 of 2007; L.N. 404 of 2007; L.N. 174 of 2010; L.N. 423 of 2010; L.N. 149 of 2012; L.N. 412 of 2012; L.N. 362 of 2013; L.N. 364 of 2013; L.N. 404 of 2013; L.N. 48 of 2016; L.N. 357 of 2017; L.N.358 of 2017; L.N. 231 of 2018; L.N. 268 of 2018; L.N. 190 of 2019; L.N. 111 of 2021; L.N. 292 of 2021; L.N. 293 of 2021; L.N. 166 of 2022; L.N. 252 of 2022; L.N. 155 of 2023; L.N. 178 of 2024; L.N. 237 of 2024; L.N. 98 of 2025.
+- Amended by: L.N. 31 of 1997; L.N. 79 of 1998; L.N. 285 of 2001; L.N. 38 of 2002; L.N. 209 of 2002; L.N. 222 of 2002; L.N. 212 of 2003; L.N. 374 of 2003; L.N. 135 of 2006; L.N. 260 of 2006; L.N. 127 of 2007; L.N. 404 of 2007; L.N. 174 of 2010; L.N. 423 of 2010; L.N. 149 of 2012; L.N. 412 of 2012; L.N. 362 of 2013; L.N. 364 of 2013; L.N. 404 of 2013; L.N. 48 of 2016; L.N. 357 of 2017; L.N.358 of 2017; L.N. 231 of 2018; L.N. 268 of 2018; L.N. 190 of 2019; L.N. 111 of 2021; L.N. 292 of 2021; L.N. 293 of 2021; L.N. 166 of 2022; L.N. 252 of 2022; L.N. 155 of 2023; L.N. 178 of 2024; L.N. 237 of 2024; L.N. 98 of 2025; L.N. 46 of 2026.

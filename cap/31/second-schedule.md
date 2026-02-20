@@ -1,11 +1,4 @@
 ## SECOND SCHEDULE
-## *NOTES: The certifier should enter under -
-## death, i.e. the disease, injury or complication which was the direct cause of death. This does not mean the mode of dying e.g. heart failure, asthenia, etc.
-## both in respect of time and of etiological or pathological relationship. A condition can be entered as antecedent even though a long interval of time has elapsed since its onset or since the occurrence of symptoms of it.
-## sense as described above.
-## lines I (b) and I (c) should be left blank.
-## because of lack of space for it in Part I.
-## have contributed something to the fatal outcome.
 # second-schedule
 (Article 7)
 CERTIFICATE OF DEATH AND CAUSE THEREOF
@@ -30,8 +23,7 @@ death
 Antecedent causes; morbid
 conditions, if any, giving rise to the above cause,
 (b) ........................................... stating the underlying
-(due to or as a condition last
-consequence of) ...............
+(due to or as a condition last consequence of) ...............
 (c) ............................................
 II
 Other significant conditions .................................................
