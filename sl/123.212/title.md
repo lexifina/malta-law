@@ -6,6 +6,6 @@ TAXATION FOR MULTINATIONAL ENTERPRISE
 GROUPS AND LARGE-SCALE DOMESTIC GROUPS
 REGULATIONS
 31st December, 2023
-LEGAL NOTICE 32 of 2024, as amended by Legal Notice 130 of 2024.
+LEGAL NOTICE 32 of 2024, as amended by Legal Notices 130 of 2024 and 48 of 2026.
 First Part
 General Provisions
