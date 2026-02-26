@@ -14,3 +14,4 @@ Marine fuel Sulphur Content Ratio Emission SO2 (ppm)/CO2 (% v/v)
 Note:
 - The use of the Ratio Emissions limits is only applicable when using petroleum based Distillate or Residual Fuel Oils.
 - In justified cases where the CO2 concentration is reduced by the exhaust gas cleaning (EGC) unit, the CO2 concentration may be measured at the EGC unit inlet, provided that the correctness of such a methodology can be clearly demonstrated.
+- Added by: L.N. 300 of 2014.
