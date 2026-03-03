@@ -1,4 +1,4 @@
 SUBSIDIARY LEGISLATION 123.174
 TAX REBATE (PENSIONERS) RULES
 1st January, 2017
-LEGAL NOTICE 42 of 2017, as amended by Legal Notices 22 of 2018 and 11 and 326 of 2019, 460 of 2020, 27 and 220 of 2022, 49 of 2023 and 6 and 357 of 2024.
+LEGAL NOTICE 42 of 2017, as amended by Legal Notices 22 of 2018 and 11 and 326 of 2019, 460 of 2020, 27 and 220 of 2022, 49 of 2023 and 6 and 357 of 2024 and 52 of 2026.
