@@ -20,8 +20,7 @@ supplier within the chain other than the first supplier in the chain who dispatc
 Provided further that where a taxable person is deemed to
 have received and supplied goods in accordance with item 12A of the Second Schedule, the dispatch or transport of the goods shall
 be ascribed to the supply made by that taxable person;
-(c) when the transport of goods begins outside the Community and ends in
-a Member State the supply of those goods by the importer and any subsequent supply up to the acquisition of those goods takes place in the Member State where they are imported.
+(c) when the transport of goods begins outside the Community and ends in a Member State the supply of those goods by the importer and any subsequent supply up to the acquisition of those goods takes place in the Member State where they are imported.
 Goods installed or assembled
 2. A supply of goods that are installed or assembled, with or without a trial run, by or on behalf of the supplier takes place where the goods are installed or assembled.
 Goods supplied on board ships, aircraft or trains
@@ -69,8 +68,7 @@ Definitions
 1. For the purpose of applying the rules concerning this Part:
 (a) a taxable person who also carries out activities or transactions that are not considered to be taxable supplies of goods or services in accordance with article 4 shall be regarded as a taxable person in respect of all services rendered to him;
 (b) a non-taxable legal person who is identified for VAT purposes shall be regarded as a taxable person.
-General rules
-2. Except as otherwise provided in this Schedule:
+General rules 2. Except as otherwise provided in this Schedule:
 (a) The place of supply of services to a taxable person acting as such shall be the place where that person has established his business. However, if those services are provided to a fixed establishment of the taxable person located in a place other than the place where he has established his business, the place of supply of those services shall be the place where that fixed establishment is located. In the absence of such place of establishment or fixed establishment, the place of supply of services shall be the place where the taxable person who receives such services has his permanent address or usually resides.
 (b) The place of supply of services to a non-taxable person shall be the place where the supplier has established his business. However, if those services are provided from a fixed establishment of the supplier located in a place other than the place where he has established his business, the place of supply of those services shall be the place where that fixed establishment is located. In the absence of such place of establishment or fixed establishment, the place of supply of services shall be the place where the
 supplier has his permanent address or usually resides.
@@ -158,3 +156,7 @@ Part Four
 Place of Importations
 Importations
 1. An importation of goods takes place where the goods are at the time when the chargeable event takes place.
+- Substituted by: X. 2003.47.
+- Amended by: L.N. 124 of 2007; L.N. 444 of 2007.
+- Substituted by: L.N. 133 of 2009.
+- Amended by: L.N. 533 of 2010; L.N. 297 of 2018; L.N. 250 of 2019; L.N. 220 of 2020; L.N. 344 of 2024; IX.2025.73.
