@@ -1,4 +1,5 @@
 ## FOURTEENTH SCHEDULE
+## *
 # fourteenth-schedule
 [Article 57]
 Special cases
@@ -7,12 +8,18 @@ Cash Accounting
 Interpretation
 1. In this Part:
 "qualifying supplies" means:
-(a) services performed by a person holding a warrant issued under any law in force in Malta to practise a profession acting in an independent capacity in the exercise of such profession;
-(b) services performed by a group of persons holding a warrant issued under any law in force in Malta to practise a profession whether associated in a partnership or otherwise, but excluding a company;
-(c) services performed by a company, which if performed by a physical person would require a warrant issued under any law in force in Malta to perform such services in the exercise of a profession, and which is registered in accordance with any law in force in Malta to practice such profession;
-(d) services performed by an arbitrator pursuant to a submission for arbitration made in conformity with the Arbitration Act;
-(e) services performed by a judicial referee, or an expert appointed by a court or a tribunal set up by law;
-(f) services performed by civil, mechanical and electrical engineering contractors in their professional capacity; and
+(a) services performed by a person holding a warrant issued under any
+law in force in Malta to practise a profession acting in an independent capacity in the exercise of such profession;
+(b) services performed by a group of persons holding a warrant issued
+under any law in force in Malta to practise a profession whether associated in a partnership or otherwise, but excluding a company;
+(c) services performed by a company, which if performed by a physical
+person would require a warrant issued under any law in force in Malta to perform such services in the exercise of a profession, and which is registered in accordance with any law in force in Malta to practice such profession;
+(d) services performed by an arbitrator pursuant to a submission for
+arbitration made in conformity with the Arbitration Act;
+(e) services performed by a judicial referee, or an expert appointed by a
+court or a tribunal set up by law;
+(f) services performed by civil, mechanical and electrical engineering
+contractors in their professional capacity; and
 (g) supplies made by retailers.
 Cash accounting option
 2. (1) Subject to the other provisions of this Part, a taxable person registered under article 10 who carries out qualifying supplies and whose annual turnover, calculated in accordance with item 3 of the Definitions in the Sixth Schedule, does not exceed €2,000,000, excluding tax, may opt for such tax to become chargeable on the earlier of:
@@ -91,8 +98,7 @@ Purchase invoice
 (f) the total price paid;
 (g) a cross reference to the entry of the transaction in the purchaser's account books;
 (h) the signature of the seller.
-Sales invoice
-9. A second-hand goods dealer who makes any supply to which this Part refers shall not issue a tax invoice or any other document showing an amount as being tax or as being attributed to tax, but shall issue a sales invoice containing the following information and shall keep a copy thereof -
+Sales invoice 9. A second-hand goods dealer who makes any supply to which this Part refers shall not issue a tax invoice or any other document showing an amount as being tax or as being attributed to tax, but shall issue a sales invoice containing the following information and shall keep a copy thereof -
 (a) the sales invoice number;
 (b) the date of the sale;
 (c) the name, address and value added tax registration number of the seller;
@@ -209,8 +215,7 @@ Taxable value
 Provided that where a supply to a travel agent is required in terms of this Act to be supported by a tax invoice, the cost of that supply shall only be taken into account for the purposes of this item if the travel agent holds such a tax invoice.
 Input tax
 6. Value added tax charged to the travel agent by other registered persons on supplies made by those registered persons to the travel agent for the purpose of supplies to which item 3 applies and for the direct benefit of the traveller shall not be eligible for deduction or refund.
-Supplies outside the Community
-7. If transactions entrusted by the travel agent to other taxable persons are performed by such persons outside the Community, the travel agent's service shall be treated as the service of an intermediary which is exempt with credit in terms of item 5 of Part One of the Fifth Schedule. When these transactions are performed both inside and outside the Community, only that part of the travel agent's services relating to transactions outside the Community shall be so treated as exempt with credit.
+Supplies outside the Community 7. If transactions entrusted by the travel agent to other taxable persons are performed by such persons outside the Community, the travel agent's service shall be treated as the service of an intermediary which is exempt with credit in terms of item 5 of Part One of the Fifth Schedule. When these transactions are performed both inside and outside the Community, only that part of the travel agent's services relating to transactions outside the Community shall be so treated as exempt with credit.
 Powers of the Commissioner
 8. The Commissioner may give such directives to, and require such information from, a travel agent as he may deem necessary for the application of this Part.
 Records
@@ -336,9 +341,9 @@ special scheme have ceased;
 scheme;
 (d) if he persistently fails to comply with the rules relating to this special
 scheme.
-Submission of VAT return 6. The taxable person making use of this special scheme shall submit by electronic means to the Commissioner a VAT return for each calendar quarter, whether or not supplies of goods and services covered by this special scheme have been carried out. The VAT return shall be submitted by the end of the month following the end of the tax period covered by the return.
-Details and adjustments that shall be included in VAT return
-7. (1) The VAT return shall show the VAT identification number referred to in item 4 and, for each Member State of consumption in which VAT is due, the total value exclusive of VAT, the applicable rates of VAT, the total amount per rate of the corresponding VAT and the total VAT due in respect of the following supplies covered by this special scheme carried out during the tax period:
+Submission of VAT return
+6. The taxable person making use of this special scheme shall submit by electronic means to the Commissioner a VAT return for each calendar quarter, whether or not supplies of goods and services covered by this special scheme have been carried out. The VAT return shall be submitted by the end of the month following the end of the tax period covered by the return.
+Details and adjustments that shall be included in VAT return 7. (1) The VAT return shall show the VAT identification number referred to in item 4 and, for each Member State of consumption in which VAT is due, the total value exclusive of VAT, the applicable rates of VAT, the total amount per rate of the corresponding VAT and the total VAT due in respect of the following supplies covered by this special scheme carried out during the tax period:
 (a) intra-Community distance sales of goods;
 (b) supplies of goods in accordance with sub-item (2) of item 12A of the
 Second Schedule where the dispatch or transport of those goods
@@ -500,5 +505,7 @@ Multi-purpose voucher
 (2) Where a transfer of a multi-purpose voucher is made by a taxable person other than the taxable person carrying out the transaction subject to VAT pursuant to paragraph (1) of this item, any supply of services that can be identified, such as distribution or promotion services, shall be subject to VAT.
 Taxable value
 4. Without prejudice to item 1 of the Seventh Schedule to the Value Added Tax Act, the taxable amount of the supply of goods or services provided in respect of a multi-purpose voucher shall be equal to the consideration paid for the voucher or, in the absence of information on that consideration, the monetary value indicated on the multi-purpose voucher itself or in the related documentation, less the amount of VAT relating to the goods or services supplied.
+- Amended by: L.N. 21 of 1999; L.N. 201 of 1999; L.N. 94 of 2001.
+- Substituted by: X. 2003.47.
+- Amended by: L.N. 426 of 2007; L.N. 132 of 2009; L.N. 73 of 2010; L.N. 424 of 2012; L.N. 425 of 2012; L.N. 142 of 2013; L.N. 348 of 2017; L.N. 299 of 2018; L.N. 350 of 2024.
 - Substituted by: L.N. 226 of 2020.
-- Added by: L.N. 348 of 2017.
