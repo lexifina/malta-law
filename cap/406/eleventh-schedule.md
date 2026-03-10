@@ -25,8 +25,7 @@ transported back to the client;
 - the date and a reference to the documents issued relating to the
 services supplied;
 (k) (i) a register of goods transferred under the call-off stock arrangements referred to in item 17A of the Second Schedule that permits the Commissioner to verify the correct application of the rules in terms of the provisions of the said item 17A of the Second Schedule; and
-(ii) a register of those goods supplied to him under the call-off stock
-arrangements referred to in item 17A of the Second Schedule.
+(ii) a register of those goods supplied to him under the call-off stock arrangements referred to in item 17A of the Second Schedule.
 (2) Invoices shall be stored in the original form in which they were sent or made available, whether paper or electronic. Additionally, in the case of invoices stored by electronic means, the Commissioner may require that the data guaranteeing the authenticity of the origin of the invoices and the integrity of their content as provided for in the Twelfth Schedule shall also be stored by electronic means.
 (3) Where a taxable person stores by electronic means invoices or fiscal receipts which he issues or receives, such person shall ensure the possibility for online access, download and use of the data concerned to the Commissioner:
 Provided that where any invoices relate to VAT due in another Member State, the competent authorities of such Member State shall, for control purposes, have the right to access, download and use those invoices.
@@ -67,8 +66,7 @@ Records of distance sales and supplies facilitated through the use of an electro
 (c) all other supporting documents.
 (2) (a) Where a taxable person facilitates, through the use of an electronic interface such as a market place, platform, portal or similar means, the supply of goods or services to a non-taxable person within the Community in accordance with the provisions of the Third Schedule, the taxable person who facilitates the supply shall be obliged to keep records of those supplies. Those records shall be sufficiently detailed to enable the tax authorities of the Member States where those supplies are taxable to verify that VAT has been accounted for correctly.
 (b) The records referred to in paragraph (a) must be made available electronically on request to the Member States concerned. Those records shall be kept for a period of ten (10) years from the end of the year during which the transaction was carried out.
-Records pursuant to tax payable as per article 20(2).
-9. Every taxable person who is not registered under article 10 and every non-taxable legal person identified for VAT purposes shall keep records in sufficient detail as to enable the determination of the value of the purchases made by him in Malta pursuant to article 20(2) including:
+Records pursuant to tax payable as per article 20(2). 9. Every taxable person who is not registered under article 10 and every non-taxable legal person identified for VAT purposes shall keep records in sufficient detail as to enable the determination of the value of the purchases made by him in Malta pursuant to article 20(2) including:
 (a) a description of the services and/or goods and the consideration paid;
 (b) the relative invoices;
 (c) all other supporting documents.
@@ -90,3 +88,6 @@ Provided that where any invoices relate to VAT due in another Member State, the 
 during each tax period; and
 (b) the output tax and any other tax payable by such person for each tax
 period, as may be applicable.
+- Amended by: L.N. 60 of 1999; L.N. 200 of 1999; L.N. 217 of 1999; L.N. 272 of 2000; L.N. 93 of 2001; L.N. 235 of 2001; L.N. 389 of 2002.
+- Substituted by: X. 2003.47.
+- Amended by: L.N. 72 of 2010; L.N. 422 of 2012; L.N. 252 of 2019; L.N. 224 of 2020; L.N. 347 of 2024.
