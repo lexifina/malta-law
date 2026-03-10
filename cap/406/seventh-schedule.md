@@ -27,6 +27,29 @@ the taxable value of that supply shall be reduced accordingly: provided that no 
 8. (1) Where the factors used to determine the taxable amount on importation are expressed in a currency other than in Euro, the exchange rate shall be determined in accordance with the Community provisions governing the calculation of the value for customs purposes.
 (2) Where the factors used to determine the taxable amount of a transaction other than the importation of goods are expressed in a currency other than in Euro, the exchange rate applicable shall be the latest selling rate recorded, at the time the tax becomes chargeable, applied by commercial banks in Malta.
 (3) The use of the latest exchange rate published by the European Central Bank at the time the tax becomes chargeable shall also be accepted. Conversion between currencies other than the Euro shall be made by using the Euro exchange rate of each currency.
+Taxable value of certain supplies between related persons.
+8A. (1) In respect of the supply of goods or services by a person to a related person, the taxable amount shall be the open market value of such goods or services where:
+(a) the consideration is lower than the open market value and the recipient of the supply does not have a full right of deduction in accordance with the provisions of the Tenth Schedule;
+(b) the consideration is lower than the open market value and the supplier does not have a full right of deduction in accordance with the provisions of the Tenth Schedule and the supply is subject to an exemption in
+accordance with Part Two of the Fifth Schedule; or
+(c) the consideration is higher than the open market value and the supplier does not have a full right of deduction in accordance with the provisions of the Tenth Schedule.
+(2) For the purpose of this item a person shall be deemed to be a "related person" to another person where:
+(a) that person is part of the same family as the other person;
+(b) that person is an employee, including a holder of office, of the other
+person, and including any family member of that employee;
+(c) those persons are cohabitants;
+(d) those persons, directly or indirectly, jointly own and, or hold the same asset;
+(e) any persons who owns and, or holds, directly or indirectly, as to more than fifty per cent (50%) of their ordinary share capital or equivalent interests, voting rights or equivalent rights, or rights to profits available for distribution, by the related persons referred to in paragraphs (a) to
+(c);
+(f) one (1) person owns and, or holds, directly or indirectly, more than fifty per cent (50%) of the ordinary share capital or equivalent interests, voting rights or equivalent rights, or rights to profits available for distribution, of the other person;
+(g) those persons who own and, or hold, directly or indirectly, as to more than fifty per cent (50%) of their ordinary share capital or equivalent interests, voting rights or equivalent rights, or rights to profits available for distribution, by the same person or persons; or
+(h) those persons collectively own and, or hold, directly or indirectly, as to more than fifty per cent (50%) of the ordinary share capital or equivalent interests, voting rights or equivalent rights, or rights to
+profits available for distribution, of another person:
+Provided that where a person is deemed to be a "related person" to another person in accordance with this sub-item, any immediate family members of such person shall also be deemed to be a related person to the other person.
+(3) For the purposes of this item, "open market value" shall mean the full amount that, in order to obtain the goods or services in question at that time, a customer at the same marketing stage at which the supply of goods or services takes place, would have to pay, under conditions of fair competition, to a supplier at arm's length within the territory of the Member State in which the supply is subject to tax:
+Provided that where no comparable supply of goods or services can be ascertained, "open market value" shall mean the following:
+(a) in respect of goods, an amount that is not less than the purchase price of the goods or of similar goods or, in the absence of a purchase price, the cost price, determined at the time of supply; and
+(b) in respect of services, an amount that is not less than the full cost to the taxable person of providing the service.
 Taxable value of intra-community acquisitions
 9. The taxable value of a taxable intra-community acquisition is the amount which would represent the taxable value in terms of this Schedule of the supply pursuant to which that acquisition is made if that supply were a taxable supply, and shall include any excise duty paid or payable in a Member State by the person making that acquisition on the goods acquired.
 10. (1) When the taxable value of an intra-community acquisition includes excise tax paid or payable in a Member State other than Malta and the person who makes the acquisition qualifies for a refund of that excise tax, the value of that acquisition shall be reduced proportionately.
@@ -45,4 +68,4 @@ the place of the first transfer of the goods in Malta;
 customer and accounted for at the time of the importation;
 (b) price reductions by way of discount for early payment.
 - Substituted by: X. 2003.47.
-- Amended by: L.N. 335 of 2008; L.N. 420 of 2012; L.N. 52 of 2021.
+- Amended by: L.N. 335 of 2008; L.N. 420 of 2012; L.N. 52 of 2021; III.2026.70.

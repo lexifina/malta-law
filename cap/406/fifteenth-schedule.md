@@ -17,6 +17,3 @@ The Italian waters of Lake Lugano
 (a) Northern Ireland shall be treated as originating in or intended for a Member State where the transactions consist of supplies of goods. For the purpose of the "value added tax identification number" as defined in article 2(1) of the Act, the prefix "XI" shall be used for Northern Ireland;
 (b) the United Kingdom Sovereign Base Areas of Akrotiri and Dhekelia shall be treated as transactions originating in or intended for Cyprus; and
 (c) the Principality of Monaco shall be treated as originating in or intended for the French Republic.
-- Amended by: L.N. 22 of 1999; L.N. 30 of 1999; L.N. 223 of 1999; L.N. 271 of 2000; L.N. 149 of 2001; L.N. 234 of 2001.
-- Substituted by: X. 2003.47.
-- Amended by: L.N. 477 of 2020.

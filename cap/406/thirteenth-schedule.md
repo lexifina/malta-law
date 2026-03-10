@@ -53,21 +53,21 @@ Services supplied by means of machines
 9. (1) A fiscal receipt in respect of supplies of services made by means of a machine operated by coins shall be issued every time coins are withdrawn from the machine, and shall account for the value of the coins so withdrawn as if that value represented the value of services supplied in one supply.
 (2) A person who makes supplies referred to in paragraph (1) of this item shall keep a record of coins withdrawn from and of coins and goods stocked by him (if any) in the machine, and shall keep the original of all receipts issued in accordance with the said paragraph together with the other records he is required to keep for the purposes of this Act.
 (3) A fiscal receipt in respect of supplies of services made by means of a machine operated by an electronic card or by any other token shall be issued every time a card or other token is supplied and shall account for the price charged or chargeable for the supply of that card or token as if the supply of the card or other token represented the supply of services that can be supplied by the use of that card or other token.
-Accounting for fiscal receipts supplied or approved by the Commissioner
-10. (1) Every person who is supplied with forms of fiscal receipts by the Commissioner shall account for all such forms by keeping in his possession, and producing at the request of the Commissioner, all unused forms, and by keeping one copy and producing to the Commissioner another copy of all receipts drawn out on such forms and of all cancelled forms.
+Accounting for fiscal receipts supplied or approved by the Commissioner 10. (1) Every person who is supplied with forms of fiscal receipts by the Commissioner shall account for all such forms by keeping in his possession, and producing at the request of the Commissioner, all unused forms, and by keeping one copy and producing to the Commissioner another copy of all receipts drawn out on such forms and of all cancelled forms.
 (2) Copies of used and cancelled forms of fiscal receipts supplied by the Commissioner shall be delivered to the Commissioner as soon as possible after the booklet or other form of binding in which the fiscal receipts have been supplied has been fully used or at such other date as the Commissioner may require.
 (3) Every person who issues fiscal receipts on forms approved by the Commissioner or in a manner approved by the Commissioner, shall account for all such receipts in such manner as may be directed by the Commissioner, and for this purpose the Commissioner may give such directions regarding the processing, recording and storing of the receipts and of the information to be given therein as he may deem appropriate.
 (4) Any person who fails to account for a fiscal receipt in the manner prescribed in this item shall be presumed, unless the contrary is proved, to have failed to account for a taxable supply.
-Exemption from obligation to issue fiscal receipt
-11. (1) The Commissioner may, by means of a notice in writing, exempt any person, and may by means of a notice published in the Gazette exempt any class of persons from any obligation imposed by this Schedule, and such exemption may be given for such time and with such limitations and subject to such conditions as may be specified in the said notice.
-(2) The Commissioner may at any time by means of a notice in writing or by means of a notice published in the Gazette, as the case may be, revoke any exemption given in terms of this item.
+Exemption from obligation to issue a fiscal receipt.
+11. (1) The Commissioner may, by means of a notice in writing, exempt any person and may by means of a notice published on the Government Gazette and the web portal designated by the Commissioner for that purpose exempt any class of persons from any obligation imposed by this Schedule, and such exemption may be given for such time and with such limitations and subject to such conditions as may be specified in the said notice.
+(2) The Commissioner may at any time by means of a notice published on the Government Gazette and the web portal designated by the Commissioner for that purpose revoke any exemption given by virtue of this item.
 Obligation to retain and produce receipt
 12. Every person to whom a fiscal receipt is issued shall retain the receipt in his possession for a period of twenty-four hours and shall, upon a request made during the said time by the Commissioner or any officer authorised by the Commissioner, produce the said receipt to the Commissioner or such authorised officer.
-Fiscal cash register 13. (1) A fiscal cash register shall -
+Fiscal cash register
+13. (1) A fiscal cash register shall -
 (a) cater for the functions listed in paragraph (2) of this item; and
-(b) be of a type specifically approved by the Commissioner by means of a notice published in the Gazette or approved for the purposes of and in accordance with the Customs and Excise Tax Act or the Value Added Tax Act.
+(b) be of a type specifically approved by the Commissioner by means of a notice published on the Government Gazette and the web portal designated by the Commissioner for this purpose or approved for the purposes of and in accordance with this Act.
 (2) The functions for which a fiscal cash register must cater for the purpose of subparagraph (a) of paragraph (1) of this item are:
-(a) printing of an itemised receipt for the supplies made in each transaction indicating -
+(a) issuance of an itemised receipt for the supplies made in each transaction indicating -
 (i) the name and address of the supplier and the Value Added Tax registration number,
 (ii) the goods or services supplied,
 (iii) the quantity of each item supplied,
@@ -78,7 +78,7 @@ Fiscal cash register 13. (1) A fiscal cash register shall -
 (viii) cash register serial number,
 (ix) date and time of supply,
 (x) and/or such other details as the Commissioner may require;
-(b) registering of all day-to-day transactions on a printed journal;
+(b) registering of all day-to-day transactions on a printed or electronic journal;
 (c) storing of predefined data in an inaccessible and unalterable memory.
 Fiscal taxi meter
 14. (1) A fiscal taxi meter shall -
@@ -97,4 +97,4 @@ Fiscal taxi meter
 (ix) and/or such other details as the Commissioner may require;
 (b) storing of predefined data in an inaccessible and unalterable memory.
 - Substituted by: X. 2003.47.
-- Amended by: L.N. 234 of 2011; L.N. 65 of 2015; L.N. 241 of 2021; L.N. 349 of 2024.
+- Amended by: L.N. 234 of 2011; L.N. 65 of 2015; L.N. 241 of 2021; L.N. 349 of 2024; III.2026.73.

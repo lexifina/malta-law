@@ -16,7 +16,7 @@ Intra-community supplies
 3. (1) The intra-community supply of goods to a person who is identified on the relative invoice as a person identified for value added tax purposes by a valid and active value added tax identification number in a Member State other than Malta, excluding:
 (a) a supply made by a person registered under articles 11 and 11B.
 (b) a supply that is subject to the special scheme of the profit margin in terms of Part Two of the Fourteenth Schedule:
-Provided that, the exemption provided for under this sub-item shall not apply where the supplier has not complied with the obligation to submit a recapitulative statement in terms of article 30(3) or the recapitulative statement submitted by him does not set out the correct information concerning the supply as required in terms of the said article 30(3), unless the supplier can duly justify his shortcoming to the satisfaction of the Commissioner.
+Provided that, the exemption provided for under this sub-item shall not apply where the supplier has not complied with the obligation to submit a recapitulative statement in terms of article 30(2) or the recapitulative statement submitted by him does not indicate the correct information concerning the supply as required in terms of the said article 30(2), unless the supplier can duly justify his shortcoming to the satisfaction of the Commissioner.
 (2) The intra-community supply of new means of transport to a person who is not identified for the purpose of that supply by a value added tax identification number.
 (3) The intra-community supply of excise goods to a person who is not identified for the purpose of that supply by a value added tax identification number where the transport of the goods is carried out in accordance with Article 7 (4) and
 (5), or Article 16 of Directive 92/12/EEC, excluding:
@@ -80,6 +80,8 @@ Supplies of certain devices and aids to non-profit making organisations
 15. The supply to non-profit making organisations specifically recognised as such by the Commissioner for this purpose, of devices and aids, including related goods, which are essential to compensate or overcome disability in humans.
 Products used for female sanitary protection
 16. The supply of products used for female sanitary protection.
+Supplies for the benefit of disaster victims.
+17. The supply of goods for the benefit of disaster victims, and services related to such goods supplied or acquired including rental services, subject to the conditions and limitations established under Article 101a of Council Directive 2006/112/EC.
 Medical items essential to compensate and overcome cancer in humans
 17. The supply of:
 (a) mastectomy undergarments;
@@ -131,7 +133,8 @@ Sports
 5. The supply by non-profit making organisations of such services related to sport or physical recreation and provided to persons taking part in sport or educational education as may be approved by the Minister.
 Services related to certain exempt services
 6. (1) The supply of staff by religious and philosophical institutions recognised as such by the Commissioner for the purpose of providing services referred to in paragraph (2) or (4) of item 11 or in paragraph (1) or (2) of item 12 of this Part with a view to spiritual welfare.
-(2) The supply of goods and services by a non-profit making organisation in the course of an activity designed to raise funds to be used for the provision of goods and services which are exempt in terms of paragraph (2) or (4) of item 11 or of paragraph (1) or (2) of item 12 of this Part: provided the activity is recognised by the Commissioner as being exclusively designed for the said purpose and provided that this exemption is not likely to cause distortion of competition.
+(2) The supply of goods and services by a non-profit making organisation in connection with events, organised exclusively for their own benefit, designed to raise funds which shall be used for the provision of goods and services which are exempt in terms of sub-items (2) or (4) of item 11 or of sub-items (1) or (2) of item 12 of this Part:
+Provided that the event is recognised by the Commissioner as being exclusively designed for the said purpose and provided that this exemption is not likely to cause distortion of competition.
 Services supplied by independent groups
 7. Services supplied by independent groups of persons whose activities are exempt from or not subject to value added tax, for the purpose of rendering to their members the services directly necessary for the exercise of their activity, where these groups merely claim from their members exact reimbursements of their share of the joint expenses, provided that such exemption is not likely to produce distortion of competition.
 Services by non-profit making organisations to their members
@@ -158,8 +161,7 @@ Supplies of goods in respect of which the supplier had not qualified for input t
 13. The supply of goods which were acquired by that person or which were manufactured or produced from components acquired by that person under a supply in respect of which that person did not qualify for any input tax credit.
 Broadcasting
 14. The activities of public radio and television bodies other than those of a commercial nature.
-Water
-15. The supply of water services by a public authority.
+Water 15. The supply of water services by a public authority.
 Exemption for small enterprises
 16. (1) The supply by a person registered under article 11 and entitled to be so registered, of goods and services in accordance with the provisions of Part One of the Sixth Schedule.
 (2) The supply by a person registered under article 11A and entitled to be so registered, of goods and services in accordance with the provisions of Part Two of the Sixth Schedule.
@@ -182,12 +184,13 @@ Duty suspension regime
 4. The intra-community acquisition of goods intended to be placed under a customs duty suspension regime.
 Food
 5. The intra-Community acquisition of food.
-Investment gold
-6. The intra-community acquisition of investment gold, saving the option for taxation in terms of Part Six of the Fourteenth Schedule.
+Investment gold 6. The intra-community acquisition of investment gold, saving the option for taxation in terms of Part Six of the Fourteenth Schedule.
 Goods subject to the margin scheme
 7. The intra-community acquisition of goods that are supplied under a transaction subject to a margin scheme on second hand goods, works of art, collectors' items and antiques in the Member State where the transport begins.
 Acquisitions of certain devices and aids by non-profit making organisations
 8. The intra-community acquisition by non-profit making organisations specifically recognised as such by the Commissioner for this purpose, of devices and aids, including related goods, which are essential to compensate or overcome disability in humans.
+Acquisitions for the benefit of disaster victims.
+9. The intra-Community acquisitions of goods for the benefit of disaster victims subject to the conditions and limitations established under Article 101a of Council Directive 2006/112/EC.
 Part Four
 Exempt importations
 This Part applies to the importations listed herein subject to the definitions contained in Part Five.
@@ -254,9 +257,9 @@ Chapter 17 and 2006.00.10 and heading 2009 in Chapter 20.
 Food supplied in the course of catering
 2. (1) "Food supplied in the course of catering" means food which is suitable for immediate consumption, whether such food is consumed in the place where it is supplied or not, and consisting of -
 (a) meals or snacks;
-(b) milkshake, tea, coffee and chocolate supplied in liquid form;
+(b) tea and coffee supplied in liquid form;
 (c) ice cream or products containing ice cream except in family packs;
-(d) yogurt or similar products.
+(d) milkshake, yogurt, chocolate and similar products, including those supplied in liquid form, but excluding those sealed in a package by the manufacturer and supplied in that original sealed package.
 (2) For the purposes of paragraph (1) hereof -
 (a) "meals or snacks" means and includes:
 (i) hot and cold dishes including antipasto and dessert;
@@ -279,13 +282,17 @@ Immovable property
 (a) the provision of any accommodation under any title in immovable property and any other form of supply of the use of immovable property;
 (b) an emphyteutical grant for a period not exceeding 50 years;
 (c) the letting of space for artistic and cultural activities.
-Non-profit making organisations
-5. A "non-profit making institution or organisation" means an institution or organisation:
-(a) whose objects are clearly defined in its statute;
-(b) whose objects expressly exclude profit making;
-(c) whose statute provides that no part of its income or property is available directly or indirectly to any member, proprietor or shareholder;
-(d) which, in the opinion of the Commissioner, is managed and administered in accordance with the provisions of its statute and for the purpose of its stated objects;
-(e) which does not systematically aim to make a profit.
+Non-profit making organisations.
+5. A "non-profit making organisation" means:
+(a) a public authority, or
+(b) a body of persons:
+(i) whose objects are clearly defined in its statute;
+(ii) whose objects expressly exclude profit making;
+(iii) whose statute provides that no part of its income or property is
+available directly or indirectly to any member, proprietor or shareholder;
+(iv) which is managed and administered in accordance with the
+provisions of its statute and for the purpose of its stated objects; and
+(v) which is registered as a voluntary organisation with the office of the Commissioner for Voluntary Organisations, or as may be approved by the Commissioner.
 Investment gold
 6. "Investment gold" has the meaning assigned to it in Part Six of the Fourteenth Schedule.
 Transport
@@ -298,4 +305,4 @@ terms of the provisions of regulation 69 of the Passenger Transport Services Reg
 (3) "special regular services" shall have the meaning as assigned to it in the Passenger Transport Services Regulations.
 - Amended by: L.N. 24 of 2001.
 - Substituted by: X. 2003.47.
-- Amended by: L.N. 250 of 2004; L.N. 520 of 2004; L.N. 334 of 2006; L.N. 121 of 2007; L.N. 445 of 2007; L.N. 234 of 2009; L.N. 286 of 2010; L.N. 425 of 2010; L.N. 534 of 2010; L.N. 379 of 2011; L.N. 499 of 2011; L.N. 38 of 2012; L.N. 345 of 2013; L.N. 422 of 2013; L.N. 480 of 2014; L.N. 227 of 2015; L.N. 247 of 2016; L.N. 383 of 2016; L.N.347 of 2017; L.N. 9 of 2018; L.N.155 of 2019; L.N.302 of 2019; L.N.253 of 2019; L.N.222 of 2020; L.N. 4 of 2021; L.N. 358 of 2021; VII.2022.70; L.N. 138 of 2022; L.N. 12 of 2024; L.N. 228 of 2024; L.N. 345 of 2024; L.N. 355 of 2024; L.N. 88 of 2025.
+- Amended by: L.N. 250 of 2004; L.N. 520 of 2004; L.N. 334 of 2006; L.N. 121 of 2007; L.N. 445 of 2007; L.N. 234 of 2009; L.N. 286 of 2010; L.N. 425 of 2010; L.N. 534 of 2010; L.N. 379 of 2011; L.N. 499 of 2011; L.N. 38 of 2012; L.N. 345 of 2013; L.N. 422 of 2013; L.N. 480 of 2014; L.N. 227 of 2015; L.N. 247 of 2016; L.N. 383 of 2016; L.N.347 of 2017; L.N. 9 of 2018; L.N.155 of 2019; L.N.302 of 2019; L.N.253 of 2019; L.N.222 of 2020; L.N. 4 of 2021; L.N. 358 of 2021; VII.2022.70; L.N. 138 of 2022; L.N. 12 of 2024; L.N. 228 of 2024; L.N. 345 of 2024; L.N. 355 of 2024; L.N. 88 of 2025; III.2026.69.

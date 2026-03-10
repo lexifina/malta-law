@@ -24,6 +24,8 @@ by her husband before the 1st day of February, 1965;
 December 1961, and is not eligible to the National Minimum Pension due to the average of contributions paid after attaining the age of nineteen (19), there shall be added the contributions paid prior to the attainment of age nineteen (19), and if and when the minimum contribution requirements are precisely reached, a reduced payment of the National Minimum Pension, resulting from such minimum, is granted in accordance with the provisions of this Act;
 (e) with effect from 1st January 2022, in the case of a person not satisfying the
 conditions of paragraphs (b) and (c) of article 52, and provided that, that person in his life-time paid five hundred and twenty (520) social security contributions or more, a payment equivalent to the resulting rate of the National Minimum Pension as per provisions of paragraph (d) is to be awarded;
+(ea) with effect from the 1st January 2026, the provisions of paragraphs (d) and
+(e) shall also apply to a person born on or after 1st January 1962;
 (f) in the case of a person who does not reach the required minimum of social security contributions required to satisfy the conditions as laid down in paragraphs (d) or (e), due to lack of complete records of such payment of social security contributions, notwithstanding that according to official Jobsplus records show that the person was in insurable employment during such periods but not after 31st December 1990, the person shall be granted the option to ask to pay for those periods up to five (5) years of arrears of social security contributions at the value of the SA rate payable by a self-occupied person as per Part III of the Tenth Schedule during the year when the claim is made.
 3. The contribution conditions for an Invalidity Pension or an Increased Invalidity Pension or a National Minimum Pension prior to reaching pension age are -
 (a) that the person has paid not less than two hundred and fifty contributions, notwithstanding the provisions of this schedule provided that with effect from 1st January 2018, the minimum number of contributions required for a person who is medically certified as terminally-ill shall be fifty contributions only; and
@@ -35,4 +37,4 @@ day of February, 1965, falls, or on the first day of his contribution year in wh
 (ii) ending on the last day of his last complete contribution year before the beginning of his benefit year which includes the day on
 which the conditions are required to be satisfied,
 is not less than 50.
-- Amended by: XVI. 1990.57; VIII. 1992.47; XXI. 1996.65; VII.2018.45; XVIII.2021.25; VII.2022.42.
+- Amended by: XVI. 1990.57; VIII. 1992.47; XXI. 1996.65; VII.2018.45; XVIII.2021.25; VII.2022.42; III.2026.30.

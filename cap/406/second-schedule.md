@@ -43,8 +43,11 @@ Provided that the Commissioner may exempt that person from accounting for the su
 (3) This item does not apply to -
 (a) a gift of goods made in the course or furtherance of that activity, otherwise than as one forming part of a series of gifts made to the same person, where the cost to the donor is not more than fifty euro (€50);
 (b) a gift of an industrial sample in a form not ordinarily available for sale to the public.
-Private use of goods forming part of an economic activity
-15. The use of goods forming part of an economic activity of a taxable person registered under article 10 by that person himself or by any other person for any purpose other than for the purpose of that economic activity, shall be treated as a supply of services for consideration made by that taxable person acting as such.
+Private use of goods forming part of an economic activity and services supplied free of charge.
+15. (1) The use of goods forming part of an economic activity for the private use of a taxable person or of his staff or, more generally, for purposes other than those of his economic activity, where the VAT on such goods or the component parts thereof was wholly or partly deductible, shall be treated as a supply of services for consideration made by that taxable person acting as such:
+Provided that this sub-item shall not apply where such supply of services would be subject to an exemption in accordance with Part One of the Fifth Schedule.
+(2) The supply of services carried out free of charge, other than a service which would be subject to an exemption in accordance with Part One of the Fifth Schedule, by a taxable person for his private use or for that of his staff, or more generally, for purposes other than those of his economic activity, where any goods or services on which VAT was wholly or partly deducted are used or applied to provide such free of charge services, shall be treated as a supply of services for consideration made by that taxable person acting as such:
+Provided that this shall not apply to services carried out free of charge made to non-profit making organisations as defined in item 5 of Part Five of the Fifth Schedule.
 Transfer of a going concern
 16. (1) Notwithstanding the other provisions of this Schedule, the transfer by a person of assets of his economic activity shall be treated as neither a supply of goods nor a supply of services if:
 (a) the assets are transferred to a person registered under article 10 to whom he transfers his economic activity, or part of that economic activity which is capable of separate operation, as a going concern; and
@@ -74,7 +77,7 @@ with an existing agreement between both taxable persons;
 (b) the taxable person dispatching or transporting the goods has not established his business nor has a fixed establishment in the Member
 State to which the goods are dispatched or transported;
 (c) the taxable person to whom the goods are intended to be supplied is identified for VAT purposes in the Member State to which the goods are dispatched or transported and both his identity and the VAT identification number assigned to him by that Member State are known to the taxable person referred to in paragraph (b) at the time when the dispatch or transport of goods begins;
-(d) the taxable person dispatching or transporting the goods records the transfer of the goods in the register provided for in paragraph (1)(k) of item 1 of the Eleventh Schedule and includes the identity of the taxable person acquiring the goods and the VAT identification number assigned to him by the Member State to which the goods are dispatched or transported in the recapitulative statement provided for in article 30(3).
+(d) the taxable person dispatching or transporting the goods records the transfer of the goods in the register provided for in paragraph (1)(k) of item 1 of the Eleventh Schedule and includes the identity of the taxable person acquiring the goods and the VAT identification number assigned to him by the Member State to which the goods are dispatched or transported in the recapitulative statement provided for in article 30(2).
 (3) Where the conditions laid down in sub-item (2) are met, the following rules shall apply at the time of the transfer of the right to dispose of the goods as owner to the taxable person referred to in paragraph (c) of sub-item (2), provided that the transfer occurs within the deadline referred to in sub-item (4):
 (a) a supply of goods in accordance with item 3(1) of Part One of the Fifth Schedule shall be deemed to be made by the taxable person that dispatched or transported the goods either by himself or by a third party on his behalf in the Member State from which the goods were dispatched or transported;
 (b) an intra-Community acquisition of goods shall be deemed to be made by
@@ -112,4 +115,4 @@ transported from a third territory excluding, however:
 (ii) goods covered by the Treaty establishing the European Coal and
 Steel Community that are in free circulation.
 - Substituted by: X. 2003.47.
-- Amended by: L.N. 426 of 2007; L.N. 443 of 2007; L.N. 105 of 2008; L.N. 34 of 2009; L.N. 532 of 2010; L.N. 61 of 2011; L.N. 418 of 2012; L.N. 251 of 2019; L.N. 219 of 2020; L.N. 140 of 2022.
+- Amended by: L.N. 426 of 2007; L.N. 443 of 2007; L.N. 105 of 2008; L.N. 34 of 2009; L.N. 532 of 2010; L.N. 61 of 2011; L.N. 418 of 2012; L.N. 251 of 2019; L.N. 219 of 2020; L.N. 140 of 2022; III.2026.66.

@@ -38,15 +38,15 @@ Contents of a tax invoice
 (b) a sequential number, based on one or more series, which uniquely identifies the invoice;
 (c) the name and address of the supplier and the Value Added Tax
 identification number under which he made the supply;
-(d) the name and address of the person to whom the supply is made and the Value Added Tax identification number under which the customer acquired the goods or services supplied to him;
+(d) the name and address of the person to whom the supply is made and the Value Added Tax identification number under which the customer
+acquired the goods or services supplied to him;
 (e) the quantity and nature of the goods supplied or the extent and nature of the services rendered;
 (f) the date on which the supply was made or completed or the date on which a payment on account of the supply was made insofar as that date can be determined and differs from the date of issue of the invoice;
 (g) the taxable value per rate or exemption, the unit price exclusive of tax and any discounts or rebates if they are not included in the unit price;
 (h) the VAT rate applied;
 (i) the VAT amount payable, except where a special arrangement is applied under which, in accordance with this Act, such a detail is excluded;
-(j) where the person liable for payment of VAT is a tax representative in another Member State, the VAT identification number of that tax
-representative, together with his full name and address;
-(k) where the VAT becomes chargeable at the time when the payment is received in accordance with Parts One and Three of the Fourteenth Schedule, the mention "Cash accounting";
+(j) where the person liable for payment of VAT is a tax representative in another Member State, the VAT identification number of that tax representative, together with his full name and address;
+(k) where the VAT becomes chargeable at the time when the payment is received in accordance with Part One of the Fourteenth Schedule, the mention "Cash accounting";
 (l) where the customer receiving a supply issues the invoice instead of the supplier, the mention "Selfbilling";
 (m) where a tax invoice refers to supplies on which no tax is chargeable, it
 shall indicate a brief reference to the relevant provisions of this Act, or the appropriate provisions of Council Directive 2006/112/EC, or any other indication on the grounds of which no tax is chargeable, and may distinguish between:
@@ -95,4 +95,4 @@ Currency
 Translation of invoices
 8. For control purposes, and as regards invoices in respect of supplies of goods or services supplied in Malta and invoices received by taxable persons established in Malta, the Commissioner may, for certain taxable persons or certain cases, require translation into Maltese or English.
 - Substituted by: X. 2003.47.
-- Amended by: L.N. 171 of 2006; L.N. 426 of 2007; L.N. 448 of 2007; L.N. 444 of 2010; L.N. 423 of 2012; L.N. 141 of 2013; L.N. 298 of 2018; L.N. 225 of 2020; L.N. 348 of 2024.
+- Amended by: L.N. 171 of 2006; L.N. 426 of 2007; L.N. 448 of 2007; L.N. 444 of 2010; L.N. 423 of 2012; L.N. 141 of 2013; L.N. 298 of 2018; L.N. 225 of 2020; L.N. 348 of 2024; III.2026.72.
