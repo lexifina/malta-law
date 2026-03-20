@@ -1,6 +1,6 @@
 ## TENTH SCHEDULE
 ## * This-sub-paragraph is not yet in force.
-## *
+## * This sub-paragraph is not yet in force.
 # tenth-schedule
 (Article 66A)
 Partnerships en commandite or Limited
@@ -100,8 +100,7 @@ Duty of Registrar and effects of registration.
 8. (1) On the registration of the Partnership Registration Document and the payment of the fees prescribed under article 66A(3)(d) of this Act, the Registrar shall certify under his hand that the Limited Partnership is registered and the Limited Partnership shall come into existence and shall be authorised to commence business under its name as from the date of the certificate.
 (2) A certificate of registration given in respect of a Limited Partnership is conclusive evidence that the requirements of this Schedule in respect of registration have been complied with and that the Limited Partnership has come into existence and is duly registered under this Act.
 (3) The registration of a Limited Partnership by the Registrar under this paragraph 8 shall be without prejudice to any other licence or other authorisation as may be required in respect of the activities to be carried on by the Limited Partnership under any other law.
-Where certificate of registration is not issued.
-9. (1) All persons carrying on business under a name falsely implying the existence of a Limited Partnership or carrying on business or entering into agreements in the name of or on behalf of a Limited Partnership in respect of which a certificate of registration has not been issued under this Schedule, shall, unless otherwise agreed, be personally and jointly and severally liable for their dealings with third parties so entered into by them.
+Where certificate of registration is not issued. 9. (1) All persons carrying on business under a name falsely implying the existence of a Limited Partnership or carrying on business or entering into agreements in the name of or on behalf of a Limited Partnership in respect of which a certificate of registration has not been issued under this Schedule, shall, unless otherwise agreed, be personally and jointly and severally liable for their dealings with third parties so entered into by them.
 (2) Failing agreement to the contrary, the persons referred to in sub-paragraph
 (1) shall have, as against one another and in respect of the assets and liabilities arising out of the business carried on as provided in the said sub-paragraph (1), the rights and obligations of joint owners.
 Changes in Partnership Deed and notification of changes.
@@ -259,8 +258,7 @@ such redemption, repurchase or reduction;
 (b) if the matters in question are recorded in non-legible form, the recording thereof shall be capable of being reproduced in legible form.
 (10) If in respect of a Limited Partnership there is a contravention of any of the provisions of sub-paragraphs (1), (2), (5) or (6), the Limited Partnership and each general partner shall be liable to a penalty and for any day during which the default continues, to a further penalty.
 (11) Any duty imposed by this Schedule to allow inspection, or to furnish a copy, of documents to be kept by the Limited Partnership shall, irrespective of the medium in which such documents are maintained, be construed as a duty to allow inspection, or to furnish a copy, of such documents in legible form.
-Accounts of a Limited Partnership.
-23. (1) Every Limited Partnership shall maintain proper accounting records which shall be:
+Accounts of a Limited Partnership. 23. (1) Every Limited Partnership shall maintain proper accounting records which shall be:
 (a) sufficient to show and explain the Limited Partnership's transactions;
 (b) such as to disclose with reasonable accuracy, at any time, the Limited Partnership's financial position at that time;
 (c) such as to enable the general partners to ensure that the Limited Partnership's balance sheet and profit and loss account are prepared properly and in accordance with generally accepted accounting principles and practice and in accordance with any relevant enactment or regulations for the time being in force in Malta;
@@ -332,8 +330,7 @@ manner as to defraud creditors or in an unlawful manner;
 (e) there has been persistent default by the Limited Partnership or by any general partner thereof in complying with the requirements of this Schedule or any applicable regulations made under Article 66A(3) or under this Act;
 (f) there are grounds of sufficient gravity to warrant the dissolution.
 (2) Upon the making of an order under sub-paragraph (1) for the dissolution of the Limited Partnership or at any time thereafter, the Court may make such other orders in relation to the dissolution as it thinks fit and proper in the circumstances, including an order for the appointment of one or more liquidators to wind up the Limited Partnership's affairs and distribute its assets.
-General provisions applicable to winding up.
-30. (1) Upon the dissolution of a Limited Partnership its affairs shall, unless a liquidator has been appointed by the Court under paragraph 29(2) or under sub-paragraph (2) of this paragraph or by the partners under sub-paragraph (3) of this paragraph, be wound up by the general partners.
+General provisions applicable to winding up. 30. (1) Upon the dissolution of a Limited Partnership its affairs shall, unless a liquidator has been appointed by the Court under paragraph 29(2) or under sub-paragraph (2) of this paragraph or by the partners under sub-paragraph (3) of this paragraph, be wound up by the general partners.
 (2) Upon the dissolution of a Limited Partnership or at any time thereafter, the Court may, on application of any partner (including an assignee thereof) or any creditor or the Registrar or any liquidator, make such orders in relation to the dissolution as it thinks fit and proper, including:
 (a) an order for the appointment of one or more liquidators to wind up the affairs of the Limited Partnership and distribute its assets, and the fixing of his remuneration;
 (b) an order for the stay of judicial proceedings pending against the Limited Partnership on such terms as the Court thinks fit.
@@ -471,7 +468,8 @@ Non-applicability of articles 186 and 187(1) of the Act.
 Fractional Shares.
 40. (1) A Share Capital Limited Partnership may, subject to the provisions of the Partnership Deed, issue fractional shares up to such number of decimal places as shall be specified in the Partnership Deed, and under such terms and conditions as may be stipulated therein.
 (2) Fractional shares shall be automatically consolidated into a whole share of the same class when the fractional shares held by one partner become equal to a whole share.
-Contributions other than in cash. 41. (1) Without prejudice to paragraph 5(3), the contribution of a partner in a Limited Partnership may only consist of cash or assets capable of economic assessment, and such contributions shall be paid or transferred by the partner to the Limited Partnership within such time or times as specified in the Partnership Deed, and the following provisions of this paragraph shall apply to any such contributions which are non-cash assets contributions.
+Contributions other than in cash.
+41. (1) Without prejudice to paragraph 5(3), the contribution of a partner in a Limited Partnership may only consist of cash or assets capable of economic assessment, and such contributions shall be paid or transferred by the partner to the Limited Partnership within such time or times as specified in the Partnership Deed, and the following provisions of this paragraph shall apply to any such contributions which are non-cash assets contributions.
 (2) A report on any contribution other than in cash shall be drawn up before the transfer of the contribution to the Limited Partnership and:
 (a) in the case of a Share Capital Limited Partnership, if and to the extent that the non-cash contribution is to be transferred to the Limited Partnership in consideration for the acquisition of shares therein on original subscription, such report shall be drawn up before the Limited Partnership is registered; or
 (b) in the case of a Share Capital Limited Partnership, if and to the extent that the non-cash contribution is to be transferred to the Limited Partnership in consideration for the acquisition of shares on a subsequent issue, such report shall be drawn up before the relevant shares are issued; or
@@ -514,7 +512,7 @@ Provided further that the exercise of any remedies of the pledgee in sub-paragra
 (i) shall be such value specified, or such value arrived at by the application of such valuation method specified, in the pledge
 agreement between the pledgor and the pledgee; or
 (ii) failing such specification in the pledge agreement as referred to in sub-paragraph (7)(b)(i), shall be such value as may be established by agreement between the pledgor and the pledgee after notice of default has been given by the pledgee to the pledgor in terms of the sub-paragraph (6); or
-(iii) failing such specification in the pledge agreement as referred to in sub-paragraph (7)(b)(i) and failing agreement between the pledgor and the pledgee as referred to in sub-paragraph (7)(b)(ii), shall be the fair value of the securities obtaining on the date of the notice of default referred to in sub-paragraph (6) determined by a certified public accountant or a certified public accountant and auditor appointed by agreement between the pledger and the pledgee at the relevant time or, failing such agreement, appointed by the Civil Court, First Hall, on the application of the pledgee:
+(iii) failing such specification in the pledge agreement as referred to in sub-paragraph (7)(b)(i) and failing agreement between the pledgor and the pledgee as referred to in sub-paragraph (7)(b)(ii), shall be the fair value of the securities obtaining on the date of the notice of default referred to in sub-paragraph (6) determined by a certified public accountant appointed by agreement between the pledger and the pledgee at the relevant time or, failing such agreement, appointed by the Civil Court, First Hall, on the application of the pledgee:
 Provided that, notwithstanding what is provided above in this sub-paragraph, when the pledgee exercises his remedy under sub-paragraph 6(c) above (where applicable), the value of the pledged securities for the purposes of such remedy shall be, and the Limited Partnership shall repurchase or redeem the relevant securities at, such value which is specified or otherwise calculated in terms of the Partnership Deed or the conditions of the offer or the issue of such securities.
 (8) Where the Partnership Deed or the conditions of the offer or the issue of the pledged securities requires any holder thereof wishing to transfer such securities to offer them on a pre-emptive basis to other holders of such securities, the pledgee shall be obliged, prior to the exercise of the rights granted by this sub-paragraph (6), to offer any such securities to those other holders at the price determined in accordance with sub-paragraph (7), which offer shall be kept open for at least ten working days.
 (9) In the exercise of his rights under this paragraph, the pledgee shall only dispose of, appropriate or request the repurchase or redemption of such number of securities as are needed to raise sufficient proceeds to repay the debt due. All remaining securities shall be released to the pledgor.
@@ -532,8 +530,7 @@ within fourteen days of the termination of the pledge;
 (b) In the case of a pledge of securities in a Limited Partnership which are listed and traded on a regulated market other than a Maltese regulated market, or on an equivalent market in a non-Member State or non-EEA State, the provisions of sub-paragraphs (3) to (8) and (11) shall not apply and in the event of a default under the agreement of pledge, the pledgee shall, upon notice in writing to the pledgor and the Limited Partnership have the securities sold through a person duly authorised for this purpose.
 (c) References in this paragraph to the maintenance by a regulated market of the register of the holders of the respective securities shall be deemed to include a reference to the maintenance of the said register by a duly authorised central securities depositary and the delivery of the notices
 referred to in this paragraph shall be construed accordingly.
-Matters subject to Partnership Deed.
-44. (1) Without prejudice to the provisions of this Schedule, matters relating to the issue and repurchase or redemption of shares by a Share Capital Limited Partnership, the manner and timing and other matters relating to payment of contributions (including payment on shares in a Share Capital Limited Partnership) by partners in a Limited Partnership, the manner and timing and other matters relating to payments (whether of profits, return of contributions or otherwise) to partners by a Limited Partnership, matters relating to meetings and decisions of partners or any of them, and in general any matters relating to the Limited Partnership, shall be regulated by and shall be made in accordance with and subject to the terms and conditions of the Partnership Deed.
+Matters subject to Partnership Deed. 44. (1) Without prejudice to the provisions of this Schedule, matters relating to the issue and repurchase or redemption of shares by a Share Capital Limited Partnership, the manner and timing and other matters relating to payment of contributions (including payment on shares in a Share Capital Limited Partnership) by partners in a Limited Partnership, the manner and timing and other matters relating to payments (whether of profits, return of contributions or otherwise) to partners by a Limited Partnership, matters relating to meetings and decisions of partners or any of them, and in general any matters relating to the Limited Partnership, shall be regulated by and shall be made in accordance with and subject to the terms and conditions of the Partnership Deed.
 (2) Without prejudice to the generality of sub-paragraph (1) and without prejudice to the provisions of paragraphs 25 and 35, a Share Capital Limited Partnership may, if and to the extent permitted by the Partnership Deed, purchase or redeem its own shares, directly or indirectly out of the assets of the Limited Partnership, on such terms and in such manner as may be provided by the Partnership Deed.
 Investment Services Rules.
 45. Without prejudice to the provisions of article 66A(3) of the Act, the competent authority may issue Investment Services Rules in terms of article 6(2)(b) of the Investment Services Act for the better carrying out of the provisions of this Schedule.
@@ -550,12 +547,12 @@ therein falsely indicating existence of Limited
 Partnership €500 None
 6(7) Person using name falsely indicating existence of Limited
 Partnership €500 None
+Daily Paragraph Default Penalty
+Penalty
 10(6) Failure of any general partner, vested with administration
 and representation, to deliver to the Registrar for
 registration the return of changes in the Partnership Deed,
-within fourteen days from the change €500 €25
-Daily Paragraph Default Penalty
-Penalty 18(3) & Failure of Limited Partnership and any general partner, or
+within fourteen days from the change €500 €25 18(3) & Failure of Limited Partnership and any general partner, or
 failure by person who ceased to be a general partner, as (4)
 applicable, to notify the Registrar of the cessation of a
 person as a general partner, within fourteen days as

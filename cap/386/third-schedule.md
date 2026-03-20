@@ -6,24 +6,30 @@ ADDITIONAL PROVISIONS APPLICABLE TO THE ANNUAL FINANCIAL ACCOUNTS OF LARGE UNDER
 AND CERTAIN OTHER UNDERTAKINGS,
 WHERE APPLICABLE
 1. For the purpose of Chapter X of Title I of Part V and this Schedule, the following definitions shall apply:
-"large groups" means groups consisting of parent and subsidiary undertakings to be included in a consolidation and which, on a consolidated basis, exceed the limits of at least two of the three following criteria on the balance sheet date of the parent undertaking:
-(i) balance sheet total: EUR 20 000 000 computed net, or €24,000,000 computed gross;
-(ii) net turnover: EUR 40 000 000 computed net, or €48,000,000 computed
-gross;
-(iii) average number of employees during the financial year: 250;
-"large undertakings" means undertakings which on their balance sheet dates exceed at least two of the three following criteria:
-(i) balance sheet total: EUR 20 000 000;
-(ii) net turnover: EUR 40 000 000;
-(iii) average number of employees during the financial year: 250;
-"medium-sized groups" means groups which are not small groups, which consist of parent and subsidiary undertakings to be included in a consolidation and which, on a consolidated basis, do not exceed the limits of at least two of the three following criteria on the balance sheet date of the parent undertaking:
-(i) balance sheet total: EUR 20 000 000 computed net, or €24,000,000 computed gross;
-(ii) net turnover: EUR 40 000 000 computed net, or €48,000,000 computed
-gross;
-(iii) average number of employees during the financial year: 250;
-"medium-sized undertakings" means undertakings which are not small companies, as defined in article 185(1), and which on their balance sheet dates do not exceed the limits of at least two of the three following criteria:
-(i) balance sheet total: EUR 20 000 000;
-(ii) net turnover: EUR 40 000 000;
-(iii) average number of employees during the financial year: 250.
+"large groups" means groups consisting of parent and subsidiary undertakings to be included in a consolidation and which, on a consolidated basis, exceed the limits of at least two of the following three criteria on the balance sheet date of the parent undertaking:
+(i) balance sheet total: twenty-five million euro (€25,000,000)
+computed net, or thirty million euro (€30,000,000) computed gross;
+(ii) net turnover: fifty million euro (€50,000,000) computed net, or
+sixty million euro (€60,000,000) computed gross;
+(iii) average number of employees during the financial year: two
+hundred and fifty (250);
+"large undertakings" means undertakings which on their balance sheet dates exceed at least two of the following three criteria:
+(i) balance sheet total: twenty-five million euro (€25,000,000);
+(ii) net turnover: fifty million euro (€50,000,000);
+(iii) average number of employees during the financial year: two
+hundred and fifty (250);
+"medium-sized groups" means groups which are not small groups, which consist of parent and subsidiary undertakings to be included in a consolidation and which, on a consolidated basis, do not exceed the limits of at least two of the following three criteria on the balance sheet date of the parent undertaking:
+(i) balance sheet total: twenty-five million euro (€25,000,000)
+computed net, or thirty million euro (€30,000,000) computed gross;
+(ii) net turnover: fifty million euro (€50,000,000) computed net, or
+sixty million euro (€60,000,000) computed gross;
+(iii) average number of employees during the financial year: two
+hundred and fifty (250);
+"medium-sized undertakings" means undertakings which are not small companies, as defined in article 185(1), and which on their balance sheet dates do not exceed the limits of at least two of the following three criteria:
+(i) balance sheet total: twenty-five million euro (€25,000,000);
+(ii) net turnover: fifty million euro (€50,000,000);
+(iii) average number of employees during the financial year: two
+hundred and fifty (250).
 Matters applicable to medium-sized and large undertakings
 2. (1) Intangible assets shall be written off over the useful economic life of the intangible asset.
 In exceptional cases where the useful life of goodwill and development costs cannot be reliably estimated, such assets shall be written off within a maximum period of 10 years. An explanation of the period over which goodwill is written off shall be provided within the notes to the financial statements.
@@ -70,3 +76,4 @@ financial statements have been adopted.
 The information concerning capital and reserves and the profit or loss may also be omitted where the undertaking concerned does not publish its balance sheet.
 4. The information required by paragraph 3(a) to (d) may take the form of a statement filed with the Registrar. The filing of such a statement shall be disclosed in the notes to the consolidated financial statements. Such information may be omitted when its nature is such that its disclosure would be seriously prejudicial to any of the undertakings to which it relates and the Registrar agrees that the information need not be disclosed. Any such omission shall be disclosed in the notes to the consolidated financial statements.
 - Substituted by: XXXI. 2015.23.
+- Amended by: I.2026.29.

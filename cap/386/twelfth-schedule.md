@@ -1,5 +1,4 @@
 ## TWELFTH SCHEDULE
-## Articles of Ordinance
 ## Articles of Act
 # twelfth-schedule
 (Article 3)
@@ -20,17 +19,20 @@ including name of fictitious person, etc. 10
 11. Contributions deemed to be made in ownership. 11
 12. Contribution of a debt owing to a partner. 12
 13. Valuation of contribution. 14 (e)
-14. How partnership is constituted. 13 15. Contents of deed of partnership. 14
+14. How partnership is constituted. 13
+15. Contents of deed of partnership. 14
 16. Registration of deeds of partnership. 15
 17. Duty of Registrar and effect of registration. 16
 18. Where certificate of registration is not issued. 17
 19. Changes in deed of partnership. 19
-20. Where alteration consists in change of partnership-name. 20
-21. Reductions in contribution of a partner and dissolution of a partnership before period fixed for its duration. 21
-22. Right of creditors of a partner to oppose enlargement of duration of a partnership. 22
+20. Where alteration consists in change of
+partnership-name. 20
+21. Reductions in contribution of a partner and dissolution of a partnership before
+period fixed for its duration. 21
+22. Right of creditors of a partner to oppose
+enlargement of duration of a partnership. 22
 23. Duties of Registrar of Courts. 23
-24. How deed of partnership may be altered. 24
-25. Administration and representation of a partnership. 25 (1)
+24. How deed of partnership may be altered. 24 25. Administration and representation of a partnership. 25 (1)
 26. How partnership may be bound. 25 (2), (3)
 27. New partners. 27
 28. Distribution of profits. 28
@@ -61,8 +63,7 @@ including name of fictitious person, etc. 10
 53. Partnership-name. 53
 54. Contribution of limited partner not to include personal services. 54
 55. Contents of deed of partnership. 55
-56. Rights of general partners. 56
-57. Administration and representation. 57
+56. Rights of general partners. 56 57. Administration and representation. 57
 58. Appointment of partners to administer and represent partnership. 58
 59. Limited partner cannot take part in management of partnerships. 59
 60. Communication of yearly accounts to limited partners. 60
@@ -83,20 +84,21 @@ including name of fictitious person, etc. 10
 75. Duty of Registrar and effects of registration. 77
 76. Where certificate of registration is not issued. 78
 77. Alterations and additions to memorandum and articles. 79
-78. Reduction of share capital. 83 79. Change of name of company. 80
-80. Alterations in memorandum or articles increasing liability to contribute to share capital not to bind existing members
+78. Reduction of share capital. 83
+79. Change of name of company. 80
+80. Alterations in memorandum or articles
+increasing liability to contribute to share
+capital not to bind existing members
 without consent. 81
 81. Authentication of documents. 82
-82. Issue of applications for shares in or debentures of a company to be made with
+82. Issue of applications for shares in or
+debentures of a company to be made with
 a prospectus. 89
-83. Dating of prospectus and matters to be stated
-therein. 90
+83. Dating of prospectus and matters to be stated therein. 90
 84. Penalty. 91
 85. Prospectus including a statement by experts. 92
 86. Registration of prospectus. 93
-87. Restriction on alteration of terms mentioned in
-prospectus. -
-88. Civil liability for mis-statements in prospectus. 94
+87. Restriction on alteration of terms mentioned in prospectus. - 88. Civil liability for mis-statements in prospectus. 94
 89. Document containing offer of shares or
 debentures for sale to be deemed prospectus. 95
 90. Interpretation of provisions relating to prospectus. 96
@@ -122,7 +124,8 @@ and variations thereof. 116
 102. Numbering of shares. 117
 103. Transfer of shares. 118
 104. Registration of transfer at request of transferor. 119
-105. Issue of certificates. 120 106. Share warrants. 121
+105. Issue of certificates. 120
+106. Share warrants. 121
 107. Register of members. 123
 108. Register of debentures. 124
 109. Inspection of registers. 125
@@ -135,8 +138,7 @@ on requisition. 129
 115. Length of notice for calling meetings. 130
 116. General provisions as to meetings and votes. 131
 117. Power of court to order meeting. 132 (1)
-118. Proxies. 133
-119. Right to demand a poll. 134
+118. Proxies. 133 119. Right to demand a poll. 134
 120. Extraordinary resolutions. 135
 121. Directors. 137
 122. Restrictions on appointment of director. 139
@@ -161,7 +163,8 @@ form of accounts. 167
 139. Penalty. Incorporated in
 relevant articles
 140. Appointment and remuneration of auditors. 151, 152, 156
-141. Disqualification for appointment as auditor. 153 142. Auditor's report. 179,181
+141. Disqualification for appointment as auditor. 153
+142. Auditor's report. 179,181
 143. Right of access to books and to attend at general meetings. 154, 155
 144. Annual return. 184
 145. Documents to be annexed to annual return. 183
@@ -173,8 +176,7 @@ relevant articles
 149. Exemption of private company from
 requirements of article 145, etc. 211
 150. Dissolution of companies. 214
-151. Notice of dissolution and calling of meeting for appointment of liquidator. 265, 279
-152. Appointment, removal and remuneration of liquidator. 270, 278, 279,
+151. Notice of dissolution and calling of meeting for appointment of liquidator. 265, 279 152. Appointment, removal and remuneration of liquidator. 270, 278, 279,
 281, 289, 293
 153. Notice of appointment of liquidator. 290
 154. Penalty. Incorporated in
@@ -193,7 +195,8 @@ relevant articles
 165. Where partnership ceases to exist on conversion or amalgamation. 332, 339, 343 (4)
 166. Partners with unlimited liability to remain bound unless creditors consent to conversion. 333, 340
 167. Rights of creditors to oppose conversion or amalgamation. 334, 341, 351
-168. Continuing or new partnership succeeds partnership ceasing to exist. 335, 342, 354 (1) 169. Definition. 376
+168. Continuing or new partnership succeeds partnership ceasing to exist. 335, 342, 354 (1)
+169. Definition. 376
 170. Consent of associates required for admission
 of other associates. 377
 171. Relations of parties vis-à-vis third parties
@@ -238,11 +241,11 @@ profit and loss account 168, Third Schedule Fourth Schedule Contents and form of
 3 Interpretation 2
 4 Investment Companies with variable
 share capital 84
-5 Name of company 70 (3) and (6)
-6 Accounts of investment company with
+5 Name of company 70 (3) and (6) 6 Accounts of investment company with
 variable share capital 169
 7 Trustees and nominees 127
 8 Share Capital in a convertible currency 186, 187
 9 Power to make regulations -
-Schedule - Accounts and Director's report of an investment company with variable share capital Fifth Schedule
+Schedule - Accounts and Director's report
+of an investment company with variable share capital Fifth Schedule
 - Amended by: IV. 2003.169.
