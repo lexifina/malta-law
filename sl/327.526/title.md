@@ -6,4 +6,4 @@ OCCUPATIONAL HEALTH AND SAFETY
 (HONOURS) - B. O.H.S. (Hons) - UNDER THE AUSPICES OF THE CENTRE FOR LABOUR
 STUDIES
 20th November, 2015
-LEGAL NOTICE 367 of 2015, as amended by Legal Notices 71 of 2016 and 158 of 2021.
+LEGAL NOTICE 367 of 2015, as amended by Legal Notices 71 of 2016, 158 of 2021 and 62 of 2026.
