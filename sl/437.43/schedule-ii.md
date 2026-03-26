@@ -19,7 +19,6 @@ Group 1: Basic sciences
 • Pharmacy
 • Toxicology
 • Microbiology
-[S.L.437.43 16 OF VETERINARY SURGEONS
 • Immunology
 • Epidemiology
 • Professional ethics
@@ -29,7 +28,7 @@ Group 2: Clinical sciences
 • Parasitology
 • Clinical medicine and surgery (including anaesthetics)
 • Clinical lectures on the various domestic animals, poultry and other animal
-species
+species [S.L.437.43 18 OF VETERINARY SURGEONS
 • Preventive medicine
 • Radiology
 • Reproduction and reproductive disorders
