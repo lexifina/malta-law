@@ -28,12 +28,11 @@ Group 2: Clinical sciences
 • Parasitology
 • Clinical medicine and surgery (including anaesthetics)
 • Clinical lectures on the various domestic animals, poultry and other animal
-species
+species [S.L.437.43 18 OF VETERINARY SURGEONS
 • Preventive medicine
 • Radiology
 • Reproduction and reproductive disorders
 • Veterinary state medicine and public health
-[S.L.437.43 18 OF VETERINARY SURGEONS
 • Veterinary legislation and forensic medicine
 • Therapeutics
 • Propaedeutics
