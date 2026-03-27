@@ -65,8 +65,9 @@ Transport
 11. The supply of:
 (a) transport by scheduled bus service consisting of trips on scheduled routes;
 (b) scheduled inter-island sea transport of passengers by authorised carriers and other services of scheduled sea transport of passengers recognised as such by the Commissioner;
-(c) special regular services consisting in the carriage of school pupils and students to and from an educational establishment recognised as such by the Commissioner; and
-(d) special regular services consisting in the carriage of workers to and from their work.
+(c) special regular services consisting in the carriage of school pupils and students to and from an educational establishment recognised as such by the Commissioner;
+(d) special regular services consisting in the carriage of workers to and from their work; and
+(e) scheduled passenger transport services by means of public lift recognised as such by the Commissioner.
 Supplies of goods on board cruise liners
 12. The supply of goods for consumption on board cruise liners where the place of taxation in terms of item 3 of the Third Schedule to the Act is deemed to be in Malta.
 Supplies of goods in accordance with sub-item (2) of item 12A of the Second Schedule
@@ -80,8 +81,6 @@ Supplies of certain devices and aids to non-profit making organisations
 15. The supply to non-profit making organisations specifically recognised as such by the Commissioner for this purpose, of devices and aids, including related goods, which are essential to compensate or overcome disability in humans.
 Products used for female sanitary protection
 16. The supply of products used for female sanitary protection.
-Supplies for the benefit of disaster victims.
-17. The supply of goods for the benefit of disaster victims, and services related to such goods supplied or acquired including rental services, subject to the conditions and limitations established under Article 101a of Council Directive 2006/112/EC.
 Medical items essential to compensate and overcome cancer in humans
 17. The supply of:
 (a) mastectomy undergarments;
@@ -90,6 +89,8 @@ Medical items essential to compensate and overcome cancer in humans
 (d) scalp cooling systems;
 (e) absorbent incontinence care products; and
 (f) supportive medical undergarments.
+Supplies for the benefit of disaster victims.
+18. The supply of goods for the benefit of disaster victims, and services related to such goods supplied or acquired including rental services, subject to the conditions and limitations established under Article 101a of Council Directive 2006/ 112/EC.
 Part Two
 Exemptions without credit
 This Part applies to the supplies listed herein subject to the definitions contained in Part Five. Items 2 and 3 are without prejudice to item 5 of Part One.
@@ -107,8 +108,7 @@ Act, or any other Act which my be substituted therefor;
 (iv) the letting of premises used or intended to be used as garages, stores or similar uses;
 (v) the letting to players of rooms or other spaces lawfully designated for the playing of poker.
 (2) The transfer of immovable property.
-Insurance services
-2. The supply by persons licensed under the Insurance Business Act or the Insurance Distribution Act, of insurance and reinsurance transactions, including related services, in respect of which they are so licensed, where those services are specific to and essential for the provision of insurance or re-insurance transactions:
+Insurance services 2. The supply by persons licensed under the Insurance Business Act or the Insurance Distribution Act, of insurance and reinsurance transactions, including related services, in respect of which they are so licensed, where those services are specific to and essential for the provision of insurance or re-insurance transactions:
 Provided that road assistance services provided for a fixed subscription, by a taxable person who undertakes to provide such assistance should the risk of breakdown or accident covered by that person materialise, shall be considered as an exempt supply of insurance services.
 Credit, banking and other services
 3. (1) The granting and the negotiation of credit and the management of credit by the person granting it.
@@ -129,8 +129,7 @@ Provided further that investment schemes shall refer to:
 Cultural and religious services
 4. (1) Religious services.
 (2) The supply of such cultural services and goods closely linked thereto as may be approved by the Minister.
-Sports
-5. The supply by non-profit making organisations of such services related to sport or physical recreation and provided to persons taking part in sport or educational education as may be approved by the Minister.
+Sports 5. The supply by non-profit making organisations of such services related to sport or physical recreation and provided to persons taking part in sport or educational education as may be approved by the Minister.
 Services related to certain exempt services
 6. (1) The supply of staff by religious and philosophical institutions recognised as such by the Commissioner for the purpose of providing services referred to in paragraph (2) or (4) of item 11 or in paragraph (1) or (2) of item 12 of this Part with a view to spiritual welfare.
 (2) The supply of goods and services by a non-profit making organisation in connection with events, organised exclusively for their own benefit, designed to raise funds which shall be used for the provision of goods and services which are exempt in terms of sub-items (2) or (4) of item 11 or of sub-items (1) or (2) of item 12 of this Part:
@@ -161,7 +160,8 @@ Supplies of goods in respect of which the supplier had not qualified for input t
 13. The supply of goods which were acquired by that person or which were manufactured or produced from components acquired by that person under a supply in respect of which that person did not qualify for any input tax credit.
 Broadcasting
 14. The activities of public radio and television bodies other than those of a commercial nature.
-Water 15. The supply of water services by a public authority.
+Water
+15. The supply of water services by a public authority.
 Exemption for small enterprises
 16. (1) The supply by a person registered under article 11 and entitled to be so registered, of goods and services in accordance with the provisions of Part One of the Sixth Schedule.
 (2) The supply by a person registered under article 11A and entitled to be so registered, of goods and services in accordance with the provisions of Part Two of the Sixth Schedule.
@@ -184,7 +184,8 @@ Duty suspension regime
 4. The intra-community acquisition of goods intended to be placed under a customs duty suspension regime.
 Food
 5. The intra-Community acquisition of food.
-Investment gold 6. The intra-community acquisition of investment gold, saving the option for taxation in terms of Part Six of the Fourteenth Schedule.
+Investment gold
+6. The intra-community acquisition of investment gold, saving the option for taxation in terms of Part Six of the Fourteenth Schedule.
 Goods subject to the margin scheme
 7. The intra-community acquisition of goods that are supplied under a transaction subject to a margin scheme on second hand goods, works of art, collectors' items and antiques in the Member State where the transport begins.
 Acquisitions of certain devices and aids by non-profit making organisations
@@ -205,8 +206,7 @@ Objects of a non-commercial nature imported in the personal luggage of traveller
 2A. The importation of objects, where their total value does not exceed the limits provided in the Excise Duty (Goods Imported by Persons Travelling from Third Countries) Regulations. S.L. 382.02.
 Importation of goods where VAT shall be declared under the special scheme in Section 4 of Part Seven of the Fourteenth Schedule
 2B. The importation of goods where the VAT shall be declared under the special scheme in Section 4 of Part Seven of the Fourteenth Schedule and where, at the latest upon lodging of the import declaration, the individual value added tax identification number for the application of the special scheme of the supplier or of the intermediary acting on his behalf, allocated in terms of Section 4 of Part Seven of the Fourteenth Schedule, has been provided to the competent customs office in Malta.
-Goods transported from a third territory
-3. The importation of goods transported from a third territory and imported into Malta where the supply of these goods by the importer is an exempt supply in virtue of paragraph (1) or (4) of item 3 of Part One of this Schedule.
+Goods transported from a third territory 3. The importation of goods transported from a third territory and imported into Malta where the supply of these goods by the importer is an exempt supply in virtue of paragraph (1) or (4) of item 3 of Part One of this Schedule.
 The exemption provided for under this item shall apply in cases when the importation of goods is followed by the supply of goods exempted under paragraph
 (1) or (4) of item 3 of Part One of this Schedule only if at the time of importation the importer has provided to the Comptroller of Customs the following information:
 (a) his VAT identification number issued in terms of article 10 of this Act;
@@ -303,6 +303,7 @@ terms of the provisions of regulation 68B of the Passenger Transport Services Re
 terms of the provisions of regulation 69 of the Passenger Transport Services Regulations.
 (2) "Scheduled inter-island sea transport of passengers" means scheduled transport of passengers between the islands of Malta and Gozo.
 (3) "special regular services" shall have the meaning as assigned to it in the Passenger Transport Services Regulations.
+(4) "public lift" shall have the same meaning as assigned to it in the Passenger Transport Services Regulations and which is operated in accordance with the provisions of regulation 68S of the said regulations.
 - Amended by: L.N. 24 of 2001.
 - Substituted by: X. 2003.47.
-- Amended by: L.N. 250 of 2004; L.N. 520 of 2004; L.N. 334 of 2006; L.N. 121 of 2007; L.N. 445 of 2007; L.N. 234 of 2009; L.N. 286 of 2010; L.N. 425 of 2010; L.N. 534 of 2010; L.N. 379 of 2011; L.N. 499 of 2011; L.N. 38 of 2012; L.N. 345 of 2013; L.N. 422 of 2013; L.N. 480 of 2014; L.N. 227 of 2015; L.N. 247 of 2016; L.N. 383 of 2016; L.N.347 of 2017; L.N. 9 of 2018; L.N.155 of 2019; L.N.302 of 2019; L.N.253 of 2019; L.N.222 of 2020; L.N. 4 of 2021; L.N. 358 of 2021; VII.2022.70; L.N. 138 of 2022; L.N. 12 of 2024; L.N. 228 of 2024; L.N. 345 of 2024; L.N. 355 of 2024; L.N. 88 of 2025; III.2026.69.
+- Amended by: L.N. 250 of 2004; L.N. 520 of 2004; L.N. 334 of 2006; L.N. 121 of 2007; L.N. 445 of 2007; L.N. 234 of 2009; L.N. 286 of 2010; L.N. 425 of 2010; L.N. 534 of 2010; L.N. 379 of 2011; L.N. 499 of 2011; L.N. 38 of 2012; L.N. 345 of 2013; L.N. 422 of 2013; L.N. 480 of 2014; L.N. 227 of 2015; L.N. 247 of 2016; L.N. 383 of 2016; L.N.347 of 2017; L.N. 9 of 2018; L.N.155 of 2019; L.N.302 of 2019; L.N.253 of 2019; L.N.222 of 2020; L.N. 4 of 2021; L.N. 358 of 2021; VII.2022.70; L.N. 138 of 2022; L.N. 12 of 2024; L.N. 228 of 2024; L.N. 345 of 2024; L.N. 355 of 2024; L.N. 88 of 2025; III.2026.69; L.N. 75 of 2026.
