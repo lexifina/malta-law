@@ -1,5 +1,5 @@
 SUBSIDIARY LEGISLATION 480.02
 ARMS LICENSING REGULATIONS
 25th August, 2006
-LEGAL NOTICE 177 of 2006, as amended by Legal Notices 197 of 2011, 75 of 2013, 206, 207 of 2015, 150 of 2017 and 406 of 2018.
+LEGAL NOTICE 177 of 2006, as amended by Legal Notices 197 of 2011, 75 of 2013, 206, 207 of 2015, 150 of 2017, 406 of 2018 and 77 of 2026.
 Preliminary
