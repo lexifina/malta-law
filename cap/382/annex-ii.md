@@ -29,6 +29,8 @@
 ## Track and Trace system compliance.
 ## Excise duty payment.
 ## Retail restrictions.
+## Exemption of excise duty on smokeless tobacco products.
+## Retention of nicotine pouches products.
 # annex-ii
 (referred to in regulation 3(2) of this Part)
 List of codes
@@ -88,8 +90,8 @@ refill liquid, the number and volume of imported pre-filled refill containers an
 refill liquid, the number and volume of imported pre-filled refill containers and the number and volume of pre-filled disposable electronic cigarettes as aforesaid sold or otherwise disposed of during such period and to whom they were sold or in whose favour they were disposed of; and
 (d) the volume of each product manufactured by him
 during each such period.
-(2) The said statement shall be produced to the Commissioner not later than the last day of the month immediately following the end of each accounting period referred to in sub-regulation (1) and shall be so compiled as to show the information required to be furnished, classified separately under the title of imported electronic cigarettes and refill containers and manufactured electronic cigarettes and refill containers.
-(3) Any person who fails to comply with the provisions of this regulation shall be guilty of an offence and shall be liable on conviction to a fine (multa) not exceeding five thousand euro (€5,000).
+(2) The said statement shall be given to the Commissioner in accordance with regulation 12 of Part A of the Sixth Schedule and shall be so compiled to specify the information required to be furnished, classified separately under the title of imported electronic cigarettes, refill containers and manufactured electronic cigarettes and refill containers.
+(3) Repealed by Act III.2026.52.
 7. The following records shall be kept by the authorised tax warehouse keeper of electronic cigarettes and refill containers in accordance with regulation 15 of Part A - Excisable Goods Regulations:
 (a) all records relating to the information required to
 be submitted to the Commissioner according to the preceding regulation; and
@@ -150,30 +152,65 @@ Provided that the release of goods shall be subject to the recording of goods in
 Provided further that if the provisions of this sub-regulation are applied, there shall be no suspension of the licence:
 Provided further that for the purposes of this sub-regulation the words "any person" shall exclude operators and, or the licence holders of a retail outlet:
 Provided further that herbal smokeless tobacco products as defined in regulation 2, shall be exempt from the Track and Trace system requirements established in article 15 of the Directive 2014/40/ EU.
-8. Excise duty on smokeless tobacco products shall be payable upon release for consumption by the authorised tax warehouse keeper by the fifteenth (15th) day of the following month according to the rates of Schedule Five J following the submission to the Commissioner of the statement referred to in regulation 9.
-9. (1) The authorised tax warehouse keeper of smokeless tobacco products shall submit to the Commissioner a statement, in respect of the production of each product, during such accounting period as the Commissioner may establish or prescribe, indicating the following:
-(a) the weight of leaf tobacco, of tobacco substitutes
-and of tobacco imported cut or cut and blended but not further manufactured, held by him on the first day of such period at any
-authorised tax warehouse registered in his name;
-(b) the weight of any smokeless tobacco products
-acquired by him during each such period, stating from where they were acquired;
-(c) the weight of any smokeless tobacco products sold
-or otherwise disposed of during such period and to whom they were sold or to whom they were transferred;
-(d) the weight of each smokeless tobacco product
-manufactured by him during each such period; and
-(e) the weight of offcuts resulting from the
-manufacture of each smokeless tobacco product during each such period at any authorised tax warehouse registered in his name.
+8. Excise duty on smokeless tobacco products shall be payable upon release for consumption by the authorised tax warehouse keeper as provided in regulation 16(2) of Part A.
+9. (1) The authorised tax warehouse keeper of smokeless tobacco products shall submit to the Commissioner a statement, in respect of the production of each product, during such accounting period as the Commissioner may prescribe in accordance with regulation 16(1) of Part A of the Sixth Schedule.
 (2) Such statement shall be provided to the Commissioner by not later than the fifteenth (15th) day of the month immediately following the end of each accounting period referred to in sub-regulation (1) and shall include the information required in accordance with these regulations.
 (3) Any person who fails to comply with the provisions of this regulation shall be guilty of an offence and shall be liable on conviction, to a fine (multa) not exceeding twenty-five thousand euro (€25,000).
 10. A person shall not acquire, possess, or sell smokeless tobacco products without compliant excise stamps or Track and Trace unique identifiers.
+11. The exemption of excise duty on smokeless tobacco products acquired by a private individual for his personal use and transported from a Member State to Malta by the said private individual, shall only apply to a maximum quantity of eight hundred (800) sticks of smokeless tobacco products.
+PART M
+Nicotine Pouches Regulations
+1. The title of these regulations is the Smokeless Tobacco Products Regulations.
+2. In these regulations, unless the context otherwise requires:
+"Act" means the Excise Duty Act;
+"nicotine pouch" means nicotine containing products
+intended for the intake of nicotine into the human body, by oral application, excluding for inhalation, and products intended to assist tobacco use cessation, classified under HS Code 2404.91.9000;
+"packet" includes any wrapper, carton, box, tin, pouch or
+other container immediately enclosing nicotine pouches products.
+3. These regulations shall apply to nicotine pouches products specified as excisable goods according to the Act.
+4. A person shall not manufacture, process or prepare for sale any nicotine pouches products except in conformity with the provisions of article 9 of the Act.
+5. (1) Nicotine pouches products shall not be placed on the market unless their packet, box or container is sealed with an excise stamp in such a manner that the excise stamp is inevitably destroyed when the packet, box or container is opened.
+(2) Such excise stamps shall be issued by the Commissioner against payment, as may be prescribed in accordance with the Act on application by the authorised tax warehouse keeper or registered merchants.
+(3) The excise stamp shall be affixed to the packet, box or container by not later than five (5) working days from when it is purchased, except in the case of an excise stamp that shall be affixed by an authorised tax warehouse keeper.
+(4) (a) A registered merchant who fails to affix an excise stamp within five (5) working days from when it is purchased, except for an authorised tax warehouse keeper, shall on conviction, be liable to a fine (multa) of one hundred euro (€100) and additionally the Court shall also order the forfeiture of the excise stamps that have not been affixed within the prescribed period. In addition to this, the forfeiture of nicotine pouches products themselves shall also take place according to law, as applicable.
+(b) In the case of a breach mentioned in paragraph (a), the Commissioner while confiscating the excise stamps not affixed within the prescribed time may, if the offender admits, refrain from instituting proceedings in terms of this Act and impose a penalty equivalent to one hundred euro (€100). In addition to this, the forfeiture of the nicotine pouches products themselves shall also take place according to law, as applicable.
+(5) (a) Every authorised tax warehouse keeper who takes out of the authorised tax warehouse nicotine pouches products on which a band or excise stamp was not affixed according to law, shall on conviction be liable to a fine (multa) of one hundred euro (€100) and additionally the Court shall also order the forfeiture of the excise stamps that had to be affixed to those goods. In addition to this, the forfeiture of the nicotine pouches products themselves shall also take place according to law, as applicable.
+(b) In the case of a breach mentioned in paragraph (a), the Commissioner while confiscating the excise stamps that had to be affixed to the nicotine pouches products may, if the offender admits, refrain from instituting proceedings in terms of this Act and impose a penalty equivalent to one hundred euro (€100). In addition to this, the forfeiture of the nicotine pouches products themselves shall also take place according to law, as applicable.
+(6) (a) Except for authorised persons, every person who has in his possession excise stamps shall be liable, on conviction, to a fine (multa) of two hundred and fifty euro (€250) and additionally the Court shall also order the confiscation of such excise stamps that had to be affixed. In addition, the forfeiture of nicotine pouches products themselves shall also take place, according to law, as applicable.
+(b) In the case of a breach mentioned in paragraph (a), the Commissioner while confiscating the excise stamps that had to be affixed may, if the offender admits, refrain from instituting proceedings in terms of this Act and impose a penalty equivalent to two hundred and fifty euro (€250). In addition to this, the forfeiture of the nicotine pouches products themselves shall also take place according to law, as applicable.
+6. (a) Any quantity of nicotine pouches products found in the possession of any person in breach of the provisions of regulation 5 shall be retained and the provisions of articles 27 to 29 of the Act shall apply and this without prejudice to any other penalty provided for under the Act or any other law.
+(b) Any excise stamp which was not affixed within the prescribed period according to law as applicable, and which are in the possession of any person in breach of the provisions of regulation 5, shall be withheld and the provisions of articles 27 to 29 of the Act shall apply and this without prejudice to any other penalty provided for under the Act or any other law.
+7. Excise duty on nicotine pouches products shall be payable upon release for consumption by the authorised tax warehouse keeper by the fifteenth day according to the rates of Schedule Five K following the submission to the Commissioner of the statement referred to in regulation 8.
+8. (1) The authorised tax warehouse keeper of nicotine pouches products shall submit to the Commissioner a statement, in respect of the production of each product, during such accounting period of one (1) calendar month indicating the following:
+(a) the weight of nicotine pouches, held by him on the
+first day of such period at any authorised tax warehouse registered in his name;
+(b) the weight of any nicotine pouches products
+acquired by him during each such period, stating from where they were acquired;
+(c) the weight of any nicotine pouches products sold or
+otherwise disposed of during such period and to whom they were sold or in whose favour they were disposed of;
+(d) the weight of each nicotine pouches product
+manufactured by him during each such period; and
+(e) the weight of offcuts resulting from the
+manufacture of each nicotine pouches product during each such period at any authorised tax warehouse registered in his name.
+(2) The said statement shall be provided to the Commissioner by not later than fifteen (15) days immediately following the end of each accounting period referred to in sub-regulation (1) and shall include the information required in accordance with these regulations.
+(3) Any person who fails to comply with the provisions of this regulation shall be guilty of an offence and shall be liable on conviction, to a fine (multa) not exceeding twenty-five thousand euro (€25,000).
+9. A person shall not acquire, possess or sell nicotine pouches products without compliant excise stamps.
 - Substituted by: L.N. 50 of 2023.
 - Added by: VII.2022.66.
 - Added by: L.N. 50 of 2023.
 - Added by: IX.2025.60.
+- Amended by: III.2026.52.
+- Amended by: III.2026.52.
 - Added by: L.N. 195 of 2025.
+- Amended by: III.2026.52.
+- Substituted by: III.2026.52.
+- Amended by: III.2026.52.
+- Added by: III.2026.52.
+- Added by: L.N. 38 of 2026.
 - See the Act..
 - See Cap. 382.
 - See S.L. 315.10.
 - See S.L. 315.10.
 - See S.L. 315.10.
 - See S.L. 315.10.
+- See Cap. 382.
