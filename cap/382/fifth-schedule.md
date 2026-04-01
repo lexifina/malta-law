@@ -15,10 +15,10 @@ New Pneumatic Tyres of rubber, used on buses or lorries, €0.70 per kg up to a 
 New Pneumatic Tyres of rubber, used on aircraft, classified €0.70 per kg up to a under H.S. Code 4011 30 of the Customs Nomenclature maximum of €24.50
 for each item
 New Pneumatic Tyres of rubber, used on motorcycles, €0.70 per kg up to a classified under H.S. Code 4011 40 of the Customs maximum of €24.50 Nomenclature for each item
-New Pneumatic Tyres of rubber, used on bicycles, classified €0.00 per kg under H.S. Code 4011 50 of the Customs Nomenclature
+New Pneumatic Tyres of rubber, used on bicycles, €0.00 per kg classified under H.S. Code 4011 50 of the Customs Nomenclature
 New Pneumatic Tyres of rubber, with herring-bone or €0.70 per kg up to a similar tread, for agricultural or forestry vehicles and maximum of €24.50 machines, classified under H.S. Code 4011 61 of the for each item Customs Nomenclature New Pneumatic Tyres of rubber, with herring- bone, for €0.70 per kg up to a construction or industrial handling vehicles and machines, maximum of €24.50 rim size <=61cm, classified under H.S. Code 4011 62 of the for each item Customs Nomenclature
 New Pneumatic Tyres of rubber, with herring-bone, for €0.70 per kg up to a construction or industrial handling vehicles and machines, maximum of €24.50 rim size >=61cm, classified under H.S. Code 4011 63 of the for each item Customs Nomenclature
-Other New Pneumatic Tyres of rubber, with herring-bone or €0.70 per kg up to a similar tread, classified under H.S. Code 4011 69 of the maximum of €24.50 Customs Nomenclature for each item
+Other New Pneumatic Tyres of rubber, with herring-bone €0.70 per kg up to a or similar tread, classified under H.S. Code 4011 69 of the maximum of €24.50 Customs Nomenclature for each item
 Other New Pneumatic Tyres of rubber, for agricultural or €0.70 per kg up to a forestry vehicles and machines, classified under H.S. Code maximum of €24.50 4011 92 of the Customs Nomenclature for each item
 Other New Pneumatic Tyres of rubber, for construction or €0.70 per kg up to a industrial handling vehicles and machines, rim size <=61cm, maximum of €24.50 classified under H.S. Code 4011 93 of the Customs for each item Nomenclature
 Other New Pneumatic Tyres of rubber, for construction or €0.70 per kg up to a industrial handling vehicles and machines, rim size >=61cm, maximum of €24.50 classified under H.S. Code 4011 94 of the Customs for each item Nomenclature
@@ -78,6 +78,9 @@ Schedule Five J
 Smokeless tobacco product
 Products intended for inhalation €140 per Kg without combustion containing tobacco or reconstituted tobacco classified under HS Codes 2404110010 and 2404110090.
 Products intended for inhalation €140 per Kg". without combustion containing tobacco substitutes classified under HS heading 2404191000.
+Schedule Five K
+Nicotine Pouches
+Nicotine containing products €8 per Kg intended for the intake of nicotine into the human body, by oral application, excluding for inhalation, and products intended to assist tobacco use cessation, classified under HS Code 2404.91.9000.
 - Added by: II. 2005.40.
 - Amended by: XIII. 2015.139.
 - Added by: IV. 2011.71.

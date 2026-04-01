@@ -15,7 +15,7 @@ iii. rolls of tobacco which, by simple non-industrial
 handling, are wrapped in cigarette paper;
 b. A roll of tobacco referred to in paragraph 1.a.i. shall, for excise duty purposes, be considered as two cigarettes where, excluding filter or mouthpiece, it is longer than 8 cm but not longer than 11 cm, as three cigarettes where, excluding filter or mouthpiece, it is longer than 11 cm but not longer than 14 cm, and so on.
 Products consisting in whole or in part of substances other than tobacco but otherwise conforming to the criteria set out in sub-paragraph a.i. to iii. above shall be treated as cigarettes and the provisions of this sub-paragraph shall apply thereto.
-2. For the purpose of the ad valorem duty, the retail price is the price recommended by the importer or manufacturer or their representative for the retail sale of cigarettes; where no such price has been recommended the highest retail price at which cigarettes of that description are normally sold by retail is used.
+2. For the purpose of the ad valorem duty, the retail price is the price established by the importer or manufacturer or their representative for the retail sale of cigarettes; where no such price has been established the lowest-established local retail price at which cigarettes are sold by retail is to be used.
 Cigars and Cigarillos €25.24 per
 1000 units
 The following shall be deemed to be cigars or cigarillos if they can be and, given their properties and normal consumer expectations, are exclusively intended to be smoked as they are:

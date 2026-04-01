@@ -24,7 +24,8 @@ by vessels of a tonnage of 3,500 tons or more; 0
 - Inland Navigation between Malta and Gozo
 by vessels in line with Port Notice No TM/PYD/PN/02/ 2021.
 0 If used for electric power generation. 0
-If used for fishing purposes as laid down by Department of Fisheries. 0 If used by rescue vessels, or vessels which render assistance for rescue purposes at sea. 0
+Fuel oil falling under HS Code 27101962 with density 0.8200 to €330 per 1000 0.8900 is to be considered as Gas Oil
+litres If used for fishing purposes as laid down by Department of Fisheries. 0 If used by rescue vessels, or vessels which render assistance for rescue purposes at sea. 0
 Gas Oil or Gas Oil blended with Biodiesel, with a sulphur €172.09 per 1000 content not exceeding 0.1% sulphur by weight if used for heating litres purposes by:
 - State and private hospitals
 - State Senior Citizen's Homes

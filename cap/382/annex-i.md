@@ -1,52 +1,49 @@
 ## ANNEX I
-## A B G
-## a n1
+## G
+## n1
 ## b n1
 ## 1
-## n..2
+## a n..2
 ## an3
-## n1
-## d an21
-## e DateTime
-## f n..2
-## g DateTime
-## 2
+## an21
+## DateTime
+## n..2
+## an13
+## an..182
+## an..65
+## an..11
+## an..10
+## f an..50
+## g a2
+## 3
 ## a an13
 ## b an..182
 ## c an..65
 ## d an..11
 ## e an..10
-## f an..50
-## g a2
-## 3
 ## 4
-## an8
-## an..16
-## an..182
-## an..65
-## an..11
-## an..10
-## an..50
-## a2
-## an..17
-## b an..255
-## 7 -
-## a an..16
-## 8
 ## a an8
+## 5
+## a an..16
+## an..17
+## a2
+## an..255
+## -
+## an..16
+## 8
 ## 9
-## an..22
-## an..35
+## a an..22
+## b an..35
+## c Date
+## d n1
 ## Date
 ## Time
-## an21
 ## 9X
-## a an..21
-## 10
-## 11
-## a n..4
-## 12 2X
-## b an..14
+## an..21
+## an8
+## n..4
+## 2X
+## an..14
 ## c an..182
 ## d an..65
 ## e an..11
@@ -54,23 +51,28 @@
 ## g an..50
 ## h a2
 ## 13
-## a n..2
 ## b an..350
-## an..14
+## c a2
+## 14
+## a an..14
+## 15
 ## 99X
+## an..35
 ## an..350
-## f an..350
-## 17 999x
-## a n..3
-## b an4
-## c n8
+## 999x
+## n..3
+## an4
+## n8
 ## d n..15,3
 ## e n..16,6
-## n..16,6
-## n..5,2
+## f n..16,6
+## g n..5,2
+## h n..5,2
+## i an..350
 ## l an..350
 ## m a2
 ## n..15
+## n..5,2
 ## u a2
 ## 17.1 99x
 ## a an2
@@ -80,19 +82,18 @@
 ## e a2
 ## f an..999
 ## 17.2
+## a n1
 ## b n..2
-## c a2
 ## 99x
 ## 9x
 ## an..4
-## G
-## DateTime
 ## d Changed Transport
 ## Arrangement
 ## e Invoice Number
 ## F Invoice Date
 ## a Destination Type Code
 ## 4 TRADER New Consignee
+## an..50
 ## 5 TRADER Place of Delivery C -"R" for Destination Type
 ## a Trader Identification
 ## b Trader Name
@@ -117,18 +118,21 @@
 ## f Complementary Information O
 ## g Complementary Information_LNG
 ## a ARC an21
+## A B G
 ## a an21
+## 2
 ## a a2
 ## 3 9x
-## a an..22
 ## 3.2
 ## 3.4
 ## 3.5
-## a an..14
+## f an..350
 ## 3.8 999x
+## a n..3
 ## b an..4
+## c n8
 ## n..15,3
-## i an..350
+## n..16,6
 ## j a2
 ## k n1
 ## o n..5,2
