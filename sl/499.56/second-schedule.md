@@ -1,5 +1,4 @@
 ## SECOND SCHEDULE
-## (3) (4) (5)
 # second-schedule
 (Regulation 11)
 PART 1
@@ -91,4 +90,3 @@ The minimum duration of each test is two hours.
 2.1 Where the Authority also organisees an oral examination, it must provide, in respect of each of the three tests, for a weighting of marks of a minimum of 25% and a maximum of 40% of the total number of marks to be given.
 2.2 Where the Authority organises only a written examination it must provide, in respect of each test, for a weighting of marks of a minimum of 40% and a maximum of 60% of the total number of marks to be given.
 3. With regard to all the tests, applicants must obtain an average of at least 60% of the total number of marks to be given, achieving in any given test not less than 50% of the total number of marks possible. In one test only, the Authority may reduce that mark from 50% to 40%.
-- Amended by: XV. 2009.49.
