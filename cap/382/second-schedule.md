@@ -29,8 +29,8 @@ FERMENTED BEVERAGES €20 per 1000 litres 1. The term 'still fermented beverages
 - have an actual alcoholic strength by volume exceeding thirteen per cent (13%) vol., but not exceeding fifteen per cent (15%) vol., provided that the alcohol contained in the product is entirely of fermented origin.
 INTERMEDIATE PRODUCTS €152.00 per hectolitre The term 'intermediate products' covers all products of an actual alcoholic strength by volume exceeding 1.2% vol., but not exceeding 22% vol., and falling within Customs Tariff Heading Nos. 2204, 2205 and 2206 but not mentioned under Beer or Wine of Fresh Grapes or Fermented Beverages above.
 NOTE: Still fermented beverages falling within the scope of paragraph 1 under Fermented Beverages which have an actual alcoholic strength exceeding 5.5% vol., and which are not entirely of fermented origin, and any sparkling fermented beverages falling within the scope of paragraph 2 under Fermented Beverages which have an actual alcoholic strength exceeding 8.5% vol., and which are not entirely of fermented origin are to be treated as Intermediate Products.
-ETHYL ALCOHOL, excluding Spirit based flavoured €0.14 per % vol. per beverages of an alcoholic content over 1.2% but not litre exceeding 7%
-Spirit based flavoured beverages of an alcoholic content €0.42 per % vol. over 1.2% but not exceeding 7% per litre
+ETHYL ALCOHOL €0.136 per % vol. per
+litre
 The term 'ethyl alcohol' covers: - all products with an actual alcoholic strength by volume exceeding 1.2% volume which fall within Customs Tariff Heading Nos. 2207 and 2208, even when those products form part of a product which falls within another chapter of the Customs Tariff,
 - products of Customs Tariff Heading Nos. 2204, 2205 and 2206 which have an actual alcoholic strength by volume exceeding 22% vol.,
 - potable spirits containing products, whether in solution or not.
@@ -73,4 +73,4 @@ To each 100 litres of which is added - 0.5% vol methyl salicylate - 2.0% vol die
 - Substituted by: VII. 1997.2; XXV. 1997.5; IV. 1998.2; IX. 2001.9; II. 2002.26; II. 2004.57.
 - Amended by: L.N. 118 of 2006.
 - Substituted by: L.N. 425 of 2007.
-- Amended by: II. 2009.33; IV. 2011.68; XXII. 2011.5; XII. 2014.71; XIII. 2015.136; XV. 2016.35; XVIII.2021.53; L.N. 177 of 2022; L.N. 43 of 2024; IX.2025.56.
+- Amended by: II. 2009.33; IV. 2011.68; XXII. 2011.5; XII. 2014.71; XIII. 2015.136; XV. 2016.35; XVIII.2021.53; L.N. 177 of 2022; L.N. 43 of 2024; IX.2025.56; III.2026.49.

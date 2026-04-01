@@ -9,15 +9,24 @@
 ## Taxpoint for wines produced in Malta.
 ## Keeping of records and accounts.
 ## Statements.
-## Affixing of band or stamp.
-## Containers to have band or stamp affixed.
-## Forfeiture.
+## Affixing of excise stamp.
+## Containers to have excise stamp affixed.
+## Holding of wine products.
+## Release of wine products.
+## Interpretation.
+## Obligation to affix excise stamp on Bag-in-Box wine.
+## Bottling of wine from Bag-in-Box containers.
+## Requirements for bottled wine.
+## Permissible container sizes.
+## Locally sourced Bag-in-Box wine.
+## Issuance and endorsement of excise stamps.
+## Delegation of endorsement functions
+## Offences and punishments.
 ## Registration.
 ## Payment of duty.
 ## Keeping of records.
 ## Accounting period.
 ## Penalty.
-## Interpretation.
 ## Annexes.
 ## Draft electronic document.
 ## Document movements.
@@ -55,26 +64,74 @@ Provided that in the latter case payment of excise duty shall be entered on the 
 (2) The authorised tax warehouse keeper shall be bound to preserve such records and accounts for six years or such shorter period as the Commissioner may allow.
 10. (1) The authorised tax warehouse keeper shall produce to the Commissioner -
 (i) a periodic statement giving details of sales or deliveries and other issues of wines released from the authorised tax warehouse during a period as determined by the Commissioner and in such form as the Commissioner may direct or as otherwise prescribed in respect to wines;
-(ii) an audited statement for each accounting period certified by a certified public auditor in respect of all production, stocks kept at the authorised tax warehouse and sales of wines made during the accounting period, and containing such information as may be prescribed in relation to wines.
-(2) The term of an accounting period shall be of six months or such longer period as the Commissioner may allow or as may otherwise be prescribed and the audited statement shall reach the Commissioner within thirty days after the end of each accounting period being reported upon.
-(3) Any person who fails to comply with the provisions of this regulation shall be guilty of an offence and shall be liable on conviction to a fine (multa) not exceeding twenty-five thousand euro (€25,000).
-11. (1) No person may manufacture, process, prepare for sale, expose or offer for sale, sell or otherwise dispose of any wine as defined in the Second Schedule in containers unless a band or stamp has been affixed as provided for in regulation 12.
+(ii) an audited statement for each accounting period in respect of all production, stocks kept at the authorised tax warehouse and sales of wines made during the accounting period, and specifying such information as may be prescribed in relation to wines;
+(2) The term of an accounting period and the submission of the statement shall be as prescribed in regulation 12 of Part A.
+(3) Repealed by Act III.2026.52.
+11. (1) No person may manufacture, process, prepare for sale, expose or offer for sale, sell or otherwise dispose of any wine as defined in the Second Schedule in containers unless an excise stamp has been affixed as provided for in regulation 12.
 (2) It shall be lawful for the Commissioner to exempt in writing from the provision of the preceding sub-regulation, under such conditions as he may deem fit to impose, any wine intended to be exported or as ship's supply or for sale to persons exempted by or under any law from the payment of excise duty.
 (3) It shall be lawful for the Commissioner to exempt in writing from the provisions of sub-regulation (1) any other wine not covered by the preceding sub-regulation, under such conditions as he may deem fit to impose.
 12. (1) No containers immediately enclosing wine shall be released by Customs or shall be released from a authorised tax warehouse unless the container has been affixed with a band or an excise stamp. This band or excise stamp shall be the correct one as indicated by the Commissioner and it shall be affixed in the correct manner as indicated by the Commissioner.
-(2) The said bands or stamps shall be of the type approved by the Commissioner and shall be supplied at the Custom House or at any other place to be appointed by the Minister through a notice in the Gazette.
-(3) Such bands or stamps shall be issued by the Commissioner against payment, as may be prescribed under the Act, on application by the authorised tax warehouse keeper or trader of wine.
-(4) The band or excise stamp shall be affixed to the container not later than five (5) days from when it is purchased, except where the band or excise stamp should be affixed by an authorised tax warehouse keeper.
-(5) (a) A registered consignor or registered consignee who fails to affix the band or excise stamp within five (5) days from when it is purchased, except for an authorised tax warehouse keeper, shall, on conviction, be liable to a fine (multa) of one-hundred euro (€100) and the Court shall also order the forfeiture of the bands or excise stamps that have not been affixed within the given time. In addition to this, the forfeiture of the wine itself shall also take place according to law, as applicable.
-(b) In the case of an irregularity mentioned in paragraph
-(a), the Commissioner, while he forfeits the bands or excise stamps not affixed within the given time, may, if the offender admits, refrain from instituting proceedings in terms of this Act and impose a penalty equivalent to one-hundred euro (€100). In addition to this, the forfeiture of the wine itself shall also take place according to law, as applicable.
-(6) (a) Every authorised tax warehouse keeper who takes out of the authorised tax warehouse wine on which a band or excise stamp was not affixed according to law, shall, on conviction, be liable to a fine (multa) of one-hundred euro (€100) and the Court shall also order the forfeiture of the bands or excise stamps that had to be affixed to those goods. In addition to this, the forfeiture of the wine itself shall also take place according to law, as applicable.
-(b) In the case of an irregularity mentioned in paragraph
-(a), the Commissioner, while he forfeits the bands or excise stamps that had to be affixed to the wine, may, if the offender admits, refrain from instituting proceedings in terms of this Act and impose a penalty equivalent to one-hundred euro (€100). In addition to this, the forfeiture of the wine itself shall also take place according to law, as applicable.
-(7) (a) Excluding people who are authorised, every person who has in his possession excise stamps or bands shall be liable, on conviction, to a fine (multa) of two hundred and fifty euro (€250) and the Court shall order the forfeiture of those excise stamps or bands. In addition, the forfeiture of the excisable goods themselves shall also take place, according to law, as applicable.
-(b) In the case of an irregularity mentioned in paragraph
-(a), the Commissioner, while he forfeits the bands or excise stamps that remained unaffixed, may, if the offender admits, refrain from instituting proceedings in terms of this Act and impose a penalty equivalent to two-hundred and fifty euro (€250). In addition to this, the forfeiture of the wine itself shall also take place according to law, as applicable.
-13. Any quantity of wine products found in the possession of any person in contravention to the provisions of regulations 11 or 12 shall, without prejudice to any other penalty provided for under the Act or any other law, be forfeited to Government.
+(2) The said excise stamps shall be of the type approved by the Commissioner and shall be supplied at the Custom House or at any other place to be appointed by the Minister through a notice in the Gazette.
+(3) Such excise stamps shall be issued by the Commissioner against payment, as may be prescribed under the Act, on application by the authorised tax warehouse keeper or trader of wine.
+(4) The provisions of paragraphs (a) and (b) of regulation 13(6) of Part A of the Sixth Schedule shall apply mutatis mutandis.
+(5) The provisions of paragraphs (a) to (d) of regulation 13(7) of Part A of the Sixth Schedule shall apply mutatis mutandis.
+(6) The provisions of paragraphs (a) and (b) of regulation 13(8) of Part A of the Sixth Schedule shall apply mutatis mutandis.
+(7) The provisions of paragraphs (a) and (b) of regulation 13(9) of Part A of the Sixth Schedule shall apply mutatis mutandis.
+13. (a) Any quantity of wine products found in the possession of any person in contravention of regulations 11 or 12 shall be withheld and the provisions of article 27 et seq of the Act shall apply, and this without prejudice to any other penalty provided for in accordance with the Act or any other law.
+(b) Any excise stamp which was not affixed within the prescribed time according to law, as applicable and which is found in the possession of any person in contravention of these regulations, shall be withheld and the provisions of article 27 et seq of the Act shall apply and this without prejudice to any other penalty provided for in accordance with the Act or any other law.
+14. The provisions of regulations 13A and 13B of Part A of this Schedule shall apply mutatis mutandis.
+PART FA
+Bag-in-Box Regulations
+1. The title of these regulations is the Bag-in-Box Wine Regulations.
+2. In these regulations, unless the context otherwise requires:
+"Act" means the Excise Duty Act;
+"Bag-in-Box unit" means a packaging format for wine
+comprising a flexible inner bag contained within a rigid outer box;
+"competent authority" means the office, entity or person
+designated by the Commissioner for the administration
+and enforcement of excise stamps;
+"economic operator" means any person, whether natural or
+legal, involved in the production, bottling, acquisition, importation or distribution of wine chargeable with excise duty;
+"excise stamp" means the excise duty stamp issued or
+approved by the Commissioner in accordance with the provisions of the Act and any regulations made thereunder.
+3. (1) Every unit of Bag-in-Box wine intended for retail or commercial distribution, irrespective of its origin, shall bear a single excise stamp affixed in accordance with the instructions issued by the Commissioner.
+(2) No notification shall be required when such product is sold in its original Bag-in-Box format.
+4. (1) An economic operator who intends to bottle wine from a Bag-in-Box unit shall:
+(a) apply for an excise stamp for each original Bag-in-Box unit; and
+(b) submit such documentation as the Commissioner may require, including but not limited to an invoice, a
+declaration and evidence of lawful acquisition.
+(2) Following approval of the application referred to in sub-regulation (1), the economic operator shall notify the Commissioner of the intention to carry out bottling operations.
+(3) Such notification shall specify:
+(a) the capacity of the containers intended for use, which shall be limited to:
+(i) five hundred millilitres (500ml); or
+(ii) one litre (1l); and
+(b) the number of bottles which shall be produced for each Bag-in-Box unit.
+(4) The economic operator shall request the issuance of additional excise stamps in proportion to the declared number of bottles, in such manner and form as may be prescribed by the Commissioner.
+5. (1) Wine derived from Bag-in-Box units shall be bottled exclusively in screw-cap sealed containers.
+(2) The use of cork or any other sealing mechanism shall be strictly prohibited.
+6. (1) All container sizes for bottling wine in accordance with these regulations shall be of:
+(a) five hundred millilitres (500ml); or
+(b) one litre (1l).
+(2) No other container sizes shall be permitted.
+7. In the case of an economic operator who acquires Bag-in-Box wine units from a local authorised source, the following shall apply:
+(a) the operator shall furnish to the Commissioner:
+(i) a valid invoice issued by the supplier; and
+(ii) photographic or documentary evidence of the
+excise stamp affixed on the Bag-in-Box unit,
+including the visible serial number;
+(b) the economic operator shall also notify the Commissioner of:
+(i) the intention to bottle the said product;
+(ii) the number of bottles which shall be produced;
+and
+(iii) the size of the containers which shall be utilised
+in accordance with regulation 6(1).
+8. (1) Additional excise stamps shall be collected by the economic operator from such issuing office or authority as may be designated by the Commissioner.
+(2) Excise stamps shall be endorsed and validated prior to their affixation on bottled containers.
+(3) No administrative or service fee shall be charged for such endorsement, except for the cost of the excise stamp itself.
+9. (1) The Commissioner may delegate the endorsement of excise stamps to an external entity or authority, for the purposes of administrative efficiency.
+(2) Endorsements carried out by such entity shall be deemed to have the same legal validity as if issued by the Commissioner.
+10. (1) Any person who breaches or fails to comply with the provisions of these regulations shall be guilty of an offence as prescribed in the Act.
+(2) Without prejudice to any other punishment established in the Act, any economic operator who bottles or places wine on the market from Bag-in-Box units in breach of these regulations or without the designated excise stamps, shall be liable to such punishments, sanctions and forfeitures in accordance with the Act or any regulations made thereunder.
 PART G
 Mobile Telephony Services Regulations
 1. The title of these regulations is the Mobile Telephony Services Regulations.
@@ -90,8 +147,14 @@ Provided also that no excise duty shall be due on the following services:
 5. The person, firm, partnership or company who is duly registered with the Commissioner shall be responsible for the payment of excise duty as specified in article 3 of the Act at the time payment of excise duty becomes due.
 6. (1) The records of the revenues generated by the services which are subject to excise duty by virtue of these regulations shall be made available to the Commissioner for any necessary verifications.
 (2) A periodic statement which gives details of revenues generated by the services subject to excise duty by virtue of these regulations shall be provided to the Commissioner for any period that may be determined by the Commissioner.
-(3) The term of an accounting period shall be three months or such longer period as the Commissioner may allow or as otherwise be prescribed and a return shall reach the Commissioner within thirty days after the end of each accounting period being reported upon.
+(3) The term of an accounting period and submission of the return shall be as prescribed in regulation 12 of Part A of the Sixth Schedule.
 (4) Any person who fails to comply with the provisions of these regulations shall be guilty of an offence and shall be liable on conviction to a fine (multa) not exceeding twenty-five thousand euro (€25,000).
+(5) Any person who fails to submit the statement within the prescribed period of fifteen (15) days shall be liable to an administrative penalty of one hundred euro (€100) per month (1) or part thereof until the statement is submitted, which in any case shall not be later than three (3) months following the lapse of the said prescribed period of fifteen (15) days.
+(6) In the case of any breach referred to in sub-regulation (5) the Commissioner may, if the offender admits, refrain from instituting proceedings in accordance with the Act and shall impose an administrative penalty of two thousand euro (€2,000). In addition to this, the submission of the said payment shall also be required to be made according to law, as applicable.
+(7) (a) The payment of the relative duty indicated in the statements submitted to the Commissioner as prescribed shall be effected by not later than fifteen (15) days from the submission of the statement.
+(b) Any person who fails to pay the duty within the prescribed period of fifteen (15) days from the submission of the statement, shall be liable to an administrative penalty of one hundred euro (€100) per month (1) or part thereof until the payment is effected which shall in any case not be later than three (3) months.
+(c) Any person who fails to observe the provisions of these regulations shall be guilty of an offence and shall be liable on conviction to a fine (multa) in accordance with the provisions of article 16 of the Act, as applicable.
+(d) In case of an irregularity referred to in paragraph (c), the Commissioner may, if the offender admits, refrain from instituting proceedings in accordance with the Act and impose an administrative penalty in accordance with article 16A of the Act. In addition to this, the submission of the said payment shall also be required to be made according to law, as applicable.
 PART H
 Electronic Administrative Document (Excisable Goods)
 Regulations
@@ -195,9 +258,15 @@ Provided that when the data in the electronic administrative document have been 
 (4) Where appropriate evidence has been accepted by the Commissioner, it shall end the movement in the computerised system.
 15. (1) The Commissioner may establish simplified procedures in respect of movements of excisable goods under a duty suspension arrangement which take place within Maltese territory, including the possibility to waive the requirement of electronic supervision of such movement.
 The Minister, after consulting the Commissioner, may enter into an agreement with other Member States, to establish more simplified procedures for excisable goods that move under a duty suspension arrangement and their movement between Malta and any other two or more Member States occurs frequently and regularly.
-- Amended by: XVI.2017.80; VIII.2020.66; XVIII.2021.55; VII.2022.66.
+- Amended by: XVI.2017.80; VIII.2020.66; XVIII.2021.55; VII.2022.66; III.2026.52.
 - Added by: XVIII.2021.55.
-- Amended by: XVI. 2017.80; VIII.2020.66; XVIII.2021.55; VII.2022.66.
+- Amended by: III.2026.52.
+- Amended by: XVI. 2017.80; VIII.2020.66; XVIII.2021.55; VII.2022.66; III.2026.52.
+- Substituted by: III.2026.52.
+- Added by: III.2026.52.
+- Added by: III.2026.52.
+- Amended by: III.2026.52.
+- Amended by: III.2026.52.
 - Amended by: XII.2023.56.
 - Amended by: L.N. 50 of 2023.
 - Amended by: L.N. 50 of 2023.
@@ -206,6 +275,7 @@ The Minister, after consulting the Commissioner, may enter into an agreement wit
 - See Cap. 436.
 - See Cap. 436.
 - See Cap. 436.
+- See Cap. 382.
 - See Cap. 382.
 - See Cap. 399.
 - See Cap. 382.

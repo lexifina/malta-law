@@ -20,7 +20,7 @@ PART I
 1. The title of these regulations is Beer Regulations.
 2. These regulations apply to beer as defined in the Second Schedule.
 3. In these regulations, except where the context otherwise requires -
-"accounting period" means the six monthly period at the end of which a reconciliation and stocktaking exercise is performed with the purpose of accounting for the worts and beers produced during that period;
+"accounting period" means the calendar month at the end of which a reconciliation and stocktaking exercise is performed with the purpose of accounting for the worts and beers produced during such period;
 "the Act" means the Excise Duty Act; and
 "release for consumption" shall be taken to mean the making available to a natural or legal person, on the territory of Malta, of any beer subject to excise duty, when the beer leaves any arrangement made with the Commissioner in accordance with these regulations under which payment of excise duty is suspended; and, any reference to an arrangement where duty is kept in suspension shall be taken to refer to an arrangement made in accordance with these regulations, whereby beer may be kept or moved under specified conditions without payment of duty.
 PART II
@@ -68,7 +68,7 @@ PART V
 PART VI
 11. (1) Subject to the provision of sub-regulation (2) the quantity of beer produced which is chargeable with duty shall be that which the worts made were intended to yield as finished beer after making allowance for wastage. This allowance shall be 10% of the liquid volume of the wort after it is brought to the level of the original gravity of the intended beer.
 (2) Duty on the quantity of beer released for consumption in a specified period shall be assessed, according to article 3 of the Act, on the volume in hectolitres of beer as determined at time of release for consumption, even if such quantity exceeds the quantity of beer calculated in terms of sub-regulation (1) to have been produced in relation to the same period.
-(3) Monthly payments of excise duty on beer shall be entered on the proper duty form and remitted to the Commissioner within five days following the last Sunday of each calendar month in settlement of all duty due up to that Sunday, on the quantity of beer released for consumption during that period.
+(3) Monthly (1) payments of excise duty on beer shall be entered on the prescribed duty form and shall be submitted to the Commissioner as prescribed in regulation 16(2) of Part A on the quantity of beer released for consumption during such period.
 (4) For the purpose of excise duty, the alcoholic content of the final product shall be expressed as a percentage of the actual alcoholic strength by volume.
 (5) No beer shall be released for consumption or for free circulation unless the original gravity and, or, alcohol by volume and the volume of the beer are denoted on the immediate package.
 (6) For the purpose of payment of duty on beer in accordance with this Act, the volume and the actual alcoholic strength by volume expressed as a percentage of the beer released for consumption or for free circulation, shall be the highest of:
@@ -79,13 +79,11 @@ relating to the sale or delivery of the beer;
 (7) Deleted by Act IX.2025.60.
 PART VII
 12. The brewer shall keep records and accounts containing the details specified in Schedule I to these regulations and shall be bound to preserve such records for six years or such shorter period as the Commissioner may allow.
-13. The brewer shall produce to the Commissioner -
-(a) on the first working day after each Sunday, a weekly statement giving details of all sales or deliveries and other issues of beer released from the brewery during the preceding week and the balance of stocks of beer held at the brewery in such form as may be determined by the Commissioner, and
-(b) six monthly statement for each accounting period as
-specified in the next following sub-paragraph:
-(i) accounting periods shall be of six months, each commencing on the 1st day of April and on the 1st day of October of each year, unless otherwise agreed between the brewer and the Commissioner;
-(ii) not later than thirty days after the end of each accounting period, the brewer shall prepare and produce to the Commissioner a statement which shall be accompanied by a report made by an independent certified public auditor in respect of the production of all worts and the production, stocks kept at the brewery and sales of beer for the accounting period being reported upon, containing the information specified in Schedule
-II to these regulations.
+13. The brewer shall submit to the Commissioner a monthly (1) statement for each accounting period as specified in the following paragraphs:
+(i) accounting periods shall be of one (1) calendar month each, as specified by the Commission in accordance with regulation 16(1) of Part A;
+(ii) not later than fifteen (15) days following the end of
+each accounting period, the brewer shall together with the statement prepare and submit a report in respect of the production of all worts and the production, stocks kept at the brewery and sales of beer for the accounting period being reported upon, specifying the
+information mentioned in Schedule II.
 14. (1) Beer, in respect to a specified accounting period, shall be deemed unaccounted for and therefore chargeable with duty when a surplus results after subtracting the sum of:
 (a) the quantity of beer reported as released for consumption;
 (b) the quantity of beer released for shipment as described in article 14 of the Act;
@@ -94,6 +92,8 @@ II to these regulations.
 (e) other quantity, if any, of beer recorded as having been mixed with non-alcoholic beverage from the quantity of beer the worts were considered to yield as described in regulation 11(1) in respect to the same period.
 (2) In the event, of a discrepancy which may result after comparing the quantities of beer produced with that issued from the brewery whereby a quantity of beer is found to be unaccounted for in terms of sub-regulation (1), the Commissioner may, without any prejudice to any other action which may be taken against the brewer or any other person in view of the provisions of the Act or any other law, allow the brewer to pay such sum of money as is equivalent to the duty due on such discrepancy.
 - Amended by: IX.2025.61.
-- Amended by: IX.2025.60.
+- Amended by: IX.2025.60; III.2026.52.
+- Amended by: III.2026.52.
 - Added by: XVIII.2021.55.
-- Amended by: L.N. 43 of 2024; IX.2025.60.
+- Amended by: L.N. 43 of 2024; IX.2025.60; III.2026.52.
+- Substituted by: III.2026.52.
