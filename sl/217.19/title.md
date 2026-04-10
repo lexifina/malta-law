@@ -1,6 +1,6 @@
 SUBSIDIARY LEGISLATION 217.19
 DETENTION SERVICE REGULATIONS
 15th January, 2016
-LEGAL NOTICE 16 of 2016, as amended by Legal Notice 330 of 2020.
+LEGAL NOTICE 16 of 2016, as amended by Legal Notices 330 of 2020 and 90 of 2026.
 PART I
 Preliminary
