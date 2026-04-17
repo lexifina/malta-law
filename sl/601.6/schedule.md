@@ -1,4 +1,5 @@
 ## SCHEDULE
+## *
 # schedule
 Regulation 4
 Information for the implementation of minimum procurement targets for clean road
@@ -21,7 +22,7 @@ emissions as a emissions as a
 percentage of emission percentage of
 limits emission limits M1 50 80% 0 n.a. M2 50 80% 0 n.a. N1 50 80% 0 n.a.
 . .
-[S.L.601.06 ROAD TRANSPORT VEHICLES 5
+[S.L.601.06 6 ROAD TRANSPORT VEHICLES
 Table 3: Minimum procurement targets for the share of clean light-duty vehicles in accordance with Table 2 in the total number of light-duty vehicles by contracts referred
 to in regulation 4
 From 2nd August 2021 to From 1st January 2026 to
