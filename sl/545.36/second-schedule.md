@@ -11,11 +11,10 @@ issued by the Regulator and an indication that the guarantee is being issued by 
 period to which the guarantee of origin relates.
 5. The place where the electricity or energy in respect of
 which the guarantee of origin being requested was produced, the name of the plant, if any, and the date on which the installation became operational.
-6. The total quantity of electricity or energy over the period
-to which the guarantee of origin relates.
-7. The energy source or sources from which the electricity
-or energy was produced. HIGH-EFFICIENCY COGENERATION AND OF ENERGY
+6. The total quantity of electricity or energy over the period HIGH-EFFICIENCY COGENERATION AND OF ENERGY
 [S.L. 545.36 FROM RENEWABLE ENERGY SOURCES 11
+to which the guarantee of origin relates.
+7. The energy source or sources from which the electricity or energy was produced.
 8. The declared net capacities of the installation with respect to each source of energy from which the electricity or energy was produced.
 9. In the case of electricity produced from high-efficiency cogeneration:
 (a) the lower calorific value of the source of fuel from

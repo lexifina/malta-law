@@ -14,11 +14,11 @@ the First and Second Schedules to the Energy Efficiency Regulations;
 (b) the primary source of fuel from which the
 electricity was produced;
 (c) the heat to power ratio of the plant; and
+HIGH-EFFICIENCY COGENERATION AND OF ENERGY [S.L. 545.36 10 FROM RENEWABLE ENERGY SOURCES
 (d) the amount of useful heat being utilised during the
 period for which the application is being submitted.
-8. Where energy in respect of which an application for the issuing of a guarantee of origin is being submitted was produced from
-HIGH-EFFICIENCY COGENERATION AND OF ENERGY [S.L. 545.36 10 FROM RENEWABLE ENERGY SOURCES
-renewable energy sources:
+8. Where energy in respect of which an application for the
+issuing of a guarantee of origin is being submitted was produced from renewable energy sources:
 (a) the energy source from which the energy was
 produced; and
 (b) the declared net capacities of the installation, with
