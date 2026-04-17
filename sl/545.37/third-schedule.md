@@ -1,10 +1,10 @@
 ## THIRD SCHEDULE
 # third-schedule
-Part A
-PROVISIONAL ESTIMATED INDIRECT LAND-USE CHANGE EMISSIONS FROM BIOFUEL, BIOLIQUID AND BIOMASS FUEL FEEDSTOCK (g CO2eq/MJ) (Note 1)
+Part A PROVISIONAL ESTIMATED INDIRECT LAND-USE CHANGE EMISSIONS FROM BIOFUEL, BIOLIQUID AND BIOMASS FUEL FEEDSTOCK (g CO2eq/MJ) (Note 1)
 Interpercentile range derived
 Mean (1) Feedstock group
 from the sensitivity analysis (2)
+[S.L. 545.37 80 (SUSTAINABILITY CRITERIA)
 Cereals and other 12 8 to 16 starch-rich crops Sugars 13 4 to 17
 Oil crops 55 33 to 66
 (1)The mean values included here represent a weighted average of the individually modelled

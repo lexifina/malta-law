@@ -1,4 +1,5 @@
 ## SIXTH SCHEDULE
+## 1 This cap shall not apply to fuels types which are identified as being high indirect land-use change-risk bio- fuels, bioliquids or biomass fuels produced from food and feed crops for which a significant expansion of the production area into land with high-carbon stock is observed, in line with Commission Delegated Regu- lation (EU) 2019/807, but which are certified to be low indirect land-use change- risk biofuels, bioliquids or biomass fuels in line with the provisions of the same regulation.
 # sixth-schedule
 Regulation 33(1)
 D E1 A B C

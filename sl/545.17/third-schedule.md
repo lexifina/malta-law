@@ -2,3 +2,4 @@
 # third-schedule
 Regulation 30(1)
 Gas Oil falling within CN Code 2710.19.45.00 shall be marked with CI Solvent Yellow 174 dye added in not less than such a quantity that gives a colour intensity when measured in a spectrophotometer at 430 ± 10nm, corresponding to 5 mg of CI Solvent Yellow 174 as defined in the Colour Index per litre of mineral oil.
+- Substituted by: L.N. 100 of 2012.

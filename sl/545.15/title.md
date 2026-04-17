@@ -2,4 +2,4 @@ SUBSIDIARY LEGISLATION 545.15
 BIOFUELS AND BIOLIQUIDS MARKET
 REGULATIONS
 13th March, 2012
-LEGAL NOTICE 85 of 2012, as amended by Legal Notice 184 of 2012; and Act XXV of 2015, Legal Notices 503 and 505 of 2021.
+LEGAL NOTICE 85 of 2012, as amended by Legal Notice 184 of 2012; and Act XXV of 2015, Legal Notices 503 and 505 of 2021 and 95 of 2026.
