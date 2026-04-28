@@ -3,12 +3,10 @@
 (regulation 19)
 MINIMUM HEALTH AND SAFETY REQUIREMENTS
 FOR CONSTRUCTION SITES
-Preliminary remarks
-The obligations laid down in this Schedule apply wherever
-required by the features of the construction site, the activity, the circumstances or a hazard. For the purposes of this Schedule, "rooms"
 AND SAFETY REQUIREMENTS FOR WORK AT
 [S.L. 646.27 CONSTRUCTION SITES) 21
-covers, inter alia, hutted accommodation.
+Preliminary remarks
+The obligations laid down in this Schedule apply wherever required by the features of the construction site, the activity, the circumstances or a hazard. For the purposes of this Schedule, "rooms" covers, inter alia, hutted accommodation.
 PART A: GENERAL MINIMUM REQUIREMENTS FOR ON-
 SITE WORKPLACES
 1. Stability and solidity
@@ -29,10 +27,11 @@ workers to evacuate all workstations quickly and as safely as possible.
 3.3. The number, distribution and dimensions of
 emergency routes and exits depend on the use, equipment and dimensions of the site and of the rooms and the maximum number of persons that may be present.
 3.4. Specific emergency routes and exits shall be
-indicated by signs in accordance with the Work Place, (Provisions of Health and, or Safety Signs) Regulations (S.L. 646.09.).
+indicated by signs in accordance with the Work Place, (Provisions of Health and, or Safety Signs) Regulations (S.L.
+AND SAFETY REQUIREMENTS FOR WORK AT [S.L. 646.27 22 CONSTRUCTION SITES)
+646.09.).
 Such signs shall be sufficiently resistant and be
 placed at appropriate points.
-AND SAFETY REQUIREMENTS FOR WORK AT [S.L. 646.27 22 CONSTRUCTION SITES)
 3.5. Emergency routes and exits, and the traffic routes
 and doors giving access to them shall be free from and obstruction so that they can be used at any time without hindrance.
 3.6. Emergency routes and exits requiring illumination
@@ -55,10 +54,10 @@ maintained in working order and shall not expose workers to draughts which are h
 5.3 Any breakdown shall be indicated by a control
 system where this is necessary for workers' health.
 6. Exposure to particular risks
-6.1 Workers shall not be exposed to harmful levels of
-noise or to harmful external influences (e.g. gases, vapours, dust).
 AND SAFETY REQUIREMENTS FOR WORK AT
 [S.L. 646.27 CONSTRUCTION SITES) 23
+6.1 Workers shall not be exposed to harmful levels of
+noise or to harmful external influences (e.g. gases, vapours, dust).
 6.2 If workers have to enter an area where the
 atmosphere may contain a toxic or harmful substance or to have an insufficient oxygen level or to be inflammable, the confined atmosphere shall be monitored and appropriate steps taken to prevent any hazard.
 6.3 A worker may not in any circumstances be
@@ -78,10 +77,10 @@ workers are especially exposed to risks in the event of artificial lighting, sha
 9.1. Sliding doors shall be fitted with a safety device
 to prevent them from being derailed and falling over.
 9.2. Doors and gates opening upwards shall be fitted
+AND SAFETY REQUIREMENTS FOR WORK AT [S.L. 646.27 24 CONSTRUCTION SITES)
 with a mechanism to secure them against falling back.
 9.3. Doors and gates along escape routes shall be
 appropriately marked.
-AND SAFETY REQUIREMENTS FOR WORK AT [S.L. 646.27 24 CONSTRUCTION SITES)
 9.4. In the immediate vicinity of gates intended
 primarily for vehicle traffic, there shall be doors for pedestrian traffic unless it is safe for pedestrians to cross; such doors shall
 be clearly marked and kept free at all times.
@@ -104,10 +103,10 @@ shall be equipped with devices to prevent unauthorised workers from entering.
 Appropriate measures shall be taken to protect workers
 who are authorised to enter the danger areas.
 Danger areas shall be clearly signposted.
-10.5. Sufficient safe means of access and egress shall
-be provided and maintained to and from every workplace at which any person has at any time to perform any work and every such place shall be made and kept safe for any person working and, or being present there.
 AND SAFETY REQUIREMENTS FOR WORK AT
 [S.L. 646.27 CONSTRUCTION SITES) 25
+10.5. Sufficient safe means of access and egress shall
+be provided and maintained to and from every workplace at which any person has at any time to perform any work and every such place shall be made and kept safe for any person working and, or being present there.
 11. Loading bays and ramps
 11.1. Loading bays and ramps shall be adequate for the
 dimensions of the loads to be transported.
@@ -132,10 +131,10 @@ where working conditions so require.
 This equipment shall be properly marked and easily
 accessible.
 The address and telephone number of the local
+AND SAFETY REQUIREMENTS FOR WORK AT [S.L. 646.27 26 CONSTRUCTION SITES)
 emergency service shall be clearly displayed.
 14. Sanitary equipment
 14.1. Changing rooms and lockers.
-AND SAFETY REQUIREMENTS FOR WORK AT [S.L. 646.27 26 CONSTRUCTION SITES)
 14.1.1. Appropriate changing rooms shall be
 provided for workers if they have to wear special work clothes and if, for reasons of health or propriety, they cannot be expected to change in another area.
 Changing rooms shall be easily accessible, be of
@@ -159,11 +158,13 @@ rooms or separate use of shower rooms for different genders.
 large to permit each worker to wash without hindrance in conditions of an appropriate standard of hygiene.
 The showers shall be equipped with hot and cold
 running water.
-14.2.3. Where showers are not required as
-required by the first paragraph of item 14.2.1, a sufficient number of suitable washbasins with running water (hot water if necessary) shall be provided in the vicinity of the
-workstations and the changing rooms.
 AND SAFETY REQUIREMENTS FOR WORK AT
 [S.L. 646.27 CONSTRUCTION SITES) 27
+14.2.3. Where showers are not required as
+required by the first paragraph of item 14.2.1, a sufficient
+number of suitable washbasins with running water (hot
+water if necessary) shall be provided in the vicinity of the
+workstations and the changing rooms.
 Provisions shall be made for separate
 washbasins, or separate use of washbasins for different
 genders when so required.
@@ -184,10 +185,10 @@ facilities shall be provided in which workers can stay during interruptions in w
 exceptional cases, shall have sufficient sanitary equipment, a rest room and a leisure room.
 They shall be equipped with beds, cupboards, tables and
 seats with backs taking account of the number of workers, and be allocated taking account, where appropriate, of the presence of workers of different genders.
+AND SAFETY REQUIREMENTS FOR WORK AT [S.L. 646.27 28 CONSTRUCTION SITES)
 15.5. Appropriate measures shall be taken for the
 protection of non-smokers against discomfort caused by tobacco smoke in rest rooms and or accommodation areas.
 16. Pregnant women and nursing mothers
-AND SAFETY REQUIREMENTS FOR WORK AT [S.L. 646.27 28 CONSTRUCTION SITES)
 Pregnant women and nursing mothers shall be able to lie down
 to rest in appropriate conditions.
 17. Disabled workers
@@ -212,12 +213,11 @@ If special situations so dictate, the classification of these
 minimum requirements into two sections, as below, shall not be regarded as binding.
 Section I: On-site indoor workstations
 1. Stability and solidity
-Premises shall have a structure and stability appropriate to the
-nature of their use.
-2. Emergency doors
-Emergency doors shall open outwards.
 AND SAFETY REQUIREMENTS FOR WORK AT
 [S.L. 646.27 CONSTRUCTION SITES) 29
+Premises shall have a structure and stability appropriate to the nature of their use.
+2. Emergency doors
+Emergency doors shall open outwards.
 Emergency doors shall not be so locked or fastened that they cannot be easily and immediately opened by any person who may require to use them in an emergency.
 Sliding or revolving doors shall not be permitted if intended as emergency exits.
 3. Ventilation
@@ -235,10 +235,11 @@ bumps, holes or slopes and shall be fixed, stable and not slippery.
 6.2. The surfaces of floors, walls and ceilings in rooms
 shall be such that they can be cleaned or refurbished to an appropriate standard of hygiene.
 6.3. Transparent or translucent walls, in particular all-
-glass partitions, in rooms or in the vicinity of workplaces and traffic routes shall be clearly indicated and made of safety material or be shielded from such places or traffic routes to prevent workers from coming into contact with walls or being injured should the walls shatter.
+glass partitions, in rooms or in the vicinity of workplaces and traffic routes shall be clearly indicated and made of safety
+AND SAFETY REQUIREMENTS FOR WORK AT [S.L. 646.27 30 CONSTRUCTION SITES)
+material or be shielded from such places or traffic routes to prevent workers from coming into contact with walls or being injured should the walls shatter.
 7. Windows and skylights
 7.1. It shall be possible for workers to open, close,
-AND SAFETY REQUIREMENTS FOR WORK AT [S.L. 646.27 30 CONSTRUCTION SITES)
 adjust or secure windows, skylights and ventilators in a safe manner.
 When open, they shall not be positioned so as to
 constitute a hazard to workers.
@@ -264,11 +265,11 @@ Escalators and travelators shall function safely. They
 shall be equipped with any necessary safety devices. They shall be fitted with easily identifiable and accessible emergency shut-down devices.
 11. Room dimensions and air space in rooms
 Workrooms shall have sufficient surface area and height
+AND SAFETY REQUIREMENTS FOR WORK AT
+[S.L. 646.27 CONSTRUCTION SITES) 31
 to allow workers to perform their work without risk to their safety, health or well-being.
 Section II: On-site outdoor workstations
 1. Stability and solidity.
-AND SAFETY REQUIREMENTS FOR WORK AT
-[S.L. 646.27 CONSTRUCTION SITES) 31
 1.1. High-level or low-level movable or fixed
 workstations shall be solid and stable, taking account of:
 - the number of workers occupying them;
@@ -291,11 +292,12 @@ power lines exist, either they shall be redirected away from the area of the sit
 If this is not possible, there will be barriers or
 notices to ensure that vehicles and installations are kept away. Adequate warnings and suspended protections shall be provided where vehicles have to pass beneath the lines.
 3. Atmospheric influences
-Workers shall be protected against atmospheric influences which may affect their health and safety.
+Workers shall be protected against atmospheric influences
+AND SAFETY REQUIREMENTS FOR WORK AT [S.L. 646.27 32 CONSTRUCTION SITES)
+which may affect their health and safety.
 4. Falling objects
 4.1. Wherever technically feasible, workers shall be
 protected by collective methods against falling objects.
-AND SAFETY REQUIREMENTS FOR WORK AT [S.L. 646.27 32 CONSTRUCTION SITES)
 4.2 Materials and equipment shall be laid out or
 stacked in such a way as to prevent their collapsing or overturning.
 4.3. Where necessary, there shall be covered
@@ -314,9 +316,9 @@ because of the nature of the work, suitable means of access shall be provided an
 5.4 Protection railings, barriers or other form of
 protection shall be fitted around stairwells, stairs, shafts, balconies, edges, openings and in all other areas where any person may fall a distance liable to cause injury, or to fall into any liquid or material so as to involve risk of drowning or serious injury.
 5.5 Protection railings, barriers or other form of
-protection shall be of good construction, of suitable and sound material, of adequate height, and of adequate strength for the purpose of which are used. Protection railings, barriers or other form of protection shall be placed as to prevent as far as possible the fall of persons. Where coverings are used, these shall be so construed as to prevent the fall of persons, materials or articles, which covering shall be clearly and boldly marked to show its purpose, be securely fixed in position, be of good AND SAFETY REQUIREMENTS FOR WORK AT
+protection shall be of good construction, of suitable and sound material, of adequate height, and of adequate strength for the AND SAFETY REQUIREMENTS FOR WORK AT
 [S.L. 646.27 CONSTRUCTION SITES) 33
-construction and of adequate strength for the purpose for which are used.
+purpose of which are used. Protection railings, barriers or other form of protection shall be placed as to prevent as far as possible the fall of persons. Where coverings are used, these shall be so construed as to prevent the fall of persons, materials or articles, which covering shall be clearly and boldly marked to show its purpose, be securely fixed in position, be of good construction and of adequate strength for the purpose for which are used.
 6. Scaffolding and ladders
 6.1. All scaffolding shall be properly designed, constructed and maintained to ensure that it does not collapse or move accidentally.
 6.2. Work platforms, gangways and scaffolding stairways shall be constructed, dimensioned, protected and used in such a way as to prevent people from falling or being exposed to falling objects.
@@ -333,11 +335,11 @@ exposure to bad weather or seismic tremors, or any other circumstance which may 
 sufficiently strong for the use to which they are put;
 (b) correctly installed and used;
 (c) maintained in good working order;
+AND SAFETY REQUIREMENTS FOR WORK AT [S.L. 646.27 34 CONSTRUCTION SITES)
 (d) verified and subjected to periodic tests and
 inspections in accordance with current legislation;
 (e) operated by qualified workers who have
 received appropriate training.
-AND SAFETY REQUIREMENTS FOR WORK AT [S.L. 646.27 34 CONSTRUCTION SITES)
 7.2. All lifting devices and accessories shall clearly
 display their maximum load values.
 7.3. Lifting equipment and accessories may not be
@@ -363,12 +365,12 @@ hand tools whether power-driven or otherwise, shall be:
 (a) properly designed and constructed taking
 accounts, as far as possible, of the principle of ergonomics;
 (b) kept in good working order;
+AND SAFETY REQUIREMENTS FOR WORK AT
+[S.L. 646.27 CONSTRUCTION SITES) 35
 (c) used solely for the work for which they
 were designed;
 (d) operated by workers who have received
 appropriate training.
-AND SAFETY REQUIREMENTS FOR WORK AT
-[S.L. 646.27 CONSTRUCTION SITES) 35
 9.2. Installations and equipment under pressure shall
 be examined and subjected to regular tests and inspections in accordance with existing legislation.
 10. Excavations, wells, underground works, tunnels and earthworks
@@ -395,11 +397,11 @@ Where the demolition of a building or construction may present a danger:
 shall be adopted;
 (b) the work shall be planned and undertaken only
 under the supervision of a competent person.
-12. Metal or concrete frameworks, shutterings and heavy prefabricated components.
-12.1. Metal or concrete frameworks and their
-components, shutterings, prefabricated components or temporary support, and buttresses shall be erected and
 AND SAFETY REQUIREMENTS FOR WORK AT [S.L. 646.27 36 CONSTRUCTION SITES)
-dismantled only under the supervision of a competent person.
+12. Metal or concrete frameworks, shutterings and heavy
+prefabricated components.
+12.1. Metal or concrete frameworks and their
+components, shutterings, prefabricated components or temporary support, and buttresses shall be erected and dismantled only under the supervision of a competent person.
 12.2. Adequate precautions shall be taken to protect
 workers against risks arising from the temporary fragility or instability of a structure.
 12.3. Shutterings, temporary supports and buttresses
