@@ -113,5 +113,3 @@ affiliated undertaking, where article 213B(6) applies.
 14. Undertakings shall deliver the report on income tax information and the statement published by them in accordance with paragraph 12 to the Registrar for registration within fourteen (14) days from such publication, which report and statement are to be made accessible to the public in an electronic reporting format which is machine-readable, on the website of the register, and free of charge to any third party located within the Union.
 15. The report referred to in the provisions of article 213B(1), (2), (5), (6), (7) and
 (8) and, where applicable, the statement referred to in the provisions of article 213B(5) and (6), shall remain accessible on the relevant website for a minimum of five (5) consecutive years.
-- Substituted by: XXXI. 2015.24.
-- Amended by: XVIII.2024.20; XVIII.2025.59.

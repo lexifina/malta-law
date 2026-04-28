@@ -34,3 +34,5 @@ Presentation currency conversion difference
 5. Where following conversion to the new presentation currency a presentation currency conversion difference arises, this is not to be recognised in the company's profit and loss account but is to be recognised as a separate component of equity, and is to be considered as an unrealised gain or as a realised loss as applicable.
 Disclosure
 6. In the first annual accounts following the conversion, the notes shall include full details of the method of conversion and the exchange rates used for the company's share capital, its share premium account when applicable, and its reserves.
+- See XV. 2007.15;.
+- See IX. 2008.43..
