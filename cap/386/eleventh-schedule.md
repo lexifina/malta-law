@@ -101,3 +101,7 @@ the sanctioning of a compromise or arrangement to the Registrar €465 €23
 to comply with provisions as to registration or returns of oversea company €465 €23 399A(1) Liquidator, officer or agent of oversea
 company failing to give notice to Registrar of winding-up of overseas company or closure of branch or place of business €465 €23 399A(2) Liquidator of overseas company failing to
 notify Registrar of his appointment €465 €23
+- Amended by: IV. 2003.170, 172.
+- Substituted by: L.N. 425 of 2007.
+- Amended by: IX. 2008.45; XXII. 2014.23; V.2020.39; XVIII.2024.21.
+- Substituted by: I.2026.42.
