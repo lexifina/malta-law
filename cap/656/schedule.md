@@ -1,4 +1,3 @@
-## defined in the Credit Review Office Act.".
 ## SCHEDULE
 ## Information Required.
 ## Assessment.
