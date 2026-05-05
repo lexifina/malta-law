@@ -45,6 +45,45 @@ perform any other function and role that may so be assigned to it from time to t
 (e) to provide
 support, including technical, to the Control Committee established by article 17 of the Agreement between the Holy See and the Republic of Malta contained in the Schedule to the Ecclesiastical Entities (Properties) Act, and to give the said any information and access to records for the purposes of fulfilling its role;
 (f) to perform
-its functions as a Unit with autonomy. Boundaries and extent of the Malta National Park*
+its functions as a Unit with autonomy. National Ten (10) Head Minister No Veterinary Years responsible for Hospital veterinary
+Unit services
+(a) to be
+responsible for the supervision, administration, financial obligations, and control of the National Veterinary Hospital;
+(b) to act as the
+competent authority responsible for the
+supervision, administration and observation of the contract for the operation and management of the National Veterinary
+Hospital;
+(c) to ensure that the hospital and its services operate in compliance with applicable laws,
+including
+regulations and
+applicable professional standards governing veterinary practice, including licensing,
+public
+administration, occupational health and safety, animal welfare, and public
+service
+management;
+(d) to ensure that
+the National Veterinary Hospital provides accessible, safe, and effective veterinary services
+to the public, in compliance with obligations relating to the provision of
+emergency and critical veterinary
+care available twenty-four (24)
+hours a day, including the provision of an on-call service and the maintenance of appropriate triage
+and referral
+systems;
+(e) to
+facilitate clinical training and practical learning opportunities for veterinary and animal care courses offered by MCAST;
+(f) to make available qualified
+veterinary professionals and
+specialists to
+support learning and supervisory activities, while ensuring that such
+educational activities comply
+with MCAST accreditation and training standards
+and do not compromise animal care and welfare or
+public safety;
+(g) to ensure that
+the premises, clinical areas and
+equipment are
+properly
+maintained and kept safe, clean and
+fit for their intended purpose. Boundaries and extent of the Malta National Park*
 - Substituted by: L.N. 338 of 2022.
-- Amended by: L.N. 239 of 2024; L.N. 285 of 2024; L.N. 35 of 2026.
+- Amended by: L.N. 239 of 2024; L.N. 285 of 2024; L.N. 35 of 2026; L.N. 146 of 2026.
