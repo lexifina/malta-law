@@ -55,7 +55,7 @@ a Total Net Asset Value of the company b Market Value of shares held in another 
 of the nominal value of the issued share capital of that other company, determined in accordance with rule 5 Company Income Tax no. Market Value
 Deduct book value of shares held in the company (as stated in the financial statements)
 c Total market value of immovable property as stated in the
-Architect's Valuation (as per Part 5) less Total book value of immovable property
+Perit's Valuation (as per Part 5) less Total book value of immovable property
 Adjustment to the value of immovable property
 (this adjustment can never be less than €0)
 d Value of goodwill (as calculated in Sec IV below)
@@ -93,5 +93,5 @@ Value of goodwill attributable to business acquired: A
 Consideration paid for the acquisition of such goodwill B
 Value of goodwill of the business so acquired: (higher of A and B)
 Total amount representing the value of goodwill:
-Note: Where the assets of the company include shares in another company, and such shares represent at least ten per cent of the nominal value of the issued share capital of the other company, the computations in this Part must be made for each such shareholding. Part 5 - Architect's valuation If the company owns immovable property at the date of the share transfer, attach an architect's valuation of the market value of the immovable property taken into account in determining the value of the said shares. Part 6 - Declaration I do hereby declare that the information submitted through this form is true and complete:
+Note: Where the assets of the company include shares in another company, and such shares represent at least ten per cent of the nominal value of the issued share capital of the other company, the computations in this Part must be made for each such shareholding. Part 5 - Perit's valuation If the company owns immovable property at the date of the share transfer, attach a Perit's valuation of the market value of the immovable property taken into account in determining the value of the said shares. Part 6 - Declaration I do hereby declare that the information submitted through this form is true and complete:
 Transferor's signature ..................................... Transferor's name ...................................... This Notice shall be accompanied by an auditor's signed report which shall form an integral part of the notice, giving assurance as to (a) the fact that the transfer is a transfer of a controlling interest (including the grounds on which such statement is based) and (b) whether the computation of the market value of the shares being transferred has been properly prepared in accordance with the Capital Gains Rules.
