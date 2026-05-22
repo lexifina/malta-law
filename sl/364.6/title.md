@@ -1,4 +1,4 @@
 SUBSIDIARY LEGISLATION 364.06
 DUTY ON DOCUMENTS AND TRANSFERS RULES
 25th November, 1992
-LEGAL NOTICE 98 of 1993, as amended by Legal Notices 57 of 1994, 75 of 1997, 350 of 2002, 7, 112, 348 and 352 of 2004, 113 of 2006, 425 of 2007, 189 and 350 of 2009, 310 and 452 of 2010, and 426 of 2012; Act XXXIV of 2014; and Legal Notices 465 of 2014, 147 of 2015, 205 of 2016, 36 of 2017 and 202 of 2018 117 of 2019 and 68 and 168 of 2020.
+LEGAL NOTICE 98 of 1993, as amended by Legal Notices 57 of 1994, 75 of 1997, 350 of 2002, 7, 112, 348 and 352 of 2004, 113 of 2006, 425 of 2007, 189 and 350 of 2009, 310 and 452 of 2010, and 426 of 2012; Act XXXIV of 2014; and Legal Notices 465 of 2014, 147 of 2015, 205 of 2016, 36 of 2017, 202 of 2018, 117 of 2019, 68 and 168 of 2020 and 158 of 2026.
