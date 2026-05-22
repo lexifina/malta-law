@@ -1,6 +1,4 @@
 ## FOURTH SCHEDULE
-## (1) (2) (3)
-## (4) *
 # fourth-schedule
 FORMS
 FORM No. 38

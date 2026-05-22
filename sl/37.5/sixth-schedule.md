@@ -27,5 +27,3 @@ Wallis and Futuna Islands WF Western Sahara EH
 Yemen YE Yugoslavia - Rest YU
 Zaire ZR Zambia ZM Zimbabwe ZW
 Goods ex bond EB) To substitute for nationality of Commercial Aircraft Stores XA) transport and country of Ship's Bunkers XB) consignment Ships' Stores XS) Goods ex Parcel Post PP)
-- Added by: L.N. 29 of 1993.
-- Substituted by: L.N. 175 of 1993; L.N. 281 of 2000.
