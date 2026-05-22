@@ -53,3 +53,5 @@ Transferors
 The completed Schedule shall be accompanied by a report signed by the holder of a warrant to exercise the profession of Advocate in the Courts of Justice of Malta, which report shall give assurance in respect of the legal applicability of the claims made herein by the signatories hereto. NOTE: Third parties and transferors have the option of filing separate forms in respect of the same judicial sale by auction. Whenever any specific third party or transferor decides to file a form separately from that of any other third party or transferor he may complete only the parts relative to his claim. In the case of the Third party, all parts except part 6 must be completed; in the case of a transferor, all parts except parts 1 and 5 must be completed. FOR OFFICIAL USE: ................DETAILS OF JUDICIAL AUCTION: ............
 CONSIDERATION OF JUDICIAL SALE: AMOUNT PAYABLE TO CREDITORS: AMOUNT DUE TO THE COMMISSIONER: AMOUNT REMITTED TO THE COMMISSIONER:
 ................................................... Registrar of Courts
+- Added by: L.N. 105 of 2013.
+- Amended by: L.N.379 of 2017.
