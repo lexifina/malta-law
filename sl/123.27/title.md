@@ -1,4 +1,4 @@
 SUBSIDIARY LEGISLATION 123.27
 CAPITAL GAINS RULES
 25th November, 1992
-LEGAL NOTICE 102 of 1993, as amended by Legal Notices 379 of 2002, 5 of 2005, 51 of 2006, 37, 409 of 2007, 317, 336 of 2010, 413 of 2011, 105 of 2013, 379 of 2017 and 191 of 2020.
+LEGAL NOTICE 102 of 1993, as amended by Legal Notices 379 of 2002, 5 of 2005, 51 of 2006, 37, 409 of 2007, 317, 336 of 2010, 413 of 2011, 105 of 2013, 379 of 2017, 191 of 2020 and 156 of 2026.
