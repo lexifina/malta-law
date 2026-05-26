@@ -11,7 +11,7 @@ m3 (6) (7) (6) (7)
 3 mg/m3 until 17 January 2023 Chromium (VI) - - 0.005 - - - - - - Limit value: compounds 0.010 mg/m3 which are car- until 17 Janu-cinogens within ary 2025 the meaning of paragraph (a) of Limit value: the defenition 0.025 mg/m3 "carcinogen" in for welding regulation 2 or plasma (as chromium) cutting pro-
 cesses or sim-ilar work processes that generate fume until 17 January 2025 Refractory - - - - 0.3 - - - - -ceramic fibres which are car-cinogens within the meaning of paragraph (a) of definition "car-cinogen" in reg-ulation 2 Respirable crys- - - - - - - - - - 0.1 (9) talline silica dust
 TO EXPOSURE TO CARCINOGENS, MUTAGENS OR
-[S.L.646.14 14 REPROTOXIC SUBSTANCES AT WORK
+[S.L.646.14 REPROTOXIC SUBSTANCES AT WORK 15
 Benzene 200- 71-43-2 0.66 0.2 - - - - skin (10) Limit value
 753-7 of 1ppm
 (3.25 mg/m3) until 5 April 2024. Limit value of 0,5 ppm (1.65 mg/m3) from 5 April 2024 until 5 April 2026. Vinyl chloride 200- 75-01-4 2.6 1 - - - - - -monomer 831-0 Ethylene oxide 200- 75-21-8 1.8 1 - - - - skin (10) -
@@ -23,14 +23,14 @@ Benzene 200- 71-43-2 0.66 0.2 - - - - skin (10) Limit value
 114-9 Bromoethylene 209- 593-60-2 4.4 1 - - - - - -
 800-6
 TO EXPOSURE TO CARCINOGENS, MUTAGENS OR
-[S.L.646.14 REPROTOXIC SUBSTANCES AT WORK 15
+[S.L.646.14 16 REPROTOXIC SUBSTANCES AT WORK
 Diesel engine - - - - - - - - The limit 0.05(*) exhaust emis- value shall sions apply from 21
 February 2023. For underground mining and tunnel con-struction the limit value shall apply from 21 Feb-ruary 2026. Polycyclic aro- - - - - - - - - skin (10) -matic hydrocar-bons mixtures, particularly those containing benzo[a]pyrene, which are car-cinogens within the meaning of these regulations Mineral oils that - - - - - - - - skin (10) -have been used before in internal combustion engines to lubri-cate and cool the moving parts within the engine Cadmium and its - - - - - - - - Limit value: 0.001(11) inorganic com- 0.004 mg/m3 pounds
 (12) until 11 July 2027 Beryllium and - - 0.0002 (11)- - - - - dermal and Limit value: inorganic beryl- respiratory 0.0006 mg/ lium compounds sensitisa- m3 until 11
 tion (13) July 2026 Arsenic acid and - - - - - - - - For the cop- 0.01 (11) its salts, as well per smelting as inorganic sector, the arsenic com- limit value pounds shall apply
 from 11 July 2023
 TO EXPOSURE TO CARCINOGENS, MUTAGENS OR
-[S.L.646.14 16 REPROTOXIC SUBSTANCES AT WORK
+[S.L.646.14 REPROTOXIC SUBSTANCES AT WORK 17
 Formaldehyde 200- 50-00-0 0.37 0.3 - 0.74 0.6 - dermal sen- Limit value:
 001-8 sitisation 0.62 mg/m3
 (14)
@@ -46,12 +46,12 @@ tion (14) Nickel com- - - - - - - - Dermal and The limit 0.01 (15) pounds respir
 sensitisa-
 shall apply
 tion (13) from 18 Janu-ary 2025. The limit value (16) shall apply from 18 Janu-ary 2025. Until then a limit value of 0.1 mg/m3
-(16) shall apply. Inorganic lead - - 0.15 - - - - - - -and its com-pounds
+(16) shall apply. Lead and its - - - - - - - - Non thresh- 0.03 (11) inorganic com- old reprotoxic pounds substance
 N,N-dimethy- 204- 127-19-5 36 10 - 72 20 - - Skin (10) lacetamide 826-4
 Nitrobenzene 202- 98-95-3 1 0.2 - - - - - Skin (10)
 716-0
 TO EXPOSURE TO CARCINOGENS, MUTAGENS OR
-[S.L.646.14 REPROTOXIC SUBSTANCES AT WORK 17
+[S.L.646.14 18 REPROTOXIC SUBSTANCES AT WORK
 N,N-Dimethyl- 200- 68-12-2 15 5 - 30 10 - - Skin (10) formamide 679-5
 2-Methoxyetha- 203- 109-86-4 - 1 - - - - - Skin (10) nol 713-7
 2-Methoxyethyl 203- 110-49-6 - 1 - - - - - Skin (10) acetate 772-9
@@ -61,7 +61,7 @@ N,N-Dimethyl- 200- 68-12-2 15 5 - 30 10 - - Skin (10) formamide 679-5
 1-Methyl-2- 212- 872-50-4 40 10 - 80 20 - - Skin (10) pyrrolidone 828-1
 Mercury and - - 0.02 - - - - - - -divalent inor-ganic mercury compounds including mer-cury oxide and mercury chlo-ride (measured as mercury) Bisphenol A; 201- 80-05-7 - - - - - - - 2 (11) 4,4'-Isopro- 245-8 pylidenediphe-nol Carbon monox- 211- 630-08-0 23 20 - 117 100 - - -ide 128-3
 TO EXPOSURE TO CARCINOGENS, MUTAGENS OR
-[S.L.646.14 18 REPROTOXIC SUBSTANCES AT WORK
+[S.L.646.14 REPROTOXIC SUBSTANCES AT WORK 19
 (1) EC No, i.e. EINECS, ELINCS or NLP, is the official number of the substance within the European Union, as defined in Section 1.1.1.2 in Annex VI, Part 1, of Regulation (EC) No 1272/2008.
 (2) CAS No: Chemical Abstract Service Registry Number.
 (3) Measured or calculated in relation to a reference period of eight (8) hours time-weighted average (TWA)
@@ -79,4 +79,7 @@ TO EXPOSURE TO CARCINOGENS, MUTAGENS OR
 (15) Respirable fraction, measured as nickel.
 (16) Inhalable fraction, measured as nickel. (*) Measured as elemental carbon.
 TO EXPOSURE TO CARCINOGENS, MUTAGENS OR
-[S.L.646.14 REPROTOXIC SUBSTANCES AT WORK 19
+[S.L.646.14 20 REPROTOXIC SUBSTANCES AT WORK
+- Amended by: L.N. 197 of 2015; L.N. 318 of 2019.
+- Substituted by: L.N. 51 of 2021; L.N. 102 of 2024.
+- Amended by: L.N. 165 of 2026.
