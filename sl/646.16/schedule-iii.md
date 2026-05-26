@@ -1,6 +1,5 @@
 ## SCHEDULE III
 # schedule-iii
-[S.L.646.16 14 FROM THE RISKS RELATED TO CHEMICAL AGENTS AT WORK
 PROHIBITIONS
 The production, manufacture or use at work of the chemical agents and activities involving chemical agents set out below are prohibited. The prohibition does not apply if the chemical agent is present in another chemical agent, or as a constituent of waste, provided that its individual concentration therein is less than the limit specified.
 (a) Chemical Agents

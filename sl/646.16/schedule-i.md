@@ -1,14 +1,38 @@
 ## SCHEDULE I
 # schedule-i
 LIST OF BINDING OCCUPATIONAL EXPOSURE LIMIT VALUES
-EINECS No (1) CAS No (2) Name of agent Occupational Occupational
-Exposure limit Exposure limit value value 8 h (3) Short-term (4)
-Mg/m3 Mg/m3 ppm ppm
-(5) (6)
-Inorganic lead 0,15 a n d i t s compounds
-(1) EINECS: European Inventory of Existing Commercial Chemical Substances.
-(2) CAS: Chemical Abstracts Service.
-(3) Measured or calculated in relation to a reference period of eight hours, time-weighted average.
-(4) A limit value above which exposure should not occur, and which is related to a 15 minute period unless otherwise specified.
-(5) mg/m3 = milligrams per cubic metre of air at 20ºC and 101,3 kPa.
-ppm = parts per million by volume in air (ml/m3). (6)
+Limit values
+8 hours (3) Short-term (4) EC CAS
+Name of Transitional
+No No Notation μg/ μg/
+agent measures ppm f/ml ppm f/ml
+(1) (2) m3 m3
+(6) (7) (6) (7)
+(5) (5)
+A limit value of 10
+μg NCO/m3 in
+Skin ( 8) relation to a
+Dermal and reference period of Diisocyanates
+respiratory 8 hours and a short- (measured as - - 6 - - 12 - -
+sensitisatio term exposure limit
+NCO (10))
+n value of 20 μg
+(9) NCO/m3 shall apply until 31 December 2028.
+(1) EC No, i.e., Einecs, ELINCS or NLP, is the official number of the
+substance within the European Union, as defined in Annex VI, Part 1, Section 1.1.1.2, to Regulation (EC) No 1272/2008.
+(2) CAS No: Chemical Abstract Service Registry Number.
+(3) Measured or calculated in relation to a reference period of 8-hour
+time-weighted average (TWA).
+(4) Short-term exposure limit (STEL). A limit value above which
+exposure should not occur and which is related to a 15-minute period unless otherwise specified.
+(5) μg/m3 = micrograms per cubic metre of air at 20 °C and 101,3 kPa
+(760 mm mercury pressure).
+(6) ppm = parts per million by volume in air (ml/m3).
+(7) f/ml = fibres per millilitre.
+(8) Substantial contribution to the total body burden via possible dermal
+exposure.
+(9) The substance may cause sensitisation of the skin and of the
+respiratory tract.
+(10) NCO refers to isocyanate functional groups of the diisocyanate
+[S.L.646.16 14 FROM THE RISKS RELATED TO CHEMICAL AGENTS AT WORK
+compounds.

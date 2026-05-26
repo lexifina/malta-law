@@ -4,6 +4,7 @@ DANGEROUS SUBSTANCES
 The following chemical agents are to be considered dangerous within the meaning of these regulations:
 (a) explosive substances and preparations: solid, liquid, pasty or gelatinous substances and preparations which may also react exothermically without atmospheric oxygen thereby quickly evolving gases, and which, under defined test conditions, detonate, quickly deflagrate or upon heating explode when partially confined;
 (b) oxidising substances and preparations: substances and preparations which give rise to a highly exothermic reaction in contact with other substances, particularly flammable substances;
+[S.L.646.16 15 FROM THE RISKS RELATED TO CHEMICAL AGENTS AT WORK
 (c) extremely flammable substances and preparations: liquid substances and preparations having an extremely low flash-point and a low boiling-point and gaseous substances and preparations which are flammable in contact with air at ambient temperature and pressure.
 (d) highly flammable substances and preparations:
 - substances and preparations which may become hot and finally catch
@@ -12,7 +13,6 @@ fire in contact with air at ambient temperature without any application of energ
 brief contact with a source of ignition and which continue to burn or to
 be consumed after removal of the source of ignition, or
 - liquid substances and preparations having a very low flash-point, or
-[S.L.646.16 15 FROM THE RISKS RELATED TO CHEMICAL AGENTS AT WORK
 - substances and preparations which, in contact with water or damp air,
 evolve extremely flammable gases in dangerous quantities;
 (e) flammable substances and preparations: liquid substances and preparations having a low flash-point;
