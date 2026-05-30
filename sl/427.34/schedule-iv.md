@@ -1,4 +1,5 @@
 ## SCHEDULE IV
+## * It is optional for the manufacturer to assign a number to the declaration of conformity.
 # schedule-iv
 EU DECLARATION OF CONFORMITY (No. XXXX) (*)
 1. Product model/product (product, type, batch or serial number):

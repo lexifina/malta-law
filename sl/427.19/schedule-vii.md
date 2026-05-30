@@ -12,7 +12,7 @@ any other notified body
 - a technical documentation conforming to the requirements set below:
 - a description of the equipment
 - trade name
-- type, series and numbers [S.L.427.19 64 BY EQUIPMENT FOR USE OUTDOORS
+- type, series and numbers [S.L.427.19 66 BY EQUIPMENT FOR USE OUTDOORS
 - the technical data relevant for the identification of the equipment and
 the assessment of its noise emission, including, if appropriate, schematic drawings and any description and explanation necessary for their understanding
 - the reference to these regulations.

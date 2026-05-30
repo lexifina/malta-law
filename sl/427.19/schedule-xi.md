@@ -20,7 +20,7 @@ Lawn trimmers/lawn edge trimmers Schedule I, item 33 Schedule III, Part B, item 
 Lift trucks, combustion-engine driven, Schedule I, item 36 Schedule III, Part B, item 36 counterbalanced (excluding 'other counterbalanced lift trucks' as defined in Schedule I, item 36, second indent with a rated capacity of not more than 10 tonnes)
 Loaders (<500 kW) Schedule I, item 37 Schedule III, Part B, item 37
 Mobile cranes Schedule I, item 38 Schedule III, Part B, item 38
-[S.L.427.19 70 BY EQUIPMENT FOR USE OUTDOORS
+[S.L.427.19 72 BY EQUIPMENT FOR USE OUTDOORS
 DEFINITION MEASUREMENT
 Motor hoes (<3kW) Schedule I, item 40 Schedule III, Part B, item 40
 Paver-finishers (excluding payer- Schedule I, item 41 Schedule III, Part B, item 41 finishers equipped with a high-compaction screed)
@@ -49,7 +49,7 @@ m < 30 96 + 11 lg m 94 + 11 lg m Tower cranes 98 + lg P 96 + lg P Welding and po
 2 < Pel < 10 98 + lg Pel 96 + lg Pel
 10 > Pel 97 + lg Pel 95 + lg Pel Compressors P < 15 99 97
 P > 15 97 + 2 lg P 95 + 2 lg P
-[S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 71
+[S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 73
 Net installed Permissible sound power level
 power P (in kW) in dB/1 pW Electric power
 (1) in kW Pel

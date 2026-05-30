@@ -28,9 +28,9 @@ PART A
 BASIC NOISE EMISSION STANDARD
 For the determination of the sound power level of equipment for use outdoors as defined by regulation 2.1 the basic noise emission standards
 MSA EN ISO 3744:2000
+[S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 21
 MSA EN ISO 3746:2000
 may generally be used subject to the following general supplements:
-[S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 19
 1. Measurement uncertainty
 Measurement uncertainties are not taken into account in the framework at conformity assessment procedures in the design phase.
 2. Operation of source during test
@@ -50,9 +50,9 @@ manufacturer at no less than 70% of the maximum speed.
 2.2. Test of powered equipment free of load
 For these measurements, the engine and hydraulic system of the equipment must be warmed up in accordance with the instructions, and safety requirements must be observed.
 The test is carried out with the equipment in a stationary position without operating the working equipment or travelling mechanism. For the purpose of the test, the engine will idle at no less than the rated speed corresponding to the net power*.
-If the machine is powered by a generator or from the mains, the frequency of the supply current, specified for the motor by the manufacturer, shall be stable at ± 1 Hz if the machine is equipped with an induction motor, and the supply voltage at ± 1% of the rated voltage if the machine is equipped with a commutator motor. The supply voltage is measured at the plug of a non-detachable cable or cord, or at the
-[S.L.427.19 20 BY EQUIPMENT FOR USE OUTDOORS
-inlet of the machine if a detachable cable is provided. The waveform of the current supplied from the generator shall be similar to that obtained from the mains.
+If the machine is powered by a generator or from the mains, the frequency of the supply current, specified for the motor by the manufacturer, shall be stable at ± 1
+[S.L.427.19 22 BY EQUIPMENT FOR USE OUTDOORS
+Hz if the machine is equipped with an induction motor, and the supply voltage at ± 1% of the rated voltage if the machine is equipped with a commutator motor. The supply voltage is measured at the plug of a non-detachable cable or cord, or at the inlet of the machine if a detachable cable is provided. The waveform of the current supplied from the generator shall be similar to that obtained from the mains.
 If the machine is powered by battery, the battery shall be fully charged.
 The speed used and the corresponding net power are stated by the manufacturer of the equipment and must appear in the test report.
 If the equipment is fitted with several engines, they must work simultaneously during the tests. If this is not possible, each possible combination of engine(s) is to be tested.
@@ -70,9 +70,9 @@ The surface sound pressure level shall be determined at least three times. If at
 The A-weighted sound power level of the source under test shall be reported to the nearest whole number (less than 0.5 use the lower number; greater than or equal to 0.5 use the higher number).
 The report shall contain the technical data necessary to identify the source under test as well as the noise test code and the acoustical data.
 5. Additional microphone positions on the hemispherical measurement surface (MSA EN ISO 3744:2000)
-In addition to clauses 7.2.1 and 7.2.2 of MSA EN ISO 3744-2000 a set of 12 microphones on the hemispherical measurement surface may be used. The location of 12 microphone positions distributed on the surface of a hemisphere of radius r are listed in the form of Cartesian coordinates in the following table. The radius r of the hemisphere shall be equal to or greater than twice the largest dimension of the
-[S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 21
-reference parallelepiped. The reference parallelepiped is define as the smallest possiblc rcctangular parallelepiped just enclosing the equipment (without attachments) and terminating on the reflecting plane. The radius of the hemisphere shall be rounded to the nearest higher of the following values: 4, 10, 16m.
+In addition to clauses 7.2.1 and 7.2.2 of MSA EN ISO 3744-2000 a set of 12 microphones on the hemispherical measurement surface may be used. The location
+[S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 23
+of 12 microphone positions distributed on the surface of a hemisphere of radius r are listed in the form of Cartesian coordinates in the following table. The radius r of the hemisphere shall be equal to or greater than twice the largest dimension of the reference parallelepiped. The reference parallelepiped is define as the smallest possiblc rcctangular parallelepiped just enclosing the equipment (without attachments) and terminating on the reflecting plane. The radius of the hemisphere shall be rounded to the nearest higher of the following values: 4, 10, 16m.
 The number (12) of microphones may be reduced to six, but the microphone positions 2, 4, 6, 8, 10 and 12 following the requirements of clause 7.1.2 of MSA EN ISO 3744:2000 have to be used in any case.
 Generally the arrangement with six microphone positions on a hemispherical measurement surface has to be used. If there are other specifications laid down in a noise test code in these regulations for a specific equipment, these specifications shall be used.
 TABLE
@@ -81,7 +81,7 @@ Numbcr of microphones x/r y/r z
 1 1 0 1.5 m 2 0.7 0.7 1.5 m 3 0 1 1.5 m 4 -0.7 0.7 1.5 m 5 -1 0 1.5 m 6 -0.7 -0.7 1.5 m 7 0 -1 1.5 m 8 0.7 -0.7 1.5 m 9 0.65 0.27 0.71 m 10 -0.27 0.65 0.71 m 11 -0.65 -0.27 0.71 m 12 0.27 -0.65 0.71 m
 6. Environmental correction K2A
 Equipment shall be measured on a reflecting surface of concrete or non-porous asphalt, then the environmental correction K2A is set to K2A = 0. If there are other specifications laid down in a noise test code of these regulations for a specific equipment, these specifications shall be used.
-[S.L.427.19 22 BY EQUIPMENT FOR USE OUTDOORS
+[S.L.427.19 24 BY EQUIPMENT FOR USE OUTDOORS
 Figure
 Additional microphone array on the hemisphere (12 microphone positions)
 PART B
@@ -93,10 +93,9 @@ Test area
 Reflecting surface of concrete or non-porous asphalt
 Environmental correction K2A K2A = ()
 Measurement surface/number of microphone positions/measuring distance
+[S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 25
 (i) If the largest dimension of the reference parallelepipcd does not exceed 8 m:
-hemisphere/six microphone positions according to Part A item 5/
-[S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 23
-according to Part A item 5
+hemisphere/six microphone positions according to Part A item 5/ according to Part A item 5
 (ii) If the largest dimension of the reference parallelepiped exceeds 8 m:
 parallelepiped according to MSA ISO 3744:2000 with measurement distance d = 1m
 Operating conditions during test
@@ -128,10 +127,10 @@ Measurement surface/number of microphone positions/measuring distance
 MSA IS0 7960:2002, Annex J with d = 1 m
 Operating conditions during test
 Test under load
+[S.L.427.19 26 BY EQUIPMENT FOR USE OUTDOORS
 Corresponding to MSA ISO 7960:2002, Annex J (point J2(b) only)
 Period of observation
 Corresponding to MSA ISO 7960:2002, Annex J
-[S.L.427.19 24 BY EQUIPMENT FOR USE OUTDOORS
 5. BUILDING SITE CIRCULAR SAW BENCHES
 Basic noise emission standard
 MSA EN ISO 3744:2000
@@ -162,10 +161,10 @@ where Lw1 and Lw2 are the average sound power levels of the two different modes 
 If it is possible to operate both items of equipment simultaneously, this shall be done according to Nos 26 and 52. If not, they shall be measured separately and the higher values are to be stated
 8. COMPACTION MACHINES
 (i) NON-VIBRATlNG ROLLERS
+[S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 27
 See No ()
 (ii) VIBRATING ROLLERS FOR RIDE-ON OPERATORS
 Basic noise emission standard
-[S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 25
 MSA EN ISO 3744:2000
 Operating conditions during test
 Mounting of equipment
@@ -192,9 +191,9 @@ hemisphere/six microphone positions according to Part A item 5/according to Part
 parallelepiped according to MSA ISO 3744-2000 with measurement distance d = l m
 Operating conditions during test
 Mounting of equipment
+[S.L.427.19 28 BY EQUIPMENT FOR USE OUTDOORS
 Thc compressors shall be installed on the reflecting plane; skid-mounted compressors shall be placed on a support 0.40 m high, unless otherwise required by the manufacturer's conditions of installation.
 Test under load
-[S.L.427.19 26 BY EQUIPMENT FOR USE OUTDOORS
 The compressor under test shall have been warmed up and be operating in stable conditions as for continuous operation. It shall be properly serviced and lubricated as specified by the manufacturer. The determination of the sound power level shall be made at full-load or in an operating condition that is reproducible and is representative of the noisiest operation of typical usage of the machine under test, whichever is the noisier.
 Should the layout of the complete plant be such that certain components, e.g. inter-coolcrs are mounted away from the compressor, endeavours shall be made to separate the noise generated from such parts when performing the noise test. Separation of the various noise sources may require special equipment for the attenuation of the noise from these sources during the measurement. The noise characteristics and description of the operating conditions of such parts shall be given separately in the test report
 During the test the gas exhausted from the compressor shall be piped clear of the test area. Care shall be taken to ensure the noise generated by the gas being exhausted is at least 10 dB lower than the noise to be measured at all measurement locations (e.g. by the fitting of a silencer)
@@ -214,9 +213,10 @@ Mounting of equipment
 All appliances shall be tested in the vertical position
 If the test appliance has got an air exhaust, its axis shall be equidistant from two microphone positions. The noise of the power supply shall not influence the measurement of the noise emission from the tested appliance
 Support of the appliance
-The appliance shall be coupled during the test run to a tool embedded in a cube-shaped concrete block placed in a concrete pit, sunk into the ground. An intermediate steel piece may be inserted during tests between the appliance and the support tool. This intermediate piece shall form a stable structure between the appliance and the support tool. Figure 10.1 incorporates these requirements
+The appliance shall be coupled during the test run to a tool embedded in a cube-shaped concrete block placed in a concrete pit, sunk into the ground. An
+[S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 29
+intermediate steel piece may be inserted during tests between the appliance and the support tool. This intermediate piece shall form a stable structure between the appliance and the support tool. Figure 10.1 incorporates these requirements
 Block characteristics
-[S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 27
 The block shall be in the shape of a cube 0.60 m ± 2 mm long at the edge and as regular as possible; it shall be made of reinforced concrete and thoroughly vibrated in layers of up to 0.20 m to avoid excessive sedimentation
 Quality of the concrete
 The quality of the concrete shall correspond to MSA EN 206-1:2002
@@ -234,13 +234,13 @@ The test appliance shall be operated in stable conditions having the same acoust
 The test appliance shall be operated at the maximum power specified in the instructions supplied to the purchaser
 Period of observation
 The period of observation shall at least be 15 seconds
-[S.L.427.19 28 BY EQUIPMENT FOR USE OUTDOORS
+[S.L.427.19 30 BY EQUIPMENT FOR USE OUTDOORS
 Figure 10.1
 Schematic diagram of intermediate piece
-[S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 29
+[S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 31
 Figure 10.2
 Test block
-[S.L.427.19 30 BY EQUIPMENT FOR USE OUTDOORS
+[S.L.427.19 32 BY EQUIPMENT FOR USE OUTDOORS
 Figure 10.3
 Testing device
 The value of A should be such that the screening slab resting on the elastic joint J is flush with the ground
@@ -257,10 +257,10 @@ The period of observation shall be at least 15 seconds
 See No ()
 The geometrical centre of the engine shall be positioned above the centre of the hemisphere; the winch shall be connected but no load shall be applied
 13. CONVEYING AND SPRAYING MACHINES FOR CONCRETE AND MORTAR
+[S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 33
 Basic noise emission standard
 MSA EN ISO 3744:2000
 Operating conditions during test
-[S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 31
 If the machine is equipped with a boom, this is set upright and the pipe shall be lead back to the filler funnel. If this is not the case the machine shall be equipped with a horizontal pipe of at least 30 m leading back to the filler funnel
 Test under load
 (i) For machines conveying and spraying concrete:
@@ -280,10 +280,10 @@ Test under load
 The cooling equipment shall be installed in a real or simulated cargo space and be tested in a stationary position where the height of the cooling equipment shall be representative of the intended installation requirements according to the instructions supplied to the purchaser. The power source of the cooling equipment shall operate at the rate that causes the maximum speed of the cooling compressor and the fan specified in the instructions. If the cooling equipment is intended to be powered by the driving engine of the vehicle the engine shall not be used during the test and the cooling equipment shall be connected to a suitable electrical power source. Removable tractor units shall be removed during the test
 Cooling equipment installed in cargo-space refrigeration units which have a choice of different power sources shall be tested separately for each power source. The test result reported shall as a minimum reflect the mode of operation which leads to the maximum noise output
 Period of observation
+[S.L.427.19 34 BY EQUIPMENT FOR USE OUTDOORS
 The period of observation shall at least be 15 seconds
 16. DOZERS
 Basic noise emission standard
-[S.L.427.19 32 BY EQUIPMENT FOR USE OUTDOORS
 MSA EN ISO 3744:2000
 Test area
 MSA ISO 6395:2002
@@ -315,10 +315,10 @@ Operating conditions during test
 Test under load
 Equivalent MSA ISO 6395:2002, Annex C, with the following amendment:
 C 4.3, second paragraph is replaced by:
-"The engine shall be operated at its maximum governed speed (high idle). The transmission control shall be set to neutral. Bring the bucket to the tipped position (emptying) up to about 75% of its maximum movement and return it to its travelling position three times. This sequence of events is considered to be a single cycle for the stationary hydraulic mode.
-If no engine power is used to tip the bucket, the engine shall be operated at idling speed with the transmission in neutral. The measurement shall be performed without
-[S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 33
-tipping the bucket, the period of observation shall be 15 seconds."
+"The engine shall be operated at its maximum governed speed (high idle). The transmission control shall be set to neutral. Bring the bucket to the tipped position (emptying) up to about 75% of its maximum movement and return it to its travelling
+[S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 35
+position three times. This sequence of events is considered to be a single cycle for the stationary hydraulic mode.
+If no engine power is used to tip the bucket, the engine shall be operated at idling speed with the transmission in neutral. The measurement shall be performed without tipping the bucket, the period of observation shall be 15 seconds."
 Period(s) of observation/determination of resulting sound power level if more than one operating condition is used
 MSA ISO 6395:2002, Annex C
 19. EQUPMENT FOR LOADING AND UNLOADING TANKS OR SILOS ON TRUCKS
@@ -349,11 +349,10 @@ MSA ISO 6395:2002
 Measurement surface/number of microphone positions/measuring distance
 MSA ISO 6395:2002
 Operating conditions during test
+[S.L.427.19 36 BY EQUIPMENT FOR USE OUTDOORS
 Test under load
 MSA ISO 6395 2002, Annex D
-Period(s) of observation/determination of resulting sound power level if more than
-[S.L.427.19 34 BY EQUIPMENT FOR USE OUTDOORS
-one operating condition is used
+Period(s) of observation/determination of resulting sound power level if more than one operating condition is used
 MSA ISO 6395:2002, Annex D
 22. GLASS RECYCLING CONTAINERS
 Basic noise emission standard
@@ -377,10 +376,10 @@ Thc A-weighted single-event sound pressure level averaged over all 120 throwings
 Basic noise emission standard
 MSA EN ISO 3744:2000
 Test area
+[S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 37
 MSA ISO 6395:2002
 Measurement surface/number of microphone positions/measuring distance
 MSA ISO 6395:2002
-[S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 35
 Operating conditions during test
 Test under load
 Corresponding to MSA ISO 6395:2002, Annex B
@@ -408,10 +407,10 @@ The hedge trimmer shall be held in the natural manner for normal use either by a
 Test under load
 The hedge clipper shall be operated at its nominal speed with the cutting device working
 Period of observation
+[S.L.427.19 38 BY EQUIPMENT FOR USE OUTDOORS
 The period of observation shall be at least 15 seconds
 26. HIGH PRESSURE FLUSHERS
 Basic noise emission standard
-[S.L.427.19 36 BY EQUIPMENT FOR USE OUTDOORS
 MSA EN ISO 3744:2000
 Operating conditions during test
 Test under load
@@ -437,9 +436,10 @@ Meusurement surface/number of microphone positions/measuring distance
 Hemisphere/six microphone positions according to Part A, item 5/r = 10m
 Operating conditions during tests
 Mounting of the equipment
-For the test the hammer is attached to a carrier and a special test block structure shall be used. Figure 28.1 gives the characteristics of this structure and Figure 28.2 shows the position of the carrier
+For the test the hammer is attached to a carrier and a special test block structure
+[S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 39
+shall be used. Figure 28.1 gives the characteristics of this structure and Figure 28.2 shows the position of the carrier
 Carrier
-[S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 37
 The carrier for the test hammer shall meet the requirements of the test hammer's technical specifications especially in weight range, hydraulic output power, supply oil flow and return line back pressure
 Mounting
 Mechanical mounting as well as connections (hoses, pipes ...) must correspond to specifications given in the hammer's technical data. All significant noise caused by pipes and various mechanical components needed for installation, ought to be eliminated. All component connections have to be well tightened
@@ -461,10 +461,9 @@ ps
 T The oil temperature must lie between + 40/ + 60ºC during measurements.
 The temperature of the hydraulic breaker body must have been stabilised to normal operating temperature before starting the measurements
 Pa The prefill gas pressures of all accumulators must be measured in static
-situation (breaker not operating) at stable ambient temperature of + 15/ + 25ºC. The measured ambient temperature shall be recorded with the measured accumulator prefill gas pressure
+situation (breaker not operating) at stable ambient temperature of + 15/ + 25ºC. The measured ambient temperature shall be recorded with the measured accumulator prefill gas pressure [S.L.427.19 40 BY EQUIPMENT FOR USE OUTDOORS
 Parameters to be evaluated from the measured operating parameters:
 PIN Hydraulic input power of the breaker PIN = ps - Q
-[S.L.427.19 38 BY EQUIPMENT FOR USE OUTDOORS
 Hydraulic supply line pressure measurement, ps
 - ps must be measured as close to the breaker IN-port as possible
 - ps shall be measured with a pressure gauge (minimum diameter: 100
@@ -483,9 +482,9 @@ value
 Period determination/determination of resulting sound power level
 The period of observation shall be at least 15 seconds
 The measurements are repeated three times, or more if necessary. The final result is calculated as the arithmetic mean of the two highest values that do not differ by more than 1 dB
-[S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 39
+[S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 41
 Figure 28.1
-[S.L.427.19 40 BY EQUIPMENT FOR USE OUTDOORS
+[S.L.427.19 42 BY EQUIPMENT FOR USE OUTDOORS
 Figure 28.2
 Definitions
 d Tool diameter (mm)
@@ -504,9 +503,9 @@ h6 Tool penetration, < 50 mm
 If the quadratic shape of the test block structure is used, the maximum length dimension equals 0.89 x corresponding diameter
 The empty space between the deck and the anvil can be filled with elastic foam rubber or other absorption material, density < 220 kg/m3
 29. HYDRAULIC POWER PACKS
+[S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 43
 Basic noise emission standard
 MSA EN ISO 3744:2000
-[S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 41
 Operating conditions during test
 Mounting of equipment
 The hydraulic power pack shall be installed on the reflecting plane; skid-mounted hydraulic power packs shall be placed on a support 0,40 m high, unless otherwise required by the manufacturer's conditions of installation
@@ -536,9 +535,9 @@ Measurement in the open air
 K2A = 0
 Measurements indoors
 The value of the constant K2A, determined without the artificial surface and in accordance with Annex A to MSA ISO 3744:2000 shall be < 2.0 dB, in which case K2A shall be disregarded
+[S.L.427.19 44 BY EQUIPMENT FOR USE OUTDOORS
 Measurement surface/number of microphone positions/measuring distance
 MSA ISO 11094:2002
-[S.L.427.19 42 BY EQUIPMENT FOR USE OUTDOORS
 Operating conditions during test
 Mounting of equipment
 If the wheels of the lawnmower could cause a compression of the artificial surface of more than 1 cm, the wheels shall be placed on supports so that they are level with the artificial surface before compression. If the cutting device cannot be separated from the driving wheels of the lawnmower, the mower shall be tested on supports with the cutting device operating at its maximum speed laid down by the manufacturer. The supports shall be made in such a way that they do not influence the measurement results
@@ -563,8 +562,9 @@ Measurement surface/number of microphone positions/measuring distance
 MSA ISO 11094:2002
 Operating conditions during test
 Mounting of equipment
-The leaf blower shall be positioned in the natural manner for normal use in such a way that the outlet of its blowing device is situated (50 ± 25 mm) above the centre of the hemisphere; if the leaf blower is hand-held it shall be held either by a person or by a suitable device
-[S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 43
+The leaf blower shall be positioned in the natural manner for normal use in such a
+[S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 45
+way that the outlet of its blowing device is situated (50 ± 25 mm) above the centre of the hemisphere; if the leaf blower is hand-held it shall be held either by a person or by a suitable device
 Test under load
 The leaf blower shall be operated at its nominal speed and the nominal air flow stated by the manufacturer
 Period of observation
@@ -592,10 +592,10 @@ The period of observation shall be at least 15 seconds
 Note: If a leaf collector can be also used as a leaf blower it shall be tested in both configurations, in which case the higher value shall be used
 36. LIFT TRUCKS
 Basic noise emission standard
+[S.L.427.19 46 BY EQUIPMENT FOR USE OUTDOORS
 MSA EN ISO 3744:2000
 Operating conditions during test
 Safety requirements and the manufacturer's information shall be observed
-[S.L.427.19 44 BY EQUIPMENT FOR USE OUTDOORS
 Lifting condition
 With the truck stationary the load (non-sound absorbent material, e.g. steel or concrete; at least 70% of the actual capacity stated in the manufacturer's instruction) shall be lifted from the lowered position, at maximum speed to the standardised lift height applicable to that type of industrial truck in accordance with the relevant European Standard in the series 'Safety of Industrial Trucks'. If the actual maximum lift height is less, it may be used in individual measurements. The lift height shall be listed in the test report
 Drive condition
@@ -620,9 +620,9 @@ Mounting of equipment
 Crawler loaders shall be tested on the test site corresponding to point 6.3.3 of MSA ISO 6395:2002
 Test under load
 MSA ISO 6395:2002, Annex C
+[S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 47
 Period(s) of observation/determination of resulting sound power level if more than one operating condition is used
 MSA ISO 6395:2002, Annex C
-[S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 45
 38. MOBILE CRANES
 Basic noise emission standard
 MSA EN ISO 3744:2000
@@ -646,10 +646,9 @@ under the conditions given
 The mobile crane shall be loaded with a load which creates 50% of the maximum rope force. The test consists of hoisting of the load and the immediately following lowering to the starting position. The length of the boom shall be chosen so that the full test lasts 15 to 20 seconds
 (b) Slewing
 With the boom adjusted to an angle of 40º to 50º to the horizontal and without load the upper carriage shall be slewed 90º to the left immediately followed by slewing back to the starting position. The jib shall be at its minimum length. The observation period shall be the time needed to carry out the working cycle
+[S.L.427.19 48 BY EQUIPMENT FOR USE OUTDOORS
 (c) Derricking
-The test starts with raising the short jib from the lowest working position immediately followed by the lowering of the jib to its original position. The movement shall be executed without load. The duration of the test shall be at least 20
-[S.L.427.19 46 BY EQUIPMENT FOR USE OUTDOORS
-seconds
+The test starts with raising the short jib from the lowest working position immediately followed by the lowering of the jib to its original position. The movement shall be executed without load. The duration of the test shall be at least 20 seconds
 (d) Telescoping (if applicable)
 With the jib adjusted to an angle of 40º to 50º to the horizontal without load and the jib fully retracted, the telescoping cylinder for the first section only shall be extended together with the first section to its full length and immediately retracted together with the first section
 Period(s) of observation/determination of resulting sound power level if more than one operating condition is used
@@ -679,8 +678,8 @@ Hemisphere/six microphone positions according to Part A item 5/r = 3m
 Operating conditions during test
 All the measurements shall be carried out with an empty container
 Test No 1: Free shutting down of the lid along the container body
+[S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 49
 To minimise his influence on the measurements, the operator shall stand at the back side of the container (hinge side). The lid shall be released by its middle, to prevent warping during its fall
-[S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 47
 The measurement is carried out during the following cycle, repeated 20 times:
 - initially, the lid is raised vertically
 - the lid is released forward, if possible without giving an impulse, with
@@ -704,10 +703,9 @@ The operator is situated at the lid hinge side
 The measurement is carried out while the operator draws the container along the artificial track, with a constant speed of approximately 1 m/s, between points A and B (4.24 m distance - see Figure 39.3) when the wheel axle, for a 2-wheel container, or the first wheel axle for a 4-wheel container, reaches point A or point B. This procedure is repeated three times in each direction
 During the test, for a 2-wheel container, the angle between the container and the track shall be 45º. For a 4-wheel container, the operator shall ensure an appropriate contact of all the wheels with the track.
 Period(s) of observation/determination of resulting sound power level if more than one operating condition is used
+[S.L.427.19 50 BY EQUIPMENT FOR USE OUTDOORS
 Test Nos 1 and 2: Free shutting down of the lid along the container body and complete opening of the lid
-If possible, the measurements are carried out simultaneously at the six microphone
-[S.L.427.19 48 BY EQUIPMENT FOR USE OUTDOORS
-positions. Otherwise, the sound levels measured at each microphone position will be classified in increasing order and the sound power levels are calculated by associating the values at each microphone position according to their row
+If possible, the measurements are carried out simultaneously at the six microphone positions. Otherwise, the sound levels measured at each microphone position will be classified in increasing order and the sound power levels are calculated by associating the values at each microphone position according to their row
 The A-weighted single-event sound pressure level is measured for each of the 20 shuttings and the 20 openings of the lid at each measurement point. The sound power levels LWA shutting and LWA opening are calculated from the quadratic mean of the five highest values among those obtained
 Test No 3: Rolling the container over on artificial irregular track
 The period of observation T shall be equal to the duration necessary to cover the distance between point A and point B on the track.
@@ -720,7 +718,7 @@ Drawing of the rolling track
 3 Adapted to the container
 Figire 39.2
 Detail of construction and mounting of the rolling track
-[S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 49
+[S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 51
 1. - Rigid steel thread (4 mm)
 - Mesh of net: (50 mm x 50 mm)
 2. Wooden wire mesh cleat (20 mm x 25 mm)
@@ -731,7 +729,7 @@ See No 32
 The tool shall be disconnected during measurement
 41. PAVER-FINISHERS
 Basic noise emission standard
-[S.L.427.19 50 BY EQUIPMENT FOR USE OUTDOORS
+[S.L.427.19 52 BY EQUIPMENT FOR USE OUTDOORS
 MSA EN ISO 3744:2000
 Operating conditions during test
 Test under load
@@ -764,7 +762,7 @@ Enrvironmental correction K2A
 Measurement in the open air K2A = ()
 Measurement indoors
 The value of the constant K2A, determined without artificial surface and in accordance with Annex A to MSA EN ISO 3744:2000, shall be < 2.0 dB, in which
-[S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 51
+[S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 53
 case K2A shall be disregarded
 Measurement surface/number of microphone positions/measuring distance
 Hemisphere/6 microphone positions according to Part A item 5/according to Part A item 5. If 1 > 2 m: a parallelepiped according to MSA EN ISO 3744:2000 may be used with measuring distance d = 1 m.
@@ -793,7 +791,7 @@ The refuse collection vehicle shall be tested in a stationary position for the f
 2. The compaction system is running
 The refuse collection vehicle and the hopper receiving the waste are empty
 If the engine speed is automatically accelerated when the compaction system is running, this value shall be measured. If the measured value is lower than the speed provided by the manufacturer by more than 5% the test is carried out with the engine accelerated by the cab accelerator, to ensure the engine speed provided by the
-[S.L.427.19 52 BY EQUIPMENT FOR USE OUTDOORS
+[S.L.427.19 54 BY EQUIPMENT FOR USE OUTDOORS
 manufacturer
 If the engine speed for the compaction system is not provided by the manufacturer or if the vehicle is not provided with an automatic accelerator, then the engine speed, issued by the cab accelerator shall be 1 200 rpm
 3. The lifting device is running up and down, without load and without container.
@@ -818,7 +816,7 @@ Note: In the case of a refuse collection vehicle only electrically supplied, the
 48. ROAD MILLING MACHINES
 Basic noise emission standard
 MSA EN ISO 3744:2000
-[S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 53
+[S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 55
 Operating conditions during test
 Mounting of equipment
 The longitudinal axis of the road milling machine shall be parallel to the y-axis
@@ -850,7 +848,7 @@ Test area
 MSA ISO 11094:2002
 Environmental correction K2A
 Measurement in the open air K2A = ()
-[S.L.427.19 54 BY EQUIPMENT FOR USE OUTDOORS
+[S.L.427.19 56 BY EQUIPMENT FOR USE OUTDOORS
 Measurements indoors
 The value of the constant K2A, determined without artificial surface and in accordance with Annex A to MSA EN ISO 3744:2000, shall be < 2.0 dB, in which case K2A shall be disregarded
 Measurement surface/number of microphone positions/measuring distance
@@ -878,7 +876,7 @@ The suction vehicle shall be tested in a stationary position. The engine and aux
 Period of observation
 The period of observation shall at least be 15 seconds
 53. TOWER CRANES
-[S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 55
+[S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 57
 Basic noise emission standard
 MSA EN ISO 3744:2000
 Measurernent surface/number of microphone positions/measuring distance
@@ -907,7 +905,7 @@ The lifting mechanism shall be fixed to a flat reflecting surface of concrete or
 Measurement of the energy generator
 Where the energy generator is attached to the crane, whether or not it is linked to the lifting mechanism, the crane shall be mounted on a flat reflecting surface of concrete or non-porous asphalt
 Where the lifting mechanism is situated on the jib stay, the noise measurement may be carried out with the mechanism either mounted on the jib stay or fixed to the
-[S.L.427.19 56 BY EQUIPMENT FOR USE OUTDOORS
+[S.L.427.19 58 BY EQUIPMENT FOR USE OUTDOORS
 ground
 Where the energy source powering the crane is independent from it (electrical power generator or mains, or hydraulic or pneumatic power source), only the noise level of the mechanism winch shall be measured
 Whcre the energy generator is attached to the crane, the energy generator and the lifting mechanism shall be measured separately if they are not combined. Where these two devices are combined, the measurement shall refer to the whole assembly
@@ -924,7 +922,7 @@ If an integrator is used, the integration period shall be equal to (tr+ tf) seco
 The root mean square value at a microphone position i shall be given by: Lpi = 10 lg [(tr 100.1Lri + tfº 100.1Lfi)/(tr+ tf)
 Lri being the sound pressure level at microphone position i during period tr
 Lfi being the sound pressure level at microphone position i during breaking period tf
-[S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 57
+[S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 59
 Figure 53.1
 Arrangement at microphone positions where the lifting mechanism is located on the jib stay
 54. TRENCHERS
@@ -935,7 +933,7 @@ MSA EN ISO 3744:2000
 Operating conditions during test
 Test under load
 The truck mixer shall be tested in a stationary position. The drum is filled with concrete of medium consistency (propagation measure 42 to 47 cm) complying to the rated capacity. The engine driving the drum shall operate at the speed that causes the maximum speed of the drum specified in the instructions supplied to the
-[S.L.427.19 58 BY EQUIPMENT FOR USE OUTDOORS
+[S.L.427.19 60 BY EQUIPMENT FOR USE OUTDOORS
 purchaser
 Period of observation
 The period of observation shall at least be 15 seconds
@@ -966,6 +964,6 @@ Mounting of equipment
 The welding generators shall be installed on the reflecting plane; skid-mounted welding generators shall be placed on a support 0.40 m high, unless otherwise required by the manufacturer's conditions of installation
 Test under load
 MSA ISO 8528-10:2002, point 9
-[S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 59
+[S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 61
 Period of observation
 The period of observation shall at least be 15 seconds

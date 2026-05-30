@@ -1,5 +1,8 @@
-# 1.
-Aerial access platforms with combustion engines
+## SCHEDULE I
+# schedule-i
+Based on Annex I of the Directive
+DEFINITIONS OF EQUIPMENT
+1. Aerial access platforms with combustion engines
 Equipment consisting of a minimum of a work platform, an extending structure and a chassis. The work platform is a fenced platform or a cage, which can be moved under load to the required working position. The extending structure is connected to the chassis and supports the work platform; it allows movement of the work platform to its required position.
 2. Brush cutter
 A combustion-engine driven portable hand-held unit fitted with a rotating blade made of metal or plastic intended to cut weeds, brush, small trees and similar vegetation. The cutting device operates in a plane approximately parallel to the ground.
@@ -24,7 +27,7 @@ vertical but may be used at any angle
 - sustained by steel wire rope and a positive drive system
 - controlled by constant pressure type controls
 - which does not benefit from the use of any counterweight - having a maximum rated load of 300 kg - having a maximum speed of 1 m/s - and where the guides require support from separate structures.
-[S.L.427.19 10 BY EQUIPMENT FOR USE OUTDOORS
+[S.L.427.19 12 BY EQUIPMENT FOR USE OUTDOORS
 4. Building site band saw machine
 A hand-fed powered machine weighing less than 200 kg fitted with a single saw blade in the form of a continuous band mounted on and running between two or more pulleys.
 5. Building site circular saw bench
@@ -50,7 +53,7 @@ cylindrical bodies (drums) or rubber tyres which do not possess an independent d
 mainly flat base plates which are made to vibrate. They are operated by an attending operator or as an attachment to a carrier machine
 - explosion rammers: compaction machines with mainly a flat pad as the
 compacting tool which is made to move in a predominantly vertical direction by explosion pressure. The machine is operated by an attending operator.
-[S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 11
+[S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 13
 9. Compressor
 Any machine for use with interchangeable equipment which compresses air, gasses or vapours to a pressure higher than the inlet pressure. A compressor comprises the bare compressor itself, the prime mover and any component or device supplied, which is necessary for safe operation of the compressor.
 Excluded are the following categories of device:
@@ -79,7 +82,7 @@ A cargo space refrigeration unit on vehicle categories N2, N3, O3 and O4 as defi
 The refrigeration unit may be powered by means of an integral part of the refrigeration unit, a separate part attached to the vehicle body, a driving engine of the vehicle, or by an independent or standby power source.
 16. Dozer
 A self-propelled wheeled or trawler machine used to exert a push or pull force through mounted equipment.
-17. Drill rig [S.L.427.19 12 BY EQUIPMENT FOR USE OUTDOORS
+17. Drill rig [S.L.427.19 14 BY EQUIPMENT FOR USE OUTDOORS
 A machine which is used for drilling holes on construction sites by
 - percussive drilling
 - rotary drilling
@@ -101,7 +104,7 @@ A self-propelled wheeled machine having an adjustable blade, positioned between 
 A combustion-engine driven portable hand-held unit fitted with flexible line(s), string(s), or similar non-metallic flexible cutting elements, such as pivoting cutters, intended to cut weeds, grass or similar soft vegetation. The cutting device operates in a plane approximately parallel (grass trimmer) or perpendicular (grass edge trimmer) to the ground.
 25. Hedge trimmer
 Hand-held. integrally driven powered equipment which is designed for use
-[S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 13
+[S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 15
 by one operator for trimming hedges and bushes utilising one or more linear reciprocating cutter blades.
 26. High pressure flusher
 A vehicle equipped with a device to clean sewers or similar installations by means of a high pressure waterjet.
@@ -123,7 +126,7 @@ A mobile machine intended for the production of joints in concrete, asphalt and 
 - power-driven.
 31. Landfill compactor, loader-type with bucket
 A self-propelled wheeled compaction machine having a front-mounted loader linkage with a bucket having steel wheels (drums) primarily designed to compact, move, grade, and load soil, landfill or sanitary (refuse) materials.
-32. Lawnmower [S.L.427.19 14 BY EQUIPMENT FOR USE OUTDOORS
+32. Lawnmower [S.L.427.19 16 BY EQUIPMENT FOR USE OUTDOORS
 A walk-behind or ride-on grass cutting machine or a machine with grass-cutting attachment(s) where the cutting device operates in a plane approximately parallel to the ground and which uses the ground to determine the height of cut by means of wheels, air cushion or skids, etc., and which utilises an engine or an electric motor for a power source. The cutting devices are either
 - rigid cutting elements, or
 - non-metallic filament line(s) or freely pivoting non-metallic cutter(s)
@@ -145,7 +148,7 @@ lift trucks that are specifically constructed for container handling.
 A self-propelled wheeled or trawler machine having an integral front-mounted bucket-supporting structure and linkage, which loads or excavates through forward motion of the machine, and lifts, transports and discharges material.
 38. Mobile crane
 A self-powered jib crane capable of travelling, loaded or unloaded, without the need for fixed runways and relying on gravity for stability. It operates on tyres, crawlers or with other mobile arrangements. In fixed positions it may be supported by outriggers or other accessories increasing its stability. The superstructure of a
-[S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 15
+[S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 17
 mobile crane may be of the type of full-circle slewing, of limited slewing or non-slewing. It is normally equipped with one or more hoists and, or hydraulic cylinders for lifting and lowering the jib and the load. Mobile cranes are equipped either with telescopic jibs, with articulated jibs, with lattice jibs, or a combination at these, of such a design that may readily be lowered. The loads suspended from the jib may be handled by hook block assemblies or other load-lifting attachments for special services.
 39. Mobile waste container
 An appropriate designed container fitted with wheels intended to store waste temporarily, and which is equipped with a cover.
@@ -171,7 +174,7 @@ Any device comprising an internal combustion engine driving a rotary electrical 
 Any device comprising an internal combustion engine driving a rotary electrical generator producing a continuous supply of electrical power.
 46. Powcr sweeper
 A sweeping collection machine having equipment to sweep debris into the path of a suction inlet that would then pneumatically by way of a high velocity
-[S.L.427.19 16 BY EQUIPMENT FOR USE OUTDOORS
+[S.L.427.19 18 BY EQUIPMENT FOR USE OUTDOORS
 airstream or with a mechanical pick-up system convey the debris to a collection hopper. The sweeping and collecting devices may either be mounted to a proprietary vehicular truck chassis or incorporated into its own chassis embodiment. The equipment can be fixed or demountable as in the case of an exchangeable bodywork system.
 47. Refuse collection vehicle
 A vehicle designed for the collection and transportation of domestic and bulky waste based on loading via containers or by hand. The vehicle may be equipped with a compaction mechanism. A refuse collection vehicle comprises a chassis with cab onto which the bodywork is mounted. It may be equipped with a container lifting device.
@@ -189,7 +192,7 @@ A vehicle equipped with a device to collect water, mud, sludge, refuse or simila
 A slewing jib crane with the jib located at the top of a tower which stays approximately vertical in the working position. This power-driven appliance is equipped with means for raising and lowering suspended loads and for the movement of such loads by changing the load-lifting radius, slewing, travelling of the complete appliance.
 Certain appliances perform several but not necessarily all of these movements.
 The appliance can be installed in a fixed position or equipped with means for displacing or climbing.
-[S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 17
+[S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 19
 54. Trencher
 A self-propelled, ride-on or pedestrian-controlled, crawler or wheeled machine, having a front- or rcar-mounted excavator linkage and attachment, primarily designed to produrc trenches in a continuous operation, through a motion of the machine.
 55. Truck mixer

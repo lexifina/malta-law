@@ -422,7 +422,7 @@ including, where appropriate, the personal protective equipment to be provided;
 - the A-weighted emission sound pressure level at workstations,
 where this exceeds 70 dB(A); where this level does not exceed 70 dB(A), this fact must be indicated,
 - the peak C-weighted instantaneous sound pressure value at
-workstations, where this exceeds 63 Pa (130 dB in relation to 20 µPa),
+workstations, where this exceeds 63 Pa (130 dB in relation to 20 μPa),
 - the A-weighted sound power level emitted by the machinery,
 where the A-weighted emission sound pressure level at workstations exceeds 80 dB(A).
 These values must be either those actually measured for the machinery in question or those established on the basis of measurements taken for technically comparable machinery which is representative of the machinery to be produced.

@@ -6,7 +6,7 @@ The guaranteed sound power level of equipment listed below shall be subject to n
 DEFINITION MEASUREMENT Aerial access platforms with Schedule 1, item 1 Schedule III, Part B, item 1 combustion engine
 Brush cutters Schedule I, item 2 Schedule III, Part B, item 2
 Builders' hoists for the transport of Schedule I, item 3 Schedule III, Part B, item 3 goods (with electric motor)
-[S.L.427.19 72 BY EQUIPMENT FOR USE OUTDOORS
+[S.L.427.19 74 BY EQUIPMENT FOR USE OUTDOORS
 DEFINITION MEASUREMENT
 Building site band saw machines Schedule I, item 4 Schedule III, Part B, item 4
 Building site circular saw benches Schedule I, item 5 Schedule III, Part B, item 5
@@ -31,7 +31,7 @@ Leaf blowers Schedule l, item 34 Schedule III, Part B, item 34
 Leaf collectors Schedule l, item 35 Schedule III, Part B, item 35
 Lift trucks, combustion-engine driven Schedule l, item 36 Schedule III, Part B, item 36 counterbalanced (only 'other counterbalanced lift trucks' as defined in Schedule I, item 36, second indent, with a rated capacity of not more than 10 tonnes)
 Mobile waste containers Schedule l, item 39 Schedule III, Part B, item 39
-[S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 73
+[S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 75
 DEFINITION MEASUREMENT Paver-finishers (equipped with a high- Schedule l, item 41 Schedule III, Part B, item 41 compaction screed)
 Piling equipment Schedule l, item 42 Schedule III, Part B, item 42
 Pipelayers Schedule l, item 43 Schedule III, Part B, item 43

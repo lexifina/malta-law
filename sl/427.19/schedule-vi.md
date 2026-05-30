@@ -10,7 +10,7 @@ INTERNAL CONTROL OF PRODUCTION WITH ASSESSMENT OF TECHNICAL DOCUMENTATION AND PE
 - make
 - trade name
 - type, series and numbers
-- the technical data relevant for the identification of the equipment and [S.L.427.19 62 BY EQUIPMENT FOR USE OUTDOORS
+- the technical data relevant for the identification of the equipment and [S.L.427.19 64 BY EQUIPMENT FOR USE OUTDOORS
 the assessment of its noise emission, including, if appropriate, schematic drawings and any description and explanation necessary for their understanding
 - the reference to these regulations
 - the technical report of noise measurements carried out in accordance
@@ -34,7 +34,7 @@ regulation 11,
 uncertainties due to production variation and their relation to the guaranteed sound power level.
 The manufacturer, or his authorised representative, shall give the notified body free access to all the internal documentation supporting these procedures, the actual results of the internal audits and the corrective actions which have been taken, if any.
 Only if the above checks give unsatisfactory results shall the notified body carry out noise tests, which, on its own judgement and experience, may be simplified or completely carried out according to the provisions laid down in Annex III of the
-[S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 63
+[S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 65
 Directive, which is set out in Schedule III, for the relevant type of equipment,
 - the notified body shall carry out or have carried out product checks at
 random intervals.

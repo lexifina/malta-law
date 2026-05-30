@@ -8,7 +8,7 @@ INTERNAL CONTROL OF PRODUCTION
 - name and address of the manufacturer or his authorised representative
 - a description of the equipment
 - make
-[S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 61
+[S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 63
 - trade name
 - type, series and numbers
 - the technical data relevant for the identification of the equipment and

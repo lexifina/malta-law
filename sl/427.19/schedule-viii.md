@@ -12,7 +12,7 @@ technical documentation of all equipment already in phase of design or productio
 - name and address of the manufacturer or his authorised representative
 - a description of the equipment
 - make
-[S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 65
+[S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 67
 - trade name
 - type, series and numbers
 - the technical data relevant for the identification of the equipment and
@@ -43,7 +43,7 @@ data, qualification reports of the personnel concerned, etc.,
 product quality and the effective operation of the quality assurance system.
 The notified body must assess the quality assurance system to determine whether it satisfies the requirements referred to in point 3.2. It shall presume conformity with these requirements in respect of quality assurance systems that implement MSA EN ISO 9001:2000.
 The auditing team must have at least one member with experience as an assessor in the equipment technology concerned. The assessment procedure must include an assessment visit to the manufacturer's premises.
-[S.L.427.19 66 BY EQUIPMENT FOR USE OUTDOORS
+[S.L.427.19 68 BY EQUIPMENT FOR USE OUTDOORS
 The decision must be notified to the manufacturer. The notification must contain the conclusion of the examination and the reasoned assessment decision.
 3.4. The manufacturer must undertake to fulfil the obligations arising out of the quality assurance system as approved and to maintain it in an adequate and efficient manner.
 The manufacturer or his authorised representative shall keep the notified body that has approved the quality assurance system informed of any intended updating of the quality assurance system.
@@ -67,4 +67,4 @@ Schedule
 - the decisions and reports from the notified body which are referred to in
 the final paragraph of point 3.4, points 4.3 and 4.4.
 6. Each notified body must give the other notified bodies the relevant information concerning the quality assurance system approvals issued and withdrawn.
-[S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 67
+[S.L.427.19 BY EQUIPMENT FOR USE OUTDOORS 69
