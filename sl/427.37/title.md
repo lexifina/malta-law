@@ -1,4 +1,4 @@
 SUBSIDIARY LEGISLATION 427.37
 LIFTS REGULATIONS
 20th April, 2016*
-LEGAL NOTICE 79 of 2016, as amended by Legal Notice 102 of 2019.
+LEGAL NOTICE 79 of 2016, as amended by Legal Notices 102 of 2019 and 257 of 2026.
