@@ -1,6 +1,7 @@
 ## SCHEDULE VI
 # schedule-vi
-EU DECLARATION OF CONFORMITY (No XXX) (1)
+EU DECLARATION OF CONFORMITY (No )1(Regulation 18)
+1 - It is optional for the manufacturer to assign a number to the EU declaration of conformity.
 1. Radio equipment (product, type, batch or serial number):
 2. Name and address of the manufacturer or his authorised representative:
 3. This declaration of conformity is issued under the sole responsibility of the manufacturer.
@@ -15,3 +16,4 @@ Other Union harmonisation legislation where applicable.
 Signed for and on behalf of: ............................
 (place and date of issue):
 (name, function) (signature):
+- Amended by: L.N. 7 of 2024.

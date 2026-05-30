@@ -1,6 +1,5 @@
 ## SCHEDULE II
-## *
-## † Regulation (EC) No 216/2008 of the European Parliament and of the Council of 20 February 2008
+## * † Regulation (EU) 2018/1139 of the European Parliament and of the Council of 4 July 2018 on common rules in the field of civil aviation and establishing a European Union Aviation Safety Agency, and amending Regulations (EC) No 2111/2005, (EC) No 1008/2008, (EU) No 996/2010, (EU) No 376/2014 and Directives 2014/30/EU and 2014/53/EU of the European Parliament and of the Council, and repealing Regulations (EC) No 552/2004 and (EC) No 216/2008 of the European Parliament and of the Council and Council Regulation (EEC) No 3922/91 (OJ L 212, 22.8.2018, p.1)
 # schedule-ii
 CONFORMITY ASSESSMENT MODULE A
 INTERNAL PRODUCTION CONTROL
