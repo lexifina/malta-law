@@ -15,8 +15,8 @@ type
 - the declaration that the equipment conforms to the requirements of these
 regulations
 - where appropriate, the declaration(s) of conformity and references of
-the other Community Directives applied
+the other European Union Directives applied
 - the place and date of the declaration
 - particulars of the signatory authorised to sign the legally binding
 declaration for the manufacturer or his authorised representative.
-[S.L.427.19 18 BY EQUIPMENT FOR USE OUTDOORS
+[S.L.427.19 20 BY EQUIPMENT FOR USE OUTDOORS

@@ -18,4 +18,4 @@ authenticate the performance of the tests.
 5. The impartiality of inspection staff must be guaranteed. Their remuneration must not depend on the number of tests carried out or the results of such tests.
 6. The body must take out liability insurance unless its liability is assumed by the State in accordance with national law, or the Member State itself is directly responsible for the tests.
 7. The staff of the body must observe professional secrecy with regard to all information gained in carrying out its tests (except vis-a-vis the competent administrative authorities of the State in which its activities are carried out) under these regulations or any provisions of national law giving effect to it.
-[S.L.427.19 68 BY EQUIPMENT FOR USE OUTDOORS
+[S.L.427.19 70 BY EQUIPMENT FOR USE OUTDOORS
