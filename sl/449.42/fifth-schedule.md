@@ -7,11 +7,13 @@ Fruit Brix values
 Apple (*) Malus domestica Borkh. 11.2 Apricot (**) Prunus armeniaca L. 11.2 Banana (**) Musa x paradisiaca L. 21.0
 (excluding plantains)
 Blackcurrant (*) Ribes nigrum L. 11.0
+Coconut Cocos nucifera L. 4.5
 Grape (*) Vitis vinifera L. or hybrids thereof 15.9
 Vitis labrusca L. or hybrids thereof
-Grapefruit (*) Citrus x paradise Macfad. 10.0 Guava (**) Psidium guajava L. 8.5 Lemon (*) Citrus limon (L.) Burm.f. 8.0 Mango (**) Mangifera indica L. 13.5 Orange (*) Citrus sinensis (L.) Osbeck 11.2
-Passion Fruit (*) Passiflora edulis Sims 12.0 Common Name of the Botanical Name Minimum degree of
+Grapefruit (*) Citrus x paradise Macfad. 10.0 Guava (**) Psidium guajava L. 8.5 Lemon (*) Citrus limon (L.) Burm.f. 8.0 Mango (**) Mangifera indica L. 13.5 Common Name of the Botanical Name Minimum degree of
 Fruit Brix values
+Orange (*) Citrus sinensis (L.) Osbeck 11.2
+Passion Fruit (*) Passiflora edulis Sims 12.0
 Peach (**) Prunus persica (L.) Batsch 10.0
 var. Persica
 Pear (**) Pyrus communis L. 11.9
@@ -19,5 +21,3 @@ Pineapple (*) Ananas comosus (L.) Merr. 12.8 Raspberry (*) Rubus idaeus L. 7.0 S
 Tomato (*) Lycopersicon esculentum, Mill. 5.0 Mandarin (*) Citrus reticulata Blanco 11.2
 For those products marked with an asterisk (*), which are produced as a juice, a minimum relative density is determined as such in relation to water at 20/20°C.
 For those products marked with two asterisks (**), which are produced as a purée, only a minimum uncorrected Brix reading (without correction of acid) is determined.".
-- Added by: L.N. 41 of 2011.
-- Substituted by: L.N. 339 of 2013.
