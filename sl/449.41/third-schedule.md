@@ -1,5 +1,10 @@
-# 1. *OJ L 10, 12.1.2002, p.47
-Fruit:
+## THIRD SCHEDULE
+## *OJ L 10, 12.1.2002, p.47 †Vide: Regulation (EC) No 1333/2008 of the European Parliament and of the Council of 16 December 2008 on food additives (OJ L 354, 31.12.2008, p. 16).
+## *OJ L 10, 12.1.2002, p.53
+# third-schedule
+A. DEFINITIONS
+For the purposes of these regulations, the following definitions shall apply:
+1. Fruit:
 - fresh, sound fruit, free from deterioration, containing all its essential
 constituents and sufficiently ripe for use, after cleaning, removal of blemishes, topping and tailing,
 - for the purposes of these regulations, tomatoes, the edible parts of
@@ -23,7 +28,6 @@ B. TREATMENT OF RAW MATERIALS
 - heated, chilled or frozen,
 - freeze-dried,
 - concentrated, to the extent that is technically possible,
-- with the exception of the raw materials used in the manufacture of
-'extra products: the use of sulphur dioxide (E 220) or its salts (E 221, E 222, E 223, E 224, E 226 and E 227) as an aid to manufacture provided that the maximum sulphurdioxide content laid down in Directive 95/2/ EC is not exceeded in the products defined in part I of the First Schedule.
+- Repealed by Legal Notice 71 of 2026.
 2. Apricots and plums to be used in the manufacture of jam may also be treated by other drying processes apart from freeze-drying.
 3. Citrus peel may be preserved in brine.
