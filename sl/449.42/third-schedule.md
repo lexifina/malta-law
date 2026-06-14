@@ -2,18 +2,19 @@
 # third-schedule
 Particular Designations for Certain Products Listed
 in the First Schedule
+I. Particular designations that may be used only in the language of the designation
 (a) "vruchtendrank", for fruit nectars;
-(b) "Süßmost";
-The designation "Süßmost" may be used only in conjunction with the product names "Fruchtsaft" or "Fruchtnektar":
-- for fruit nectar obtained exclusively from fruit juices, concentrated fruit
-juices or a mixture of these products, unpalatable in the natural state because of their high natural acidity,
-- for fruit juice obtained from apples or from pears, with the addition of
-apples where appropriate, but with no added sugar;
-(c) "succo e polpa" or "sumo e polpa", for fruit nectars obtained exclusively from fruit purée and/or concentrated fruit purée;
-(d) "æblemost", for apple juice with no added sugar;
-(e) - "sur … saft", together with the name (in Danish) of the fruit used, for juices with no added sugar obtained from blackcurrants, cherries, redcurrants, whitecurrants, raspberries, strawberries or elderberries,
-- "sød … saft" or "sødet … saft" together with the name (in Danish) of the fruit used, for juices obtained from this fruit, with more than 200 g of added sugar per litre;
-(f) "äppelmust/äpplemust", for apple juice with no added sugar;
+(b) "Süßmost", to be used only in conjunction with the product names "Fruchtsaft" or "Fruchtnektar":
+(i) for fruit nectar obtained exclusively from fruit juices, concentrated fruit juices or a mixture of these products, unpalatable in the natural state because of their high natural acidity;
+(ii) for fruit juice obtained from apples or from pears, with the addition of apples where appropriate, but with no added sugar;
+(c) "succo e polpa" or "sumo e polpa", for fruit nectars obtained exclusively from fruit purée and, or concentrated fruit purée;
+(d) (i) "æblemost", synonym of apple juice;
+(ii) "æblemost fra koncentrat", synonym of apple juice from concentrate;
+(e) (i)"sur … saft", together with the name (in Danish) of the fruit used, for juices with no added sugar obtained from blackcurrants, cherries, redcurrants, white currants, raspberries, strawberries or elderberries,
+(ii) "sød … saft" or "sødet … saft" together with the name (in Danish) of the fruit used, for juices obtained from this fruit, with more than 200g of added sugar per litre;
+(f) "äppelmust/äpplemust", synonym of apple juice;
 (g) "mosto", synonym of grape juice;
-(h) "smiltsērkšķu sula ar cukuru" or "astelpaju mahl suhkruga" or "słodzony sok z rokitnika" for juices obtained from seabuckthorn berries with no more than 140 g of added sugar per litre.
-- Substituted by: L.N. 339 of 2013.
+(h) "smiltsērkšķu sula ar cukuru" or "astelpaju mahl suhkruga" or "słodzony sok z rokitnika", for juices obtained from sea buckthorn berries with not more than 140g of added sugar per litre.
+II. Particular designations that may be used in one or more of the official languages of the Union
+(a) "coconut water", for the product which is directly extracted from the coconut without expressing the coconut meat, as a synonym of coconut juice.
+- Substituted by: L.N. 339 of 2013; L.N. 72 of 2026.
