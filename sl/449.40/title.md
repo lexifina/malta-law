@@ -1,13 +1,15 @@
 SUBSIDIARY LEGISLATION 449.40
 PRESERVED MILK REGULATIONS
 1st May, 2004
-LEGAL NOTICE 215 of 2004, as amended by Legal Notice 224 of 2008.
-The title of these regulations is the Preserved Milk 1.1. Regulations.
+LEGAL NOTICE 215 of 2004, as amended by Legal Notices 224 of 2008 and 74 of 2026.
+1.1. The title of these regulations is the Preserved Milk Regulations.
 1.2 These regulations implement the provisions of Council Directive 2001/114/EEC relating to certain partly or wholly dehydrated preserved milk for human consumption.
-Products falling within the scope of these regulations 2.1. which do not conform with these regulations but which conform with the provisions of the Preserved Milk Regulations (L.N. 15 of 2002), may be placed on the market until the 17th July 2004.
+1.3 These regulations shall also transpose the provisions of Directive 2024/1438/EU of the European Parliament and of the Council amending Council Directive 2001/114/EC relating to certain partly or wholly dehydrated preserved milk for human consumption.
+2.1. Products falling within the scope of these regulations which do not conform with these regulations but which conform with the provisions of the Preserved Milk Regulations (L.N. 15 of 2002), may be placed on the market until the 17th July 2004.
 2.2 Products falling within the scope of these regulations which do not conform with these regulations but which conform with the provisions of the Preserved Milk Regulations (L.N. 15 of 2002), and which were labelled before the 17th July 2004, may continue to be marketed until stocks are exhausted.
-These regulations shall apply to partly or wholly 3.1. dehydrated preserved milk defined in the First Schedule.
-4.1. The Labelling, Presentation and Advertising of Foodstuffs Regulations shall apply to the products defined in the First Schedule, subject to the following conditions.
+2.3 Products which are placed on the market or labelled before 14th June 2026 in accordance with Directive 2001/114/EC relating to certain partly or wholly dehydrated preserved milk for human consumption may continue to be marketed until the exhaustion of stocks.
+3.1. These regulations shall apply to partly or wholly dehydrated preserved milk defined in the First Schedule.
+4.1. Regulation (EU) No. 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food information to consumers shall apply to the products defined in the First Schedule, subject to the following conditions:
 (a) The product names listed in the First Schedule shall apply
 only to the products referred to therein and shall, without prejudice to paragraph (b), be used in trade to designate them;
 (b) as an alternative to the product names referred to in paragraph (a), the Second Schedule provides a list of particular designations. These designations may be used in the language and under the conditions laid down in the Second Schedule.
