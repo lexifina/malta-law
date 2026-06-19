@@ -1,6 +1,6 @@
 SUBSIDIARY LEGISLATION 378.17
 CONSUMER RIGHTS REGULATIONS
 13th June, 2014*
-LEGAL NOTICE 439 of 2013, as amended by Legal Notice 124 of 2016 and Acts XVI of 2019 and XIII of 2022.
+LEGAL NOTICE 439 of 2013, as amended by Legal Notice 124 of 2016 and Acts XVI of 2019 and XIII of 2022 and Legal Notice 145 of 2026.
 PART I
 PRELIMINARY
