@@ -49,8 +49,9 @@ Provided further that port workers, allocated to shift work, but who did not att
 (b) an order for work on a Saturday, a Sunday or a national or public holiday may be cancelled up to the time limit specified in paragraph
 4(2) of this Schedule for the making of the relative order;
 (c) if an order for night shift or for Saturday, Sunday or national or public holiday work is cancelled after the time limits set out in sub-paragraph
-(a) or (b), the employer of port workers in question shall pay a fee of €4.66 per man allocated to a ship or operation together with any night shift, Sunday or national or public holiday allowances, where applicable, which amounts shall be distributed equally amongst port workers, and
+(a) or (b), the employer of port workers in question shall pay a fee of €85.00 per worker allocated to a ship or operation together with any night shift, Sunday or national or public holiday allowances, where applicable, which amounts shall be distributed equally amongst port workers, and
 (d) for the purposes of this paragraph an order is cancelled when the employer notifies the Authority of his definite intention not to employ the port workers ordered.
+12A. Where a port worker is engaged for work and due to circumstances not attributable to the worker, no work is available or work is interrupted, such worker shall be entitled to an idle time payment equivalent to the applicable hourly rate for the duration during which no work is performed.
 13. (1) No port worker shall absent himself or herself from work without justifying his or her absence to the satisfaction of the Authority.
 (2) In the case of illness, port workers shall produce a medical certificate issued by a medical officer appointed by the Port Workers Board.
 (3) No medical certificates produced by a port worker in connection with absence due to illness or with any other matter connected with port work shall be accepted as being valid for the purposes of this order unless such certificate -
@@ -61,4 +62,3 @@ Workers Board;
 (4) If a port worker fails to comply with the requirements of sub-paragraphs (1) and (2), the Authority shall report the matter to the Port Workers Board for any action the Board may deem proper to take.
 14. The number of port workers allocated port work on Deep Water Quays shall be deemed to include at least one driver for mechanical handling equipment other than fork lift trucks and cranes.
 15. Leakages on board ship shall be gathered and packed or bagged by port workers.
-- Amended by: L.N. 141 of 1994; L.N. 318 of 2002; L.N. 145 of 2006; L.N. 226 of 2007; L.N. 410 of 2007; XV. 2009.49.

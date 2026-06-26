@@ -2,6 +2,12 @@
 ## Meaning of grain.
 ## Methods of calculation of Tariffs.
 ## Table.
+## Drums.
+## Scrap metal.
+## Glass - loose broken.
+## Difference in tonnage.
+## Ammunition.
+## Cargo short landed.
 ## Applicability of this Schedule.
 ## Charges payable by employers of port workers.
 # third-schedule

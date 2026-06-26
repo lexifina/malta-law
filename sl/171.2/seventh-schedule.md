@@ -15,6 +15,3 @@ Pension and Contingency Fund Contribution
 (vii) Bulk Cereals.
 (viii) Accompanied commercial vehicles of a cargo capacity of more than 10
 tons.
-- Amended by: L.N. 141 of 1994.
-- Substituted by: L.N. 226 of 2007.
-- Amended by: L.N. 410 of 2007; L.N. 223 of 2009.

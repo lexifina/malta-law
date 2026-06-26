@@ -37,5 +37,3 @@ Provided that such port workers shall be required to prove to the satisfaction o
 7. Notwithstanding the provisions of this Schedule, a port worker who, having been registered in the Bulk Cargo Workers Section only, qualifies for a pension in terms of these regulations and who, during the twelve months immediately preceding his retirement, earned his total income shown in Column 1 of the following table shall be paid a pension at the rate as shown in Column 2 thereof:
 Column 1 Column 2 Income Pension Rate
 Between €465.87 and €931.75 ......................... €878.17 Earned less than €465.87 or no income at all .... €603.31
-- Amended by: L.N. 226 of 2007.
-- Substituted by: L.N. 410 of 2007.
