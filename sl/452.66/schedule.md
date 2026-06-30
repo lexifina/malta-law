@@ -1,6 +1,7 @@
 ## SCHEDULE
 ## Application of Part I.
 ## Hours of work.
+## *This Order has been repealed by Legal Notice 137 of 2026.
 ## Minimum remuneration.
 ## Minimum daily rest.
 ## Minimum overtime rates for maintenance workers.
