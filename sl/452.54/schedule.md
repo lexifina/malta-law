@@ -1,5 +1,6 @@
 ## SCHEDULE
 ## Interpretation.
+## *This Order has been repealed by Legal Notice 138 of 2026.
 ## Minimum rates of pay.
 ## Overtime.
 ## Ordinary hours of work.
@@ -21,7 +22,8 @@
 Provided that where the clinic is situated in a pharmacy, the employees in that pharmacy shall not be deemed to be employees of that clinic;
 "customary holidays" means the days (other than Sundays) declared for the time being to be public holidays by or under the National Holidays and other Public Holidays Act;
 "hospital" means any institute of medico-surgical treatment, any maternity home or hydropathic establishment and includes homes for old aged persons, and sanatoria excluding those charitable institutions identified as such by the Minister responsible for labour;
-"hours of work" means the time on any day during which the employees are at the disposal of the employer exclusive of any intervals allowed for meals and rest; [S.L.452.54 2 COUNCIL WAGE REGULATION
+"hours of work" means the time on any day during which the [S.L.452.54 2 COUNCIL WAGE REGULATION
+employees are at the disposal of the employer exclusive of any intervals allowed for meals and rest;
 "part-time employee" means an employee whose normal hours of
 work, calculated on a weekly basis or on average over a period of employment of up to one year, are less than the normal hours of work of a comparable whole-time employee and who is not a whole-time employee with reduced hours;
 "period of employment" means the time in any day during which
@@ -55,8 +57,9 @@ Staff Nurse/State Registered Nurse
 €12,678.64 per annum rising by annual increments of €83.86
 until it reaches an annual salary of €13,028.88 and by annual increments of €111.81 until it reaches an annual salary of €13,722.83:
 Provided that those S.R.N.s who besides their normal duties
-perform also the work of a midwife they become entitled to the payment of an increase of €111.81 per annum besides their normal salary.
+perform also the work of a midwife they become entitled to the payment
 [S.L.452.54 COUNCIL WAGE REGULATION 3
+of an increase of €111.81 per annum besides their normal salary.
 CATEGORY B - (Employees who by the nature of their duties do not ordinarily come into direct relationship with the patient.)
 Hospital Auxiliaries
 (a) Servants and Laundry Employees
@@ -79,8 +82,8 @@ At 16 years ...... €219.82.
 At 17 years ...... €222.69.
 At 18 years and over €232.35 per week rising by annual increments of €1.75 per week up to a maximum of €237.60 per week.
 Dental Mechanics
-When a Dental Mechanic in possession of a qualification recognised by the Advisory and Executive Board performs work on the construction of dentures and other connected work, whether or not he performs also all or any of the following additional duties, namely the construction of obturators, splints for fractures, chrome cobalt prosthesis, precision attachment bridge work and porcelain fused to gold bridge work, he shall receive a salary of €12,678.64 per annum rising by annual increments of €83.86 until it reaches and annual salary€13,028.87 and [S.L.452.54 4 COUNCIL WAGE REGULATION
-thereafter by annual increments of €111.81 up to a maximum of €13,722.66 per annum.
+When a Dental Mechanic in possession of a qualification recognised by the Advisory and Executive Board performs work on the construction of dentures and other connected work, whether or not he performs also all or any of the following additional duties, namely the construction of obturators, splints for fractures, chrome cobalt prosthesis, precision [S.L.452.54 4 COUNCIL WAGE REGULATION
+attachment bridge work and porcelain fused to gold bridge work, he shall receive a salary of €12,678.64 per annum rising by annual increments of €83.86 until it reaches and annual salary€13,028.87 and thereafter by annual increments of €111.81 up to a maximum of €13,722.66 per annum.
 In the case of a Dental Mechanic not in possession of the
 qualifications referred to in the preceding paragraph shall receive a wage of €239.34 per week rising by annual increments of €1.75 per week up to a maximum of €245.75 per week.
 3. Whole-time employees shall be paid overtime at the
@@ -97,10 +100,8 @@ Provided that -
 (a) the ordinary hours of work of whole-time shift workers employed in any hospital shall be spaced within an uninterrupted period of employment for any particular day determined by the employer in agreement with the employees in accordance with a roster prepared by them;
 (b) the ordinary hours of work of whole-time employees other than shift workers employed in any hospital shall be spaced within an uninterrupted period of employment of not more than nine hours on any one day inclusive of the interval allowed for rest; and
 (c) the ordinary hours of work of whole-time employees employed in any clinic shall be spaced between the times of 8.00 a.m. and 7.00 p.m. on any one day from Monday to Friday. On Saturday the hours of work shall be between the times of 8.00 a.m. and 1.00 p.m.
-5. An employee shall be entitled to the payment of the
-minimum remuneration applicable to him for all time during which he is present on the premises of his employer unless he is present
 [S.L.452.54 COUNCIL WAGE REGULATION 5
-thereon in any of the following circumstances:
+5. An employee shall be entitled to the payment of the minimum remuneration applicable to him for all time during which he is present on the premises of his employer unless he is present thereon in any of the following circumstances:
 (a) without the employer's consent, expressed or implied;
 (b) for some purpose not connected with his work and
 other than that of waiting for work to be given to him
@@ -126,9 +127,9 @@ such number of working days with full pay as is
 equivalent to the number of working days as that
 particular employee should normally attend to work
 during a period of four weeks:
-Provided that whole-time employees who have been in employment for less than one year shall be entitled to such part of the said vacation leave as is in proportion to the number of months in employment.
-10. (1) A whole-time employee shall in every calendar year be entitled to the equivalent in hours of thirty days sick leave on full pay, less an amount equal to the sum set for sickness benefit entitlement at the rate established under the Social Security Act, and part-time employees shall have a pro rata entitlement to sick leave in hours on full pay, less an amount equal to the sum set for [S.L.452.54 6 COUNCIL WAGE REGULATION
-sickness benefit entitlement at the rate established under the Social Security Act, which amount is also to be calculated on a pro rata basis:
+Provided that whole-time employees who have been in employment for less than one year shall be entitled to such part of the said vacation leave as is in proportion to the number of months in employment. [S.L.452.54 6 COUNCIL WAGE REGULATION
+10. (1) A whole-time employee shall in every calendar year be
+entitled to the equivalent in hours of thirty days sick leave on full pay, less an amount equal to the sum set for sickness benefit entitlement at the rate established under the Social Security Act, and part-time employees shall have a pro rata entitlement to sick leave in hours on full pay, less an amount equal to the sum set for sickness benefit entitlement at the rate established under the Social Security Act, which amount is also to be calculated on a pro rata basis:
 Provided that -
 (a) the first three days of any claim for sick leave shall be
 paid in full by the employer;
@@ -144,9 +145,8 @@ paid at half pay by the employer;
 under the Social Security Act.
 (3) The employer may require a medical certificate by his own
 physician to certify incapacity for work during the period of absence.
-(4) The sick leave entitlement granted by virtue of this
-paragraph shall be calculated on the basis provided for annual leave as specified in regulation 8(1) of the Organisation of Working Time Regulations.
 [S.L.452.54 COUNCIL WAGE REGULATION 7
+(4) The sick leave entitlement granted by virtue of this paragraph shall be calculated on the basis provided for annual leave as specified in regulation 8(1) of the Organisation of Working Time Regulations.
 11. Whenever whole-time employees sustain any injury or contract any disease while on duty they shall be entitled to leave on full injury pay less the full amount of any benefit to which such employees may be entitled in terms of the Social Security Act, for the whole duration of such an injury or disease:
 Provided, however, that the injury or the disease is -
 (a) sustained or contracted by the employee during the actual discharge of his duties;
@@ -163,7 +163,8 @@ employer.
 EXPLANATORY NOTE
 (This note is not part of the Schedule, but is intended to show its applicability).
 The provisions of this Schedule apply to all employees in any private hospital, nursing or convalescent home, dental or other clinic, including dental mechanics and medical or nursing institutions or similar establishments.
-"Hospital" means any institute of medico-surgical treatment, any maternity home or hydropathic establishment and includes homes for old aged persons and sanatoria, excluding those charitable institutions identified as such by the Minister responsible for labour. [S.L.452.54 8 COUNCIL WAGE REGULATION
+"Hospital" means any institute of medico-surgical treatment, any [S.L.452.54 8 COUNCIL WAGE REGULATION
+maternity home or hydropathic establishment and includes homes for old aged persons and sanatoria, excluding those charitable institutions identified as such by the Minister responsible for labour.
 "Clinics" also includes ante-natal clinics, X-Ray clinics and
 medical laboratories and any other establishment where people go to be medically examined or to receive medical attention but does not include any institution which is not run as a profitable concern.
 This Order shall not apply to employees whose remuneration for
