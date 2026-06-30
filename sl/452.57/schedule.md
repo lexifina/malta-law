@@ -1,5 +1,6 @@
 ## SCHEDULE
 ## Interpretation.
+## *This Order has been repealed by Legal Notice 139 of 2026.
 ## Hours of work.
 ## Minimum wages of whole-time employees.
 ## Minimum remuneration of part-time employees.
@@ -20,7 +21,8 @@
 "day" means a period of twenty-four consecutive hours commencing from midnight of one day to midnight of the next following day;
 "hours of work" means the time on any day during which employees are at the disposal of the employer, exclusive of the intervals allowed for meals and rest;
 "normal time", "time-and-a-half" and "double time" mean respectively one time, one-and-a-half and double time, the minimum time rate applicable to the employee;
-"part-time employee" means an employee whose normal hours of work, calculated on a weekly basis or on average over a period of employment of up to one year, are less than the normal hours of work of a comparable whole-time employee and who is not a whole-time employee with reduced hours; [S.L.452.57 2 WAGES COUNCIL WAGE REGULATION
+"part-time employee" means an employee whose normal hours of work, calculated on a weekly basis or on average over a period of [S.L.452.57 2 WAGES COUNCIL WAGE REGULATION
+employment of up to one year, are less than the normal hours of work of a comparable whole-time employee and who is not a whole-time employee with reduced hours;
 "period of employment" means the time in any one day during
 which employees are at the disposal of the employer, but inclusive of the intervals allowed for meals and rest;
 "wages" means remuneration or earnings payable in money by an
@@ -45,15 +47,14 @@ sub-paragraph (2) hereof shall be as follows respectively:
 (a) minimum four hours, maximum eight hours;
 (b) minimum five hours, maximum ten hours;
 (c) twelve hours.
-3. The minimum weekly wage payable to whole-time
-employees shall be as follows -
+[S.L.452.57 WAGES COUNCIL WAGE REGULATION 3
+3. The minimum weekly wage payable to whole-time employees shall be as follows -
 (a) clerk/receptionist ...................................... €236.43
 (b) drivers ...................................................... €235.85
 (c) conductors/attendants, and other employees (other than watchmen) -
 (i) aged 18 years or over ....................... €232.10
 (ii) aged 16 or 17 years .......................... €229.44
 (d) watchmen:
-[S.L.452.57 WAGES COUNCIL WAGE REGULATION 3
 (i) those whose duties are mainly performed
 indoors ............................................... €232.10
 (ii) those whose duties are mainly performed out of
@@ -81,13 +82,12 @@ less in any one day .......... €15.14 €14.96
 (ii) for each hour or part
 thereof in excess of the
 first 3 hours in any one day €5.05 €4.99.
-(2) Where the Government grants to all its whole-time employees a general increase in wages and such increase is declared by the Minister responsible for labour by notice in the Gazette to be of general application to all whole-time employees the above rates shall be proportionately increased in accordance with the said general increase of wages, regard being had, in arriving to the said proportion, to the provisions set out in sub-paragraph (2) of paragraph 2 of this Schedule.
-5. Save as provided for in sub-paragraph (1) of paragraph 2, all whole-time employees, other than watchmen, shall be allowed intervals for meals and rest of not less, in the aggregate, than one hour every day:
+(2) Where the Government grants to all its whole-time employees a general increase in wages and such increase is declared by the Minister responsible for labour by notice in the Gazette to be of general application to all whole-time employees the above rates shall be proportionately increased in accordance [S.L.452.57 4 WAGES COUNCIL WAGE REGULATION
+with the said general increase of wages, regard being had, in arriving to the said proportion, to the provisions set out in sub-paragraph (2) of paragraph 2 of this Schedule.
+5. Save as provided for in sub-paragraph (1) of paragraph 2,
+all whole-time employees, other than watchmen, shall be allowed intervals for meals and rest of not less, in the aggregate, than one hour every day:
 Provided that -
-(a) subject to paragraph (b) of this proviso, the interval or
-intervals shall be allowed after the first or before the
-[S.L.452.57 4 WAGES COUNCIL WAGE REGULATION
-last hour of the period of employment; and
+(a) subject to paragraph (b) of this proviso, the interval or intervals shall be allowed after the first or before the last hour of the period of employment; and
 (b) where the last half hour of the period of employment is allowed as a half-hour of rest, the employee shall be entitled to leave the place of work as soon as that half hour starts.
 6. All employees shall be entitled to one day of rest per week,
 four days of which, in any calendar year, shall be granted on Sundays, if so requested by the employee.
@@ -105,11 +105,16 @@ been in employment for less than one year shall be entitled to such part of the 
 9. (1) After completing six months in employment, a whole-
 time employee shall in every calendar year be entitled to the equivalent in hours of twelve days sick leave on full pay, less an amount equal to the sum set for sickness benefit entitlement at the rate established under the Social Security Act, and part-time employees shall have a pro rata entitlement to sick leave in hours on full pay, less an amount equal to the sum set for sickness benefit entitlement at the rate established under the Social Security Act, which amount is also to be calculated on a pro rata basis:
 Provided that -
-(a) the first three days of any claim for sick leave shall be
-paid in full by the employer;
-(b) a medical certificate covering the period of absence is produced to the employer on the day of return to work or, if such period of absence is longer than seven days, within seven days of the onset of sick leave absence;
-(c) employees in receipt of a social security pension in respect of retirement or widowhood in terms of the Social Security Act shall, for the purpose of calculating the sick leave pay due, be deemed to have
 [S.L.452.57 WAGES COUNCIL WAGE REGULATION 5
+(a) the first three days of any claim for sick leave shall be paid in full by the employer;
+(b) a medical certificate covering the period of absence is
+produced to the employer on the day of return to work
+or, if such period of absence is longer than seven days,
+within seven days of the onset of sick leave absence;
+(c) employees in receipt of a social security pension in
+respect of retirement or widowhood in terms of the
+Social Security Act shall, for the purpose of
+calculating the sick leave pay due, be deemed to have
 received an amount equal to the sum set for sickness
 benefit entitlement at the rate established under the
 Social Security Act.
@@ -124,10 +129,10 @@ Social Security Act.
 (b) for some purpose unconnected with his work and other
 than that of waiting for work to be given to him to
 perform;
-(c) by reason only of the fact that he is resident thereon;
-(d) during recognised breaks for meals and rest, and he is
-not waiting for work to be given to him to perform.
-15. In cases where the retiring age of a male employee is expected at the age of sixty years, such employee shall be given the opportunity by his employer to retain his employment beyond this age at least until the age of sixty-one years, provided that the employee in question shall still be allowed, if he so wishes, to retire at the age of sixty years. [S.L.452.57 6 WAGES COUNCIL WAGE REGULATION
+(c) by reason only of the fact that he is resident thereon; [S.L.452.57 6 WAGES COUNCIL WAGE REGULATION
+(d) during recognised breaks for meals and rest, and he is not waiting for work to be given to him to perform.
+15. In cases where the retiring age of a male employee is
+expected at the age of sixty years, such employee shall be given the opportunity by his employer to retain his employment beyond this age at least until the age of sixty-one years, provided that the employee in question shall still be allowed, if he so wishes, to retire at the age of sixty years.
 EXPLANATORY NOTE
 This note is not part of the Order but is intended to indicate its
 applicability.
