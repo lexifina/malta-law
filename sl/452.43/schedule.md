@@ -1,5 +1,6 @@
 ## SCHEDULE
 ## Interpretation.
+## *This Order has been repealed by Legal Notice 143 of 2026.
 ## Hours of work.
 ## Minimum remuneration of whole-time employees.
 ## Minimum daily rest.
@@ -17,8 +18,9 @@
 "customary holiday" means the days, other than Sundays, declared to be public holidays by or under the National Holidays and other Public Holidays Act;
 "part-time employee" means an employee whose normal hours of work, calculated on a weekly basis or on average over a period of employment of up to one year, are less than the normal hours of work of a comparable whole-time employee and who is not a whole-time employee with reduced hours;
 "whole-time employee" means an employee who is deemed to be a whole-time employee in terms of any recognized conditions of employment;
-"assistant projectionist" means a person over nineteen years of age who is employed to assist a projectionist;
-"cashier" means an employee engaged wholly or mainly in receiving cash and bookings for admission into a cinema or theatre; [S.L.452.43 2 WAGE REGULATION
+"assistant projectionist" means a person over nineteen years of age who is employed to assist a projectionist; [S.L.452.43 2 WAGE REGULATION
+"cashier" means an employee engaged wholly or mainly in
+receiving cash and bookings for admission into a cinema or theatre;
 "staff manager" means an employee who is responsible to the
 employer for the control of the staff;
 "half-day" means a period of twelve hours ending or beginning at
@@ -52,9 +54,8 @@ at age 16 years ......................................... €219.82
 at age 17 years .......................................... €222.66
 at age 18 years or over ............................. €229.44
 Other employees.......................................... €229.44.
-4. Whole-time employees shall be allowed a minimum daily
-period for meals and rest as follows:
 [S.L.452.43 WAGE REGULATION 3
+4. Whole-time employees shall be allowed a minimum daily period for meals and rest as follows:
 (a) where the period of employment includes the whole day, an aggregate of one hour;
 (b) where the period of employment is in the afternoon only, an aggregate of half-an-hour.
 5. Whole-time employees shall be allowed in every calendar week a rest of one whole day, or two half days.
@@ -81,8 +82,8 @@ respect of retirement or widowhood in terms of the
 Social Security Act shall, for the purpose of
 calculating the sick leave pay due, be deemed to have
 received an amount equal to the sum set for sickness
-benefit entitlement at the rate established under the
-Social Security Act. [S.L.452.43 4 WAGE REGULATION
+[S.L.452.43 4 WAGE REGULATION
+benefit entitlement at the rate established under the Social Security Act.
 (2) The employer may require a medical certificate by his own
 physician to certify incapacity for work during the period of absence.
 (3) The sick leave entitlement granted by virtue of this
