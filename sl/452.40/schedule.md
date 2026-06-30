@@ -1,5 +1,6 @@
 ## SCHEDULE
 ## Interpretation.
+## *This Order has been repealed by Legal Notice 142 of 2026.
 ## Main groups of domestic workers.
 ## Hours of work.
 ## Minimum remuneration.
@@ -20,9 +21,9 @@
 1. In this Schedule unless the context otherwise requires -
 "customary holidays" means the days (other than Sundays) declared for the time being to be public holidays by or under the National Holidays and other Public Holidays Act;
 "day" means the time of twenty-four consecutive hours;
-"double pay" means double the minimum day's pay applicable to an employee;
-"hours of work" means the time on any day during which employees are at the disposal of the employer, exclusive of the [S.L.452.40 2 WAGE REGULATION
-intervals allowed for meals and rest;
+"double pay" means double the minimum day's pay applicable to an employee; [S.L.452.40 2 WAGE REGULATION
+"hours of work" means the time on any day during which
+employees are at the disposal of the employer, exclusive of the intervals allowed for meals and rest;
 "meals" means morning coffee, lunch, afternoon tea and supper;
 "part-time employee" means an employee whose normal hours of
 work, calculated on a weekly basis or on average over a period of employment of up to one year, are less than the normal hours of work of a comparable whole-time employee and who is not a whole-time employee with reduced hours;
