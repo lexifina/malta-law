@@ -1,5 +1,6 @@
 ## SCHEDULE
 ## Interpretation.
+## *This Order has been repealed by Legal Notice 118 of 2026.
 ## Hours of work.
 ## Minimum remuneration.
 ## Piece-work employees.
@@ -21,8 +22,8 @@
 "normal hourly wage" means the weekly wage divided by -
 (a) sixty, in the case of watchmen, and
 (b) forty, in the case of other employees;
-"part-time employee" means an employee whose normal hours of work, calculated on a weekly basis or on average over a period of employment of up to one year, are less than the normal hours of work of a comparable whole-time employee and who is not a [S.L.452.59 2 WAGE REGULATION
-whole-time employee with reduced hours;
+"part-time employee" means an employee whose normal hours of [S.L.452.59 2 WAGE REGULATION
+work, calculated on a weekly basis or on average over a period of employment of up to one year, are less than the normal hours of work of a comparable whole-time employee and who is not a whole-time employee with reduced hours;
 "recognised breaks" means breaks which are customary among
 particular sections of the employees to whom this Schedule applies;
 "time-and-a-half" and "double-time" mean respectively -
@@ -46,8 +47,9 @@ related to a week of not more than sixty hours of work, exclusive of overtime, s
 all categories of employees in the same establishment, as the case may be, shall be submitted in writing by registered letter, to the Director and shall, when so notified and provided it complies in all respects with the provisions of this Order and the requirements of any other law, constitute the normal working hours in the establishment:
 Provided that -
 (a) until such time-schedule is submitted to the Director as aforesaid, the normal working hours in the establishment shall be forty hours in any one week; and
-(b) any changes to such time-schedule shall not be effected by the employer before the prior notification in writing of such changes to the Director.
+(b) any changes to such time-schedule shall not be effected by the employer before the prior notification
 [S.L.452.59 WAGE REGULATION 3
+in writing of such changes to the Director.
 3. (1) Subject to the provisions of paragraph 7 of this Schedule, the minimum weekly wages payable to time employees shall be the following:
 (a) (i) Watchmen whose duties are mainly performed
 indoors ............................................ €234.10
