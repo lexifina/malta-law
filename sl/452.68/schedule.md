@@ -1,5 +1,6 @@
 ## SCHEDULE
 ## Interpretation.
+## *This Order has been repealed by Legal Notice 128 of 2026.
 ## Hours of work.
 ## Minimum remuneration of whole-time employees.
 ## Minimum remuneration to part-time employees.
@@ -18,8 +19,9 @@
 "customary holidays" means the days (other than Sundays) declared for the time being to be public holidays by or under the National Holidays and other Public Holidays Act;
 "hours of work" means the time on any day during which employees are at the disposal of the employer, exclusive of the intervals allowed for meals and rest;
 "part-time employee" means an employee whose normal hours of work, calculated on a weekly basis or on average over a period of employment of up to one year, are less than the normal hours of work of a comparable whole-time employee and who is not a whole-time employee with reduced hours;
-"time-and-a-half" and "double-time" mean respectively one-and-a-half times and twice the minimum time rate applicable to the employee;
-"wages" means remuneration or earnings payable in money by an employer to an employee; [S.L.452.68 2 WAGES COUNCIL WAGE REGULATION
+"time-and-a-half" and "double-time" mean respectively one-and-a-half times and twice the minimum time rate applicable to the employee; [S.L.452.68 2 WAGES COUNCIL WAGE REGULATION
+"wages" means remuneration or earnings payable in money by an
+employer to an employee;
 "whole-time employee" means an employee who is deemed to be
 a whole-time employee in terms of any recognized conditions of employment.
 2. (1) The hours of work of whole-time employees other than
@@ -49,10 +51,8 @@ Provided that, where the last half-hour of the period of
 employment is allowed as a part of the hour of rest, the employee shall be entitled to leave the place of work as soon as that half-hour starts.
 7. All whole-time employees shall be allowed one whole day
 off in every calendar week.
-8. (1) Whole-time employees, other than watchmen, shall be
-paid at time-and-a-half rates for overtime work performed on
 [S.L.452.68 WAGES COUNCIL WAGE REGULATION 3
-weekdays, and at double-time for work performed on Sundays and public holidays.
+8. (1) Whole-time employees, other than watchmen, shall be paid at time-and-a-half rates for overtime work performed on weekdays, and at double-time for work performed on Sundays and public holidays.
 (2) Watchmen shall be paid at time-and-a-half rates for time worked in excess of fifty-four hours in a six-day week, and at double time rates for all time worked on a Sunday or a public holiday.
 9. (1) In addition to the minimum weekly rest to which whole-time employees may be entitled under paragraph 7, whole-time employees shall be entitled to the national holidays and to all public holidays with full pay, and to the following vacation leave not being less than:
 (a) four working weeks and one working day during the calendar years 1988 and 1989;
@@ -66,11 +66,8 @@ Provided that when a whole-time employee is in employment for less than twelve m
 10. (1) After six months in employment, a whole-time employee shall be entitled to the equivalent in hours of six days sick leave on full pay, less an amount equal to the sum set for sickness benefit entitlement at the rate established under the Social Security Act, and part-time employees shall have a pro rata entitlement to sick leave in hours on full pay, less an amount equal to the sum set for sickness benefit entitlement at the rate established under the Social Security Act, which amount is also to be calculated on a pro rata basis:
 Provided that -
 (a) the first three days of any claim for sick leave shall be paid in full by the employer;
-(b) a medical certificate covering the period of absence is
-produced to the employer on the day of return to work
-or, if such period of absence is longer than seven days,
-[S.L.452.68 4 WAGES COUNCIL WAGE REGULATION
-within seven days of the onset of sick leave absence;
+(b) a medical certificate covering the period of absence is [S.L.452.68 4 WAGES COUNCIL WAGE REGULATION
+produced to the employer on the day of return to work or, if such period of absence is longer than seven days, within seven days of the onset of sick leave absence;
 (c) employees in receipt of a social security pension in respect of retirement or widowhood in terms of the Social Security Act shall, for the purpose of calculating the sick leave pay due, be deemed to have received an amount equal to the sum set for sickness benefit entitlement at the rate established under the Social Security Act.
 (2) After six months in employment, a whole-time employee
 shall be entitled to the equivalent in hours of a further six days sick leave on half pay, less an amount equal to half the sum set for sickness benefit entitlement at the rate established under the Social Security Act, and part-time employees shall have a pro rata entitlement to sick leave in hours on half pay, less an amount equal to half the sum set for sickness benefit entitlement at the rate established under the Social Security Act, which amount is also to be calculated on a pro rata basis:
