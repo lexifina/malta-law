@@ -1,5 +1,6 @@
 ## SCHEDULE
 ## Interpretation.
+## *This Order has been repealed by Legal Notice 125 of 2026.
 ## Hours of work.
 ## Minimum remuneration payable to whole- time employees.
 ## Minimum daily rest.
@@ -18,8 +19,9 @@
 "customary holidays" means the days (other than Sundays) declared for the time being to be public holidays by or under the National Holidays and other Public Holidays Act;
 "hours of work" means the time on any day during which employees are at the disposal of the employer, exclusive of intervals allowed for meals and rest;
 "part-time employee" means an employee whose normal hours of work, calculated on a weekly basis or on average over a period of employment of up to one year, are less than the normal hours of work of a comparable whole-time employee and who is not a whole-time employee with reduced hours;
-"time-and-a-half" and "double-time" mean respectively one and a half times and twice the actual time rate applicable to the employee;
-"whole-time employee" means an employee who is deemed to be [S.L.452.63 2 WAGES COUNCIL WAGE REGULATION
+"time-and-a-half" and "double-time" mean respectively one and a half times and twice the actual time rate applicable to the [S.L.452.63 2 WAGES COUNCIL WAGE REGULATION
+employee;
+"whole-time employee" means an employee who is deemed to be
 a whole-time employee in terms of any recognized conditions of employment;
 "wages" means remuneration or earnings, payable in money by
 an employer to an employee;
@@ -49,10 +51,9 @@ Watchmen whose duties are mainly performed
 outdoors.......................................................... €232.93
 4. All whole-time employees shall be allowed intervals of not
 less, in the aggregate, than one hour for meals and rest every day.
-5. (1) (Deleted by Legal Notice 5 of 2016).
-(2) All whole-time employees shall be entitled to at least one
 [S.L.452.63 WAGES COUNCIL WAGE REGULATION 3
-day of rest in every calendar week.
+5. (1) (Deleted by Legal Notice 5 of 2016).
+(2) All whole-time employees shall be entitled to at least one day of rest in every calendar week.
 6. Whole-time employees other than watchmen shall be entitled to overtime remuneration as follows:
 (a) for all hours of work in excess of the normal hours of
 work in accordance with paragraph 2 of this Schedule
@@ -88,7 +89,8 @@ seventh day (day of rest) ............... double-time.
 6A. (1) Employees in respect of whom this Order applies shall only be obliged to work on Sundays if they give their written consent to work on Sundays to their employer.
 (2) Only those employees who give their consent in terms of this paragraph shall be obliged to work on Sundays. These employees shall be paid in accordance with paragraph 6 of this Schedule.
 (3) No employee shall be subject to any disadvantage, threat or actual dismissal by his employer on account that he is not willing to give his consent to work on Sundays in terms of this paragraph.
-(4) This paragraph shall not apply to those employees who are obliged to work on Sundays by virtue of a pre requisite in their contract of employment or in the written statement which must be drawn up in terms of the Act and its subsidiary legislation. [S.L.452.63 4 WAGES COUNCIL WAGE REGULATION
+(4) This paragraph shall not apply to those employees who are obliged to work on Sundays by virtue of a pre requisite in their [S.L.452.63 4 WAGES COUNCIL WAGE REGULATION
+contract of employment or in the written statement which must be drawn up in terms of the Act and its subsidiary legislation.
 7. (1) In addition to the minimum weekly rest to which
 whole-time employees may be entitled under paragraph 5, whole-time employees shall be entitled to all customary holidays with full pay, and to the following vacation leave not being less than -
 (a) four working weeks and one working day during each
@@ -112,8 +114,9 @@ whole-time employee shall in every calendar year be entitled to the equivalent i
 Provided that -
 (a) the first three days of any claim for sick leave shall be
 paid in full by the employer;
-(b) a medical certificate covering the period of absence is produced to the employer on the day of return to work or, if such period of absence is longer than seven days, within seven days of the onset of sick leave absence;
+(b) a medical certificate covering the period of absence is produced to the employer on the day of return to work or, if such period of absence is longer than seven days,
 [S.L.452.63 WAGES COUNCIL WAGE REGULATION 5
+within seven days of the onset of sick leave absence;
 (c) employees in receipt of a social security pension in
 respect of retirement or widowhood in terms of the
 Social Security Act shall, for the purpose of
@@ -138,9 +141,9 @@ under the Social Security Act.
 (3) The employer may require a medical certificate by his own physician to certify incapacity for work during the period of absence.
 (4) The sick leave entitlement granted by virtue of this paragraph shall be calculated on the basis provided for annual leave as specified in regulation 8(1) of the Organisation of Working Time Regulations.
 9. Whole-time employees shall be allowed two days paid leave on the occasion of the death of any of the following relations: wife, husband, mother, father, (or the person who at the time was in fact acting as the mother or father of the employee), son, daughter, brother or sister.
-10. A whole-time employee shall be allowed three days leave with pay on the occasion of his or her marriage, and one day leave on the occasion of the birth of a child to the wife of the employee.
-11. A whole-time employee shall be entitled to one year injury leave on full pay less the full amount of any injury benefit to which such employee may be entitled under the Social Security Act, if he/ she is injured during the actual discharge of his/her duty and not [S.L.452.63 6 WAGES COUNCIL WAGE REGULATION
-due to any contributory negligence on his/her part or to any contravention of safety rules laid down by the management.
+10. A whole-time employee shall be allowed three days leave with pay on the occasion of his or her marriage, and one day leave on the occasion of the birth of a child to the wife of the employee. [S.L.452.63 6 WAGES COUNCIL WAGE REGULATION
+11. A whole-time employee shall be entitled to one year injury
+leave on full pay less the full amount of any injury benefit to which such employee may be entitled under the Social Security Act, if he/ she is injured during the actual discharge of his/her duty and not due to any contributory negligence on his/her part or to any contravention of safety rules laid down by the management.
 12. Whole-time employees called for jury service shall be
 allowed all the necessary time off on full pay to attend such service at the Court.
 13. In cases where the retiring age of a male employee is
