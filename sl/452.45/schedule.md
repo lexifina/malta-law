@@ -1,5 +1,6 @@
 ## SCHEDULE
 ## Interpretation.
+## *This Order has been repealed by Legal Notice 121 of 2026.
 ## Hours of work.
 ## Minimum remuneration of whole-time employees.
 ## Minimum daily rest.
@@ -20,8 +21,8 @@
 "day" means a period running from midnight of one day to midnight of the next following day;
 "half-day" means a period of twelve consecutive hours ending at 1.00p.m. or 1.00a.m.;
 "hours of work" means the time on any day during which employees are at the disposal of the employer, exclusive of the intervals allowed for meals and rest;
-"part-time employee" means an employee whose normal hours of work, calculated on a weekly basis or on average over a period of employment of up to one year, are less than the normal hours of work of a comparable whole-time employee and who is not a [S.L.452.45 2 WAGE REGULATION
-whole-time employee with reduced hours;
+"part-time employee" means an employee whose normal hours of work, calculated on a weekly basis or on average over a period of [S.L.452.45 2 WAGE REGULATION
+employment of up to one year, are less than the normal hours of work of a comparable whole-time employee and who is not a whole-time employee with reduced hours;
 "period of employment" means the time in any day during which
 employees are at the disposal of the employer, but inclusive of the intervals allowed for meals and rest;
 "time-and-a-half" and "double-time" mean respectively one and a
@@ -53,8 +54,8 @@ rest in every period of seven consecutive days.
 watchmen, overtime shall be payable as follows:
 (a) for all time worked in excess of forty hours in any week, exclusive of any time paid for at overtime rates .................................................. time-and-a-half;
 (b) in a five-day week, for all time worked in excess of eight hours on any day ...................... time-and-a-half;
-(c) in a six-day week, for all time worked in excess of
 [S.L.452.45 WAGE REGULATION 3
+(c) in a six-day week, for all time worked in excess of
 seven hours from Monday to Friday, and five hours on
 Saturday ........................................... time-and-a-half;
 (d) for all time worked on Sundays and customary
@@ -70,8 +71,8 @@ calendar year 1992 and during any calendar year
 thereafter:
 Provided that when a whole-time employee is in employment for less than twelve months during any calendar year, he shall be entitled to such part of the said vacation leave as is in proportion to the number of months in employment.
 (2) For the purpose of this paragraph "vacation leave" means leave with pay which may be availed of on days agreed upon between the employer and the employee, provided that one day vacation leave during 1988 and 1989, two days vacation leave during 1990, three days vacation leave during 1991, and four days vacation leave during 1992 and during any calendar year thereafter shall not form part of any shut-down and shall be granted by the employer as optional leave in addition to any optional leave the employee may have been entitled to on the 9th November, 1988.
-8. (1) A whole-time employee shall in every calendar year be entitled to the equivalent in hours of twelve days sick leave on full pay, less an amount equal to the sum set for sickness benefit entitlement at the rate established under the Social Security Act, and part time employees shall have a pro rata entitlement to sick leave in hours on full pay, less an amount equal to the sum set for sickness benefit entitlement at the rate established under the Social Security Act, which amount is also to be calculated on a pro rata basis:
-Provided that - [S.L.452.45 4 WAGE REGULATION
+8. (1) A whole-time employee shall in every calendar year be entitled to the equivalent in hours of twelve days sick leave on full pay, less an amount equal to the sum set for sickness benefit entitlement at the rate established under the Social Security Act, and part time employees shall have a pro rata entitlement to sick leave in hours on full pay, less an amount equal to the sum set for sickness benefit entitlement at the rate established under the Social Security Act, which amount is also to be calculated on a pro rata basis: [S.L.452.45 4 WAGE REGULATION
+Provided that -
 (a) the first three days of any claim for sick leave shall be
 paid in full by the employer;
 (b) a medical certificate covering the period of absence is produced to the employer on the day of return to work or, if such period of absence is longer than seven days, within seven days of the onset of sick leave absence;
