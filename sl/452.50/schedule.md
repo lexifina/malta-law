@@ -1,5 +1,6 @@
 ## SCHEDULE
 ## Interpretation.
+## *This Order has been repealed by Legal Notice 123 of 2026.
 ## Hours of work.
 ## Minimum wages.
 ## Minimum daily rest.
@@ -21,8 +22,8 @@
 "time-and-a-half" and "double-time" mean respectively one and a half times and twice the actual time rates applicable to the employee;
 "wages" means remuneration or earnings payable in money to an employee by an employer;
 "week" means a calendar week;
-"part-time employee" means an employee whose normal hours of work, calculated on a weekly basis or on average over a period of employment of up to one year, are less than the normal hours of [S.L.452.50 2 WAGES COUNCIL WAGE REGULATION
-work of a comparable whole-time employee and who is not a whole-time employee with reduced hours;
+"part-time employee" means an employee whose normal hours of [S.L.452.50 2 WAGES COUNCIL WAGE REGULATION
+work, calculated on a weekly basis or on average over a period of employment of up to one year, are less than the normal hours of work of a comparable whole-time employee and who is not a whole-time employee with reduced hours;
 "watchman" means a person who guards his employer's property
 against fire, theft, illegal entry and similar contingencies;
 "whole-time employee'' means an employee who is deemed to be
@@ -52,8 +53,9 @@ overtime as follows -
 (iv) for any hours worked in excess of fifty-two hours on any one week, exclusive of any hours for which overtime is payable in terms of the preceding provisions ................ time-and-a-half.
 (b) Employees other than watchmen -
 (i) for every hour worked in excess of eight hours on any one day, except the weekly day of rest of the employee ........................... time-and-a-half;
-(ii) for all hours worked on the weekly day of rest of the employee ................................. double time;
 [S.L.452.50 WAGES COUNCIL WAGE REGULATION 3
+(ii) for all hours worked on the weekly day of rest of
+the employee ................................. double time;
 (iii) for all time worked on a customary holiday
 ..................................................... double time;
 (iv) for every hour worked in excess of forty hours
@@ -74,9 +76,8 @@ Provided that -
 (a) the first three days of any claim for sick leave shall be paid in full by the employer;
 (b) a medical certificate covering the period of absence is
 produced to the employer on the day of return to work
-or, if such period of absence is longer than seven days,
-within seven days of the onset of sick leave absence;
 [S.L.452.50 4 WAGES COUNCIL WAGE REGULATION
+or, if such period of absence is longer than seven days, within seven days of the onset of sick leave absence;
 (c) employees in receipt of a social security pension in respect of retirement or widowhood in terms of the Social Security Act shall, for the purpose of calculating the sick leave pay due, be deemed to have received an amount equal to the sum set for sickness benefit entitlement at the rate established under the Social Security Act.
 (2) The employer may require a medical certificate by his own
 physician to certify incapacity for work during the period of absence.
