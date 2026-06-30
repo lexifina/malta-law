@@ -1,5 +1,6 @@
 ## SCHEDULE
 ## Interpretation.
+## *This Order has been repealed by Legal Notice 136 of 2026.
 ## Hours of work.
 ## Minimum weekly wages of whole- time employees.
 ## Minimum daily rest.
@@ -17,9 +18,9 @@
 "customary holidays" means the days (other than Sundays) declared for the time being to be public holidays by or under the National Holidays and other Public Holidays Act;
 "day" means a period of twenty-four consecutive hours commencing from midnight of one day to midnight of the next following day;
 "hours of work" means the time on any day during which the employees are at the disposal of the employer, exclusive of the intervals allowed for meals and rest;
-"part-time employee" means an employee whose normal hours of work, calculated on a weekly basis or on average over a period of employment of up to one year, are less than the normal hours of work of a comparable whole-time employee and who is not a whole-time employee with reduced hours;
-"period of employment" means the time in any day during which the employees are at the disposal of the employer, inclusive of the [S.L.452.56 2 WAGES COUNCIL WAGE REGULATION
-intervals allowed for meals and rest;
+"part-time employee" means an employee whose normal hours of work, calculated on a weekly basis or on average over a period of employment of up to one year, are less than the normal hours of work of a comparable whole-time employee and who is not a whole-time employee with reduced hours; [S.L.452.56 2 WAGES COUNCIL WAGE REGULATION
+"period of employment" means the time in any day during which
+the employees are at the disposal of the employer, inclusive of the intervals allowed for meals and rest;
 "time-and-a-half" and "double-time" mean respectively one and a
 half times and double the actual time rate applicable to the employee;
 "wages" means remuneration or earnings payable in money by an
@@ -46,8 +47,9 @@ aged 16 years .................................................... €219.82
 aged 17 years .................................................... €222.66.
 (3) The minimum weekly wages of whole-time watchmen,
 independently of their age, shall be as follows:
-(a) those whose duties are mainly performed indoors .................................................................. €229.44
 [S.L.452.56 WAGES COUNCIL WAGE REGULATION 3
+(a) those whose duties are mainly performed indoors
+.................................................................. €229.44
 (b) those whose duties are mainly performed out of doors
 .................................................................. €231.77.
 4. Whole-time employees, other than watchmen, shall be allowed intervals for meals and rest of not less in the aggregate than one and a half hours on any day of the week from Monday to Friday and of not less than a quarter of an hour on any Saturday.
@@ -80,8 +82,9 @@ have been in employment for less than one year shall
 be entitled to such part of the said vacation leave as is
 in proportion to the number of months in employment.
 7. (1) After the first six months of service, a whole-time employee shall in every calendar year be entitled to the equivalent in hours of twelve days sick leave on full pay, less an amount equal to the sum set for sickness benefit entitlement at the rate established under the Social Security Act, and part-time employees shall have a pro rata entitlement to sick leave in hours on full pay, less an amount equal to the sum set for sickness benefit entitlement at the rate established under the Social Security Act, which amount is also to be calculated on a pro rata basis:
-Provided that -
-(a) the first three days of any claim for sick leave shall be paid in full by the employer; [S.L.452.56 4 WAGES COUNCIL WAGE REGULATION
+Provided that - [S.L.452.56 4 WAGES COUNCIL WAGE REGULATION
+(a) the first three days of any claim for sick leave shall be
+paid in full by the employer;
 (b) a medical certificate covering the period of absence is produced to the employer on the day of return to work or, if such period of absence is longer than seven days, within seven days of the onset of sick leave absence;
 (c) employees in receipt of a social security pension in respect of retirement or widowhood in terms of the Social Security Act shall, for the purpose of calculating the sick leave pay due, be deemed to have received an amount equal to the sum set for sickness benefit entitlement at the rate established under the Social Security Act.
 (2) After the first six months of service, a whole-time
@@ -99,8 +102,9 @@ employment of not more than two months shall not be deemed to break the continui
 (5) The sick leave entitlement granted by virtue of this
 paragraph shall be calculated on the basis provided for annual leave as specified in regulation 8(1) of the Organisation of Working Time Regulations.
 8. A whole-time employee shall be entitled to two days leave
-on full pay on the occasion of the death of the following relatives: the wife or husband, the mother or father (or the person who at that time is acting as the father or mother of the employee), the son or daughter, and the brother or sister.
+on full pay on the occasion of the death of the following relatives: the wife or husband, the mother or father (or the person who at that
 [S.L.452.56 WAGES COUNCIL WAGE REGULATION 5
+time is acting as the father or mother of the employee), the son or daughter, and the brother or sister.
 9. A whole-time employee shall be allowed three working days leave on full pay on the occasion of his marriage and one working day leave on full pay on the occasion of the birth of a child to his wife.
 10. A whole-time employee shall, if called upon to serve as juror, be allowed time off as necessary, without any deduction from pay so as to enable him to attend to his duties at the Courts.
 11. A whole-time employee shall be entitled to one year injury leave on full pay, less the full amount of any injury benefit to which such employee may be entitled in terms of the Social Security Act, if he is injured during the actual discharge of his duty and such injury is not due to any contributory negligence on his part or to any contravention by him of safety rules laid down by the management.
