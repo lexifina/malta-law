@@ -1,6 +1,7 @@
 ## SCHEDULE
 ## Applicability.
 ## Interpretation.
+## *This Order has been repealed by Legal Notice 130 of 2026.
 ## Hours of work.
 ## Minimum wages.
 ## Minimum daily rest.
@@ -19,8 +20,8 @@
 2. In this Schedule, unless the context otherwise requires -
 "customary holidays" means the days (other than Sundays) declared for the time being to be public holidays by or under the National Holidays and other Public Holidays Act;
 "hours of work" means the time on any day during which the employees are at the disposal of the employer, exclusive of intervals allowed for meals and rest;
-"part-time employee" means an employee whose normal hours of work, calculated on a weekly basis or on average over a period of employment of up to one year, are less than the normal hours of work of a comparable whole-time employee and who is not a [S.L.452.72 2 COUNCIL WAGE REGULATION
-whole-time employee with reduced hours;
+"part-time employee" means an employee whose normal hours of work, calculated on a weekly basis or on average over a period of [S.L.452.72 2 COUNCIL WAGE REGULATION
+employment of up to one year, are less than the normal hours of work of a comparable whole-time employee and who is not a whole-time employee with reduced hours;
 "time-and-a-half" and "double-time" mean respectively one and a
 half times and double the actual time rates applicable to the employee;
 "wages" means remuneration or earnings payable in money to an
@@ -51,10 +52,10 @@ in every period of seven consecutive days.
 7. Whole-time sextons shall be entitled to the payment of
 overtime at time-and-a-half for any hours worked in excess of sixty hours in every one week and/or for any hours worked in excess of five hundred and twenty hours over any period of thirteen consecutive weeks, exclusive of one day of rest every week.
 Whole-time custodians shall be entitled to the payment of
-overtime at time-and-a-half for any hours worked in excess of forty hours in every one week, exclusive of one day of rest every week.
-Whole-time employees shall be entitled to the payment of
+overtime at time-and-a-half for any hours worked in excess of forty
 [S.L.452.72 COUNCIL WAGE REGULATION 3
-overtime at double time for any hours worked on the weekly day of rest.
+hours in every one week, exclusive of one day of rest every week.
+Whole-time employees shall be entitled to the payment of overtime at double time for any hours worked on the weekly day of rest.
 8. Vacation Leave entitlement shall be regulated in terms of the Weekly Day of Rest and Annual Vacation Leave National Standard Order, or any other Order substituting the same, that is four working weeks and four days.
 If any employee is required to work on a customary holiday, he shall be entitled to another day off to be availed of in agreement with his employer.
 9. (1) After one year's service, a whole-time employee shall in every calendar year be entitled to the equivalent in hours of twenty days sick leave on full pay, less an amount equal to the sum set for sickness benefit entitlement at the rate established under the Social Security Act, and part time employees shall have a pro rata entitlement to sick leave in hours on full pay, less an amount equal to the sum set for sickness benefit entitlement at the rate established under the Social Security Act, which amount is also to be calculated on a pro rata basis:
@@ -77,8 +78,8 @@ Provided that -
 (b) a medical certificate covering the period of absence is
 produced to the employer on the day of return to work
 or, if such period of absence is longer than seven days,
-within seven days of the onset of sick leave absence;
 [S.L.452.72 4 COUNCIL WAGE REGULATION
+within seven days of the onset of sick leave absence;
 (c) employees in receipt of a social security pension in respect of retirement or widowhood in terms of the Social Security Act shall, for the purpose of calculating the sick leave pay due, be deemed to have received an amount equal to half the sum set for sickness benefit entitlement at the rate established
 under the Social Security Act.
 (3) The employer may require a medical certificate by his own
