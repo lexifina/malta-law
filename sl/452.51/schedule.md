@@ -1,4 +1,5 @@
 ## SCHEDULE
+## *This Order has been repealed by Legal Notice 132 of 2026.
 ## Hours of work.
 ## Minimum wages of whole-time employees.
 ## Minimum overtime rates.
