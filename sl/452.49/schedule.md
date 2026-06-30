@@ -1,5 +1,6 @@
 ## SCHEDULE
 ## Definitions.
+## *This Order has been repealed by Legal Notice 119 of 2026.
 ## Hours of work.
 ## Minimum wages of whole-time employees.
 ## Minimum remuneration of part-time employees.
@@ -21,7 +22,8 @@
 "day" in the case of shift employees means a period of twenty-four consecutive hours; in all other cases, it means a period running from midnight of one day to midnight of the next following day;
 "half day" means a period of twelve consecutive hours ending at 1.00 p.m. or 1.00 a.m.
 "hours of work" means the time on any day during which the employees are at the disposal of the employer, exclusive of the intervals allowed for meals and rest;
-"night shift" means any period of employment that includes any hours from 10.00p.m. of one day to 6.00a.m. of the next following day; [S.L.452.49 2 WAGES COUNCIL WAGE REGULATION
+"night shift" means any period of employment that includes any [S.L.452.49 2 WAGES COUNCIL WAGE REGULATION
+hours from 10.00p.m. of one day to 6.00a.m. of the next following day;
 "part-time employee" means an employee whose normal hours of
 work, calculated on a weekly basis or on average over a period of employment of up to one year, are less than the normal hours of work of a comparable whole-time employee and who is not a whole-time employee with reduced hours;
 "period of employment" means the time on any day during which
@@ -55,9 +57,8 @@ two hundred and twenty nine euro and forty four cents
 (€229.44) independent of their age.
 (2) In this paragraph "industry" includes all the
 establishments which fall within the scope for which the Clay and Glass Products Wages Council applies.
-4. Part-time employees shall be paid pro rata at an hourly rate
-not less than the minimum time rate applicable to whole-time employees.
 [S.L.452.49 WAGES COUNCIL WAGE REGULATION 3
+4. Part-time employees shall be paid pro rata at an hourly rate not less than the minimum time rate applicable to whole-time employees.
 5. Whole-time employees engaged on night shift duty shall whilst engaged on such duty be paid at an hourly rate, one and one sixth times the actual ordinary time rate payable to the employee. Such increased rate shall be reckoned as the actual time rate for purposes of determining the amount of any overtime payable in terms of paragraph 8 hereof to the employees in respect of any hours worked during night shift.
 6. Whole-time employees other than watchmen shall be allowed intervals for meals and rest of not less in the aggregate than one hour on every day.
 7. (a) Whole-time employees, other than watchmen, shall be
@@ -83,10 +84,9 @@ time.
 (a) four working weeks and one working day during the calendar years 1988 and 1989;
 (b) four working weeks and two working days during the calendar year 1990;
 (c) four working weeks and three working days during the calendar year,1991;
-(d) four working weeks and four working days during the
-calendar year 1992 and during any calendar year
-thereafter:
-Provided that when a whole-time employee is in [S.L.452.49 4 WAGES COUNCIL WAGE REGULATION
+(d) four working weeks and four working days during the [S.L.452.49 4 WAGES COUNCIL WAGE REGULATION
+calendar year 1992 and during any calendar year thereafter:
+Provided that when a whole-time employee is in
 employment for less than twelve months during any calendar year, he shall be entitled to such part of the said vacation leave as is in
 proportion to the number of months in employment.
 (2) For the purpose of this paragraph "vacation leave" means
@@ -105,10 +105,10 @@ paragraph shall be calculated on the basis provided for annual leave as specifie
 11. Whole-time employees shall be allowed such leave with
 pay as is necessary and for such time as required to serve as jurors on such occasions as they are called up to serve in the Courts.
 12. Whole-time employees shall be allowed leave with pay on
-the day of the death and on the day of the funeral of any of the following relatives: the wife or husband, the mother or father, the son or daughter, the brother or sister.
-13. A whole-time employee shall be entitled to three working
+the day of the death and on the day of the funeral of any of the
 [S.L.452.49 WAGES COUNCIL WAGE REGULATION 5
-days leave on full pay on the occasion of his marriage and to two working days leave on full pay on the occasion of the birth of a child to his wife.
+following relatives: the wife or husband, the mother or father, the son or daughter, the brother or sister.
+13. A whole-time employee shall be entitled to three working days leave on full pay on the occasion of his marriage and to two working days leave on full pay on the occasion of the birth of a child to his wife.
 14. A whole-time employee shall be entitled to one year injury leave on full pay, less the full amount of any injury benefit to which such employee may be entitled in terms of the Social Security Act, if he is injured during the actual discharge of his duty and such injury is not due to any contributory negligence on his part or to the contravention by him of any safety rules laid down by the management.
 15. An employee shall be entitled to the payment of the actual wages applicable to him for all times during which he is present on the premises of his employer or elsewhere unless he is present thereon in any of the following circumstances -
 (a) without the employer's consent, expressed or implied;
