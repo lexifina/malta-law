@@ -1,5 +1,6 @@
 ## SCHEDULE
 ## Interpretation.
+## *This Order has been repealed by Legal Notice 140 of 2026.
 ## Hours of work.
 ## Minimum wages of whole-time employees.
 ## Minimum remuneration of part-time employees.
@@ -22,8 +23,8 @@
 "half a day" means a period of twelve consecutive hours beginning or ending at 1.00 p.m. or 1.00 a.m.;
 "hours of work" means the time on any day during which employees are at the disposal of the employer, exclusive of the intervals allowed for meals and rest;
 "normal time", "time-and-a-half and "double-time" mean respectively one time, one-and-a-half times, and twice the minimum time rate applicable to the employee;
-"part-time employee" means an employee whose normal hours of work, calculated on a weekly basis or on average over a period of employment of up to one year, are less than the normal hours of work of a comparable whole-time employee and who is not a [S.L.452.67 2 WAGES COUNCIL WAGE REGULATION
-whole-time employee with reduced hours;
+"part-time employee" means an employee whose normal hours of [S.L.452.67 2 WAGES COUNCIL WAGE REGULATION
+work, calculated on a weekly basis or on average over a period of employment of up to one year, are less than the normal hours of work of a comparable whole-time employee and who is not a whole-time employee with reduced hours;
 "period of employment" means the time in any one day during
 which employees are at the disposal of the employer, but inclusive of the intervals allowed for meals and rest;
 "wages" means remuneration or earnings payable in money by an
@@ -51,10 +52,8 @@ allowed intervals of not less, in the aggregate, than one hour for meals and res
 Provided that -
 (a) subject to the provisions of paragraph (b) of this proviso, the interval or intervals shall be allowed after the first or before the last hour of the period of employment; and
 (b) where the last half hour of the period of employment is allowed as a half hour of rest, the employee shall be entitled to leave the place of work as soon as that half hour starts.
-6. All whole-time employees, other than watchmen, shall be
-allowed two weekly days of rest in every week. Watchmen shall be
 [S.L.452.67 WAGES COUNCIL WAGE REGULATION 3
-allowed one weekly day of rest:
+6. All whole-time employees, other than watchmen, shall be allowed two weekly days of rest in every week. Watchmen shall be allowed one weekly day of rest:
 Provided that the Director of Labour may, whenever, he deems fit, permit in writing an employer to allow such employees two half days, ending or beginning at noon, as the weekly rest in lieu of any one whole day off.
 7. (1) Work on customary holidays shall be remunerated at double time, or at normal time plus a day off in lieu, in addition to the day or days of rest.
 (2) Whole-time employees, other than watchmen, shall be entitled to overtime remuneration as follows:
@@ -72,8 +71,8 @@ Provided that the Director of Labour may, whenever, he deems fit, permit in writ
 calendar year 1992 and during any calendar year
 thereafter:
 Provided that when a whole-time employee is in employment for less than twelve months during any calendar year, he shall be entitled to such part of the said vacation leave as is in proportion to the number of months in employment.
-(2) For the purposes of this paragraph "vacation leave" means leave with pay which may be availed of on days agreed upon between the employer and the employee, provided that one day vacation leave during 1988 and 1989, two days vacation leave during 1990, three days vacation leave during 1991 and four days vacation leave during 1992 and during any calendar year thereafter shall not form part of any shut-down and shall be granted by the [S.L.452.67 4 WAGES COUNCIL WAGE REGULATION
-employer as optional leave in addition to any optional leave the employee may have been entitled to on the 9th November, 1988.
+(2) For the purposes of this paragraph "vacation leave" means leave with pay which may be availed of on days agreed upon between the employer and the employee, provided that one day vacation leave during 1988 and 1989, two days vacation leave during 1990, three days vacation leave during 1991 and four days [S.L.452.67 4 WAGES COUNCIL WAGE REGULATION
+vacation leave during 1992 and during any calendar year thereafter shall not form part of any shut-down and shall be granted by the employer as optional leave in addition to any optional leave the employee may have been entitled to on the 9th November, 1988.
 9. (1) A whole-time employee shall in every calendar year be
 entitled to the equivalent in hours of twelve days sick leave on full pay, less an amount equal to the sum set for sickness benefit entitlement at the rate established under the Social Security Act, and part-time employees shall have a pro rata entitlement to sick leave in hours on full pay, less an amount equal to the sum set for sickness benefit entitlement at the rate established under the Social Security Act, which amount is also to be calculated on a pro rata basis:
 Provided that -
@@ -91,9 +90,8 @@ paragraph shall be calculated on the basis provided for annual leave as specifie
 one year injury leave on full pay, less the full amount of any injury benefit to which such employee may be entitled in terms of the Social Security Act, if he is injured during the actual discharge of his duty and such injury is not due to any contributory negligence on his part or to the contravention by him of any safety rules laid down by the management.
 11. Whole-time employees shall be allowed two days paid
 leave on the occasion of the death of any of the following relations: the wife or husband, the father or mother (or the person who at the time was in fact acting as the father or mother of the employee), the son or daughter, and the brother or sister.
-12. Whole-time employees shall be allowed one day leave on
-the occasion of the birth of any child to the wife of the employee.
 [S.L.452.67 WAGES COUNCIL WAGE REGULATION 5
+12. Whole-time employees shall be allowed one day leave on the occasion of the birth of any child to the wife of the employee.
 13. A whole-time employee shall be allowed three working days on full pay on the occasion of his marriage.
 14. Whole-time employees called for jury service shall be allowed all necessary time off on full pay to attend to such service in Court.
 15. An employee is entitled to the payment of the minimum wages applicable to him for all time during which he is present on the premises of his employer or elsewhere unless he is present thereon in any of the following circumstances -
