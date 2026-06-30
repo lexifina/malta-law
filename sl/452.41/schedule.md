@@ -1,5 +1,6 @@
 ## SCHEDULE
 ## Interpretation.
+## *This Order has been repealed by Legal Notice 120 of 2026.
 ## Minimum rates of pay of whole-time employees.
 ## Minimum rates of pay of part-time employees.
 ## Minimum overtime rates.
@@ -22,11 +23,8 @@
 bonded store, warehouse, verandah, quay or other
 place of deposit and the transport of such cargo
 therefrom to a place of consignment;
-(c) the withdrawal of cargo from any factory, warehouse
-or other premises and the transport of such cargo
-therefrom to a quay or other place of deposit for
 (BURDNARA) EMPLOYEES WAGES COUNCIL [S.L.452.41 2 WAGE REGULATION
-shipment;
+(c) the withdrawal of cargo from any factory, warehouse or other premises and the transport of such cargo therefrom to a quay or other place of deposit for shipment;
 "customary holidays" means the days, other than Sundays,
 declared to be public holidays by or under the National Holidays and other Public Holidays Act:
 "day" means a period of twenty-four consecutive hours starting
