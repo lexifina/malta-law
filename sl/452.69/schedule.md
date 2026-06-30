@@ -1,5 +1,6 @@
 ## SCHEDULE
 ## Interpretation.
+## *This Order has been repealed by Legal Notice 117 of 2026.
 ## Hours of work.
 ## Minimum wage of whole-time employees.
 ## Minimum remuneration of part-time employees.
@@ -21,8 +22,8 @@
 "half-day" means a period of twelve consecutive hours ending at 1.00 p.m. or at 1.00 a.m.;
 "hours of work" means the time on any day during which employees are at the disposal of the employer, exclusive of intervals allowed for meals and rest;
 "night-shift" means any period of employment that includes any hours form 10.00 p.m. to 6.00 a.m. of the next following day;
-"part-time employee" means an employee whose normal hours of work, calculated on a weekly basis or on average over a period of employment of up to one year, are less than the normal hours of work of a comparable whole-time employee and who is not a [S.L.452.69 2 WAGES COUNCIL WAGE REGULATION
-whole-time employee with reduced hours;
+"part-time employee" means an employee whose normal hours of [S.L.452.69 2 WAGES COUNCIL WAGE REGULATION
+work, calculated on a weekly basis or on average over a period of employment of up to one year, are less than the normal hours of work of a comparable whole-time employee and who is not a whole-time employee with reduced hours;
 "period of employment" means the time in any day during which
 employees are at the disposal of the employer, but inclusive of the intervals allowed for meals and rest;
 "shift employee" means an employee who regularly works on a
@@ -53,10 +54,8 @@ employees, both males and females, shall be the following -
 is followed by two consecutive weekly day shift, such further weekly night shift or shifts shall entitle the employee to extra remuneration amounting to not less than one-fourth of his normal rate of pay.
 4. Part-time employees shall be paid pro rata at an hourly rate
 not less than that applicable to whole-time employees, namely, the appropriate rate per week shown in paragraph 3 hereof, divided by forty in the case of employees other than watchmen, and by fifty-two in the case of watchmen.
-5. Whole-time employees, other than watchmen, shall be
-allowed intervals for meals and rest of not less, in the aggregate,
 [S.L.452.69 WAGES COUNCIL WAGE REGULATION 3
-than one hour every day:
+5. Whole-time employees, other than watchmen, shall be allowed intervals for meals and rest of not less, in the aggregate, than one hour every day:
 Provided that -
 (a) subject to the provisions of paragraph (b) of this
 proviso, the interval or intervals shall be allowed after
@@ -89,11 +88,8 @@ week of six consecutive days ............. time-and-a-half;
 (a) shift employees shall not be entitled to overtime
 payment for time worked in normal shift on Sundays
 or on a day of rest;
-(b) when a customary holiday falls on a working day
-overtime at time-and-a-half shall be payable to whole-
-time employees, other than watchmen, for work in
-[S.L.452.69 4 WAGES COUNCIL WAGE REGULATION
-excess of forty hours during the week less the number of hours that would have normally been worked on such a day by that employee, exclusive of any time paid for at overtime rate;
+(b) when a customary holiday falls on a working day [S.L.452.69 4 WAGES COUNCIL WAGE REGULATION
+overtime at time-and-a-half shall be payable to whole-time employees, other than watchmen, for work in excess of forty hours during the week less the number of hours that would have normally been worked on such a day by that employee, exclusive of any time paid for at overtime rate;
 (c) in the case of watchmen, when a customary holiday falls on any day from Monday to Saturday, overtime at time-and-a-half shall be payable to them for work in-excess of fifty-two hours during that week.
 8. (1) In addition to the minimum weekly rest to which
 whole-time employees may be entitled under paragraph 6, whole-time employees shall be entitled to the national holidays and to all public holidays with full pay, and to the following vacation leave not being less than -
@@ -111,9 +107,9 @@ leave with pay which may be availed of on days agreed upon between the employer 
 employee shall in every calendar year be entitled to the equivalent in hours of twelve days sick leave on full pay, less an amount equal to the sum set for sickness benefit entitlement at the rate established under the Social Security Act, and part time employees shall have a pro rata entitlement to sick leave in hours on full pay, less an amount equal to the sum set for sickness benefit entitlement at the rate established under the Social Security Act, which amount is also to be calculated on a pro rata basis:
 Provided that -
 (a) the first three days of any claim for sick leave shall be
+[S.L.452.69 WAGES COUNCIL WAGE REGULATION 5
 paid in full by the employer;
 (b) a medical certificate covering the period of absence is
-[S.L.452.69 WAGES COUNCIL WAGE REGULATION 5
 produced to the employer on the day of return to work
 or, if such period of absence is longer than seven days,
 within seven days of the onset of sick leave absence;
@@ -141,7 +137,8 @@ under the Social Security Act.
 (3) The employer may require a medical certificate by his own physician to certify incapacity for work during the period of absence.
 (4) The sick leave entitlement granted by virtue of this paragraph shall be calculated on the basis provided for annual leave as specified in regulation 8(1) of the Organisation of Working Time Regulations.
 10. A whole-time employee shall be entitled to a maximum of one year injury leave on full pay, less the full amount of any injury benefit to which such employee may be entitled in terms of the Social Security Act, if such employee is injured during the actual discharge of his duty and such injury is not due to any contributory negligence on his part or to the contravention by him of any safety rules laid down by the management.
-11. A whole-time employee shall be allowed three days leave on full pay on the occasion of his marriage and one day leave on full pay on the occasion of the birth of a child to his wife. [S.L.452.69 6 WAGES COUNCIL WAGE REGULATION
+11. A whole-time employee shall be allowed three days leave [S.L.452.69 6 WAGES COUNCIL WAGE REGULATION
+on full pay on the occasion of his marriage and one day leave on full pay on the occasion of the birth of a child to his wife.
 12. Whole-time employees called for jury service shall be
 allowed all necessary time off to enable them to attend to such service in court without loss of pay.
 13. Whole-time employees shall be allowed two days paid
