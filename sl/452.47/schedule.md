@@ -1,5 +1,6 @@
 ## SCHEDULE
 ## Interpretation.
+## *This Order has been repealed by Legal Notice 113 of 2026.
 ## Applicability.
 ## Hours of work.
 ## Minimum remuneration of whole-time teachers.
