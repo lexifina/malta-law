@@ -1,6 +1,5 @@
 SUBSIDIARY LEGISLATION 452.07
 PRINTING AND PUBLISHING
-WAGES COUNCIL ORDER
+WAGES COUNCIL ORDER*
 2nd January, 1953
 GOVERNMENT NOTICE 3 of 1953.
-The title of this Order is Printing and Publishing Wages 1. Council Order.
