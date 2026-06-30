@@ -1,5 +1,6 @@
 ## SCHEDULE
 ## Interpretation.
+## *This Order has been repealed by Legal Notice 123 of 2026.
 ## Hours of work.
 ## Minimum wages.
 ## Minimum daily rest.
@@ -21,8 +22,9 @@
 "time-and-a-half" and "double-time" mean respectively one and a half times and twice the actual time rates applicable to the employee;
 "wages" means remuneration or earnings payable in money to an employee by an employer;
 "week" means a calendar week;
-"part-time employee" means an employee whose normal hours of work, calculated on a weekly basis or on average over a period of employment of up to one year, are less than the normal hours of work of a comparable whole-time employee and who is not a whole-time employee with reduced hours;
-"watchman" means a person who guards his employer's property [S.L.452.50 2 WAGES COUNCIL WAGE REGULATION
+"part-time employee" means an employee whose normal hours of [S.L.452.50 2 WAGES COUNCIL WAGE REGULATION
+work, calculated on a weekly basis or on average over a period of employment of up to one year, are less than the normal hours of work of a comparable whole-time employee and who is not a whole-time employee with reduced hours;
+"watchman" means a person who guards his employer's property
 against fire, theft, illegal entry and similar contingencies;
 "whole-time employee'' means an employee who is deemed to be
 a whole-time employee in terms of any recognized conditions of employment.
@@ -32,12 +34,12 @@ employees shall be related to a week of not more than -
 (b) fifty-two hours in the case of watchmen.
 3. The minimum weekly wages payable to whole-time
 employees shall be as follows -
-(a) watchmen employed wholly or mainly on indoor duties ..................................................... €181.08
-(b) watchmen employed wholly or mainly on outdoor duties ..................................................... €183.41
+(a) watchmen employed wholly or mainly on indoor duties ..................................................... €229.44
+(b) watchmen employed wholly or mainly on outdoor duties ..................................................... €231.77
 (c) other employees:
-At age 18 years or over ........................... €181.08
-At age 17 years ...................................... €174.30
-At age 16 years ...................................... €171.46.
+At age 18 years or over ........................... €229.44
+At age 17 years ...................................... €222.66
+At age 16 years ...................................... €219.82.
 4. Whole-time employees shall be allowed intervals for meals
 and rest of not less in the aggregate than one hour on any one day.
 5. Whole-time employees shall be entitled to one day of rest
@@ -45,16 +47,19 @@ in every period of seven consecutive days.
 6. Whole-time employees shall be entitled to the payment of
 overtime as follows -
 (a) Watchmen -
-(i) for every hour worked in excess of nine hours on any one day, except a Sunday ... time-and-a-half;
+(i) for every hour worked in excess of nine hours on any one day, except a Sunday .... time-and-a-half;
 (ii) for all hours of work on a Sunday .. double time;
 (iii) for all time worked on a customary holiday ...................................................... double time;
 (iv) for any hours worked in excess of fifty-two hours on any one week, exclusive of any hours for which overtime is payable in terms of the preceding provisions ................ time-and-a-half.
 (b) Employees other than watchmen -
 (i) for every hour worked in excess of eight hours on any one day, except the weekly day of rest of the employee ........................... time-and-a-half;
-(ii) for all hours worked on the weekly day of rest of the employee ................................. double time;
-(iii) for all time worked on a customary holiday ..................................................... double time;
-(iv) for every hour worked in excess of forty hours on any one week, exclusive of any hours for
 [S.L.452.50 WAGES COUNCIL WAGE REGULATION 3
+(ii) for all hours worked on the weekly day of rest of
+the employee ................................. double time;
+(iii) for all time worked on a customary holiday
+..................................................... double time;
+(iv) for every hour worked in excess of forty hours
+on any one week, exclusive of any hours for
 which overtime is payable in terms of the
 preceding provisions ................ time-and-a-half.
 7. (1) In addition to the minimum weekly rest to which whole-time employees may be entitled under paragraph 5, whole-time employees shall be entitled to the National Holidays and to all public holidays with full pay, and to the following vacation leave not being less than -
@@ -71,14 +76,9 @@ Provided that -
 (a) the first three days of any claim for sick leave shall be paid in full by the employer;
 (b) a medical certificate covering the period of absence is
 produced to the employer on the day of return to work
-or, if such period of absence is longer than seven days,
-within seven days of the onset of sick leave absence;
-(c) employees in receipt of a social security pension in
-respect of retirement or widowhood in terms of the
-Social Security Act shall, for the purpose of
-calculating the sick leave pay due, be deemed to have
 [S.L.452.50 4 WAGES COUNCIL WAGE REGULATION
-received an amount equal to the sum set for sickness benefit entitlement at the rate established under the Social Security Act.
+or, if such period of absence is longer than seven days, within seven days of the onset of sick leave absence;
+(c) employees in receipt of a social security pension in respect of retirement or widowhood in terms of the Social Security Act shall, for the purpose of calculating the sick leave pay due, be deemed to have received an amount equal to the sum set for sickness benefit entitlement at the rate established under the Social Security Act.
 (2) The employer may require a medical certificate by his own
 physician to certify incapacity for work during the period of absence.
 (3) The sick leave entitlement granted by virtue of this
@@ -97,15 +97,13 @@ allowed all the necessary time off on full pay to attend the Court on such servi
 rate calculated pro rata in accordance with the provisions of paragraphs 2 and 3 of this Schedule.
 15. In cases where the retiring age of a male employee is
 expected at the age of sixty years, such employee shall be given the opportunity by his employer to retain his employment beyond this age at least until the age of sixty-one years, provided that the employee in question shall still be allowed, if he so wishes, to retire at the age of sixty years.
+[S.L.452.50 WAGES COUNCIL WAGE REGULATION 5
 EXPLANATORY NOTE
-(This note is not part of the Schedule, but is intended to indicate
-its applicability).
-The above provisions apply to all employees in any undertaking
-or part of an undertaking the activities of which consist wholly or mainly in any of the following:
-Agriculture, horticulture, floriculture and viticulture, the breeding
-and rearing of livestock, poultry, rabbits, the keeping of bees and the processing of dairy products and products of a similar nature. [S.L.452.50 WAGES COUNCIL WAGE REGULATION 5
-- Amended by: L.N. 121 of 1978; L.N. 111 of 1990; L.N. 427 of 2007; L.N. 145 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016:; L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020.
-- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N.104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020.
+(This note is not part of the Schedule, but is intended to indicate its applicability).
+The above provisions apply to all employees in any undertaking or part of an undertaking the activities of which consist wholly or mainly in any of the following:
+Agriculture, horticulture, floriculture and viticulture, the breeding and rearing of livestock, poultry, rabbits, the keeping of bees and the processing of dairy products and products of a similar nature.
+- Amended by: L.N. 121 of 1978; L.N. 111 of 1990; L.N. 427 of 2007; L.N. 145 of 2010; L.N. 362 of 2012; L.N. 334 of 2013; L.N. 444 of 2013; L.N. 482 of 2014; L.N. 5 of 2016:; L.N.97 of 2017; L.N. 383 of 2017; L.N. 104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023; L.N. 341 of 2024; L.N. 288 of 2025.
+- Amended by: L.N.97 of 2017; L.N. 383 of 2017; L.N.104 of 2019; L.N. 351 of 2019; L.N. 469 of 2020; L.N. 464 of 2021; L.N. 335 of 2022; L.N. 286 of 2023; L.N. 341 of 2024; L.N. 288 of 2025.
 - See Cap. 252.
 - See Cap. 318.
 - See Cap. 318.
