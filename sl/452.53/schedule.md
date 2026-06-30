@@ -1,5 +1,6 @@
 ## SCHEDULE
 ## Interpretation.
+## *This Order has been repealed by Legal Notice 135 of 2026.
 ## Hours of work.
 ## Minimum remuneration of whole-time employees.
 ## Minimum daily rest.
