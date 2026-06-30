@@ -1,5 +1,6 @@
 ## SCHEDULE
 ## Interpretation.
+## *This Order has been repealed by Legal Notice 116 of 2026.
 ## Hours of work.
 ## Minimum wages of whole-time employee.
 ## Night shift allowance.
@@ -19,8 +20,9 @@
 1. In this Schedule, unless the context otherwise requires -
 "customary holidays" means the days (other than Sundays) declared for the time being to be public holidays by the National Holidays and other Public Holidays Act;
 "day" in the case of shift employees, means a period of twenty-four consecutive hours; in all other cases it means a period running from midnight of one day to midnight of the next following day;
-"half-day" means a period of twelve consecutive hours ending at twelve noon or midnight;
-"hours of work" means the time in any day during which [S.L.452.37 2 WAGES COUNCIL WAGE REGLATION
+"half-day" means a period of twelve consecutive hours ending at [S.L.452.37 2 WAGES COUNCIL WAGE REGLATION
+twelve noon or midnight;
+"hours of work" means the time in any day during which
 enployees are at the disposal of the employer, exclusive of the intervals allowed for meals and rest;
 "learner" means a person other than an apprentice, who is over
 the age of fourteen years and under the age of nineteen years and who is receiving training in any calling to which this Schedule applies, and in respect of whom the employer holds a permit issued, in terms of the Employment and Training Services Act;
