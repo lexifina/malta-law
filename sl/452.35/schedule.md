@@ -1,5 +1,6 @@
 ## SCHEDULE
 ## Definitions.
+## *This Order has been repealed by Legal Notice 133 of 2026.
 ## Hours of work.
 ## Minimum weekly wage.
 ## Uniform allowance.
