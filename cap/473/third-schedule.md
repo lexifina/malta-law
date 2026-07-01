@@ -19,7 +19,8 @@ Returns
 2. (1) A producer shall submit, to the competent authority returns in respect of products listed in the First Schedule to the Act, on a quarterly basis, containing data -
 (i) on the volume of products placed on the market during the relative quarter; and
 (ii) on the eco-contribution payable thereon; and
-(iii) such other information as may be required by the competent authority in such format as shall be established by the authority:
+(iii) on the total number of nights per person of accommodation, during
+the relative period that exceeded fifteen (15) nights; and
 Provided that producers shall be bound to submit the first return after the lapse of three months from entry into force of the Act.
 (2) Subject to any additional or other requirements as may be imposed by the competent authority in terms of any guidelines that may be issued in this respect, a producer shall submit to the competent authority returns in respect of accommodation referred to in the Second Schedule, on a quarterly basis containing data -
 (i) on the total number of nights of accommodation per person provided during the particular period covered by any return; and
@@ -60,4 +61,4 @@ Provided that any such person shall, in complying with the provisions of this su
 (b) they determine the manner in which any provision of this Act is to be applied;
 (c) they determine any matter which in accordance with this Act may be determined by or is subject to the approval or the discretion of the competent authority.
 (2) The provisions of sub-paragraph (1) are without prejudice to any power of the competent authority to determine any matter as provided in any other provision of the Act.
-- Amended by: L.N. 394 of 2004; L.N. 106 of 2006; L.N. 427 of 2007; L.N. 105 of 2008; II. 2009.67; L.N. 175 of 2016.
+- Amended by: L.N. 394 of 2004; L.N. 106 of 2006; L.N. 427 of 2007; L.N. 105 of 2008; II. 2009.67; L.N. 175 of 2016; III.2026.79.
