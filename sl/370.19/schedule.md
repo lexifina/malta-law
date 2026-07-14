@@ -10,7 +10,7 @@ In case of a proposed cross-border merger, the Maltese UCITS shall explain in pl
 1.2 The information to be provided to unit-holders of a Maltese UCITS
 shall also include:
 (i) details of how any accrued income in the Maltese UCITS is to be treated; and
-(ii) an indication of how the report of the independent auditor or the custodian as referred to in regulation 10(3) may be obtained.
+(ii) an indication of how the report of the independent auditor or the depositary as referred to in regulation 10(3) may be obtained.
 1.3 If a summary of the key points of the merger proposal is provided at the
 beginning of the information document, it must cross-refer to the parts of the information document where further information is provided.
 2. Additional Information to be provided by the Maltese UCITS when it is the merging UCITS
