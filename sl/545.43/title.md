@@ -3,7 +3,7 @@ SUBSIDIARY LEGISLATION 545.43
 PROMOTION OF ENERGY FROM RENEWABLE
 SOURCES REGULATIONS
 17th April, 2026
-LEGAL NOTICE 93 of 2026.
+LEGAL NOTICE 93 of 2026, as amended by Legal Notice 206 of 2026.
 Arrangement of the regulations
 Regulations
 Part I Preliminary 1 - 2
