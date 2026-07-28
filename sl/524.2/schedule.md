@@ -22,8 +22,7 @@ Multiple births
 8. Multiple births
 Additional Fertilisations
 9. Additional Fertilisation Permissions
-Welfare of the child
-10. Welfare of the child
+Welfare of the child 10. Welfare of the child
 Preimplantation Genetic Testing
 11. Pre-implantation Genetic Testing for Monogenic Diseases (PGTM)
 Donations
@@ -182,10 +181,10 @@ The tissue establishment should ensure that confidentiality of staff records is 
 2.6 Tissue establishment management should ensure that staff members who are in contact with patients, donors and their partners where applicable:
 (a) follow the tissue establishment's patient support
 policy
-(b) are prepared to offer appropriate emotional
-support to people suffering distress at any stage before, during and after treatment.
-(c) understand and can explain the role of
-counselling, and
+(b) are prepared to offer appropriate emotional support
+to people suffering distress at any stage before, during and after treatment.
+(c) understand and can explain the role of counselling,
+and
 (d) know when and how to refer people to the tissue
 establishment's qualified and warranted counsellor.
 2.7 Tissue establishment management is responsible for delivery of the patient support policy and for using intelligence to monitor and evaluate the effectiveness of the policy. Tissue establishment management should ensure that the policy addresses the emotional support needs of patients, donors, and their partners where applicable, in order to continuously improve their experience of treatment services.
@@ -241,7 +240,8 @@ laboratory to supervise and be responsible for one, and
 (c) be registered with a registered body as a clinical
 scientist or biomedical scientist, or be able to demonstrate equivalent training or expertise.
 2.22 The individual responsible for the clinical embryology laboratory should:
-(a) possess an appropriate scientific or medical degree
+(a) possess an appropriate scientific or medical
+degree
 (b) have had sufficient experience in such a
 laboratory to be able to supervise and be responsible for one, and
 (c) be registered with a registered body as a clinical
@@ -258,7 +258,8 @@ Staff involved in genetic testing
 (b) have acquired sufficient experience in an
 appropriately accredited medical genetics diagnostic laboratory to supervise and be responsible for one, and
 (c) be registered with the equivalent body as a clinical
-scientist with specific expertise in clinical genetics. 2.29 If genetic testing of those seeking treatment or considering donation is offered, the tissue establishment should ensure that an individual is available who understands the:
+scientist with specific expertise in clinical genetics.
+2.29 If genetic testing of those seeking treatment or considering donation is offered, the tissue establishment should ensure that an individual is available who understands the:
 (a) nature of the tests conducted
 (b) scope and limitations of the tests
 (c) accuracy and implications of the tests, and 4
@@ -300,8 +301,7 @@ member of staff
 (b) their efforts to provide the particular activity at the
 tissue establishment, and
 (c) if that activity cannot be provided at the tissue
-establishment, efforts they have made to ensure the patient receives treatment elsewhere.
-Addressing Communication Barriers
+establishment, efforts they have made to ensure the patient receives treatment elsewhere. Addressing Communication Barriers
 3.18 The tissue establishment should consider the needs of people whose first language is not Maltese or English and those who face other communication barriers. Where consent is obtained, the tissue establishment should record any difficulties in communicating the implications of giving consent and in providing other information to the person (e.g. language barriers or hearing impairment) and an explanation of how these difficulties were overcome(e.g. the use of an independent interpreter).
 3.19 The tissue establishment should ensure it establishes and accommodates any disabled patient's preferred means of communication. If appropriate, it should consider providing information in a variety of formats such as large print, 'easy read' or Braille.
 4. Infertility Counselling and Patient Support
@@ -487,8 +487,7 @@ data should refer to the EPA as the source of national information.
 on success rates is of limited value in comparing tissue establishments and choosing where to seek treatment.
 (h) If the information refers to comparative costs, it
 should indicate the likely total cost for a typical cycle, based on the actual costs for recent patients, not individual items in tariffs.
-Information about the cost of treatment
-5.6 Before treatment, storage or both are offered, the tissue establishment should also give the person seeking treatment or storage, and their partner (if applicable) a personalised costed treatment plan. The plan should detail the main elements of the treatment proposed (including investigations and tests), the cost of that treatment and any possible changes to the plan, including their cost implications. The tissue establishment should give patients the opportunity to discuss the plan before.
+Information about the cost of treatment 5.6 Before treatment, storage or both are offered, the tissue establishment should also give the person seeking treatment or storage, and their partner (if applicable) a personalised costed treatment plan. The plan should detail the main elements of the treatment proposed (including investigations and tests), the cost of that treatment and any possible changes to the plan, including their cost implications. The tissue establishment should give patients the opportunity to discuss the plan before.
 Further information to provide
 5.7 There are different kinds of information tissue establishments should give, where appropriate, to patients, patients' partners and donors prior to obtaining consent to treatment, storage or donation. Tissue establishment staff should familiarise themselves with all the appropriate information to provide. This information is contained in the following list of guidance notes:
 (a) Consent to treatments, storage, and disclosure of
@@ -586,8 +585,7 @@ patient's life, and
 (b) the treatment cannot be postponed, and the patient
 is unconscious or mentally incapacitated so cannot indicate their wishes.
 6.24 The tissue establishment should comply with current professional guidelines on consent.
-Consent to the Presence of Observers
-6.25 If a member of the tissue establishment's team wishes an observer to be present when a patient is being examined, treated or counselled, they should explain why beforehand and state who the observer is. The tissue establishment should give the patient appropriate information about the proposed observation and ask them whether they consent to the observer's presence.
+Consent to the Presence of Observers 6.25 If a member of the tissue establishment's team wishes an observer to be present when a patient is being examined, treated or counselled, they should explain why beforehand and state who the observer is. The tissue establishment should give the patient appropriate information about the proposed observation and ask them whether they consent to the observer's presence.
 Patients have the right to decide what identifying information should be disclosed and to whom.
 Tissue establishments should obtain a patient's written consent before disclosing information relating to their treatment (or providing gametes for a partner's treatment), or the storage of gametes.
 In addition, consent is needed from any person who could be identified through disclosure of information about a person's treatment or the storage of gametes. For example, consent would be needed from a patient's partner if they could be identified through disclosure of information about the patient's treatment.
@@ -624,7 +622,8 @@ Competence
 (a) follow the current guidelines of professional
 bodies
 (b) if they remain in any doubt, the tissue
-establishment should seek legal advice. Variation and Withdrawal of Consent
+establishment should seek legal advice.
+Variation and Withdrawal of Consent
 6.35 If someone wishes to withdraw consent to the storage or use of gametes they must do so in writing, except if they are unable to do so because of illness, injury or incapacity. In these cases, they can direct someone to sign on their behalf, provided that the person withdrawing consent is present at the time, and that the signature is also witnessed and attested to by at least one other person.
 6.36 The tissue establishment should check the identity of anyone withdrawing or varying consent against identifying information held in the medical records. The tissue establishment should also ensure that the person withdrawing or varying consent has been given sufficient information to enable them to make an informed decision about doing so.
 6.37 The tissue establishment should have procedures for dealing with disputes that may arise when one gamete provider withdraws their consent to the use or storage of gametes (e.g. in cases of separation / divorce). In this situation the tissue establishment should stop treatment and notify all relevant parties. Tissue establishments should provide information about counselling or mediation services as appropriate.
@@ -650,7 +649,8 @@ to record the steps it has taken in the patient's medical records.
 (a) Identified causes of infertility amenable to
 treatment by IVF
 (b) Unexplained infertility for at least 2 years. In all
-cases where investigations show that there is no chance of pregnancy with expectant management and where IVF is the only effective treatment, the couple is to be referred directly for IVF without having to wait for the two-year period.
+cases where investigations show that there is no chance of pregnancy with expectant management and where IVF is the only effective treatment, the couple is to be referred directly for
+IVF without having to wait for the two-year period.
 (c) Same sex lesbian couples making use of donated
 sperm
 (d) Single/partnered biological woman, irrespective of
@@ -712,7 +712,8 @@ years can be granted up to a maximum of 8 oocytes.
 (c) Prospective parents undergoing PGTM will be
 allowed up to a maximum of 12 oocytes as per hereunder:
 (i) Prospective parents where the woman has
-not attained 36 years of age will be allowed up to a maximum of 8 oocytes/embryos to undergo PGTM.
+not attained 36 years of age will be allowed up to a
+maximum of 8 oocytes/embryos to undergo PGTM.
 (ii) Prospective parents where the woman has
 attained 36 years of age and has not attained 46 years of age, will be allowed up to a maximum of 12 oocytes/ embryos to undergo PGTM.
 9.9 The decision of the Authority is Final and will be communicated in writing on the EEART system by the CEO of the Authority to the Consultant who had made the original request.
@@ -766,8 +767,8 @@ children
 existing children, or
 (iii) violence or serious discord in the family
 environment
-(b) past or current circumstances that are likely to lead
-to an inability to care throughout childhood for any child who may be born, or that are already seriously impairing the care of any existing child of the family, for example:
+(b) past or current circumstances that are likely to
+lead to an inability to care throughout childhood for any child who may be born, or that are already seriously impairing the care of any existing child of the family, for example:
 (i) mental or physical conditions
 (ii) drug or alcohol abuse
 (iii) medical history, where the medical history
@@ -822,8 +823,25 @@ Nemaline Myopathy
 Spinal Muscular Atrophy
 Tay-Sachs Disease
 Walker-Warburg Syndrome
+Griscelli Syndrome
+Tetrahydrobiopterin (BH4-Responsive PKU) Deficiency including DHPR, SPRgenes
+Tufting Enteropathy
+Usher Syndrome
+Aspartoacylase Deficiency (Canavan Disease)
+Bloom Syndrome
+Familial Dysautonomia
+Familial Hyperinsulinism (ABCC8)
+Fanconi Anemia
+Gaucher Disease
+Niemann-Pick Disease Type A
+Neurofibromatosis (NF1, NF2-related schwannomatosis, and non-NF2 schwannomatosis)
+Charcot-Marie-Tooth (CMT)
+Duchenne Muscular Dystrophy (DMD)
+Becker Muscular Dystrophy (BMD)
+Cystic Fibrosis
+β-Thalassaemia Major
 11.2 For conditions not already on the list, the EPA considers a number of factors, including how serious the condition is, the likelihood of it being inherited and the testimony of people affected by the condition before deciding whether to approve it for PGTM testing.
-11.3 In order for a new condition to be considered for PGTM testing approval, a couple must have a licensed PGTM clinic apply to the EPA on their behalf.
+11.3 In order for a new condition to be considered for PGTM testing approval, a couple must have a licensed tissue establishment apply to the EPA on their behalf.
 11.4 When pre-implantation genetic diagnosis (PGTM) is used to combine IVF and genetic testing as a means of avoiding the transmission of a genetic disease, the medical practitioners shall follow the principles of the Ethical Guidelines as per hereunder:
 11.4.1 Pre-implantation genetic diagnosis (PGTM) is a technique that may be used to combine IVF and genetic testing as a means of avoiding the transmission of a genetic disease as listed in the protocol. PGTM shall not be allowed for the selection of embryos for eugenic purposes.
 11.4.2 PGTM should only be used for the detection of serious genetic conditions as approved by the Authority, and which conditions significantly affect the health of an individual who might be born.
@@ -834,17 +852,17 @@ Walker-Warburg Syndrome
 (a) hold an appropriate scientific or medical degree
 (b) have acquired sufficient experience in an
 appropriately accredited medical genetics diagnostic laboratory to supervise and be responsible for one, and
-(c) be registered with a recognised body by the EPA as
-a clinical scientist with specific expertise in clinical genetics and is conversant on the nature of tests conducted, the scope and limitations of the tests, accuracy and implications of the tests and the meaning of the test results.
-11.9 The Tissue Establishment should ensure that the prospective parents seeking treatment should have access to the clinical geneticists and the genetic counsellors.
+(c) be registered with a recognised body by the EPA
+as a clinical scientist with specific expertise in clinical genetics and is conversant on the nature of tests conducted, the scope and limitations of the tests, accuracy and implications of the tests and the meaning of the test results.
+11.9 The Tissue Establishment should ensure that the prospective parents seeking treatment should have access to the clinical geneticists or the genetic counsellors.
 11.10 Genetic counselling requires specialist training and knowledge. Tissue Establishments are to ensure, that genetic counselling should only be undertaken by an infertility counsellor if s/ he has additional qualification in genetic counselling. In the absence of this, patients should be referred to specialist genetic counselling services. Genetic counselling addresses the risk of patients using their own gametes, but it does not address the emotional issues associated with infertility. Therefore, the Tissue Establishment's counselling service should continue to be available before, throughout and after the investigations, decision-making and treatment.
 11.11 The Tissue Establishment should consider the following factors when deciding if PGTM is appropriate in particular cases:
 (a) the views of the people seeking treatment in
 relation to the condition to be avoided, including their previous reproductive experience
 (b) the likely degree of suffering associated with the
 condition
-(c) the availability of effective therapy, now and in
-the future
+(c) the availability of effective therapy, now and in the
+future
 (d) the speed of degeneration in progressive disorders
 (e) the social support available, and
 (f) the family circumstances of the people seeking
@@ -853,8 +871,7 @@ treatment.
 (a) that patients are given the opportunity to receive
 genetic counselling on the implications prior to giving consent,
 (b) that protocols are established to limit, as far as
-possible, the risk of unwanted disclosure to the patients. Tissue Establishments should consider using a different embryology laboratory from their own, in order to minimise the number of Tissue Establishment staff who know the patient's genetic status.
-11.13 The Tissue Establishment should document its reasons for offering PGTM with non-disclosure to a patient. This record should include:
+possible, the risk of unwanted disclosure to the patients. Tissue Establishments should consider using a different embryology laboratory from their own, in order to minimise the number of Tissue Establishment staff who know the patient's genetic status. 11.13 The Tissue Establishment should document its reasons for offering PGTM with non-disclosure to a patient. This record should include:
 (a) written informed consent from the patient to
 perform PGTM with non-disclosure,
 (b) a statement from the people seeking treatment
@@ -883,15 +900,17 @@ partners that may affect genetic diagnosis, or the outcome of IVF and pregnancy 
 (a) Prospective parents where the woman has not
 attained thirty-six (36) years of age will be allowed up to a maximum of eight oocytes/embryos to undergo PGTM.
 (b) Prospective parents where the woman has attained
-thirty-six (36) years and have not attained forty-six (46) years of age will be allowed up to a maximum of twelve oocytes/ embryos to undergo PGTM. 11.16 The Tissue Establishment should ensure that people seeking PGTM are given the appropriate information about the treatment. This should include:
-(a) the process, procedures and possible risks
-involved in IVF and biopsy procedures when providing a sophisticated genetic test,
+thirty-six (36) years and have not attained forty-six (46) years of age will be allowed up to a maximum of twelve oocytes/ embryos to undergo PGTM.
+11.16 The Tissue Establishment should ensure that people seeking PGTM are given the appropriate information about the treatment. This should include:
+(a) the process, procedures and possible risks involved
+in IVF and biopsy procedures when providing a sophisticated genetic test,
 (b) the experience of the Tissue Establishment in
 carrying out the procedure,
 (c) that sophisticated genetic tests can reveal
 additional genetic information about an embryo(s) and that the clinical effect of these findings on a child born may not be known,
 (d) All information, oral and written, should be in
-language that can be understood by a layperson as technical terminology may lead to patient misunderstanding,
+language that can be understood by a layperson as technical
+terminology may lead to patient misunderstanding,
 (e) Written information about treatment should be
 available prior to a consultation,
 (f) When PGTM involves the treatment of a couple,
@@ -907,11 +926,12 @@ completion of the laboratory work-up,
 (k) Individualised post-consultation letters should
 contain a summary of the information discussed,
 (l) The patients should sign a written informed
-consent for all procedures they will undergo, and which are PGTM-related. 11.17 The Tissue Establishment should also provide information to those seeking treatment to help them make decisions about their treatment, including:
+consent for all procedures they will undergo, and which are PGTM-related.
+11.17 The Tissue Establishment should also provide information to those seeking treatment to help them make decisions about their treatment, including:
 (a) genetic and clinical information about the
 condition being tested for,
-(b) the likely impact of the condition on those affected
-and their families,
+(b) the likely impact of the condition on those
+affected and their families,
 (c) information about treatment and social support
 available, and
 (d) information from a relevant patient support group
@@ -955,7 +975,8 @@ patient identification code;
 laboratory;
 (iii) samples and genetic status of relevant
 family members can be mentioned only with their informed consent and should be in accordance with general data protection regulations (GDPR) and/or local privacy regulations;
-(d) restatement of the clinical question, i.e., the indication(s) being requested for analysis, the type of required testing, the referral reason, parental karyotypes/genomes;
+(d) restatement of the clinical question, i.e., the
+indication(s) being requested for analysis, the type of required testing, the referral reason, parental karyotypes/genomes;
 (e) specification of genetic tests used:
 (i) brief information on the methods used in
 the analysis;
@@ -965,7 +986,8 @@ including software, where appropriate;
 this should be clearly identified in the report, including the reference and version of the kit.
 (f) a clear description and interpretation of results;
 (g) a clear summary of the results;
-(h) error rates/limitations of the test/misdiagnosis (a general figure should be stated for the overall cycle/treatment).
+(h) error rates/limitations of the test/misdiagnosis (a
+general figure should be stated for the overall cycle/treatment).
 11.32 Before starting a clinical PGTM cycle, relevant documents should be available, labelling of samples should be checked, and genetic counselling provided to the prospective parent/s.
 11.33 The PGTM laboratory should ensure that it has clearly documented procedures for all steps of the examination process (explicit instructions and a summary of validation results) and release of results (diagnosis, reporting, embryo transfer policy). These procedures should be covered in a service-level agreement between the PGTM and IVF centres.
 11.34 The IVF Centre should ensure that the method used for PGTM should have been previously implemented, tested, and validated in the PGTM centre.
@@ -1020,11 +1042,12 @@ tissue establishment for that donor
 use that donor's gametes
 (c) seek authorisation to do so, if appropriate, and
 (d) ensure that the limit in Malta of one family per
-donor is not exceeded Family and other Relevant History
+donor is not exceeded
+Family and other Relevant History
 12.8 Before a prospective donor provides gametes, the recruiting tissue establishment should take their medical family histories (when available). The tissue establishment should encourage prospective donors to provide as much other non-identifying biographical information as possible, so that is may be available to prospective recipients, parents and resulting children. If a prospective donor cannot give a full and accurate family history, the tissue establishment should record this fact and take it into account in deciding whether or not to accept their gametes or embryos for treatment.
 12.9 The tissue establishment should seek the prospective donor's consent to approach their GP for further factual information if it suspects the donor might be unsuitable. The tissue establishment should always seek further information if:
-(a) information provided by the patients suggests
-there are risk factors that might affect anyone treated using their gametes or a child born as a result.
+(a) information provided by the patients suggests there
+are risk factors that might affect anyone treated using their gametes or a child born as a result.
 (b) the prospective donor has failed to provide any
 information requested
 (c) the information provided by the prospective donor
@@ -1058,10 +1081,10 @@ on a serum or plasma sample, tested in accordance with Annex III, of the EUTCD 2
 outlined by the superintendence of public health (SPH).
 (c) the level of potential fertility indicated by semen
 analysis (when appropriate)
-(d) the implications of the donation for the
-prospective donor and their family, especially for any children they may have at the time of donation or in the future, and
-(e) the implications for any children born as a result
-of the donation, in the short and long term.
+(d) the implications of the donation for the prospective
+donor and their family, especially for any children they may have at the time of donation or in the future, and
+(e) the implications for any children born as a result of
+the donation, in the short and long term.
 12.22 Where a prospective recipient is happy to accept a donor from a different ethnic background, the tissue establishment can offer ART treatment, subject to the normal welfare of the child assessment.
 12.23 Tissue establishments should not perform treatment that involves donations by an ascendant to a descendant; descendant to an ascendant; and siblings whether of the full or half blood.
 12.24 The tissue establishment should ensure that its procedures for recruiting donors are fair and non-discriminatory.
@@ -1072,8 +1095,8 @@ of the donation, in the short and long term.
 12.29 The tissue establishment should tell gamete donors that they should inform the tissue establishment if, after the donation:
 (a) they discover they are affected by an unsuspected
 genetic disease, or
-(b) they find they are a carrier of a harmful recessively
-inherited condition (eg, through the birth of an affected child).
+(b) they find they are a carrier of a harmful
+recessively inherited condition (eg, through the birth of an affected child).
 12.30 If a tissue establishment learns that a donor has a previously unsuspected genetic disease or is a carrier of a harmful inherited condition, the tissue establishment should:
 (a) notify the Embryo Protection Authority
 immediately
@@ -1082,7 +1105,8 @@ received gametes obtained from that donor (applicable where there is transfer of
 (c) The Embryo Protection Authority is to inform
 patients who have had a live birth as a result of treatment with gametes from that donor, and offer these patients appropriate counselling if the child has still not reached age of majority. Inform the donor conceived child if he has reached aged of majority
 (d) Carefully consider when and how a woman who is
-pregnant, as a result of treatment with gametes from that donor, is given this information. Information for Prospective Donors
+pregnant, as a result of treatment with gametes from that donor, is given this information.
+Information for Prospective Donors
 12.31 Before any consents or samples are obtained from a prospective donor, the recruiting tissue establishment should provide information about:
 (a) What information (both non-identifying and
 identifying) about the donor must be collected by the tissue establishment and held on the Embryo Protection Authority Register
@@ -1165,17 +1189,16 @@ Requirements for the Procurement of Gametes
 authorisation;
 (c) the assessment of the selection criteria for donors
 (d) the assessment of the laboratory tests required for
-donors 12.46 There shall also be SOPs describing the procedures for procurement, packaging, labelling and transportation of the gametes to the point of arrival at the tissue establishment.
+donors
+12.46 There shall also be SOPs describing the procedures for procurement, packaging, labelling and transportation of the gametes to the point of arrival at the tissue establishment.
 12.47 Procurement shall take place in appropriate facilities, following procedures that minimise bacterial or other contamination of procured tissues and cells, in accordance with EUTCD.
 12.48 Procurement of materials and equipment shall be managed in accordance with the standards and specifications laid down in relevant national and international regulation, standards and guidelines covering the sterilisation of medicines and medical devices. Qualified, sterile instruments and procurement devices shall be used for gamete procurement.
 12.49 Procurement of gametes from donors shall take place in an environment that ensures their health, safety and privacy.
 12.50 The procedures for the procurement of tissues and cells shall be carried out in accordance with the requirements of the EUTCD.
 12.51 A unique identifying code shall be allocated to the donor and the donated tissues and cells, during procurement or at the tissue establishment, to ensure proper identification of the donor and the traceability of all donated material. The coded data shall be entered in a register maintained for the purpose.
 12.52 The Embryo Protection Authority shall ensure that all tissue establishments, including importing tissue establishments (as defined in Directive 2015/565/EU, as amended) -
-(a) allocate a Single European Code (SEC) as
-required by the EU Commission Directive 2004/23/EC on standards of quality and safety for donation, procurement, testing, processing, preservation and distribution of all human tissue and cells intended for human application. The directive also sets out that to facilitate traceability it is necessary to establish a unique identifier applied to tissues and cells (including reproductive cells) distributed in the EU (by way of a SEC) providing information on the main characteristics and properties of those tissues and cells.
-(b) The SEC is applied to the movement of gametes
-and embryos between licensed clinics (or tissue establishments) within and outside of Malta. Movement of 'partner' embryos and gametes are exempt from the requirements if distributed between tissue establishments in Malta. This code is to be applied at the latest before distribution / export for human application
+(a) allocate a Single European Code (SEC) as required by the EU Commission Directive 2004/23/EC on standards of quality and safety for donation, procurement, testing, processing, preservation and distribution of all human tissue and cells intended for human application. The directive also sets out that to facilitate traceability it is necessary to establish a unique identifier applied to tissues and cells (including reproductive cells) distributed in the EU (by way of a SEC) providing information on the main characteristics and properties of those tissues and cells.
+(b) The SEC is applied to the movement of gametes and embryos between licensed clinics (or tissue establishments) within and outside of Malta. Movement of 'partner' embryos and gametes are exempt from the requirements if distributed between tissue establishments in Malta. This code is to be applied at the latest before distribution / export for human application
 (c) allocate a donation identification sequence after procuring the tissues and cells, or when receiving them from a procurement organisation, or when importing tissues and cells from a third country supplier. The donation identification sequence shall include:
 (i) their EU tissue establishment code as
 assigned in the EU Tissue Establishment Compendium;
@@ -1184,14 +1207,15 @@ tissue establishment, unless such number is allocated centrally at national leve
 (d) do not alter the donation identification sequence once it is allocated to tissues and cells released for circulation, unless it is necessary to correct an encoding error; any correction requires proper documentation;
 (e) use one of the permitted product coding systems and the corresponding tissue and cell product numbers included in the EU Tissue and Cell Product Compendium at the latest before their distribution for human application;
 (f) use an appropriate split number and expiry date. For tissues and cells for which no expiry date is defined, the expiry date shall be 00000000 at the latest before their distribution for human application;
-(g) apply the Single European Code on the label of the product concerned in an indelible and permanent manner and mention that code in the relevant accompanying documentation at the latest before its distribution for human application. The tissue establishment may entrust this task to a third party or third parties, provided the tissue establishment ensures compliance with Directive 2015/565/EU, as amended, in particular in terms of uniqueness of the code. Where the label size precludes the application of the Single European Code on the label, the code shall be unambiguously linked to tissues and cells packaged with such a label through the accompanying documentation;
+(g) apply the Single European Code on the label of the
+product concerned in an indelible and permanent manner and mention that code in the relevant accompanying documentation at the latest before its distribution for human application. The tissue establishment may entrust this task to a third party or third parties, provided the tissue establishment ensures compliance with Directive 2015/565/EU, as amended, in particular in terms of uniqueness of the code. Where the label size precludes the application of the Single European Code on the label, the code shall be unambiguously linked to tissues and cells packaged with such a label through the accompanying documentation;
 (h) notify the competent authority when:
 (i) information contained in the EU Tissue
 Establishment Compendium requires an update or correction;
 (ii) the EU Tissue and Cell Product
 Compendium requires an update;
-(iii) the tissue establishment observes a
-situation of significant noncompliance with the requirements relating to the Single European Code concerning tissues and cells received from other EU tissue establishments;
+(iii) the tissue establishment observes a situation
+of significant noncompliance with the requirements relating to the Single European Code concerning tissues and cells received from other EU tissue establishments;
 (i) take the necessary measures in case of incorrect
 application of the Single European Code on the label:
 12.53 The Embryo Protection Authority will check compliance at inspections, by sampling donor gamete and embryo movements into and out of the clinic to ensure the SEC has been applied appropriately.
@@ -1235,8 +1259,8 @@ and
 (c) document the rationale for the chosen quarantine
 procedures.
 14. Procuring, Processing and Transporting of Gametes and Embryos
-14.1 In respect of gametes and embryos preparation processes, these shall require compliance with the Commission Directive 2004/ 23/EC of the European Parliament and of the Council of 31st March, 2004 on setting standards of quality and safety for the donation, procurement, testing, processing, preservation, storage and distribution of human tissues and cells.
-14.2 These shall also require compliance with the requirements laid down in the provisions of the third Directive. Directive 2006/86/EC (the third Directive) implements Directive 2004/23/EC as regards traceability requirements, notification of serious adverse reactions and events and certain technical requirements for the coding, processing, preservation, storage and distribution of human tissues and cells.
+14.1 In respect of gametes and embryos preparation processes, these shall require compliance with the Commission Directive 2004/23/ EC of the European Parliament and of the Council of 31st March, 2004 on setting standards of quality and safety for the donation, procurement, testing, processing, preservation, storage and distribution of human tissues and cells.
+14.2 These shall also require compliance with the requirements laid down in the provisions of the third Directive. Directive 2006/86/EC (the third Directive) implements Directive 2004/ 23/EC as regards traceability requirements, notification of serious adverse reactions and events and certain technical requirements for the coding, processing, preservation, storage and distribution of human tissues and cells.
 Relevant Provisions of the Third Directive
 (a) Reception of gametes and embryos at the tissue
 establishment Annex II, Part A
@@ -1271,8 +1295,8 @@ stimulation syndrome including maintaining clinical relationships with local hos
 treatment in oncology cases and transgender persons
 (b) the tissue establishment can satisfy itself that the
 patient is capable of giving effective consent to the use of the gametes for that purpose, and
-(c) the patient has given effective consent to the use
-of their gametes for that purpose.
+(c) the patient has given effective consent to the use of
+their gametes for that purpose.
 14.8 A tissue establishment should store or use only sperm that has been obtained directly from the provider, another licensed clinic or a centre with which the licensed centre has a transport arrangement, or that has been imported in line with EPA approvals.
 14.9 The tissue establishment should ensure that if sperm is produced at another part of the hospital / treatment centre and not within the tissue establishment itself, it should follow protocols to ensure, that:
 (a) the identity of the sperm provider is confirmed
@@ -1301,8 +1325,7 @@ and the taking of the patient history
 characteristics, and
 (e) the results of laboratory tests and of other tests.
 (f) a properly documented review of the complete
-patient/donor evaluation against the selection criteria by an authorised and trained person.
-14.12 In addition to the requirements in licence conditions, the documented procedures against which each consignment of gametes and embryos is verified should include requirements for:
+patient/donor evaluation against the selection criteria by an authorised and trained person. 14.12 In addition to the requirements in licence conditions, the documented procedures against which each consignment of gametes and embryos is verified should include requirements for:
 (a) patient, patient's partner, donor verification
 (b) packaging and transport
 (c) labelling of containers for procured gametes, and
@@ -1342,8 +1365,7 @@ If any of the information under the points above cannot be included on the prima
 Quality and Safety of Gametes and Embryos
 14.21 The tissue establishment should establish and use documented procedures to ensure that:
 (a) procedures involving the manipulation of gametes
-or embryos (e.g. sperm preparation, separation of eggs from cumulus cells, and fertilisation of eggs) are performed in a
-controlled environment with appropriate air quality
+or embryos (e.g. sperm preparation, separation of eggs from cumulus cells, and fertilisation of eggs) are performed in a controlled environment with appropriate air quality
 (b) the risk of bacterial or other contamination is
 minimised
 (c) appropriate measures are in place for handling
@@ -1417,10 +1439,9 @@ amount of handling required to retrieve gametes and embryos.
 16.15 The tissue establishment's documented procedures should also ensure that:
 (a) gametes and embryos are stored under controlled
 conditions that are validated and monitored
-(b) gametes and embryos are packaged for storage in
-a way that:
-(i) prevents any adverse effects on the
-material
+(b) gametes and embryos are packaged for storage in a
+way that:
+(i) prevents any adverse effects on the material
 (ii) minimises the risk of contamination
 (c) records are kept indicating every occasion when
 gametes and embryos are handled during storage and release, and by whom
@@ -1454,8 +1475,8 @@ previously cryopreserved embryos or gametes, and
 reason for them and the implications of the tests for the gamete providers.
 16.23 Oncology patients and other patients requiring long-term storage should be given specific information tailored to their needs and circumstances. Where relevant, this should include information appropriate for children and young people.
 16.24 The tissue establishment should ensure that, before someone consents to gametes or embryos being stored, they are told:
-(a) the options available if a person providing
-gametes or resulting embryos dies or becomes mentally incapacitated
+(a) the options available if a person providing gametes
+or resulting embryos dies or becomes mentally incapacitated
 (b) that it is unlawful to store embryos and gametes
 beyond the period of consent, the tissue establishment having a legal obligation to dispose of gametes once consent has expired. In case of embryos the Embryo Protection Authority will authorise embryo adoption.
 Treatment using Cryopreserved Eggs
@@ -1486,8 +1507,8 @@ the implantation of the embryos into the womb has taken place, death of the woma
 embryos into the womb of the prospective parent cannot take place including those cases where the prospective parent refuses said implantation;
 (c) Prospective parent has reached the maximum
 permissible age for the implantation;
-(d) Prospective parent/s fail to renew the contract
-with the licensee where the cryopreserved embryos are being stored for future use.
+(d) Prospective parent/s fail to renew the contract with
+the licensee where the cryopreserved embryos are being stored for future use.
 17.2 The adoption of an embryo may only take place if the Embryo Protection Authority, on the application of a prospective parent or prospective parents, so decides.
 17.3 The Embryo Protection Authority shall inform the Social Care Standards Authority of embryo availability.
 17.4 The Embryo Protection Authority shall only issue its authorisation if the prospective parent or prospective parents have been declared as physically fit by a medical practitioner for the transfer of an embryo and following a favourable recommendation issued by the Adoption Board in accordance with the Adoption Administration Act (Cap 495) determining the eligibility and suitability or otherwise of the prospective parent or prospective parents.
@@ -1509,16 +1530,12 @@ the sperm provider gives against records, the laboratory data sheet and sperm re
 (c) Preparing sperm
 (i) Cross-check information on tubes against
 the documents and information on the sperm receptacle (when the sperm sample is transferred onto a preparation column). This step does not need to be manually witnessed if an electronic system (barcoding or RFID) is being used.
-(d) Mixing sperm and eggs or injecting sperm into
-eggs
+(d) Mixing sperm and eggs or injecting sperm into eggs
 (i) Verify identifying information on the dishes
-and tubes and confirm that the sperm and eggs should be
-mixed or the sperm injected into eggs.
-(e) Transferring gametes or embryos between tubes or
-dishes
+and tubes and confirm that the sperm and eggs should be mixed or the sperm injected into eggs.
+(e) Transferring gametes or embryos between tubes or dishes
 (i) Cross-check information marked on dishes
-and tubes against the patient's records, and the information marked on the dishes and tubes that the
-gametes or embryos are being transferred from.
+and tubes against the patient's records, and the information marked on the dishes and tubes that the gametes or embryos are being transferred from.
 (f) Transferring embryos into a woman
 (i) Cross-check identifying information that
 the patient provides against the patient's medical records or the electronic system (or both) and the laboratory data sheet, and confirm that these are the correct embryos to transfer.
@@ -1534,7 +1551,8 @@ storage container against the patient's records and the information on the tube 
 gametes or embryos are placed.
 (i) Removing gametes or embryos from cryopreservation
 (i) Cross-check information on the storage
-container against information in the patient records to confirm they are the correct gametes or embryos to remove.
+container against information in the patient records to confirm they are the correct gametes or embryos to
+remove.
 (ii) Cross-check information from the storage
 container and the patient records or their information on the electronic system against the thaw dish or tube (and, if applicable, attach a barcode or RFID tag to the thaw dish or tube).
 (j) Disposing of gametes
@@ -1599,8 +1617,8 @@ Risk Assessment: Electronic Witnessing Systems
 system will not harm gametes and embryos. In establishing that this is the case, tissue establishments should consider what the supplier or manufacturer has done to satisfy itself that the system will not harm gametes and embryos (e.g. commissioned independent reports or carried out irradiance readings)
 (b) Tissue establishments should be aware that the
 reliability and safety of different electronic systems may vary
-(c) Tissue establishments should evaluate the evidence
-that the supplier or manufacturer provides to support the safety and reliability of its system (e.g. false positive and negative matches and breakdown), plus any other relevant studies
+(c) Tissue establishments should evaluate the
+evidence that the supplier or manufacturer provides to support the safety and reliability of its system (e.g. false positive and negative matches and breakdown), plus any other relevant studies
 (d) Any software should be fully tested, quality
 assured and risk assessed
 (e) Tissue establishments should consider what the
@@ -1663,8 +1681,8 @@ applicable
 (iii) gametes and embryos, and
 (iv) any containers used for the receipt and
 distribution of gametes and embryos.
-(b) quarantined, non-quarantined and rejected
-material is clearly distinguishable at all processing stages
+(b) quarantined, non-quarantined and rejected material
+is clearly distinguishable at all processing stages
 (c) they keep records of the equipment and materials
 used to receive, process, store gametes and embryos and discard gametes
 (d) they keep registers of received, processed, stored,
@@ -1689,8 +1707,8 @@ embryos have been sent (for a patient's use).
 (iii) end of statutory storage period.
 19.4 The tissue establishment's traceability procedures should cover any materials or equipment that could affect the quality or safety of gametes and embryos, for example:
 (a) culture media
-(b) serial numbers or batch numbers of equipment and
-materials coming into contact with gametes and embryos, and
+(b) serial numbers or batch numbers of equipment
+and materials coming into contact with gametes and embryos, and
 (c) records of the monitoring and maintenance of the
 required conditions in incubators and storage tanks.
 19.5 For gametes that have been stored at the tissue establishment (e.g. for oncology or fertility preservation patients) and then supplied to another tissue establishment (e.g. to be stored or used in treatment), the tissue establishment will not be expected to hold traceability data for subsequent processes involving those gametes outside the tissue establishment. However, the storing tissue establishment 's record keeping procedures should show a link to the tissue establishment to which the gametes are supplied, so that the complete process from procurement to use or disposal can be traced if needed.
@@ -1706,8 +1724,8 @@ associated risk of miscarriage and chromosomal abnormalities.
 20.2 The tissue establishment should provide information to people seeking treatment with donated gametes or embryos about legal parenthood, and the collection and provision of information, specifically:
 (a) there shall be no link of filiation between the child
 born from donated germ line cells or adopted embryos and the persons from whom donated germ line cells or adopted embryos originated
-(b) information that tissue establishments must
-collect and register with the Embryo Protection Authority about the donors
+(b) information that tissue establishments must collect
+and register with the Embryo Protection Authority about the donors
 (c) what information may be disclosed to people born
 as a result of donation and in what circumstances, and
 (d) a donor-conceived person's right to access non-
@@ -1847,16 +1865,16 @@ expected from these processes
 processes
 (c) determine and apply the criteria and methods
 (including monitoring, measurements and related performance indicators) needed to ensure the effective operation and control of these processes
-(d) determine the resources needed for these processes
-and ensure their availability
+(d) determine the resources needed for these
+processes and ensure their availability
 (e) assign the responsibilities and authorities for these
 processes
 (f) address the risks and opportunities as determined
 in accordance with the requirements
 (g) evaluate these processes and implement any
 changes needed to ensure that these processes achieve their intended results
-(h) improve the processes and the quality management
-system.
+(h) improve the processes and the quality
+management system.
 23.10 To the extent necessary, the tissue establishment shall:
 (a) maintain documented information to support the
 operation of its processes
@@ -1898,7 +1916,8 @@ establishment's processes are planned and operate effectively, and
 (d) records and procedures required by this Protocol.
 The tissue establishment should ensure that all documents are available for inspection by the EPA.
 Quality Policy and Quality Objectives
-23.15 The quality policy is defined as: "The overall intentions and direction of an organisation related to quality as formally expressed by tissue establishment management. A quality policy statement defines or describes an organisation's intentions and commitment to quality and provides a framework for setting quality objectives and planning". (International Organization for Standardization)
+23.15 The quality policy is defined as:
+"The overall intentions and direction of an organisation related to quality as formally expressed by tissue establishment management. A quality policy statement defines or describes an organisation's intentions and commitment to quality and provides a framework for setting quality objectives and planning". (International Organization for Standardization)
 23.16 Tissue establishment management should ensure the quality policy includes a commitment to:
 (a) providing a service that meets its users' needs and
 requirements. This should include ensuring that all staff who come into contact with patients, donors and their partners (where applicable) provide the good quality supportive care before, during and after treatment, as outlined in the tissue establishment's patient support policy
@@ -1952,15 +1971,14 @@ quality management system, including assisted conception processes
 tissue establishment and inter-laboratory comparisons
 (vi) identification, investigation, control,
 recording and notification of serious adverse events and reactions, and
-(vii) continual improvement, including the status
-of corrective and preventive actions.
+(vii) continual improvement, including the
+status of corrective and preventive actions.
 23.22 The tissue establishment should normally review its quality management system at least every 12 months but more often when a quality management system is being established.
 23.23 The management review should include the results of monitoring, evaluation and improvement activities.
 23.24 The results of the review of the quality management system should be recorded and should include the decisions and actions for improving the quality management system. Tissue establishment staff should be informed of the results of the quality management review.
 Quality Indicators
 23.25 The tissue establishment should establish quality indicators for systematically monitoring and evaluating the tissue establishment's contribution to the provision of emotional support and patient care.
-Assessing User Satisfaction
-23.26 The tissue establishment should assess whether or not the service has met users' needs and requirements, including the extent to which they felt supported before, during and after their treatment or donation. It should keep records of the information it collects and the actions it takes. Methods should include user surveys for all aspects of the service.
+Assessing User Satisfaction 23.26 The tissue establishment should assess whether or not the service has met users' needs and requirements, including the extent to which they felt supported before, during and after their treatment or donation. It should keep records of the information it collects and the actions it takes. Methods should include user surveys for all aspects of the service.
 Staff Suggestions
 23.27 Tissue establishment management should encourage staff to make suggestions for improving any aspect of the tissue establishment's service. Suggestions should be evaluated, implemented as appropriate, and feedback provided to the staff. Records of suggestions and management action should be maintained.
 Internal & External Audits
@@ -2031,9 +2049,10 @@ third party provided processes, products and services on the tissue establishmen
 necessary to ensure that the third party provided processes, products and services meet requirements.
 23.41 The tissue establishment shall ensure the adequacy of requirements prior to their communication to the third-party provider.
 23.42 The tissue establishment shall communicate to third party providers its requirements for:
-(a) the processes, products and services to be provided
-(b) the approval of products and services, the methods,
-processes and equipment and the release of products and services
+(a) the processes, products and services to be
+provided
+(b) the approval of products and services, the
+methods, processes and equipment and the release of products and services
 (c) competence, including any required qualification
 of persons
 (d) the third party providers' interactions with the
@@ -2056,8 +2075,8 @@ and
 effectiveness, and
 (g) risk based thinking and opportunities
 23.44 When planning for the quality management system, the tissue establishment shall consider the issues and determine the risks and opportunities that need to be addressed to:
-(a) give assurance that the quality management
-system can achieve its intended results
+(a) give assurance that the quality management system
+can achieve its intended results
 (b) enhance desirable effects
 (c) prevent, or reduce, undesired effects
 (d) achieve improvement.
@@ -2102,8 +2121,8 @@ embryos, or both, for example:
 assessed, given fertility-stimulating drugs and monitored, and eggs are retrieved (transport tissue establishments / tissue establishments)
 (iii) tissue establishments where sperm is
 procured
-(b) supplying goods or services (including
-distribution services) that may affect the quality and safety of gametes and embryos, for example:
+(b) supplying goods or services (including distribution
+services) that may affect the quality and safety of gametes and embryos, for example:
 (i) companies supplying equipment and
 materials, eg, suppliers of culture media
 (ii) companies monitoring air quality in
@@ -2152,7 +2171,8 @@ Definition of Premises
 (e) medical gas safety
 Moving to New Premises
 26.3 Before moving to new premises, the tissue establishment should contact and inform the Embryo Protection Authority. The tissue establishment should notify the EPA in writing of the intended move, by submitting an application with information about the new premises. The EPA will consider the application and information, and may need to inspect the premises.
-Changing Existing Premises 26.4 The tissue establishment should notify the EPA in writing of any planned changes to the premises by submitting, in advance, an application with information on the planned changes.
+Changing Existing Premises
+26.4 The tissue establishment should notify the EPA in writing of any planned changes to the premises by submitting, in advance, an application with information on the planned changes.
 26.5 The EPA will consider the application and information, and may need to inspect the premises.
 Acquiring Additional Premises
 26.6 If a tissue establishment wishes to conduct licensed activities not subject to a third-party agreement in premises other than those specified on the current licence (e.g. in a different building), it should notify the EPA in writing. The tissue establishment should also submit an application with information about the additional premises.
@@ -2201,8 +2221,8 @@ infection control issues are dealt with.
 Management of medicines
 26.18 Where controlled drugs are used, tissue establishments should be aware of the legal requirements, and have a controlled drugs accountable officer.
 26.19 Tissue establishments should have policies and procedures in place for:
-(a) storing, disposing of, and managing the wastage of
-medicines, ensuring medicines can be accurately identified, are within date, and are kept safely (to prevent unauthorised access)
+(a) storing, disposing of, and managing the wastage
+of medicines, ensuring medicines can be accurately identified, are within date, and are kept safely (to prevent unauthorised access)
 (b) managing medicine stock, ensuring staff can
 identify and respond when new stock is needed
 (c) prescribing and dispensing medicines, ensuring
@@ -2224,8 +2244,8 @@ medication
 patient will need antibiotics).
 26.23 When doing a surgical procedure, tissue establishments should ensure that they:
 (a) use a theatre check list
-(b) monitor the patient before inducing the
-anaesthetic or sedative, and throughout the procedure
+(b) monitor the patient before inducing the anaesthetic
+or sedative, and throughout the procedure
 (c) have contingency plans in case problems arise
 during an operation, such as a severe allergic reaction or major bleeding
 (d) have a contingency plan is case that patient needs
@@ -2295,20 +2315,20 @@ alarm board) to contact staff outside normal working hours
 (c) adequate staffing and funding to implement formal
 emergency procedures, including having on-call arrangements, and
 (d) adequate spare storage space or vessels to enable
-transfer of samples if a vessel fails. 28. Adverse Incidents
+transfer of samples if a vessel fails.
+28. Adverse Incidents
 Definitions
 28.1 An "adverse incident" is any event, circumstance, activity or action which has caused, or has been identified as potentially causing harm, loss or damage to patients, their embryos and/or gametes, or to staff or a licensed tissue establishment. This includes serious adverse events, serious adverse reactions, breaches of confidentiality, and ovarian hyper stimulation syndrome (OHSS) which has a severity grading of severe or critical.
 28.2 A serious adverse event is defined as:
-(a) any untoward occurrence which may be
-associated with the procurement, testing, processing, storage or distribution of gametes or embryos intended for human application and which, in relation to a person who receives treatment services or non-medical fertility services-
+(a) any untoward occurrence which may be associated
+with the procurement, testing, processing, storage or distribution of gametes or embryos intended for human application and which, in relation to a person who receives treatment services or non-medical fertility services-
 (i) might lead to the transmission of a
 communicable disease, to death, or life-threatening,
 disabling or incapacitating conditions, or
 (ii) might result in, or prolong, hospitalisation
 or illness, or
-(b) any type of gametes or embryo misidentification
-or mix-up'.
-28.3 A serious adverse reaction is defined as:
+(b) any type of gametes or embryo misidentification or
+mix-up'. 28.3 A serious adverse reaction is defined as:
 An unintended response, including a communicable disease, of gametes intended for human application or a person who receives treatment services or non-medical fertility services, which may be associated with the procurement or human application of gametes or embryos and which is fatal, life threatening, disabling, incapacitating or which results in, or prolongs, hospitalisation or illness.
 28.4 A "near miss" is an occurrence that, but for luck, skill or judgment, would in all probability have become an adverse incident.
 Reporting and Timescales
@@ -2377,7 +2397,7 @@ on any third-party device unless there is a process for anonymising or deleting 
 (d) record and audit potential access to identifying
 information
 (e) have systems in place to reduce the risks of
-malicious access to data; these systems should include anti-virus software, firewalls, and network segmentation (including user-/network-level usernames and passwords)
+malicious access to data; these systems should include anti-virus software, firewalls, and network segmentation (including user-/ network-level usernames and passwords)
 (f) know what software is installed on tissue
 establishment systems and what it allows
 (g) ensure agreements/contracts with the relevant
@@ -2403,7 +2423,8 @@ is to be disclosed.
 (b) other healthcare professionals outside the tissue
 establishment (provide the patient or the patient's partner with the best possible medical care)
 (c) auditors or administrative staff outside of the tissue
-establishment (so they can perform functions designated to them in connection with the tissue establishment's licensable activities), and 29.18 The tissue establishment should renew consent to disclosure if the nature of the treatment changes after initial consent has been given.
+establishment (so they can perform functions designated to them in connection with the tissue establishment's licensable activities), and
+29.18 The tissue establishment should renew consent to disclosure if the nature of the treatment changes after initial consent has been given.
 29.19 The tissue establishment should ensure that people to whom they disclose identifying information know that the information remains protected by the existing common law on confidentiality. Those receiving information should also be told:
 (a) the precise terms upon which it was disclosed and
 for which consent has been given, and
@@ -2464,8 +2485,8 @@ treatment services, before those services or activities are carried out.
 (c) adverse incidents and near misses
 31.4 It shall be the duty of every licensee to keep a confidential register with full details of every medically assisted procreation procedure including IUI's, germ line cell donation, cryopreservation of germ line cells and cryopreservation of embryos in terms of the Embryo Protection Act and to pass on this information to the Embryo Protection Authority without delay
 (a) register information, including:
-(i) registration information for donors, patients
-and patients' partners (where applicable)
+(i) registration information for donors,
+patients and patients' partners (where applicable)
 (ii) information on the intention to treat
 (iii) IVF treatment and embryo creation
 information
