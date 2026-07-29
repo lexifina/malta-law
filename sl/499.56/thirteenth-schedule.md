@@ -184,7 +184,7 @@ J1. Article 37(1) and Tachograph not repaired by an approved fitter or X
 Article 22(1) workshop J2 Article 37(2) Driver not marking all required information for the X
 periods of time, which are no longer recorded while
 tachograph is unserviceable or malfunctioning
-* In the above table, "MSI" means "Most Serious Infringement"; "VSI" means "Very Serious Infringement"; an
+* In the above table, "MSI" means "Most Serious Infringement"; "VSI" means "Very Serious Infringement"; and
 "SI" means "Serious Infringement"
 - Added by: L.N. 75 of 2010.
 - Amended by: L.N. 251 of 2011.

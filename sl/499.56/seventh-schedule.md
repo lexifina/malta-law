@@ -57,3 +57,4 @@ Vehicles (Weights, Dimensions and Equipment) Regulations;
 2. The technical standards for construction and equipment which the vehicles used to carry out the cabotage transport operations must meet shall be those laid down for vehicles put into circulation in international transport.
 3. In the case of an occasional service in the form of cabotage, the journey forms shall be returned by the carrier to the Authority in accordance with procedures it shall establish.
 4. In the case of special regular services in the form of cabotage, the journey forms shall be completed in the form of a monthly statement and returned by the carrier to the Authority in accordance with procedures it shall establish.
+- Amended by: XV. 2009.49.

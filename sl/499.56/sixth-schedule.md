@@ -1,5 +1,5 @@
 ## SIXTH SCHEDULE
-## (1) The attention of the applicant is drawn to the fact that, since the authorisation has to be kept on board the vehicle, the number of authorisations which the applicant must have should correspond to the number of vehicles needed for carrying out the service requested at the same time.
+## the vehicle, the number of authorisations which the applicant must have should correspond to the number of vehicles needed for carrying out the service requested at the same time.
 # sixth-schedule
 (Regulation 87)
 APPLICATION FOR AUTHORISATION FOR REGULAR SERVICES
@@ -40,3 +40,4 @@ The fact that a special service may be varied according to the needs of users
 shall not affect its classification as a special regular service.
 4. The application shall be made to the Authority when the service departs from Malta.
 5. The maximum period of validity of the authorisation is five years.
+- Amended by: XV. 2009.49.

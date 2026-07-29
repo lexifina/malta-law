@@ -62,3 +62,4 @@ Special regular services do not require authorisation if they are covered by a c
 The organisation of parallel or temporary services, serving the same public as existing regular services, requires authorisation.
 'Occasional services' means services which do not fall within the definition of regular services, including special regular services, and whose main characteristic is that they carry groups constituted on the initiative of a customer or of the carrier himself. The organisation of parallel or temporary services comparable to existing regular services and serving the same public as the latter shall be subject to authorisation in accordance with the procedure laid down in Section II of Regulation (EEC) No 684/92. These services shall not cease to be occasional services solely because they are provided at certain intervals.
 Occasional services do not require authorisation.
+- Amended by: XV. 2009.49.
