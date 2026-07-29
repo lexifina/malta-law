@@ -1,0 +1,5 @@
+## SIXTH SCHEDULE
+# sixth-schedule
+(regulation 17) [S.L. 65.33 72 VEHICLE HIRE SERVICES
+[S.L. 65.33 VEHICLE HIRE SERVICES 73
+- Added by: L.N. 171 of 2026.

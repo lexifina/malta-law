@@ -1,30 +1,31 @@
-## comply with the provisions mentioned in this regulation.
 ## FIRST SCHEDULE
 # first-schedule
 (Regulations 5(4), 42(b), 44(5), 44(6), 65(4))
 FEES
-Application fee for Light Passenger Transport Vehicle
-Services Operator Licence (under Part II) €200
-Renewal fee for Light Passenger Transport Vehicle
-Services Operator Licence (under Part II) €200
-Transfer of Operator Licence (under Part II)
-€50
-Changes in Licence (under Part II) €25
-Reissuing lost Licence (under Part II) €10
-Application for granting and renewal of driver's tag
-(under Part IV) €12
-Replacement of lost driver's tag (under Part IV)
-€12
-[S.L. 499.68 VEHICLE HIRE SERVICES 47
-Application fee for Vehicle Hire Services Operator Licence (under Part V) €200
-Renewal fee for Vehicle Hire Services Operator Licence (under Part V) €200
-Transfer of Operator Licence (under Part V)
-€50
-Changes in Operator Licence (under Part V)
-€25
-Reissuing lost licence
-€10
-Application fee for a Passenger Transport Vehicle Licence (under Part VIII €25
-Application fee for Intermediary Booking Platform Service (under Part IX) €100
-Renewal Fee (under Part IX
-€100
+Fee for the application for an Operator's Licence €200 for Light Passenger Transport Services LPTV1 (under Part II)
+Fee for the application for an Operator's Licence €200 for Light Passenger Transport Services LPTV2 (under Part II)
+Fee for the application for an Operator's Licence €200 for Carriage of Passenger Services with Vehicles for Special Occasions SOV (under Part II)
+Fee for the renewal of an Operator's Licence for €200 Light Passenger Transport Services LPTV1 (under Part II)
+Fee for the renewal of an Operator's Licence for €200 Light Passenger Transport Services LPTV2 (under Part II)
+[S.L. 499.68 VEHICLE HIRE SERVICES 65
+Right for the renewal of an Operator's Licence for €200 Carriage of Passenger Services with Vehicles for Special Occasions SOV (under Part II)
+Passengers with Light Vehicles (under Part II) €50
+Transfer of Operator's Licence LPTV1 (under Part €100 II)
+Transfer of Operator's Licence LPTV2 (under Part €500 II)
+Transfer of Operator's Licence SOV (under Part II) €500
+Change in Licence (under Part II) €25
+Issuance of a Lost LPTV1 Licence (under Part II) €25
+Issuance of a Lost LPTV2 Licence (under Part II) €100
+Issuance of a Lost SOV Licence (under Part II) €100
+Application for the issuance and renewal of a €12 chauffeur tag (under Part IV)
+Replacement of the chauffeur tag (under Part IV) €20
+Fee for the application for an Operator's Licence €200 to Provide Vehicle Rental Services (under Part V)
+Transfer of Operator's Licence (under Part V) €50
+Change in Licence (under Part V) €25
+Issuance of a Lost Licence (under Part V) €10
+Fee for the application for a Vehicle Licence for €50 every Passenger Transport (under Part VIII) vehicle
+Right to apply as an Intermediary Booking €100 Platform Service (under Part IX)
+Annual authorisation fee (under Section IX) In accord-ance
+with the Seventh
+Schedule".
+- Substituted by: L.N. 171 of 2026.
