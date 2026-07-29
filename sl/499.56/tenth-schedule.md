@@ -1,5 +1,5 @@
 ## TENTH SCHEDULE
-## At least nine years but less than ten years before the date of such application
+## Number of At least passengers nine years which can be but less than carried as per ten years manufacturer's before the certificate of date of such the particular application
 ## (€)
 # tenth-schedule
 FEES
@@ -21,12 +21,12 @@ Replacement of Driver Tag - Regulation 22(4)
 (S.L. 65.11)
 Part 4
 Application for Passenger Transport Vehicle Licence - Regulation 27
-1. Application fee for a Passenger Transport Vehicle Licence €25 2. Entry Fee payable in applicable cases:
+1. Application fee for a Passenger Transport Vehicle Licence €25
+2. Entry Fee payable in applicable cases:
 Entry Fee payable upon application for a passenger transport vehicle licence
 for a vehicle which was manufactured:
 11 11000 11000 11000 11000 11000 11000
-12 11892 11892 11892 11892 11892 11892
-13 12753 12753 12753 12753 12753 12753
+12 11892 11892 11892 11892 11892 11892 13 12753 12753 12753 12753 12753 12753
 14 13608 13608 13608 13608 13608 13608
 15 14430 14430 14430 14430 14430 14430
 16 15248 15248 15248 15248 15248 15248
@@ -67,7 +67,7 @@ for a vehicle which was manufactured:
 51 31620 41820 52020 62220 72420 82620
 52 31772 42172 52572 62972 73372 83772
 53 and over 31800 42400 53000 63600 74200 84800
-Provided that coaches which are new motor vehicles, open top buses which are new motor vehicles, tail lift vans which are new motor vehicles, vintage buses, trackless trains and electric trolley vehicles shall be exempt from the entry fee irrespective of the number of passengers which they can carry.
+Provided that coaches which are new motor vehicles, open top buses which are new motor vehicles, tail lift vans which are new motor vehicles, minibuses which are new motor vehicles that are licensed from 19th August 2023 onwards,vintage buses, trackless trains and electric trolley vehicles shall be exempt from the entry fee irrespective of the number of passengers which they can carry.
 2A. Entry Fee payable for an open top bus which was manufactured more than ten years prior to the entry into force of these regulations to be used for the provision of passenger transport services other than those on sightseeing passenger transport routes ............................................................................................................................ €10,600
 3. Passenger Transport Vehicle Licence renewal fee €25 per passenger
 transport vehicle
@@ -108,4 +108,4 @@ Application fee for a motor route bus licence €25
 Part 6
 Application fee for a special vintage bus services €10.
 ELEVENTH SCHEDULE - SCHOOL CHILDREN SIGN
-- Amended by: L.N. 272 of 2010; L.N. 251 of 2011; L.N. 432 of 2012; L.N. 177 of 2014; L.N. 238 of 2016.
+- Amended by: L.N. 272 of 2010; L.N. 251 of 2011; L.N. 432 of 2012; L.N. 177 of 2014; L.N. 238 of 2016; L.N. 158 of 2023.

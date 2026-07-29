@@ -1,4 +1,5 @@
 ## SIXTH SCHEDULE
+## the vehicle, the number of authorisations which the applicant must have should correspond to the number of vehicles needed for carrying out the service requested at the same time.
 # sixth-schedule
 (Regulation 87)
 APPLICATION FOR AUTHORISATION FOR REGULAR SERVICES
