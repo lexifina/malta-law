@@ -1,4 +1,5 @@
 ## SCHEDULE II
+##       
 # schedule-ii
 ELIGIBILITY CRITERIA
 (regulation 2A)
@@ -7,6 +8,6 @@ ELIGIBILITY CRITERIA
 3. The project proposal shall be supported by a detailed project plan and a feasibility study.
 4. Any other eligibility criteria which the Director may prescribe in accordance with regulation 2A(2).
 - Added by: L.N. 256 of 2023.
-- See Cap. 595.
-- See Cap. 492.
+- See Cap. 595..
+- See Cap. 492. .
 - See Cap. 607.
