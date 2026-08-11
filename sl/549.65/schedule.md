@@ -1,9 +1,12 @@
 ## SCHEDULE
 # schedule
-(Regulation 5)
-APPLICATION FEES CHARGED BY THE COMPETENT AUTHORITY
-1. For the processing of a written notification by the competent authority as competent authority of dispatch or transhipment, a fixed fee of €350 shall apply. Any expenses relating to shipping of the notification documents by courier to the competent authorities of transit and destination, and those relating to the treatment facility in the country of destination, shall be borne by the notifier.
-2. For the processing of a written notification by the competent authority as competent authority of destination, a fixed fee of €500 shall apply.
-3. For the processing by the competent authority of any movement document for each container in the shipment in accordance with Article 4 of Regulation (EC) No 1013/2006 of the European Parliament and of the Council of 14 June 2006 on shipments of waste, and for the processing by the competent authority of the document contained in Annex VII in accordance with Article 18 of the said Regulation, a fee of thirty-five euro (€35) shall be due to the Authority whether it is the competent authority of dispatch, of transit or of destination.
-4. For the processing of a written notification by the competent authority as competent authority of transit, a fixed fee of €250 should apply.
-- Amended by: L.N. 194 of 2024.
+(Regulation 4)
+ADMINISTRATIVE FEES CHARGED BY THE AUTHORITY
+For the purposes of determining the applicable fees, a movement document referred to in item 4 or an Annex VII document referred to in item 5, shall cover a single container, trailer, barge, end-of-life ship or other transport unit, as applicable and as determined by the Authority.
+1. For the processing of a notification by the Authority as competent authority of dispatch, a fixed fee of three-hundred and fifty euro (€350) shall apply.
+2. For the processing of a notification by the Authority as competent authority of destination, a fixed fee of five-hundred euro (€500) shall apply.
+3. For the processing of a notification by the Authority as competent authority of transit, a fixed fee of two-hundred and fifty euro (€250) shall apply.
+4. For the processing by the Authority of each movement document in accordance with article 5 of Regulation (EU) 2024/1157, a fee of thirty-five euro (€35) shall be due to the Authority whether it is the competent authority of dispatch, of transit or of destination.
+5. For the supervision procedure by the Authority on shipments of waste referred to in Article 4(4) and (5) of the EU Regulation, a fee of thirty-five euro (€35) shall be due to the Authority for every document established in Annex VII to Regulation (EU) 2024/1157 completed by the person who arranges the shipment in accordance with Article 18 of Regulation (EU) 2024/1157 for each shipment.
+6. Any expenses relating to the shipping of notification documents by courier to the competent authorities concerned and those relating to the consignee and, or treatment facility, shall be borne by the notifier.
+- Substituted by: L.N. 215 of 2026.
