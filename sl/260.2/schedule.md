@@ -13,6 +13,7 @@
 3. The lock-up at Police General Headquarters at Floriana.
 4. The lock-up at Paola Police Station.
 5. St Michael Ward at St Luke's Hospital in Guardamangia.
-6. The former Primary School at Mta]leb.
+6. The former Primary School at Mtaħleb.
 7. Forensic Unit at Mount Carmel Hospital.
-- Amended by: L.N. 105 of 2019.
+8. Block D, Zone B, Ħal Far Detention Centre.
+- Amended by: L.N. 105 of 2019; L.N. 223 of 2026.
