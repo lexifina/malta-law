@@ -20,5 +20,4 @@ The following are excluded from claiming under the Scheme:
 15. Investors who have any responsibility for or have taken advantage of certain facts relating to a licence holder which gave rise to the licence holder's financial difficulties or contributed to the deterioration of its financial situation;
 16. Investors in respect of transactions in connection with which a criminal conviction has been obtained for money laundering in terms of the Prevention of Money Laundering Act, or under equivalent or similar foreign legislation;
 17. Nominees, trustees or other third parties acting on behalf or in the interest of the persons referred to in this Schedule to the extent of the funds held in such capacity;
-18. Other categories of professional and institutional investors as may be determined from time to time by the Management Committee.
-- Substituted by: L.N. 36 of 2006.
+18. Other categories of professional and institutional investors, including but not limited to elective professional investors and eligible counterparties, as may be determined from time to time by the Management Committee.
