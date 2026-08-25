@@ -1,6 +1,6 @@
 SUBSIDIARY LEGISLATION 363.160
 REGIONAL COMMITTEES REGULATIONS
 5th August, 2011
-LEGAL NOTICE 320 of 2011, as amended by Legal Notice 312 of 2015.
+LEGAL NOTICE 320 of 2011, as amended by Legal Notices 312 of 2015 and 225 of 2026.
 PART I
 General
