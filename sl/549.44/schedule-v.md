@@ -20,7 +20,8 @@ MICROCHIROPTERA
 All species
 MEGACHIROPTERA
 PTEROPODIDAE
-Rousettus aegyptiacus RODENTIA
+Rousettus aegyptiacus
+RODENTIA
 GLIRIDAE
 All species except Glis glis and Eliomys quercinus
 SCIURIDAE
@@ -48,12 +49,12 @@ Hystrix cristata
 CARNIVORA
 CANIDAE
 Alopex lagopus
-Canis lupus (except the Greek populations north of the 39th parallel; Estonian populations, Spanish populations north of the Duero; Bulgarian; Latvian, Lithuanian, Polish, Slovak populations and Finnish populations within the reindeer management area as defined in paragraph 2 of the Finnish Act No 848/90 of 14 September 1990 on reindeer management)
 URSIDAE
 Ursus arctos
 MUSTELIDAE
 Lutra lutra
-Mustela eversmanii Mustela lutreola
+Mustela eversmanii
+Mustela lutreola
 Vormela peregusna
 FELIDAE
 Felis silvestris
@@ -92,8 +93,7 @@ Dermochelys coriacea
 EMYDIDAE
 Emys orbicularis
 Mauremys caspica
-Mauremys leprosa
-SAURIA
+Mauremys leprosa SAURIA
 LACERTIDAE
 Algyroides fitzingeri
 Algyroides marchi
@@ -129,8 +129,7 @@ Podarcis muralis
 Podarcis peloponnesiaca
 Podarcis pityusensis
 Podarcis sicula
-Podarcis taurica
-Podarcis tiliguerta
+Podarcis taurica Podarcis tiliguerta
 Podarcis wagleriana
 SCINCIDAE
 Ablepharus kitaibelli
@@ -163,10 +162,10 @@ Coluber laurenti
 Coluber najadum
 Coluber nummifer
 Coluber viridiflavus
-Coronella austriaca Eirenis modesta
+Coronella austriaca
+Eirenis modesta
 Elaphe longissima
-Elaphe quatuorlineata
-Elaphe situla
+Elaphe quatuorlineata Elaphe situla
 Natrix natrix cetti
 Natrix natrix corsa
 Natrix natrix cypriaca
@@ -202,8 +201,7 @@ Triturus vulgaris ampelensis
 PROTEIDAE
 Proteus anguinus
 PLETHODONTIDAE
-Hydromantes (Speleomantes) ambrosii
-Hydromantes (Speleomantes) flavus
+Hydromantes (Speleomantes) ambrosii Hydromantes (Speleomantes) flavus
 Hydromantes (Speleomantes) genei
 Hydromantes (Speleomantes) imperialis
 Hydromantes (Speleomantes) strinatii (Hydromantes (Speleomantes) italicus)
@@ -236,10 +234,10 @@ Bufo calamita
 Bufo viridis
 HYLIDAE
 Hyla arborea
-Hyla meridionalis Hyla sarda
+Hyla meridionalis
+Hyla sarda
 FISH
-ACIPENSERIFORMES
-ACIPENSERIDAE
+ACIPENSERIFORMES ACIPENSERIDAE
 Acipenser naccarii
 Acipenser sturio
 SALMONIFORMES
@@ -272,7 +270,8 @@ Carabus olympiae
 Carabus variolosus
 Carabus zawadszkii
 Cerambyx cerdo
-Cucujus cinnaberinus Dorcadion fulvum cervae
+Cucujus cinnaberinus
+Dorcadion fulvum cervae
 Duvalius gebhardti
 Duvalius hungaricus
 Dytiscus latissimus
@@ -348,8 +347,7 @@ Stylurus flavipes
 Sympecma braueri
 ORTHOPTERA
 Baetica ustulata
-Brachytrupes megacephalus
-Isophya costata
+Brachytrupes megacephalus Isophya costata
 Isophya harzi
 Isophya stysi
 Myrmecophilus baronii
@@ -382,10 +380,10 @@ Hygromia kovacsi
 Idiomela (Helix) subplicata
 Lampedusa imitatrix
 Lampedusa melitensis
-Leiostyla abbreviata Leiostyla cassida
+Leiostyla abbreviata
+Leiostyla cassida
 Leiostyla corneocostata
-Leiostyla gibba
-Leiostyla lamellosa
+Leiostyla gibba Leiostyla lamellosa
 Paladilhia hungarica
 Patella feruginea
 Sadleriana pannonica
@@ -418,10 +416,10 @@ Diplazium sibiricum (Turcz. ex Kunze) Kurata
 * Dryopteris corleyi Fraser-Jenk.
 Dryopteris fragans (L.) Schott
 HYMENOPHYLLACEAE
-Trichomanes speciosum Willd. ISOETACEAE
+Trichomanes speciosum Willd.
+ISOETACEAE
 Isoetes boryana Durieu
-Isoetes malinverniana Ces. & De Not.
-MARSILEACEAE
+Isoetes malinverniana Ces. & De Not. MARSILEACEAE
 Marsilea batardae Launert
 Marsilea quadrifolia L.
 Marsilea strigosa Willd.
@@ -453,7 +451,8 @@ Narcissus triandrus L.
 Narcissus triandrus L. subsp. capax (Salisb) D.A. Webb.
 Narcissus viridiflorus Schousboe
 ASCLEPIADACEAE
-Vincetoxicum pannonicum (Borhidi) Holub BERBERIDACEAE
+Vincetoxicum pannonicum (Borhidi) Holub
+BERBERIDACEAE
 Berberis maderensis Lowe
 BORAGINACEAE
 * Anchusa crispa Viv.
@@ -489,10 +488,10 @@ Arenaria provincialis Chater & Halliday
 Cerastium dinaricum G. Beck & Szysz.
 Dianthus arenarius L. subsp. arenarius
 * Dianthus arenarius subsp. bohemicus (Novak) O.Schwarz
-Dianthus cintranus Boiss. & Reuter subsp. cintranus Boiss. & Reuter * Dianthus diutinus Kit.
+Dianthus cintranus Boiss. & Reuter subsp. cintranus Boiss. & Reuter
+* Dianthus diutinus Kit.
 * Dianthus lumnitzeri Wiesb.
-Dianthus marizii (Samp.) Samp.
-* Dianthus moravicus Kovanda
+Dianthus marizii (Samp.) Samp. * Dianthus moravicus Kovanda
 * Dianthus nitidus Waldst. et Kit.
 Dianthus plumarius subsp. regis-stephani (Rapcs.) Baksay
 Dianthus rupicola Biv.
@@ -525,10 +524,10 @@ CHENOPODIACEAE
 * Salicornia veneta Pignatti & Lausi
 CISTACEAE
 Cistus palhinhae Ingram
-Halimium verticillatum (Brot.) Sennen Helianthemum alypoides Losa & Rivas Goday
+Halimium verticillatum (Brot.) Sennen
+Helianthemum alypoides Losa & Rivas Goday
 Helianthemum caput-felis Boiss.
-* Tuberaria major (Willk.) Pinto da Silva & Rozeira
-COMPOSITAE
+* Tuberaria major (Willk.) Pinto da Silva & Rozeira COMPOSITAE
 * Anthemis glaberrima (Rech. f.) Greuter
 Artemisia campestris L. subsp. bottnica A.N. Lundström ex Kindb.
 * Artemisia granatensis Boiss.
@@ -561,10 +560,10 @@ Centaurea micrantha Hoffmanns. & Link subsp. herminii (Rouy) Dostál
 * Centaurea pinnata Pau
 Centaurea pontica Prodan & E. I. Nyárády
 Centaurea pulvinata (G. Blanca) G. Blanca
-Centaurea rothmalerana (Arènes) Dostál Centaurea vicentina Mariz
+Centaurea rothmalerana (Arènes) Dostál
+Centaurea vicentina Mariz
 Cirsium brachycephalum Juratzka
-* Crepis crocifolia Boiss. & Heldr.
-Crepis granatensis (Willk.) B. Blanca & M. Cueto
+* Crepis crocifolia Boiss. & Heldr. Crepis granatensis (Willk.) B. Blanca & M. Cueto
 Crepis pusilla (Sommier) Merxmüller
 Crepis tectorum L. subsp. nigrescens
 Erigeron frigidus Boiss. ex DC.
@@ -596,10 +595,10 @@ Tephroseris longifolia (Jacq.) Griseb et Schenk subsp. moravica
 Wagenitzia lancifolia (Sieber ex Sprengel) Dostal
 CONVOLVULACEAE
 * Convolvulus argyrothamnus Greuter
-* Convolvulus fernandesii Pinto da Silva & Teles CRUCIFERAE
+* Convolvulus fernandesii Pinto da Silva & Teles
+CRUCIFERAE
 Alyssum pyrenaicum Lapeyr.
-* Arabis kennedyae Meikle
-Arabis sadina (Samp.) P. Cout.
+* Arabis kennedyae Meikle Arabis sadina (Samp.) P. Cout.
 Arabis scopoliana Boiss
 * Biscutella neustriaca Bonnet
 Biscutella vincentina (Samp.) Rothm.
@@ -631,10 +630,10 @@ Murbeckiella sousae Rothm.
 Rhynchosinapis erucastrum (L.) Dandy ex Clapham subsp. cintrana (Coutinho) Franco & P. Silva (Coincya cintrana (P. Cout.) Pinto da Silva)
 Sisymbrium cavanillesianum Valdes & Castroviejo
 Sisymbrium supinum L.
-Thlaspi jankae A. Kern. CYPERACEAE
+Thlaspi jankae A. Kern.
+CYPERACEAE
 Carex holostoma Drejer
-* Carex panormitana Guss.
-Eleocharis carniolica Koch
+* Carex panormitana Guss. Eleocharis carniolica Koch
 DIOSCOREACEAE
 * Borderea chouardii (Gaussen) Heslot
 DROSERACEAE
@@ -670,8 +669,7 @@ Bromus grossus Desf. ex DC.
 Calamagrostis chalybaea (Laest.) Fries
 Cinna latifolia (Trev.) Griseb.
 Coleanthus subtilis (Tratt.) Seidl
-Festuca brigantina (Markgr.-Dannenb.) Markgr.-Dannenb.
-Festuca duriotagana Franco & R. Afonso
+Festuca brigantina (Markgr.-Dannenb.) Markgr.-Dannenb. Festuca duriotagana Franco & R. Afonso
 Festuca elegans Boiss.
 Festuca henriquesii Hack.
 Festuca summilusitana Franco & R. Afonso
@@ -704,10 +702,10 @@ Gladiolus palustris Gaud.
 Iris aphylla L. subsp. hungarica Hegi
 Iris boissieri Henriq.
 Iris humilis Georgi subsp. arenaria (Waldst. et Kit.) A. et D. Löve
-Iris marisca Ricci & Colasante JUNCACEAE
+Iris marisca Ricci & Colasante
+JUNCACEAE
 Juncus valvatus Link
-Luzula arctica Blytt
-LABIATAE
+Luzula arctica Blytt LABIATAE
 Dracocephalum austriacum L.
 * Micromeria taygetea P. H. Davis
 Nepeta dirphya (Boiss.) Heldr. ex Halacsy
@@ -740,10 +738,10 @@ Astragalus peterfii Jáv.
 Astragalus tremolsianus Pau
 * Astragalus verrucosus Moris
 * Cytisus aeolicus Guss. ex Lindl.
-Genista dorycnifolia Font Quer Genista holopetala (Fleischm. ex Koch) Baldacci
+Genista dorycnifolia Font Quer
+Genista holopetala (Fleischm. ex Koch) Baldacci
 Melilotus segetalis (Brot.) Ser. subsp. fallax Franco
-* Ononis hackelii Lange
-Trifolium saxatile All.
+* Ononis hackelii Lange Trifolium saxatile All.
 * Vicia bifoliolata J.D. Rodriguez
 LENTIBULARIACEAE
 * Pinguicula crystallina Sm.
@@ -776,7 +774,8 @@ LINACEAE
 * Linum dolomiticum Borbas
 * Linum muelleri Moris (Linum maritimum muelleri)
 LYTHRACEAE
-* Lythrum flexuosum Lag. MALVACEAE
+* Lythrum flexuosum Lag.
+MALVACEAE
 Kosteletzkya pentacarpos (L.) Ledeb.
 NAJADACEAE
 Najas flexilis (Willd.) Rostk. & W.L. Schmidt
@@ -812,10 +811,10 @@ Phoenix theophrasti Greuter
 PAPAVERACEAE
 Corydalis gotlandica Lidén
 Papaver laestadianum (Nordh.) Nordh.
-Papaver radicatum Rottb. subsp. hyperboreum Nordh. PLANTAGINACEAE
+Papaver radicatum Rottb. subsp. hyperboreum Nordh.
+PLANTAGINACEAE
 Plantago algarbiensis Sampaio (Plantago bracteosa (Willk.) G. Sampaio)
-Plantago almogravensis Franco
-PLUMBAGINACEAE
+Plantago almogravensis Franco PLUMBAGINACEAE
 Armeria berlengensis Daveau
 * Armeria helodes Martini & Pold
 Armeria neglecta Girard
@@ -848,10 +847,10 @@ Primula spectabilis Tratt.
 Soldanella villosa Darracq.
 RANUNCULACEAE
 * Aconitum corsicum Gayer (Aconitum napellus subsp. corsicum)
-Aconitum firmum (Reichenb.) Neilr subsp. moravicum Skalicky Adonis distorta Ten.
+Aconitum firmum (Reichenb.) Neilr subsp. moravicum Skalicky
+Adonis distorta Ten.
 Aquilegia alpina L.
-Aquilegia bertolonii Schott
-Aquilegia kitaibelii Schott
+Aquilegia bertolonii Schott Aquilegia kitaibelii Schott
 * Aquilegia pyrenaica D.C. subsp. cazorlensis (Heywood) Galiano
 * Consolida samia P.H. Davis
 * Delphinium caseyi B.L.Burtt
@@ -887,8 +886,7 @@ Sideroxylon marmulano Banks ex Lowe
 SAXIFRAGACEAE
 Saxifraga berica (Beguinot) D.A. Webb
 Saxifraga cintrana Kuzinsky ex Willk.
-Saxifraga florulenta Moretti
-Saxifraga hirculus L.
+Saxifraga florulenta Moretti Saxifraga hirculus L.
 Saxifraga osloënsis Knaben
 Saxifraga portosanctana Boiss.
 Saxifraga presolanensis Engl.
@@ -921,10 +919,10 @@ Veronica micrantha Hoffmanns. & Link
 * Veronica oetaea L.-A. Gustavsson
 SOLANACEAE
 * Atropa baetica Willk.
-Mandragora officinarum L. THYMELAEACEAE
+Mandragora officinarum L.
+THYMELAEACEAE
 * Daphne arbuscula Celak
-Daphne petraea Leybold
-* Daphne rodriguezii Texidor
+Daphne petraea Leybold * Daphne rodriguezii Texidor
 Thymelaea broterana P. Cout.
 ULMACEAE
 Zelkova abelicea (Lam.) Boiss.
@@ -994,10 +992,10 @@ Cistus chinamadensis Banares & Romero
 * Helianthemum bystropogophyllum Svent.
 COMPOSITAE
 Andryala crithmifolia Ait.
-* Argyranthemum lidii Humphries Argyranthemum thalassophylum (Svent.) Hump.
+* Argyranthemum lidii Humphries
+Argyranthemum thalassophylum (Svent.) Hump.
 Argyranthemum winterii (Svent.) Humphries
-* Atracylis arbuscula Svent. & Michaelis
-Atractylis preauxiana Schultz.
+* Atracylis arbuscula Svent. & Michaelis Atractylis preauxiana Schultz.
 Calendula maderensis DC.
 Cheirolophus duranii (Burchard) Holub
 Cheirolophus ghomerytus (Svent.) Holub
@@ -1030,7 +1028,8 @@ CRUCIFERAE
 Crambe laevigata DC. ex Christ
 * Crambe sventenii R. Petters ex Bramwell & Sund.
 * Parolinia schizogynoides Svent.
-Sinapidendron rupestre (Ait.) Lowe CYPERACEAE
+Sinapidendron rupestre (Ait.) Lowe
+CYPERACEAE
 Carex malato-belizii Raymond
 DIPSACACEAE
 Scabiosa nitens Raomer & J.A. Schultes
@@ -1066,7 +1065,8 @@ Lotus callis-viridis D. Bramwell & D.H. Davis
 * Teline salsoloides Arco & Acebes.
 Vicia dennesiana H.C. Watson
 LILIACEAE
-* Androcymbium psammophilum Svent. Scilla maderensis Menezes
+* Androcymbium psammophilum Svent.
+Scilla maderensis Menezes
 Semele maderensis Costa
 LORANTHACEAE
 Arceuthobium azoricum Wiens & Hawksw.
@@ -1121,3 +1121,4 @@ Sanicula azorica Guthnick ex. Seub.
 VIOLACEAE
 Viola paradoxa Lowe
 - Substituted by: L.N. 162 of 2009; L.N. 322 of 2013.
+- Amended by: L.N. 232 of 2026.

@@ -1,4 +1,5 @@
 ## SCHEDULE XI
+## Amended/
 # schedule-xi
 PROHIBITED METHODS AND MEANS OF CAPTURE
 AND KILLING AND MODES OF TRANSPORT
@@ -12,8 +13,7 @@ FOR MAMMALS:
 • Mirrors and other dazzling devices
 • Devices for illuminating targets
 • Sighting devices for night shooting comprising an electronic image
-magnifier or image converter
-• Explosives
+magnifier or image converter • Explosives
 • Nets which are non-selective according to their principle or their conditions
 of use
 • Traps which are non-selective according to their principle or their conditions
@@ -31,3 +31,4 @@ Modes of transport
 FOR MAMMALS AND FISH
 • Aircraft
 • Moving motor vehicles
+- Renumbered by: L.N. 164 of 2019.

@@ -12,13 +12,12 @@ VERTEBRATES
 MAMMALS
 RODENTIA
 Castoridae
-Castor fiber (Finnish, Swedish, Latvian, Lithuanian, Estonian and Polish populations)
-Cricetidae
+Castor fiber (Finnish, Swedish, Latvian, Lithuanian, Estonian and Polish populations) Cricetidae
 Cricetus cricetus (Hungarian populations)
 CARNIVORA
 Canidae
 Canis aureus
-Canis lupus (Spanish populations north of the Duero, Greek populations north of the 39th parallel, Finnish populations within the reindeer management area as defined in paragraph 2 of the Finnish Act No 848/90 of 14 September 1990 on reindeer management, Bulgarian, Latvian, Lithuanian, Estonian, Polish and Slovak populations)
+Canis lupus
 Mustelidae
 Martes martes
 Mustela putorius
@@ -36,7 +35,8 @@ ARTIODACTYLA
 Bovidae
 Capra ibex
 Capra pyrenaica (except Capra pyrenaica pyrenaica)
-Rupicapra rupicapra (except Rupicapra rupicapra balcanica, Rupicapra rupicapra ornata and Rupicapra rupicapra tatrica) AMPHIBIANS
+Rupicapra rupicapra (except Rupicapra rupicapra balcanica, Rupicapra rupicapra ornata and Rupicapra rupicapra tatrica)
+AMPHIBIANS
 ANURA
 Ranidae
 Rana esculenta
@@ -48,8 +48,7 @@ PETROMYZONIFORMES
 Petromyzonidae
 Lampetra fluviatilis
 Lethenteron zanandrai
-ACIPENSERIFORMES
-Acipenseridae
+ACIPENSERIFORMES Acipenseridae
 All species not mentioned in Schedule V
 CLUPEIFORMES
 Clupeidae
@@ -72,7 +71,8 @@ Siluridae
 Silurus aristotelis
 PERCIFORMES
 Percidae
-Gymnocephalus schraetzer Zingel zingel
+Gymnocephalus schraetzer
+Zingel zingel
 INVERTEBRATES
 COELENTERATA
 CNIDARIA
@@ -107,7 +107,8 @@ RHODOPHYTA
 Corallinaceae
 Lithothamnion coralloides Crouan frat.
 Phymatholithon calcareum (Poll.) Adey & McKibbin
-LICHENES Cladoniaceae
+LICHENES
+Cladoniaceae
 Cladonia L. subgenus Cladina (Nyl.) Vain.
 BRYOPHYTA
 Musci Leucobryaceae
@@ -119,8 +120,7 @@ Lycopodium spp.
 ANGIOSPERMAE
 Amaryllidaceae
 Galanthus nivalis L.
-Narcissus bulbocodium L.
-Narcissus juncifolius Lagasca
+Narcissus bulbocodium L. Narcissus juncifolius Lagasca
 Compositae)
 Arnica montana L.
 Artemisia eriantha Ten
@@ -155,4 +155,4 @@ Scrophularia grandiflora DC. subsp. grandiflora DC.
 Scrophularia berminii Hoffmanns & Link
 Scrophularia sublyrata Brot.
 - Substituted by: L.N. 162 of 2009.
-- Amended by: L.N. 164 of 2019.
+- Amended by: L.N. 164 of 2019; L.N. 232 of 2026.
