@@ -4,4 +4,4 @@ COMPANIES ACT
 (REGISTER OF BENEFICIAL OWNERS)
 REGULATIONS
 1st January, 2018
-LEGAL NOTICE 374 of 2017, as amended by Legal Notices 184 of 2018, 158 of 2019, 247 of 2020, 127 of 2025 and 184 of 2026.
+LEGAL NOTICE 374 of 2017, as amended by Legal Notices 184 of 2018, 158 of 2019, 247 of 2020, 127 of 2025, 184 and 226 of 2026.
