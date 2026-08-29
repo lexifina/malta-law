@@ -1,5 +1,4 @@
 ## SCHEDULE VI
-## *Age to be specified by the manufacturer.
 # schedule-vi
 Warnings
 (Regulation 10)
