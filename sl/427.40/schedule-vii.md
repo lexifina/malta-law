@@ -1,4 +1,5 @@
 ## SCHEDULE VII
+## *Age to be specified by the manufacturer.
 # schedule-vii
 Internal Production Control
 (Regulation 13)
