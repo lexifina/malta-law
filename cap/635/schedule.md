@@ -76,4 +76,6 @@ REFERRED TO IN ARTICLES 2, 3, 5 AND 8
 (68) Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence and amending Regulations (EC) No 300/2008,
 (EU) No 167/2013, (EU) No 168/2013, (EU) 2018/858, (EU) 2018/ 1139 and (EU) 2019/2144 and Directives 2014/90/EU, (EU) 2016/797 and (EU) 2020/1828 (Artificial Intelligence Act).
 (69) Regulation (EU) 2023/2854 of the European Parliament and of the Council of 13 December 2023 on harmonised rules on fair access to and use of data and amending Regulation (EU) 2017/2394 and Directive (EU) 2020/1828 (Data Act).
-- Amended by: L.N. 68 of 2025; L.N. 225 of 2025; L.N. 27 of 2026.
+(70) Regulation (EU) 2024/2847 of the European Parliament and of the Council of 23 October 2024 on horizontal cybersecurity requirements for products with digital elements and amending Regulations (EU) No 168/2013 and (EU) 2019/1020 and Directive
+(EU) 2020/1828 (Cyber Resilience Act).
+- Amended by: L.N. 68 of 2025; L.N. 225 of 2025; L.N. 27 of 2026; L.N. 237 of 2026.
