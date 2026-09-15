@@ -29,7 +29,7 @@ reception facilities;
 from ships received; and
 (f) a description of methods for managing the different waste streams in
 the port or terminal.
-[S.L. 499.71 THE DELIVERY OF WASTE FROM SHIPS 19
+[S.L. 499.71 20 THE DELIVERY OF WASTE FROM SHIPS
 The procedures for reception, collection, storage, treatment and disposal of waste should conform in all respects to an environmental management scheme suitable for the progressive reduction of the environmental impact of these activities. Such conformity shall be presumed if the procedures are in compliance with Regulation (EC) No 1221/2009 of the European Parliament and of the Council of 25 November 2009 on the voluntary participation by organisations in a Community eco-management and audit scheme (EMAS), repealing Regulation (EC) No 761/2001 and Commission Decisions 2001/681/EC and 2006/193/EC.
 4. Waste reception and handling plans shall also comply with the provisions of regulation 6(3).
-[S.L. 499.71 20 THE DELIVERY OF WASTE FROM SHIPS
+[S.L. 499.71 THE DELIVERY OF WASTE FROM SHIPS 21

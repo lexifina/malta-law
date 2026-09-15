@@ -1,5 +1,6 @@
 ## THIRD SCHEDULE
 # third-schedule
+[S.L. 499.71 24 THE DELIVERY OF WASTE FROM SHIPS
 STANDARD FORMAT FOR THE WASTE DELIVERY RECEIPT
 (as referred to in regulation 8)
 The designated representative of the authorised port reception facility provider shall provide the following form to the Master of a ship that has delivered waste in accordance with Article 7 of Directive (EU) 2019/883, as transposed by the Port Reception Facilities for the Delivery of Waste from Ships Regulations (S.L. 499.71)
@@ -28,8 +29,8 @@ rags, glass, metal, bottles, crockery, etc.)
 Dirty ballast water D. Cooking oil
 Scale and sludge from
 E. Incinerator ashes tank cleaning
-[S.L. 499.71 24 THE DELIVERY OF WASTE FROM SHIPS
 Other (please specify) F. Operational waste
+[S.L. 499.71 THE DELIVERY OF WASTE FROM SHIPS 25
 G. Animal carcass(es)
 H. Fishing gear
 I. E-waste
@@ -50,4 +51,3 @@ MARPOL Annex IV - Other waste, not
 Quantity (m3) Quantity (m3) SEWAGE covered by MARPOL
 Passively fished waste
 . 1. Indicate the proper shipping name of the dry cargo. . 2. Indicate the proper shipping name of the NLS involved.
-[S.L. 499.71 THE DELIVERY OF WASTE FROM SHIPS 25

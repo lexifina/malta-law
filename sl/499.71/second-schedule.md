@@ -14,7 +14,7 @@ o Ro-Ro o Other (specify)
 2. PORT AND VOYAGE PARTICULARS
 2.1 Location/terminal name: 2.6 Last port where waste was delivered: 2.2 Arrival date and time: 2.7 Date of last delivery: 2.3 Departure date and time: 2.8 Next port of delivery: 2.4 Last port and country: 2.9 Person submitting this form (if other
 than the Master): 2.5 Next port and country (if known):
-[S.L. 499.71 THE DELIVERY OF WASTE FROM SHIPS 21
+[S.L. 499.71 22 THE DELIVERY OF WASTE FROM SHIPS
 3. TYPE AND AMOUNT OF WASTE AND STORAGE CAPACITY
 Estimated
 Maximum amount of waste
@@ -30,11 +30,10 @@ capacity notification and
 MARPOL Annex I - OIL Oily bilge water Oily residues (sludge) Oily tank washings Dirty ballast water Scale and sludge from tank cleaning Other (please specify)
 MARPOL Annex II - NOXIOUS LIQUID SUBSTANCES (NLS) (1) Category X substance Category Y substance Category Z substance OS - other substances MARPOL Annex IV - SEWAGE
 MARPOL Annex V - GARBAGE A. Plastics B. Food waste C. Domestic waste (e.g. paper products, rags, glass, metal, bottles, crockery, etc.) D. Cooking oil E. Incinerator ashes
-[S.L. 499.71 22 THE DELIVERY OF WASTE FROM SHIPS
+[S.L. 499.71 THE DELIVERY OF WASTE FROM SHIPS 23
 F. Operational wastes G. Animal carcass(es) H. Fishing gear I. E-waste J. Cargo residues
 (2) (Harmful to the Marine Environment - HME) K. Cargo residues (3) (non-HME) MARPOL Annex VI - AIR POLLUTION related Ozone- depleting substances and equipment containing such substances (4) Exhaust gas cleaning residues Other waste, not covered by MARPOL Passively fished waste
 . 1. Indicate the proper shipping name of the NLS involved. . 2. May be estimates. Indicate the proper shipping name of the dry cargo. . 3. May be estimates. Indicate the proper shipping name of the dry cargo. . 4. Arising from normal maintenance activities on board.
 Notes
 1. This information may be used for port State control and other inspection purposes.
 2. This form is to be completed unless the ship is covered by an exemption in accordance with Article 9 of Directive (EU) 2019/883 as transposed by regulation 10 of the Port Reception Facilities for the Delivery of Waste from Ships Regulations (S.L. 499.71).
-[S.L. 499.71 THE DELIVERY OF WASTE FROM SHIPS 23
