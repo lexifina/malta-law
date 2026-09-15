@@ -6,7 +6,7 @@ FACILITIES AND BUNKERING REGULATIONS
 1st March, 1996; 1st April, 1996; 1st June, 1996; 1st July, 1996;
 1st August, 1996;
 1st November, 1996
-LEGAL NOTICE 1 of 1996, as amended by Legal Notices 13 of 1996, 152 of 1997, 75 of 2002, 264 of 2004 and 425 of 2007; Act XV of 2009 and XXV of 2015; Legal Notices 507 of 2010, 450 of 2011, 331 of 2012, 316 of 2019 and 119 of 2023.
+LEGAL NOTICE 1 of 1996, as amended by Legal Notices 13 of 1996, 152 of 1997, 75 of 2002, 264 of 2004 and 425 of 2007; Act XV of 2009 and XXV of 2015; Legal Notices 507 of 2010, 450 of 2011, 331 of 2012, 316 of 2019, 119 of 2023 and 243 of 2026.
 Arrangement of Regulations
 Regulations
 Preliminary 1 - 3
