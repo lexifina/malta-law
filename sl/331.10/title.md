@@ -4,4 +4,4 @@ TRUSTS AND TRUSTEES ACT
 (REGISTER OF BENEFICIAL OWNERS)
 REGULATIONS
 1st Jannar, 2018
-LEGAL NOTICE 373 of 2017, as amended by Legal Notices 27 of 2020 and 133 of 2025.
+LEGAL NOTICE 373 of 2017, as amended by Legal Notices 27 of 2020, 133 of 2025 and 252 of 2026.
