@@ -1,5 +1,4 @@
 ## SCHEDULE D
-## *This Tariff substituted Schedules A, B and C as from 1 January, 2015 - see Legal Notice 37 of 2015.
 # schedule-d
 (Article 575A)
 (a) any crime punishable with a maximum term of imprisonment of nine years or more;
