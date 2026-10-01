@@ -108,7 +108,8 @@ Act, or any other Act which my be substituted therefor;
 (iv) the letting of premises used or intended to be used as garages, stores or similar uses;
 (v) the letting to players of rooms or other spaces lawfully designated for the playing of poker.
 (2) The transfer of immovable property.
-Insurance services 2. The supply by persons licensed under the Insurance Business Act or the Insurance Distribution Act, of insurance and reinsurance transactions, including related services, in respect of which they are so licensed, where those services are specific to and essential for the provision of insurance or re-insurance transactions:
+Insurance services
+2. The supply by persons licensed under the Insurance Business Act or the Insurance Distribution Act, of insurance and reinsurance transactions, including related services, in respect of which they are so licensed, where those services are specific to and essential for the provision of insurance or re-insurance transactions:
 Provided that road assistance services provided for a fixed subscription, by a taxable person who undertakes to provide such assistance should the risk of breakdown or accident covered by that person materialise, shall be considered as an exempt supply of insurance services.
 Credit, banking and other services
 3. (1) The granting and the negotiation of credit and the management of credit by the person granting it.
@@ -129,7 +130,8 @@ Provided further that investment schemes shall refer to:
 Cultural and religious services
 4. (1) Religious services.
 (2) The supply of such cultural services and goods closely linked thereto as may be approved by the Minister.
-Sports 5. The supply by non-profit making organisations of such services related to sport or physical recreation and provided to persons taking part in sport or educational education as may be approved by the Minister.
+Sports
+5. The supply by non-profit making organisations of such services related to sport or physical recreation and provided to persons taking part in sport or educational education as may be approved by the Minister.
 Services related to certain exempt services
 6. (1) The supply of staff by religious and philosophical institutions recognised as such by the Commissioner for the purpose of providing services referred to in paragraph (2) or (4) of item 11 or in paragraph (1) or (2) of item 12 of this Part with a view to spiritual welfare.
 (2) The supply of goods and services by a non-profit making organisation in connection with events, organised exclusively for their own benefit, designed to raise funds which shall be used for the provision of goods and services which are exempt in terms of sub-items (2) or (4) of item 11 or of sub-items (1) or (2) of item 12 of this Part:
@@ -138,8 +140,8 @@ Services supplied by independent groups
 7. Services supplied by independent groups of persons whose activities are exempt from or not subject to value added tax, for the purpose of rendering to their members the services directly necessary for the exercise of their activity, where these groups merely claim from their members exact reimbursements of their share of the joint expenses, provided that such exemption is not likely to produce distortion of competition.
 Services by non-profit making organisations to their members
 8. The supply of services for the benefit of their members in return for a subscription fixed in accordance with their rules by non-profit making organisations with aims of a political, trade union, religious, patriotic, philosophical, philanthropic or civic nature or whose main purpose is to represent and promote the common business or professional interests of their members: provided that in any case where, in the opinion of the Minister, this exemption is likely to cause distortion of competition, this exemption shall be subject to such exceptions or limitations as the Minister may by order in writing determine.
-Lotteries
-9. Government lotto and lotteries, the supply of agency services related thereto, and such other supplies related to gambling as may be approved by the Minister.
+Gambling
+9. Betting, lotteries and other forms of gambling, as may be approved by the Minister.
 Postal Services
 10. The supply of public postal services, other than passenger transport and telecommunication services, and of goods, including postage stamps, incidental thereto.
 Health and Welfare
@@ -306,4 +308,4 @@ terms of the provisions of regulation 69 of the Passenger Transport Services Reg
 (4) "public lift" shall have the same meaning as assigned to it in the Passenger Transport Services Regulations and which is operated in accordance with the provisions of regulation 68S of the said regulations.
 - Amended by: L.N. 24 of 2001.
 - Substituted by: X. 2003.47.
-- Amended by: L.N. 250 of 2004; L.N. 520 of 2004; L.N. 334 of 2006; L.N. 121 of 2007; L.N. 445 of 2007; L.N. 234 of 2009; L.N. 286 of 2010; L.N. 425 of 2010; L.N. 534 of 2010; L.N. 379 of 2011; L.N. 499 of 2011; L.N. 38 of 2012; L.N. 345 of 2013; L.N. 422 of 2013; L.N. 480 of 2014; L.N. 227 of 2015; L.N. 247 of 2016; L.N. 383 of 2016; L.N.347 of 2017; L.N. 9 of 2018; L.N.155 of 2019; L.N.302 of 2019; L.N.253 of 2019; L.N.222 of 2020; L.N. 4 of 2021; L.N. 358 of 2021; VII.2022.70; L.N. 138 of 2022; L.N. 12 of 2024; L.N. 228 of 2024; L.N. 345 of 2024; L.N. 355 of 2024; L.N. 88 of 2025; III.2026.69; L.N. 75 of 2026.
+- Amended by: L.N. 250 of 2004; L.N. 520 of 2004; L.N. 334 of 2006; L.N. 121 of 2007; L.N. 445 of 2007; L.N. 234 of 2009; L.N. 286 of 2010; L.N. 425 of 2010; L.N. 534 of 2010; L.N. 379 of 2011; L.N. 499 of 2011; L.N. 38 of 2012; L.N. 345 of 2013; L.N. 422 of 2013; L.N. 480 of 2014; L.N. 227 of 2015; L.N. 247 of 2016; L.N. 383 of 2016; L.N.347 of 2017; L.N. 9 of 2018; L.N.155 of 2019; L.N.302 of 2019; L.N.253 of 2019; L.N.222 of 2020; L.N. 4 of 2021; L.N. 358 of 2021; VII.2022.70; L.N. 138 of 2022; L.N. 12 of 2024; L.N. 228 of 2024; L.N. 345 of 2024; L.N. 355 of 2024; L.N. 88 of 2025; III.2026.69; L.N. 75 of 2026; L.N. 86 of 2026.
