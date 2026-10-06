@@ -303,7 +303,7 @@ Lands Authority Act Minister responsible for finance (Kap. 563) Institute of Tou
 Local Loan Acts Minister responsible for finance Financial Markets Financial Markets Act Minister responsible for the Regulation (Cap. 345) regulation of Financial Services
 Investment Services Act Minister responsible for the (Cap. 370) regulation of Financial Services Banking Act Minister responsible for the (Cap. 371) regulation of Financial Services Credit Institutions (Reorganisation Minister responsible for financial
 and Winding-up) Regulations regulation
-(S.L. 371.12) Credit Institutions and Financial Minister responsible for Finance Institutions (Payment Accounts) Regulations (S.L. 371.18) Financial Institutions Act Minister responsible for finance (Cap. 376) Controlled Companies (Procedure Minister responsible for finance for Liquidation) Act (Cap. 383) Consolidated area of Statutory title as set
+(S.L. 371.12) Credit Institutions and Financial Minister responsible for Finance Institutions (Payment Accounts) Regulations (S.L. 371.25 and S.L. 376.12) Financial Institutions Act Minister responsible for finance (Cap. 376) Controlled Companies (Procedure Minister responsible for finance for Liquidation) Act (Cap. 383) Consolidated area of Statutory title as set
 Related law
 responsibility out in related law
 Companies Act Minister responsible under the (Cap. 386) Investment Services Act Insurance Business Act Minister responsible for finance (Cap. 403) Financial Collateral Arrangements Minister responsible for financial
