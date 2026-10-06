@@ -1,6 +1,6 @@
 SUBSIDIARY LEGISLATION 378.12
 CONSUMER CREDIT REGULATIONS
 1st October, 2010*
-LEGAL NOTICE 330 of 2010, as amended by Legal Notices 28 of 2013 87 of 2018 and XVI of 2019 and Legal Notice 17 of 2024.
+LEGAL NOTICE 330 of 2010, as amended by Legal Notices 28 of 2013 87 of 2018 and XVI of 2019 and Legal Notices 17 of 2024 and 265 of 2026†.
 PART 1
 PRELIMINARY
