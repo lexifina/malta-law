@@ -1,3 +1,4 @@
+## contains personal data.
 ## SCHEDULE
 # schedule
 SECTION A
