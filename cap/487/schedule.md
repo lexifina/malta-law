@@ -37,3 +37,5 @@ cover long-term business of insurance or liability risks, unless that cover comp
 Provided that, no insurance commitments
 towards or on the part of the public are given as part
 of these activities.
+- Amended by: L.N. 451 of 2013; XXXIII.2015.10; XXVI.2018.58.
+- See XX. 2007.154;.
