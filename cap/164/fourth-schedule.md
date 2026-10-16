@@ -95,9 +95,13 @@ Cross-border payments.
 14. (1) The provisions of this regulation shall apply to officers in service on or after 1st October 2023:
 Provided that officers who retired during the year 2023 because they reached pension age or were medically boarded out shall also benefit from these provisions:
 Provided further that these provisions shall apply to officers who were reinstated as members of the Force as long as they serve for a period of at least four (4) years from the date of reinstatement, as stipulated in sub-regulation (2).
-(2) Save as otherwise expressly provided in this Act and any subsidiary legislation made thereunder, an officer who has completed the twenty-five (25) years of service and who decides to remain in the Force for an additional period of four (4) years shall be entitled to an increase of twenty-three per cent (23%) in his pension.
+(2) Save as otherwise expressly provided in this Act and any subsidiary legislation made thereunder, an officer who has completed the twenty-five (25) years of service and who decides to remain in the Force for an additional period of four (4) years shall be entitled to an increase of twenty-nine per cent (29%) in his pension.
+(2a) Notwithstanding the provisions of sub-regulation (2), where an officer holding the office of Commissioner of Police has served, or is deemed to have served, a term of four (4) years in such office prior to or upon the completion of twenty-five (25) years of service in the Force, such term of four (4) years shall, for the purposes of this regulation, be deemed to constitute the additional period of four
+(4) years referred to in sub-regulation (2):
+Provided that such officer shall, upon completion of twenty-five (25) years of service in the Force, become entitled to the increase in pension provided for in sub-regulation (2) and, for the purposes of sub-regulation (3), shall be deemed to have completed twenty-nine (29) years of service in the Force:
+Provided further that any service rendered by such officer after the completion of twenty-five (25) years of service in the Force shall, for the purposes of sub-regulation (3), be considered as service beyond twenty-nine (29) years of service, subject to the maximum period of six (6) years provided in sub-regulation (3).
 (3) If the officer continues to serve beyond the twenty-nine
-(29) years in the service in accordance with sub-regulation (2), he shall be entitled to an additional sum equivalent to six (6) months' basic salary for each additional year of service, which additional period of service for the purposes of the said payment shall not exceed a maximum of four (4) years of service.
+(29) years in the service in accordance with sub-regulation (2), he shall be entitled to an additional sum equivalent to six (6) months' basic salary for each additional year of service, which additional period of service for the purposes of the said payment shall not exceed a maximum of six (6) years of service.
 (4) Without prejudice to sub-regulation (3), the officer shall be granted a gratuity on a pro rata basis if a full year or years of additional service have not been completed due to illness or if the officer has reached retirement age as defined in the Social Security Act.
 (5) Gratuities in accordance with these regulations shall be payable on retirement of the officer or on completion of thirty-three
 (33) years of service:
@@ -111,7 +115,7 @@ Provided further that the pension shall only be granted if the said officer has 
 Provided further that the provisions of this regulation shall apply retroactively in case of officers who were deceased on or after 1st January 2022, but before the coming into force of these regulations.
 - Amended by: L.N. 10 of 2024; L.N. 281 of 2024.
 - Added by: L.N. 312 of 2023.
-- Amended by: L.N. 124 of 2024; L.N. 271 of 2024; L.N. 14 of 2025.
+- Amended by: L.N. 124 of 2024; L.N. 271 of 2024; L.N. 14 of 2025; L.N. 247 of 2026.
 - Added by: L.N. 312 of 2023.
 - See Cap. 569.
 - See Cap. 318.
