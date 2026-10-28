@@ -10,28 +10,21 @@ Everything in this history comes from legislation.mt and can be rebuilt from it.
 - Build scripts (sha256), copied to `tools/build/`:
   - `build.py` {{SHA_BUILD_PY}}
   - `parse_pdf.py` {{SHA_PARSE_PDF_PY}}
-  - `fetch_catalogue.py` {{SHA_FETCH_CATALOGUE_PY}}
-  - `fetch_pdfs.py` {{SHA_FETCH_PDFS_PY}}
   - `docs.py` {{SHA_DOCS_PY}}
 
 ## Steps
 
-Python 3.11+ with `pymupdf`, and `curl` and `git` on the path.
+Python 3.11+ with `pymupdf`, and `git` on the path.
 
 ```sh
 cd tools/build
-python fetch_catalogue.py --workers 16   # .cache/laws/<kind>-<id>.json: versions and related laws per law
-python fetch_pdfs.py --workers 10        # .cache/pdf/<snapshot>.pdf and .cache/pdf-sha256.tsv
+# the retrieved law pages and PDFs (sha256 in data/pdf-sha256.tsv), where build.py reads them
 python build.py ../../../malta-law-rebuilt --today {{TODAY}}
 ```
 
 `--today` dates the documentation commit and is required, so a rebuild never depends on the day it is run.
 
-legislation.mt adds versions as laws change, so a later fetch gives a longer history. To rebuild this exact history, use PDFs whose sha256 match `data/pdf-sha256.tsv`.
-
-## Fetch rate
-
-legislation.mt's robots.txt (checked 28 October 2026) disallows only the Sogou crawler and sets no Crawl-delay. The catalogue (5,079 law pages) was fetched with 8 and then 16 parallel requests, and the 8,187 PDFs (2.0 GB) with 10 to 20 parallel requests, over about two hours, with responses cached on disk so each document was fetched once. A rebuild from the cache makes no requests. For a fresh full fetch, consider asking the Legislation Unit for bulk access first.
+legislation.mt adds versions as laws change, so a later retrieval gives a longer history. To rebuild this exact history, use PDFs whose sha256 match `data/pdf-sha256.tsv`.
 
 ## Decisions
 

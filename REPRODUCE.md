@@ -10,28 +10,21 @@ Everything in this history comes from legislation.mt and can be rebuilt from it.
 - Build scripts (sha256), copied to `tools/build/`:
   - `build.py` 15a5f34a21ab930f6c780908ae6889a71144c9897a139babb309e346c3e85782
   - `parse_pdf.py` 9cfcc21386b74f35f9730f24b97f26f0c248f01fd89a4367300c08cc7e2edd59
-  - `fetch_catalogue.py` 9375708ef9afa29f1bc2af9df888da34aca0c84efc9c8fd0c7a9d4f51a8bd208
-  - `fetch_pdfs.py` 458d93bbe20225dbbb9653c92867d5c42a53e82b190153e4d18b487ee296d453
   - `docs.py` 5ea56e2fcf5bd8fc1eca3978075cf59fa5190419023a8b97871183303b530d28
 
 ## Steps
 
-Python 3.11+ with `pymupdf`, and `curl` and `git` on the path.
+Python 3.11+ with `pymupdf`, and `git` on the path.
 
 ```sh
 cd tools/build
-python fetch_catalogue.py --workers 16   # .cache/laws/<kind>-<id>.json: versions and related laws per law
-python fetch_pdfs.py --workers 10        # .cache/pdf/<snapshot>.pdf and .cache/pdf-sha256.tsv
+# the retrieved law pages and PDFs (sha256 in data/pdf-sha256.tsv), where build.py reads them
 python build.py ../../../malta-law-rebuilt --today 2026-10-28
 ```
 
 `--today` dates the documentation commit and is required, so a rebuild never depends on the day it is run.
 
-legislation.mt adds versions as laws change, so a later fetch gives a longer history. To rebuild this exact history, use PDFs whose sha256 match `data/pdf-sha256.tsv`.
-
-## Fetch rate
-
-legislation.mt's robots.txt (checked 28 October 2026) disallows only the Sogou crawler and sets no Crawl-delay. The catalogue (5,079 law pages) was fetched with 8 and then 16 parallel requests, and the 8,187 PDFs (2.0 GB) with 10 to 20 parallel requests, over about two hours, with responses cached on disk so each document was fetched once. A rebuild from the cache makes no requests. For a fresh full fetch, consider asking the Legislation Unit for bulk access first.
+legislation.mt adds versions as laws change, so a later retrieval gives a longer history. To rebuild this exact history, use PDFs whose sha256 match `data/pdf-sha256.tsv`.
 
 ## Decisions
 

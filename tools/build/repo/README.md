@@ -61,7 +61,7 @@ This is a research aid. Only the Government Gazette is authoritative, and the co
 
 ## How it is built
 
-`fetch_catalogue.py` reads the ELI sitemap and each law's page on legislation.mt, which lists its consolidated versions and the laws related to it. `fetch_pdfs.py` downloads each English version's PDF. `parse_pdf.py` reads each PDF into units by their typography: bold article numbers, the margin column, centred headings and schedules. `build.py` compares consecutive versions unit by unit, credits each change as above, and writes the history with `git fast-import`. No AI model takes part in building or checking it.
+The record uses the ELI sitemap and each law's page on legislation.mt, which lists its consolidated versions and the laws related to it, and each English version's PDF. `parse_pdf.py` reads each PDF into units by their typography: bold article numbers, the margin column, centred headings and schedules. `build.py` compares consecutive versions unit by unit, credits each change as above, and writes the history with `git fast-import`. No AI model takes part in building or checking it.
 
 ## Licence
 
