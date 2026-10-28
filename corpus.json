@@ -1,0 +1,48 @@
+{
+  "corpus": "mt/national/acts",
+  "name": "Laws of Malta (Chapters and subsidiary legislation)",
+  "label": "Malta",
+  "language": "en",
+  "history_from": "1834-06-28",
+  "record_to": "2026-10-06",
+  "record_note": "Every Chapter (562) and piece of subsidiary legislation (4514) on legislation.mt, from each law's earliest consolidated version to the point in time of 2026-10-06; data built 2026-10-28.",
+  "in_force_trailer": "In-force",
+  "baseline_trailer": "Consolidated",
+  "laws": {
+    "chapters": 562,
+    "subsidiary": 4514
+  },
+  "built": "2026-10-28",
+  "dates": {
+    "commit": "in-force (legislation.mt point in time)",
+    "baseline_trailer": "Consolidated",
+    "other_trailers": [
+      "Published"
+    ],
+    "time": "12:00 Europe/Malta",
+    "before_1970": "clamped to 1970-01-01"
+  },
+  "author": {
+    "amendment": "the Act or Legal Notice",
+    "consolidated": "Legislation Unit (legislation.mt)",
+    "unexplained": "Legislation Unit (legislation.mt)",
+    "evidence_trailer": "Evidence"
+  },
+  "scope": {
+    "trailer": "Applies",
+    "groups": "any one line",
+    "conditions": "all of a line",
+    "when_absent": "not extracted for Malta yet; savings and transitional rules are in the amending law at the Source link",
+    "default_reach": {
+      "rule": "presumption against retroactivity",
+      "meaning": "a law is presumed not to affect rights acquired or proceedings pending before it took effect unless it says so; on repeal, see the savings rules of the Interpretation Act",
+      "authority": "Interpretation Act (Cap. 249), article 12",
+      "decided_here": false
+    }
+  },
+  "citation": {
+    "file": "(cap/[0-9]+[A-Z]?|sl/[0-9.]+)/0*([0-9]+[A-Z]*)\\.md",
+    "cites": "([Aa]rticle|[Aa]rt\\.|[Rr]egulation|[Rr]eg\\.|[Rr]ule|[Ss]ection) ?{n}([^0-9A-Z]|$)"
+  },
+  "tool": "tools/in_force_on.py"
+}

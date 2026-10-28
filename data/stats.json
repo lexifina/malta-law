@@ -1,0 +1,28 @@
+{
+ "amending_laws": 1817,
+ "amendment": 1965,
+ "chapters": 562,
+ "commits": 7255,
+ "consolidated": 5045,
+ "evidence": {
+  "cited earlier": 56,
+  "commencement": 175,
+  "date": 3103,
+  "law": 9431,
+  "margin note": 6888
+ },
+ "evidence_cited": 56,
+ "evidence_commencement": 175,
+ "evidence_date": 3103,
+ "evidence_law": 9431,
+ "evidence_margin": 6888,
+ "evidence_none": 0,
+ "first": "1834-06-28",
+ "last": "2026-10-06",
+ "laws": 5076,
+ "subsidiary": 4514,
+ "today": "2026-10-28",
+ "unexplained": 244,
+ "unreadable": 43,
+ "versions": 8187
+}
