@@ -2,7 +2,6 @@
 # sixth-schedule
 (Regulations 7 and 8)
 (Method Statement for building works)
-[S.L. 623.06 THIRD PARTY PROPERTY 23
 1. The commencement date of the works.
 2. Checks showing that any existing floors are capable of sustaining the additional load being imposed by the new construction these should include:
 (a) an estimate of existing and proposed loads in
@@ -18,16 +17,13 @@ accordance with established codes of practice;
 supported by the respective ground investigation
 reports that shall be attached to the method
 statement.
-4. Identification of risks involved. If any of the information required in items 2 and 3 is not available, then the method statement shall contain a declaration by the perit responsible for the project that he/she is assuming full responsibility for the structural capacity of the building, the safety of its occupants, and the safety of operatives working on its construction, notwithstanding the missing information that precludes the necessary checks from being made.
+4. Identification of risks involved. If any of the information required in items 2 and 3 is not available, then the method statement shall contain a declaration by the perit responsible for the project that he/she is assuming full [S.L. 623.06 32 THIRD PARTY PROPERTY
+responsibility for the structural capacity of the building, the safety of its occupants, and the safety of operatives working on its construction, notwithstanding the missing information that precludes the necessary checks from being made.
 5. Proposed methodology, supported by any other documentation as may be required, which should specify:
-(a) the risks involved after taking account of the
-structural condition of the construction itself and
+(a) the risks involved after taking account of the structural condition of the construction itself and
 contiguous structures;
 (b) the sequence of works to be undertaken;
-(c) measures to safeguard the stability of the works
-being undertaken, the stability of contiguous
-[S.L. 623.06 24 THIRD PARTY PROPERTY
-structures or terrain as the case may be;
+(c) measures to safeguard the stability of the works being undertaken, the stability of contiguous structures or terrain as the case may be;
 (d) the type of machinery equipment that is allowed to be used;
 (e) the type of machinery equipment that is not
 allowed to be used;
@@ -40,3 +36,4 @@ course of works;
 (iii) for any contiguous structures;
 (iv) for the safety of persons;
 6. Procedure to be adopted for the loading and carting away of the resulting debris.
+[S.L. 623.06 THIRD PARTY PROPERTY 33

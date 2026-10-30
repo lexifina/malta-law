@@ -7,12 +7,11 @@ In the case of demolition:
 - Perit
 - A person who is in possession of a Bachelors degree in
 Engineering
+[S.L. 623.06 THIRD PARTY PROPERTY 27
 In the case of excavation:
 - Perit
 - A person who is in possession of a Bachelors degree in
 Engineering
 In the case of building works:
 - Perit
-- A person who is in possession of a Bachelors degree in
-Engineering
-[S.L. 623.06 THIRD PARTY PROPERTY 19
+- A person who is in possession of a Bachelors degree in Engineering
