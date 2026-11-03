@@ -27,6 +27,8 @@ The record starts at each law's earliest version on legislation.mt, mostly from 
 
 **Git cannot store dates before 1970.** A law whose earliest version is older is committed on 1970-01-01, one second apart and in order. Its real date is in the `Consolidated:` or `In-force:` trailer, which `tools/in_force_on.py` reads.
 
+**Corrections.** A published commit is never rewritten. Where one was wrong, a later commit labelled `Kind: correction` says so: `Corrects: <law> <from>..<to>` gives the days it applies to (an open end runs to the law's next version), `Files:` the files it sets, `Supersedes:` the commit it corrects and `Reason:` why. On 2026-11-03, 2583 laws had their first version published one day late (the version's own date is the one in its `Version:` ELI); their corrections give that day. `tools/in_force_on.py` applies corrections.
+
 ## What "author" means
 
 The author of a commit is the law that made the change, at an address that cannot exist: `Act XXV of 2026 <act-2026-25@legislation-mt.invalid>`, `L.N. 218 of 2026 <ln-2026-218@legislation-mt.invalid>`. So `git blame` names, for each line, the law that last wrote it. One commit holds everything one law changed on one day, across every Chapter and piece of subsidiary legislation it touched (`Affecting:` trailers).
