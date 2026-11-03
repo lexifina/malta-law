@@ -1,8 +1,8 @@
 # Maltese law, change by change
 
-The laws of Malta as a git repository: 562 Chapters and 4514 pieces of subsidiary legislation from [legislation.mt](https://legislation.mt), the official source published by the Legislation Unit. There is one file per article, regulation or schedule. Each change is a commit credited to the Act or Legal Notice that made it, dated the day the changed text took effect, at noon Malta time. The English text is used throughout.
+The laws of Malta as a git repository: 562 Chapters and 4522 pieces of subsidiary legislation from [legislation.mt](https://legislation.mt), the official source published by the Legislation Unit. There is one file per article, regulation or schedule. Each change is a commit credited to the Act or Legal Notice that made it, dated the day the changed text took effect, at noon Malta time. The English text is used throughout.
 
-The record runs from 1834-06-28 to 2026-10-06 in 7255 commits, built from 8187 consolidated versions.
+The record runs from 1834-06-28 to 2026-10-06 in 7265 commits, built from 8195 consolidated versions.
 
 ## A lawyer's questions as git commands
 
@@ -42,7 +42,7 @@ A law made before the previous version is never taken as the cause of a change s
 
 A change with none of these (0 units) is by the Legislation Unit and labelled `Kind: unexplained`; it is never credited to a law. Where an article's margin gains more than one citation at once, the commit is credited to the latest and the others are listed as `Also-cited:`.
 
-In total there are 5045 consolidated versions, 1965 amendment commits by 1817 amending laws, and 244 unexplained ones.
+In total there are 5053 consolidated versions, 1965 amendment commits by 1817 amending laws, and 244 unexplained ones.
 
 ## What it does not show
 

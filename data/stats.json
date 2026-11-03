@@ -2,8 +2,8 @@
  "amending_laws": 1817,
  "amendment": 1965,
  "chapters": 562,
- "commits": 7255,
- "consolidated": 5045,
+ "commits": 7265,
+ "consolidated": 5053,
  "evidence": {
   "cited earlier": 56,
   "commencement": 175,
@@ -19,10 +19,10 @@
  "evidence_none": 0,
  "first": "1834-06-28",
  "last": "2026-10-06",
- "laws": 5076,
- "subsidiary": 4514,
+ "laws": 5084,
+ "subsidiary": 4522,
  "today": "2026-10-28",
  "unexplained": 244,
  "unreadable": 43,
- "versions": 8187
+ "versions": 8195
 }

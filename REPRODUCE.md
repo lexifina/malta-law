@@ -4,8 +4,9 @@ Everything in this history comes from legislation.mt and can be rebuilt from it.
 
 ## What this build used
 
-- Built on 2026-10-28 from 5076 laws (562 Chapters, 4514 subsidiary legislation) and 8187 English consolidated versions.
-- 7255 commits: 5045 consolidated, 1965 amendment, 244 unexplained, and this documentation commit.
+- Built on 2026-10-28 from 5084 laws (562 Chapters, 4522 subsidiary legislation) and 8195 English consolidated versions.
+- 7265 commits: 5053 consolidated, 1965 amendment, 244 unexplained, and 3 documentation commits.
+- Appended on 2026-11-03, after that build, without rewriting it: S.L. 371.25, S.L. 371.26, S.L. 371.27, S.L. 371.28, S.L. 376.12, S.L. 376.13, S.L. 376.14, S.L. 376.15, as legislation.mt published them that day.
 - The sha256 of every PDF is in `data/pdf-sha256.tsv`. Unreadable versions (43) are in `data/unreadable.csv`.
 - Build scripts (sha256), copied to `tools/build/`:
   - `build.py` 15a5f34a21ab930f6c780908ae6889a71144c9897a139babb309e346c3e85782
