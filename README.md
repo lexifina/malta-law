@@ -1,5 +1,7 @@
 # Maltese law, change by change
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Malta's national law, which global-law reads at `malta/national/acts/`.
+
 The laws of Malta as a git repository: 562 Chapters and 4522 pieces of subsidiary legislation from [legislation.mt](https://legislation.mt), the official source published by the Legislation Unit. There is one file per article, regulation or schedule. Each change is a commit credited to the Act or Legal Notice that made it, dated the day the changed text took effect, at noon Malta time. The English text is used throughout.
 
 The record runs from 1834-06-28 to 2026-10-06 in 7265 commits, built from 8195 consolidated versions.
