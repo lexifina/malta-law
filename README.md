@@ -1,77 +1,92 @@
-# Maltese law, change by change
+# Il-liġi ta’ Malta, bidla b’bidla
+
+**Malti** · [English](README.en.md)
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
-<img alt="Maltese law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
+<source media="(prefers-color-scheme: dark)" srcset="data/mt/effort-dark.svg">
+<img alt="Il-liġi ta’ Malta f’dan ir-repożitorju: x’fih, il-bidliet skont is-sena tad-dħul fis-seħħ, kemm hu komplut meta mqabbel mas-sorsi uffiċjali u l-korrettezza ta’ dak li fih" src="data/mt/effort-light.svg" width="880">
 </picture>
 
-Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Malta's national law, which global-law reads at `malta/national/acts/`.
+Parti minn [lexifina/global-law](https://github.com/lexifina/global-law), storja git waħda għal-liġi ta’ kull pajjiż: dan huwa d-dritt nazzjonali ta’ Malta, li global-law jaqra f’`malta/national/acts/`.
 
-The laws of Malta as a git repository: 562 Chapters and 4522 pieces of subsidiary legislation from [legislation.mt](https://legislation.mt), the official source published by the Legislation Unit. There is one file per article, regulation or schedule. Each change is a commit credited to the Act or Legal Notice that made it, dated the day the changed text took effect, at noon Malta time. The English text is used throughout.
+Il-liġijiet ta’ Malta bħala repożitorju git: 562 Kapitlu u 4,522 biċċa leġiżlazzjoni sussidjarja minn [legislation.mt](https://legislation.mt), is-sors uffiċjali ppubblikat mill-Unità tal-Leġiżlazzjoni. Hemm fajl wieħed għal kull artikolu, regolament jew skeda. Kull bidla hija commit attribwit lill-Att jew lill-Avviż Legali li għamilha, datat bil-jum li fih it-test mibdul daħal fis-seħħ, f’nofsinhar ħin ta’ Malta. Jintuża t-test Ingliż kullimkien.
 
-The record runs from 1834-06-28 to 2026-10-06 in 7265 commits, built from 8195 consolidated versions.
+Ir-rekord imur mit-1834-06-28 sat-2026-10-06 f’7,265 commit, mibni minn 8,195 verżjoni konsolidata.
 
-## A lawyer's questions as git commands
+## Il-mistoqsijiet ta’ avukat bħala kmandi git
 
-| Question | Command |
+| Mistoqsija | Kmand |
 | --- | --- |
-| What did article 57 of the Code of Organization and Civil Procedure say on 1 June 2022? | `python tools/in_force_on.py 2022-06-01 cap/12 57` |
-| The whole of a law on a date | `python tools/in_force_on.py 2022-06-01 cap/12` |
-| Which law last changed each line of an article? | `git blame cap/12/57.md` |
-| Every change to an article, with the law behind it | `git log -p cap/12/57.md` |
-| Everything one Act changed, across every law | `git log --author='Act XXV of 2026' --stat` |
-| Every law that changed a Chapter, in order | `git log --format='%(trailers:key=In-force,valueonly,separator=) %an' -- cap/12` |
-| What no law is credited with | `git log --grep='Kind: unexplained'` |
-| The list of laws, with their versions | [`laws.csv`](laws.csv) |
+| X’kien jgħid l-artikolu 57 tal-Kodiċi ta’ Organizzazzjoni u Proċedura Ċivili fl-1 ta’ Ġunju 2022? | `python tools/in_force_on.py 2022-06-01 cap/12 57` |
+| Liġi sħiħa f’data partikolari | `python tools/in_force_on.py 2022-06-01 cap/12` |
+| Liema liġi biddlet l-aħħar kull linja ta’ artikolu? | `git blame cap/12/57.md` |
+| Kull bidla f’artikolu, bil-liġi li ġabitha | `git log -p cap/12/57.md` |
+| Dak kollu li biddel Att wieħed, fil-liġijiet kollha | `git log --author='Act XXV of 2026' --stat` |
+| Kull liġi li biddlet Kapitlu, f’ordni | `git log --format='%(trailers:key=In-force,valueonly,separator=) %an' -- cap/12` |
+| Dak li mhu attribwit lil ebda liġi | `git log --grep='Kind: unexplained'` |
+| Il-lista tal-liġijiet, bil-verżjonijiet tagħhom | [`laws.csv`](laws.csv) |
 
-Each article file starts with its number and margin heading (`# 57. Duties of Director General (Courts).`), with any Book, Title or Part headings above it as `##` lines. Then comes one line per sub-article, paragraph or proviso. At the end, the history the consolidation prints in the margin, copied as it is: `- Amended by: VI.1880.6; XV.1913.22.` Here `VI.1880.6` means Act (before 1921, Ordinance) VI of 1880, section 6.
+Kull fajl ta’ artikolu jibda bin-numru u bit-titlu marġinali tiegħu (`# 57. Duties of Director General (Courts).`), b’kull intestatura ta’ Ktieb, Titolu jew Parti fuqu bħala linji `##`. Imbagħad tiġi linja waħda għal kull subartikolu, paragrafu jew proviso. Fl-aħħar, l-istorja li l-konsolidazzjoni tipprintja fil-marġni, ikkupjata kif inhi: `- Amended by: VI.1880.6; XV.1913.22.` Hawnhekk `VI.1880.6` tfisser l-Att (qabel l-1921, l-Ordinanza) VI tal-1880, artikolu 6.
 
-## The dates, and which one we use
+## Id-dati, u liema minnhom nużaw
 
-legislation.mt publishes each law as a series of consolidated versions, each for a "point in time": the day from which that text applies. **Commits are dated by that day.** That is the date that decides which text governs a case, and it is also the day the amendments in that version came into force. Each amendment commit also carries the amending law's publication date, where legislation.mt gives one (`Published:`).
+legislation.mt jippubblika kull liġi bħala serje ta’ verżjonijiet konsolidati, kull waħda għal “point in time” (punt fiż-żmien): il-jum minn meta japplika dak it-test. **Il-commits huma datati b’dak il-jum.** Dik hija d-data li tiddeċiedi liema test jirregola kawża, u hija wkoll il-jum li fih daħlu fis-seħħ l-emendi f’dik il-verżjoni. Kull commit ta’ emenda jġorr ukoll id-data tal-pubblikazzjoni tal-liġi emendatorja, fejn legislation.mt jagħtiha (`Published:`).
 
-The record starts at each law's earliest version on legislation.mt, mostly from December 2020, when the current site began keeping versions; some laws have earlier versions. That first version is a commit labelled `Kind: consolidated`, by the Legislation Unit. It has the whole text as it stood then, with each article's margin history, so the history before that date is recorded but not as separate commits.
+Ir-rekord jibda mill-ewwel verżjoni ta’ kull liġi fuq legislation.mt, l-aktar minn Diċembru 2020, meta s-sit attwali beda jżomm il-verżjonijiet; xi liġijiet għandhom verżjonijiet aktar kmieni. Dik l-ewwel verżjoni hija commit immarkat `Kind: consolidated`, mill-Unità tal-Leġiżlazzjoni. Fiha t-test kollu kif kien dak iż-żmien, bl-istorja marġinali ta’ kull artikolu, għalhekk l-istorja ta’ qabel dik id-data hija rreġistrata, iżda mhux bħala commits separati.
 
-**Git cannot store dates before 1970.** A law whose earliest version is older is committed on 1970-01-01, one second apart and in order. Its real date is in the `Consolidated:` or `In-force:` trailer, which `tools/in_force_on.py` reads.
+**Git ma jistax jaħżen dati ta’ qabel l-1970.** Liġi li l-ewwel verżjoni tagħha hija eqdem minn hekk tiġi kkommittjata fl-1970-01-01, sekonda bejn waħda u oħra u f’ordni. Id-data vera tagħha tinsab fit-trailer `Consolidated:` jew `In-force:`, li jaqrah `tools/in_force_on.py`.
 
-**Corrections.** A published commit is never rewritten. Where one was wrong, a later commit labelled `Kind: correction` says so: `Corrects: <law> <from>..<to>` gives the days it applies to (an open end runs to the law's next version), `Files:` the files it sets, `Supersedes:` the commit it corrects and `Reason:` why. On 2026-11-03, 2583 laws had their first version published one day late (the version's own date is the one in its `Version:` ELI); their corrections give that day. `tools/in_force_on.py` applies corrections.
+**Korrezzjonijiet.** Commit ippubblikat qatt ma jinkiteb mill-ġdid. Fejn wieħed kien żbaljat, commit aktar tard immarkat `Kind: correction` jgħid hekk: `Corrects: <law> <from>..<to>` jagħti l-ġranet li għalihom japplika (tarf miftuħ jibqa’ sal-verżjoni li jmiss tal-liġi), `Files:` il-fajls li jistabbilixxi, `Supersedes:` il-commit li jikkoreġi u `Reason:` għaliex. Fit-2026-11-03, 2,583 liġi kellhom l-ewwel verżjoni tagħhom ippubblikata jum tard (id-data proprja tal-verżjoni hija dik fl-ELI `Version:` tagħha); il-korrezzjonijiet tagħhom jagħtu dak il-jum. `tools/in_force_on.py` japplika l-korrezzjonijiet.
 
-## What "author" means
+## X’ifisser “awtur”
 
-The author of a commit is the law that made the change, at an address that cannot exist: `Act XXV of 2026 <act-2026-25@legislation-mt.invalid>`, `L.N. 218 of 2026 <ln-2026-218@legislation-mt.invalid>`. So `git blame` names, for each line, the law that last wrote it. One commit holds everything one law changed on one day, across every Chapter and piece of subsidiary legislation it touched (`Affecting:` trailers).
+L-awtur ta’ commit huwa l-liġi li għamlet il-bidla, f’indirizz li ma jistax jeżisti: `Act XXV of 2026 <act-2026-25@legislation-mt.invalid>`, `L.N. 218 of 2026 <ln-2026-218@legislation-mt.invalid>`. B’hekk `git blame` jsemmi, għal kull linja, il-liġi li l-aħħar kitbitha. Commit wieħed fih dak kollu li biddlet liġi waħda f’jum wieħed, fil-Kapitli kollha u fil-leġiżlazzjoni sussidjarja kollha li messet (trailers `Affecting:`).
 
-A change is credited by the evidence in the consolidation itself, strongest first (`Evidence:` trailer):
-1. **margin note**: the changed article's margin history gains a new citation (`Amended by: XXV.2026.3`) — 6888 units;
-2. **law**: the law's new version cites exactly one new law anywhere — 9431 units;
-3. **date**: exactly one related Act or Legal Notice was published between the two versions — 3103 units.
-4. **commencement**: exactly one related law is marked "partly in force" on legislation.mt, so its deferred part is what took effect — 175 units;
-5. **cited earlier**: the unit's margin history already cites exactly one recent enough law, which was printed before and takes effect now — 56 units.
+Bidla tiġi attribwita skont l-evidenza fil-konsolidazzjoni nnifisha, mill-aktar b’saħħitha (trailer `Evidence:`):
+1. **nota marġinali**: l-istorja marġinali tal-artikolu mibdul tikseb ċitazzjoni ġdida (`Amended by: XXV.2026.3`) — 6,888 unità;
+2. **liġi**: il-verżjoni l-ġdida tal-liġi tiċċita, x’imkien fiha, eżattament liġi ġdida waħda — 9,431 unità;
+3. **data**: eżattament Att jew Avviż Legali relatat wieħed ġie ppubblikat bejn iż-żewġ verżjonijiet — 3,103 unitajiet.
+4. **dħul fis-seħħ**: eżattament liġi relatata waħda hija mmarkata “partly in force” (parzjalment fis-seħħ) fuq legislation.mt, għalhekk il-parti differita tagħha hija dik li daħlet fis-seħħ — 175 unità;
+5. **iċċitata qabel**: l-istorja marġinali tal-unità diġà tiċċita eżattament liġi waħda reċenti biżżejjed, li kienet ipprintjata qabel u li tidħol fis-seħħ issa — 56 unità.
 
-A law made before the previous version is never taken as the cause of a change since it: if its citation appears newly beside a unit, it has only moved between margin notes in a new typesetting. Where legislation.mt has no version for years, a change is credited to the law the margin names but dated by the first version that shows it.
+Liġi magħmula qabel il-verżjoni preċedenti qatt ma titqies bħala l-kawża ta’ bidla li saret minn dakinhar: jekk iċ-ċitazzjoni tagħha tidher għall-ewwel darba ħdejn unità, tkun biss iċċaqalqet minn nota marġinali għal oħra f’tipografija ġdida. Fejn legislation.mt ma għandu l-ebda verżjoni għal snin sħaħ, bidla tiġi attribwita lil-liġi li jsemmi l-marġni, iżda datata bl-ewwel verżjoni li turiha.
 
-A change with none of these (0 units) is by the Legislation Unit and labelled `Kind: unexplained`; it is never credited to a law. Where an article's margin gains more than one citation at once, the commit is credited to the latest and the others are listed as `Also-cited:`.
+Bidla mingħajr l-ebda waħda minn dawn (0 unità) hija tal-Unità tal-Leġiżlazzjoni u mmarkata `Kind: unexplained`; qatt ma tiġi attribwita lil liġi. Fejn il-marġni ta’ artikolu jikseb aktar minn ċitazzjoni waħda f’daqqa, il-commit jiġi attribwit lill-aħħar waħda u l-oħrajn jitniżżlu bħala `Also-cited:`.
 
-In total there are 5053 consolidated versions, 1965 amendment commits by 1817 amending laws, and 244 unexplained ones.
+B’kollox hemm 5,053 verżjoni konsolidata, 1,965 commit ta’ emenda minn 1,817 liġi emendatorja, u 244 commit mhux spjegat.
 
-## What it does not show
+## X’ma jurix
 
-- Text before each law's earliest version on legislation.mt, except as the margin histories list it.
-- The Maltese text. Where the two differ, the Maltese text prevails for most laws; see article 74 of the Constitution of Malta.
-- Footnotes, and the arrangement tables at the start of each Chapter.
-- Versions whose PDF could not be read (43), listed in [`data/unreadable.csv`](data/unreadable.csv).
-- Commencement that comes later than the consolidated version's date, and savings or transitional rules. These are in the amending laws themselves, at the `Source:` link of each commit.
-- Who wrote words that a later version reproduces unchanged under a new number.
+- It-test ta’ qabel l-ewwel verżjoni ta’ kull liġi fuq legislation.mt, ħlief kif jelenkawh l-istoriji marġinali.
+- It-test Malti. Fejn it-tnejn ikunu differenti, għall-biċċa l-kbira tal-liġijiet jipprevali t-test Malti; ara l-artikolu 74 tal-Kostituzzjoni ta’ Malta.
+- In-noti f’qiegħ il-paġna, u t-tabelli tal-arranġament fil-bidu ta’ kull Kapitlu.
+- Verżjonijiet li l-PDF tagħhom ma setax jinqara (43), elenkati f’[`data/unreadable.csv`](data/unreadable.csv).
+- Dħul fis-seħħ li jiġi wara d-data tal-verżjoni konsolidata, u regoli ta’ salvagwardja jew tranżitorji. Dawn jinsabu fil-liġijiet emendatorji nfushom, fil-link `Source:` ta’ kull commit.
+- Min kiteb kliem li verżjoni aktar tard tirriproduċi mingħajr bidla taħt numru ġdid.
 
-This is a research aid. Only the Government Gazette is authoritative, and the consolidated texts on legislation.mt, and so this repository, are not.
+Dan huwa għajnuna għar-riċerka. Il-Gazzetta tal-Gvern biss hija awtorevoli, u t-testi konsolidati fuq legislation.mt, u għalhekk dan ir-repożitorju, mhumiex.
 
-## How it is checked
+## Kif jiġi vverifikat
 
-`tools/build/` holds the build as it was run. Every PDF's sha256 is in [`data/pdf-sha256.tsv`](data/pdf-sha256.tsv), and the build is deterministic: from the same PDFs it gives the same commit hashes. See [`REPRODUCE.md`](REPRODUCE.md).
+`tools/build/` fih il-build kif tħaddem. Is-sha256 ta’ kull PDF jinsab f’[`data/pdf-sha256.tsv`](data/pdf-sha256.tsv), u l-build huwa deterministiku: mill-istess PDFs jagħti l-istess hashes tal-commits. Ara [`REPRODUCE.md`](REPRODUCE.md).
 
-## How it is built
+## Kif jinbena
 
-The record uses the ELI sitemap and each law's page on legislation.mt, which lists its consolidated versions and the laws related to it, and each English version's PDF. `parse_pdf.py` reads each PDF into units by their typography: bold article numbers, the margin column, centred headings and schedules. `build.py` compares consecutive versions unit by unit, credits each change as above, and writes the history with `git fast-import`. No AI model takes part in building or checking it.
+Ir-rekord juża s-sitemap ELI u l-paġna ta’ kull liġi fuq legislation.mt, li telenka l-verżjonijiet konsolidati tagħha u l-liġijiet relatati magħha, kif ukoll il-PDF ta’ kull verżjoni Ingliża. `parse_pdf.py` jaqra kull PDF f’unitajiet skont it-tipografija tagħhom: numri tal-artikoli b’tipa grassa, il-kolonna tal-marġni, intestaturi ċċentrati u skedi. `build.py` iqabbel verżjonijiet konsekuttivi unità b’unità, jattribwixxi kull bidla kif spjegat hawn fuq, u jikteb l-istorja b’`git fast-import`. L-ebda mudell tal-intelliġenza artifiċjali ma jieħu sehem fil-bini jew fil-verifika tiegħu.
 
-## Licence
+## Liċenzja
 
-Source: legislation.mt, the Legislation Unit, Government of Malta. The texts were converted to one file per unit and arranged as commits, and the wording was not changed. The Copyright Act (Cap. 415) excludes "any written law" from literary works, subject to article 12 of the Statute Law Revision Act, 1980. **Check that article before this repository is made public.** Lexifina's own contributions (the tools, the arrangement and the commit messages) are CC0. See [`LICENSE`](LICENSE).
+Sors: legislation.mt, l-Unità tal-Leġiżlazzjoni, Gvern ta’ Malta. It-testi ġew konvertiti f’fajl wieħed għal kull unità u rranġati bħala commits, u l-kliem ma nbidilx. L-Att dwar id-Drittijiet tal-Awtur (Kap. 415) jeskludi “any written law” (kull liġi miktuba) mix-xogħlijiet letterarji, soġġett għall-artikolu 12 tal-Att tal-1980 dwar ir-Reviżjoni tal-Liġijiet Statutarji (Statute Law Revision Act, 1980). **Iċċekkja dak l-artikolu qabel ma dan ir-repożitorju jsir pubbliku.** Il-kontribuzzjonijiet proprji ta’ Lexifina (l-għodod, l-arranġament u l-messaġġi tal-commits) huma CC0. Ara [`LICENSE`](LICENSE).
+
+Din hija traduzzjoni tal-verżjoni Ingliża ([README.en.md](README.en.md)); jekk ikun hemm differenza, tipprevali l-verżjoni Ingliża.
+
+## Aktar
+
+Mir-repożitorju [lexifina/global-law](https://github.com/lexifina/global-law) (bl-Ingliż):
+
+- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): il-funzjonijiet kollha u x’għandu jappoġġja kull korpus (`git blame`, `law.py`, għodod MCP)
+- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): mistoqsijiet u tweġibiet · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): kif tipproponi bidliet · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): is-server MCP · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): kif inbena · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
+- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): kemm hu aġġornat kull korpus · [Monitoraġġ](https://github.com/lexifina/global-law/tree/main/monitoring): jekk l-aġġornamenti humiex jaħdmu · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): kif kull sors uffiċjali jiġi segwit għal bidliet
+- [performance/](https://github.com/lexifina/global-law/tree/main/performance): kemm huma veloċi l-għodod, imkejla
+- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): graffs u konnessjonijiet madwar il-liġi tad-dinja kollha
+- [Vulnerabbiltajiet](https://github.com/lexifina/global-law/tree/main/vulnerabilities): żbalji fil-liġijiet kif ġew ippubblikati
