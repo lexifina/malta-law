@@ -1,82 +1,84 @@
-# Il-liġi ta’ Malta, bidla b’bidla
+# Malta: l-istorja tal-liġi f’git
 
-**Malti** · [English](README.en.md)
+**Malti** · **[Or read it in English](README.en.md)**
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="data/mt/effort-dark.svg">
 <img alt="Il-liġi ta’ Malta f’dan ir-repożitorju: x’fih, il-bidliet skont is-sena tad-dħul fis-seħħ, kemm hu komplut meta mqabbel mas-sorsi uffiċjali u l-korrettezza ta’ dak li fih" src="data/mt/effort-light.svg" width="880">
 </picture>
 
+Il-liġi ta’ Malta bħala storja git: fajl wieħed għal kull artikolu, regolament jew skeda, commit wieħed għal kull verżjoni fil-jum li fih daħlet fis-seħħ, u l-Att jew l-Avviż Legali li għamel kull bidla bħala l-awtur tal-commit. `git blame` jsemmi l-liġi wara kull linja; `git log` jelenka kull bidla f’artikolu; jekk tagħżel data, tieħu t-test li kien fis-seħħ dakinhar.
+
 Parti minn [lexifina/global-law](https://github.com/lexifina/global-law), storja git waħda għal-liġi ta’ kull pajjiż: dan huwa d-dritt nazzjonali ta’ Malta, li global-law jaqra f’`malta/national/acts/`.
 
-Il-liġijiet ta’ Malta bħala repożitorju git: 562 Kapitlu u 4,522 biċċa leġiżlazzjoni sussidjarja minn [legislation.mt](https://legislation.mt), is-sors uffiċjali ppubblikat mill-Unità tal-Leġiżlazzjoni. Hemm fajl wieħed għal kull artikolu, regolament jew skeda. Kull bidla hija commit attribwit lill-Att jew lill-Avviż Legali li għamilha, datat bil-jum li fih it-test mibdul daħal fis-seħħ, f’nofsinhar ħin ta’ Malta. Jintuża t-test Ingliż kullimkien.
+**X’fih issa:** kull Kapitlu (562) u kull biċċa leġiżlazzjoni sussidjarja (4,522) fuq legislation.mt, 5,084 liġi b’8,195 verżjoni konsolidata sal-punt fiż-żmien tas-6 ta’ Ottubru 2026, f’10,495 commit; 31 minn dawn il-liġijiet m’għandhomx test hawn, għax il-PDFs tagħhom ma setgħux jinqraw. [`laws.csv`](laws.csv) jelenka kull liġi bit-tip tagħha, jekk hijiex fis-seħħ, il-verżjonijiet tagħha u l-folder tagħha.
 
-Ir-rekord imur mit-1834-06-28 sat-2026-10-06 f’7,265 commit, mibni minn 8,195 verżjoni konsolidata.
+Kull liġi hija folder, `cap/<numru>/` għal Kapitlu u `sl/<numru>/` għal leġiżlazzjoni sussidjarja (`cap/452/` huwa l-Employment and Industrial Relations Act, l-Att dwar l-Impjiegi u r-Relazzjonijiet Industrijali, Kap. 452; `sl/452.115/` l-Annual Leave National Standard Order), bit-titlu u t-test tal-bidu tagħha f’`title.md`. Kull fajl ta’ artikolu jispiċċa bin-noti li l-konsolidazzjoni tipprintja fil-marġni, bħal `- Amended by: ...; XX.2022.2; ...` (l-Att XX tal-2022, artikolu 2).
 
-## Il-mistoqsijiet ta’ avukat bħala kmandi git
+It-test huwa bl-Ingliż, mill-verżjonijiet konsolidati Ingliżi ta’ legislation.mt. It-test Malti, li għall-biċċa l-kbira tal-liġijiet jipprevali fejn it-tnejn ikunu differenti (l-artikolu 74 tal-Kostituzzjoni), mhuwiex parti minn dan ir-rekord.
+
+## Mistoqsijiet bħala kmandi git
 
 | Mistoqsija | Kmand |
 | --- | --- |
-| X’kien jgħid l-artikolu 57 tal-Kodiċi ta’ Organizzazzjoni u Proċedura Ċivili fl-1 ta’ Ġunju 2022? | `python tools/in_force_on.py 2022-06-01 cap/12 57` |
-| Liġi sħiħa f’data partikolari | `python tools/in_force_on.py 2022-06-01 cap/12` |
-| Liema liġi biddlet l-aħħar kull linja ta’ artikolu? | `git blame cap/12/57.md` |
-| Kull bidla f’artikolu, bil-liġi li ġabitha | `git log -p cap/12/57.md` |
-| Dak kollu li biddel Att wieħed, fil-liġijiet kollha | `git log --author='Act XXV of 2026' --stat` |
-| Kull liġi li biddlet Kapitlu, f’ordni | `git log --format='%(trailers:key=In-force,valueonly,separator=) %an' -- cap/12` |
-| Dak li mhu attribwit lil ebda liġi | `git log --grep='Kind: unexplained'` |
-| Il-lista tal-liġijiet, bil-verżjonijiet tagħhom | [`laws.csv`](laws.csv) |
+| Kull bidla fl-artikolu 2 tal-Att dwar l-Impjiegi u r-Relazzjonijiet Industrijali | `git log -p --word-diff -- cap/452/2.md` |
+| Liema liġi kitbet kull linja tal-artikolu 2? | `git blame cap/452/2.md` |
+| Kull verżjoni tal-Att, bil-jum li fih daħlet fis-seħħ kull waħda | `git log --format="%h %(trailers:key=In-force,valueonly,separator=)%(trailers:key=Consolidated,valueonly,separator=) %an" -- cap/452` |
+| L-artikolu 2 kif kien fis-seħħ fl-1 ta’ Jannar 2024 | `python tools/in_force_on.py 2024-01-01 cap/452 2` |
 
-Kull fajl ta’ artikolu jibda bin-numru u bit-titlu marġinali tiegħu (`# 57. Duties of Director General (Courts).`), b’kull intestatura ta’ Ktieb, Titolu jew Parti fuqu bħala linji `##`. Imbagħad tiġi linja waħda għal kull subartikolu, paragrafu jew proviso. Fl-aħħar, l-istorja li l-konsolidazzjoni tipprintja fil-marġni, ikkupjata kif inhi: `- Amended by: VI.1880.6; XV.1913.22.` Hawnhekk `VI.1880.6` tfisser l-Att (qabel l-1921, l-Ordinanza) VI tal-1880, artikolu 6.
+**Barra minn git**, dan ir-rekord nospitawh ukoll pubblikament, b’xejn:
 
-## Id-dati, u liema minnhom nużaw
+- **[Staqsi lil Claude dwar il-liġi Maltija](https://global-law.lexifina.com/v1/try_claude?country=malta)**: jiftaħ Claude bl-ewwel mistoqsija diġà lesta.
+- **[Staqsi lil ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=malta)**: l-istess mistoqsija f’ChatGPT.
+- **[Sejjaħ l-API mill-browser tiegħek](https://global-law.lexifina.com/v1/search_law?query=annual+leave&jurisdictions=malta)**: tfittxija fil-liġi Maltija għal “annual leave” (leave annwali), b’tweġiba f’JSON. Id-dokumentazzjoni tinsab [hawn](https://lexifina.com/api/global-law).
 
-legislation.mt jippubblika kull liġi bħala serje ta’ verżjonijiet konsolidati, kull waħda għal “point in time” (punt fiż-żmien): il-jum minn meta japplika dak it-test. **Il-commits huma datati b’dak il-jum.** Dik hija d-data li tiddeċiedi liema test jirregola kawża, u hija wkoll il-jum li fih daħlu fis-seħħ l-emendi f’dik il-verżjoni. Kull commit ta’ emenda jġorr ukoll id-data tal-pubblikazzjoni tal-liġi emendatorja, fejn legislation.mt jagħtiha (`Published:`).
+Iż-żewġ assistenti jaqraw ir-rekord permezz tal-konnettur b’xejn Global law (MCP, `https://global-law.lexifina.com/mcp`); l-ewwel darba, iċ-chat jagħtik il-link li jżidu. Staqsi bl-Ingliż jew bil-Malti.
 
-Ir-rekord jibda mill-ewwel verżjoni ta’ kull liġi fuq legislation.mt, l-aktar minn Diċembru 2020, meta s-sit attwali beda jżomm il-verżjonijiet; xi liġijiet għandhom verżjonijiet aktar kmieni. Dik l-ewwel verżjoni hija commit immarkat `Kind: consolidated`, mill-Unità tal-Leġiżlazzjoni. Fiha t-test kollu kif kien dak iż-żmien, bl-istorja marġinali ta’ kull artikolu, għalhekk l-istorja ta’ qabel dik id-data hija rreġistrata, iżda mhux bħala commits separati.
+**Tista’ tħaddmu faċilment int stess.** Ikollok bżonn biss git u Python, u l-għodod jaħdmu fuq il-kompjuter tiegħek:
 
-**Git ma jistax jaħżen dati ta’ qabel l-1970.** Liġi li l-ewwel verżjoni tagħha hija eqdem minn hekk tiġi kkommittjata fl-1970-01-01, sekonda bejn waħda u oħra u f’ordni. Id-data vera tagħha tinsab fit-trailer `Consolidated:` jew `In-force:`, li jaqrah `tools/in_force_on.py`.
+```sh
+git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
+python3 tools/countries.py add malta/national/acts
+python3 tools/law.py show 2026-01-01 malta/national/acts/cap/452/2.md
+```
 
-**Korrezzjonijiet.** Commit ippubblikat qatt ma jinkiteb mill-ġdid. Fejn wieħed kien żbaljat, commit aktar tard immarkat `Kind: correction` jgħid hekk: `Corrects: <law> <from>..<to>` jagħti l-ġranet li għalihom japplika (tarf miftuħ jibqa’ sal-verżjoni li jmiss tal-liġi), `Files:` il-fajls li jistabbilixxi, `Supersedes:` il-commit li jikkoreġi u `Reason:` għaliex. Fit-2026-11-03, 2,583 liġi kellhom l-ewwel verżjoni tagħhom ippubblikata jum tard (id-data proprja tal-verżjoni hija dik fl-ELI `Version:` tagħha); il-korrezzjonijiet tagħhom jagħtu dak il-jum. `tools/in_force_on.py` japplika l-korrezzjonijiet.
+Miftuħ f’Claude Code, Cursor, VS Code jew Codex, il-klonu jibda wkoll server MCP lokali bl-istess għodod ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
 
-## X’ifisser “awtur”
+## Id-dati
 
-L-awtur ta’ commit huwa l-liġi li għamlet il-bidla, f’indirizz li ma jistax jeżisti: `Act XXV of 2026 <act-2026-25@legislation-mt.invalid>`, `L.N. 218 of 2026 <ln-2026-218@legislation-mt.invalid>`. B’hekk `git blame` jsemmi, għal kull linja, il-liġi li l-aħħar kitbitha. Commit wieħed fih dak kollu li biddlet liġi waħda f’jum wieħed, fil-Kapitli kollha u fil-leġiżlazzjoni sussidjarja kollha li messet (trailers `Affecting:`).
+Kull commit huwa datat f’nofsinhar, ħin ta’ Malta (Europe/Malta), fil-punt fiż-żmien tal-verżjoni ta’ legislation.mt li fiha jinsab (il-jum minn meta japplika dak it-test), u jġorr dak il-jum f’trailer:
 
-Bidla tiġi attribwita skont l-evidenza fil-konsolidazzjoni nnifisha, mill-aktar b’saħħitha (trailer `Evidence:`):
-1. **nota marġinali**: l-istorja marġinali tal-artikolu mibdul tikseb ċitazzjoni ġdida (`Amended by: XXV.2026.3`) — 6,888 unità;
-2. **liġi**: il-verżjoni l-ġdida tal-liġi tiċċita, x’imkien fiha, eżattament liġi ġdida waħda — 9,431 unità;
-3. **data**: eżattament Att jew Avviż Legali relatat wieħed ġie ppubblikat bejn iż-żewġ verżjonijiet — 3,103 unitajiet.
-4. **dħul fis-seħħ**: eżattament liġi relatata waħda hija mmarkata “partly in force” (parzjalment fis-seħħ) fuq legislation.mt, għalhekk il-parti differita tagħha hija dik li daħlet fis-seħħ — 175 unità;
-5. **iċċitata qabel**: l-istorja marġinali tal-unità diġà tiċċita eżattament liġi waħda reċenti biżżejjed, li kienet ipprintjata qabel u li tidħol fis-seħħ issa — 56 unità.
+- bidla: `In-force:`, il-punt fiż-żmien tal-ewwel verżjoni li turiha, bil-jum tal-pubblikazzjoni tal-liġi emendatorja f’`Published:` fejn legislation.mt jagħtih;
+- l-ewwel verżjoni ta’ kull liġi fuq legislation.mt: `Consolidated:`. Hija commit wieħed (`Kind: consolidated`) bit-test kollu u bl-istorja marġinali ta’ kull artikolu, għalhekk il-bidliet ta’ qabel huma rreġistrati hemm, mhux bħala commits;
+- git ma jistax jaħżen dati ta’ qabel l-1970, għalhekk il-15-il commit ta’ qabel (mit-28 ta’ Ġunju 1834) huma datati mill-1970-01-01, sekonda bejn wieħed u ieħor, bil-jum veru fit-trailer. Biex tistaqsi għal data, uża `tools/in_force_on.py`, mhux `git log --before`;
+- commit ippubblikat qatt ma jinkiteb mill-ġdid: il-2,583 liġi li l-ewwel verżjoni tagħhom kienet datata jum tard għandhom commits `Kind: correction` aktar tard (3,222 b’kollox) li jsemmu l-ġranet li jikkoreġu, u `tools/in_force_on.py` japplikahom.
 
-Liġi magħmula qabel il-verżjoni preċedenti qatt ma titqies bħala l-kawża ta’ bidla li saret minn dakinhar: jekk iċ-ċitazzjoni tagħha tidher għall-ewwel darba ħdejn unità, tkun biss iċċaqalqet minn nota marġinali għal oħra f’tipografija ġdida. Fejn legislation.mt ma għandu l-ebda verżjoni għal snin sħaħ, bidla tiġi attribwita lil-liġi li jsemmi l-marġni, iżda datata bl-ewwel verżjoni li turiha.
-
-Bidla mingħajr l-ebda waħda minn dawn (0 unità) hija tal-Unità tal-Leġiżlazzjoni u mmarkata `Kind: unexplained`; qatt ma tiġi attribwita lil liġi. Fejn il-marġni ta’ artikolu jikseb aktar minn ċitazzjoni waħda f’daqqa, il-commit jiġi attribwit lill-aħħar waħda u l-oħrajn jitniżżlu bħala `Also-cited:`.
-
-B’kollox hemm 5,053 verżjoni konsolidata, 1,965 commit ta’ emenda minn 1,817 liġi emendatorja, u 244 commit mhux spjegat.
-
-## X’ma jurix
-
-- It-test ta’ qabel l-ewwel verżjoni ta’ kull liġi fuq legislation.mt, ħlief kif jelenkawh l-istoriji marġinali.
-- It-test Malti. Fejn it-tnejn ikunu differenti, għall-biċċa l-kbira tal-liġijiet jipprevali t-test Malti; ara l-artikolu 74 tal-Kostituzzjoni ta’ Malta.
-- In-noti f’qiegħ il-paġna, u t-tabelli tal-arranġament fil-bidu ta’ kull Kapitlu.
-- Verżjonijiet li l-PDF tagħhom ma setax jinqara (43), elenkati f’[`data/unreadable.csv`](data/unreadable.csv).
-- Dħul fis-seħħ li jiġi wara d-data tal-verżjoni konsolidata, u regoli ta’ salvagwardja jew tranżitorji. Dawn jinsabu fil-liġijiet emendatorji nfushom, fil-link `Source:` ta’ kull commit.
-- Min kiteb kliem li verżjoni aktar tard tirriproduċi mingħajr bidla taħt numru ġdid.
-
-Dan huwa għajnuna għar-riċerka. Il-Gazzetta tal-Gvern biss hija awtorevoli, u t-testi konsolidati fuq legislation.mt, u għalhekk dan ir-repożitorju, mhumiex.
+Kull bidla hija attribwita lill-Att jew lill-Avviż Legali li għamilha (`Act XX of 2022`, `L.N. 265 of 2026`), skont l-evidenza fil-konsolidazzjoni, mill-aktar b’saħħitha (`Evidence:`): ċitazzjoni ġdida fil-marġni tal-artikolu, liġi ġdida waħda biss iċċitata fil-verżjoni, liġi relatata waħda biss ippubblikata bejn iż-żewġ verżjonijiet, u żewġ regoli oħra li jintużaw inqas. B’hekk hemm 1,965 commit ta’ emenda minn 1,817 liġi; l-ewwel verżjoni ta’ kull liġi, u l-244 bidla li ma jistgħux jiġu attribwiti lil ebda liġi (`Kind: unexplained`), huma attribwiti lill-Unità tal-Leġiżlazzjoni.
 
 ## Kif jiġi vverifikat
 
-`tools/build/` fih il-build kif tħaddem. Is-sha256 ta’ kull PDF jinsab f’[`data/pdf-sha256.tsv`](data/pdf-sha256.tsv), u l-build huwa deterministiku: mill-istess PDFs jagħti l-istess hashes tal-commits. Ara [`REPRODUCE.md`](REPRODUCE.md).
+- `tools/build/` fih il-build kif tħaddem (`build.py`, `parse_pdf.py`, `docs.py`, bis-sha256 tagħhom f’`REPRODUCE.md`). Mill-istess PDFs, li s-sha256 tagħhom jinsab f’[`data/pdf-sha256.tsv`](data/pdf-sha256.tsv), jagħti l-istess hashes tal-commits.
+- L-ispazji, il-virgoletti kurvi, id-dashes u s-soft hyphens jiġu normalizzati, biex it-tipografija waħedha qatt ma toħloq bidla; il-verżjonijiet li l-PDF tagħhom ma setax jinqara jitniżżlu f’lista minflok ma jiġu ndovinati.
+- L-istorja tiżdied biss: commit żbaljat jiġi kkoreġut b’ieħor aktar tard (`Corrects:`, `Supersedes:`, `Reason:`) u qatt ma jinkiteb mill-ġdid. Ara [`REPRODUCE.md`](REPRODUCE.md).
 
-## Kif jinbena
+## X’ma jurix
 
-Ir-rekord juża s-sitemap ELI u l-paġna ta’ kull liġi fuq legislation.mt, li telenka l-verżjonijiet konsolidati tagħha u l-liġijiet relatati magħha, kif ukoll il-PDF ta’ kull verżjoni Ingliża. `parse_pdf.py` jaqra kull PDF f’unitajiet skont it-tipografija tagħhom: numri tal-artikoli b’tipa grassa, il-kolonna tal-marġni, intestaturi ċċentrati u skedi. `build.py` iqabbel verżjonijiet konsekuttivi unità b’unità, jattribwixxi kull bidla kif spjegat hawn fuq, u jikteb l-istorja b’`git fast-import`. L-ebda mudell tal-intelliġenza artifiċjali ma jieħu sehem fil-bini jew fil-verifika tiegħu.
+- **Il-Kostituzzjoni ta’ Malta**, li legislation.mt jippubblika separatament mill-Kapitli, u **l-ġurisprudenza**.
+- **It-test Malti** (ara hawn fuq).
+- **It-test ta’ qabel l-ewwel verżjoni ta’ kull liġi fuq legislation.mt**, ħlief kif l-istoriji marġinali tagħha jelenkaw il-liġijiet li biddluha.
+- **Verżjonijiet li ma setgħux jinqraw**: 43 (41 minnhom b’test Malti fl-indirizz Ingliż), elenkati f’[`data/unreadable.csv`](data/unreadable.csv); minħabba fihom, 31 liġi m’għandhomx test.
+- **Dħul fis-seħħ aktar tard mill-punt fiż-żmien ta’ verżjoni, u regoli ta’ salvagwardja u tranżitorji**: dawn jinsabu fil-liġijiet emendatorji, fil-link `Source:` ta’ kull commit.
+- **In-noti f’qiegħ il-paġna**, u t-tabella tal-arranġament fil-bidu ta’ kull Kapitlu.
+
+## Sorsi
+
+| Sors | Tip | Verżjonijiet preċedenti | Noti |
+| --- | --- | --- | --- |
+| [legislation.mt](https://legislation.mt) (l-Unità tal-Leġiżlazzjoni, Gvern ta’ Malta) | Liġijiet konsolidati uffiċjali: Kapitli u leġiżlazzjoni sussidjarja | iva, verżjoni konsolidata għal kull punt fiż-żmien | Il-PDF Ingliż ta’ kull verżjoni, il-paġna ta’ kull liġi (il-verżjonijiet u l-liġijiet relatati magħha) u s-sitemap ELI; it-test awtorevoli huwa dak tal-Gazzetta tal-Gvern |
 
 ## Liċenzja
 
-Sors: legislation.mt, l-Unità tal-Leġiżlazzjoni, Gvern ta’ Malta. It-testi ġew konvertiti f’fajl wieħed għal kull unità u rranġati bħala commits, u l-kliem ma nbidilx. L-Att dwar id-Drittijiet tal-Awtur (Kap. 415) jeskludi “any written law” (kull liġi miktuba) mix-xogħlijiet letterarji, soġġett għall-artikolu 12 tal-Att tal-1980 dwar ir-Reviżjoni tal-Liġijiet Statutarji (Statute Law Revision Act, 1980). **Iċċekkja dak l-artikolu qabel ma dan ir-repożitorju jsir pubbliku.** Il-kontribuzzjonijiet proprji ta’ Lexifina (l-għodod, l-arranġament u l-messaġġi tal-commits) huma CC0. Ara [`LICENSE`](LICENSE).
+Ara [`LICENSE`](LICENSE). L-Att dwar id-Drittijiet tal-Awtur (Kap. 415, artikolu 2) jeskludi “any written law” (kull liġi miktuba) mix-xogħlijiet letterarji, ħlief kif provdut fl-artikolu 12 tal-Att tal-1980 dwar ir-Reviżjoni tal-Liġijiet Statutarji (Statute Law Revision Act, 1980); it-testi huma riprodotti mingħajr bidla fil-kliem tagħhom. Il-kontribuzzjonijiet proprji ta’ Lexifina (l-għodod, l-arranġament tal-fajls, il-messaġġi tal-commits u d-dokumentazzjoni) huma CC0 1.0.
 
 Din hija traduzzjoni tal-verżjoni Ingliża ([README.en.md](README.en.md)); jekk ikun hemm differenza, tipprevali l-verżjoni Ingliża.
 

@@ -1,82 +1,84 @@
-# Maltese law, change by change
+# Malta: law history in git
 
-[Malti](README.md) · **English**
+**English** · **[Jew aqrah bil-Malti](README.md)**
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
 <img alt="Maltese law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
 </picture>
 
+The law of Malta as a git history: one file per article, regulation or schedule, one commit per version on the day it took effect, and the Act or Legal Notice that made each change as the commit's author. `git blame` names the law behind every line; `git log` lists every change to an article; picking a date gives the text in force that day.
+
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Malta's national law, which global-law reads at `malta/national/acts/`.
 
-The laws of Malta as a git repository: 562 Chapters and 4522 pieces of subsidiary legislation from [legislation.mt](https://legislation.mt), the official source published by the Legislation Unit. There is one file per article, regulation or schedule. Each change is a commit credited to the Act or Legal Notice that made it, dated the day the changed text took effect, at noon Malta time. The English text is used throughout.
+**What is in it now:** every Chapter (562) and piece of subsidiary legislation (4,522) on legislation.mt, 5,084 laws with 8,195 consolidated versions up to the point in time of 6 October 2026, in 10,495 commits; 31 of these laws have no text here, as their PDFs could not be read. [`laws.csv`](laws.csv) lists every law with its kind, whether it is in force, its versions and its folder.
 
-The record runs from 1834-06-28 to 2026-10-06 in 7265 commits, built from 8195 consolidated versions.
+Each law is a folder, `cap/<number>/` for a Chapter and `sl/<number>/` for subsidiary legislation (`cap/452/` is the Employment and Industrial Relations Act, Cap. 452; `sl/452.115/` the Annual Leave National Standard Order), with its front matter in `title.md`. Each article file ends with the notes the consolidation prints in its margin, such as `- Amended by: ...; XX.2022.2; ...` (Act XX of 2022, section 2).
 
-## A lawyer's questions as git commands
+The text is in English, from legislation.mt's English consolidated versions. The Maltese text, which prevails for most laws where the two differ (article 74 of the Constitution), is not part of this record.
+
+## Questions as git commands
 
 | Question | Command |
 | --- | --- |
-| What did article 57 of the Code of Organization and Civil Procedure say on 1 June 2022? | `python tools/in_force_on.py 2022-06-01 cap/12 57` |
-| The whole of a law on a date | `python tools/in_force_on.py 2022-06-01 cap/12` |
-| Which law last changed each line of an article? | `git blame cap/12/57.md` |
-| Every change to an article, with the law behind it | `git log -p cap/12/57.md` |
-| Everything one Act changed, across every law | `git log --author='Act XXV of 2026' --stat` |
-| Every law that changed a Chapter, in order | `git log --format='%(trailers:key=In-force,valueonly,separator=) %an' -- cap/12` |
-| What no law is credited with | `git log --grep='Kind: unexplained'` |
-| The list of laws, with their versions | [`laws.csv`](laws.csv) |
+| Every change to article 2 of the Employment and Industrial Relations Act | `git log -p --word-diff -- cap/452/2.md` |
+| Which law wrote each line of article 2? | `git blame cap/452/2.md` |
+| Every version of the Act, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=)%(trailers:key=Consolidated,valueonly,separator=) %an" -- cap/452` |
+| Article 2 as in force on 1 January 2024 | `python tools/in_force_on.py 2024-01-01 cap/452 2` |
 
-Each article file starts with its number and margin heading (`# 57. Duties of Director General (Courts).`), with any Book, Title or Part headings above it as `##` lines. Then comes one line per sub-article, paragraph or proviso. At the end, the history the consolidation prints in the margin, copied as it is: `- Amended by: VI.1880.6; XV.1913.22.` Here `VI.1880.6` means Act (before 1921, Ordinance) VI of 1880, section 6.
+**Outside git**, we also host this record publicly, for free:
 
-## The dates, and which one we use
+- **[Ask Claude about Maltese law](https://global-law.lexifina.com/v1/try_claude?country=malta)**: opens Claude with a first question ready.
+- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=malta)**: the same question in ChatGPT.
+- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=annual+leave&jurisdictions=malta)**: a search of Maltese law for "annual leave", returned as JSON. See the [documentation here](https://lexifina.com/api/global-law).
 
-legislation.mt publishes each law as a series of consolidated versions, each for a "point in time": the day from which that text applies. **Commits are dated by that day.** That is the date that decides which text governs a case, and it is also the day the amendments in that version came into force. Each amendment commit also carries the amending law's publication date, where legislation.mt gives one (`Published:`).
+Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in English or in Maltese.
 
-The record starts at each law's earliest version on legislation.mt, mostly from December 2020, when the current site began keeping versions; some laws have earlier versions. That first version is a commit labelled `Kind: consolidated`, by the Legislation Unit. It has the whole text as it stood then, with each article's margin history, so the history before that date is recorded but not as separate commits.
+**Host it yourself easily.** All it takes is git and Python, and the tools run on your machine:
 
-**Git cannot store dates before 1970.** A law whose earliest version is older is committed on 1970-01-01, one second apart and in order. Its real date is in the `Consolidated:` or `In-force:` trailer, which `tools/in_force_on.py` reads.
+```sh
+git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
+python3 tools/countries.py add malta/national/acts
+python3 tools/law.py show 2026-01-01 malta/national/acts/cap/452/2.md
+```
 
-**Corrections.** A published commit is never rewritten. Where one was wrong, a later commit labelled `Kind: correction` says so: `Corrects: <law> <from>..<to>` gives the days it applies to (an open end runs to the law's next version), `Files:` the files it sets, `Supersedes:` the commit it corrects and `Reason:` why. On 2026-11-03, 2583 laws had their first version published one day late (the version's own date is the one in its `Version:` ELI); their corrections give that day. `tools/in_force_on.py` applies corrections.
+Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
 
-## What "author" means
+## Dates
 
-The author of a commit is the law that made the change, at an address that cannot exist: `Act XXV of 2026 <act-2026-25@legislation-mt.invalid>`, `L.N. 218 of 2026 <ln-2026-218@legislation-mt.invalid>`. So `git blame` names, for each line, the law that last wrote it. One commit holds everything one law changed on one day, across every Chapter and piece of subsidiary legislation it touched (`Affecting:` trailers).
+Each commit is dated at noon, Europe/Malta, on the point in time of the legislation.mt version that holds it (the day from which that text applies), and carries that day in a trailer:
 
-A change is credited by the evidence in the consolidation itself, strongest first (`Evidence:` trailer):
-1. **margin note**: the changed article's margin history gains a new citation (`Amended by: XXV.2026.3`) — 6888 units;
-2. **law**: the law's new version cites exactly one new law anywhere — 9431 units;
-3. **date**: exactly one related Act or Legal Notice was published between the two versions — 3103 units.
-4. **commencement**: exactly one related law is marked "partly in force" on legislation.mt, so its deferred part is what took effect — 175 units;
-5. **cited earlier**: the unit's margin history already cites exactly one recent enough law, which was printed before and takes effect now — 56 units.
+- a change: `In-force:`, the point in time of the first version that shows it, with the amending law's publication day in `Published:` where legislation.mt gives one;
+- each law's earliest version on legislation.mt: `Consolidated:`. It is one commit (`Kind: consolidated`) with the whole text and each article's margin history, so earlier changes are recorded there, not as commits;
+- git cannot store dates before 1970, so the 15 earlier commits (from 28 June 1834) are dated from 1970-01-01, one second apart, with the real day in the trailer. Ask for a date with `tools/in_force_on.py`, not `git log --before`;
+- a published commit is never rewritten: the 2,583 laws whose first version was dated a day late have later `Kind: correction` commits (3,222 in all) that name the days they correct, and `tools/in_force_on.py` applies them.
 
-A law made before the previous version is never taken as the cause of a change since it: if its citation appears newly beside a unit, it has only moved between margin notes in a new typesetting. Where legislation.mt has no version for years, a change is credited to the law the margin names but dated by the first version that shows it.
-
-A change with none of these (0 units) is by the Legislation Unit and labelled `Kind: unexplained`; it is never credited to a law. Where an article's margin gains more than one citation at once, the commit is credited to the latest and the others are listed as `Also-cited:`.
-
-In total there are 5053 consolidated versions, 1965 amendment commits by 1817 amending laws, and 244 unexplained ones.
-
-## What it does not show
-
-- Text before each law's earliest version on legislation.mt, except as the margin histories list it.
-- The Maltese text. Where the two differ, the Maltese text prevails for most laws; see article 74 of the Constitution of Malta.
-- Footnotes, and the arrangement tables at the start of each Chapter.
-- Versions whose PDF could not be read (43), listed in [`data/unreadable.csv`](data/unreadable.csv).
-- Commencement that comes later than the consolidated version's date, and savings or transitional rules. These are in the amending laws themselves, at the `Source:` link of each commit.
-- Who wrote words that a later version reproduces unchanged under a new number.
-
-This is a research aid. Only the Government Gazette is authoritative, and the consolidated texts on legislation.mt, and so this repository, are not.
+Each change is credited to the Act or Legal Notice that made it (`Act XX of 2022`, `L.N. 265 of 2026`), by the evidence in the consolidation, strongest first (`Evidence:`): a new citation in the article's margin, a single new law cited in the version, a single related law published between the two versions, and two rarer rules. That gives 1,965 amendment commits by 1,817 laws; each law's first version, and the 244 changes no law can be credited with (`Kind: unexplained`), are credited to the Legislation Unit.
 
 ## How it is checked
 
-`tools/build/` holds the build as it was run. Every PDF's sha256 is in [`data/pdf-sha256.tsv`](data/pdf-sha256.tsv), and the build is deterministic: from the same PDFs it gives the same commit hashes. See [`REPRODUCE.md`](REPRODUCE.md).
+- `tools/build/` holds the build as it was run (`build.py`, `parse_pdf.py`, `docs.py`, their sha256 in `REPRODUCE.md`). From the same PDFs, whose sha256 are in [`data/pdf-sha256.tsv`](data/pdf-sha256.tsv), it gives the same commit hashes.
+- Whitespace, curly quotes, dashes and soft hyphens are normalised away, so typesetting alone never makes a change; versions whose PDF could not be read are listed, not guessed.
+- History is append-only: a wrong commit is corrected by a later one (`Corrects:`, `Supersedes:`, `Reason:`), never rewritten. See [`REPRODUCE.md`](REPRODUCE.md).
 
-## How it is built
+## What it does not show
 
-The record uses the ELI sitemap and each law's page on legislation.mt, which lists its consolidated versions and the laws related to it, and each English version's PDF. `parse_pdf.py` reads each PDF into units by their typography: bold article numbers, the margin column, centred headings and schedules. `build.py` compares consecutive versions unit by unit, credits each change as above, and writes the history with `git fast-import`. No AI model takes part in building or checking it.
+- **The Constitution of Malta**, which legislation.mt publishes apart from the Chapters, and **case law**.
+- **The Maltese text** (see above).
+- **Text before each law's earliest version on legislation.mt**, except as its margin histories list the laws that changed it.
+- **Unreadable versions**: 43 (41 of them Maltese text at the English address), listed in [`data/unreadable.csv`](data/unreadable.csv); they leave 31 laws without text.
+- **Commencement later than a version's point in time, and savings and transitional rules**: these are in the amending laws, at each commit's `Source:` link.
+- **Footnotes**, and the arrangement table at the start of each Chapter.
+
+## Sources
+
+| Source | Kind | Past versions | Notes |
+| --- | --- | --- | --- |
+| [legislation.mt](https://legislation.mt) (Legislation Unit, Government of Malta) | Official consolidated laws: Chapters and subsidiary legislation | yes, a consolidated version for each point in time | The English PDF of each version, each law's page (its versions and related laws) and the ELI sitemap; the Government Gazette is the authoritative text |
 
 ## Licence
 
-Source: legislation.mt, the Legislation Unit, Government of Malta. The texts were converted to one file per unit and arranged as commits, and the wording was not changed. The Copyright Act (Cap. 415) excludes "any written law" from literary works, subject to article 12 of the Statute Law Revision Act, 1980. **Check that article before this repository is made public.** Lexifina's own contributions (the tools, the arrangement and the commit messages) are CC0. See [`LICENSE`](LICENSE).
+See [`LICENSE`](LICENSE). The Copyright Act (Cap. 415, article 2) excludes "any written law" from literary works, save as provided in article 12 of the Statute Law Revision Act, 1980; the texts are reproduced without change to their wording. Lexifina's own contributions (tools, file arrangement, commit messages and documentation) are CC0 1.0.
 
 ## More
 
