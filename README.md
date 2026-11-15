@@ -30,7 +30,8 @@ It-test huwa bl-Ingliż, mill-verżjonijiet konsolidati Ingliżi ta’ legislati
 
 - **[Staqsi lil Claude dwar il-liġi Maltija](https://global-law.lexifina.com/v1/try_claude?country=malta)**: jiftaħ Claude bl-ewwel mistoqsija diġà lesta.
 - **[Staqsi lil ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=malta)**: l-istess mistoqsija f’ChatGPT.
-- **[Sejjaħ l-API mill-browser tiegħek](https://global-law.lexifina.com/v1/search_law?query=annual+leave&jurisdictions=malta)**: tfittxija fil-liġi Maltija għal “annual leave” (leave annwali), b’tweġiba f’JSON. Id-dokumentazzjoni tinsab [hawn](https://lexifina.com/api/global-law).
+- **[Fittex fil-liġi Maltija fis-sit tagħna](https://lexifina.com/law?country=malta&q=annual+leave)**: tfittxija għal “annual leave” (leave annwali), bit-test ta’ kull dispożizzjoni u l-verżjonijiet tagħha, mingħajr kont.
+- **[REST API għall-iżviluppaturi](https://global-law.lexifina.com/v1/search_law?query=annual+leave&jurisdiction=malta)**: l-istess tfittxija bħala JSON, mingħajr ċavetta. Id-dokumentazzjoni tinsab [hawn](https://lexifina.com/api/global-law).
 
 Iż-żewġ assistenti jaqraw ir-rekord permezz tal-konnettur b’xejn Global law (MCP, `https://global-law.lexifina.com/mcp`); l-ewwel darba, iċ-chat jagħtik il-link li jżidu. Staqsi bl-Ingliż jew bil-Malti.
 
