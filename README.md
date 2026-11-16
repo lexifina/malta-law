@@ -84,6 +84,10 @@ Ara [`LICENSE`](LICENSE). L-Att dwar id-Drittijiet tal-Awtur (Kap. 415, artikolu
 
 Din hija traduzzjoni tal-verżjoni Ingliża ([README.en.md](README.en.md)); jekk ikun hemm differenza, tipprevali l-verżjoni Ingliża.
 
+## Viżwalizzazzjonijiet
+
+- [visualisations/](visualisations/): graffs magħmula minn dan ir-repożitorju. Għadhom ma sarux.
+
 ## Aktar
 
 Mir-repożitorju [lexifina/global-law](https://github.com/lexifina/global-law) (bl-Ingliż):
