@@ -61,6 +61,7 @@ Kull bidla hija attribwita lill-Att jew lill-Avviż Legali li għamilha (`Act XX
 - `tools/build/` fih il-build kif tħaddem (`build.py`, `parse_pdf.py`, `docs.py`, bis-sha256 tagħhom f’`REPRODUCE.md`). Mill-istess PDFs, li s-sha256 tagħhom jinsab f’[`data/pdf-sha256.tsv`](data/pdf-sha256.tsv), jagħti l-istess hashes tal-commits.
 - L-ispazji, il-virgoletti kurvi, id-dashes u s-soft hyphens jiġu normalizzati, biex it-tipografija waħedha qatt ma toħloq bidla; il-verżjonijiet li l-PDF tagħhom ma setax jinqara jitniżżlu f’lista minflok ma jiġu ndovinati.
 - L-istorja tiżdied biss: commit żbaljat jiġi kkoreġut b’ieħor aktar tard (`Corrects:`, `Supersedes:`, `Reason:`) u qatt ma jinkiteb mill-ġdid. Ara [`REPRODUCE.md`](REPRODUCE.md).
+- [vulnerabilities/](vulnerabilities/README.md): żbalji possibbli fit-tfassil tal-liġi Maltija, misjuba mid-detetturi ta’ global-law u vverifikati bl-idejn.
 
 ## X’ma jurix
 

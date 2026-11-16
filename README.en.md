@@ -61,6 +61,7 @@ Each change is credited to the Act or Legal Notice that made it (`Act XX of 2022
 - `tools/build/` holds the build as it was run (`build.py`, `parse_pdf.py`, `docs.py`, their sha256 in `REPRODUCE.md`). From the same PDFs, whose sha256 are in [`data/pdf-sha256.tsv`](data/pdf-sha256.tsv), it gives the same commit hashes.
 - Whitespace, curly quotes, dashes and soft hyphens are normalised away, so typesetting alone never makes a change; versions whose PDF could not be read are listed, not guessed.
 - History is append-only: a wrong commit is corrected by a later one (`Corrects:`, `Supersedes:`, `Reason:`), never rewritten. See [`REPRODUCE.md`](REPRODUCE.md).
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in Maltese law, found by global-law's detectors and checked by hand.
 
 ## What it does not show
 
