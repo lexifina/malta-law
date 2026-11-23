@@ -1,40 +1,74 @@
 {
- "generated": "2026-11-23T09:54:41Z",
+ "generated": "2026-11-23T21:32:53Z",
  "latest": {
   "gazette|malta/national/acts": {
-   "attempt": 1,
-   "audit": null,
+   "attempt": 2,
+   "audit": {
+    "match_neither": 1,
+    "match_new": 2,
+    "match_old": 0,
+    "method": "the Acts and Legal Notices as published: legislation.mt's PDF of each (/eli/<act|ln>/<year>/<number>/eng/pdf, eli:legal_value official: the Government Gazette's text; check, update and verify read the consolidated laws): a seeded sample of the commits crediting an Act or Legal Notice of the window; every run of words a change put in a file (letters and digits; the consolidation's margin history and cross references not counted) found in the amending law as published; a new law's every unit found in the Legal Notice or Act that made it",
+    "rows": [
+     {
+      "commit": "L.N. 303 of 2026: S.L. 499.67, S.L. 65.32",
+      "id": "",
+      "published": false,
+      "read": "https://legislation.mt/eli/ln/2026/303/eng/pdf",
+      "sha": "6e0199898483",
+      "verdict": "match_new"
+     },
+     {
+      "commit": "L.N. 301 of 2026: S.L. 552.15",
+      "id": "",
+      "published": false,
+      "read": "https://legislation.mt/eli/ln/2026/301/eng/pdf",
+      "sha": "2e76a60ab5bd",
+      "verdict": "match_new"
+     },
+     {
+      "commit": "L.N. 302 of 2026: S.L. 499.74",
+      "id": "",
+      "published": false,
+      "read": "https://legislation.mt/eli/ln/2026/302/eng/pdf",
+      "sha": "74f576d30c75",
+      "verdict": "match_neither",
+      "why": "3 not in the instrument as published, e.g. 11.md: sl 49974 22 user charges to vehicles"
+     }
+    ],
+    "sampled": 3,
+    "unread": 0
+   },
    "census": {
     "current": null,
     "gone": null,
     "held": null,
     "newest_at_source": "L.N. 326 of 2026",
-    "newest_in_repo": "L.N. 265 of 2026",
+    "newest_in_repo": "L.N. 303 of 2026",
     "pending": null,
-    "repo": 4,
-    "source_in_scope": 74
+    "repo": 3,
+    "source_in_scope": 29
    },
-   "check_id": "mt-gazette-20261123T095225Z",
+   "check_id": "mt-gazette-20261123T213228Z",
    "commits": null,
    "corpus": "malta/national/acts",
    "error": null,
-   "finished": "2026-11-23T09:54:41Z",
+   "finished": "2026-11-23T21:32:52Z",
    "flags": [
     {
-     "detail": "39 changes consolidated at legislation.mt over 7 days ago are not here yet",
-     "flag": "publish-lag"
+     "detail": "1 of 3 read again by a second route disagree",
+     "flag": "audit-disagrees"
     }
    ],
-   "gap": 70,
-   "note": "Acts and Legal Notices published from 2026-10-06 (the newest version held here) on: 74, of which 4 are held here (credited by a commit, or every law they name holds a version from their day on); the sitemap lists 2,043 Acts and 14,364 Legal Notices in all, the older ones held through the consolidated versions or before this repository's history; pages read this check: 82 Acts and Legal Notices, 0 laws; first check: the sitemap's Acts and Legal Notices were recorded as the baseline for the next check",
+   "gap": 26,
+   "note": "Acts and Legal Notices published from 2026-10-23 (the newest version held here) on: 29, of which 3 are held here (credited by a commit, or every law they name holds a version from their day on); the sitemap lists 2,043 Acts and 14,364 Legal Notices in all, the older ones held through the consolidated versions or before this repository's history; pages read this check: 0 Acts and Legal Notices, 0 laws",
    "outcome": "no-change",
    "published": {
     "added": [],
     "changed": [],
     "removed": []
    },
-   "requests": 84,
-   "runner": "lawwatch malta (f57df347c4)",
+   "requests": 9,
+   "runner": "lawwatch malta (6797b44582)",
    "schema": "lexifina-check/1",
    "seen": {
     "added": [],
@@ -43,45 +77,119 @@
    },
    "snapshot": "2026-11-20",
    "source": "gazette",
-   "started": "2026-11-23T09:52:25Z",
+   "started": "2026-11-23T21:32:28Z",
    "unexplained": 0,
-   "verify": null
+   "update": {
+    "added": 0,
+    "changed": 0,
+    "commits": 0,
+    "corrections": 0,
+    "kept": 0,
+    "no_new_version": 0,
+    "read": 0
+   },
+   "verify": {
+    "cycle_days": 1,
+    "examples": [],
+    "files_checked": 87,
+    "laws_named": 4,
+    "method": "every law named by an Act or Legal Notice of the window that this repository holds (credited by a commit, or every law it names holds a version from its day on), each check: legislation.mt's ELI PDF of the version held (/eli/<law>/<YYYYMMDD>/eng/pdf), read with the builder (parse_pdf.py, build.version_files, PyMuPDF 2.0), against the law's folder at the tip, file for file, spacing aside (the builder's rule); differences are corrected by legislation-mt's next update()",
+    "ok": true,
+    "unread": 0,
+    "versions_checked": 4,
+    "versions_differ": 0
+   }
   },
   "legislation-mt|malta/national/acts": {
-   "attempt": 1,
+   "attempt": 2,
    "audit": null,
    "census": {
-    "current": 5000,
+    "current": 5054,
     "gone": 0,
-    "held": 5053,
+    "held": 5058,
     "newest_at_source": "S.L. 552.15, entry of 2026-11-20",
     "newest_in_repo": "S.L. 378.12, version of 2026-10-06",
     "out_of_scope": 192,
-    "pending": 53,
-    "repo": 5053,
+    "pending": 4,
+    "repo": 5058,
     "source_in_scope": 5089
    },
-   "check_id": "mt-legislation-mt-20261123T023312Z",
-   "commits": null,
+   "check_id": "mt-legislation-mt-20261123T212128Z",
+   "commits": {
+    "count": 41,
+    "from": "5b4cb29d6cc1dcfc1af6f9ae9172c7b210ca81da",
+    "to": "ecedd7b510658c2e81288aff4a119fdb489e46ec"
+   },
    "corpus": "malta/national/acts",
    "error": null,
-   "finished": "2026-11-23T02:35:45Z",
-   "flags": [
-    {
-     "detail": "40 laws new or changed at legislation.mt over 7 days ago are not here yet",
-     "flag": "publish-lag"
-    }
-   ],
-   "gap": 93,
-   "note": "5092 Chapters and pieces of subsidiary legislation in the ELI sitemap; pages read this check: 83; a held law whose entry has not changed since 2026-10-06 (the newest version held: the repository read every law after it) counts as current without reading its page; also in the sitemap, not counted as gaps: 14,365 Legal Notices, 2,043 Acts, 190 local council by-laws (eli/lcbl), eli/slra: 1 (Acts and Legal Notices: the gazette source; by-laws and the other entries are not Chapters or subsidiary legislation, and eli/slra shows no law); first check: the sitemap's entries were recorded as the baseline for the next check",
+   "finished": "2026-11-23T21:21:37Z",
+   "flags": [],
+   "gap": 39,
+   "note": "5092 Chapters and pieces of subsidiary legislation in the ELI sitemap; pages read this check: 0; a held law whose entry has not changed since 2026-10-06 (the newest version held: the repository read every law after it) counts as current without reading its page; also in the sitemap, not counted as gaps: 14,365 Legal Notices, 2,043 Acts, 190 local council by-laws (eli/lcbl), eli/slra: 1 (Acts and Legal Notices: the gazette source; by-laws and the other entries are not Chapters or subsidiary legislation, and eli/slra shows no law)",
    "outcome": "no-change",
    "published": {
-    "added": [],
-    "changed": [],
+    "added": [
+     "S.L. 327.765",
+     "S.L. 327.766",
+     "S.L. 545.46",
+     "S.L. 549.185",
+     "S.L. 549.186"
+    ],
+    "changed": [
+     "Cap. 164",
+     "Cap. 281",
+     "Cap. 345",
+     "Cap. 370",
+     "Cap. 371",
+     "Cap. 403",
+     "Cap. 487",
+     "Cap. 514",
+     "Cap. 561",
+     "S.L. 220.3",
+     "S.L. 260.4",
+     "S.L. 327.126",
+     "S.L. 327.207",
+     "S.L. 327.209",
+     "S.L. 327.300",
+     "S.L. 327.330",
+     "S.L. 327.539",
+     "S.L. 327.541",
+     "S.L. 327.669",
+     "S.L. 330.6",
+     "S.L. 330.9",
+     "S.L. 345.19",
+     "S.L. 345.20",
+     "S.L. 345.24",
+     "S.L. 345.27",
+     "S.L. 370.36",
+     "S.L. 370.39",
+     "S.L. 370.40",
+     "S.L. 370.42",
+     "S.L. 370.48",
+     "S.L. 371.18",
+     "S.L. 371.19",
+     "S.L. 371.23",
+     "S.L. 376.8",
+     "S.L. 378.10",
+     "S.L. 403.15",
+     "S.L. 403.17",
+     "S.L. 403.24",
+     "S.L. 411.4",
+     "S.L. 487.8",
+     "S.L. 499.61",
+     "S.L. 499.67",
+     "S.L. 499.74",
+     "S.L. 514.9",
+     "S.L. 545.33",
+     "S.L. 552.15",
+     "S.L. 623.7",
+     "S.L. 627.3",
+     "S.L. 65.32"
+    ],
     "removed": []
    },
-   "requests": 84,
-   "runner": "lawwatch malta (f57df347c4)",
+   "requests": 393,
+   "runner": "lawwatch malta (6797b44582)",
    "schema": "lexifina-check/1",
    "seen": {
     "added": [],
@@ -90,8 +198,22 @@
    },
    "snapshot": "2026-11-20",
    "source": "legislation-mt",
-   "started": "2026-11-23T02:33:12Z",
+   "started": "2026-11-23T21:21:28Z",
    "unexplained": 0,
+   "update": {
+    "added": 5,
+    "changed": 35,
+    "commits": 41,
+    "corrections": 0,
+    "documentation": {
+     "added": 5,
+     "out_of_force": 3,
+     "updated": 49
+    },
+    "kept": 0,
+    "no_new_version": 0,
+    "read": 54
+   },
    "verify": null
   }
  },
