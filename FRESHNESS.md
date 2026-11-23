@@ -14,7 +14,7 @@ Kif global-law ikejjel kemm hu aġġornat kull pajjiż: [global-law FRESHNESS.md
 
 ### Gazzetta tal-Gvern: Atti u Avviżi Legali (kif elenkati fuq legislation.mt) · `malta/national/acts`
 
-- L-aħħar darba li nqara s-sors uffiċjali u kull liġi miżmuma hawn ġiet imqabbla miegħu: **2026-11-23 21:32 UTC**.
+- L-aħħar darba li nqara s-sors uffiċjali u kull liġi miżmuma hawn ġiet imqabbla miegħu: **2026-11-23 21:42 UTC**.
 - Mhux ippubblikati: 26 (is-sors għadu ma ppubblikax it-test tiegħu: 26); mingħajr raġuni: 0.
 
 Fid-dettall: [monitoring/](monitoring/README.md). Għall-programmi: [data/checks/latest.json](data/checks/latest.json).

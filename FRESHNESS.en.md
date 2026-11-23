@@ -14,7 +14,7 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 ### Government Gazette: Acts and Legal Notices (as listed on legislation.mt) · `malta/national/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-23 21:32 UTC**.
+- The official source last read and every act held here checked against it: **2026-11-23 21:42 UTC**.
 - Not published: 26 (the source has not published its text yet: 26); with no reason: 0.
 
 In detail: [monitoring/](monitoring/README.en.md). For programs: [data/checks/latest.json](data/checks/latest.json).
