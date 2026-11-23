@@ -1,0 +1,99 @@
+{
+ "generated": "2026-11-23T09:54:41Z",
+ "latest": {
+  "gazette|malta/national/acts": {
+   "attempt": 1,
+   "audit": null,
+   "census": {
+    "current": null,
+    "gone": null,
+    "held": null,
+    "newest_at_source": "L.N. 326 of 2026",
+    "newest_in_repo": "L.N. 265 of 2026",
+    "pending": null,
+    "repo": 4,
+    "source_in_scope": 74
+   },
+   "check_id": "mt-gazette-20261123T095225Z",
+   "commits": null,
+   "corpus": "malta/national/acts",
+   "error": null,
+   "finished": "2026-11-23T09:54:41Z",
+   "flags": [
+    {
+     "detail": "39 changes consolidated at legislation.mt over 7 days ago are not here yet",
+     "flag": "publish-lag"
+    }
+   ],
+   "gap": 70,
+   "note": "Acts and Legal Notices published from 2026-10-06 (the newest version held here) on: 74, of which 4 are held here (credited by a commit, or every law they name holds a version from their day on); the sitemap lists 2,043 Acts and 14,364 Legal Notices in all, the older ones held through the consolidated versions or before this repository's history; pages read this check: 82 Acts and Legal Notices, 0 laws; first check: the sitemap's Acts and Legal Notices were recorded as the baseline for the next check",
+   "outcome": "no-change",
+   "published": {
+    "added": [],
+    "changed": [],
+    "removed": []
+   },
+   "requests": 84,
+   "runner": "lawwatch malta (f57df347c4)",
+   "schema": "lexifina-check/1",
+   "seen": {
+    "added": [],
+    "changed": [],
+    "removed": []
+   },
+   "snapshot": "2026-11-20",
+   "source": "gazette",
+   "started": "2026-11-23T09:52:25Z",
+   "unexplained": 0,
+   "verify": null
+  },
+  "legislation-mt|malta/national/acts": {
+   "attempt": 1,
+   "audit": null,
+   "census": {
+    "current": 5000,
+    "gone": 0,
+    "held": 5053,
+    "newest_at_source": "S.L. 552.15, entry of 2026-11-20",
+    "newest_in_repo": "S.L. 378.12, version of 2026-10-06",
+    "out_of_scope": 192,
+    "pending": 53,
+    "repo": 5053,
+    "source_in_scope": 5089
+   },
+   "check_id": "mt-legislation-mt-20261123T023312Z",
+   "commits": null,
+   "corpus": "malta/national/acts",
+   "error": null,
+   "finished": "2026-11-23T02:35:45Z",
+   "flags": [
+    {
+     "detail": "40 laws new or changed at legislation.mt over 7 days ago are not here yet",
+     "flag": "publish-lag"
+    }
+   ],
+   "gap": 93,
+   "note": "5092 Chapters and pieces of subsidiary legislation in the ELI sitemap; pages read this check: 83; a held law whose entry has not changed since 2026-10-06 (the newest version held: the repository read every law after it) counts as current without reading its page; also in the sitemap, not counted as gaps: 14,365 Legal Notices, 2,043 Acts, 190 local council by-laws (eli/lcbl), eli/slra: 1 (Acts and Legal Notices: the gazette source; by-laws and the other entries are not Chapters or subsidiary legislation, and eli/slra shows no law); first check: the sitemap's entries were recorded as the baseline for the next check",
+   "outcome": "no-change",
+   "published": {
+    "added": [],
+    "changed": [],
+    "removed": []
+   },
+   "requests": 84,
+   "runner": "lawwatch malta (f57df347c4)",
+   "schema": "lexifina-check/1",
+   "seen": {
+    "added": [],
+    "changed": [],
+    "removed": []
+   },
+   "snapshot": "2026-11-20",
+   "source": "legislation-mt",
+   "started": "2026-11-23T02:33:12Z",
+   "unexplained": 0,
+   "verify": null
+  }
+ },
+ "schema": "lexifina-check/1"
+}
