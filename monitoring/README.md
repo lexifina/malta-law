@@ -6,19 +6,21 @@
 
 Kif global-law jimmonitorja kull pajjiż: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). Din il-paġna hija l-istess għal Malta biss: kull darba li jinqara sors uffiċjali, meta, u x’ħareġ minnu (liġijiet miżjuda, mibdula u mneħħija). Il-forma li tinqara mill-magni hija [data/checks/](../data/checks/) (JSON Lines, skema `lexifina-check/1`), f’`git log` bħala commits `Kind: check`, u xahar b’xahar f’[checks/](checks/).
 
-**L-aħħar verifika:** 2026-11-23 21:42 UTC, Gazzetta tal-Gvern: Atti u Avviżi Legali (kif elenkati fuq legislation.mt): indirizzi moqrija: 6; 0 miżjuda, 0 mibdula, 0 imneħħija; l-ebda bidla; mhux ippubblikati: 26, minnhom mingħajr raġuni: 0. Twissijiet: `audit-disagrees`.
+**L-aħħar verifika:** 2026-11-24 00:04 UTC, Gazzetta tal-Gvern: Atti u Avviżi Legali (kif elenkati fuq legislation.mt): indirizzi moqrija: 2; 0 miżjuda, 0 mibdula, 0 imneħħija; l-ebda bidla; mhux ippubblikati: 26, minnhom mingħajr raġuni: 0. Twissijiet: `audit-disagrees`.
 
 ## Sorsi
 
 | Sors | Folders | Kemm-il darba | L-aħħar verifika li rnexxiet | L-aħħar riżultat | Stat |
 | --- | --- | --- | --- | --- | --- |
-| [legislation.mt: Liġijiet ta’ Malta (Kapitli u leġiżlazzjoni sussidjarja)](https://legislation.mt/Legislation) | `cap/`, `sl/`, `laws.csv` | kuljum | 2026-11-23 21:21 UTC | il-verifika falliet | taħt osservazzjoni: jitqabblu l-verżjonijiet konsolidati bl-Ingliż, għax dan ir-repożitorju għandu t-test Ingliż |
-| [Gazzetta tal-Gvern: Atti u Avviżi Legali (kif elenkati fuq legislation.mt)](https://legislation.mt/eli/eli-update-feed.atom) | `cap/`, `sl/` | kuljum | 2026-11-23 21:42 UTC | l-ebda bidla | taħt osservazzjoni: is-sit tal-Gazzetta stess (gov.mt) iwieġeb lill-qarrejja awtomatiċi bi sfida tal-browser, għalhekk l-Atti u l-Avviżi Legali tagħha jinqraw fuq legislation.mt; il-bidliet tagħhom jaslu f’dan ir-repożitorju permezz tal-verżjonijiet konsolidati ta’ legislation.mt |
+| [legislation.mt: Liġijiet ta’ Malta (Kapitli u leġiżlazzjoni sussidjarja)](https://legislation.mt/Legislation) | `cap/`, `sl/`, `laws.csv` | kuljum | 2026-11-24 00:04 UTC | l-ebda bidla | taħt osservazzjoni: jitqabblu l-verżjonijiet konsolidati bl-Ingliż, għax dan ir-repożitorju għandu t-test Ingliż |
+| [Gazzetta tal-Gvern: Atti u Avviżi Legali (kif elenkati fuq legislation.mt)](https://legislation.mt/eli/eli-update-feed.atom) | `cap/`, `sl/` | kuljum | 2026-11-24 00:04 UTC | l-ebda bidla | taħt osservazzjoni: is-sit tal-Gazzetta stess (gov.mt) iwieġeb lill-qarrejja awtomatiċi bi sfida tal-browser, għalhekk l-Atti u l-Avviżi Legali tagħha jinqraw fuq legislation.mt; il-bidliet tagħhom jaslu f’dan ir-repożitorju permezz tal-verżjonijiet konsolidati ta’ legislation.mt |
 
 ## L-aħħar 30 jum
 
 | Bdiet (UTC) | Sors | Moqrija | Miżjuda | Mibdula | Imneħħija | Mhux ippubblikati (mingħajr raġuni) | Riżultat | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-24 00:04](checks/2026-11.md#mt-gazette-20261124t000420z) | gazette | 2 | 0 | 0 | 0 | 26 (0) | l-ebda bidla `audit-disagrees` | — |
+| [2026-11-23 21:43](checks/2026-11.md#mt-legislation-mt-20261123t214330z) | legislation-mt | 5068 | 0 | 0 | 0 | 39 (0) | l-ebda bidla `verify-differ` `audit-disagrees` | — |
 | [2026-11-23 21:42](checks/2026-11.md#mt-gazette-20261123t214212z) | gazette | 6 | 0 | 0 | 0 | 26 (0) | l-ebda bidla `audit-disagrees` | — |
 | [2026-11-23 21:35](checks/2026-11.md#mt-legislation-mt-20261123t213542z) | legislation-mt | 233 | 0 | 0 | 0 | 39 (0) | il-verifika falliet | — |
 | [2026-11-23 21:32](checks/2026-11.md#mt-gazette-20261123t213228z) | gazette | 9 | 0 | 0 | 0 | 26 (0) | l-ebda bidla `audit-disagrees` | — |
