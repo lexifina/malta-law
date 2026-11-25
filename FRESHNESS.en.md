@@ -8,14 +8,14 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 ### legislation.mt: Laws of Malta (Chapters and subsidiary legislation) · `malta/national/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-24 00:25 UTC**.
-- Acts held here: 5 058; current at the source: 5 052; changed at the source since the version held here: 6; no longer at the source: 0.
+- The official source last read and every act held here checked against it: **2026-11-25 05:27 UTC**.
+- Acts held here: 5 058; current at the source: 5 054; changed at the source since the version held here: 4; no longer at the source: 0.
 - Compared with the source in this read: 722 of the 5 058 acts held here; the others were not compared in this read (see the check's note).
-- Not published: 41 (a step failed: 35, the source has not published its text yet: 3, outside this repository's scope: 1, changed at the source since the version held here: 2); with no reason: 0.
+- Not published: 39 (a step failed: 35, the source has not published its text yet: 3, outside this repository's scope: 1); with no reason: 0.
 
 ### Government Gazette: Acts and Legal Notices (as listed on legislation.mt) · `malta/national/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-24 00:25 UTC**.
+- The official source last read and every act held here checked against it: **2026-11-25 05:28 UTC**.
 - Not published: 26 (the source has not published its text yet: 26); with no reason: 0.
 
 In detail: [monitoring/](monitoring/README.en.md). For programs: [data/checks/latest.json](data/checks/latest.json).
