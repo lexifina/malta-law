@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T05:28:12Z",
+ "generated": "2026-11-26T05:31:33Z",
  "latest": {
   "gazette|malta/national/acts": {
    "attempt": 1,
@@ -10,29 +10,29 @@
     "method": "the Acts and Legal Notices as published: legislation.mt's PDF of each (/eli/<act|ln>/<year>/<number>/eng/pdf, eli:legal_value official: the Government Gazette's text; check, update and verify read the consolidated laws): a seeded sample of the commits crediting an Act or Legal Notice of the window; every run of words a change put in a file (letters and digits; the consolidation's margin history and cross references not counted) found in the amending law as published; a new law's every unit found in the Legal Notice or Act that made it",
     "rows": [
      {
-      "commit": "L.N. 301 of 2026: S.L. 552.15",
+      "commit": "Act XX of 2026: Cap. 480",
       "id": "",
       "published": false,
-      "read": "https://legislation.mt/eli/ln/2026/301/eng/pdf",
-      "sha": "2e76a60ab5bd",
+      "read": "https://legislation.mt/eli/act/2026/20/eng/pdf",
+      "sha": "06d69cb727d7",
       "verdict": "match_new"
      },
      {
-      "commit": "L.N. 303 of 2026: S.L. 499.67, S.L. 65.32",
+      "commit": "L.N. 304 of 2026: S.L. 420.6",
       "id": "",
       "published": false,
-      "read": "https://legislation.mt/eli/ln/2026/303/eng/pdf",
-      "sha": "6e0199898483",
+      "read": "https://legislation.mt/eli/ln/2026/304/eng/pdf",
+      "sha": "7b3ac01bf264",
       "verdict": "match_new"
      },
      {
-      "commit": "L.N. 302 of 2026: S.L. 499.74",
+      "commit": "L.N. 305 of 2026: S.L. 623.11, S.L. 623.6",
       "id": "",
       "published": false,
-      "read": "https://legislation.mt/eli/ln/2026/302/eng/pdf",
-      "sha": "74f576d30c75",
+      "read": "https://legislation.mt/eli/ln/2026/305/eng/pdf",
+      "sha": "759fdd6b6224",
       "verdict": "match_neither",
-      "why": "3 not in the instrument as published, e.g. 11.md: sl 49974 22 user charges to vehicles"
+      "why": "3 not in the instrument as published, e.g. 10.md: sl 62306 14 third party property"
      }
     ],
     "sampled": 3,
@@ -43,41 +43,45 @@
     "gone": null,
     "held": null,
     "newest_at_source": "L.N. 326 of 2026",
-    "newest_in_repo": "L.N. 303 of 2026",
+    "newest_in_repo": "L.N. 305 of 2026",
     "pending": null,
     "repo": 3,
-    "source_in_scope": 29
+    "source_in_scope": 26
    },
-   "check_id": "mt-gazette-20261125T052755Z",
+   "check_id": "mt-gazette-20261126T053054Z",
    "commits": null,
    "corpus": "malta/national/acts",
    "error": null,
-   "finished": "2026-11-25T05:28:11Z",
+   "finished": "2026-11-26T05:31:32Z",
    "flags": [
     {
      "detail": "1 of 3 read again by a second route disagree",
      "flag": "audit-disagrees"
     }
    ],
-   "gap": 26,
-   "note": "Acts and Legal Notices published from 2026-10-23 (the newest version held here) on: 29, of which 3 are held here (credited by a commit, or every law they name holds a version from their day on); the sitemap lists 2,043 Acts and 14,364 Legal Notices in all, the older ones held through the consolidated versions or before this repository's history; pages read this check: 0 Acts and Legal Notices, 0 laws",
-   "outcome": "no-change",
+   "gap": 23,
+   "note": "Acts and Legal Notices published from 2026-10-30 (the newest version held here) on: 26, of which 3 are held here (credited by a commit, or every law they name holds a version from their day on); the sitemap lists 2,043 Acts and 14,364 Legal Notices in all, the older ones held through the consolidated versions or before this repository's history; pages read this check: 3 Acts and Legal Notices, 0 laws",
+   "outcome": "changed",
    "published": {
     "added": [],
     "changed": [],
     "removed": []
    },
-   "requests": 5,
+   "requests": 9,
    "runner": "lawwatch malta (9584dc4cc0)",
    "schema": "lexifina-check/1",
    "seen": {
     "added": [],
-    "changed": [],
+    "changed": [
+     "Act XX of 2026",
+     "L.N. 304 of 2026",
+     "L.N. 305 of 2026"
+    ],
     "removed": []
    },
    "snapshot": "2026-11-20",
    "source": "gazette",
-   "started": "2026-11-25T05:27:55Z",
+   "started": "2026-11-26T05:30:54Z",
    "unexplained": 0,
    "update": {
     "added": 0,
@@ -91,7 +95,7 @@
    "verify": {
     "cycle_days": 1,
     "examples": [],
-    "files_checked": 87,
+    "files_checked": 148,
     "laws_named": 4,
     "method": "every law named by an Act or Legal Notice of the window that this repository holds (credited by a commit, or every law it names holds a version from its day on), each check: legislation.mt's ELI PDF of the version held (/eli/<law>/<YYYYMMDD>/eng/pdf), read with the builder (parse_pdf.py, build.version_files, PyMuPDF 2.0), against the law's folder at the tip, file for file, spacing aside (the builder's rule); differences are corrected by legislation-mt's next update()",
     "ok": true,
@@ -103,123 +107,135 @@
   "legislation-mt|malta/national/acts": {
    "attempt": 1,
    "audit": {
-    "match_neither": 4,
-    "match_new": 1,
+    "match_neither": 2,
+    "match_new": 3,
     "match_old": 0,
     "method": "the Acts and Legal Notices as published: legislation.mt's PDF of each (/eli/<act|ln>/<year>/<number>/eng/pdf, eli:legal_value official: the Government Gazette's text; check, update and verify read the consolidated laws): changes this check published, then a seeded sample of the repository's amendment commits since 2024; every run of words a change put in a file (letters and digits; the consolidation's margin history and cross references not counted) found in the amending law as published; a new law's every unit found in the Legal Notice or Act that made it",
     "rows": [
      {
-      "commit": "L.N. 156 of 2025: S.L. 370.48",
-      "id": "",
-      "published": false,
-      "read": "https://legislation.mt/eli/ln/2025/156/eng/pdf",
-      "sha": "aa7eb40ff819",
-      "verdict": "match_neither",
-      "why": "1 not in the instrument as published, e.g. 5.md: paragraph a and any other undertakings included in the"
-     },
-     {
-      "commit": "Act XXIV of 2024: Cap. 515",
-      "id": "",
-      "published": false,
-      "read": "https://legislation.mt/eli/act/2024/24/eng/pdf",
-      "sha": "d5c7b4281a04",
-      "verdict": "match_neither",
-      "why": "1 not in the instrument as published, e.g. 11.md: deleted by act xxiv202410"
-     },
-     {
-      "commit": "L.N. 22 of 2025: S.L. 549.7",
-      "id": "",
-      "published": false,
-      "read": "https://legislation.mt/eli/ln/2025/22/eng/pdf",
-      "sha": "3a87789dc87f",
-      "verdict": "match_neither",
-      "why": "2 not in the instrument as published, e.g. schedule-c.md: streams tonne total cost 2022 2023 2024 2025 2026 2027 2028 "
-     },
-     {
-      "commit": "L.N. 197 of 2026: S.L. 370.34",
-      "id": "",
-      "published": false,
-      "read": "https://legislation.mt/eli/ln/2026/197/eng/pdf",
-      "sha": "710997043cef",
+      "commit": "Act XX of 2026: Cap. 480",
+      "id": "Cap. 480",
+      "published": true,
+      "read": "https://legislation.mt/eli/act/2026/20/eng/pdf",
       "verdict": "match_new"
      },
      {
-      "commit": "L.N. 136 of 2024: S.L. 327.616",
+      "commit": "L.N. 304 of 2026: S.L. 420.6",
+      "id": "S.L. 420.6",
+      "published": true,
+      "read": "https://legislation.mt/eli/ln/2026/304/eng/pdf",
+      "verdict": "match_new"
+     },
+     {
+      "commit": "L.N. 305 of 2026: S.L. 623.11, S.L. 623.6",
+      "id": "S.L. 623.11,S.L. 623.6",
+      "published": true,
+      "read": "https://legislation.mt/eli/ln/2026/305/eng/pdf",
+      "verdict": "match_neither",
+      "why": "13 not in the instrument as published, e.g. 10.md: sl 62306 14 third party property"
+     },
+     {
+      "commit": "L.N. 239 of 2026: Cap. 568",
       "id": "",
       "published": false,
-      "read": "https://legislation.mt/eli/ln/2024/136/eng/pdf",
-      "sha": "f7ad66094c90",
+      "read": "https://legislation.mt/eli/ln/2026/239/eng/pdf",
+      "sha": "b6a55c618383",
+      "verdict": "match_new"
+     },
+     {
+      "commit": "L.N. 112 of 2026: S.L. 452.73, S.L. 452.75",
+      "id": "",
+      "published": false,
+      "read": "https://legislation.mt/eli/ln/2026/112/eng/pdf",
+      "sha": "c6b882fa08cd",
       "verdict": "match_neither",
-      "why": "5 not in the instrument as published, e.g. 1.md: 2004"
+      "why": "1 not in the instrument as published, e.g. 2.md: establishment of wages council there shall be a wages counci"
      }
     ],
     "sampled": 5,
     "unread": 0
    },
    "census": {
-    "checked": 722,
+    "checked": 723,
     "current": 5054,
     "gone": 0,
     "held": 5058,
-    "newest_at_source": "S.L. 552.15, entry of 2026-11-20",
+    "newest_at_source": "S.L. 623.11, entry of 2026-11-24",
     "newest_in_repo": "S.L. 552.15, version of 2026-10-23",
     "out_of_scope": 192,
     "pending": 4,
     "repo": 5058,
     "source_in_scope": 5089
    },
-   "check_id": "mt-legislation-mt-20261125T050821Z",
-   "commits": null,
+   "check_id": "mt-legislation-mt-20261126T051013Z",
+   "commits": {
+    "count": 4,
+    "from": "e13476ca366042c4038382d3e2d7afa4c5f4aaca",
+    "to": "8af0d6bd6cc1d0e24498793b9b350b996ba395fb"
+   },
    "corpus": "malta/national/acts",
    "error": null,
-   "finished": "2026-11-25T05:27:55Z",
+   "finished": "2026-11-26T05:30:54Z",
    "flags": [
     {
-     "detail": "4 of 5 read again by a second route disagree",
+     "detail": "2 of 5 read again by a second route disagree",
      "flag": "audit-disagrees"
     }
    ],
    "gap": 39,
-   "note": "5092 Chapters and pieces of subsidiary legislation in the ELI sitemap; pages read this check: 0; a held law whose entry has not changed since 2026-10-23 (the newest version held: the repository read every law after it) counts as current without reading its page; also in the sitemap, not counted as gaps: 14,365 Legal Notices, 2,043 Acts, 190 local council by-laws (eli/lcbl), eli/slra: 1 (Acts and Legal Notices: the gazette source; by-laws and the other entries are not Chapters or subsidiary legislation, and eli/slra shows no law)",
-   "outcome": "no-change",
+   "note": "5092 Chapters and pieces of subsidiary legislation in the ELI sitemap; pages read this check: 4; a held law whose entry has not changed since 2026-10-23 (the newest version held: the repository read every law after it) counts as current without reading its page; also in the sitemap, not counted as gaps: 14,365 Legal Notices, 2,043 Acts, 190 local council by-laws (eli/lcbl), eli/slra: 1 (Acts and Legal Notices: the gazette source; by-laws and the other entries are not Chapters or subsidiary legislation, and eli/slra shows no law)",
+   "outcome": "changed",
    "published": {
     "added": [],
-    "changed": [],
+    "changed": [
+     "Cap. 480",
+     "S.L. 420.6",
+     "S.L. 623.11",
+     "S.L. 623.6"
+    ],
     "removed": []
    },
-   "requests": 729,
+   "requests": 743,
    "runner": "lawwatch malta (9584dc4cc0)",
    "schema": "lexifina-check/1",
    "seen": {
     "added": [],
-    "changed": [],
+    "changed": [
+     "Cap. 480",
+     "S.L. 420.6",
+     "S.L. 623.6",
+     "S.L. 623.11"
+    ],
     "removed": []
    },
-   "snapshot": "2026-11-20",
+   "snapshot": "2026-11-24",
    "source": "legislation-mt",
-   "started": "2026-11-25T05:08:21Z",
+   "started": "2026-11-26T05:10:13Z",
    "unexplained": 0,
    "update": {
     "added": 0,
-    "changed": 0,
-    "commits": 0,
+    "changed": 3,
+    "commits": 4,
     "corrections": 0,
+    "documentation": {
+     "added": 0,
+     "out_of_force": 2,
+     "updated": 4
+    },
     "kept": 0,
     "no_new_version": 0,
-    "read": 0
+    "read": 4
    },
    "verify": {
     "cycle_days": 7,
-    "examples": [
-     "S.L. 37.9: not read (https://legislation.mt/eli/sl/37.9/20200101/eng/pdf: not a PDF)"
-    ],
-    "files_checked": 5835,
+    "examples": [],
+    "files_checked": 6557,
     "laws_held": 5058,
     "method": "a rotating sweep, a seventh of the held laws a check: each law's version held (laws.csv's newest, or the newest readable one) read from legislation.mt's ELI PDF (/eli/<law>/<YYYYMMDD>/eng/pdf, the file /getpdf/<snapshot> serves), parsed by the builder (parse_pdf.py with PyMuPDF 2.0, as the build; a PDF already read is not parsed again) and rendered (build.version_files) against the law's folder at the tip, file for file, spacing aside (the builder's rule: typesetting alone is never a change)",
-    "ok": false,
+    "ok": true,
     "swept": 723,
-    "unread": 1,
-    "versions_checked": 722,
+    "unread": 0,
+    "versions_checked": 723,
     "versions_differ": 0
    }
   }
