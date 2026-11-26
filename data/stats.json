@@ -1,28 +1,28 @@
 {
- "amending_laws": 1851,
- "amendment": 1999,
+ "amending_laws": 1854,
+ "amendment": 2002,
  "chapters": 562,
- "commits": 10547,
+ "commits": 10553,
  "consolidated": 5058,
  "evidence": {
   "cited earlier": 56,
   "commencement": 175,
-  "date": 3114,
-  "law": 9656,
-  "margin note": 7015
+  "date": 3118,
+  "law": 9677,
+  "margin note": 7048
  },
  "evidence_cited": 56,
  "evidence_commencement": 175,
- "evidence_date": 3114,
- "evidence_law": 9656,
- "evidence_margin": 7015,
+ "evidence_date": 3118,
+ "evidence_law": 9677,
+ "evidence_margin": 7048,
  "evidence_none": 0,
  "first": "1834-06-28",
- "last": "2026-10-23",
+ "last": "2026-10-30",
  "laws": 5089,
  "subsidiary": 4527,
  "today": "2026-10-28",
  "unexplained": 245,
  "unreadable": 43,
- "versions": 8252
+ "versions": 8258
 }
