@@ -6,19 +6,21 @@
 
 How global-law monitors every country: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). This page is the same for Malta only: every time an official source is read, when, and what came of it (acts added, changed and removed). The machine-readable form is [data/checks/](../data/checks/) (JSON Lines, schema `lexifina-check/1`), in `git log` as `Kind: check` commits, and month by month in [checks/](checks/).
 
-**Last check:** 2026-11-26 05:31 UTC, Government Gazette: Acts and Legal Notices (as listed on legislation.mt): 9 addresses read; 0 added, 3 changed, 0 removed; changes found; 23 not published, 0 of them with no reason. Flags: `audit-disagrees`.
+**Last check:** 2026-11-27 05:24 UTC, Government Gazette: Acts and Legal Notices (as listed on legislation.mt): 6 addresses read; 0 added, 2 changed, 0 removed; changes found; 21 not published, 0 of them with no reason.
 
 ## Sources
 
 | Source | Folders | How often | Last successful check | Last result | State |
 | --- | --- | --- | --- | --- | --- |
-| [legislation.mt: Laws of Malta (Chapters and subsidiary legislation)](https://legislation.mt/Legislation) | `cap/`, `sl/`, `laws.csv` | daily | 2026-11-26 05:30 UTC | changes found | watched: the English consolidated versions are compared, as this repository holds the English text |
-| [Government Gazette: Acts and Legal Notices (as listed on legislation.mt)](https://legislation.mt/eli/eli-update-feed.atom) | `cap/`, `sl/` | daily | 2026-11-26 05:31 UTC | changes found | watched: the Gazette's own site (gov.mt) answers automated readers with a browser challenge, so its Acts and Legal Notices are read on legislation.mt; their changes reach this repository through legislation.mt's consolidated versions |
+| [legislation.mt: Laws of Malta (Chapters and subsidiary legislation)](https://legislation.mt/Legislation) | `cap/`, `sl/`, `laws.csv` | daily | 2026-11-27 05:24 UTC | changes found | watched: the English consolidated versions are compared, as this repository holds the English text |
+| [Government Gazette: Acts and Legal Notices (as listed on legislation.mt)](https://legislation.mt/eli/eli-update-feed.atom) | `cap/`, `sl/` | daily | 2026-11-27 05:24 UTC | changes found | watched: the Gazette's own site (gov.mt) answers automated readers with a browser challenge, so its Acts and Legal Notices are read on legislation.mt; their changes reach this repository through legislation.mt's consolidated versions |
 
 ## The last 30 days
 
 | Started (UTC) | Source | Read | Added | Changed | Removed | Not published (no reason) | Result | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-27 05:24](checks/2026-11.md#mt-gazette-20261127t052425z) | gazette | 6 | 0 | 2 | 0 | 21 (0) | changes found | — |
+| [2026-11-27 05:04](checks/2026-11.md#mt-legislation-mt-20261127t050436z) | legislation-mt | 736 | 0 | 2 | 0 | 39 (0) | changes found `audit-disagrees` | [3](https://github.com/lexifina/malta-law/compare/66cdde84d4d3...4e697d58c954) |
 | [2026-11-26 05:30](checks/2026-11.md#mt-gazette-20261126t053054z) | gazette | 9 | 0 | 3 | 0 | 23 (0) | changes found `audit-disagrees` | — |
 | [2026-11-26 05:10](checks/2026-11.md#mt-legislation-mt-20261126t051013z) | legislation-mt | 743 | 0 | 4 | 0 | 39 (0) | changes found `audit-disagrees` | [4](https://github.com/lexifina/malta-law/compare/e13476ca3660...8af0d6bd6cc1) |
 | [2026-11-25 05:27](checks/2026-11.md#mt-gazette-20261125t052755z) | gazette | 5 | 0 | 0 | 0 | 26 (0) | no change `audit-disagrees` | — |
